@@ -89,9 +89,9 @@ export function render(lang, t, year, products, scope, otherLanguage, system = n
   <title>${escape(title)}</title>
   <link rel="canonical" href="${escape(contact.website+pageRoute(lang))}">
   <script type="application/ld+json">${JSON.stringify(schema).replaceAll('<','\\u003c')}</script>
-  <link rel="alternate" hreflang="ru" href="${pageRoute('ru')}">
-  <link rel="alternate" hreflang="en" href="${pageRoute('en')}">
-  <link rel="alternate" hreflang="x-default" href="${pageRoute('ru')}">
+  <link rel="alternate" hreflang="ru" href="${escape(contact.website+pageRoute('ru'))}">
+  <link rel="alternate" hreflang="en" href="${escape(contact.website+pageRoute('en'))}">
+  <link rel="alternate" hreflang="x-default" href="${escape(contact.website+pageRoute('ru'))}">
   <link rel="icon" href="/assets/favicon.png">
   <link rel="stylesheet" href="/styles.css">
   <link rel="stylesheet" href="/homepage.css">
@@ -150,7 +150,7 @@ ${pageScript ? `  <script type="module" src="${pageScript}"></script>\n` : ''}  
         </div>
         <div class="footer-social">
           <ul class="social-links" aria-label="${escape(t.socials)}">
-            ${Object.entries(socialLinks).map(([key, href]) => `<li>${href?`<a href="${escape(href)}" aria-label="${escape(t.platforms[key])}">${icon(key)}</a>`:`<span class="social-placeholder" aria-label="${escape(t.platforms[key]+' · '+t.info.socialPending)}" title="${escape(t.info.socialPending)}">${icon(key)}</span>`}</li>`).join('')}
+            ${Object.entries(socialLinks).map(([key, href]) => `<li>${href?`<a href="${escape(href)}" aria-label="${escape(t.platforms[key])}">${icon(key)}</a>`:`<span class="social-placeholder" role="img" aria-label="${escape(t.platforms[key]+' · '+t.info.socialPending)}" title="${escape(t.info.socialPending)}">${icon(key)}</span>`}</li>`).join('')}
           </ul>
         </div>
       </div>
