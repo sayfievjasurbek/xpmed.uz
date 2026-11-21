@@ -1,6 +1,7 @@
 import {brandName} from './i18n/discovery.mjs';
 import {discovery} from './i18n/discovery.mjs';
 import { catalogRoute, homeRoute } from './navigation.mjs';
+import { pageSize } from './catalog-engine.js';
 import { escape } from './html.mjs';
 import { icon } from './icons.mjs';
 import { brandMedia } from './brand-media.mjs';
@@ -35,6 +36,17 @@ export function catalogHeading(scope, t) {
   if (scope === 'all') return t.catalog.title;
   if (scope === 'new') return t.catalog.newTitle;
   return t.labels[scope]||brandName(scope);
+}
+
+// A subcategory label alone repeats across areas: "Инструменты" is the name of
+// four different pages. Document titles and meta descriptions qualify it with
+// its area, while the on-page heading stays short because the breadcrumb
+// already carries the context.
+export function catalogDocumentTitle(scope, t) {
+  const taxonomy = parseTaxonomyScope(scope);
+  if (!taxonomy?.subcategory) return catalogHeading(scope, t);
+  const lang = t.home === 'Home' ? 'en' : 'ru';
+  return `${taxonomyLabel(lang, taxonomy.subcategory)} — ${taxonomyLabel(lang, taxonomy.area)}`;
 }
 
 export function catalogDescription(scope, t) {
@@ -98,7 +110,7 @@ export function renderCatalog(lang, t, scope, products, otherLanguage) {
       name="${key}" value="${escape(value)}"><span>${escape(labels[value] ?? value)}</span><small data-facet-count>${values.filter(v=>v===value).length}</small></label>`).join('')}
   </fieldset>`).join('');
 
-  const tiles=renderCatalogTileArray(lang,t,scopedProducts,otherLanguage).slice(0,24).join('');
+  const tiles=renderCatalogTileArray(lang,t,scopedProducts,otherLanguage).slice(0,pageSize).join('');
   const brandAreaGroups=brandPage?[...new Set(scopedProducts.map(p=>p.area))].map(area=>{
     const members=scopedProducts.filter(p=>p.area===area);
     return `<details class="brand-area-group"><summary><span>${escape(taxonomyLabel(lang,area))}</span><small>${escape(copy.categoryCount(members.length))}</small></summary><ul>${members.map(product=>`<li><a href="${escape(product.documents.find(d=>d.type==='product-page')[lang])}">${escape(product['name_'+lang])}</a></li>`).join('')}</ul></details>`;
@@ -151,7 +163,7 @@ export function renderCatalog(lang, t, scope, products, otherLanguage) {
           <label class="catalog-sort"><span class="sr-only">${escape(d.sort)}</span><select id="catalog-sort" aria-label="${escape(d.sort)}"><option value="default">${escape(d.default)}</option><option value="new">${escape(d.new)}</option><option value="alphabet">${escape(d.alphabet)}</option></select></label>
           <button class="button catalog-filter-toggle" type="button" data-open="catalog-filters" aria-haspopup="dialog" aria-controls="catalog-filters">${escape(copy.filters)}</button>
         </div>
-        <div class="catalog-products" id="catalog-products">${tiles}</div>
+        <div class="catalog-products" id="catalog-products"${scopedProducts.length>pageSize?' data-rest-tiles':''}>${tiles}</div>
         <div class="catalog-empty" hidden>
           <p>${escape(copy.empty)}</p>
           <a class="text-link" href="${route}#catalog-results" data-reset-catalog>${escape(copy.reset)}${icon('circleArrow')}</a>

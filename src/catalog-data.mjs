@@ -4,8 +4,11 @@ import {normalizeTaxonomy} from './taxonomy.mjs';
 import {catalogSearchText} from './catalog-engine.js';
 import {classifySystem} from './clinical-taxonomy.mjs';
 import {readdir,readFile} from 'node:fs/promises';
+// Two migrated records carry a display label where later imports carry a
+// brand slug. Catalog scopes are URLs, so the slug wins.
+const listingBrandAliases={'BIOTECHNI S.A.S.':'biotechni'};
 import path from 'node:path';
-export function normalizeSystem(s){return normalizeTaxonomy({category:'unclassified',subcategory:'',specialty:[],shortDescription:{ru:'',en:''},description:{ru:'',en:''},heroImage:'',imageType:'cutout',gallery:[],variants:[],features:[],hotspots:[],components:[],specTables:[],referenceTables:[],refCodes:[],sourcePdf:null,sourcePages:[],catalogEdition:null,isNew:false,status:'draft',...s});}
+export function normalizeSystem(s){return normalizeTaxonomy({category:'unclassified',subcategory:'',specialty:[],shortDescription:{ru:'',en:''},description:{ru:'',en:''},heroImage:'',imageType:'cutout',gallery:[],variants:[],features:[],hotspots:[],components:[],specTables:[],referenceTables:[],refCodes:[],previousSlugs:[],sourcePdf:null,sourcePages:[],catalogEdition:null,isNew:false,status:'draft',...s});}
 export function validateSystem(s){
  const errors=[];
  if(!s||typeof s!=='object'||Array.isArray(s))return ['System must be an object'];
@@ -16,7 +19,9 @@ export function validateSystem(s){
  for(const k of ['name','shortDescription','description'])bilingual(s[k],k);
  if(!['draft','published'].includes(s.status))errors.push('Invalid status');
  if(!['cutout','scene'].includes(s.imageType))errors.push('Invalid imageType');
- for(const k of ['specialty','gallery','features','components','specTables','refCodes','sourcePages'])if(!Array.isArray(s[k]))errors.push(k+' must be an array');
+ for(const k of ['specialty','gallery','features','components','specTables','refCodes','sourcePages','previousSlugs'])if(!Array.isArray(s[k]))errors.push(k+' must be an array');
+ // A renamed system keeps its old slugs so the build can 301 the old URLs.
+ for(const previous of Array.isArray(s.previousSlugs)?s.previousSlugs:[])if(typeof previous!=='string'||!/^[a-z0-9][a-z0-9-]*$/.test(previous)||previous===s.slug)errors.push('Unsafe or duplicate previousSlugs entry');
  if(s.variants!==undefined&&!Array.isArray(s.variants))errors.push('variants must be an array');
  const table=(t)=>{if(!t||!Array.isArray(t.columns)||!Array.isArray(t.rows))errors.push('Table columns/rows must be arrays');else {let valid=true;for(const r of t.rows)if(!Array.isArray(r)||(t.columns.length>0&&r.length!==t.columns.length)){errors.push('Table row width mismatch');valid=false;}if(valid)errors.push(...validateTableSpans(t));if(t.headerRows){if(!Array.isArray(t.headerRows)||t.headerRows.some(r=>!Array.isArray(r)||r.length!==t.columns.length))errors.push('Table header width mismatch');else errors.push(...validateTableSpans({...t,rows:t.headerRows}));}}};
  const arrays=(a)=>Array.isArray(a)?a:[];
@@ -39,7 +44,7 @@ export async function loadSystems(root='content/products'){
  }}return result;
 }
 export function systemRoute(s,lang='ru'){return (lang==='en'?'/en':'')+'/catalog/'+s.brand+'/'+s.slug+'/';}
-export function listing(s){const taxonomy=classifySystem(s);return {id:s.legacyId||s.slug,listingBrand:s.brand==='double-medical'?'double':s.legacyBrand||s.brand,imageDimensions:s.imageDimensions?.[s.heroImage]?{[s.heroImage]:s.imageDimensions[s.heroImage]}:{},searchText:catalogSearchText(s),slug:s.slug,brand:s.brand,category:s.category,subcategory:s.subcategory,subcategories:s.subcategories||[s.subcategory].filter(Boolean),area:taxonomy.area,taxonomySubcategory:taxonomy.subcategory,productType:taxonomy.type,specialty:s.specialty,name:s.name,shortDescription:s.shortDescription,heroImage:s.heroImage,imageType:s.imageType,isNew:s.isNew,publishedAt:s.publishedAt||s.review?.publishedAt||null,refCodes:[...new Set([...s.refCodes,...s.components.flatMap(c=>c.refCodes||[])])],url:systemRoute(s),url_en:systemRoute(s,'en')};}
+export function listing(s){const taxonomy=classifySystem(s);return {id:s.legacyId||s.slug,listingBrand:s.brand==='double-medical'?'double':listingBrandAliases[s.legacyBrand]||s.legacyBrand||s.brand,imageDimensions:s.imageDimensions?.[s.heroImage]?{[s.heroImage]:s.imageDimensions[s.heroImage]}:{},searchText:catalogSearchText(s),slug:s.slug,brand:s.brand,category:s.category,subcategory:s.subcategory,subcategories:s.subcategories||[s.subcategory].filter(Boolean),area:taxonomy.area,taxonomySubcategory:taxonomy.subcategory,productType:taxonomy.type,specialty:s.specialty,name:s.name,shortDescription:s.shortDescription,heroImage:s.heroImage,imageType:s.imageType,isNew:s.isNew,publishedAt:s.publishedAt||s.review?.publishedAt||null,refCodes:[...new Set([...s.refCodes,...s.components.flatMap(c=>c.refCodes||[])])],url:systemRoute(s),url_en:systemRoute(s,'en')};}
 export function legacyListing(s){return {id:s.legacyId||s.id||s.slug,slug:s.slug,imageDimensions:s.imageDimensions||{},refCodes:s.refCodes||[],searchText:s.searchText||'',brand:s.listingBrand||(s.brand==='double-medical'?'double':s.legacyBrand||s.brand),category:s.category,subcategory:s.subcategory,subcategories:s.subcategories||[s.subcategory].filter(Boolean),area:s.area,taxonomySubcategory:s.taxonomySubcategory,productType:s.productType,specialty:s.specialty,name_ru:s.name.ru,name_en:s.name.en,tagline_ru:s.shortDescription.ru,tagline_en:s.shortDescription.en,description_ru:(s.description||s.shortDescription).ru,description_en:(s.description||s.shortDescription).en,image:s.heroImage,imageType:s.imageType,gallery:s.gallery||[],features:s.features||[],specs:{},documents:[{type:'product-page',ru:systemRoute(s),en:systemRoute(s,'en')}],video:null,isNew:s.isNew,publishedAt:s.publishedAt||null};}
 
 export async function prepareSystem(system, systems = []) {

@@ -5,7 +5,7 @@ export const catalogSlugs = {
   conmed: 'conmed/',
   synimed: 'synimed/',
   new: 'new/',
-  'BIOTECHNI S.A.S.': 'biotechni/',
+  biotechni: 'biotechni/',
   'ge-healthcare': 'ge-healthcare/',
 };
 
@@ -76,5 +76,5 @@ export const socialLinks = {
   youtube: 'https://www.youtube.com/watch?v=E3vn7Gq2PFI',
 };
 
-export function brandCatalogRoute(lang,brand){if(['unassigned','unspecified'].includes(brand))return catalogRoute(lang);const key=brand==='double-medical'?'double':brand==='biotechni'?'BIOTECHNI S.A.S.':brand;return Object.hasOwn(catalogSlugs,key)?catalogRoute(lang,key):homeRoute(lang)+'catalog/'+encodeURIComponent(brand)+'/';}
+export function brandCatalogRoute(lang,brand){if(['unassigned','unspecified'].includes(brand))return catalogRoute(lang);const key=brand==='double-medical'?'double':brand;return Object.hasOwn(catalogSlugs,key)?catalogRoute(lang,key):homeRoute(lang)+'catalog/'+encodeURIComponent(brand)+'/';}
 import {areaKeys,areaRoute,parseTaxonomyScope} from './clinical-taxonomy.mjs';

@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "build": "node build.mjs",
+    "pretest": "node build.mjs",
     "test": "node scripts/test-all.mjs",
     "test:js": "node --test tests/*.test.mjs",
     "test:python": "python3 -m unittest discover -s tests -p \"test_*.py\" -v"

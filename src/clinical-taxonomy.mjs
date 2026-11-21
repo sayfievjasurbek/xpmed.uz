@@ -1,3 +1,5 @@
+import {legacyCategoryAreas} from './catalog-engine.js';
+export {legacyCategoryAreas};
 export const productTypes=['implants','instruments','equipment'];
 
 export const clinicalAreas={
@@ -114,17 +116,31 @@ function poweredSubcategory(s){
   return'powered-accessories';
 }
 
+// One migrated Synimed record is a vertebroplasty puncture cannula filed under
+// the generic 'spine' category. Everything else with that category belongs to
+// the Spine area, so this single record carries its own mapping rather than
+// bending 'spine' towards bone cements for every future import.
+export const systemOverrides={
+  'synimed/synicem-vertebroplasty-cannula':{area:'bone-cements',subcategory:'cement-instruments',type:'instruments'},
+};
+
+// The area always comes from legacyCategoryAreas; only the subcategory and the
+// product type are decided here.
 export function classifySystem(s){
-  const c=s.category;
-  if(['joint-replacement','arthroplasty-instrument-sets'].includes(c))return{area:'joint-replacement',subcategory:c==='arthroplasty-instrument-sets'?'instruments':(['hip','knee','shoulder','radius'].includes(originalSub(s))?originalSub(s):'hip'),type:c==='arthroplasty-instrument-sets'?'instruments':'implants'};
-  if(['trauma-implants','trauma-instrument-sets'].includes(c))return{area:'trauma',subcategory:traumaSubcategory(s),type:c==='trauma-instrument-sets'?'instruments':'implants'};
-  if(['spine-implants','spine-instrument-sets','endoscopic-spine-surgery'].includes(c))return{area:'spine',subcategory:spineSubcategory(s),type:c==='spine-implants'?'implants':'instruments'};
-  if(['sports-medicine','sports-instrument-sets','arthroscopy','shoulder-arthroscopy','knee-arthroscopy','hip-arthroscopy','small-joint-arthroscopy','arthroscopy-resection','arthroscopy-fluid-management','arthroscopy-electrosurgery','arthroscopy-manual-instruments'].includes(c))return{area:'sports-arthroscopy',subcategory:sportsSubcategory(s),type:['sports-medicine','arthroscopy','shoulder-arthroscopy','knee-arthroscopy','hip-arthroscopy','small-joint-arthroscopy'].includes(c)?'implants':['arthroscopy-fluid-management','arthroscopy-electrosurgery','arthroscopy-resection'].includes(c)?'equipment':'instruments'};
-  if(['endoscopy-visualization','imaging'].includes(c))return{area:'endoscopy-visualization',subcategory:visualizationSubcategory(s),type:'equipment'};
-  if(['access-insufflation','laparoscopic-instruments','smoke-evacuation','electrosurgery'].includes(c))return{area:'general-surgery',subcategory:c,type:c==='laparoscopic-instruments'?'instruments':'equipment'};
-  if(c==='hall-powered-instruments')return{area:'powered-instruments',subcategory:poweredSubcategory(s),type:/blade|bur|saw|rasp|attachment/i.test(textOf(s))?'instruments':'equipment'};
-  if(['bone-cements','spine'].includes(c))return{area:'bone-cements',subcategory:c==='bone-cements'?'cements':'cement-instruments',type:c==='bone-cements'?'implants':'instruments'};
-  return{area:'',subcategory:'',type:''};
+  const override=systemOverrides[s.brand+'/'+s.slug];
+  if(override)return{...override};
+  const c=s.category,area=legacyCategoryAreas[c]||'';
+  switch(area){
+    case 'joint-replacement':return{area,subcategory:c==='arthroplasty-instrument-sets'?'instruments':(['hip','knee','shoulder','radius'].includes(originalSub(s))?originalSub(s):'hip'),type:c==='arthroplasty-instrument-sets'?'instruments':'implants'};
+    case 'trauma':return{area,subcategory:traumaSubcategory(s),type:c==='trauma-instrument-sets'?'instruments':'implants'};
+    case 'spine':return{area,subcategory:spineSubcategory(s),type:['spine-implants','spine'].includes(c)?'implants':'instruments'};
+    case 'sports-arthroscopy':return{area,subcategory:sportsSubcategory(s),type:['sports-medicine','arthroscopy','shoulder-arthroscopy','knee-arthroscopy','hip-arthroscopy','small-joint-arthroscopy'].includes(c)?'implants':['arthroscopy-fluid-management','arthroscopy-electrosurgery','arthroscopy-resection'].includes(c)?'equipment':'instruments'};
+    case 'endoscopy-visualization':return{area,subcategory:visualizationSubcategory(s),type:'equipment'};
+    case 'general-surgery':return{area,subcategory:c,type:c==='laparoscopic-instruments'?'instruments':'equipment'};
+    case 'powered-instruments':return{area,subcategory:poweredSubcategory(s),type:/blade|bur|saw|rasp|attachment/i.test(textOf(s))?'instruments':'equipment'};
+    case 'bone-cements':return{area,subcategory:c==='bone-cements'?'cements':'cement-instruments',type:c==='bone-cements'?'implants':'instruments'};
+    default:return{area:'',subcategory:'',type:''};
+  }
 }
 
 export const areaKeys=Object.keys(clinicalAreas);

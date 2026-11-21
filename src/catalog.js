@@ -51,7 +51,8 @@ function restoreFilters() {
   sort.value=['new','alphabet'].includes(query.get('sort'))?query.get('sort'):'default';
   for(const value of query.getAll('specialty'))if(['knee','shoulder'].includes(value)){query.append('subcategory',value);query.delete('specialty',value);}
   for(const value of query.getAll('category')){if(legacyCategoryAreas[value])query.append('area',legacyCategoryAreas[value]);query.delete('category',value);}
-  if (query.getAll('brand').includes('biotechni')) query.append('brand', 'BIOTECHNI S.A.S.');
+  // Brand facets are slugs now; older links carried the display label.
+  if (query.getAll('brand').includes('BIOTECHNI S.A.S.')) { query.delete('brand', 'BIOTECHNI S.A.S.'); query.append('brand', 'biotechni'); }
   for (const input of checkboxes) {
     input.checked = query.getAll(input.name).includes(input.value);
   }
@@ -131,10 +132,14 @@ dialog.querySelector('[data-show-catalog]').addEventListener('click', () => {
   focusResults();
 });
 placeFilters();
-fetch('catalog-products.html').then(response=>{
-  if(!response.ok)throw Error('Catalog tiles could not be loaded');
-  return response.text();
-}).then(html=>{
+// Scopes with no more than one page of products have no rest-of-tiles file.
+(grid.hasAttribute('data-rest-tiles')
+  ? fetch('catalog-products.html').then(response=>{
+      if(!response.ok)throw Error('Catalog tiles could not be loaded');
+      return response.text();
+    })
+  : Promise.resolve('')
+).then(html=>{
   if(html){const template=document.createElement('template');template.innerHTML=html;grid.append(template.content);}
   tiles=collectTiles();
   restoreFilters();

@@ -1,9 +1,14 @@
 // Shared pure catalog operations. The browser and scale tests use the same logic.
 export const facetGroups = ['area', 'subcategory', 'brand', 'type', 'specialty'];
+// The single category -> clinical area mapping. classifySystem() in
+// clinical-taxonomy.mjs derives every system's area from this map, and
+// build.mjs derives the /catalog/?category=... redirects from it, so a new
+// category only ever has to be added here. It lives in this browser-safe
+// module because src/catalog.js upgrades old ?category= links at runtime.
 export const legacyCategoryAreas={
   'joint-replacement':'joint-replacement','arthroplasty-instrument-sets':'joint-replacement','trauma-implants':'trauma','trauma-instrument-sets':'trauma','spine-implants':'spine','spine-instrument-sets':'spine','endoscopic-spine-surgery':'spine',
   'sports-medicine':'sports-arthroscopy','sports-instrument-sets':'sports-arthroscopy',arthroscopy:'sports-arthroscopy','shoulder-arthroscopy':'sports-arthroscopy','knee-arthroscopy':'sports-arthroscopy','hip-arthroscopy':'sports-arthroscopy','small-joint-arthroscopy':'sports-arthroscopy','arthroscopy-resection':'sports-arthroscopy','arthroscopy-fluid-management':'sports-arthroscopy','arthroscopy-electrosurgery':'sports-arthroscopy','arthroscopy-manual-instruments':'sports-arthroscopy',
-  'endoscopy-visualization':'endoscopy-visualization',imaging:'endoscopy-visualization','access-insufflation':'general-surgery','laparoscopic-instruments':'general-surgery','smoke-evacuation':'general-surgery',electrosurgery:'general-surgery','hall-powered-instruments':'powered-instruments','bone-cements':'bone-cements',spine:'bone-cements',
+  'endoscopy-visualization':'endoscopy-visualization',imaging:'endoscopy-visualization','access-insufflation':'general-surgery','laparoscopic-instruments':'general-surgery','smoke-evacuation':'general-surgery',electrosurgery:'general-surgery','hall-powered-instruments':'powered-instruments','bone-cements':'bone-cements',spine:'spine',
 };
 export const pageSize = 24;
 export const normalize = value => String(value || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replaceAll('ё', 'е');

@@ -31,7 +31,11 @@ if (translationKeys(ru).join('\n') !== translationKeys(en).join('\n')) {
 const systems = (await loadSystems()).filter(s => s.status === 'published').map(publicProductContent);
 const index = systems.map(listing);
 const products = index.map(legacyListing);
-for(const item of index)if(!['unassigned','unspecified'].includes(item.brand)&&!Object.hasOwn(catalogSlugs,item.listingBrand))catalogSlugs[item.listingBrand]=item.brand+'/';
+// catalogSlugs is shared with the page renderer, and catalogRoute() reads it,
+// so it must not be mutated here. A new brand is a deliberate one-line edit in
+// src/navigation.mjs; until then the build stops rather than emitting /catalog/undefined/.
+for(const item of index)if(!['unassigned','unspecified'].includes(item.brand)&&!Object.hasOwn(catalogSlugs,item.listingBrand))
+ throw new Error(`Brand "${item.listingBrand}" has no catalog scope. Add it to catalogSlugs in src/navigation.mjs.`);
 // Recreate generated output so unpublishing cannot leave stale detail pages or assets.
 await rm(output, { recursive: true, force: true });
 await mkdir(output, { recursive: true });
@@ -74,9 +78,12 @@ const pages = Object.entries(translations).flatMap(([lang, t]) => {
     const directory = new URL('.' + route, output);
     await mkdir(directory, { recursive: true });
     await writeFile(new URL('index.html', directory), render(lang, t, year, products, scope, otherLanguage, null, discovery));
-    if(scope && !['library','about-page','contacts-page','not-found'].includes(scope)){
+    // Only catalog listings have a tile grid, and only those with more than one
+    // page of products need the rest of the tiles as a separate fragment.
+    if(scope && !['library','about-page','contacts-page','brands-page','not-found'].includes(scope)){
       const scoped=products.filter(product=>filterScope(scope,product));
-      await writeFile(new URL('catalog-products.html',directory),renderCatalogTileArray(lang,t,scoped,otherLanguage).slice(24).join(''));
+      const rest=renderCatalogTileArray(lang,t,scoped,otherLanguage).slice(24);
+      if(rest.length)await writeFile(new URL('catalog-products.html',directory),rest.join(''));
     }
   });
 });
@@ -132,6 +139,9 @@ for(const system of systems)for(const source of system.legacySources||[]){
  if(!source.url)continue;
  try { const old=new URL(source.url); if(old.hostname==='xpmed.uz'||old.hostname==='www.xpmed.uz') oldRoutes.set(old.pathname,systemRoute(system,source.language==='en'?'en':'ru')); } catch {}
 }
+// A renamed system keeps its old URL working in both languages.
+for(const system of systems)for(const previous of system.previousSlugs||[])for(const lang of ['ru','en'])
+ oldRoutes.set((lang==='en'?'/en':'')+'/catalog/'+system.brand+'/'+previous+'/',systemRoute(system,lang));
 for(const [legacy,area] of Object.entries(legacyCategoryAreas)){
  oldRoutes.set('/catalog/?category='+legacy,'/catalog/'+area+'/');
  oldRoutes.set('/en/catalog/?category='+legacy,'/en/catalog/'+area+'/');
