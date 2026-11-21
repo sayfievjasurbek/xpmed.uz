@@ -1,3 +1,21 @@
+// Brand wordmarks. Most are white artwork drawn for a dark background, so on a
+// light card they have to be inverted; Spinendos is full colour and must not be.
+// renderBrandMark() is the only place that decides this.
+export const brandMarks = {
+  double: {file: '/assets/home/brand-double.webp', light: true},
+  'double-medical': {file: '/assets/home/brand-double.webp', light: true},
+  conmed: {file: '/assets/home/brand-conmed.webp', light: true},
+  synimed: {file: '/assets/home/brand-synimed.webp', light: true},
+  spinendos: {file: '/assets/home/brand-spinendos.webp', light: false},
+};
+
+// `name` is already escaped by the caller's escape() when it reaches the alt.
+export function renderBrandMark(brand, name, escape) {
+  const mark = brandMarks[brand];
+  if (!mark) return `<strong>${escape(name)}</strong>`;
+  return `<img src="${mark.file}"${mark.light ? ' class="is-light-mark"' : ''} alt="${escape(name)}" loading="lazy" decoding="async">`;
+}
+
 export const brandMedia = {
   spinendos: {website: 'https://spinendos.com/', images: [], descriptionSource: 'https://en.spinendos.com.cn/about.html'},
   double: {

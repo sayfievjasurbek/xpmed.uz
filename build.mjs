@@ -1,4 +1,5 @@
 import {buildDiscovery} from './src/discovery-data.mjs';
+import {loadAboutData, clientLogo, certificateThumb, certificateDocument} from './src/about-sections.mjs';
 import {publicProductContent} from './src/public-product-content.mjs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -67,6 +68,8 @@ const year = new Date().getUTCFullYear();
 const translations = { ru, en };
 
 const discovery = await buildDiscovery(systems, translations);
+const about = await loadAboutData();
+const siteData = {...discovery, ...about};
 await writeFile(new URL('catalog-library-index.json', output), JSON.stringify(discovery.catalogs));
 await writeFile(new URL('search-index.json', output), JSON.stringify(discovery.search));
 
@@ -77,7 +80,7 @@ const pages = Object.entries(translations).flatMap(([lang, t]) => {
     const route = scope === 'about-page' ? homeRoute(lang)+'about/' : scope === 'contacts-page' ? homeRoute(lang)+'contacts/' : scope === 'brands-page' ? homeRoute(lang)+'brands/' : scope === 'not-found' ? homeRoute(lang)+'404/' : scope === 'library' ? homeRoute(lang) + 'catalogs/' : scope ? catalogRoute(lang, scope) : homeRoute(lang);
     const directory = new URL('.' + route, output);
     await mkdir(directory, { recursive: true });
-    await writeFile(new URL('index.html', directory), render(lang, t, year, products, scope, otherLanguage, null, discovery));
+    await writeFile(new URL('index.html', directory), render(lang, t, year, products, scope, otherLanguage, null, siteData));
     // Only catalog listings have a tile grid, and only those with more than one
     // page of products need the rest of the tiles as a separate fragment.
     if(scope && !['library','about-page','contacts-page','brands-page','not-found'].includes(scope)){
@@ -96,6 +99,12 @@ await Promise.all([
   cp(new URL('assets/', source), new URL('assets/', output), { recursive: true }),
 ]);
 
+for(const asset of [...about.clients.map(c=>clientLogo(c.id)),...about.certificates.flatMap(c=>[certificateThumb(c.id),certificateDocument(c.id)])]){
+  const target=new URL('.'+asset,output);
+  await mkdir(new URL('.',target),{recursive:true});
+  await copyFile(path.resolve('public','.'+asset),target);
+}
+
 const copiedSystemAssets = new Set();
 for (const system of systems) {
   await prepareSystem(system, systems);
@@ -104,7 +113,7 @@ for (const system of systems) {
     const alternate = lang === 'ru' ? 'en' : 'ru';
     const directory = new URL('.' + systemRoute(system, lang), output);
     await mkdir(directory, { recursive: true });
-    await writeFile(new URL('index.html', directory), render(lang, t, year, products, null, { lang: alternate, t: translations[alternate] }, system, discovery));
+    await writeFile(new URL('index.html', directory), render(lang, t, year, products, null, { lang: alternate, t: translations[alternate] }, system, siteData));
   }
   // Only assets referenced by published systems are copied. Draft PDFs and page scans stay local.
   const assets = new Set();

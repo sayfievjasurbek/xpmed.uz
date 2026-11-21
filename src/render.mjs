@@ -121,7 +121,7 @@ ${pageScript ? `  <script type="module" src="${pageScript}"></script>\n` : ''}  
   </header>
 
   <main id="main" class="${scope ? 'catalog-page' : 'homepage'}" tabindex="-1">
-    ${system ? renderSystem(system, lang) : infoPage ? renderInfoPage(lang,t,products,scope) : library ? renderLibrary(lang,t,siteData.catalogs||[]) : scope ? renderCatalog(lang, t, scope, products, otherLanguage) : renderHomepage(lang, t, products)}
+    ${system ? renderSystem(system, lang) : infoPage ? renderInfoPage(lang,t,products,scope,siteData) : library ? renderLibrary(lang,t,siteData.catalogs||[]) : scope ? renderCatalog(lang, t, scope, products, otherLanguage) : renderHomepage(lang, t, products)}
   </main>
 
   <footer class="site-footer">
