@@ -1,0 +1,95 @@
+{
+  "id": 190,
+  "bounds": [
+    0.5030326746233614,
+    0.40245604242255095,
+    0.5840344355312072,
+    0.41752721183365893
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "UHD1044XL",
+      "confidence": 86.473038,
+      "words": [
+        {
+          "text": "UHD1044XL",
+          "confidence": 86.473038,
+          "pixelBounds": [
+            2580,
+            2908,
+            2895,
+            2966
+          ],
+          "lineId": "10.3.12",
+          "bounds": [
+            0.5047935824691842,
+            0.40580519118057495,
+            0.5664253570729798,
+            0.4138989673457996
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "UHD1044XL",
+      "confidence": 20.431366,
+      "words": [
+        {
+          "text": "UHD1044XL",
+          "confidence": 20.431366,
+          "pixelBounds": [
+            2580,
+            2908,
+            2895,
+            2966
+          ],
+          "lineId": "46.1.1",
+          "bounds": [
+            0.5047935824691842,
+            0.40580519118057495,
+            0.5664253570729798,
+            0.4138989673457996
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "UHD1044XL",
+      "confidence": 20.431366,
+      "words": [
+        {
+          "text": "UHD1044XL",
+          "confidence": 20.431366,
+          "pixelBounds": [
+            9,
+            24,
+            324,
+            82
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "UHD1044XL",
+      "confidence": 65.574852,
+      "words": [
+        {
+          "text": "UHD1044XL",
+          "confidence": 65.574852,
+          "pixelBounds": [
+            9,
+            24,
+            324,
+            82
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

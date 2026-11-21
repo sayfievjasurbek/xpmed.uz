@@ -1,0 +1,899 @@
+[
+  {
+    "alternatives" : [
+      "XPmed"
+    ],
+    "bounds" : [
+      0.12201905015704526,
+      0.053242244245061632,
+      0.23846974588991535,
+      0.074664732593886285
+    ],
+    "confidence" : 1,
+    "text" : "XPmed"
+  },
+  {
+    "alternatives" : [
+      "CCONMED"
+    ],
+    "bounds" : [
+      0.29735233849479342,
+      0.046511628617722289,
+      0.49287169164777284,
+      0.075581394783440503
+    ],
+    "confidence" : 1,
+    "text" : "CCONMED"
+  },
+  {
+    "alternatives" : [
+      "Small Joint Instrument"
+    ],
+    "bounds" : [
+      0.5723014263747479,
+      0.021802325641736342,
+      0.88798370095043888,
+      0.043650793249083053
+    ],
+    "confidence" : 1,
+    "text" : "Small Joint Instrument"
+  },
+  {
+    "alternatives" : [
+      "Sets and Case"
+    ],
+    "bounds" : [
+      0.57230143006380352,
+      0.052325581830444556,
+      0.77596740613055204,
+      0.072674418335668345
+    ],
+    "confidence" : 1,
+    "text" : "Sets and Case"
+  },
+  {
+    "alternatives" : [
+      "For Shutt® Line Of Manual Instruments"
+    ],
+    "bounds" : [
+      0.57026476600882214,
+      0.084302325262860078,
+      0.94093687258588232,
+      0.10029069788394218
+    ],
+    "confidence" : 1,
+    "text" : "For Shutt® Line Of Manual Instruments"
+  },
+  {
+    "alternatives" : [
+      "Suggested Instruments For Master Small Joint Set*"
+    ],
+    "bounds" : [
+      0.097759676657620559,
+      0.14384920633770482,
+      0.50101831733423297,
+      0.15699404760754609
+    ],
+    "confidence" : 1,
+    "text" : "Suggested Instruments For Master Small Joint Set*"
+  },
+  {
+    "alternatives" : [
+      "(Includes basic small joint set and the following additions)"
+    ],
+    "bounds" : [
+      0.099796336880291658,
+      0.16269841272393881,
+      0.43584521118488134,
+      0.17441860458867908
+    ],
+    "confidence" : 1,
+    "text" : "(Includes basic small joint set and the following additions)"
+  },
+  {
+    "alternatives" : [
+      "2.75mm dia., 65mm"
+    ],
+    "bounds" : [
+      0.099796336030324714,
+      0.19469246037479937,
+      0.21588594599615185,
+      0.20639534891655076
+    ],
+    "confidence" : 1,
+    "text" : "2.75mm dia., 65mm"
+  },
+  {
+    "alternatives" : [
+      "SST Blunt Tip Forceps, 15° Down.."
+    ],
+    "bounds" : [
+      0.099796343399303086,
+      0.21220930252582582,
+      0.28309571973715297,
+      0.22247023786643472
+    ],
+    "confidence" : 1,
+    "text" : "SST Blunt Tip Forceps, 15° Down.."
+  },
+  {
+    "alternatives" : [
+      "45° Forceps, Blunt Tip, Right."
+    ],
+    "bounds" : [
+      0.099796339374465332,
+      0.22965116279856557,
+      0.25458248245852849,
+      0.24131944422128648
+    ],
+    "confidence" : 1,
+    "text" : "45° Forceps, Blunt Tip, Right."
+  },
+  {
+    "alternatives" : [
+      "45° Forceps, Blunt Tip, Left."
+    ],
+    "bounds" : [
+      0.099796335049674056,
+      0.24851190473940199,
+      0.2484725003372914,
+      0.25872093011104424
+    ],
+    "confidence" : 1,
+    "text" : "45° Forceps, Blunt Tip, Left."
+  },
+  {
+    "alternatives" : [
+      "2.75mm dia., 90mm"
+    ],
+    "bounds" : [
+      0.10183299380798783,
+      0.27180232579275154,
+      0.21588594804537267,
+      0.28348214307950026
+    ],
+    "confidence" : 1,
+    "text" : "2.75mm dia., 90mm"
+  },
+  {
+    "alternatives" : [
+      "SST Scoop Tip Forceps, Straight."
+    ],
+    "bounds" : [
+      0.099796338161745574,
+      0.28918650816308888,
+      0.27291242524626508,
+      0.30087209290879879
+    ],
+    "confidence" : 1,
+    "text" : "SST Scoop Tip Forceps, Straight."
+  },
+  {
+    "alternatives" : [
+      "2.4mm dia., 65mm"
+    ],
+    "bounds" : [
+      0.1014672784596581,
+      0.31242397907555741,
+      0.20991694644199033,
+      0.32547698141411829
+    ],
+    "confidence" : 1,
+    "text" : "2.4mm dia., 65mm"
+  },
+  {
+    "alternatives" : [
+      "Banana Blade Knife (4 per Box, Sterile)"
+    ],
+    "bounds" : [
+      0.099796339932679751,
+      0.33134920611395691,
+      0.301425660270986,
+      0.34302325594174454
+    ],
+    "confidence" : 1,
+    "text" : "Banana Blade Knife (4 per Box, Sterile)"
+  },
+  {
+    "alternatives" : [
+      "Retrograde Blade Knife (4 per Box, Sterile)"
+    ],
+    "bounds" : [
+      0.097759680215888323,
+      0.34883720916747762,
+      0.31975560028309319,
+      0.36191860460432468
+    ],
+    "confidence" : 1,
+    "text" : "Retrograde Blade Knife (4 per Box, Sterile)"
+  },
+  {
+    "alternatives" : [
+      "Cat. No."
+    ],
+    "bounds" : [
+      0.52134297821085651,
+      0.18302356435999667,
+      0.56827005758270543,
+      0.19197643556152699
+    ],
+    "confidence" : 1,
+    "text" : "Cat. No."
+  },
+  {
+    "alternatives" : [
+      ". 2.60013"
+    ],
+    "bounds" : [
+      0.51729579669643122,
+      0.21217401129714708,
+      0.56824391715317457,
+      0.22387250044845086
+    ],
+    "confidence" : 1,
+    "text" : ". 2.60013"
+  },
+  {
+    "alternatives" : [
+      ".. 32.60013"
+    ],
+    "bounds" : [
+      0.50704484325897481,
+      0.22939007175057546,
+      0.56831157126356835,
+      0.24008667210448242
+    ],
+    "confidence" : 1,
+    "text" : ".. 32.60013"
+  },
+  {
+    "alternatives" : [
+      "..32.60014"
+    ],
+    "bounds" : [
+      0.5070672814212952,
+      0.24835043089245823,
+      0.57032579603781453,
+      0.25891701080957874
+    ],
+    "confidence" : 1,
+    "text" : "..32.60014"
+  },
+  {
+    "alternatives" : [
+      "2.7004"
+    ],
+    "bounds" : [
+      0.52545824939157648,
+      0.28924418603984459,
+      0.57026476561181783,
+      0.30087209288457406
+    ],
+    "confidence" : 1,
+    "text" : "2.7004"
+  },
+  {
+    "alternatives" : [
+      ".... 9973"
+    ],
+    "bounds" : [
+      0.51731161022560113,
+      0.32986111107205951,
+      0.57026476527629,
+      0.34449404757999602
+    ],
+    "confidence" : 1,
+    "text" : ".... 9973"
+  },
+  {
+    "alternatives" : [
+      "....9974"
+    ],
+    "bounds" : [
+      0.51731160931783271,
+      0.34738372136554718,
+      0.57026476436852158,
+      0.36191860444840629
+    ],
+    "confidence" : 1,
+    "text" : "....9974"
+  },
+  {
+    "alternatives" : [
+      "Suggested Instruments For Basic Small Joint Set"
+    ],
+    "bounds" : [
+      0.099796347334019639,
+      0.39087301606437097,
+      0.48472504401017574,
+      0.40552325542224343
+    ],
+    "confidence" : 1,
+    "text" : "Suggested Instruments For Basic Small Joint Set"
+  },
+  {
+    "alternatives" : [
+      "2.75mm dia., 65mm"
+    ],
+    "bounds" : [
+      0.097759678150828644,
+      0.40988372101704162,
+      0.21588594384509804,
+      0.42296511645388857
+    ],
+    "confidence" : 1,
+    "text" : "2.75mm dia., 65mm"
+  },
+  {
+    "alternatives" : [
+      "Standard Grasper, Straight."
+    ],
+    "bounds" : [
+      0.09979633717770002,
+      0.42877906976077473,
+      0.24236252466887159,
+      0.44047619037051233
+    ],
+    "confidence" : 1,
+    "text" : "Standard Grasper, Straight."
+  },
+  {
+    "alternatives" : [
+      "Mosquito Tip Grasper, Straight...."
+    ],
+    "bounds" : [
+      0.099796340645850773,
+      0.44618055559239311,
+      0.27087576139080904,
+      0.45932539686223439
+    ],
+    "confidence" : 1,
+    "text" : "Mosquito Tip Grasper, Straight...."
+  },
+  {
+    "alternatives" : [
+      "SST Blunt Tip Forceps, Straight..."
+    ],
+    "bounds" : [
+      0.099796339540565868,
+      0.46354166655665441,
+      0.27494908235352766,
+      0.47529069760841125
+    ],
+    "confidence" : 1,
+    "text" : "SST Blunt Tip Forceps, Straight..."
+  },
+  {
+    "alternatives" : [
+      "SST Scoop Tip Forceps, 15° Down"
+    ],
+    "bounds" : [
+      0.099796336003850253,
+      0.48255813976540918,
+      0.28105905661325786,
+      0.4928075397150431
+    ],
+    "confidence" : 1,
+    "text" : "SST Scoop Tip Forceps, 15° Down"
+  },
+  {
+    "alternatives" : [
+      "2.75mm dia., 90mm"
+    ],
+    "bounds" : [
+      0.097759678150828644,
+      0.50570436523218143,
+      0.21588594384509804,
+      0.51889534901202805
+    ],
+    "confidence" : 1,
+    "text" : "2.75mm dia., 90mm"
+  },
+  {
+    "alternatives" : [
+      "Standard Grasper, Straight."
+    ],
+    "bounds" : [
+      0.09979633717770002,
+      0.52325581384892139,
+      0.24236252466887159,
+      0.53645833349279581
+    ],
+    "confidence" : 1,
+    "text" : "Standard Grasper, Straight."
+  },
+  {
+    "alternatives" : [
+      "Mosquito Tip Grasper, Straight.."
+    ],
+    "bounds" : [
+      0.10183299810754795,
+      0.54067460322960936,
+      0.26476578532761813,
+      0.55233134926135541
+    ],
+    "confidence" : 1,
+    "text" : "Mosquito Tip Grasper, Straight.."
+  },
+  {
+    "alternatives" : [
+      "SST Blunt Tip Forceps, Straight ..."
+    ],
+    "bounds" : [
+      0.099796340270368961,
+      0.55952380969105031,
+      0.27494908308333077,
+      0.56976744170867033
+    ],
+    "confidence" : 1,
+    "text" : "SST Blunt Tip Forceps, Straight ..."
+  },
+  {
+    "alternatives" : [
+      "SST Scoop Tip Forceps, 15° Down"
+    ],
+    "bounds" : [
+      0.099796340082261598,
+      0.57703488372879808,
+      0.28105906069166919,
+      0.58866279057352755
+    ],
+    "confidence" : 1,
+    "text" : "SST Scoop Tip Forceps, 15° Down"
+  },
+  {
+    "alternatives" : [
+      "65mm Instruments"
+    ],
+    "bounds" : [
+      0.097759675019800416,
+      0.60168650813886415,
+      0.21181262925718525,
+      0.61337209288457406
+    ],
+    "confidence" : 1,
+    "text" : "65mm Instruments"
+  },
+  {
+    "alternatives" : [
+      "Probe, 70° tip ...."
+    ],
+    "bounds" : [
+      0.099750675253891946,
+      0.61757168688870845,
+      0.18945502698413252,
+      0.63097482441363117
+    ],
+    "confidence" : 1,
+    "text" : "Probe, 70° tip ...."
+  },
+  {
+    "alternatives" : [
+      "Instrument Stabilizer Ball"
+    ],
+    "bounds" : [
+      0.097759677673400547,
+      0.63662790695554217,
+      0.23014256530012278,
+      0.64831349217430478
+    ],
+    "confidence" : 1,
+    "text" : "Instrument Stabilizer Ball"
+  },
+  {
+    "alternatives" : [
+      "Open Curette..."
+    ],
+    "bounds" : [
+      0.097759675903740045,
+      0.65401785693766779,
+      0.17922606951377515,
+      0.66716269820750906
+    ],
+    "confidence" : 1,
+    "text" : "Open Curette..."
+  },
+  {
+    "alternatives" : [
+      "Dissector..."
+    ],
+    "bounds" : [
+      0.10183299667894451,
+      0.67296511647931412,
+      0.16089612952607921,
+      0.68313953473192612
+    ],
+    "confidence" : 1,
+    "text" : "Dissector..."
+  },
+  {
+    "alternatives" : [
+      "90mm Instruments"
+    ],
+    "bounds" : [
+      0.099796333253394917,
+      0.69618055541203927,
+      0.20977596542277624,
+      0.70639534871569543
+    ],
+    "confidence" : 1,
+    "text" : "90mm Instruments"
+  },
+  {
+    "alternatives" : [
+      "Probe, 70° Tip.."
+    ],
+    "bounds" : [
+      0.10172491270540425,
+      0.71324413863296565,
+      0.18748079279330845,
+      0.72570934976707391
+    ],
+    "confidence" : 1,
+    "text" : "Probe, 70° Tip.."
+  },
+  {
+    "alternatives" : [
+      "Open Curette."
+    ],
+    "bounds" : [
+      0.10183299434411142,
+      0.73255813983808349,
+      0.1731160880896972,
+      0.74280753978771741
+    ],
+    "confidence" : 1,
+    "text" : "Open Curette."
+  },
+  {
+    "alternatives" : [
+      "Dissector.."
+    ],
+    "bounds" : [
+      0.10183299511447746,
+      0.75000000028603175,
+      0.15682281119916811,
+      0.75872092994652618
+    ],
+    "confidence" : 1,
+    "text" : "Dissector.."
+  },
+  {
+    "alternatives" : [
+      ". 17.6001"
+    ],
+    "bounds" : [
+      0.51725113695995029,
+      0.42575499568552866,
+      0.57236189857853137,
+      0.44052407393265947
+    ],
+    "confidence" : 1,
+    "text" : ". 17.6001"
+  },
+  {
+    "alternatives" : [
+      ". 17.6004"
+    ],
+    "bounds" : [
+      0.51731160935412446,
+      0.44469246013054997,
+      0.57230142543881513,
+      0.45932539663848648
+    ],
+    "confidence" : 1,
+    "text" : ". 17.6004"
+  },
+  {
+    "alternatives" : [
+      ".. 2.6009"
+    ],
+    "bounds" : [
+      0.517311609406088,
+      0.46354166650720419,
+      0.57026476445677687,
+      0.47674418615107861
+    ],
+    "confidence" : 1,
+    "text" : ".. 2.6009"
+  },
+  {
+    "alternatives" : [
+      ", 2.60015"
+    ],
+    "bounds" : [
+      0.51720859341645153,
+      0.47945068107083855,
+      0.57240444029240234,
+      0.49438652838352359
+    ],
+    "confidence" : 1,
+    "text" : ", 2.60015"
+  },
+  {
+    "alternatives" : [
+      "17.7001"
+    ],
+    "bounds" : [
+      0.51934826928388844,
+      0.52180232559795248,
+      0.57230142433457742,
+      0.53488372103479953
+    ],
+    "confidence" : 1,
+    "text" : "17.7001"
+  },
+  {
+    "alternatives" : [
+      ". 17.7004"
+    ],
+    "bounds" : [
+      0.51720629926657624,
+      0.54047774891438094,
+      0.57037007441747478,
+      0.55399899540818975
+    ],
+    "confidence" : 1,
+    "text" : ". 17.7004"
+  },
+  {
+    "alternatives" : [
+      "2.7009"
+    ],
+    "bounds" : [
+      0.52539871509242353,
+      0.55803041143644416,
+      0.57236095971250134,
+      0.5713300535376109
+    ],
+    "confidence" : 1,
+    "text" : "2.7009"
+  },
+  {
+    "alternatives" : [
+      "............... 2.70015"
+    ],
+    "bounds" : [
+      0.45621181018612778,
+      0.57703488393228641,
+      0.57026476442351259,
+      0.58866279077701589
+    ],
+    "confidence" : 1,
+    "text" : "............... 2.70015"
+  },
+  {
+    "alternatives" : [
+      "26.3003"
+    ],
+    "bounds" : [
+      0.51729193656003769,
+      0.61624115531769397,
+      0.57232109867382697,
+      0.63085186780807845
+    ],
+    "confidence" : 1,
+    "text" : "26.3003"
+  },
+  {
+    "alternatives" : [
+      "326.000"
+    ],
+    "bounds" : [
+      0.51731160961294997,
+      0.63372093049708789,
+      0.57230142569764053,
+      0.64825581357994688
+    ],
+    "confidence" : 1,
+    "text" : "326.000"
+  },
+  {
+    "alternatives" : [
+      "22.6005"
+    ],
+    "bounds" : [
+      0.51512698680221058,
+      0.65231579023423714,
+      0.5724493868064211,
+      0.66745165181267885
+    ],
+    "confidence" : 1,
+    "text" : "22.6005"
+  },
+  {
+    "alternatives" : [
+      "22.6008"
+    ],
+    "bounds" : [
+      0.51724887137273201,
+      0.66993662294196843,
+      0.57236416393910827,
+      0.6847145397064246
+    ],
+    "confidence" : 1,
+    "text" : "22.6008"
+  },
+  {
+    "alternatives" : [
+      "26.7003"
+    ],
+    "bounds" : [
+      0.5173116088764792,
+      0.7122093027069093,
+      0.57230142496116987,
+      0.7267441857897684
+    ],
+    "confidence" : 1,
+    "text" : "26.7003"
+  },
+  {
+    "alternatives" : [
+      "22.7005"
+    ],
+    "bounds" : [
+      0.51731161022560113,
+      0.73110465104611133,
+      0.57026476527629,
+      0.74418604648295839
+    ],
+    "confidence" : 1,
+    "text" : "22.7005"
+  },
+  {
+    "alternatives" : [
+      "22.7008"
+    ],
+    "bounds" : [
+      0.517311609406088,
+      0.7485465116686888,
+      0.57026476445677687,
+      0.76162790710553585
+    ],
+    "confidence" : 1,
+    "text" : "22.7008"
+  },
+  {
+    "alternatives" : [
+      "Small Joint Instrument Case"
+    ],
+    "bounds" : [
+      0.10183299732145371,
+      0.78343023256600741,
+      0.32179226166021629,
+      0.7951388890397727
+    ],
+    "confidence" : 1,
+    "text" : "Small Joint Instrument Case"
+  },
+  {
+    "alternatives" : [
+      "Similar to the larger instrument cases, the small joint case contains an instrument stand"
+    ],
+    "bounds" : [
+      0.099796334046387034,
+      0.80232558162717504,
+      0.57433809499638266,
+      0.81696428559407275
+    ],
+    "confidence" : 1,
+    "text" : "Similar to the larger instrument cases, the small joint case contains an instrument stand"
+  },
+  {
+    "alternatives" : [
+      "specifically designed for Shutt® small joint forceps. The stand can hold 10 ring-"
+    ],
+    "bounds" : [
+      0.097759690497631765,
+      0.81540697638931348,
+      0.54582484208892612,
+      0.83139534901039558
+    ],
+    "confidence" : 1,
+    "text" : "specifically designed for Shutt® small joint forceps. The stand can hold 10 ring-"
+  },
+  {
+    "alternatives" : [
+      "handled instruments. A storage tray with built-in silicone cushion is included."
+    ],
+    "bounds" : [
+      0.09775967657297896,
+      0.82837301582717837,
+      0.53360489379361964,
+      0.84449404757321012
+    ],
+    "confidence" : 1,
+    "text" : "handled instruments. A storage tray with built-in silicone cushion is included."
+  },
+  {
+    "alternatives" : [
+      "Small Joint Instrument Case"
+    ],
+    "bounds" : [
+      0.099796338766578244,
+      0.85610465128430457,
+      0.24847250405419558,
+      0.86631944458796073
+    ],
+    "confidence" : 1,
+    "text" : "Small Joint Instrument Case"
+  },
+  {
+    "alternatives" : [
+      "Dimensions: 9.25'W x 5.25'h x 9\"d ....."
+    ],
+    "bounds" : [
+      0.11405295812265313,
+      0.86918604671187238,
+      0.32382892259696644,
+      0.87946428584852276
+    ],
+    "confidence" : 1,
+    "text" : "Dimensions: 9.25'W x 5.25'h x 9\"d ....."
+  },
+  {
+    "alternatives" : [
+      "...................9896"
+    ],
+    "bounds" : [
+      0.45417515283276871,
+      0.86773255822271034,
+      0.57026476279859584,
+      0.88081395365955728
+    ],
+    "confidence" : 1,
+    "text" : "...................9896"
+  },
+  {
+    "alternatives" : [
+      "Small Joint Instrument Case"
+    ],
+    "bounds" : [
+      0.62729124640337641,
+      0.42877906990612358,
+      0.81059062274122629,
+      0.44047619051586118
+    ],
+    "confidence" : 1,
+    "text" : "Small Joint Instrument Case"
+  },
+  {
+    "alternatives" : [
+      "Customer Service: (within U.S.) Phone: 800.237.0169 Fax 727.399.5256 Customer Service: (outside U.S.) Phone: 727.392.6464 Fax: 727.397.4540"
+    ],
+    "bounds" : [
+      0.05498982400067947,
+      0.96354166670400443,
+      0.5560081518649006,
+      0.97247023813257583
+    ],
+    "confidence" : 1,
+    "text" : "Customer Service: (within U.S.) Phone: 800.237.0169 Fax 727.399.5256 Customer Service: (outside U.S.) Phone: 727.392.6464 Fax: 727.397.4540"
+  },
+  {
+    "alternatives" : [
+      "All products may not be available in all markets."
+    ],
+    "bounds" : [
+      0.78615072017741883,
+      0.93303571423726472,
+      0.95723014092237713,
+      0.94196428566583612
+    ],
+    "confidence" : 1,
+    "text" : "All products may not be available in all markets."
+  },
+  {
+    "alternatives" : [
+      "SMALL JOINT ARTHROSCOPY PRODUCTS,61"
+    ],
+    "bounds" : [
+      0.74134420171124948,
+      0.96354166670400443,
+      0.95315682191400508,
+      0.97247023813257583
+    ],
+    "confidence" : 1,
+    "text" : "SMALL JOINT ARTHROSCOPY PRODUCTS,61"
+  }
+]

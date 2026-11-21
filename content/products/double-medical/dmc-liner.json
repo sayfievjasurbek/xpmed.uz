@@ -1,0 +1,1169 @@
+{
+  "slug": "dmc-liner",
+  "brand": "double-medical",
+  "category": "joint-replacement",
+  "subcategory": "hip",
+  "specialty": [
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Металлический вкладыш DMC",
+    "en": "DMC Liner"
+  },
+  "catalogType": "system",
+  "shortDescription": {
+    "ru": "Компоненты для эндопротезирования",
+    "en": "Joint replacement components"
+  },
+  "description": {
+    "ru": "Металлический вкладыш DMC. Материалы и доступные исполнения приведены в таблицах каталожных номеров.",
+    "en": "DMC Liner. Materials and available configurations are listed in the reference tables."
+  },
+  "heroImage": "/images/products/double-medical/joint-catalogue/page-012-xref-182.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "src": "/images/products/double-medical/joint-catalogue/page-012-xref-182.webp",
+      "width": 384,
+      "height": 428,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          205,
+          207
+        ],
+        "enhancedSize": [
+          410,
+          414
+        ]
+      },
+      "sourcePages": [
+        12
+      ],
+      "imageCaption": {
+        "ru": "Металлический вкладыш DMC",
+        "en": "DMC Liner"
+      }
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [],
+  "referenceTables": [
+    {
+      "id": "joint-dmc-liner-p12-2",
+      "title": {
+        "ru": "Металлический вкладыш DMC",
+        "en": "DMC Liner"
+      },
+      "unit": "mm",
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Sizemm",
+          "en": "Sizemm"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Металлический вкладыш DMC · 48/35",
+            "en": "DMC Liner · 48/35"
+          },
+          "131910040S",
+          {
+            "ru": "48/35",
+            "en": "48/35"
+          }
+        ],
+        [
+          {
+            "ru": "Металлический вкладыш DMC · 50/36",
+            "en": "DMC Liner · 50/36"
+          },
+          "131910042S",
+          {
+            "ru": "50/36",
+            "en": "50/36"
+          }
+        ],
+        [
+          {
+            "ru": "Металлический вкладыш DMC · 52/38",
+            "en": "DMC Liner · 52/38"
+          },
+          "131910044S",
+          {
+            "ru": "52/38",
+            "en": "52/38"
+          }
+        ],
+        [
+          {
+            "ru": "Металлический вкладыш DMC · 54/40",
+            "en": "DMC Liner · 54/40"
+          },
+          "131910046S",
+          {
+            "ru": "54/40",
+            "en": "54/40"
+          }
+        ],
+        [
+          {
+            "ru": "Металлический вкладыш DMC · 56/42",
+            "en": "DMC Liner · 56/42"
+          },
+          "131910048S",
+          {
+            "ru": "56/42",
+            "en": "56/42"
+          }
+        ],
+        [
+          {
+            "ru": "Металлический вкладыш DMC · 58/44",
+            "en": "DMC Liner · 58/44"
+          },
+          "131910050S",
+          {
+            "ru": "58/44",
+            "en": "58/44"
+          }
+        ],
+        [
+          {
+            "ru": "Металлический вкладыш DMC · 60/46",
+            "en": "DMC Liner · 60/46"
+          },
+          "131910052S",
+          {
+            "ru": "60/46",
+            "en": "60/46"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.13380860981628737,
+            0.5014674232048523,
+            0.6,
+            0.510271962433966
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-dmc-liner-p12-2",
+              "row": 1,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "131910040S",
+                  "line": "131910040S",
+                  "confidence": 91.819733,
+                  "bounds": [
+                    0.13380860981628737,
+                    0.5014674232048523,
+                    0.22703591993419248,
+                    0.510271962433966
+                  ],
+                  "cy": 0.5058696928194091
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "131910040S",
+                  "line": "131910040S",
+                  "confidence": 91.62796,
+                  "bounds": [
+                    0.13380860981628737,
+                    0.5014674232048523,
+                    0.22703591993419248,
+                    0.510271962433966
+                  ],
+                  "cy": 0.5058696928194091
+                },
+                {
+                  "reader": "Vision",
+                  "text": "131910040S",
+                  "line": "131910040S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.12830957373987806,
+                    0.5000000004643844,
+                    0.22810590336806494,
+                    0.5145348835472435
+                  ],
+                  "cy": 0.507267442005814
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "48/35",
+            "PSM11": "48/35",
+            "Vision": "48/35"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13380860981628737,
+            0.5014674232048523,
+            0.6,
+            0.510271962433966
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.13380860981628737,
+            0.5141850909802387,
+            0.6,
+            0.5227939737820387
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-dmc-liner-p12-2",
+              "row": 2,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "131910042S",
+                  "line": "131910042S",
+                  "confidence": 91.379555,
+                  "bounds": [
+                    0.13380860981628737,
+                    0.5141850909802387,
+                    0.22703591993419248,
+                    0.5227939737820387
+                  ],
+                  "cy": 0.5184895323811387
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "131910042S",
+                  "line": "131910042S",
+                  "confidence": 91.257683,
+                  "bounds": [
+                    0.13380860981628737,
+                    0.5141850909802387,
+                    0.22703591993419248,
+                    0.5227939737820387
+                  ],
+                  "cy": 0.5184895323811387
+                },
+                {
+                  "reader": "Vision",
+                  "text": "131910042S",
+                  "line": "131910042S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.12827092185771002,
+                    0.5114887158617494,
+                    0.23018121409013598,
+                    0.5263019819649791
+                  ],
+                  "cy": 0.5188953489133643
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "50/36",
+            "PSM11": "50/36",
+            "Vision": "50/36"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13380860981628737,
+            0.5141850909802387,
+            0.6,
+            0.5227939737820387
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.13380860981628737,
+            0.5267071023283115,
+            0.6,
+            0.5355116415574251
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-dmc-liner-p12-2",
+              "row": 3,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "131910044S",
+                  "line": "131910044S",
+                  "confidence": 89.170906,
+                  "bounds": [
+                    0.13380860981628737,
+                    0.5267071023283115,
+                    0.22703591993419248,
+                    0.5355116415574251
+                  ],
+                  "cy": 0.5311093719428683
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "131910044S",
+                  "line": "131910044S",
+                  "confidence": 90.336136,
+                  "bounds": [
+                    0.13380860981628737,
+                    0.5267071023283115,
+                    0.22703591993419248,
+                    0.5355116415574251
+                  ],
+                  "cy": 0.5311093719428683
+                },
+                {
+                  "reader": "Vision",
+                  "text": "131910044S",
+                  "line": "131910044S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13030123263144716,
+                    0.5231115155007072,
+                    0.2301875668472383,
+                    0.539388484350737
+                  ],
+                  "cy": 0.5312499999257221
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "52/38",
+            "PSM11": "52/38",
+            "Vision": "52/38"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13380860981628737,
+            0.5267071023283115,
+            0.6,
+            0.5355116415574251
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.13380860981628737,
+            0.5394247701036979,
+            0.6,
+            0.548033652905498
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-dmc-liner-p12-2",
+              "row": 4,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "131910046S",
+                  "line": "131910046S",
+                  "confidence": 87.516685,
+                  "bounds": [
+                    0.13380860981628737,
+                    0.5394247701036979,
+                    0.22703591993419248,
+                    0.548033652905498
+                  ],
+                  "cy": 0.543729211504598
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "131910046S",
+                  "line": "131910046S",
+                  "confidence": 91.64328,
+                  "bounds": [
+                    0.13380860981628737,
+                    0.5394247701036979,
+                    0.22703591993419248,
+                    0.548033652905498
+                  ],
+                  "cy": 0.543729211504598
+                },
+                {
+                  "reader": "Vision",
+                  "text": "131910046S",
+                  "line": "131910046S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.12830957355148703,
+                    0.5392441862578677,
+                    0.2281059031796739,
+                    0.5508720931025972
+                  ],
+                  "cy": 0.5450581396802325
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "54/40",
+            "PSM11": "54/40",
+            "Vision": "54/40"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13380860981628737,
+            0.5394247701036979,
+            0.6,
+            0.548033652905498
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.13380860981628737,
+            0.5519467814517707,
+            0.6,
+            0.5605556642535707
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-dmc-liner-p12-2",
+              "row": 5,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "131910048S",
+                  "line": "131910048S",
+                  "confidence": 89.458344,
+                  "bounds": [
+                    0.13380860981628737,
+                    0.5519467814517707,
+                    0.22703591993419248,
+                    0.5605556642535707
+                  ],
+                  "cy": 0.5562512228526707
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "131910048S",
+                  "line": "131910048S",
+                  "confidence": 91.36235,
+                  "bounds": [
+                    0.13380860981628737,
+                    0.5519467814517707,
+                    0.22703591993419248,
+                    0.5605556642535707
+                  ],
+                  "cy": 0.5562512228526707
+                },
+                {
+                  "reader": "Vision",
+                  "text": "131910048S",
+                  "line": "131910048S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1283095754914055,
+                    0.5508720930311236,
+                    0.2281059051195924,
+                    0.5624999998758531
+                  ],
+                  "cy": 0.5566860464534884
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "56/42",
+            "PSM11": "56/42",
+            "Vision": "56/42"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13380860981628737,
+            0.5519467814517707,
+            0.6,
+            0.5605556642535707
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.13380860981628737,
+            0.5646644492271571,
+            0.6,
+            0.5732733320289571
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-dmc-liner-p12-2",
+              "row": 6,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "131910050S",
+                  "line": "131910050S",
+                  "confidence": 88.977394,
+                  "bounds": [
+                    0.13380860981628737,
+                    0.5646644492271571,
+                    0.22703591993419248,
+                    0.5732733320289571
+                  ],
+                  "cy": 0.5689688906280571
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "131910050S",
+                  "line": "131910050S",
+                  "confidence": 91.711304,
+                  "bounds": [
+                    0.13380860981628737,
+                    0.5646644492271571,
+                    0.22703591993419248,
+                    0.5732733320289571
+                  ],
+                  "cy": 0.5689688906280571
+                },
+                {
+                  "reader": "Vision",
+                  "text": "131910050S",
+                  "line": "131910050S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13034623630591385,
+                    0.5654069768293628,
+                    0.22810590463094968,
+                    0.5755813950819747
+                  ],
+                  "cy": 0.5704941859556687
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "58/44",
+            "PSM11": "58/44",
+            "Vision": "58/44"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13380860981628737,
+            0.5646644492271571,
+            0.6,
+            0.5732733320289571
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.13380860981628737,
+            0.5771864605752299,
+            0.6,
+            0.58579534337703
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-dmc-liner-p12-2",
+              "row": 7,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "131910052S",
+                  "line": "131910052S",
+                  "confidence": 85.026169,
+                  "bounds": [
+                    0.13380860981628737,
+                    0.5771864605752299,
+                    0.22703591993419248,
+                    0.58579534337703
+                  ],
+                  "cy": 0.58149090197613
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "131910052S",
+                  "line": "131910052S",
+                  "confidence": 91.839828,
+                  "bounds": [
+                    0.13380860981628737,
+                    0.5771864605752299,
+                    0.22703591993419248,
+                    0.58579534337703
+                  ],
+                  "cy": 0.58149090197613
+                },
+                {
+                  "reader": "Vision",
+                  "text": "131910052S",
+                  "line": "131910052S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13028970749769012,
+                    0.5767504783752125,
+                    0.22816243295197153,
+                    0.587493707537338
+                  ],
+                  "cy": 0.5821220929562753
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "60/46",
+            "PSM11": "60/46",
+            "Vision": "60/46"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13380860981628737,
+            0.5771864605752299,
+            0.6,
+            0.58579534337703
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "keyParameters": [
+        {
+          "parameter": {
+            "ru": "Материал",
+            "en": "Material"
+          },
+          "value": {
+            "ru": "Кобальт-хром-молибденовый сплав",
+            "en": "Co-Cr-Mo"
+          }
+        }
+      ],
+      "sourcePages": [
+        12
+      ],
+      "sourcePdf": "/catalogs/double-medical/joint-catalogue/source.pdf",
+      "hideDescriptionColumn": true,
+      "images": [
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-012-xref-182.webp",
+          "width": 384,
+          "height": 428,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              205,
+              207
+            ],
+            "enhancedSize": [
+              410,
+              414
+            ]
+          },
+          "sourcePages": [
+            12
+          ],
+          "imageCaption": {
+            "ru": "Металлический вкладыш DMC",
+            "en": "DMC Liner"
+          }
+        }
+      ]
+    }
+  ],
+  "refCodes": [
+    "131910040S",
+    "131910042S",
+    "131910044S",
+    "131910046S",
+    "131910048S",
+    "131910050S",
+    "131910052S"
+  ],
+  "sourcePages": [
+    12
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Joint Catalogue — каталог продукции",
+    "en": "Double Medical Joint Catalogue"
+  },
+  "documentCover": "/catalogs/double-medical/joint-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "relatedSystemSlugs": [
+    "dual-mobility-cup-instrument-set"
+  ],
+  "imageDimensions": {
+    "/images/products/double-medical/joint-catalogue/page-012-xref-182.webp": {
+      "width": 384,
+      "height": 428
+    }
+  },
+  "sourcePdf": "/catalogs/double-medical/joint-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/joint-catalogue/pages/012.webp"
+  ],
+  "sourcePageDimensions": {
+    "1": {
+      "width": 3647,
+      "height": 5111
+    },
+    "2": {
+      "width": 3647,
+      "height": 5111
+    },
+    "3": {
+      "width": 3647,
+      "height": 5111
+    },
+    "4": {
+      "width": 3647,
+      "height": 5111
+    },
+    "5": {
+      "width": 3647,
+      "height": 5111
+    },
+    "6": {
+      "width": 3647,
+      "height": 5111
+    },
+    "7": {
+      "width": 3647,
+      "height": 5111
+    },
+    "8": {
+      "width": 3647,
+      "height": 5111
+    },
+    "9": {
+      "width": 3647,
+      "height": 5111
+    },
+    "10": {
+      "width": 3647,
+      "height": 5111
+    },
+    "11": {
+      "width": 3647,
+      "height": 5111
+    },
+    "12": {
+      "width": 3647,
+      "height": 5111
+    },
+    "13": {
+      "width": 3647,
+      "height": 5111
+    },
+    "14": {
+      "width": 3647,
+      "height": 5111
+    },
+    "15": {
+      "width": 3647,
+      "height": 5111
+    },
+    "16": {
+      "width": 3647,
+      "height": 5111
+    },
+    "17": {
+      "width": 3647,
+      "height": 5111
+    },
+    "18": {
+      "width": 3647,
+      "height": 5111
+    },
+    "19": {
+      "width": 3647,
+      "height": 5111
+    },
+    "20": {
+      "width": 3647,
+      "height": 5111
+    },
+    "21": {
+      "width": 3647,
+      "height": 5111
+    },
+    "22": {
+      "width": 3647,
+      "height": 5111
+    },
+    "23": {
+      "width": 3647,
+      "height": 5111
+    },
+    "24": {
+      "width": 3647,
+      "height": 5111
+    },
+    "25": {
+      "width": 3647,
+      "height": 5111
+    },
+    "26": {
+      "width": 3647,
+      "height": 5111
+    },
+    "27": {
+      "width": 3647,
+      "height": 5111
+    },
+    "28": {
+      "width": 3647,
+      "height": 5111
+    },
+    "29": {
+      "width": 3647,
+      "height": 5111
+    },
+    "30": {
+      "width": 3647,
+      "height": 5111
+    },
+    "31": {
+      "width": 3647,
+      "height": 5111
+    },
+    "32": {
+      "width": 3647,
+      "height": 5111
+    },
+    "33": {
+      "width": 3647,
+      "height": 5111
+    },
+    "34": {
+      "width": 3647,
+      "height": 5111
+    },
+    "35": {
+      "width": 3647,
+      "height": 5111
+    },
+    "36": {
+      "width": 3647,
+      "height": 5111
+    },
+    "37": {
+      "width": 3647,
+      "height": 5111
+    },
+    "38": {
+      "width": 3647,
+      "height": 5111
+    },
+    "39": {
+      "width": 3647,
+      "height": 5111
+    },
+    "40": {
+      "width": 3647,
+      "height": 5111
+    },
+    "41": {
+      "width": 3647,
+      "height": 5111
+    },
+    "42": {
+      "width": 3647,
+      "height": 5111
+    },
+    "43": {
+      "width": 3647,
+      "height": 5111
+    },
+    "44": {
+      "width": 3647,
+      "height": 5111
+    },
+    "45": {
+      "width": 3647,
+      "height": 5111
+    },
+    "46": {
+      "width": 3647,
+      "height": 5111
+    },
+    "47": {
+      "width": 3647,
+      "height": 5111
+    },
+    "48": {
+      "width": 3647,
+      "height": 5111
+    },
+    "49": {
+      "width": 3647,
+      "height": 5111
+    },
+    "50": {
+      "width": 3647,
+      "height": 5111
+    },
+    "51": {
+      "width": 3647,
+      "height": 5111
+    },
+    "52": {
+      "width": 3647,
+      "height": 5111
+    },
+    "53": {
+      "width": 3647,
+      "height": 5111
+    },
+    "54": {
+      "width": 3647,
+      "height": 5111
+    },
+    "55": {
+      "width": 3647,
+      "height": 5111
+    },
+    "56": {
+      "width": 3647,
+      "height": 5111
+    },
+    "57": {
+      "width": 3647,
+      "height": 5111
+    },
+    "58": {
+      "width": 3647,
+      "height": 5111
+    },
+    "59": {
+      "width": 3647,
+      "height": 5111
+    },
+    "60": {
+      "width": 3647,
+      "height": 5111
+    },
+    "61": {
+      "width": 3647,
+      "height": 5111
+    },
+    "62": {
+      "width": 3647,
+      "height": 5111
+    },
+    "63": {
+      "width": 3647,
+      "height": 5111
+    },
+    "64": {
+      "width": 3647,
+      "height": 5111
+    },
+    "65": {
+      "width": 3647,
+      "height": 5111
+    },
+    "66": {
+      "width": 3647,
+      "height": 5111
+    },
+    "67": {
+      "width": 3647,
+      "height": 5111
+    },
+    "68": {
+      "width": 3647,
+      "height": 5111
+    },
+    "69": {
+      "width": 3647,
+      "height": 5111
+    },
+    "70": {
+      "width": 3647,
+      "height": 5111
+    },
+    "71": {
+      "width": 3647,
+      "height": 5111
+    },
+    "72": {
+      "width": 3647,
+      "height": 5111
+    },
+    "73": {
+      "width": 3647,
+      "height": 5111
+    },
+    "74": {
+      "width": 3647,
+      "height": 5111
+    },
+    "75": {
+      "width": 3647,
+      "height": 5111
+    },
+    "76": {
+      "width": 3647,
+      "height": 5111
+    },
+    "77": {
+      "width": 3647,
+      "height": 5111
+    },
+    "78": {
+      "width": 3647,
+      "height": 5111
+    },
+    "79": {
+      "width": 3647,
+      "height": 5111
+    },
+    "80": {
+      "width": 3647,
+      "height": 5111
+    },
+    "81": {
+      "width": 3647,
+      "height": 5111
+    },
+    "82": {
+      "width": 3647,
+      "height": 5111
+    },
+    "83": {
+      "width": 3647,
+      "height": 5111
+    },
+    "84": {
+      "width": 3647,
+      "height": 5111
+    },
+    "85": {
+      "width": 3647,
+      "height": 5111
+    },
+    "86": {
+      "width": 3647,
+      "height": 5111
+    },
+    "87": {
+      "width": 3647,
+      "height": 5111
+    },
+    "88": {
+      "width": 3647,
+      "height": 5111
+    },
+    "89": {
+      "width": 3647,
+      "height": 5111
+    },
+    "90": {
+      "width": 3647,
+      "height": 5111
+    },
+    "91": {
+      "width": 3647,
+      "height": 5111
+    },
+    "92": {
+      "width": 3647,
+      "height": 5111
+    },
+    "93": {
+      "width": 3647,
+      "height": 5111
+    },
+    "94": {
+      "width": 3647,
+      "height": 5111
+    },
+    "95": {
+      "width": 3647,
+      "height": 5111
+    },
+    "96": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "049dc47f4db1409b0ab7b002cc1e8beaaf86705c6ae23efac7eff3832b23e1e5",
+    "importMethod": "600-DPI PSM3/PSM11 + independent Vision + Codex visual row checks; additive REF merges",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      71,
+      81,
+      94,
+      95,
+      96
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "referenceTables.0.title.ru",
+      "referenceTables.0.columns.0.ru",
+      "referenceTables.0.columns.1.ru",
+      "referenceTables.0.columns.2.ru",
+      "referenceTables.0.rows.0.0.ru",
+      "referenceTables.0.rows.0.2.ru",
+      "referenceTables.0.rows.1.0.ru",
+      "referenceTables.0.rows.1.2.ru",
+      "referenceTables.0.rows.2.0.ru",
+      "referenceTables.0.rows.2.2.ru",
+      "referenceTables.0.rows.3.0.ru",
+      "referenceTables.0.rows.3.2.ru",
+      "referenceTables.0.rows.4.0.ru",
+      "referenceTables.0.rows.4.2.ru",
+      "referenceTables.0.rows.5.0.ru",
+      "referenceTables.0.rows.5.2.ru",
+      "referenceTables.0.rows.6.0.ru",
+      "referenceTables.0.rows.6.2.ru",
+      "referenceTables.0.keyParameters.0.parameter.ru",
+      "referenceTables.0.keyParameters.0.value.ru",
+      "referenceTables.0.images.0.imageCaption.ru",
+      "catalogTitle.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Published under owner authorization: zero real flags after 600-DPI source verification."
+  },
+  "publishedAt": "2026-11-19T17:19:02.884844+00:00"
+}

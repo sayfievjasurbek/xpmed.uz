@@ -1,0 +1,26 @@
+{
+  "systems": 188,
+  "implantSystems": 151,
+  "instrumentSets": 37,
+  "photosReady": 1440,
+  "photosExpected": 1440,
+  "flags": [
+    {
+      "code": "source-guide-diameter-needs-confirmation",
+      "pdfPage": 255,
+      "sourcePages": [
+        255
+      ],
+      "path": "specTables.1.rows.1.0",
+      "message": {
+        "ru": "В подписи направителя напечатано Ø14/Ø0.95. Значение 14 сохранено точно; требуется подтверждение, не пропущена ли десятичная точка.",
+        "en": "The drill-guide caption prints Ø14/Ø0.95. The printed 14 is retained; confirm whether a decimal point is missing."
+      },
+      "readings": [
+        "Source visual: Ø14/Ø0.95; no correction assumed"
+      ],
+      "status": "resolved",
+      "resolution": "The printed source is unambiguously Ø14/Ø0.95; retained literally. No conflicting printed value or REF size encoding establishes a decimal correction. No value has been guessed."
+    }
+  ]
+}

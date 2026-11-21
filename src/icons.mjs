@@ -1,6 +1,9 @@
 const paths = {
   down: '<path d="m6 9 6 6 6-6"/>',
   arrow: '<path d="M4 12h15m-6-6 6 6-6 6"/>',
+  circleArrow: '<g stroke-width="1.5"><circle cx="12" cy="12" r="10.75"/><path d="M7.75 12h8.5m-3.5-3.5 3.5 3.5-3.5 3.5"/></g>',
+  play: '<path fill="currentColor" stroke="none" d="M8 5v14l11-7L8 5Z"/>',
+  clock: '<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>',
   search: '<circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4 4"/>',
   menu: '<path d="M3 6h18M3 12h18M3 18h18"/>',
   close: '<path d="m6 6 12 12M18 6 6 18"/>',

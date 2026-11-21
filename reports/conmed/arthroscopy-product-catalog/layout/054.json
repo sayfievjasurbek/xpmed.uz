@@ -1,0 +1,533 @@
+{
+  "pdfPage": 54,
+  "officialPage": 74,
+  "alignment": [
+    [
+      0.9703268373572133,
+      0.00015717605205101557,
+      0.014802310673418579
+    ],
+    [
+      -0.0013922489387832241,
+      0.9783665309796657,
+      0.012197595094229886
+    ]
+  ],
+  "alignmentMatches": 43,
+  "alignmentInliers": 41,
+  "category": "hip-arthroscopy",
+  "title": {
+    "en": "Shutt Series 210 Manual Instruments",
+    "ru": "Ручные инструменты Shutt Series 210"
+  },
+  "groups": [
+    {
+      "title": "Shutt® Series 210® Manual Instruments — 90° Rotary Forceps",
+      "page": 54,
+      "officialPage": 74,
+      "headingBounds": [
+        0.4258093320620065,
+        0.2920123433910442,
+        0.5346023029780363,
+        0.3050308529025658
+      ],
+      "rows": [
+        {
+          "description": "Blunt Tip Left",
+          "codes": [
+            {
+              "candidate": "S210RFL",
+              "sourceBounds": [
+                0.8443798896051796,
+                0.30970058432054104,
+                0.8919480152063198,
+                0.32220656983514334
+              ],
+              "officialBounds": [
+                523.197021484375,
+                241.79591369628906,
+                553.1976928710938,
+                251.97491455078125
+              ],
+              "officialCode": "S210RFL"
+            }
+          ],
+          "rowBounds": [
+            0.4258122701871278,
+            0.31030115549048926,
+            0.8919480152063198,
+            0.32220656983514334
+          ],
+          "pdfPage": 54,
+          "officialPage": 74
+        },
+        {
+          "description": "Blunt Tip Right",
+          "codes": [
+            {
+              "candidate": "S210RFR",
+              "sourceBounds": [
+                0.8433267983215661,
+                0.3276129254503032,
+                0.8919508926043785,
+                0.3401173769855723
+              ],
+              "officialBounds": [
+                522.531005859375,
+                256.2949523925781,
+                553.1976928710938,
+                266.47393798828125
+              ],
+              "officialCode": "S210RFR"
+            }
+          ],
+          "rowBounds": [
+            0.42581514758821465,
+            0.3282119814902725,
+            0.8919508926043785,
+            0.3401173769855723
+          ],
+          "pdfPage": 54,
+          "officialPage": 74
+        }
+      ],
+      "features": [
+        {
+          "text": "Quality and durability is the Shutt assurance",
+          "bounds": [
+            0.4329258537790026,
+            0.20229256882681557,
+            0.6928488579570657,
+            0.2158909956151937
+          ],
+          "officialStartX": 263.6976013183594
+        },
+        {
+          "text": "Engineered hinge pin breaks before any failure that could lead to metal being left behind in the joint",
+          "bounds": [
+            0.4329280367797256,
+            0.2158809928681998,
+            0.8818651775809427,
+            0.22920821749974044
+          ],
+          "officialStartX": 263.6976013183594
+        }
+      ],
+      "notes": [
+        "Wide range of tips (forceps, aggressors, scissors, suture retrievers) available.",
+        "Shutt® 210’s are 210mm in length and 3.4mm in diameter permitting access to",
+        "the deep hip joint."
+      ],
+      "keyParameters": []
+    },
+    {
+      "title": "Shutt® Series 210® Manual Instruments — Aggressor Forceps",
+      "page": 54,
+      "officialPage": 74,
+      "headingBounds": [
+        0.42582699473134533,
+        0.4019563476040471,
+        0.5323225176442994,
+        0.4149781158520537
+      ],
+      "rows": [
+        {
+          "description": "15° Up",
+          "codes": [
+            {
+              "candidate": "S210AFU",
+              "sourceBounds": [
+                0.8432988106586665,
+                0.419646127336465,
+                0.8919654843239266,
+                0.43215051777778335
+              ],
+              "officialBounds": [
+                522.5040283203125,
+                330.79693603515625,
+                553.1975708007812,
+                340.9759216308594
+              ],
+              "officialCode": "S210AFU"
+            }
+          ],
+          "rowBounds": [
+            0.42582993285041026,
+            0.42024512200478376,
+            0.8919654843239266,
+            0.43215051777778335
+          ],
+          "pdfPage": 54,
+          "officialPage": 74
+        },
+        {
+          "description": "Left",
+          "codes": [
+            {
+              "candidate": "S210AFL",
+              "sourceBounds": [
+                0.8444288804296455,
+                0.43755527946468903,
+                0.8919710713129939,
+                0.4500612833417071
+              ],
+              "officialBounds": [
+                523.2149658203125,
+                345.2959289550781,
+                553.1992797851562,
+                355.47491455078125
+              ],
+              "officialCode": "S210AFL"
+            }
+          ],
+          "rowBounds": [
+            0.42583281024241265,
+            0.43815589145650435,
+            0.8919710713129939,
+            0.4500612833417071
+          ],
+          "pdfPage": 54,
+          "officialPage": 74
+        },
+        {
+          "description": "Right",
+          "codes": [
+            {
+              "candidate": "S210AFR",
+              "sourceBounds": [
+                0.8433757891369473,
+                0.45546756404638855,
+                0.8919739487049962,
+                0.4679720527934277
+              ],
+              "officialBounds": [
+                522.5489501953125,
+                359.794921875,
+                553.1992797851562,
+                369.9739074707031
+              ],
+              "officialCode": "S210AFR"
+            }
+          ],
+          "rowBounds": [
+            0.42583563924875306,
+            0.45606666097764986,
+            0.8919739487049962,
+            0.4679720527934277
+          ],
+          "pdfPage": 54,
+          "officialPage": 74
+        }
+      ],
+      "features": [
+        {
+          "text": "Quality and durability is the Shutt assurance",
+          "bounds": [
+            0.4329258537790026,
+            0.20229256882681557,
+            0.6928488579570657,
+            0.2158909956151937
+          ],
+          "officialStartX": 263.6976013183594
+        },
+        {
+          "text": "Engineered hinge pin breaks before any failure that could lead to metal being left behind in the joint",
+          "bounds": [
+            0.4329280367797256,
+            0.2158809928681998,
+            0.8818651775809427,
+            0.22920821749974044
+          ],
+          "officialStartX": 263.6976013183594
+        }
+      ],
+      "notes": [
+        "Wide range of tips (forceps, aggressors, scissors, suture retrievers) available.",
+        "Shutt® 210’s are 210mm in length and 3.4mm in diameter permitting access to",
+        "the deep hip joint."
+      ],
+      "keyParameters": []
+    },
+    {
+      "title": "Shutt® Series 210® Manual Instruments — Retrograde Forceps",
+      "page": 54,
+      "officialPage": 74,
+      "headingBounds": [
+        0.4258472397514703,
+        0.5285769599417368,
+        0.5373656298377235,
+        0.5415915212557265
+      ],
+      "rows": [
+        {
+          "description": "15° Up Right Bite",
+          "codes": [
+            {
+              "candidate": "S210RGF",
+              "sourceBounds": [
+                0.8430050327332406,
+                0.5462671902420416,
+                0.8919956000190737,
+                0.5587711159527845
+              ],
+              "officialBounds": [
+                522.305908203125,
+                433.29791259765625,
+                553.2037353515625,
+                443.4768981933594
+              ],
+              "officialCode": "S210RGF"
+            }
+          ],
+          "rowBounds": [
+            0.42585017787053525,
+            0.5468657343424734,
+            0.8919956000190737,
+            0.5587711159527845
+          ],
+          "pdfPage": 54,
+          "officialPage": 74
+        }
+      ],
+      "features": [
+        {
+          "text": "Quality and durability is the Shutt assurance",
+          "bounds": [
+            0.4329258537790026,
+            0.20229256882681557,
+            0.6928488579570657,
+            0.2158909956151937
+          ],
+          "officialStartX": 263.6976013183594
+        },
+        {
+          "text": "Engineered hinge pin breaks before any failure that could lead to metal being left behind in the joint",
+          "bounds": [
+            0.4329280367797256,
+            0.2158809928681998,
+            0.8818651775809427,
+            0.22920821749974044
+          ],
+          "officialStartX": 263.6976013183594
+        }
+      ],
+      "notes": [
+        "Wide range of tips (forceps, aggressors, scissors, suture retrievers) available.",
+        "Shutt® 210’s are 210mm in length and 3.4mm in diameter permitting access to",
+        "the deep hip joint."
+      ],
+      "keyParameters": []
+    },
+    {
+      "title": "Shutt® Series 210® Manual Instruments — Suture Retrieval Forceps",
+      "page": 54,
+      "officialPage": 74,
+      "headingBounds": [
+        0.4258635644647532,
+        0.6304938347949657,
+        0.5657211947812891,
+        0.64346773426635
+      ],
+      "rows": [
+        {
+          "description": "Straight",
+          "codes": [
+            {
+              "candidate": "S210SRF",
+              "sourceBounds": [
+                0.8436779024924682,
+                0.6481831230682047,
+                0.8919980380534556,
+                0.6606880484296808
+              ],
+              "officialBounds": [
+                522.719970703125,
+                515.8009033203125,
+                553.1949462890625,
+                525.9799194335938
+              ],
+              "officialCode": "S210SRF"
+            }
+          ],
+          "rowBounds": [
+            0.42586650258381814,
+            0.6487826091957023,
+            0.8919980380534556,
+            0.6606880484296808
+          ],
+          "pdfPage": 54,
+          "officialPage": 74
+        }
+      ],
+      "features": [
+        {
+          "text": "Quality and durability is the Shutt assurance",
+          "bounds": [
+            0.4329258537790026,
+            0.20229256882681557,
+            0.6928488579570657,
+            0.2158909956151937
+          ],
+          "officialStartX": 263.6976013183594
+        },
+        {
+          "text": "Engineered hinge pin breaks before any failure that could lead to metal being left behind in the joint",
+          "bounds": [
+            0.4329280367797256,
+            0.2158809928681998,
+            0.8818651775809427,
+            0.22920821749974044
+          ],
+          "officialStartX": 263.6976013183594
+        }
+      ],
+      "notes": [
+        "Wide range of tips (forceps, aggressors, scissors, suture retrievers) available.",
+        "Shutt® 210’s are 210mm in length and 3.4mm in diameter permitting access to",
+        "the deep hip joint."
+      ],
+      "keyParameters": []
+    },
+    {
+      "title": "Shutt® Series 210® Manual Instruments — Micro-Scissors",
+      "page": 54,
+      "officialPage": 74,
+      "headingBounds": [
+        0.42587998594935966,
+        0.7324107095093447,
+        0.5113993083417829,
+        0.745462574928521
+      ],
+      "rows": [
+        {
+          "description": "Straight",
+          "codes": [
+            {
+              "candidate": "S210MSC",
+              "sourceBounds": [
+                0.8398557442516488,
+                0.7501054300742533,
+                0.8920227334741295,
+                0.7626048358749776
+              ],
+              "officialBounds": [
+                520.2989501953125,
+                598.3038330078125,
+                553.2001953125,
+                608.4828491210938
+              ],
+              "officialCode": "S210MSC"
+            }
+          ],
+          "rowBounds": [
+            0.4258829240563119,
+            0.7506994085126647,
+            0.8920227334741295,
+            0.7626048358749776
+          ],
+          "pdfPage": 54,
+          "officialPage": 74
+        }
+      ],
+      "features": [
+        {
+          "text": "Quality and durability is the Shutt assurance",
+          "bounds": [
+            0.4329258537790026,
+            0.20229256882681557,
+            0.6928488579570657,
+            0.2158909956151937
+          ],
+          "officialStartX": 263.6976013183594
+        },
+        {
+          "text": "Engineered hinge pin breaks before any failure that could lead to metal being left behind in the joint",
+          "bounds": [
+            0.4329280367797256,
+            0.2158809928681998,
+            0.8818651775809427,
+            0.22920821749974044
+          ],
+          "officialStartX": 263.6976013183594
+        }
+      ],
+      "notes": [
+        "Wide range of tips (forceps, aggressors, scissors, suture retrievers) available.",
+        "Shutt® 210’s are 210mm in length and 3.4mm in diameter permitting access to",
+        "the deep hip joint."
+      ],
+      "keyParameters": []
+    },
+    {
+      "title": "Shutt® Series 210® Manual Instruments — Grasping Forceps",
+      "page": 54,
+      "officialPage": 74,
+      "headingBounds": [
+        0.42589635904830436,
+        0.8343275842931487,
+        0.5252713995744726,
+        0.8473595691853467
+      ],
+      "rows": [
+        {
+          "description": "Straight W/Ratchet",
+          "codes": [
+            {
+              "candidate": "S210GSP",
+              "sourceBounds": [
+                0.8425405866149622,
+                0.8520185514698096,
+                0.8920406549263669,
+                0.8645217838346001
+              ],
+              "officialBounds": [
+                521.9819946289062,
+                680.806884765625,
+                553.201171875,
+                690.9859008789062
+              ],
+              "officialCode": "S210GSP"
+            }
+          ],
+          "rowBounds": [
+            0.4258992971673693,
+            0.8526163586938853,
+            0.8920406549263669,
+            0.8645217838346001
+          ],
+          "pdfPage": 54,
+          "officialPage": 74
+        }
+      ],
+      "features": [
+        {
+          "text": "Quality and durability is the Shutt assurance",
+          "bounds": [
+            0.4329258537790026,
+            0.20229256882681557,
+            0.6928488579570657,
+            0.2158909956151937
+          ],
+          "officialStartX": 263.6976013183594
+        },
+        {
+          "text": "Engineered hinge pin breaks before any failure that could lead to metal being left behind in the joint",
+          "bounds": [
+            0.4329280367797256,
+            0.2158809928681998,
+            0.8818651775809427,
+            0.22920821749974044
+          ],
+          "officialStartX": 263.6976013183594
+        }
+      ],
+      "notes": [
+        "Wide range of tips (forceps, aggressors, scissors, suture retrievers) available.",
+        "Shutt® 210’s are 210mm in length and 3.4mm in diameter permitting access to",
+        "the deep hip joint."
+      ],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 9
+}

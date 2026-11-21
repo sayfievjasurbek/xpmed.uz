@@ -1,0 +1,214 @@
+{
+  "id": 140,
+  "bounds": [
+    0.5130111524163569,
+    0.7242534189226905,
+    0.5840344355312072,
+    0.7393245883337984
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "",
+      "confidence": -1,
+      "words": []
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "",
+      "confidence": -1,
+      "words": []
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "ved 9801",
+      "confidence": 26.776094,
+      "words": [
+        {
+          "text": "ved",
+          "confidence": 26.776094,
+          "pixelBounds": [
+            12,
+            39,
+            124,
+            95
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "9801",
+          "confidence": 58.92551,
+          "pixelBounds": [
+            147,
+            39,
+            260,
+            96
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "15801",
+      "confidence": 49.733032,
+      "words": [
+        {
+          "text": "15801",
+          "confidence": 49.733032,
+          "pixelBounds": [
+            12,
+            39,
+            260,
+            96
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale0.6-psm7",
+      "text": "15801",
+      "confidence": 93.404572,
+      "words": [
+        {
+          "text": "15801",
+          "confidence": 93.404572,
+          "pixelBounds": [
+            24,
+            26,
+            121,
+            60
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        92,
+        29,
+        270,
+        106
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale0.6-psm8",
+      "text": "T5801",
+      "confidence": 19.451332,
+      "words": [
+        {
+          "text": "T5801",
+          "confidence": 19.451332,
+          "pixelBounds": [
+            24,
+            26,
+            121,
+            60
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        92,
+        29,
+        270,
+        106
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale0.6-psm13",
+      "text": "T5801",
+      "confidence": 19.451332,
+      "words": [
+        {
+          "text": "T5801",
+          "confidence": 19.451332,
+          "pixelBounds": [
+            24,
+            26,
+            121,
+            60
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        92,
+        29,
+        270,
+        106
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale1-psm7",
+      "text": "15801",
+      "confidence": 85.640266,
+      "words": [
+        {
+          "text": "15801",
+          "confidence": 85.640266,
+          "pixelBounds": [
+            27,
+            30,
+            188,
+            87
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        92,
+        29,
+        270,
+        106
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale1-psm8",
+      "text": "75801",
+      "confidence": 65.930489,
+      "words": [
+        {
+          "text": "75801",
+          "confidence": 65.930489,
+          "pixelBounds": [
+            27,
+            30,
+            188,
+            87
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        92,
+        29,
+        270,
+        106
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale1-psm13",
+      "text": "75801",
+      "confidence": 65.930489,
+      "words": [
+        {
+          "text": "75801",
+          "confidence": 65.930489,
+          "pixelBounds": [
+            27,
+            30,
+            188,
+            87
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        92,
+        29,
+        270,
+        106
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "pdfPage": 35,
+  "officialPage": 51,
+  "alignment": [
+    [
+      0.971396595830299,
+      0.0010173825667280677,
+      0.014473793636834341
+    ],
+    [
+      0.0003035115148738441,
+      0.9781538307785625,
+      0.011146151294210826
+    ]
+  ],
+  "alignmentMatches": 25,
+  "alignmentInliers": 25,
+  "category": "knee-arthroscopy",
+  "title": {
+    "en": "Cruciate Reconstruction System",
+    "ru": "Система реконструкции крестообразных связок"
+  },
+  "groups": [
+    {
+      "title": "Tibial Instrumentation — ACL Guide",
+      "page": 35,
+      "officialPage": 51,
+      "headingBounds": [
+        0.10045045943848596,
+        0.2661486273100293,
+        0.15873369183080896,
+        0.2793385746598901
+      ],
+      "rows": [
+        {
+          "description": "Pinn·ACL, Tibial Guide (includes ACL Guide Arm and Pin-sleeve)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8731",
+              "sourceBounds": [
+                0.5193482688395843,
+                0.2834302326796534,
+                0.5682281071278291,
+                0.2936046509322653
+              ],
+              "officialCode": "8731",
+              "officialBounds": [
+                330.7229919433594,
+                219.27589416503906,
+                348.0030212402344,
+                229.45489501953125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.27551744180595933,
+            0.5782281071278291,
+            0.29751744180595935
+          ],
+          "pdfPage": 35,
+          "officialPage": 51
+        }
+      ],
+      "features": [
+        {
+          "text": "The Pinn·ACL ® cruciate guide can be used to create tibial tunnels of known lengths with a variable angle adjustment of 35° to 60° and a graduated pin-sleeve",
+          "bounds": [
+            0.10750488128181268,
+            0.18135154015693458,
+            0.19342138475751056,
+            0.19534671020802108
+          ],
+          "officialStartX": 58.5
+        },
+        {
+          "text": "The Pinn·ACL cruciate guide and femoral guides have a patented collet locking mechanism that provides accurate pin placement using single-handed control",
+          "bounds": [
+            0.10753720440379394,
+            0.21410489655250772,
+            0.5564733938966432,
+            0.228213491599425
+          ],
+          "officialStartX": 58.4989013671875
+        }
+      ],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Tibial Instrumentation — PCL System",
+      "page": 35,
+      "officialPage": 51,
+      "headingBounds": [
+        0.10053374601428647,
+        0.34622379847567003,
+        0.16778811231292742,
+        0.3594165111533381
+      ],
+      "rows": [
+        {
+          "description": "PCL Guide Arm (for use with 8731)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C8732",
+              "sourceBounds": [
+                0.5172656951579349,
+                0.36038751748482833,
+                0.5703106788320916,
+                0.37653108735542906
+              ],
+              "officialCode": "C8732",
+              "officialBounds": [
+                326.052001953125,
+                284.11187744140625,
+                348.0030212402344,
+                294.2908630371094
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3554593024201287,
+            0.5803106788320916,
+            0.3774593024201287
+          ],
+          "pdfPage": 35,
+          "officialPage": 51
+        },
+        {
+          "description": "PCL Pin-Sleeve",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C8728",
+              "sourceBounds": [
+                0.5173116101783215,
+                0.37645348802630485,
+                0.5702647652290104,
+                0.39244186064738695
+              ],
+              "officialCode": "C8728",
+              "officialBounds": [
+                326.052001953125,
+                296.6308898925781,
+                348.0030212402344,
+                306.80987548828125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3714476743368459,
+            0.5802647652290104,
+            0.3934476743368459
+          ],
+          "pdfPage": 35,
+          "officialPage": 51
+        },
+        {
+          "description": "PCL Guide Pin, Etched (5 per Box)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C8729",
+              "sourceBounds": [
+                0.5173116099163,
+                0.3938953488949486,
+                0.5682281039329872,
+                0.40697674433179554
+              ],
+              "officialCode": "C8729",
+              "officialBounds": [
+                326.052001953125,
+                309.14990234375,
+                348.0030212402344,
+                319.3288879394531
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.38743604661337205,
+            0.5782281039329872,
+            0.4094360466133721
+          ],
+          "pdfPage": 35,
+          "officialPage": 51
+        }
+      ],
+      "features": [
+        {
+          "text": "The Pinn·ACL ® cruciate guide can be used to create tibial tunnels of known lengths with a variable angle adjustment of 35° to 60° and a graduated pin-sleeve",
+          "bounds": [
+            0.10750488128181268,
+            0.18135154015693458,
+            0.19342138475751056,
+            0.19534671020802108
+          ],
+          "officialStartX": 58.5
+        },
+        {
+          "text": "The Pinn·ACL cruciate guide and femoral guides have a patented collet locking mechanism that provides accurate pin placement using single-handed control",
+          "bounds": [
+            0.10753720440379394,
+            0.21410489655250772,
+            0.5564733938966432,
+            0.228213491599425
+          ],
+          "officialStartX": 58.4989013671875
+        }
+      ],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 4
+}

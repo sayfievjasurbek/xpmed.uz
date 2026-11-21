@@ -1,0 +1,41 @@
+{
+  "method": "Compare every family against all existing Double Medical names (normalized tokens) and all implant REF codes; shared tools alone do not merge instrument sets",
+  "overlaps": [
+    {
+      "sourceName": {
+        "ru": "2.4 мм Блокируемый винт, самонарезающий, со шлицем Torx",
+        "en": "2.4mm Locking Screw, self-tapping, torxdrive"
+      },
+      "sourcePages": [
+        293
+      ],
+      "refMatches": {
+        "2-4mm-locking-screw-self-tapping-torxdrive": 20
+      }
+    }
+  ],
+  "merged": [
+    {
+      "slug": "2-4mm-locking-screw-self-tapping-torxdrive",
+      "name": {
+        "ru": "2.4 мм Блокируемый винт, самонарезающий, со шлицем Torx",
+        "en": "2.4mm Locking Screw, self-tapping, torxdrive"
+      },
+      "matchedBy": "name + REF",
+      "sourcePages": [
+        293
+      ]
+    },
+    {
+      "slug": "uhn-universal-humeral-nail",
+      "name": {
+        "ru": "Универсальный штифт UHN",
+        "en": "UHN universal humeral nail"
+      },
+      "matchedBy": "name",
+      "sourcePages": [
+        352
+      ]
+    }
+  ]
+}

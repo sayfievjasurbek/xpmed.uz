@@ -1,0 +1,771 @@
+{
+  "pdfPage": 37,
+  "officialPage": 53,
+  "alignment": [
+    [
+      0.9707757409754881,
+      -1.2358638990558185e-05,
+      0.014598788125238385
+    ],
+    [
+      -0.0007852553829684834,
+      0.9785676365805324,
+      0.011361132394461645
+    ]
+  ],
+  "alignmentMatches": 39,
+  "alignmentInliers": 39,
+  "category": "knee-arthroscopy",
+  "title": {
+    "en": "Cruciate Reconstruction Accessories",
+    "ru": "Принадлежности для реконструкции крестообразных связок"
+  },
+  "groups": [
+    {
+      "title": "Osteoprep® Instruments — Curettes",
+      "page": 37,
+      "officialPage": 53,
+      "headingBounds": [
+        0.10025240504140066,
+        0.25406915112581835,
+        0.14782026038489512,
+        0.2672079869949023
+      ],
+      "rows": [
+        {
+          "description": "Open Curette, 3mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "24.1005",
+              "sourceBounds": [
+                0.5173116099163,
+                0.27325581407763533,
+                0.5682281039329872,
+                0.2848837209223648
+              ],
+              "officialCode": "24.1005",
+              "officialBounds": [
+                320.8139953613281,
+                211.29591369628906,
+                347.9975891113281,
+                221.47491455078125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.26606976750000005,
+            0.5782281039329872,
+            0.2880697675000001
+          ],
+          "pdfPage": 37,
+          "officialPage": 53
+        },
+        {
+          "description": "Open Curette, 4mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "25.1005",
+              "sourceBounds": [
+                0.5173116108073388,
+                0.2906976743392632,
+                0.568228104824026,
+                0.30232558118399266
+              ],
+              "officialCode": "25.1005",
+              "officialBounds": [
+                320.4179992675781,
+                225.79493713378906,
+                347.9985046386719,
+                235.97393798828125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.2835116277616279,
+            0.578228104824026,
+            0.30551162776162794
+          ],
+          "pdfPage": 37,
+          "officialPage": 53
+        },
+        {
+          "description": "Open Curette, 8mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8211",
+              "sourceBounds": [
+                0.519348268776137,
+                0.3095930234827057,
+                0.5661914460303802,
+                0.31976744173531757
+              ],
+              "officialCode": "8211",
+              "officialBounds": [
+                331.16400146484375,
+                240.29396057128906,
+                348.0047912597656,
+                250.47296142578125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3016802326090116,
+            0.5761914460303802,
+            0.32368023260901163
+          ],
+          "pdfPage": 37,
+          "officialPage": 53
+        },
+        {
+          "description": "Cupped Curette, 3mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "24.1006",
+              "sourceBounds": [
+                0.5171584870995268,
+                0.3266845881688937,
+                0.5683812286204787,
+                0.33901308611610204
+              ],
+              "officialCode": "24.1006",
+              "officialBounds": [
+                320.7330017089844,
+                254.79298400878906,
+                348.00390625,
+                264.97198486328125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.31984883714249784,
+            0.5783812286204787,
+            0.34184883714249786
+          ],
+          "pdfPage": 37,
+          "officialPage": 53
+        },
+        {
+          "description": "Cupped Curette, 4mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "25.1006",
+              "sourceBounds": [
+                0.5173116107891542,
+                0.3444767441897615,
+                0.5682281048058414,
+                0.35610465103449096
+              ],
+              "officialCode": "25.1006",
+              "officialBounds": [
+                320.3370056152344,
+                269.2920227050781,
+                348.00482177734375,
+                279.47100830078125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3372906976121262,
+            0.5782281048058414,
+            0.35929069761212623
+          ],
+          "pdfPage": 37,
+          "officialPage": 53
+        },
+        {
+          "description": "Cupped Curette, 8mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8212",
+              "sourceBounds": [
+                0.5193482687173847,
+                0.363372093126601,
+                0.5682281070056295,
+                0.3735465113792129
+              ],
+              "officialCode": "8212",
+              "officialBounds": [
+                331.0469970703125,
+                283.791015625,
+                348.0047912597656,
+                293.9700012207031
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.35545930225290695,
+            0.5782281070056295,
+            0.37745930225290697
+          ],
+          "pdfPage": 37,
+          "officialPage": 53
+        },
+        {
+          "description": "PCL Curved Curette, 4mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C8737",
+              "sourceBounds": [
+                0.5173116109346301,
+                0.380813953342623,
+                0.5682281049513171,
+                0.3938953487794701
+              ],
+              "officialCode": "C8737",
+              "officialBounds": [
+                325.7279968261719,
+                298.2900085449219,
+                348.0111389160156,
+                308.468994140625
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.37435465106104654,
+            0.5782281049513172,
+            0.39635465106104656
+          ],
+          "pdfPage": 37,
+          "officialPage": 53
+        }
+      ],
+      "features": [],
+      "notes": [
+        "Osteoprep Instruments provide an array of bone shaping devices especially suited",
+        "for notchplasties.",
+        "Microfracture awls allow the creation of localized vascular access channels in",
+        "chondral defects. They are also useful in marking intended drill sites in all ACL",
+        "and PCL procedures."
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Osteoprep® Instruments — Rasps",
+      "page": 37,
+      "officialPage": 53,
+      "headingBounds": [
+        0.10026461800957816,
+        0.4177680859180253,
+        0.13488403490766532,
+        0.4309173580043001
+      ],
+      "rows": [
+        {
+          "description": "Straight Rasp, 4mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "25.1007",
+              "sourceBounds": [
+                0.5172153246243254,
+                0.43724940387801636,
+                0.5683243892278736,
+                0.4479250148820131
+              ],
+              "officialCode": "25.1007",
+              "officialBounds": [
+                320.5979919433594,
+                343.7850036621094,
+                348.00750732421875,
+                353.9639892578125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.4295872093800147,
+            0.5783243892278737,
+            0.45158720938001473
+          ],
+          "pdfPage": 37,
+          "officialPage": 53
+        },
+        {
+          "description": "Convex Rasp, 4mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "25.1637",
+              "sourceBounds": [
+                0.5172252257313984,
+                0.45474665950754756,
+                0.5683144899869698,
+                0.46676496826060654
+              ],
+              "officialCode": "25.1637",
+              "officialBounds": [
+                320.5799865722656,
+                358.28399658203125,
+                348.00482177734375,
+                368.4629821777344
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.44775581388407704,
+            0.5783144899869698,
+            0.46975581388407706
+          ],
+          "pdfPage": 37,
+          "officialPage": 53
+        },
+        {
+          "description": "Concave Rasp, 4mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "25.1647",
+              "sourceBounds": [
+                0.5193482676175885,
+                0.47383720966103193,
+                0.5682281059058334,
+                0.48255813932152625
+              ],
+              "officialCode": "25.1647",
+              "officialBounds": [
+                320.6789855957031,
+                372.7829895019531,
+                348.0011901855469,
+                382.96197509765625
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.4651976744912791,
+            0.5782281059058334,
+            0.4871976744912791
+          ],
+          "pdfPage": 37,
+          "officialPage": 53
+        },
+        {
+          "description": "Tunnel Rasp, Fine, 9mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C8734",
+              "sourceBounds": [
+                0.5173116102048269,
+                0.4912790698324485,
+                0.568228104221514,
+                0.5043604652692956
+              ],
+              "officialCode": "C8734",
+              "officialBounds": [
+                325.49395751953125,
+                387.281982421875,
+                348.00299072265625,
+                397.4609680175781
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.484819767550872,
+            0.578228104221514,
+            0.506819767550872
+          ],
+          "pdfPage": 37,
+          "officialPage": 53
+        },
+        {
+          "description": "PCL Curved Rasp",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C8736",
+              "sourceBounds": [
+                0.5170626846133012,
+                0.5082110412325052,
+                0.5684770311092889,
+                0.5223122144290253
+              ],
+              "officialCode": "C8736",
+              "officialBounds": [
+                325.5389404296875,
+                401.7809753417969,
+                348.00567626953125,
+                411.9599609375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5022616278307652,
+            0.5784770311092889,
+            0.5242616278307652
+          ],
+          "pdfPage": 37,
+          "officialPage": 53
+        }
+      ],
+      "features": [],
+      "notes": [
+        "Osteoprep Instruments provide an array of bone shaping devices especially suited",
+        "for notchplasties.",
+        "Microfracture awls allow the creation of localized vascular access channels in",
+        "chondral defects. They are also useful in marking intended drill sites in all ACL",
+        "and PCL procedures."
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Osteoprep® Instruments — Microfracture Awls",
+      "page": 37,
+      "officialPage": 53,
+      "headingBounds": [
+        0.10026290628502861,
+        0.545637922847163,
+        0.20917524147585342,
+        0.5587270997831952
+      ],
+      "rows": [
+        {
+          "description": "Microfracture Awl, 30°, 279mm length",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8201",
+              "sourceBounds": [
+                0.519348268776137,
+                0.5654069769710778,
+                0.5661914460303802,
+                0.5755813952236897
+              ],
+              "officialCode": "8201",
+              "officialBounds": [
+                330.4979553222656,
+                447.2759704589844,
+                348.00390625,
+                457.4549560546875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5574941860973838,
+            0.5761914460303802,
+            0.5794941860973838
+          ],
+          "pdfPage": 37,
+          "officialPage": 53
+        },
+        {
+          "description": "Microfracture Awl, 45°, Thin Shaft, 279mm length",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8202",
+              "sourceBounds": [
+                0.5193482687173847,
+                0.5828488371881003,
+                0.5682281070056295,
+                0.5944767440328298
+              ],
+              "officialCode": "8202",
+              "officialBounds": [
+                330.3719482421875,
+                461.77496337890625,
+                348.00927734375,
+                471.9539489746094
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5756627906104651,
+            0.5782281070056295,
+            0.5976627906104651
+          ],
+          "pdfPage": 37,
+          "officialPage": 53
+        },
+        {
+          "description": "Microfracture Awl, 45°, Standard, 279mm length",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8203",
+              "sourceBounds": [
+                0.5193482681878532,
+                0.6017441862734033,
+                0.5682281064760981,
+                0.6119186045260153
+              ],
+              "officialCode": "8203",
+              "officialBounds": [
+                330.3449401855469,
+                476.2739562988281,
+                348.01287841796875,
+                486.45294189453125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5938313953997093,
+            0.5782281064760981,
+            0.6158313953997093
+          ],
+          "pdfPage": 37,
+          "officialPage": 53
+        },
+        {
+          "description": "Microfracture Awl, 90°",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8204",
+              "sourceBounds": [
+                0.5193482687173847,
+                0.619186046614973,
+                0.5682281070056295,
+                0.629360464867585
+              ],
+              "officialCode": "8204",
+              "officialBounds": [
+                330.2999267578125,
+                490.77294921875,
+                348.0146484375,
+                500.9519348144531
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.611273255741279,
+            0.5782281070056295,
+            0.633273255741279
+          ],
+          "pdfPage": 37,
+          "officialPage": 53
+        },
+        {
+          "description": "Microfracture Awl, 30°, 190.5mm length",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "7201",
+              "sourceBounds": [
+                0.5193482716960299,
+                0.6366279070800894,
+                0.5682281046787153,
+                0.6468023253327013
+              ],
+              "officialCode": "7201",
+              "officialBounds": [
+                330.55194091796875,
+                505.2719421386719,
+                348.006591796875,
+                515.450927734375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.6287151162063954,
+            0.5782281046787153,
+            0.6507151162063954
+          ],
+          "pdfPage": 37,
+          "officialPage": 53
+        },
+        {
+          "description": "Microfracture Awl, 45°, 190.5mm length",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "7202",
+              "sourceBounds": [
+                0.5392291136763843,
+                0.6554563215182808,
+                0.5658383877910389,
+                0.6634105498185878
+              ],
+              "officialCode": "7202",
+              "officialBounds": [
+                330.4259338378906,
+                519.7708740234375,
+                348.00921630859375,
+                529.9498901367188
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.6464334356684344,
+            0.5758383877910389,
+            0.6684334356684344
+          ],
+          "pdfPage": 37,
+          "officialPage": 53
+        },
+        {
+          "description": "Microfracture Awl, 90°, 190.5mm length",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "7204",
+              "sourceBounds": [
+                0.5173116107891542,
+                0.671511628142956,
+                0.5682281048058414,
+                0.6860465112258151
+              ],
+              "officialCode": "7204",
+              "officialBounds": [
+                330.3449401855469,
+                534.2698974609375,
+                348.0056457519531,
+                544.4489135742188
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.6657790696843855,
+            0.5782281048058414,
+            0.6877790696843855
+          ],
+          "pdfPage": 37,
+          "officialPage": 53
+        }
+      ],
+      "features": [],
+      "notes": [
+        "Osteoprep Instruments provide an array of bone shaping devices especially suited",
+        "for notchplasties.",
+        "Microfracture awls allow the creation of localized vascular access channels in",
+        "chondral defects. They are also useful in marking intended drill sites in all ACL",
+        "and PCL procedures."
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Osteoprep® Instruments — Osteotome",
+      "page": 37,
+      "officialPage": 53,
+      "headingBounds": [
+        0.10026083888255549,
+        0.7093366240987156,
+        0.1607342915511718,
+        0.722464982991651
+      ],
+      "rows": [
+        {
+          "description": "Graduated Osteotome, 6mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8213",
+              "sourceBounds": [
+                0.5173116108073388,
+                0.7281976742110823,
+                0.568228104824026,
+                0.7412790696479293
+              ],
+              "officialCode": "8213",
+              "officialBounds": [
+                331.0379638671875,
+                579.764892578125,
+                348.0047912597656,
+                589.9439086914062
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.7217383719295057,
+            0.578228104824026,
+            0.7437383719295058
+          ],
+          "pdfPage": 37,
+          "officialPage": 53
+        }
+      ],
+      "features": [],
+      "notes": [
+        "Osteoprep Instruments provide an array of bone shaping devices especially suited",
+        "for notchplasties.",
+        "Microfracture awls allow the creation of localized vascular access channels in",
+        "chondral defects. They are also useful in marking intended drill sites in all ACL",
+        "and PCL procedures."
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Osteoprep® Instruments — Accessories",
+      "page": 37,
+      "officialPage": 53,
+      "headingBounds": [
+        0.10026017737113171,
+        0.7655486566960094,
+        0.17211172355605192,
+        0.7786678119090376
+      ],
+      "rows": [
+        {
+          "description": "Instrument Tray with Lid (Accommodates 8 Osteoprep Instruments)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8217",
+              "sourceBounds": [
+                0.5173116103915207,
+                0.7848837209574802,
+                0.5682281044082078,
+                0.7965116278022096
+              ],
+              "officialCode": "8217",
+              "officialBounds": [
+                331.05596923828125,
+                625.2598876953125,
+                348.0137634277344,
+                635.4389038085938
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.7776976743798448,
+            0.5782281044082078,
+            0.7996976743798448
+          ],
+          "pdfPage": 37,
+          "officialPage": 53
+        }
+      ],
+      "features": [],
+      "notes": [
+        "Osteoprep Instruments provide an array of bone shaping devices especially suited",
+        "for notchplasties.",
+        "Microfracture awls allow the creation of localized vascular access channels in",
+        "chondral defects. They are also useful in marking intended drill sites in all ACL",
+        "and PCL procedures."
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 21
+}

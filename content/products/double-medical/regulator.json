@@ -1,0 +1,1254 @@
+{
+  "slug": "regulator",
+  "brand": "double-medical",
+  "category": "trauma-implants",
+  "subcategory": "trauma-external-fixation",
+  "subcategories": [
+    "trauma-external-fixation"
+  ],
+  "specialty": [
+    "traumatology",
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Регулировочный узел",
+    "en": "Regulator"
+  },
+  "shortDescription": {
+    "ru": "Импланты для остеосинтеза",
+    "en": "Implants for fracture fixation"
+  },
+  "description": {
+    "ru": "Регулировочный узел. Характеристики и каталожные номера приведены по Trauma Catalogue Double Medical.",
+    "en": "Regulator. Specifications and reference numbers are listed according to the Double Medical Trauma Catalogue."
+  },
+  "heroImage": "/images/products/double-medical/regulator/page-533-art-02.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "width": 400,
+      "height": 234,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          168,
+          85
+        ],
+        "enhancedSize": [
+          336,
+          170
+        ]
+      },
+      "src": "/images/products/double-medical/regulator/page-533-art-02.webp",
+      "imageCaption": {
+        "ru": "Регулировочный узел",
+        "en": "Regulator"
+      },
+      "sourcePages": [
+        533
+      ]
+    },
+    {
+      "width": 758,
+      "height": 358,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          347,
+          147
+        ],
+        "enhancedSize": [
+          694,
+          294
+        ]
+      },
+      "src": "/images/products/double-medical/regulator/page-544-art-04.webp",
+      "imageCaption": {
+        "ru": "Регулировочный узел",
+        "en": "Regulator"
+      },
+      "sourcePages": [
+        544
+      ]
+    },
+    {
+      "width": 402,
+      "height": 240,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          169,
+          88
+        ],
+        "enhancedSize": [
+          338,
+          176
+        ]
+      },
+      "src": "/images/products/double-medical/regulator/page-545-art-06.webp",
+      "imageCaption": {
+        "ru": "Регулировочный узел",
+        "en": "Regulator"
+      },
+      "sourcePages": [
+        545
+      ]
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [
+    {
+      "id": "trauma-p533-2",
+      "groupId": "trauma-p533-2",
+      "title": {
+        "ru": "Регулировочный узел",
+        "en": "Regulator"
+      },
+      "unit": "mm",
+      "sourcePage": 533,
+      "sourcePages": [
+        533
+      ],
+      "printedPage": "9/5",
+      "hideDescriptionColumn": true,
+      "columns": [
+        {
+          "ru": "Позиция",
+          "en": "Item"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Регулировочный узел",
+            "en": "Regulator"
+          },
+          "108850800"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 533,
+          "printedPage": "9/5",
+          "sourceBounds": [
+            0.08,
+            0.3877258853453336,
+            0.55,
+            0.4037043631383291
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p533-2",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 533,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "108850800"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "108850800"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "108850800"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "108850800",
+                "PSM11": "108850800",
+                "Vision": "108850800"
+              },
+              "value": "108850800",
+              "bounds": [
+                0.13408280778722237,
+                0.3907258853453336,
+                0.22072936660268713,
+                0.4007043631383291
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "108850800"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "width": 400,
+          "height": 234,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              168,
+              85
+            ],
+            "enhancedSize": [
+              336,
+              170
+            ]
+          },
+          "src": "/images/products/double-medical/regulator/page-533-art-02.webp",
+          "imageCaption": {
+            "ru": "Регулировочный узел",
+            "en": "Regulator"
+          },
+          "sourcePages": [
+            533
+          ]
+        }
+      ],
+      "keyParameters": []
+    },
+    {
+      "id": "trauma-p544-4",
+      "groupId": "trauma-p544-4",
+      "title": {
+        "ru": "Регулировочный узел",
+        "en": "Regulator"
+      },
+      "unit": "mm",
+      "sourcePage": 544,
+      "sourcePages": [
+        544
+      ],
+      "printedPage": "9/16",
+      "hideDescriptionColumn": true,
+      "columns": [
+        {
+          "ru": "Позиция",
+          "en": "Item"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Размер",
+          "en": "Size"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Регулировочный узел · Размер: Ø6.0*55/75",
+            "en": "Regulator · Size: Ø6.0*55/75"
+          },
+          "108861000",
+          {
+            "ru": "Ø6.0*55/75",
+            "en": "Ø6.0*55/75"
+          }
+        ],
+        [
+          {
+            "ru": "Регулировочный узел · Размер: Ø6.0*80/125",
+            "en": "Regulator · Size: Ø6.0*80/125"
+          },
+          "108861100",
+          {
+            "ru": "Ø6.0*80/125",
+            "en": "Ø6.0*80/125"
+          }
+        ],
+        [
+          {
+            "ru": "Регулировочный узел · Размер: Ø6.0*120/205",
+            "en": "Regulator · Size: Ø6.0*120/205"
+          },
+          "108861200",
+          {
+            "ru": "Ø6.0*120/205",
+            "en": "Ø6.0*120/205"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 544,
+          "printedPage": "9/16",
+          "sourceBounds": [
+            0.08,
+            0.6154699667384074,
+            0.55307535588202,
+            0.6314484445314028
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p544-4",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 544,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "108861000"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "108861000"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "108861000"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "108861000",
+                "PSM11": "108861000",
+                "Vision": "108861000"
+              },
+              "value": "108861000",
+              "bounds": [
+                0.11543734576364136,
+                0.6184699667384074,
+                0.2020839045791061,
+                0.6284484445314028
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "108861000"
+            },
+            {
+              "readings": {
+                "PSM3": "(6.0*55/75",
+                "PSM11": "6.0*55/75",
+                "Vision": "46.0*55/75"
+              },
+              "value": null,
+              "visualReading": {
+                "reader": "Codex 600-DPI source crop",
+                "text": "Ø6.0*55/75"
+              },
+              "verifiedValue": "Ø6.0*55/75"
+            }
+          ]
+        },
+        {
+          "pdfPage": 544,
+          "printedPage": "9/16",
+          "sourceBounds": [
+            0.08,
+            0.6301441987869302,
+            0.55307535588202,
+            0.6461226765799256
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p544-4",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 544,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "108861100"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "108861100"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "108861100"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "108861100",
+                "PSM11": "108861100",
+                "Vision": "108861100"
+              },
+              "value": "108861100",
+              "bounds": [
+                0.11543734576364136,
+                0.6331441987869302,
+                0.20098711269536607,
+                0.6431226765799256
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "108861100"
+            },
+            {
+              "readings": {
+                "PSM3": "06.0*80/125",
+                "PSM11": "(6.0*80/125",
+                "Vision": "$6.0*80/125"
+              },
+              "value": null,
+              "visualReading": {
+                "reader": "Codex 600-DPI source crop",
+                "text": "Ø6.0*80/125"
+              },
+              "verifiedValue": "Ø6.0*80/125"
+            }
+          ]
+        },
+        {
+          "pdfPage": 544,
+          "printedPage": "9/16",
+          "sourceBounds": [
+            0.08,
+            0.644818430835453,
+            0.55307535588202,
+            0.6607969086284484
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p544-4",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 544,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "108861200"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "108861200"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "108861200"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "108861200",
+                "PSM11": "108861200",
+                "Vision": "108861200"
+              },
+              "value": "108861200",
+              "bounds": [
+                0.11543734576364136,
+                0.647818430835453,
+                0.2020839045791061,
+                0.6577969086284484
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "108861200"
+            },
+            {
+              "readings": {
+                "PSM3": "06.0*120/205",
+                "PSM11": "6.0*120/205",
+                "Vision": "46.0*120/205"
+              },
+              "value": null,
+              "visualReading": {
+                "reader": "Codex 600-DPI source crop",
+                "text": "Ø6.0*120/205"
+              },
+              "verifiedValue": "Ø6.0*120/205"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "width": 758,
+          "height": 358,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              347,
+              147
+            ],
+            "enhancedSize": [
+              694,
+              294
+            ]
+          },
+          "src": "/images/products/double-medical/regulator/page-544-art-04.webp",
+          "imageCaption": {
+            "ru": "Регулировочный узел",
+            "en": "Regulator"
+          },
+          "sourcePages": [
+            544
+          ]
+        }
+      ],
+      "keyParameters": []
+    },
+    {
+      "id": "trauma-p545-6",
+      "groupId": "trauma-p545-6",
+      "title": {
+        "ru": "Регулировочный узел",
+        "en": "Regulator"
+      },
+      "unit": "mm",
+      "sourcePage": 545,
+      "sourcePages": [
+        545
+      ],
+      "printedPage": "9/17",
+      "hideDescriptionColumn": true,
+      "columns": [
+        {
+          "ru": "Позиция",
+          "en": "Item"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Размер",
+          "en": "Size"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Регулировочный узел · Размер: Ø4.5x50/90",
+            "en": "Regulator · Size: Ø4.5x50/90"
+          },
+          "108850700",
+          {
+            "ru": "Ø4.5x50/90",
+            "en": "Ø4.5x50/90"
+          }
+        ],
+        [
+          {
+            "ru": "Регулировочный узел · Размер: Ø4.5x80/170",
+            "en": "Regulator · Size: Ø4.5x80/170"
+          },
+          "108850800",
+          {
+            "ru": "Ø4.5x80/170",
+            "en": "Ø4.5x80/170"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 545,
+          "printedPage": "9/17",
+          "sourceBounds": [
+            0.08,
+            0.875106045783604,
+            0.5673319775012258,
+            0.8908888671492858
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p545-6",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 545,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "108850700"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "108850700"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "108850700"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "108850700",
+                "PSM11": "108850700",
+                "Vision": "108850700"
+              },
+              "value": "108850700",
+              "bounds": [
+                0.13408280778722237,
+                0.878106045783604,
+                0.22072936660268713,
+                0.8878888671492858
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "108850700"
+            },
+            {
+              "readings": {
+                "PSM3": "04.5x50/90",
+                "PSM11": "04.5x50/90",
+                "Vision": "$4.5x50/90"
+              },
+              "value": "04.5x50/90",
+              "verifiedValue": "Ø4.5x50/90"
+            }
+          ]
+        },
+        {
+          "pdfPage": 545,
+          "printedPage": "9/17",
+          "sourceBounds": [
+            0.08,
+            0.8897802778321268,
+            0.5673319775012258,
+            0.9055630991978086
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p545-6",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 545,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "108850800"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "108850800"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "108850800"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "108850800",
+                "PSM11": "108850800",
+                "Vision": "108850800"
+              },
+              "value": "108850800",
+              "bounds": [
+                0.13408280778722237,
+                0.8927802778321268,
+                0.22072936660268713,
+                0.9025630991978086
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "108850800"
+            },
+            {
+              "readings": {
+                "PSM3": "04.5x80/170",
+                "PSM11": "04.5x80/170",
+                "Vision": "$4.5×80/170"
+              },
+              "value": "04.5x80/170",
+              "verifiedValue": "Ø4.5x80/170"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "width": 402,
+          "height": 240,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              169,
+              88
+            ],
+            "enhancedSize": [
+              338,
+              176
+            ]
+          },
+          "src": "/images/products/double-medical/regulator/page-545-art-06.webp",
+          "imageCaption": {
+            "ru": "Регулировочный узел",
+            "en": "Regulator"
+          },
+          "sourcePages": [
+            545
+          ]
+        }
+      ],
+      "keyParameters": []
+    }
+  ],
+  "refCodes": [
+    "108850800",
+    "108861000",
+    "108861100",
+    "108861200",
+    "108850700"
+  ],
+  "sourcePages": [
+    533,
+    544,
+    545
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Trauma Catalogue — каталог продукции",
+    "en": "Double Medical Trauma Catalogue — product catalog"
+  },
+  "documentCover": "/catalogs/double-medical/trauma-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "catalogType": "list",
+  "importPartition": "trauma-part3",
+  "availabilityNote": {
+    "ru": "Изображения приведены для справки",
+    "en": "Images for reference only"
+  },
+  "imageDimensions": {
+    "/images/products/double-medical/regulator/page-533-art-02.webp": {
+      "width": 400,
+      "height": 234
+    },
+    "/images/products/double-medical/regulator/page-544-art-04.webp": {
+      "width": 758,
+      "height": 358
+    },
+    "/images/products/double-medical/regulator/page-545-art-06.webp": {
+      "width": 402,
+      "height": 240
+    }
+  },
+  "relatedSystemSlugs": [],
+  "sourcePdf": "/catalogs/double-medical/trauma-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/trauma-catalogue/pages/533.webp",
+    "/catalogs/double-medical/trauma-catalogue/pages/544.webp",
+    "/catalogs/double-medical/trauma-catalogue/pages/545.webp"
+  ],
+  "sourcePageDimensions": {
+    "530": {
+      "width": 3647,
+      "height": 5111
+    },
+    "531": {
+      "width": 3647,
+      "height": 5111
+    },
+    "532": {
+      "width": 3647,
+      "height": 5111
+    },
+    "533": {
+      "width": 3647,
+      "height": 5111
+    },
+    "534": {
+      "width": 3647,
+      "height": 5111
+    },
+    "535": {
+      "width": 3647,
+      "height": 5111
+    },
+    "536": {
+      "width": 3647,
+      "height": 5111
+    },
+    "537": {
+      "width": 3647,
+      "height": 5111
+    },
+    "538": {
+      "width": 3647,
+      "height": 5111
+    },
+    "539": {
+      "width": 3647,
+      "height": 5111
+    },
+    "540": {
+      "width": 3647,
+      "height": 5111
+    },
+    "541": {
+      "width": 3647,
+      "height": 5111
+    },
+    "542": {
+      "width": 3647,
+      "height": 5111
+    },
+    "543": {
+      "width": 3647,
+      "height": 5111
+    },
+    "544": {
+      "width": 3647,
+      "height": 5111
+    },
+    "545": {
+      "width": 3647,
+      "height": 5111
+    },
+    "546": {
+      "width": 3647,
+      "height": 5111
+    },
+    "547": {
+      "width": 3647,
+      "height": 5111
+    },
+    "548": {
+      "width": 3647,
+      "height": 5111
+    },
+    "549": {
+      "width": 3647,
+      "height": 5111
+    },
+    "550": {
+      "width": 3647,
+      "height": 5111
+    },
+    "551": {
+      "width": 3647,
+      "height": 5111
+    },
+    "552": {
+      "width": 3647,
+      "height": 5111
+    },
+    "553": {
+      "width": 3647,
+      "height": 5111
+    },
+    "554": {
+      "width": 3647,
+      "height": 5111
+    },
+    "555": {
+      "width": 3647,
+      "height": 5111
+    },
+    "556": {
+      "width": 3647,
+      "height": 5111
+    },
+    "557": {
+      "width": 3647,
+      "height": 5111
+    },
+    "558": {
+      "width": 3647,
+      "height": 5111
+    },
+    "559": {
+      "width": 3647,
+      "height": 5111
+    },
+    "560": {
+      "width": 3647,
+      "height": 5111
+    },
+    "561": {
+      "width": 3647,
+      "height": 5111
+    },
+    "562": {
+      "width": 3647,
+      "height": 5111
+    },
+    "563": {
+      "width": 3647,
+      "height": 5111
+    },
+    "564": {
+      "width": 3647,
+      "height": 5111
+    },
+    "565": {
+      "width": 3647,
+      "height": 5111
+    },
+    "566": {
+      "width": 3647,
+      "height": 5111
+    },
+    "567": {
+      "width": 3647,
+      "height": 5111
+    },
+    "568": {
+      "width": 3647,
+      "height": 5111
+    },
+    "569": {
+      "width": 3647,
+      "height": 5111
+    },
+    "570": {
+      "width": 3647,
+      "height": 5111
+    },
+    "571": {
+      "width": 3647,
+      "height": 5111
+    },
+    "572": {
+      "width": 3647,
+      "height": 5111
+    },
+    "573": {
+      "width": 3647,
+      "height": 5111
+    },
+    "574": {
+      "width": 3647,
+      "height": 5111
+    },
+    "575": {
+      "width": 3647,
+      "height": 5111
+    },
+    "576": {
+      "width": 3647,
+      "height": 5111
+    },
+    "577": {
+      "width": 3647,
+      "height": 5111
+    },
+    "578": {
+      "width": 3647,
+      "height": 5111
+    },
+    "582": {
+      "width": 3647,
+      "height": 5111
+    },
+    "583": {
+      "width": 3647,
+      "height": 5111
+    },
+    "584": {
+      "width": 3647,
+      "height": 5111
+    },
+    "585": {
+      "width": 3647,
+      "height": 5111
+    },
+    "586": {
+      "width": 3647,
+      "height": 5111
+    },
+    "587": {
+      "width": 3647,
+      "height": 5111
+    },
+    "588": {
+      "width": 3647,
+      "height": 5111
+    },
+    "589": {
+      "width": 3647,
+      "height": 5111
+    },
+    "590": {
+      "width": 3647,
+      "height": 5111
+    },
+    "591": {
+      "width": 3647,
+      "height": 5111
+    },
+    "592": {
+      "width": 3647,
+      "height": 5111
+    },
+    "593": {
+      "width": 3647,
+      "height": 5111
+    },
+    "594": {
+      "width": 3647,
+      "height": 5111
+    },
+    "595": {
+      "width": 3647,
+      "height": 5111
+    },
+    "596": {
+      "width": 3647,
+      "height": 5111
+    },
+    "597": {
+      "width": 3647,
+      "height": 5111
+    },
+    "598": {
+      "width": 3647,
+      "height": 5111
+    },
+    "599": {
+      "width": 3647,
+      "height": 5111
+    },
+    "600": {
+      "width": 3647,
+      "height": 5111
+    },
+    "601": {
+      "width": 3647,
+      "height": 5111
+    },
+    "602": {
+      "width": 3647,
+      "height": 5111
+    },
+    "603": {
+      "width": 3647,
+      "height": 5111
+    },
+    "604": {
+      "width": 3647,
+      "height": 5111
+    },
+    "605": {
+      "width": 3647,
+      "height": 5111
+    },
+    "606": {
+      "width": 3647,
+      "height": 5111
+    },
+    "607": {
+      "width": 3647,
+      "height": 5111
+    },
+    "608": {
+      "width": 3647,
+      "height": 5111
+    },
+    "612": {
+      "width": 3647,
+      "height": 5111
+    },
+    "613": {
+      "width": 3647,
+      "height": 5111
+    },
+    "614": {
+      "width": 3647,
+      "height": 5111
+    },
+    "615": {
+      "width": 3647,
+      "height": 5111
+    },
+    "616": {
+      "width": 3647,
+      "height": 5111
+    },
+    "617": {
+      "width": 3647,
+      "height": 5111
+    },
+    "620": {
+      "width": 3647,
+      "height": 5111
+    },
+    "621": {
+      "width": 3647,
+      "height": 5111
+    },
+    "622": {
+      "width": 3647,
+      "height": 5111
+    },
+    "623": {
+      "width": 3647,
+      "height": 5111
+    },
+    "624": {
+      "width": 3647,
+      "height": 5111
+    },
+    "625": {
+      "width": 3647,
+      "height": 5111
+    },
+    "626": {
+      "width": 3647,
+      "height": 5111
+    },
+    "627": {
+      "width": 3647,
+      "height": 5111
+    },
+    "628": {
+      "width": 3647,
+      "height": 5111
+    },
+    "632": {
+      "width": 3647,
+      "height": 5111
+    },
+    "633": {
+      "width": 3647,
+      "height": 5111
+    },
+    "634": {
+      "width": 3647,
+      "height": 5111
+    },
+    "635": {
+      "width": 3647,
+      "height": 5111
+    },
+    "636": {
+      "width": 3647,
+      "height": 5111
+    },
+    "637": {
+      "width": 3647,
+      "height": 5111
+    },
+    "638": {
+      "width": 3647,
+      "height": 5111
+    },
+    "639": {
+      "width": 3647,
+      "height": 5111
+    },
+    "640": {
+      "width": 3647,
+      "height": 5111
+    },
+    "641": {
+      "width": 3647,
+      "height": 5111
+    },
+    "642": {
+      "width": 3647,
+      "height": 5111
+    },
+    "643": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "3f2755d7646453cd1d8981369406a66062322971a7cb98258e022ae9b9769999",
+    "importMethod": "600-DPI Tesseract PSM3/11 plus independent Apple Vision; source glyph reconciliation and Codex visual reading; Codex medical RU; native photo composites, original Real-ESRGAN weights exact 2x then rembg",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      528,
+      529,
+      579,
+      580,
+      581,
+      609,
+      610,
+      611,
+      618,
+      619,
+      629,
+      630,
+      631,
+      644
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "gallery.1.imageCaption.ru",
+      "gallery.2.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.images.0.imageCaption.ru",
+      "specTables.1.title.ru",
+      "specTables.1.columns.0.ru",
+      "specTables.1.columns.1.ru",
+      "specTables.1.columns.2.ru",
+      "specTables.1.rows.0.0.ru",
+      "specTables.1.rows.0.2.ru",
+      "specTables.1.rows.1.0.ru",
+      "specTables.1.rows.1.2.ru",
+      "specTables.1.rows.2.0.ru",
+      "specTables.1.rows.2.2.ru",
+      "specTables.1.images.0.imageCaption.ru",
+      "specTables.2.title.ru",
+      "specTables.2.columns.0.ru",
+      "specTables.2.columns.1.ru",
+      "specTables.2.columns.2.ru",
+      "specTables.2.rows.0.0.ru",
+      "specTables.2.rows.0.2.ru",
+      "specTables.2.rows.1.0.ru",
+      "specTables.2.rows.1.2.ru",
+      "specTables.2.images.0.imageCaption.ru",
+      "catalogTitle.ru",
+      "availabilityNote.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Owner authorized automatic publication after source review with zero real open flags; no REF inferred.",
+    "imageQA": "Codex visual review of all seven final contact sheets and source layouts; two QR tiles excluded; two multi-instrument composites split into five separate row photos; ambiguous 607 composite retained only as a general subgroup illustration"
+  },
+  "publishedAt": "2026-11-21T06:37:29.425430+00:00"
+}

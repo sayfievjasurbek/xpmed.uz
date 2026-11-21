@@ -1,0 +1,106 @@
+{
+  "id": 45,
+  "bounds": [
+    0.8199960868714538,
+    0.5623778956181971,
+    0.9170416748190178,
+    0.5820541445715881
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "AV8541",
+      "confidence": 89.932419,
+      "words": [
+        {
+          "text": "AV8541",
+          "confidence": 89.932419,
+          "pixelBounds": [
+            4390,
+            4080,
+            4612,
+            4141
+          ],
+          "lineId": "9.6.1",
+          "bounds": [
+            0.8589317159068676,
+            0.5693552888640804,
+            0.902367442770495,
+            0.577867708624058
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "AV8541",
+      "confidence": 85.656273,
+      "words": [
+        {
+          "text": "AV8541",
+          "confidence": 85.656273,
+          "pixelBounds": [
+            4390,
+            4080,
+            4612,
+            4141
+          ],
+          "lineId": "65.1.1",
+          "bounds": [
+            0.8589317159068676,
+            0.5693552888640804,
+            0.902367442770495,
+            0.577867708624058
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "vere AVB041",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "vere",
+          "confidence": 1.117201,
+          "pixelBounds": [
+            5,
+            101,
+            151,
+            110
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "AVB041",
+          "confidence": 0.0,
+          "pixelBounds": [
+            201,
+            50,
+            421,
+            111
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "veneeeAVB541",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "veneeeAVB541",
+          "confidence": 0.0,
+          "pixelBounds": [
+            5,
+            50,
+            421,
+            111
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

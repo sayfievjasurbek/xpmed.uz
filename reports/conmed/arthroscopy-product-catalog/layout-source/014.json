@@ -1,0 +1,647 @@
+{
+  "pdfPage": 14,
+  "officialPage": 15,
+  "alignment": [
+    [
+      0.9710828310555011,
+      -0.0008518141388625781,
+      0.014938288945797986
+    ],
+    [
+      -0.01203152217654517,
+      0.8310568836593589,
+      0.04393033461396634
+    ]
+  ],
+  "alignmentMatches": 37,
+  "alignmentInliers": 28,
+  "category": "shoulder-arthroscopy",
+  "title": {
+    "en": "Rotator Cuff Repair",
+    "ru": "Восстановление вращательной манжеты"
+  },
+  "groups": [
+    {
+      "title": "® Suture Anchor — Implants",
+      "page": 14,
+      "officialPage": 15,
+      "headingBounds": [
+        0.10036606855014349,
+        0.2632155364177998,
+        0.1534357221176773,
+        0.2737488173119922
+      ],
+      "rows": [
+        {
+          "description": "3.5mm PopLok ® Suture Anchor (11mm length, Deployed)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "CKP-3500",
+              "sourceBounds": [
+                0.5139894345529251,
+                0.2905386547585822,
+                0.5660340442183526,
+                0.2987719787887245
+              ],
+              "officialCode": "CKP-3500",
+              "officialBounds": [
+                314.39520263671875,
+                224.79689025878906,
+                347.9832458496094,
+                234.97589111328125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.28165531677365335,
+            0.5760340442183526,
+            0.30365531677365337
+          ],
+          "pdfPage": 14,
+          "officialPage": 15
+        },
+        {
+          "description": "3.5mm PopLok Suture Anchor w/One #2 Hi-Fi ® Suture (11mm length, Deployed)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "CKP-3501",
+              "sourceBounds": [
+                0.5139894345529251,
+                0.32082054144571587,
+                0.5638818235179026,
+                0.32905386547585824
+              ],
+              "officialCode": "CKP-3501",
+              "officialBounds": [
+                314.39349365234375,
+                249.29591369628906,
+                347.9815368652344,
+                259.47491455078125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.311937203460787,
+            0.5738818235179026,
+            0.33393720346078704
+          ],
+          "pdfPage": 14,
+          "officialPage": 15
+        },
+        {
+          "description": "4.5mm PopLok Suture Anchor (11mm length, Deployed)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "CKP-4500",
+              "sourceBounds": [
+                0.5139894345529251,
+                0.3388222160200949,
+                0.5660340442183526,
+                0.34705554005023725
+              ],
+              "officialCode": "CKP-4500",
+              "officialBounds": [
+                314.39349365234375,
+                263.7949523925781,
+                347.9815368652344,
+                273.97393798828125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3299388780351661,
+            0.5760340442183526,
+            0.3519388780351661
+          ],
+          "pdfPage": 14,
+          "officialPage": 15
+        },
+        {
+          "description": "4.5mm PopLok Suture Anchor w/Two #2 Hi-Fi Sutures (11mm length, Deployed)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "CKP-4502",
+              "sourceBounds": [
+                0.5139894345529251,
+                0.3691041027072286,
+                0.5660340442183526,
+                0.3773374267373709
+              ],
+              "officialCode": "CKP-4502",
+              "officialBounds": [
+                314.39349365234375,
+                288.2929382324219,
+                347.9815368652344,
+                298.471923828125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.36022076472229975,
+            0.5760340442183526,
+            0.38222076472229977
+          ],
+          "pdfPage": 14,
+          "officialPage": 15
+        }
+      ],
+      "features": [
+        {
+          "text": "For lateral row or primary fixation",
+          "bounds": [
+            0.10758993702578434,
+            0.18377684683861717,
+            0.30054073334794884,
+            0.19325381589997387
+          ],
+          "officialStartX": 58.482398986816406
+        },
+        {
+          "text": "Provides ability to tension sutures individually and separately from anchor seating",
+          "bounds": [
+            0.10757810627385571,
+            0.19531930355610824,
+            0.5654980406266205,
+            0.20151335795935066
+          ],
+          "officialStartX": 58.482398986816406
+        },
+        {
+          "text": "Suture locks within the anchor",
+          "bounds": [
+            0.10756627552192706,
+            0.20686176027359934,
+            0.28515761794391886,
+            0.21652902989872844
+          ],
+          "officialStartX": 58.482398986816406
+        },
+        {
+          "text": "Sub-cortical wings provide fixation",
+          "bounds": [
+            0.10755444476999841,
+            0.21840421699109044,
+            0.3064080002214483,
+            0.22780805204667998
+          ],
+          "officialStartX": 58.482398986816406
+        },
+        {
+          "text": "Tactile and audible “POP” confirms fixation",
+          "bounds": [
+            0.10754261401806976,
+            0.22994667370858154,
+            0.35166581263897345,
+            0.23878962693380698
+          ],
+          "officialStartX": 58.482398986816406
+        }
+      ],
+      "notes": [
+        "All PEEK knotless anchor"
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "® Suture Anchor — Instruments",
+      "page": 14,
+      "officialPage": 15,
+      "headingBounds": [
+        0.10024593066948899,
+        0.37653423939451236,
+        0.16866724806201921,
+        0.3868772842202838
+      ],
+      "rows": [
+        {
+          "description": "3.5mm PopLok Punch",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "PKL-35M",
+              "sourceBounds": [
+                0.5151011524548968,
+                0.4095425884390873,
+                0.5704385622688747,
+                0.42475973750752605
+              ],
+              "officialCode": "PKL-35M",
+              "officialBounds": [
+                317.69647216796875,
+                332.7889404296875,
+                347.9815368652344,
+                342.9679260253906
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.40415116297330667,
+            0.5804385622688747,
+            0.4261511629733067
+          ],
+          "pdfPage": 14,
+          "officialPage": 15
+        },
+        {
+          "description": "4.5mm PopLok Punch",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "PKL-45M",
+              "sourceBounds": [
+                0.5130647499587256,
+                0.42838380853680924,
+                0.5704383061674356,
+                0.4422557261857303
+              ],
+              "officialCode": "PKL-45M",
+              "officialBounds": [
+                317.69647216796875,
+                347.2879333496094,
+                347.9815368652344,
+                357.4669189453125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.42231976736126975,
+            0.5804383061674356,
+            0.44431976736126977
+          ],
+          "pdfPage": 14,
+          "officialPage": 15
+        }
+      ],
+      "features": [
+        {
+          "text": "For lateral row or primary fixation",
+          "bounds": [
+            0.10758993702578434,
+            0.18377684683861717,
+            0.30054073334794884,
+            0.19325381589997387
+          ],
+          "officialStartX": 58.482398986816406
+        },
+        {
+          "text": "Provides ability to tension sutures individually and separately from anchor seating",
+          "bounds": [
+            0.10757810627385571,
+            0.19531930355610824,
+            0.5654980406266205,
+            0.20151335795935066
+          ],
+          "officialStartX": 58.482398986816406
+        },
+        {
+          "text": "Suture locks within the anchor",
+          "bounds": [
+            0.10756627552192706,
+            0.20686176027359934,
+            0.28515761794391886,
+            0.21652902989872844
+          ],
+          "officialStartX": 58.482398986816406
+        },
+        {
+          "text": "Sub-cortical wings provide fixation",
+          "bounds": [
+            0.10755444476999841,
+            0.21840421699109044,
+            0.3064080002214483,
+            0.22780805204667998
+          ],
+          "officialStartX": 58.482398986816406
+        },
+        {
+          "text": "Tactile and audible “POP” confirms fixation",
+          "bounds": [
+            0.10754261401806976,
+            0.22994667370858154,
+            0.35166581263897345,
+            0.23878962693380698
+          ],
+          "officialStartX": 58.482398986816406
+        }
+      ],
+      "notes": [
+        "All PEEK knotless anchor"
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "® FT Suture Anchors — Implants",
+      "page": 14,
+      "officialPage": 15,
+      "headingBounds": [
+        0.10008159272599348,
+        0.5407591707723732,
+        0.15223727962288452,
+        0.5513037435088082
+      ],
+      "rows": [
+        {
+          "description": "Super Revo ® FT Suture Anchor, 5.0mm O.D. 18.0mm length, w/Two #2 Hi-Fi Sutures",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "CF6140H",
+              "sourceBounds": [
+                0.3665987793314105,
+                0.5726686506659702,
+                0.41955193438209937,
+                0.5843253966977162
+              ],
+              "officialCode": "CF6140H",
+              "officialBounds": [
+                223.98141479492188,
+                503.7959289550781,
+                254.0054168701172,
+                513.9749145507812
+              ]
+            },
+            {
+              "printedColumn": 1,
+              "candidate": "CF6140HB",
+              "sourceBounds": [
+                0.5010183289924629,
+                0.5726744186498944,
+                0.560081467145157,
+                0.5843023254946239
+              ],
+              "officialCode": "CF6140HB",
+              "officialBounds": [
+                308.9774169921875,
+                503.7959289550781,
+                343.4293518066406,
+                513.9749145507812
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5654883720722591,
+            0.5700814671451571,
+            0.5874970236818432
+          ],
+          "pdfPage": 14,
+          "officialPage": 15
+        },
+        {
+          "description": "Super Revo FT Suture Anchor, 5.0mm O.D. 18.0mm length, w/Two #2 Hi-Fi Sutures, w/needles",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "CF6140HN",
+              "sourceBounds": [
+                0.36659877944161623,
+                0.6162790698889556,
+                0.4297352343567544,
+                0.626488095260598
+              ],
+              "officialCode": "CF6140HN",
+              "officialBounds": [
+                223.98141479492188,
+                538.2928466796875,
+                258.76641845703125,
+                548.4718627929688
+              ]
+            },
+            {
+              "printedColumn": 1,
+              "candidate": "CF6140HNB",
+              "sourceBounds": [
+                0.5008566046968566,
+                0.6143897863299433,
+                0.568389829808095,
+                0.6283427719723916
+              ],
+              "officialCode": "CF6140HNB",
+              "officialBounds": [
+                308.9773864746094,
+                538.2928466796875,
+                348.1903076171875,
+                548.4718627929688
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.6083662791511675,
+            0.5783898298080951,
+            0.6303835825747769
+          ],
+          "pdfPage": 14,
+          "officialPage": 15
+        },
+        {
+          "description": "ThRevo® FT Suture Anchor, 5.0mm O.D. 18.0mm length, w/Three #2 Hi-Fi Sutures,",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "CF6160H",
+              "sourceBounds": [
+                0.36438987010257884,
+                0.646306523993391,
+                0.41972418146982066,
+                0.6574725459308067
+              ],
+              "officialCode": "CF6160H",
+              "officialBounds": [
+                223.98159790039062,
+                562.7958984375,
+                254.00559997558594,
+                572.9749145507812
+              ]
+            },
+            {
+              "printedColumn": 1,
+              "candidate": "CF6160HB",
+              "sourceBounds": [
+                0.4989816705237903,
+                0.6453488373843212,
+                0.5600814644049267,
+                0.6569767442290507
+              ],
+              "officialCode": "CF6160HB",
+              "officialBounds": [
+                308.97760009765625,
+                562.7958984375,
+                343.4295349121094,
+                572.9749145507812
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.6381627908066859,
+            0.5700814644049267,
+            0.6608895349620988
+          ],
+          "pdfPage": 14,
+          "officialPage": 15
+        },
+        {
+          "description": "ThRevo FT Suture Anchor, 5.0mm O.D. 18.0mm length, w/Three #2 Hi-Fi Sutures, w/needles",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "CF6160HN",
+              "sourceBounds": [
+                0.3665987797396762,
+                0.6889534884875507,
+                0.42769857362081265,
+                0.6991567459271791
+              ],
+              "officialCode": "CF6160HN",
+              "officialBounds": [
+                223.98159790039062,
+                597.2928466796875,
+                258.7666015625,
+                607.4718627929688
+              ]
+            },
+            {
+              "printedColumn": 1,
+              "candidate": "CF6160HNB",
+              "sourceBounds": [
+                0.5009564633954469,
+                0.6887689847012122,
+                0.5682899713312056,
+                0.7007658991712187
+              ],
+              "officialCode": "CF6160HNB",
+              "officialBounds": [
+                308.9775695800781,
+                597.2928466796875,
+                348.19049072265625,
+                607.4718627929688
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.6810551172073649,
+            0.5782899713312056,
+            0.7037674419362154
+          ],
+          "pdfPage": 14,
+          "officialPage": 15
+        }
+      ],
+      "features": [
+        {
+          "text": "Proven Revo ® Technology",
+          "bounds": [
+            0.10728023542284378,
+            0.48965191861688073,
+            0.18577980613151754,
+            0.5005469154870545
+          ],
+          "officialStartX": 58.48480224609375
+        },
+        {
+          "text": "Double or Triple loaded w/#2 Hi-Fi ® Suture",
+          "bounds": [
+            0.10726320105659447,
+            0.502243740727644,
+            0.3058136989110941,
+            0.5116513306062846
+          ],
+          "officialStartX": 58.482200622558594
+        }
+      ],
+      "notes": [
+        "Titanium, self-punching fully threaded anchor",
+        "Sutures: White, white-blue,",
+        "white-black, and/or white-green"
+      ],
+      "keyParameters": [],
+      "columnCount": 2
+    },
+    {
+      "title": "® FT Suture Anchors — SRS Instrument Tray",
+      "page": 14,
+      "officialPage": 15,
+      "headingBounds": [
+        0.0999034418600936,
+        0.7138896896982603,
+        0.21605065313335042,
+        0.7236414202383108
+      ],
+      "rows": [
+        {
+          "description": "Shoulder Restoration System – Instrument Tray",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "RCR-TRAY",
+              "sourceBounds": [
+                0.5112016288880401,
+                0.7470930234187205,
+                0.5682281060067326,
+                0.75872093026345
+              ],
+              "officialCode": "RCR-TRAY",
+              "officialBounds": [
+                314.8185729980469,
+                654.2898559570312,
+                347.98358154296875,
+                664.4688720703125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.7399069768410852,
+            0.5782281060067326,
+            0.7619069768410852
+          ],
+          "pdfPage": 14,
+          "officialPage": 15
+        }
+      ],
+      "features": [
+        {
+          "text": "Proven Revo ® Technology",
+          "bounds": [
+            0.10728023542284378,
+            0.48965191861688073,
+            0.18577980613151754,
+            0.5005469154870545
+          ],
+          "officialStartX": 58.48480224609375
+        },
+        {
+          "text": "Double or Triple loaded w/#2 Hi-Fi ® Suture",
+          "bounds": [
+            0.10726320105659447,
+            0.502243740727644,
+            0.3058136989110941,
+            0.5116513306062846
+          ],
+          "officialStartX": 58.482200622558594
+        }
+      ],
+      "notes": [
+        "Titanium, self-punching fully threaded anchor",
+        "Sutures: White, white-blue,"
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 11
+}

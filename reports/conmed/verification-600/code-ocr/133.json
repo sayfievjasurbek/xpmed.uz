@@ -1,0 +1,95 @@
+{
+  "id": 133,
+  "bounds": [
+    0.5130111524163569,
+    0.5605637733742673,
+    0.5840344355312072,
+    0.5754953949204578
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "QL6210XL",
+      "confidence": 86.542244,
+      "words": [
+        {
+          "text": "QL6210XL",
+          "confidence": 86.542244,
+          "pixelBounds": [
+            2623,
+            4055,
+            2895,
+            4115
+          ],
+          "lineId": "14.1.26",
+          "bounds": [
+            0.5132068088436705,
+            0.5658665922411387,
+            0.5664253570729798,
+            0.5742394641361988
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "QL6210XL",
+      "confidence": 90.341827,
+      "words": [
+        {
+          "text": "QL6210XL",
+          "confidence": 90.341827,
+          "pixelBounds": [
+            2623,
+            4055,
+            2895,
+            4115
+          ],
+          "lineId": "83.1.1",
+          "bounds": [
+            0.5132068088436705,
+            0.5658665922411387,
+            0.5664253570729798,
+            0.5742394641361988
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "QL6210XL",
+      "confidence": 83.700417,
+      "words": [
+        {
+          "text": "QL6210XL",
+          "confidence": 83.700417,
+          "pixelBounds": [
+            1,
+            38,
+            273,
+            98
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "QL6210XL",
+      "confidence": 31.700106,
+      "words": [
+        {
+          "text": "QL6210XL",
+          "confidence": 31.700106,
+          "pixelBounds": [
+            1,
+            38,
+            273,
+            98
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

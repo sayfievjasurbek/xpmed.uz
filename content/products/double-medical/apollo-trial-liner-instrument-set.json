@@ -1,0 +1,1603 @@
+{
+  "slug": "apollo-trial-liner-instrument-set",
+  "brand": "double-medical",
+  "category": "arthroplasty-instrument-sets",
+  "subcategory": "hip",
+  "specialty": [
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Набор пробных вкладышей Apollo",
+    "en": "Apollo Trial Liner Instrument Set"
+  },
+  "catalogType": "list",
+  "shortDescription": {
+    "ru": "Инструменты для эндопротезирования",
+    "en": "Arthroplasty instruments"
+  },
+  "description": {
+    "ru": "Набор пробных вкладышей Apollo. Каталожные номера и комплектация приведены по Joint Catalogue Double Medical.",
+    "en": "Apollo Trial Liner Instrument Set. Catalog numbers and contents are listed according to the Double Medical Joint Catalogue."
+  },
+  "heroImage": "/images/products/double-medical/joint-catalogue/page-048-xref-688.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "src": "/images/products/double-medical/joint-catalogue/page-048-xref-688.webp",
+      "width": 540,
+      "height": 452,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          238,
+          194
+        ],
+        "enhancedSize": [
+          476,
+          388
+        ]
+      },
+      "sourcePages": [
+        48
+      ],
+      "imageCaption": {
+        "ru": "Контейнер: Набор пробных вкладышей Apollo",
+        "en": "Apollo Trial Liner Instrument Case"
+      }
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [
+    {
+      "id": "joint-apollo-trial-liner-instrument-set-p48",
+      "title": {
+        "ru": "Инструменты · страница 48",
+        "en": "Instruments · page 48"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Пробный вкладыш Apollo, φ44/28мм",
+            "en": "Apollo Trial Liner, φ44/28mm"
+          },
+          "113097000"
+        ],
+        [
+          {
+            "ru": "Пробный вкладыш Apollo, φ46/28мм",
+            "en": "Apollo Trial Liner, φ46/28mm"
+          },
+          "113097100"
+        ],
+        [
+          {
+            "ru": "Пробный вкладыш Apollo, φ48/32мм",
+            "en": "Apollo Trial Liner, φ48/32mm"
+          },
+          "113097200"
+        ],
+        [
+          {
+            "ru": "Пробный вкладыш Apollo, φ50/32мм",
+            "en": "Apollo Trial Liner, φ50/32mm"
+          },
+          "113097300"
+        ],
+        [
+          {
+            "ru": "Пробный вкладыш Apollo, φ52/32мм",
+            "en": "Apollo Trial Liner, φ52/32mm"
+          },
+          "113097400"
+        ],
+        [
+          {
+            "ru": "Пробный вкладыш Apollo, φ54/36мм",
+            "en": "Apollo Trial Liner, φ54/36mm"
+          },
+          "113097500"
+        ],
+        [
+          {
+            "ru": "Пробный вкладыш Apollo, φ56/36мм",
+            "en": "Apollo Trial Liner, φ56/36mm"
+          },
+          "113097600"
+        ],
+        [
+          {
+            "ru": "Пробный вкладыш Apollo, φ58/36мм",
+            "en": "Apollo Trial Liner, φ58/36mm"
+          },
+          "113097700"
+        ],
+        [
+          {
+            "ru": "Пробный вкладыш Apollo, φ60/36мм",
+            "en": "Apollo Trial Liner, φ60/36mm"
+          },
+          "113097800"
+        ],
+        [
+          {
+            "ru": "Контейнер: Набор пробных вкладышей Apollo",
+            "en": "Apollo Trial Liner Instrument Case"
+          },
+          "115095800"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 48,
+          "sourceBounds": [
+            0.14559912256649302,
+            0.1821561338289963,
+            0.65,
+            0.1907650166307963
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-apollo-trial-liner-instrument-set-p48",
+              "row": 1,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "113097000",
+                  "line": "113097000",
+                  "confidence": 96.467911,
+                  "bounds": [
+                    0.14559912256649302,
+                    0.1821561338289963,
+                    0.2273101179051275,
+                    0.1907650166307963
+                  ],
+                  "cy": 0.18646057522989629
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "113097000",
+                  "line": "113097000",
+                  "confidence": 96.425041,
+                  "bounds": [
+                    0.14559912256649302,
+                    0.1821561338289963,
+                    0.2273101179051275,
+                    0.1907650166307963
+                  ],
+                  "cy": 0.18646057522989629
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113097000",
+                  "line": "113097000",
+                  "confidence": 1,
+                  "bounds": [
+                    0.14460285427194663,
+                    0.1816860466331417,
+                    0.23014256538182112,
+                    0.1918604648857536
+                  ],
+                  "cy": 0.18677325575944764
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Apollo Trial Liner, 044/28mm",
+            "PSM11": "Apollo Trial Liner, 044/28mm",
+            "Vision": "Apollo Trial Liner, $44/28mm"
+          },
+          "itemVerification": "verified (Codex visual 600-DPI row + OCR)",
+          "bounds": [
+            0.14559912256649302,
+            0.1821561338289963,
+            0.65,
+            0.1907650166307963
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 48,
+          "sourceBounds": [
+            0.14559912256649302,
+            0.20720015652514184,
+            0.65,
+            0.21561338289962825
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-apollo-trial-liner-instrument-set-p48",
+              "row": 2,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "113097100",
+                  "line": "113097100",
+                  "confidence": 96.605118,
+                  "bounds": [
+                    0.14559912256649302,
+                    0.20720015652514184,
+                    0.2273101179051275,
+                    0.21561338289962825
+                  ],
+                  "cy": 0.21140676971238503
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "113097100",
+                  "line": "113097100",
+                  "confidence": 84.240471,
+                  "bounds": [
+                    0.14559912256649302,
+                    0.20720015652514184,
+                    0.2273101179051275,
+                    0.21561338289962825
+                  ],
+                  "cy": 0.21140676971238503
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113097100",
+                  "line": "113097100",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1425661933420276,
+                    0.20639534883054222,
+                    0.23014256575505315,
+                    0.2180232556752717
+                  ],
+                  "cy": 0.21220930225290696
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Apollo Trial Liner, 646/28mm",
+            "PSM11": "Apollo Trial Liner, 0646/28mm",
+            "Vision": "Apollo Trial Liner, $46/28mm"
+          },
+          "itemVerification": "verified (Codex visual 600-DPI row)",
+          "bounds": [
+            0.14559912256649302,
+            0.20720015652514184,
+            0.65,
+            0.21561338289962825
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 48,
+          "sourceBounds": [
+            0.14559912256649302,
+            0.23204852279397378,
+            0.65,
+            0.2404617491684602
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-apollo-trial-liner-instrument-set-p48",
+              "row": 3,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "113097200",
+                  "line": "113097200",
+                  "confidence": 96.503212,
+                  "bounds": [
+                    0.14559912256649302,
+                    0.23204852279397378,
+                    0.2273101179051275,
+                    0.2404617491684602
+                  ],
+                  "cy": 0.236255135981217
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "113097200",
+                  "line": "113097200",
+                  "confidence": 88.692711,
+                  "bounds": [
+                    0.14559912256649302,
+                    0.23204852279397378,
+                    0.2273101179051275,
+                    0.2404617491684602
+                  ],
+                  "cy": 0.236255135981217
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113097200",
+                  "line": "113097200",
+                  "confidence": 1,
+                  "bounds": [
+                    0.14256619348798824,
+                    0.23110465117065848,
+                    0.23014256590101378,
+                    0.24273255801538796
+                  ],
+                  "cy": 0.23691860459302322
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Apollo Trial Liner, 648/32mm",
+            "PSM11": "Apollo Trial Liner, 048/32mm",
+            "Vision": "Apollo Trial Liner, $48/32mm"
+          },
+          "itemVerification": "verified (Codex visual 600-DPI row)",
+          "bounds": [
+            0.14559912256649302,
+            0.23204852279397378,
+            0.65,
+            0.2404617491684602
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 48,
+          "sourceBounds": [
+            0.14559912256649302,
+            0.2568968890628057,
+            0.65,
+            0.2655057718646058
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-apollo-trial-liner-instrument-set-p48",
+              "row": 4,
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "text": "113097300",
+                  "line": "113097300",
+                  "confidence": 1,
+                  "bounds": [
+                    0.14460285184492705,
+                    0.25581395349481806,
+                    0.2301425629548015,
+                    0.26598837174743006
+                  ],
+                  "cy": 0.26090116262112406
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113097300",
+                  "line": "113097300",
+                  "confidence": 96.259865,
+                  "bounds": [
+                    0.14559912256649302,
+                    0.2568968890628057,
+                    0.2273101179051275,
+                    0.2655057718646058
+                  ],
+                  "cy": 0.26120133046370575
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "113097300",
+                  "line": "113097300",
+                  "confidence": 96.43029,
+                  "bounds": [
+                    0.14559912256649302,
+                    0.2568968890628057,
+                    0.2273101179051275,
+                    0.2655057718646058
+                  ],
+                  "cy": 0.26120133046370575
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Apollo Trial Liner, ®50/32mm",
+            "PSM11": "Apollo Trial Liner, ®50/32mm",
+            "Vision": "Apollo Trial Liner, $50/32mm"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.14559912256649302,
+            0.2568968890628057,
+            0.65,
+            0.2655057718646058
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 48,
+          "sourceBounds": [
+            0.14559912256649302,
+            0.2819409117589513,
+            0.65,
+            0.2903541381334377
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-apollo-trial-liner-instrument-set-p48",
+              "row": 5,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "113097400",
+                  "line": "113097400",
+                  "confidence": 96.576538,
+                  "bounds": [
+                    0.14559912256649302,
+                    0.2819409117589513,
+                    0.2273101179051275,
+                    0.2903541381334377
+                  ],
+                  "cy": 0.2861475249461945
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "113097400",
+                  "line": "113097400",
+                  "confidence": 88.210014,
+                  "bounds": [
+                    0.14559912256649302,
+                    0.2819409117589513,
+                    0.2273101179051275,
+                    0.2903541381334377
+                  ],
+                  "cy": 0.2861475249461945
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113097400",
+                  "line": "113097400",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1446028532705889,
+                    0.2819767445316398,
+                    0.23014256438046338,
+                    0.2921511627842517
+                  ],
+                  "cy": 0.28706395365794574
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Apollo Trial Liner, 652/32mm",
+            "PSM11": "Apollo Trial Liner, ®52/32mm",
+            "Vision": "Apollo Trial Liner, $52/32mm"
+          },
+          "itemVerification": "verified (Codex visual 600-DPI row)",
+          "bounds": [
+            0.14559912256649302,
+            0.2819409117589513,
+            0.65,
+            0.2903541381334377
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 48,
+          "sourceBounds": [
+            0.14559912256649302,
+            0.3067892780277832,
+            0.65,
+            0.3152025044022696
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-apollo-trial-liner-instrument-set-p48",
+              "row": 6,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "113097500",
+                  "line": "113097500",
+                  "confidence": 96.455345,
+                  "bounds": [
+                    0.14559912256649302,
+                    0.3067892780277832,
+                    0.2273101179051275,
+                    0.3152025044022696
+                  ],
+                  "cy": 0.3109958912150264
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "113097500",
+                  "line": "113097500",
+                  "confidence": 85.149559,
+                  "bounds": [
+                    0.14559912256649302,
+                    0.3067892780277832,
+                    0.2273101179051275,
+                    0.3152025044022696
+                  ],
+                  "cy": 0.3109958912150264
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113097500",
+                  "line": "113097500",
+                  "confidence": 1,
+                  "bounds": [
+                    0.14460285427194663,
+                    0.30668604659680443,
+                    0.23014256538182112,
+                    0.31686046484941643
+                  ],
+                  "cy": 0.31177325572311043
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Apollo Trial Liner, 654/36mm",
+            "PSM11": "Apollo Trial Liner, 054/36mm",
+            "Vision": "Apollo Trial Liner, Ф54/36mm"
+          },
+          "itemVerification": "verified (Codex visual 600-DPI row)",
+          "bounds": [
+            0.14559912256649302,
+            0.3067892780277832,
+            0.65,
+            0.3152025044022696
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 48,
+          "sourceBounds": [
+            0.14559912256649302,
+            0.33163764429661513,
+            0.65,
+            0.34005087067110157
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-apollo-trial-liner-instrument-set-p48",
+              "row": 7,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "113097600",
+                  "line": "113097600",
+                  "confidence": 96.403061,
+                  "bounds": [
+                    0.14559912256649302,
+                    0.33163764429661513,
+                    0.2273101179051275,
+                    0.34005087067110157
+                  ],
+                  "cy": 0.3358442574838584
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "113097600",
+                  "line": "113097600",
+                  "confidence": 96.675682,
+                  "bounds": [
+                    0.14559912256649302,
+                    0.33163764429661513,
+                    0.2273101179051275,
+                    0.34005087067110157
+                  ],
+                  "cy": 0.3358442574838584
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113097600",
+                  "line": "113097600",
+                  "confidence": 1,
+                  "bounds": [
+                    0.14256619267332432,
+                    0.32994186092950073,
+                    0.23014256508634987,
+                    0.34447674401235984
+                  ],
+                  "cy": 0.3372093024709303
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Apollo Trial Liner, 056/36mm",
+            "PSM11": "Apollo Trial Liner, 056/36mm",
+            "Vision": "Apollo Trial Liner, $56/36mm"
+          },
+          "itemVerification": "verified (Codex visual 600-DPI row + OCR)",
+          "bounds": [
+            0.14559912256649302,
+            0.33163764429661513,
+            0.65,
+            0.34005087067110157
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 48,
+          "sourceBounds": [
+            0.14559912256649302,
+            0.3566816669927607,
+            0.65,
+            0.3650948933672471
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-apollo-trial-liner-instrument-set-p48",
+              "row": 8,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "113097700",
+                  "line": "113097700",
+                  "confidence": 96.462692,
+                  "bounds": [
+                    0.14559912256649302,
+                    0.3566816669927607,
+                    0.2273101179051275,
+                    0.3650948933672471
+                  ],
+                  "cy": 0.3608882801800039
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "113097700",
+                  "line": "113097700",
+                  "confidence": 64.366371,
+                  "bounds": [
+                    0.14559912256649302,
+                    0.3566816669927607,
+                    0.2273101179051275,
+                    0.3650948933672471
+                  ],
+                  "cy": 0.3608882801800039
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113097700",
+                  "line": "113097700",
+                  "confidence": 1,
+                  "bounds": [
+                    0.14251799506503066,
+                    0.3544848005824943,
+                    0.23019076082202608,
+                    0.36789892049974315
+                  ],
+                  "cy": 0.36119186054111874
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Apollo Trial Liner, 658/36mm",
+            "PSM11": "Apollo Trial Liner, ®58/36mm",
+            "Vision": "Apollo Trial Liner, $58/36mm"
+          },
+          "itemVerification": "verified (Codex visual 600-DPI row)",
+          "bounds": [
+            0.14559912256649302,
+            0.3566816669927607,
+            0.65,
+            0.3650948933672471
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 48,
+          "sourceBounds": [
+            0.14559912256649302,
+            0.3815300332615926,
+            0.65,
+            0.38994325963607906
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-apollo-trial-liner-instrument-set-p48",
+              "row": 9,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "113097800",
+                  "line": "113097800",
+                  "confidence": 96.302658,
+                  "bounds": [
+                    0.14559912256649302,
+                    0.3815300332615926,
+                    0.2273101179051275,
+                    0.38994325963607906
+                  ],
+                  "cy": 0.3857366464488359
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "113097800",
+                  "line": "113097800",
+                  "confidence": 87.086906,
+                  "bounds": [
+                    0.14559912256649302,
+                    0.3815300332615926,
+                    0.2273101179051275,
+                    0.38994325963607906
+                  ],
+                  "cy": 0.3857366464488359
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113097800",
+                  "line": "113097800",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1425661933420276,
+                    0.380813953481705,
+                    0.23014256575505315,
+                    0.3924418603264346
+                  ],
+                  "cy": 0.3866279069040698
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Apollo Trial Liner, ®60/36mm",
+            "PSM11": "Apollo Trial Liner, ®60/36mm",
+            "Vision": "Apollo Trial Liner, $60/36mm"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.14559912256649302,
+            0.3815300332615926,
+            0.65,
+            0.38994325963607906
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 48,
+          "sourceBounds": [
+            0.14559912256649302,
+            0.4314224222265701,
+            0.65,
+            0.43983564860105656
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-apollo-trial-liner-instrument-set-p48",
+              "row": 10,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "115095800",
+                  "line": "115095800",
+                  "confidence": 96.184464,
+                  "bounds": [
+                    0.14559912256649302,
+                    0.4314224222265701,
+                    0.2273101179051275,
+                    0.43983564860105656
+                  ],
+                  "cy": 0.43562903541381337
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "115095800",
+                  "line": "115095800",
+                  "confidence": 87.790115,
+                  "bounds": [
+                    0.14559912256649302,
+                    0.4314224222265701,
+                    0.2273101179051275,
+                    0.43983564860105656
+                  ],
+                  "cy": 0.43562903541381337
+                },
+                {
+                  "reader": "Vision",
+                  "text": "115095800",
+                  "line": "115095800",
+                  "confidence": 1,
+                  "bounds": [
+                    0.14256619348798824,
+                    0.4302325581474027,
+                    0.23014256590101378,
+                    0.44186046499213216
+                  ],
+                  "cy": 0.4360465115697674
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Apollo Trial Liner Instrument Case",
+            "PSM11": "Apollo Trial Liner Instrument Case",
+            "Vision": "Apollo Trial Liner Instrument Case"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.14559912256649302,
+            0.4314224222265701,
+            0.65,
+            0.43983564860105656
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "rowImages": [
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-048-xref-686.webp",
+          "width": 488,
+          "height": 460,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              212,
+              198
+            ],
+            "enhancedSize": [
+              424,
+              396
+            ]
+          },
+          "sourcePages": [
+            48
+          ],
+          "imageCaption": {
+            "ru": "Пробный вкладыш Apollo, φ44/28мм",
+            "en": "Apollo Trial Liner, φ44/28mm"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-048-xref-686.webp",
+          "width": 488,
+          "height": 460,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              212,
+              198
+            ],
+            "enhancedSize": [
+              424,
+              396
+            ]
+          },
+          "sourcePages": [
+            48
+          ],
+          "imageCaption": {
+            "ru": "Пробный вкладыш Apollo, φ46/28мм",
+            "en": "Apollo Trial Liner, φ46/28mm"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-048-xref-686.webp",
+          "width": 488,
+          "height": 460,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              212,
+              198
+            ],
+            "enhancedSize": [
+              424,
+              396
+            ]
+          },
+          "sourcePages": [
+            48
+          ],
+          "imageCaption": {
+            "ru": "Пробный вкладыш Apollo, φ48/32мм",
+            "en": "Apollo Trial Liner, φ48/32mm"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-048-xref-686.webp",
+          "width": 488,
+          "height": 460,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              212,
+              198
+            ],
+            "enhancedSize": [
+              424,
+              396
+            ]
+          },
+          "sourcePages": [
+            48
+          ],
+          "imageCaption": {
+            "ru": "Пробный вкладыш Apollo, φ50/32мм",
+            "en": "Apollo Trial Liner, φ50/32mm"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-048-xref-686.webp",
+          "width": 488,
+          "height": 460,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              212,
+              198
+            ],
+            "enhancedSize": [
+              424,
+              396
+            ]
+          },
+          "sourcePages": [
+            48
+          ],
+          "imageCaption": {
+            "ru": "Пробный вкладыш Apollo, φ52/32мм",
+            "en": "Apollo Trial Liner, φ52/32mm"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-048-xref-686.webp",
+          "width": 488,
+          "height": 460,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              212,
+              198
+            ],
+            "enhancedSize": [
+              424,
+              396
+            ]
+          },
+          "sourcePages": [
+            48
+          ],
+          "imageCaption": {
+            "ru": "Пробный вкладыш Apollo, φ54/36мм",
+            "en": "Apollo Trial Liner, φ54/36mm"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-048-xref-686.webp",
+          "width": 488,
+          "height": 460,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              212,
+              198
+            ],
+            "enhancedSize": [
+              424,
+              396
+            ]
+          },
+          "sourcePages": [
+            48
+          ],
+          "imageCaption": {
+            "ru": "Пробный вкладыш Apollo, φ56/36мм",
+            "en": "Apollo Trial Liner, φ56/36mm"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-048-xref-688.webp",
+          "width": 540,
+          "height": 452,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              238,
+              194
+            ],
+            "enhancedSize": [
+              476,
+              388
+            ]
+          },
+          "sourcePages": [
+            48
+          ],
+          "imageCaption": {
+            "ru": "Пробный вкладыш Apollo, φ58/36мм",
+            "en": "Apollo Trial Liner, φ58/36mm"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-048-xref-688.webp",
+          "width": 540,
+          "height": 452,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              238,
+              194
+            ],
+            "enhancedSize": [
+              476,
+              388
+            ]
+          },
+          "sourcePages": [
+            48
+          ],
+          "imageCaption": {
+            "ru": "Пробный вкладыш Apollo, φ60/36мм",
+            "en": "Apollo Trial Liner, φ60/36mm"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-048-xref-688.webp",
+          "width": 540,
+          "height": 452,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              238,
+              194
+            ],
+            "enhancedSize": [
+              476,
+              388
+            ]
+          },
+          "sourcePages": [
+            48
+          ],
+          "imageCaption": {
+            "ru": "Контейнер: Набор пробных вкладышей Apollo",
+            "en": "Apollo Trial Liner Instrument Case"
+          }
+        }
+      ],
+      "rowImageLabel": {
+        "ru": "Инструмент",
+        "en": "Instrument"
+      },
+      "sourcePages": [
+        48
+      ]
+    }
+  ],
+  "referenceTables": [],
+  "refCodes": [
+    "115390000",
+    "113097000",
+    "113097100",
+    "113097200",
+    "113097300",
+    "113097400",
+    "113097500",
+    "113097600",
+    "113097700",
+    "113097800",
+    "115095800"
+  ],
+  "sourcePages": [
+    48
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Joint Catalogue — каталог продукции",
+    "en": "Double Medical Joint Catalogue"
+  },
+  "documentCover": "/catalogs/double-medical/joint-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "relatedSystemSlugs": [
+    "apollo-acetabular-liner"
+  ],
+  "setCode": "115390000",
+  "imageDimensions": {
+    "/images/products/double-medical/joint-catalogue/page-048-xref-686.webp": {
+      "width": 488,
+      "height": 460
+    },
+    "/images/products/double-medical/joint-catalogue/page-048-xref-688.webp": {
+      "width": 540,
+      "height": 452
+    }
+  },
+  "sourcePdf": "/catalogs/double-medical/joint-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/joint-catalogue/pages/048.webp"
+  ],
+  "sourcePageDimensions": {
+    "1": {
+      "width": 3647,
+      "height": 5111
+    },
+    "2": {
+      "width": 3647,
+      "height": 5111
+    },
+    "3": {
+      "width": 3647,
+      "height": 5111
+    },
+    "4": {
+      "width": 3647,
+      "height": 5111
+    },
+    "5": {
+      "width": 3647,
+      "height": 5111
+    },
+    "6": {
+      "width": 3647,
+      "height": 5111
+    },
+    "7": {
+      "width": 3647,
+      "height": 5111
+    },
+    "8": {
+      "width": 3647,
+      "height": 5111
+    },
+    "9": {
+      "width": 3647,
+      "height": 5111
+    },
+    "10": {
+      "width": 3647,
+      "height": 5111
+    },
+    "11": {
+      "width": 3647,
+      "height": 5111
+    },
+    "12": {
+      "width": 3647,
+      "height": 5111
+    },
+    "13": {
+      "width": 3647,
+      "height": 5111
+    },
+    "14": {
+      "width": 3647,
+      "height": 5111
+    },
+    "15": {
+      "width": 3647,
+      "height": 5111
+    },
+    "16": {
+      "width": 3647,
+      "height": 5111
+    },
+    "17": {
+      "width": 3647,
+      "height": 5111
+    },
+    "18": {
+      "width": 3647,
+      "height": 5111
+    },
+    "19": {
+      "width": 3647,
+      "height": 5111
+    },
+    "20": {
+      "width": 3647,
+      "height": 5111
+    },
+    "21": {
+      "width": 3647,
+      "height": 5111
+    },
+    "22": {
+      "width": 3647,
+      "height": 5111
+    },
+    "23": {
+      "width": 3647,
+      "height": 5111
+    },
+    "24": {
+      "width": 3647,
+      "height": 5111
+    },
+    "25": {
+      "width": 3647,
+      "height": 5111
+    },
+    "26": {
+      "width": 3647,
+      "height": 5111
+    },
+    "27": {
+      "width": 3647,
+      "height": 5111
+    },
+    "28": {
+      "width": 3647,
+      "height": 5111
+    },
+    "29": {
+      "width": 3647,
+      "height": 5111
+    },
+    "30": {
+      "width": 3647,
+      "height": 5111
+    },
+    "31": {
+      "width": 3647,
+      "height": 5111
+    },
+    "32": {
+      "width": 3647,
+      "height": 5111
+    },
+    "33": {
+      "width": 3647,
+      "height": 5111
+    },
+    "34": {
+      "width": 3647,
+      "height": 5111
+    },
+    "35": {
+      "width": 3647,
+      "height": 5111
+    },
+    "36": {
+      "width": 3647,
+      "height": 5111
+    },
+    "37": {
+      "width": 3647,
+      "height": 5111
+    },
+    "38": {
+      "width": 3647,
+      "height": 5111
+    },
+    "39": {
+      "width": 3647,
+      "height": 5111
+    },
+    "40": {
+      "width": 3647,
+      "height": 5111
+    },
+    "41": {
+      "width": 3647,
+      "height": 5111
+    },
+    "42": {
+      "width": 3647,
+      "height": 5111
+    },
+    "43": {
+      "width": 3647,
+      "height": 5111
+    },
+    "44": {
+      "width": 3647,
+      "height": 5111
+    },
+    "45": {
+      "width": 3647,
+      "height": 5111
+    },
+    "46": {
+      "width": 3647,
+      "height": 5111
+    },
+    "47": {
+      "width": 3647,
+      "height": 5111
+    },
+    "48": {
+      "width": 3647,
+      "height": 5111
+    },
+    "49": {
+      "width": 3647,
+      "height": 5111
+    },
+    "50": {
+      "width": 3647,
+      "height": 5111
+    },
+    "51": {
+      "width": 3647,
+      "height": 5111
+    },
+    "52": {
+      "width": 3647,
+      "height": 5111
+    },
+    "53": {
+      "width": 3647,
+      "height": 5111
+    },
+    "54": {
+      "width": 3647,
+      "height": 5111
+    },
+    "55": {
+      "width": 3647,
+      "height": 5111
+    },
+    "56": {
+      "width": 3647,
+      "height": 5111
+    },
+    "57": {
+      "width": 3647,
+      "height": 5111
+    },
+    "58": {
+      "width": 3647,
+      "height": 5111
+    },
+    "59": {
+      "width": 3647,
+      "height": 5111
+    },
+    "60": {
+      "width": 3647,
+      "height": 5111
+    },
+    "61": {
+      "width": 3647,
+      "height": 5111
+    },
+    "62": {
+      "width": 3647,
+      "height": 5111
+    },
+    "63": {
+      "width": 3647,
+      "height": 5111
+    },
+    "64": {
+      "width": 3647,
+      "height": 5111
+    },
+    "65": {
+      "width": 3647,
+      "height": 5111
+    },
+    "66": {
+      "width": 3647,
+      "height": 5111
+    },
+    "67": {
+      "width": 3647,
+      "height": 5111
+    },
+    "68": {
+      "width": 3647,
+      "height": 5111
+    },
+    "69": {
+      "width": 3647,
+      "height": 5111
+    },
+    "70": {
+      "width": 3647,
+      "height": 5111
+    },
+    "71": {
+      "width": 3647,
+      "height": 5111
+    },
+    "72": {
+      "width": 3647,
+      "height": 5111
+    },
+    "73": {
+      "width": 3647,
+      "height": 5111
+    },
+    "74": {
+      "width": 3647,
+      "height": 5111
+    },
+    "75": {
+      "width": 3647,
+      "height": 5111
+    },
+    "76": {
+      "width": 3647,
+      "height": 5111
+    },
+    "77": {
+      "width": 3647,
+      "height": 5111
+    },
+    "78": {
+      "width": 3647,
+      "height": 5111
+    },
+    "79": {
+      "width": 3647,
+      "height": 5111
+    },
+    "80": {
+      "width": 3647,
+      "height": 5111
+    },
+    "81": {
+      "width": 3647,
+      "height": 5111
+    },
+    "82": {
+      "width": 3647,
+      "height": 5111
+    },
+    "83": {
+      "width": 3647,
+      "height": 5111
+    },
+    "84": {
+      "width": 3647,
+      "height": 5111
+    },
+    "85": {
+      "width": 3647,
+      "height": 5111
+    },
+    "86": {
+      "width": 3647,
+      "height": 5111
+    },
+    "87": {
+      "width": 3647,
+      "height": 5111
+    },
+    "88": {
+      "width": 3647,
+      "height": 5111
+    },
+    "89": {
+      "width": 3647,
+      "height": 5111
+    },
+    "90": {
+      "width": 3647,
+      "height": 5111
+    },
+    "91": {
+      "width": 3647,
+      "height": 5111
+    },
+    "92": {
+      "width": 3647,
+      "height": 5111
+    },
+    "93": {
+      "width": 3647,
+      "height": 5111
+    },
+    "94": {
+      "width": 3647,
+      "height": 5111
+    },
+    "95": {
+      "width": 3647,
+      "height": 5111
+    },
+    "96": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "049dc47f4db1409b0ab7b002cc1e8beaaf86705c6ae23efac7eff3832b23e1e5",
+    "importMethod": "600-DPI PSM3/PSM11 + independent Vision + Codex visual row checks; additive REF merges",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      71,
+      81,
+      94,
+      95,
+      96
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.rows.3.0.ru",
+      "specTables.0.rows.4.0.ru",
+      "specTables.0.rows.5.0.ru",
+      "specTables.0.rows.6.0.ru",
+      "specTables.0.rows.7.0.ru",
+      "specTables.0.rows.8.0.ru",
+      "specTables.0.rows.9.0.ru",
+      "specTables.0.rowImages.0.imageCaption.ru",
+      "specTables.0.rowImages.1.imageCaption.ru",
+      "specTables.0.rowImages.2.imageCaption.ru",
+      "specTables.0.rowImages.3.imageCaption.ru",
+      "specTables.0.rowImages.4.imageCaption.ru",
+      "specTables.0.rowImages.5.imageCaption.ru",
+      "specTables.0.rowImages.6.imageCaption.ru",
+      "specTables.0.rowImages.7.imageCaption.ru",
+      "specTables.0.rowImages.8.imageCaption.ru",
+      "specTables.0.rowImages.9.imageCaption.ru",
+      "specTables.0.rowImageLabel.ru",
+      "catalogTitle.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Published under owner authorization: zero real flags after 600-DPI source verification."
+  },
+  "publishedAt": "2026-11-19T17:19:04.123217+00:00"
+}

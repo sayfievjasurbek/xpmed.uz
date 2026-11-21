@@ -1,0 +1,977 @@
+[
+  {
+    "alternatives" : [
+      "XPmed"
+    ],
+    "bounds" : [
+      0.12203346748973296,
+      0.054739614728684938,
+      0.23845533281239245,
+      0.076074338549447007
+    ],
+    "confidence" : 1,
+    "text" : "XPmed"
+  },
+  {
+    "alternatives" : [
+      "CCONMED"
+    ],
+    "bounds" : [
+      0.28711709355748471,
+      0.046336722766968874,
+      0.47866701810818446,
+      0.075756300077924554
+    ],
+    "confidence" : 1,
+    "text" : "CCONMED"
+  },
+  {
+    "alternatives" : [
+      "Cruciate Reconstruction"
+    ],
+    "bounds" : [
+      0.56008146254485014,
+      0.036337209492442235,
+      0.92871691339346807,
+      0.058139534589783604
+    ],
+    "confidence" : 1,
+    "text" : "Cruciate Reconstruction"
+  },
+  {
+    "alternatives" : [
+      "Accessories"
+    ],
+    "bounds" : [
+      0.74134419672805729,
+      0.0625000001901167,
+      0.92871690574502963,
+      0.084302325287458069
+    ],
+    "confidence" : 1,
+    "text" : "Accessories"
+  },
+  {
+    "alternatives" : [
+      "Osteoprep® Instruments"
+    ],
+    "bounds" : [
+      0.10183299400237439,
+      0.14384920632053688,
+      0.28716904729090448,
+      0.1555232556752717
+    ],
+    "confidence" : 1,
+    "text" : "Osteoprep® Instruments"
+  },
+  {
+    "alternatives" : [
+      "Dsteoprep Instruments provide an array of bone shaping devices especially suited"
+    ],
+    "bounds" : [
+      0.099796333451915284,
+      0.16269841277855468,
+      0.56211811758678143,
+      0.17441860464329495
+    ],
+    "confidence" : 1,
+    "text" : "Dsteoprep Instruments provide an array of bone shaping devices especially suited"
+  },
+  {
+    "alternatives" : [
+      "for notchplasties."
+    ],
+    "bounds" : [
+      0.09772901010191179,
+      0.17573679997372427,
+      0.19758667467442462,
+      0.18763529298362447
+    ],
+    "confidence" : 1,
+    "text" : "for notchplasties."
+  },
+  {
+    "alternatives" : [
+      "Microfracture awls allow the creation of localized vascular access channels in"
+    ],
+    "bounds" : [
+      0.09979633174066721,
+      0.19469246008410168,
+      0.53971486041819239,
+      0.20639534862585307
+    ],
+    "confidence" : 1,
+    "text" : "Microfracture awls allow the creation of localized vascular access channels in"
+  },
+  {
+    "alternatives" : [
+      "chondral defects. They are also useful in marking intended drill sites in all ACL"
+    ],
+    "bounds" : [
+      0.099796345065177941,
+      0.20783730173071779,
+      0.54378818519958771,
+      0.22098214300055896
+    ],
+    "confidence" : 1,
+    "text" : "chondral defects. They are also useful in marking intended drill sites in all ACL"
+  },
+  {
+    "alternatives" : [
+      "and PCL procedures."
+    ],
+    "bounds" : [
+      0.099796336393132123,
+      0.22238372104468951,
+      0.21995926842696276,
+      0.23412698416443256
+    ],
+    "confidence" : 1,
+    "text" : "and PCL procedures."
+  },
+  {
+    "alternatives" : [
+      "Curettes"
+    ],
+    "bounds" : [
+      0.099796336189212409,
+      0.25581395383396532,
+      0.15071283020589954,
+      0.26598837208657722
+    ],
+    "confidence" : 1,
+    "text" : "Curettes"
+  },
+  {
+    "alternatives" : [
+      "Open Curette, 3mm."
+    ],
+    "bounds" : [
+      0.099796337549446806,
+      0.27325581397104615,
+      0.20570264765082458,
+      0.28497023790377252
+    ],
+    "confidence" : 1,
+    "text" : "Open Curette, 3mm."
+  },
+  {
+    "alternatives" : [
+      "Open Curette, 4mm."
+    ],
+    "bounds" : [
+      0.099796339658070207,
+      0.29215116294249244,
+      0.2077393054878903,
+      0.30233134912711823
+    ],
+    "confidence" : 1,
+    "text" : "Open Curette, 4mm."
+  },
+  {
+    "alternatives" : [
+      "Dpen Curette, 8mm..."
+    ],
+    "bounds" : [
+      0.09979633537282144,
+      0.30952380969105031,
+      0.21384928961020624,
+      0.31976744170867033
+    ],
+    "confidence" : 1,
+    "text" : "Dpen Curette, 8mm..."
+  },
+  {
+    "alternatives" : [
+      "Cupped Curette, 3mm..."
+    ],
+    "bounds" : [
+      0.097759679109642658,
+      0.32703488378693757,
+      0.22606924466836137,
+      0.33866279063166704
+    ],
+    "confidence" : 1,
+    "text" : "Cupped Curette, 3mm..."
+  },
+  {
+    "alternatives" : [
+      "Cupped Curette, 4mm"
+    ],
+    "bounds" : [
+      0.097759676014652866,
+      0.34447674408753581,
+      0.21792260804848348,
+      0.35763888868036586
+    ],
+    "confidence" : 1,
+    "text" : "Cupped Curette, 4mm"
+  },
+  {
+    "alternatives" : [
+      "Cupped Curette, 8mm.."
+    ],
+    "bounds" : [
+      0.099796340610378939,
+      0.36334325398803413,
+      0.22403258410109411,
+      0.3735465114276626
+    ],
+    "confidence" : 1,
+    "text" : "Cupped Curette, 8mm.."
+  },
+  {
+    "alternatives" : [
+      "PCL Curved Curette, 4mm"
+    ],
+    "bounds" : [
+      0.097759675208248381,
+      0.38070436513870543,
+      0.23828920697097764,
+      0.39244186032643458
+    ],
+    "confidence" : 1,
+    "text" : "PCL Curved Curette, 4mm"
+  },
+  {
+    "alternatives" : [
+      "Rasps"
+    ],
+    "bounds" : [
+      0.097759674655225309,
+      0.41860465095526833,
+      0.13645621042624109,
+      0.43168604639211539
+    ],
+    "confidence" : 1,
+    "text" : "Rasps"
+  },
+  {
+    "alternatives" : [
+      "Straight Rasp, 4mm.."
+    ],
+    "bounds" : [
+      0.097759678225222593,
+      0.43750000002967004,
+      0.20977596612304616,
+      0.44915674606141609
+    ],
+    "confidence" : 1,
+    "text" : "Straight Rasp, 4mm.."
+  },
+  {
+    "alternatives" : [
+      "Convex Rasp, 4mm ..."
+    ],
+    "bounds" : [
+      0.099796338569757517,
+      0.45486111103632487,
+      0.21181262646758109,
+      0.46511627891797258
+    ],
+    "confidence" : 1,
+    "text" : "Convex Rasp, 4mm ..."
+  },
+  {
+    "alternatives" : [
+      "Concave Rasp, 4mm ....."
+    ],
+    "bounds" : [
+      0.099796337413442834,
+      0.47238372104468951,
+      0.2260692472437193,
+      0.48412698416443245
+    ],
+    "confidence" : 1,
+    "text" : "Concave Rasp, 4mm ....."
+  },
+  {
+    "alternatives" : [
+      "Tunnel Rasp, Fine, 9mm"
+    ],
+    "bounds" : [
+      0.09979633657162347,
+      0.49127906987078718,
+      0.2260692464018999,
+      0.50148809524242943
+    ],
+    "confidence" : 1,
+    "text" : "Tunnel Rasp, Fine, 9mm"
+  },
+  {
+    "alternatives" : [
+      "PCL Curved Rasp"
+    ],
+    "bounds" : [
+      0.099796338094763584,
+      0.50868055578698146,
+      0.19144602626368853,
+      0.51889534861758491
+    ],
+    "confidence" : 1,
+    "text" : "PCL Curved Rasp"
+  },
+  {
+    "alternatives" : [
+      "Microfracture Awls"
+    ],
+    "bounds" : [
+      0.099796334903769879,
+      0.54651162791342278,
+      0.21181262280159346,
+      0.55679563498208706
+    ],
+    "confidence" : 1,
+    "text" : "Microfracture Awls"
+  },
+  {
+    "alternatives" : [
+      "Microfracture Awl, 30°, 279mm length..."
+    ],
+    "bounds" : [
+      0.097759680326320694,
+      0.56540697668201267,
+      0.30957230052907625,
+      0.57848837211885973
+    ],
+    "confidence" : 1,
+    "text" : "Microfracture Awl, 30°, 279mm length..."
+  },
+  {
+    "alternatives" : [
+      "Microfracture Awl, 45°, Thin Shaft, 279mm length."
+    ],
+    "bounds" : [
+      0.097759681874296026,
+      0.58283730171981651,
+      0.36252545712774048,
+      0.59598214298965779
+    ],
+    "confidence" : 1,
+    "text" : "Microfracture Awl, 45°, Thin Shaft, 279mm length."
+  },
+  {
+    "alternatives" : [
+      "Microfracture Awl, 45°, Standard, 279mm length."
+    ],
+    "bounds" : [
+      0.099796343321118322,
+      0.60019841266227558,
+      0.35641547443855576,
+      0.61191860452701585
+    ],
+    "confidence" : 1,
+    "text" : "Microfracture Awl, 45°, Standard, 279mm length."
+  },
+  {
+    "alternatives" : [
+      "Microfracture Awl, 90°"
+    ],
+    "bounds" : [
+      0.099796333188787362,
+      0.6191860467312521,
+      0.21995926522261799,
+      0.6294642858679026
+    ],
+    "confidence" : 1,
+    "text" : "Microfracture Awl, 90°"
+  },
+  {
+    "alternatives" : [
+      "Microfracture Awl, 30°, 190.5mm length"
+    ],
+    "bounds" : [
+      0.099796339674589604,
+      0.63662790695554217,
+      0.31160895987734516,
+      0.64831349217430478
+    ],
+    "confidence" : 1,
+    "text" : "Microfracture Awl, 30°, 190.5mm length"
+  },
+  {
+    "alternatives" : [
+      "Microfracture Awl, 45°, 190.5mm length"
+    ],
+    "bounds" : [
+      0.097759673375761538,
+      0.6540178572316675,
+      0.31364562625763959,
+      0.66865079373960401
+    ],
+    "confidence" : 1,
+    "text" : "Microfracture Awl, 45°, 190.5mm length"
+  },
+  {
+    "alternatives" : [
+      "Microfracture Awl, 90°, 190.5mm length"
+    ],
+    "bounds" : [
+      0.097759681280836896,
+      0.67151162814295595,
+      0.31160895721203474,
+      0.68604651122581506
+    ],
+    "confidence" : 1,
+    "text" : "Microfracture Awl, 90°, 190.5mm length"
+  },
+  {
+    "alternatives" : [
+      "Osteotome"
+    ],
+    "bounds" : [
+      0.095706096132022883,
+      0.71070591128471572,
+      0.16294970666796418,
+      0.72243362374185793
+    ],
+    "confidence" : 1,
+    "text" : "Osteotome"
+  },
+  {
+    "alternatives" : [
+      "Graduated Osteotome, 6m........."
+    ],
+    "bounds" : [
+      0.097759678557480634,
+      0.72817460313776572,
+      0.27698574343844595,
+      0.741319444407607
+    ],
+    "confidence" : 1,
+    "text" : "Graduated Osteotome, 6m........."
+  },
+  {
+    "alternatives" : [
+      "Accessories"
+    ],
+    "bounds" : [
+      0.097759674789432302,
+      0.76598837191820435,
+      0.17107942956901984,
+      0.7790697673550514
+    ],
+    "confidence" : 1,
+    "text" : "Accessories"
+  },
+  {
+    "alternatives" : [
+      "Instrument Tray with Lid (Accommodates 8 Dsteoprep Instruments)"
+    ],
+    "bounds" : [
+      0.095723015377125062,
+      0.78488372092983227,
+      0.44399184527460639,
+      0.79796511636667922
+    ],
+    "confidence" : 1,
+    "text" : "Instrument Tray with Lid (Accommodates 8 Dsteoprep Instruments)"
+  },
+  {
+    "alternatives" : [
+      "Cat. No."
+    ],
+    "bounds" : [
+      0.51934827169602993,
+      0.2441860466634227,
+      0.56822810467871532,
+      0.25446428580007319
+    ],
+    "confidence" : 1,
+    "text" : "Cat. No."
+  },
+  {
+    "alternatives" : [
+      ".24.1005"
+    ],
+    "bounds" : [
+      0.51731160991629999,
+      0.27325581407763533,
+      0.56822810393298717,
+      0.2848837209223648
+    ],
+    "confidence" : 1,
+    "text" : ".24.1005"
+  },
+  {
+    "alternatives" : [
+      ".25.1005"
+    ],
+    "bounds" : [
+      0.51731161080733878,
+      0.29069767433926319,
+      0.56822810482402597,
+      0.30232558118399266
+    ],
+    "confidence" : 1,
+    "text" : ".25.1005"
+  },
+  {
+    "alternatives" : [
+      "......8211"
+    ],
+    "bounds" : [
+      0.51934826877613705,
+      0.30959302348270568,
+      0.56619144603038019,
+      0.31976744173531757
+    ],
+    "confidence" : 1,
+    "text" : "......8211"
+  },
+  {
+    "alternatives" : [
+      ".24.1006"
+    ],
+    "bounds" : [
+      0.51715848709952683,
+      0.32668458816889367,
+      0.56838122862047868,
+      0.33901308611610204
+    ],
+    "confidence" : 1,
+    "text" : ".24.1006"
+  },
+  {
+    "alternatives" : [
+      ".25.1006"
+    ],
+    "bounds" : [
+      0.51731161078915422,
+      0.34447674418976149,
+      0.56822810480584141,
+      0.35610465103449096
+    ],
+    "confidence" : 1,
+    "text" : ".25.1006"
+  },
+  {
+    "alternatives" : [
+      "......8212"
+    ],
+    "bounds" : [
+      0.51934826871738471,
+      0.36337209312660101,
+      0.56822810700562953,
+      0.37354651137921291
+    ],
+    "confidence" : 1,
+    "text" : "......8212"
+  },
+  {
+    "alternatives" : [
+      "...C8737"
+    ],
+    "bounds" : [
+      0.51731161093463007,
+      0.38081395334262302,
+      0.56822810495131715,
+      0.39389534877947008
+    ],
+    "confidence" : 1,
+    "text" : "...C8737"
+  },
+  {
+    "alternatives" : [
+      ".25.1007"
+    ],
+    "bounds" : [
+      0.5172153246243254,
+      0.43724940387801636,
+      0.56832438922787365,
+      0.44792501488201308
+    ],
+    "confidence" : 1,
+    "text" : ".25.1007"
+  },
+  {
+    "alternatives" : [
+      ".25.1637"
+    ],
+    "bounds" : [
+      0.5172252257313984,
+      0.45474665950754756,
+      0.56831448998696976,
+      0.46676496826060654
+    ],
+    "confidence" : 1,
+    "text" : ".25.1637"
+  },
+  {
+    "alternatives" : [
+      ".25.1647"
+    ],
+    "bounds" : [
+      0.51934826761758845,
+      0.47383720966103193,
+      0.56822810590583339,
+      0.48255813932152625
+    ],
+    "confidence" : 1,
+    "text" : ".25.1647"
+  },
+  {
+    "alternatives" : [
+      "...C8734"
+    ],
+    "bounds" : [
+      0.51731161020482685,
+      0.49127906983244851,
+      0.56822810422151404,
+      0.50436046526929557
+    ],
+    "confidence" : 1,
+    "text" : "...C8734"
+  },
+  {
+    "alternatives" : [
+      "...C8736"
+    ],
+    "bounds" : [
+      0.51706268461330118,
+      0.50821104123250516,
+      0.56847703110928893,
+      0.52231221442902531
+    ],
+    "confidence" : 1,
+    "text" : "...C8736"
+  },
+  {
+    "alternatives" : [
+      ".....8201"
+    ],
+    "bounds" : [
+      0.51934826877613705,
+      0.56540697697107778,
+      0.56619144603038019,
+      0.57558139522368967
+    ],
+    "confidence" : 1,
+    "text" : ".....8201"
+  },
+  {
+    "alternatives" : [
+      "....8202"
+    ],
+    "bounds" : [
+      0.51934826871738471,
+      0.58284883718810032,
+      0.56822810700562953,
+      0.5944767440328298
+    ],
+    "confidence" : 1,
+    "text" : "....8202"
+  },
+  {
+    "alternatives" : [
+      ".....8203"
+    ],
+    "bounds" : [
+      0.51934826818785318,
+      0.60174418627340331,
+      0.56822810647609812,
+      0.61191860452601532
+    ],
+    "confidence" : 1,
+    "text" : ".....8203"
+  },
+  {
+    "alternatives" : [
+      ".....8204"
+    ],
+    "bounds" : [
+      0.51934826871738471,
+      0.61918604661497301,
+      0.56822810700562953,
+      0.62936046486758501
+    ],
+    "confidence" : 1,
+    "text" : ".....8204"
+  },
+  {
+    "alternatives" : [
+      ".....7201"
+    ],
+    "bounds" : [
+      0.51934827169602993,
+      0.63662790708008943,
+      0.56822810467871532,
+      0.64680232533270132
+    ],
+    "confidence" : 1,
+    "text" : ".....7201"
+  },
+  {
+    "alternatives" : [
+      "......202"
+    ],
+    "bounds" : [
+      0.51731161078915422,
+      0.65406976732518118,
+      0.56822810480584141,
+      0.66715116276202813
+    ],
+    "confidence" : 1,
+    "text" : "......202"
+  },
+  {
+    "alternatives" : [
+      ".....7204"
+    ],
+    "bounds" : [
+      0.51731161078915422,
+      0.67151162814295595,
+      0.56822810480584141,
+      0.68604651122581506
+    ],
+    "confidence" : 1,
+    "text" : ".....7204"
+  },
+  {
+    "alternatives" : [
+      ".....8213"
+    ],
+    "bounds" : [
+      0.51731161080733878,
+      0.72819767421108228,
+      0.56822810482402597,
+      0.74127906964792933
+    ],
+    "confidence" : 1,
+    "text" : ".....8213"
+  },
+  {
+    "alternatives" : [
+      ".....8217"
+    ],
+    "bounds" : [
+      0.51731161039152074,
+      0.78488372095748016,
+      0.56822810440820781,
+      0.79651162780220963
+    ],
+    "confidence" : 1,
+    "text" : ".....8217"
+  },
+  {
+    "alternatives" : [
+      "Open Curette"
+    ],
+    "bounds" : [
+      0.62927535467225126,
+      0.51723463339143094,
+      0.70677352404200855,
+      0.52782350639180298
+    ],
+    "confidence" : 1,
+    "text" : "Open Curette"
+  },
+  {
+    "alternatives" : [
+      "Closed Curette"
+    ],
+    "bounds" : [
+      0.77800407376994196,
+      0.51736111106397276,
+      0.8635437894479806,
+      0.526162790353503
+    ],
+    "confidence" : 1,
+    "text" : "Closed Curette"
+  },
+  {
+    "alternatives" : [
+      "Straight Rasp"
+    ],
+    "bounds" : [
+      0.62924766633479778,
+      0.56943880220730247,
+      0.70883787086284245,
+      0.58027049932690933
+    ],
+    "confidence" : 1,
+    "text" : "Straight Rasp"
+  },
+  {
+    "alternatives" : [
+      "Convex Rasp"
+    ],
+    "bounds" : [
+      0.77796484459869042,
+      0.5696176337571367,
+      0.85339971902585976,
+      0.58009166847524141
+    ],
+    "confidence" : 1,
+    "text" : "Convex Rasp"
+  },
+  {
+    "alternatives" : [
+      "Concave Rasp"
+    ],
+    "bounds" : [
+      0.62919785593423871,
+      0.62568699400327743,
+      0.71295767843483626,
+      0.63457041207511511
+    ],
+    "confidence" : 1,
+    "text" : "Concave Rasp"
+  },
+  {
+    "alternatives" : [
+      "Tunnel Rasp, fine"
+    ],
+    "bounds" : [
+      0.77596741554305326,
+      0.62500000012151391,
+      0.87576374784798527,
+      0.6351744183741258
+    ],
+    "confidence" : 1,
+    "text" : "Tunnel Rasp, fine"
+  },
+  {
+    "alternatives" : [
+      "Graduated Osteotome"
+    ],
+    "bounds" : [
+      0.77800407285132489,
+      0.68168604685722123,
+      0.90427698268160128,
+      0.6919642855208189
+    ],
+    "confidence" : 1,
+    "text" : "Graduated Osteotome"
+  },
+  {
+    "alternatives" : [
+      "Microfracture Awl, 30°"
+    ],
+    "bounds" : [
+      0.62525458099587028,
+      0.73834325393858369,
+      0.75560081289415026,
+      0.74999999997032973
+    ],
+    "confidence" : 1,
+    "text" : "Microfracture Awl, 30°"
+  },
+  {
+    "alternatives" : [
+      "Microfracture Awl, 45°,"
+    ],
+    "bounds" : [
+      0.77596741676029812,
+      0.73834325375589716,
+      0.90835030438702036,
+      0.75148809502573832
+    ],
+    "confidence" : 1,
+    "text" : "Microfracture Awl, 45°,"
+  },
+  {
+    "alternatives" : [
+      "Thin Shaft"
+    ],
+    "bounds" : [
+      0.77387750433396552,
+      0.74985126808935143,
+      0.83712045774453203,
+      0.76177663900962356
+    ],
+    "confidence" : 1,
+    "text" : "Thin Shaft"
+  },
+  {
+    "alternatives" : [
+      "Microfracture Awl, 90°"
+    ],
+    "bounds" : [
+      0.62729124708316597,
+      0.80084325410176971,
+      0.75560081264188472,
+      0.81398809537161099
+    ],
+    "confidence" : 1,
+    "text" : "Microfracture Awl, 90°"
+  },
+  {
+    "alternatives" : [
+      "Microfracture Awl, 45°,"
+    ],
+    "bounds" : [
+      0.77393075617374163,
+      0.8023255814976934,
+      0.90835029952890611,
+      0.81398809546145334
+    ],
+    "confidence" : 1,
+    "text" : "Microfracture Awl, 45°,"
+  },
+  {
+    "alternatives" : [
+      "Standard"
+    ],
+    "bounds" : [
+      0.77381551066753917,
+      0.81365938310101327,
+      0.83107247190113176,
+      0.82587550074797234
+    ],
+    "confidence" : 1,
+    "text" : "Standard"
+  },
+  {
+    "alternatives" : [
+      "PCL Rasp"
+    ],
+    "bounds" : [
+      0.62525458442399384,
+      0.86334325395575184,
+      0.68635437830513024,
+      0.87648809522559312
+    ],
+    "confidence" : 1,
+    "text" : "PCL Rasp"
+  },
+  {
+    "alternatives" : [
+      "PCL Curette"
+    ],
+    "bounds" : [
+      0.77595286408903896,
+      0.863325275948853,
+      0.84930171986237057,
+      0.8750468169599972
+    ],
+    "confidence" : 1,
+    "text" : "PCL Curette"
+  },
+  {
+    "alternatives" : [
+      "Customer Service: (within U.S.) Phone: 800.237.0169 Fax 727.399.5256 Customer Service: (outside U.S.) Phone: 727.392.6464 Fax: 727.397.4540"
+    ],
+    "bounds" : [
+      0.05498982400067947,
+      0.96354166670400443,
+      0.5560081518649006,
+      0.97247023813257583
+    ],
+    "confidence" : 1,
+    "text" : "Customer Service: (within U.S.) Phone: 800.237.0169 Fax 727.399.5256 Customer Service: (outside U.S.) Phone: 727.392.6464 Fax: 727.397.4540"
+  },
+  {
+    "alternatives" : [
+      "KNEE ARTHROSCOPY PRODUCTS, 35"
+    ],
+    "bounds" : [
+      0.76985743150237451,
+      0.96354166677188724,
+      0.9551934847909046,
+      0.97247023820045864
+    ],
+    "confidence" : 1,
+    "text" : "KNEE ARTHROSCOPY PRODUCTS, 35"
+  }
+]

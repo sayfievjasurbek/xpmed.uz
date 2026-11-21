@@ -1,0 +1,40 @@
+{
+  "pdfPage": 16,
+  "pageRow": 4,
+  "visualReading": "BLAP100",
+  "visualReader": "Codex independent inspection of 600-DPI source table images; source-line crops retained",
+  "ocrReadings": {
+    "600dpi-psm3": "BLAP100",
+    "600dpi-psm11": "BLAP100",
+    "600dpi-code-crop-psm7": "BLAP100",
+    "Apple-Vision-accurate": "BLAP100"
+  },
+  "matchedReaders": [
+    "600dpi-psm3",
+    "600dpi-psm11",
+    "600dpi-code-crop-psm7",
+    "Apple-Vision-accurate"
+  ],
+  "value": "BLAP100",
+  "verificationStatus": "verified (visual + OCR)",
+  "manufacturerStatus": "confirmed on conmed.com",
+  "officialEvidence": [
+    {
+      "url": "https://www.conmed.com/-/media/conmed/documents/catalog/advancedsurgical_catalog.ashx",
+      "code": "BLAP100"
+    }
+  ],
+  "sourceBounds": [
+    0.8628448444531402,
+    0.32751883896176387,
+    0.9143024848366269,
+    0.3364499023164946
+  ],
+  "rowBounds": [
+    0.5289452320766902,
+    0.3226381461675579,
+    0.934,
+    0.3404634581105169
+  ],
+  "lineCrop": "reports/conmed/advanced-surgical-product-catalog/line-crops/016-04.png"
+}

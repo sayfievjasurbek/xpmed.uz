@@ -1,0 +1,912 @@
+{
+  "slug": "extension-plate",
+  "brand": "double-medical",
+  "category": "trauma-implants",
+  "subcategory": "trauma-external-fixation",
+  "subcategories": [
+    "trauma-external-fixation"
+  ],
+  "specialty": [
+    "traumatology",
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Удлинительная пластина",
+    "en": "Extension Plate"
+  },
+  "shortDescription": {
+    "ru": "Импланты для остеосинтеза",
+    "en": "Implants for fracture fixation"
+  },
+  "description": {
+    "ru": "Удлинительная пластина. Характеристики и каталожные номера приведены по Trauma Catalogue Double Medical.",
+    "en": "Extension Plate. Specifications and reference numbers are listed according to the Double Medical Trauma Catalogue."
+  },
+  "heroImage": "/images/products/double-medical/extension-plate/page-554-art-04.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "width": 754,
+      "height": 190,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          345,
+          63
+        ],
+        "enhancedSize": [
+          690,
+          126
+        ]
+      },
+      "src": "/images/products/double-medical/extension-plate/page-554-art-04.webp",
+      "imageCaption": {
+        "ru": "Удлинительная пластина",
+        "en": "Extension Plate"
+      },
+      "sourcePages": [
+        554
+      ]
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [
+    {
+      "id": "trauma-p554-4",
+      "groupId": "trauma-p554-4",
+      "title": {
+        "ru": "Удлинительная пластина",
+        "en": "Extension Plate"
+      },
+      "unit": "mm",
+      "sourcePage": 554,
+      "sourcePages": [
+        554
+      ],
+      "printedPage": "9/26",
+      "hideDescriptionColumn": true,
+      "columns": [
+        {
+          "ru": "Позиция",
+          "en": "Item"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Размер",
+          "en": "Size"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Удлинительная пластина · Размер: 2 отв.",
+            "en": "Extension Plate · Size: 2 Holes"
+          },
+          "108870702",
+          {
+            "ru": "2 отв.",
+            "en": "2 Holes"
+          }
+        ],
+        [
+          {
+            "ru": "Удлинительная пластина · Размер: 3 отв.",
+            "en": "Extension Plate · Size: 3 Holes"
+          },
+          "108870703",
+          {
+            "ru": "3 отв.",
+            "en": "3 Holes"
+          }
+        ],
+        [
+          {
+            "ru": "Удлинительная пластина · Размер: 4 отв.",
+            "en": "Extension Plate · Size: 4 Holes"
+          },
+          "108870704",
+          {
+            "ru": "4 отв.",
+            "en": "4 Holes"
+          }
+        ],
+        [
+          {
+            "ru": "Удлинительная пластина · Размер: 5 отв.",
+            "en": "Extension Plate · Size: 5 Holes"
+          },
+          "108870705",
+          {
+            "ru": "5 отв.",
+            "en": "5 Holes"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 554,
+          "printedPage": "9/26",
+          "sourceBounds": [
+            0.08,
+            0.6853193112893758,
+            0.55,
+            0.7012977890823714
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p554-4",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 554,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "108870702"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "108870702"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "108870702"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "108870702",
+                "PSM11": "108870702",
+                "Vision": "108870702"
+              },
+              "value": "108870702",
+              "bounds": [
+                0.11543734576364136,
+                0.6883193112893758,
+                0.2020839045791061,
+                0.6982977890823714
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "108870702"
+            },
+            {
+              "readings": {
+                "PSM3": "2 Holes",
+                "PSM11": "2 Holes",
+                "Vision": "2 Holes"
+              },
+              "value": "2 Holes",
+              "verifiedValue": "2 Holes"
+            }
+          ]
+        },
+        {
+          "pdfPage": 554,
+          "printedPage": "9/26",
+          "sourceBounds": [
+            0.08,
+            0.6999935433378986,
+            0.55,
+            0.7159720211308942
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p554-4",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 554,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "108870703"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "108870703"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "108870703"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "108870703",
+                "PSM11": "108870703",
+                "Vision": "108870703"
+              },
+              "value": "108870703",
+              "bounds": [
+                0.11543734576364136,
+                0.7029935433378987,
+                0.2020839045791061,
+                0.7129720211308942
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "108870703"
+            },
+            {
+              "readings": {
+                "PSM3": "3 Holes",
+                "PSM11": "3 Holes",
+                "Vision": "3 Holes"
+              },
+              "value": "3 Holes",
+              "verifiedValue": "3 Holes"
+            }
+          ]
+        },
+        {
+          "pdfPage": 554,
+          "printedPage": "9/26",
+          "sourceBounds": [
+            0.08,
+            0.7148634318137351,
+            0.55,
+            0.7306462531794169
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p554-4",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 554,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "108870704"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "108870704"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "108870704"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "108870704",
+                "PSM11": "108870704",
+                "Vision": "108870704"
+              },
+              "value": "108870704",
+              "bounds": [
+                0.11543734576364136,
+                0.7178634318137351,
+                0.20235810255004114,
+                0.7276462531794169
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "108870704"
+            },
+            {
+              "readings": {
+                "PSM3": "4 Holes",
+                "PSM11": "4 Holes",
+                "Vision": "4 Holes"
+              },
+              "value": "4 Holes",
+              "verifiedValue": "4 Holes"
+            }
+          ]
+        },
+        {
+          "pdfPage": 554,
+          "printedPage": "9/26",
+          "sourceBounds": [
+            0.08,
+            0.7295376638622578,
+            0.55,
+            0.7453204852279397
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p554-4",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 554,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "108870705"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "108870705"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "108870705"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "108870705",
+                "PSM11": "108870705",
+                "Vision": "108870705"
+              },
+              "value": "108870705",
+              "bounds": [
+                0.11543734576364136,
+                0.7325376638622578,
+                0.20235810255004114,
+                0.7423204852279397
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "108870705"
+            },
+            {
+              "readings": {
+                "PSM3": "5 Holes",
+                "PSM11": "5 Holes",
+                "Vision": "5 Holes"
+              },
+              "value": "5 Holes",
+              "verifiedValue": "5 Holes"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "width": 754,
+          "height": 190,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              345,
+              63
+            ],
+            "enhancedSize": [
+              690,
+              126
+            ]
+          },
+          "src": "/images/products/double-medical/extension-plate/page-554-art-04.webp",
+          "imageCaption": {
+            "ru": "Удлинительная пластина",
+            "en": "Extension Plate"
+          },
+          "sourcePages": [
+            554
+          ]
+        }
+      ],
+      "keyParameters": []
+    }
+  ],
+  "refCodes": [
+    "108870702",
+    "108870703",
+    "108870704",
+    "108870705"
+  ],
+  "sourcePages": [
+    554
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Trauma Catalogue — каталог продукции",
+    "en": "Double Medical Trauma Catalogue — product catalog"
+  },
+  "documentCover": "/catalogs/double-medical/trauma-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "catalogType": "list",
+  "importPartition": "trauma-part3",
+  "availabilityNote": {
+    "ru": "Изображения приведены для справки",
+    "en": "Images for reference only"
+  },
+  "imageDimensions": {
+    "/images/products/double-medical/extension-plate/page-554-art-04.webp": {
+      "width": 754,
+      "height": 190
+    }
+  },
+  "relatedSystemSlugs": [],
+  "sourcePdf": "/catalogs/double-medical/trauma-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/trauma-catalogue/pages/554.webp"
+  ],
+  "sourcePageDimensions": {
+    "530": {
+      "width": 3647,
+      "height": 5111
+    },
+    "531": {
+      "width": 3647,
+      "height": 5111
+    },
+    "532": {
+      "width": 3647,
+      "height": 5111
+    },
+    "533": {
+      "width": 3647,
+      "height": 5111
+    },
+    "534": {
+      "width": 3647,
+      "height": 5111
+    },
+    "535": {
+      "width": 3647,
+      "height": 5111
+    },
+    "536": {
+      "width": 3647,
+      "height": 5111
+    },
+    "537": {
+      "width": 3647,
+      "height": 5111
+    },
+    "538": {
+      "width": 3647,
+      "height": 5111
+    },
+    "539": {
+      "width": 3647,
+      "height": 5111
+    },
+    "540": {
+      "width": 3647,
+      "height": 5111
+    },
+    "541": {
+      "width": 3647,
+      "height": 5111
+    },
+    "542": {
+      "width": 3647,
+      "height": 5111
+    },
+    "543": {
+      "width": 3647,
+      "height": 5111
+    },
+    "544": {
+      "width": 3647,
+      "height": 5111
+    },
+    "545": {
+      "width": 3647,
+      "height": 5111
+    },
+    "546": {
+      "width": 3647,
+      "height": 5111
+    },
+    "547": {
+      "width": 3647,
+      "height": 5111
+    },
+    "548": {
+      "width": 3647,
+      "height": 5111
+    },
+    "549": {
+      "width": 3647,
+      "height": 5111
+    },
+    "550": {
+      "width": 3647,
+      "height": 5111
+    },
+    "551": {
+      "width": 3647,
+      "height": 5111
+    },
+    "552": {
+      "width": 3647,
+      "height": 5111
+    },
+    "553": {
+      "width": 3647,
+      "height": 5111
+    },
+    "554": {
+      "width": 3647,
+      "height": 5111
+    },
+    "555": {
+      "width": 3647,
+      "height": 5111
+    },
+    "556": {
+      "width": 3647,
+      "height": 5111
+    },
+    "557": {
+      "width": 3647,
+      "height": 5111
+    },
+    "558": {
+      "width": 3647,
+      "height": 5111
+    },
+    "559": {
+      "width": 3647,
+      "height": 5111
+    },
+    "560": {
+      "width": 3647,
+      "height": 5111
+    },
+    "561": {
+      "width": 3647,
+      "height": 5111
+    },
+    "562": {
+      "width": 3647,
+      "height": 5111
+    },
+    "563": {
+      "width": 3647,
+      "height": 5111
+    },
+    "564": {
+      "width": 3647,
+      "height": 5111
+    },
+    "565": {
+      "width": 3647,
+      "height": 5111
+    },
+    "566": {
+      "width": 3647,
+      "height": 5111
+    },
+    "567": {
+      "width": 3647,
+      "height": 5111
+    },
+    "568": {
+      "width": 3647,
+      "height": 5111
+    },
+    "569": {
+      "width": 3647,
+      "height": 5111
+    },
+    "570": {
+      "width": 3647,
+      "height": 5111
+    },
+    "571": {
+      "width": 3647,
+      "height": 5111
+    },
+    "572": {
+      "width": 3647,
+      "height": 5111
+    },
+    "573": {
+      "width": 3647,
+      "height": 5111
+    },
+    "574": {
+      "width": 3647,
+      "height": 5111
+    },
+    "575": {
+      "width": 3647,
+      "height": 5111
+    },
+    "576": {
+      "width": 3647,
+      "height": 5111
+    },
+    "577": {
+      "width": 3647,
+      "height": 5111
+    },
+    "578": {
+      "width": 3647,
+      "height": 5111
+    },
+    "582": {
+      "width": 3647,
+      "height": 5111
+    },
+    "583": {
+      "width": 3647,
+      "height": 5111
+    },
+    "584": {
+      "width": 3647,
+      "height": 5111
+    },
+    "585": {
+      "width": 3647,
+      "height": 5111
+    },
+    "586": {
+      "width": 3647,
+      "height": 5111
+    },
+    "587": {
+      "width": 3647,
+      "height": 5111
+    },
+    "588": {
+      "width": 3647,
+      "height": 5111
+    },
+    "589": {
+      "width": 3647,
+      "height": 5111
+    },
+    "590": {
+      "width": 3647,
+      "height": 5111
+    },
+    "591": {
+      "width": 3647,
+      "height": 5111
+    },
+    "592": {
+      "width": 3647,
+      "height": 5111
+    },
+    "593": {
+      "width": 3647,
+      "height": 5111
+    },
+    "594": {
+      "width": 3647,
+      "height": 5111
+    },
+    "595": {
+      "width": 3647,
+      "height": 5111
+    },
+    "596": {
+      "width": 3647,
+      "height": 5111
+    },
+    "597": {
+      "width": 3647,
+      "height": 5111
+    },
+    "598": {
+      "width": 3647,
+      "height": 5111
+    },
+    "599": {
+      "width": 3647,
+      "height": 5111
+    },
+    "600": {
+      "width": 3647,
+      "height": 5111
+    },
+    "601": {
+      "width": 3647,
+      "height": 5111
+    },
+    "602": {
+      "width": 3647,
+      "height": 5111
+    },
+    "603": {
+      "width": 3647,
+      "height": 5111
+    },
+    "604": {
+      "width": 3647,
+      "height": 5111
+    },
+    "605": {
+      "width": 3647,
+      "height": 5111
+    },
+    "606": {
+      "width": 3647,
+      "height": 5111
+    },
+    "607": {
+      "width": 3647,
+      "height": 5111
+    },
+    "608": {
+      "width": 3647,
+      "height": 5111
+    },
+    "612": {
+      "width": 3647,
+      "height": 5111
+    },
+    "613": {
+      "width": 3647,
+      "height": 5111
+    },
+    "614": {
+      "width": 3647,
+      "height": 5111
+    },
+    "615": {
+      "width": 3647,
+      "height": 5111
+    },
+    "616": {
+      "width": 3647,
+      "height": 5111
+    },
+    "617": {
+      "width": 3647,
+      "height": 5111
+    },
+    "620": {
+      "width": 3647,
+      "height": 5111
+    },
+    "621": {
+      "width": 3647,
+      "height": 5111
+    },
+    "622": {
+      "width": 3647,
+      "height": 5111
+    },
+    "623": {
+      "width": 3647,
+      "height": 5111
+    },
+    "624": {
+      "width": 3647,
+      "height": 5111
+    },
+    "625": {
+      "width": 3647,
+      "height": 5111
+    },
+    "626": {
+      "width": 3647,
+      "height": 5111
+    },
+    "627": {
+      "width": 3647,
+      "height": 5111
+    },
+    "628": {
+      "width": 3647,
+      "height": 5111
+    },
+    "632": {
+      "width": 3647,
+      "height": 5111
+    },
+    "633": {
+      "width": 3647,
+      "height": 5111
+    },
+    "634": {
+      "width": 3647,
+      "height": 5111
+    },
+    "635": {
+      "width": 3647,
+      "height": 5111
+    },
+    "636": {
+      "width": 3647,
+      "height": 5111
+    },
+    "637": {
+      "width": 3647,
+      "height": 5111
+    },
+    "638": {
+      "width": 3647,
+      "height": 5111
+    },
+    "639": {
+      "width": 3647,
+      "height": 5111
+    },
+    "640": {
+      "width": 3647,
+      "height": 5111
+    },
+    "641": {
+      "width": 3647,
+      "height": 5111
+    },
+    "642": {
+      "width": 3647,
+      "height": 5111
+    },
+    "643": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "3f2755d7646453cd1d8981369406a66062322971a7cb98258e022ae9b9769999",
+    "importMethod": "600-DPI Tesseract PSM3/11 plus independent Apple Vision; source glyph reconciliation and Codex visual reading; Codex medical RU; native photo composites, original Real-ESRGAN weights exact 2x then rembg",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      528,
+      529,
+      579,
+      580,
+      581,
+      609,
+      610,
+      611,
+      618,
+      619,
+      629,
+      630,
+      631,
+      644
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.columns.2.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.0.2.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.1.2.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.rows.2.2.ru",
+      "specTables.0.rows.3.0.ru",
+      "specTables.0.rows.3.2.ru",
+      "specTables.0.images.0.imageCaption.ru",
+      "catalogTitle.ru",
+      "availabilityNote.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Owner authorized automatic publication after source review with zero real open flags; no REF inferred.",
+    "imageQA": "Codex visual review of all seven final contact sheets and source layouts; two QR tiles excluded; two multi-instrument composites split into five separate row photos; ambiguous 607 composite retained only as a general subgroup illustration"
+  },
+  "publishedAt": "2026-11-21T06:37:29.425430+00:00"
+}

@@ -1,0 +1,912 @@
+{
+  "slug": "hinge-with-external-thread",
+  "brand": "double-medical",
+  "category": "trauma-implants",
+  "subcategory": "trauma-external-fixation",
+  "subcategories": [
+    "trauma-external-fixation"
+  ],
+  "specialty": [
+    "traumatology",
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Шарнир с наружной резьбой",
+    "en": "Hinge with External Thread"
+  },
+  "shortDescription": {
+    "ru": "Импланты для остеосинтеза",
+    "en": "Implants for fracture fixation"
+  },
+  "description": {
+    "ru": "Шарнир с наружной резьбой. Характеристики и каталожные номера приведены по Trauma Catalogue Double Medical.",
+    "en": "Hinge with External Thread. Specifications and reference numbers are listed according to the Double Medical Trauma Catalogue."
+  },
+  "heroImage": "/images/products/double-medical/hinge-with-external-thread/page-556-art-02.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "width": 538,
+      "height": 188,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          237,
+          62
+        ],
+        "enhancedSize": [
+          474,
+          124
+        ]
+      },
+      "src": "/images/products/double-medical/hinge-with-external-thread/page-556-art-02.webp",
+      "imageCaption": {
+        "ru": "Шарнир с наружной резьбой",
+        "en": "Hinge with External Thread"
+      },
+      "sourcePages": [
+        556
+      ]
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [
+    {
+      "id": "trauma-p556-2",
+      "groupId": "trauma-p556-2",
+      "title": {
+        "ru": "Шарнир с наружной резьбой",
+        "en": "Hinge with External Thread"
+      },
+      "unit": "mm",
+      "sourcePage": 556,
+      "sourcePages": [
+        556
+      ],
+      "printedPage": "9/28",
+      "hideDescriptionColumn": true,
+      "columns": [
+        {
+          "ru": "Позиция",
+          "en": "Item"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Размер",
+          "en": "Size"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Шарнир с наружной резьбой · Размер: 2 отв.",
+            "en": "Hinge with External Thread · Size: 2 Holes"
+          },
+          "108871302",
+          {
+            "ru": "2 отв.",
+            "en": "2 Holes"
+          }
+        ],
+        [
+          {
+            "ru": "Шарнир с наружной резьбой · Размер: 3 отв.",
+            "en": "Hinge with External Thread · Size: 3 Holes"
+          },
+          "108871303",
+          {
+            "ru": "3 отв.",
+            "en": "3 Holes"
+          }
+        ],
+        [
+          {
+            "ru": "Шарнир с наружной резьбой · Размер: 4 отв.",
+            "en": "Hinge with External Thread · Size: 4 Holes"
+          },
+          "108871304",
+          {
+            "ru": "4 отв.",
+            "en": "4 Holes"
+          }
+        ],
+        [
+          {
+            "ru": "Шарнир с наружной резьбой · Размер: 5 отв.",
+            "en": "Hinge with External Thread · Size: 5 Holes"
+          },
+          "108871305",
+          {
+            "ru": "5 отв.",
+            "en": "5 Holes"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 556,
+          "printedPage": "9/28",
+          "sourceBounds": [
+            0.08,
+            0.3767691254157699,
+            0.55,
+            0.3927476032087654
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p556-2",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 556,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "108871302"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "108871302"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "108871302"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "108871302",
+                "PSM11": "108871302",
+                "Vision": "108871302"
+              },
+              "value": "108871302",
+              "bounds": [
+                0.11543734576364136,
+                0.3797691254157699,
+                0.2020839045791061,
+                0.3897476032087654
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "108871302"
+            },
+            {
+              "readings": {
+                "PSM3": "2 Holes",
+                "PSM11": "2 Holes",
+                "Vision": "2 Holes"
+              },
+              "value": "2 Holes",
+              "verifiedValue": "2 Holes"
+            }
+          ]
+        },
+        {
+          "pdfPage": 556,
+          "printedPage": "9/28",
+          "sourceBounds": [
+            0.08,
+            0.3914433574642927,
+            0.55,
+            0.4074218352572882
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p556-2",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 556,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "108871303"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "108871303"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "108871303"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "108871303",
+                "PSM11": "108871303",
+                "Vision": "108871303"
+              },
+              "value": "108871303",
+              "bounds": [
+                0.11543734576364136,
+                0.3944433574642927,
+                0.2020839045791061,
+                0.4044218352572882
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "108871303"
+            },
+            {
+              "readings": {
+                "PSM3": "3 Holes",
+                "PSM11": "3 Holes",
+                "Vision": "3 Holes"
+              },
+              "value": "3 Holes",
+              "verifiedValue": "3 Holes"
+            }
+          ]
+        },
+        {
+          "pdfPage": 556,
+          "printedPage": "9/28",
+          "sourceBounds": [
+            0.08,
+            0.4061175895128155,
+            0.55,
+            0.422096067305811
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p556-2",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 556,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "108871304"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "108871304"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "108871304"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "108871304",
+                "PSM11": "108871304",
+                "Vision": "108871304"
+              },
+              "value": "108871304",
+              "bounds": [
+                0.11543734576364136,
+                0.4091175895128155,
+                0.20235810255004114,
+                0.419096067305811
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "108871304"
+            },
+            {
+              "readings": {
+                "PSM3": "4 Holes",
+                "PSM11": "4 Holes",
+                "Vision": "4 Holes"
+              },
+              "value": "4 Holes",
+              "verifiedValue": "4 Holes"
+            }
+          ]
+        },
+        {
+          "pdfPage": 556,
+          "printedPage": "9/28",
+          "sourceBounds": [
+            0.08,
+            0.42098747798865194,
+            0.55,
+            0.4367702993543338
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p556-2",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 556,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "108871305"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "108871305"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "108871305"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "108871305",
+                "PSM11": "108871305",
+                "Vision": "108871305"
+              },
+              "value": "108871305",
+              "bounds": [
+                0.11543734576364136,
+                0.42398747798865194,
+                0.20235810255004114,
+                0.4337702993543338
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "108871305"
+            },
+            {
+              "readings": {
+                "PSM3": "5 Holes",
+                "PSM11": "5 Holes",
+                "Vision": "5 Holes"
+              },
+              "value": "5 Holes",
+              "verifiedValue": "5 Holes"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "width": 538,
+          "height": 188,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              237,
+              62
+            ],
+            "enhancedSize": [
+              474,
+              124
+            ]
+          },
+          "src": "/images/products/double-medical/hinge-with-external-thread/page-556-art-02.webp",
+          "imageCaption": {
+            "ru": "Шарнир с наружной резьбой",
+            "en": "Hinge with External Thread"
+          },
+          "sourcePages": [
+            556
+          ]
+        }
+      ],
+      "keyParameters": []
+    }
+  ],
+  "refCodes": [
+    "108871302",
+    "108871303",
+    "108871304",
+    "108871305"
+  ],
+  "sourcePages": [
+    556
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Trauma Catalogue — каталог продукции",
+    "en": "Double Medical Trauma Catalogue — product catalog"
+  },
+  "documentCover": "/catalogs/double-medical/trauma-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "catalogType": "list",
+  "importPartition": "trauma-part3",
+  "availabilityNote": {
+    "ru": "Изображения приведены для справки",
+    "en": "Images for reference only"
+  },
+  "imageDimensions": {
+    "/images/products/double-medical/hinge-with-external-thread/page-556-art-02.webp": {
+      "width": 538,
+      "height": 188
+    }
+  },
+  "relatedSystemSlugs": [],
+  "sourcePdf": "/catalogs/double-medical/trauma-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/trauma-catalogue/pages/556.webp"
+  ],
+  "sourcePageDimensions": {
+    "530": {
+      "width": 3647,
+      "height": 5111
+    },
+    "531": {
+      "width": 3647,
+      "height": 5111
+    },
+    "532": {
+      "width": 3647,
+      "height": 5111
+    },
+    "533": {
+      "width": 3647,
+      "height": 5111
+    },
+    "534": {
+      "width": 3647,
+      "height": 5111
+    },
+    "535": {
+      "width": 3647,
+      "height": 5111
+    },
+    "536": {
+      "width": 3647,
+      "height": 5111
+    },
+    "537": {
+      "width": 3647,
+      "height": 5111
+    },
+    "538": {
+      "width": 3647,
+      "height": 5111
+    },
+    "539": {
+      "width": 3647,
+      "height": 5111
+    },
+    "540": {
+      "width": 3647,
+      "height": 5111
+    },
+    "541": {
+      "width": 3647,
+      "height": 5111
+    },
+    "542": {
+      "width": 3647,
+      "height": 5111
+    },
+    "543": {
+      "width": 3647,
+      "height": 5111
+    },
+    "544": {
+      "width": 3647,
+      "height": 5111
+    },
+    "545": {
+      "width": 3647,
+      "height": 5111
+    },
+    "546": {
+      "width": 3647,
+      "height": 5111
+    },
+    "547": {
+      "width": 3647,
+      "height": 5111
+    },
+    "548": {
+      "width": 3647,
+      "height": 5111
+    },
+    "549": {
+      "width": 3647,
+      "height": 5111
+    },
+    "550": {
+      "width": 3647,
+      "height": 5111
+    },
+    "551": {
+      "width": 3647,
+      "height": 5111
+    },
+    "552": {
+      "width": 3647,
+      "height": 5111
+    },
+    "553": {
+      "width": 3647,
+      "height": 5111
+    },
+    "554": {
+      "width": 3647,
+      "height": 5111
+    },
+    "555": {
+      "width": 3647,
+      "height": 5111
+    },
+    "556": {
+      "width": 3647,
+      "height": 5111
+    },
+    "557": {
+      "width": 3647,
+      "height": 5111
+    },
+    "558": {
+      "width": 3647,
+      "height": 5111
+    },
+    "559": {
+      "width": 3647,
+      "height": 5111
+    },
+    "560": {
+      "width": 3647,
+      "height": 5111
+    },
+    "561": {
+      "width": 3647,
+      "height": 5111
+    },
+    "562": {
+      "width": 3647,
+      "height": 5111
+    },
+    "563": {
+      "width": 3647,
+      "height": 5111
+    },
+    "564": {
+      "width": 3647,
+      "height": 5111
+    },
+    "565": {
+      "width": 3647,
+      "height": 5111
+    },
+    "566": {
+      "width": 3647,
+      "height": 5111
+    },
+    "567": {
+      "width": 3647,
+      "height": 5111
+    },
+    "568": {
+      "width": 3647,
+      "height": 5111
+    },
+    "569": {
+      "width": 3647,
+      "height": 5111
+    },
+    "570": {
+      "width": 3647,
+      "height": 5111
+    },
+    "571": {
+      "width": 3647,
+      "height": 5111
+    },
+    "572": {
+      "width": 3647,
+      "height": 5111
+    },
+    "573": {
+      "width": 3647,
+      "height": 5111
+    },
+    "574": {
+      "width": 3647,
+      "height": 5111
+    },
+    "575": {
+      "width": 3647,
+      "height": 5111
+    },
+    "576": {
+      "width": 3647,
+      "height": 5111
+    },
+    "577": {
+      "width": 3647,
+      "height": 5111
+    },
+    "578": {
+      "width": 3647,
+      "height": 5111
+    },
+    "582": {
+      "width": 3647,
+      "height": 5111
+    },
+    "583": {
+      "width": 3647,
+      "height": 5111
+    },
+    "584": {
+      "width": 3647,
+      "height": 5111
+    },
+    "585": {
+      "width": 3647,
+      "height": 5111
+    },
+    "586": {
+      "width": 3647,
+      "height": 5111
+    },
+    "587": {
+      "width": 3647,
+      "height": 5111
+    },
+    "588": {
+      "width": 3647,
+      "height": 5111
+    },
+    "589": {
+      "width": 3647,
+      "height": 5111
+    },
+    "590": {
+      "width": 3647,
+      "height": 5111
+    },
+    "591": {
+      "width": 3647,
+      "height": 5111
+    },
+    "592": {
+      "width": 3647,
+      "height": 5111
+    },
+    "593": {
+      "width": 3647,
+      "height": 5111
+    },
+    "594": {
+      "width": 3647,
+      "height": 5111
+    },
+    "595": {
+      "width": 3647,
+      "height": 5111
+    },
+    "596": {
+      "width": 3647,
+      "height": 5111
+    },
+    "597": {
+      "width": 3647,
+      "height": 5111
+    },
+    "598": {
+      "width": 3647,
+      "height": 5111
+    },
+    "599": {
+      "width": 3647,
+      "height": 5111
+    },
+    "600": {
+      "width": 3647,
+      "height": 5111
+    },
+    "601": {
+      "width": 3647,
+      "height": 5111
+    },
+    "602": {
+      "width": 3647,
+      "height": 5111
+    },
+    "603": {
+      "width": 3647,
+      "height": 5111
+    },
+    "604": {
+      "width": 3647,
+      "height": 5111
+    },
+    "605": {
+      "width": 3647,
+      "height": 5111
+    },
+    "606": {
+      "width": 3647,
+      "height": 5111
+    },
+    "607": {
+      "width": 3647,
+      "height": 5111
+    },
+    "608": {
+      "width": 3647,
+      "height": 5111
+    },
+    "612": {
+      "width": 3647,
+      "height": 5111
+    },
+    "613": {
+      "width": 3647,
+      "height": 5111
+    },
+    "614": {
+      "width": 3647,
+      "height": 5111
+    },
+    "615": {
+      "width": 3647,
+      "height": 5111
+    },
+    "616": {
+      "width": 3647,
+      "height": 5111
+    },
+    "617": {
+      "width": 3647,
+      "height": 5111
+    },
+    "620": {
+      "width": 3647,
+      "height": 5111
+    },
+    "621": {
+      "width": 3647,
+      "height": 5111
+    },
+    "622": {
+      "width": 3647,
+      "height": 5111
+    },
+    "623": {
+      "width": 3647,
+      "height": 5111
+    },
+    "624": {
+      "width": 3647,
+      "height": 5111
+    },
+    "625": {
+      "width": 3647,
+      "height": 5111
+    },
+    "626": {
+      "width": 3647,
+      "height": 5111
+    },
+    "627": {
+      "width": 3647,
+      "height": 5111
+    },
+    "628": {
+      "width": 3647,
+      "height": 5111
+    },
+    "632": {
+      "width": 3647,
+      "height": 5111
+    },
+    "633": {
+      "width": 3647,
+      "height": 5111
+    },
+    "634": {
+      "width": 3647,
+      "height": 5111
+    },
+    "635": {
+      "width": 3647,
+      "height": 5111
+    },
+    "636": {
+      "width": 3647,
+      "height": 5111
+    },
+    "637": {
+      "width": 3647,
+      "height": 5111
+    },
+    "638": {
+      "width": 3647,
+      "height": 5111
+    },
+    "639": {
+      "width": 3647,
+      "height": 5111
+    },
+    "640": {
+      "width": 3647,
+      "height": 5111
+    },
+    "641": {
+      "width": 3647,
+      "height": 5111
+    },
+    "642": {
+      "width": 3647,
+      "height": 5111
+    },
+    "643": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "3f2755d7646453cd1d8981369406a66062322971a7cb98258e022ae9b9769999",
+    "importMethod": "600-DPI Tesseract PSM3/11 plus independent Apple Vision; source glyph reconciliation and Codex visual reading; Codex medical RU; native photo composites, original Real-ESRGAN weights exact 2x then rembg",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      528,
+      529,
+      579,
+      580,
+      581,
+      609,
+      610,
+      611,
+      618,
+      619,
+      629,
+      630,
+      631,
+      644
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.columns.2.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.0.2.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.1.2.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.rows.2.2.ru",
+      "specTables.0.rows.3.0.ru",
+      "specTables.0.rows.3.2.ru",
+      "specTables.0.images.0.imageCaption.ru",
+      "catalogTitle.ru",
+      "availabilityNote.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Owner authorized automatic publication after source review with zero real open flags; no REF inferred.",
+    "imageQA": "Codex visual review of all seven final contact sheets and source layouts; two QR tiles excluded; two multi-instrument composites split into five separate row photos; ambiguous 607 composite retained only as a general subgroup illustration"
+  },
+  "publishedAt": "2026-11-21T06:37:29.425430+00:00"
+}

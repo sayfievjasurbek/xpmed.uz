@@ -1,0 +1,2243 @@
+{
+  "schemaVersion": 1,
+  "slug": "uhn-universal-humeral-nail",
+  "brand": "double-medical",
+  "category": "trauma-implants",
+  "subcategory": "trauma-intramedullary-nailing",
+  "specialty": [
+    "traumatology",
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Универсальный штифт UHN",
+    "en": "UHN universal humeral nail"
+  },
+  "shortDescription": {
+    "ru": "Фиксация переломов плечевой кости",
+    "en": "Humeral fracture fixation"
+  },
+  "description": {
+    "ru": "Универсальный интрамедуллярный штифт UHN предназначен для фиксации переломов проксимального отдела и диафиза плечевой кости.\n\nВ исходном описании перечислены блокируемые винты для плечевого штифта диаметром 3.6 и 5.0 мм, торцевая заглушка и набор инструментов Universal Humeral Nail Instrument Set.",
+    "en": "The UHN Universal Humeral Nail is designed for fixation of proximal humeral fractures and humeral shaft fractures.\n\nThe original description lists 3.6 mm and 5.0 mm locking screws for the humeral nail, an end cap, and the Universal Humeral Nail Instrument Set."
+  },
+  "heroImage": "/images/products/double-medical/uhn-universal-humeral-nail/uhn.webp",
+  "imageType": "cutout",
+  "gallery": [
+    "/images/products/double-medical/uhn-universal-humeral-nail/uhn.webp",
+    {
+      "width": 915,
+      "height": 118,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          480,
+          293
+        ],
+        "enhancedSize": [
+          960,
+          586
+        ]
+      },
+      "src": "/images/products/double-medical/universal-humeral-nail/page-352-art-01.webp",
+      "imageCaption": {
+        "ru": "Универсальный плечевой штифт",
+        "en": "Universal Humeral Nail"
+      },
+      "sourcePages": [
+        352
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "legacy-anatomic-design",
+      "title": {
+        "ru": "Анатомическая форма",
+        "en": "Anatomic design"
+      },
+      "text": {
+        "ru": "Анатомическая форма соответствует физиологической кривизне костномозгового канала, облегчая введение штифта.",
+        "en": "The anatomic design corresponds to the physiological curvature of the medullary canal for easier insertion."
+      }
+    },
+    {
+      "id": "legacy-distal-cutting",
+      "title": {
+        "ru": "Режущий дистальный конец",
+        "en": "Distal cutting end"
+      },
+      "text": {
+        "ru": "Режущий дистальный конец облегчает введение штифта.",
+        "en": "The distal cutting end facilitates insertion."
+      }
+    }
+  ],
+  "hotspots": [],
+  "components": [
+    {
+      "id": "uhn",
+      "name": {
+        "ru": "Универсальный штифт UHN",
+        "en": "UHN universal humeral nail"
+      },
+      "image": "/images/products/double-medical/uhn-universal-humeral-nail/uhn.webp",
+      "refCodes": [],
+      "sizes": [],
+      "variants": [],
+      "legacyDocuments": [
+        {
+          "type": "product-page",
+          "ru": "https://xpmed.uz/product/double-medical/trauma/universalnyj-shtift-dlya-plechevoj-kosti-uhn/",
+          "en": "https://xpmed.uz/product/double-medical-en/trauma-en/humeral/uhn-universal-humeral-nail/"
+        }
+      ]
+    }
+  ],
+  "specTables": [
+    {
+      "id": "legacy-uhn-locking-screws",
+      "title": {
+        "ru": "Блокируемые винты для плечевого штифта",
+        "en": "Locking screws for the humeral nail"
+      },
+      "unit": "mm",
+      "columns": [
+        {
+          "ru": "Параметр",
+          "en": "Parameter"
+        },
+        {
+          "ru": "Значение",
+          "en": "Value"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Диаметр",
+            "en": "Diameter"
+          },
+          [
+            "3.6",
+            "5.0"
+          ]
+        ]
+      ],
+      "legend": null,
+      "headerType": "parameter-values"
+    }
+  ],
+  "refCodes": [
+    "070260110",
+    "070260160",
+    "070260180",
+    "070260200",
+    "070260220",
+    "070260240",
+    "070260260",
+    "070270110",
+    "070270160",
+    "070270180",
+    "070270200",
+    "070270220",
+    "070270240",
+    "070270260"
+  ],
+  "sourcePdf": null,
+  "sourcePages": [],
+  "catalogEdition": null,
+  "isNew": false,
+  "status": "published",
+  "legacyId": "uhn",
+  "legacyBrand": "double",
+  "review": {
+    "flags": [],
+    "notes": [
+      "Migrated existing catalog content; no additional dimensions or reference codes inferred.",
+      "Full descriptions and source-supported characteristics imported from original XPMED RU/EN pages on 2026-11-18. Medical terminology and grammar normalized; no dimensions or REF codes inferred."
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.1.imageCaption.ru",
+      "features.0.title.ru",
+      "features.0.text.ru",
+      "features.1.title.ru",
+      "features.1.text.ru",
+      "components.0.name.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.rows.0.0.ru",
+      "referenceTables.0.title.ru",
+      "referenceTables.0.columns.0.ru",
+      "referenceTables.0.columns.1.ru",
+      "referenceTables.0.columns.2.ru",
+      "referenceTables.0.columns.3.ru",
+      "referenceTables.0.rows.0.0.ru",
+      "referenceTables.0.rows.0.2.ru",
+      "referenceTables.0.rows.0.3.ru",
+      "referenceTables.0.rows.1.0.ru",
+      "referenceTables.0.rows.1.2.ru",
+      "referenceTables.0.rows.1.3.ru",
+      "referenceTables.0.rows.2.0.ru",
+      "referenceTables.0.rows.2.2.ru",
+      "referenceTables.0.rows.2.3.ru",
+      "referenceTables.0.rows.3.0.ru",
+      "referenceTables.0.rows.3.2.ru",
+      "referenceTables.0.rows.3.3.ru",
+      "referenceTables.0.rows.4.0.ru",
+      "referenceTables.0.rows.4.2.ru",
+      "referenceTables.0.rows.4.3.ru",
+      "referenceTables.0.rows.5.0.ru",
+      "referenceTables.0.rows.5.2.ru",
+      "referenceTables.0.rows.5.3.ru",
+      "referenceTables.0.rows.6.0.ru",
+      "referenceTables.0.rows.6.2.ru",
+      "referenceTables.0.rows.6.3.ru",
+      "referenceTables.0.rows.7.0.ru",
+      "referenceTables.0.rows.7.2.ru",
+      "referenceTables.0.rows.7.3.ru",
+      "referenceTables.0.rows.8.0.ru",
+      "referenceTables.0.rows.8.2.ru",
+      "referenceTables.0.rows.8.3.ru",
+      "referenceTables.0.rows.9.0.ru",
+      "referenceTables.0.rows.9.2.ru",
+      "referenceTables.0.rows.9.3.ru",
+      "referenceTables.0.rows.10.0.ru",
+      "referenceTables.0.rows.10.2.ru",
+      "referenceTables.0.rows.10.3.ru",
+      "referenceTables.0.rows.11.0.ru",
+      "referenceTables.0.rows.11.2.ru",
+      "referenceTables.0.rows.11.3.ru",
+      "referenceTables.0.rows.12.0.ru",
+      "referenceTables.0.rows.12.2.ru",
+      "referenceTables.0.rows.12.3.ru",
+      "referenceTables.0.rows.13.0.ru",
+      "referenceTables.0.rows.13.2.ru",
+      "referenceTables.0.rows.13.3.ru",
+      "referenceTables.0.images.0.imageCaption.ru",
+      "referenceTables.0.keyParameters.0.parameter.ru",
+      "referenceTables.0.keyParameters.0.value.ru",
+      "referenceTables.0.keyParameters.1.parameter.ru",
+      "referenceTables.0.keyParameters.1.value.ru",
+      "referenceTables.0.keyParameters.2.parameter.ru",
+      "referenceTables.0.keyParameters.2.value.ru",
+      "catalogImports.0.catalogTitle.ru",
+      "availabilityNote.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required"
+  },
+  "imageDimensions": {
+    "/images/products/double-medical/uhn-universal-humeral-nail/uhn.webp": {
+      "width": 640,
+      "height": 640
+    },
+    "/images/products/double-medical/universal-humeral-nail/page-352-art-01.webp": {
+      "width": 915,
+      "height": 118
+    }
+  },
+  "subcategories": [
+    "trauma-intramedullary-nailing"
+  ],
+  "legacySources": [
+    {
+      "productId": "uhn",
+      "language": "ru",
+      "url": "https://xpmed.uz/product/double-medical/trauma/universalnyj-shtift-dlya-plechevoj-kosti-uhn/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    },
+    {
+      "productId": "uhn",
+      "language": "en",
+      "url": "https://xpmed.uz/product/double-medical-en/trauma-en/humeral/uhn-universal-humeral-nail/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    }
+  ],
+  "referenceTables": [
+    {
+      "id": "trauma-p352-1",
+      "groupId": "trauma-p352-1",
+      "title": {
+        "ru": "Универсальный плечевой штифт",
+        "en": "Universal Humeral Nail"
+      },
+      "unit": "mm",
+      "sourcePage": 352,
+      "sourcePages": [
+        352
+      ],
+      "printedPage": "8/32",
+      "hideDescriptionColumn": true,
+      "columns": [
+        {
+          "ru": "Позиция",
+          "en": "Item"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Диаметр",
+          "en": "Diameter"
+        },
+        {
+          "ru": "Длина",
+          "en": "Length"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Универсальный плечевой штифт · Диаметр: 7.0, Длина: 110",
+            "en": "Universal Humeral Nail · Diameter: 7.0, Length: 110"
+          },
+          "070260110",
+          {
+            "ru": "7.0",
+            "en": "7.0"
+          },
+          {
+            "ru": "110",
+            "en": "110"
+          }
+        ],
+        [
+          {
+            "ru": "Универсальный плечевой штифт · Диаметр: 7.0, Длина: 160",
+            "en": "Universal Humeral Nail · Diameter: 7.0, Length: 160"
+          },
+          "070260160",
+          {
+            "ru": "7.0",
+            "en": "7.0"
+          },
+          {
+            "ru": "160",
+            "en": "160"
+          }
+        ],
+        [
+          {
+            "ru": "Универсальный плечевой штифт · Диаметр: 7.0, Длина: 180",
+            "en": "Universal Humeral Nail · Diameter: 7.0, Length: 180"
+          },
+          "070260180",
+          {
+            "ru": "7.0",
+            "en": "7.0"
+          },
+          {
+            "ru": "180",
+            "en": "180"
+          }
+        ],
+        [
+          {
+            "ru": "Универсальный плечевой штифт · Диаметр: 7.0, Длина: 200",
+            "en": "Universal Humeral Nail · Diameter: 7.0, Length: 200"
+          },
+          "070260200",
+          {
+            "ru": "7.0",
+            "en": "7.0"
+          },
+          {
+            "ru": "200",
+            "en": "200"
+          }
+        ],
+        [
+          {
+            "ru": "Универсальный плечевой штифт · Диаметр: 7.0, Длина: 220",
+            "en": "Universal Humeral Nail · Diameter: 7.0, Length: 220"
+          },
+          "070260220",
+          {
+            "ru": "7.0",
+            "en": "7.0"
+          },
+          {
+            "ru": "220",
+            "en": "220"
+          }
+        ],
+        [
+          {
+            "ru": "Универсальный плечевой штифт · Диаметр: 7.0, Длина: 240",
+            "en": "Universal Humeral Nail · Diameter: 7.0, Length: 240"
+          },
+          "070260240",
+          {
+            "ru": "7.0",
+            "en": "7.0"
+          },
+          {
+            "ru": "240",
+            "en": "240"
+          }
+        ],
+        [
+          {
+            "ru": "Универсальный плечевой штифт · Диаметр: 7.0, Длина: 260",
+            "en": "Universal Humeral Nail · Diameter: 7.0, Length: 260"
+          },
+          "070260260",
+          {
+            "ru": "7.0",
+            "en": "7.0"
+          },
+          {
+            "ru": "260",
+            "en": "260"
+          }
+        ],
+        [
+          {
+            "ru": "Универсальный плечевой штифт · Диаметр: 8.0, Длина: 110",
+            "en": "Universal Humeral Nail · Diameter: 8.0, Length: 110"
+          },
+          "070270110",
+          {
+            "ru": "8.0",
+            "en": "8.0"
+          },
+          {
+            "ru": "110",
+            "en": "110"
+          }
+        ],
+        [
+          {
+            "ru": "Универсальный плечевой штифт · Диаметр: 8.0, Длина: 160",
+            "en": "Universal Humeral Nail · Diameter: 8.0, Length: 160"
+          },
+          "070270160",
+          {
+            "ru": "8.0",
+            "en": "8.0"
+          },
+          {
+            "ru": "160",
+            "en": "160"
+          }
+        ],
+        [
+          {
+            "ru": "Универсальный плечевой штифт · Диаметр: 8.0, Длина: 180",
+            "en": "Universal Humeral Nail · Diameter: 8.0, Length: 180"
+          },
+          "070270180",
+          {
+            "ru": "8.0",
+            "en": "8.0"
+          },
+          {
+            "ru": "180",
+            "en": "180"
+          }
+        ],
+        [
+          {
+            "ru": "Универсальный плечевой штифт · Диаметр: 8.0, Длина: 200",
+            "en": "Universal Humeral Nail · Diameter: 8.0, Length: 200"
+          },
+          "070270200",
+          {
+            "ru": "8.0",
+            "en": "8.0"
+          },
+          {
+            "ru": "200",
+            "en": "200"
+          }
+        ],
+        [
+          {
+            "ru": "Универсальный плечевой штифт · Диаметр: 8.0, Длина: 220",
+            "en": "Universal Humeral Nail · Diameter: 8.0, Length: 220"
+          },
+          "070270220",
+          {
+            "ru": "8.0",
+            "en": "8.0"
+          },
+          {
+            "ru": "220",
+            "en": "220"
+          }
+        ],
+        [
+          {
+            "ru": "Универсальный плечевой штифт · Диаметр: 8.0, Длина: 240",
+            "en": "Universal Humeral Nail · Diameter: 8.0, Length: 240"
+          },
+          "070270240",
+          {
+            "ru": "8.0",
+            "en": "8.0"
+          },
+          {
+            "ru": "240",
+            "en": "240"
+          }
+        ],
+        [
+          {
+            "ru": "Универсальный плечевой штифт · Диаметр: 8.0, Длина: 260",
+            "en": "Universal Humeral Nail · Diameter: 8.0, Length: 260"
+          },
+          "070270260",
+          {
+            "ru": "8.0",
+            "en": "8.0"
+          },
+          {
+            "ru": "260",
+            "en": "260"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 352,
+          "printedPage": "8/32",
+          "sourceBounds": [
+            0.08,
+            0.26661455683819213,
+            0.5508744859389795,
+            0.282397378203874
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p352-1",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 352,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "070260110"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "070260110"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "070260110"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "070260110",
+                "PSM11": "070260110",
+                "Vision": "070260110"
+              },
+              "value": "070260110",
+              "bounds": [
+                0.11488894982177132,
+                0.26961455683819213,
+                0.20098711269536607,
+                0.279397378203874
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "070260110"
+            },
+            {
+              "readings": {
+                "PSM3": "7.0",
+                "PSM11": "7.0",
+                "Vision": "7.0"
+              },
+              "value": "7.0",
+              "glyphReading": {
+                "text": "7.0",
+                "scores": [
+                  {
+                    "character": "7",
+                    "distance": 0.0,
+                    "margin": 0.37640907404628515
+                  },
+                  {
+                    "character": ".",
+                    "distance": 0.0,
+                    "margin": 1.0
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.008003982843137254,
+                    "margin": 0.1509574142156863
+                  }
+                ],
+                "sourceRect": [
+                  104.72370147705078,
+                  165.35598754882812,
+                  114.76699829101562,
+                  171.4010009765625
+                ]
+              },
+              "verifiedValue": "7.0"
+            },
+            {
+              "readings": {
+                "PSM3": "110",
+                "PSM11": "110",
+                "Vision": "110"
+              },
+              "value": "110",
+              "verifiedValue": "110"
+            }
+          ]
+        },
+        {
+          "pdfPage": 352,
+          "printedPage": "8/32",
+          "sourceBounds": [
+            0.08,
+            0.28128878888671494,
+            0.5508744859389795,
+            0.2970716102523968
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p352-1",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 352,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "070260160"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "070260160"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "070260160"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "070260160",
+                "PSM11": "070260160",
+                "Vision": "070260160"
+              },
+              "value": "070260160",
+              "bounds": [
+                0.11488894982177132,
+                0.28428878888671494,
+                0.2018097066081711,
+                0.2940716102523968
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "070260160"
+            },
+            {
+              "readings": {
+                "PSM3": "7.0",
+                "PSM11": "7.0",
+                "Vision": "7.0"
+              },
+              "value": "7.0",
+              "glyphReading": {
+                "text": "7.0",
+                "scores": [
+                  {
+                    "character": "7",
+                    "distance": 0.002859477124183007,
+                    "margin": 0.37531634528811525
+                  },
+                  {
+                    "character": ".",
+                    "distance": 0.0,
+                    "margin": 1.0
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.005310457516339869,
+                    "margin": 0.1536203022875817
+                  }
+                ],
+                "sourceRect": [
+                  104.72370147705078,
+                  174.37701416015625,
+                  114.76699829101562,
+                  180.42098999023438
+                ]
+              },
+              "verifiedValue": "7.0"
+            },
+            {
+              "readings": {
+                "PSM3": "160",
+                "PSM11": "160",
+                "Vision": "160"
+              },
+              "value": "160",
+              "glyphReading": {
+                "text": "160",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.009809368747498997,
+                    "margin": 0.4106726982459651
+                  },
+                  {
+                    "character": "6",
+                    "distance": 0.009349468954248366,
+                    "margin": 0.14734477124183007
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.013314440359477124,
+                    "margin": 0.14474315767973855
+                  }
+                ],
+                "sourceRect": [
+                  173.5540008544922,
+                  174.385009765625,
+                  185.2790069580078,
+                  180.42901611328125
+                ]
+              },
+              "verifiedValue": "160"
+            }
+          ]
+        },
+        {
+          "pdfPage": 352,
+          "printedPage": "8/32",
+          "sourceBounds": [
+            0.08,
+            0.29596302093523774,
+            0.5508744859389795,
+            0.31194149872823324
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p352-1",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 352,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "070260180"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "070260180"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "070260180"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "070260180",
+                "PSM11": "070260180",
+                "Vision": "070260180"
+              },
+              "value": "070260180",
+              "bounds": [
+                0.11488894982177132,
+                0.29896302093523774,
+                0.2020839045791061,
+                0.30894149872823323
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "070260180"
+            },
+            {
+              "readings": {
+                "PSM3": "7.0",
+                "PSM11": "7.0",
+                "Vision": "7.0"
+              },
+              "value": "7.0",
+              "glyphReading": {
+                "text": "7.0",
+                "scores": [
+                  {
+                    "character": "7",
+                    "distance": 0.0006969975490196076,
+                    "margin": 0.37625978516406566
+                  },
+                  {
+                    "character": ".",
+                    "distance": 0.0,
+                    "margin": 1.0
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.007312091503267973,
+                    "margin": 0.15266033496732026
+                  }
+                ],
+                "sourceRect": [
+                  104.72370147705078,
+                  183.39700317382812,
+                  114.76699829101562,
+                  189.44100952148438
+                ]
+              },
+              "verifiedValue": "7.0"
+            },
+            {
+              "readings": {
+                "PSM3": "180",
+                "PSM11": "180",
+                "Vision": "180"
+              },
+              "value": "180",
+              "glyphReading": {
+                "text": "180",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.0036151960784313723,
+                    "margin": 0.4090846672002134
+                  },
+                  {
+                    "character": "8",
+                    "distance": 0.01398080065359477,
+                    "margin": 0.09830984477124183
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.01797640931372549,
+                    "margin": 0.13672130310457517
+                  }
+                ],
+                "sourceRect": [
+                  173.5540008544922,
+                  183.40499877929688,
+                  185.2790069580078,
+                  189.44900512695312
+                ]
+              },
+              "verifiedValue": "180"
+            }
+          ]
+        },
+        {
+          "pdfPage": 352,
+          "printedPage": "8/32",
+          "sourceBounds": [
+            0.08,
+            0.3106372529837605,
+            0.5508744859389795,
+            0.32661573077675604
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p352-1",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 352,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "070260200"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "070260200"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "070260200"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "070260200",
+                "PSM11": "070260200",
+                "Vision": "070260200"
+              },
+              "value": "070260200",
+              "bounds": [
+                0.11488894982177132,
+                0.3136372529837605,
+                0.2018097066081711,
+                0.32361573077675604
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "070260200"
+            },
+            {
+              "readings": {
+                "PSM3": "7.0",
+                "PSM11": "7.0",
+                "Vision": "7.0"
+              },
+              "value": "7.0",
+              "glyphReading": {
+                "text": "7.0",
+                "scores": [
+                  {
+                    "character": "7",
+                    "distance": 0.00208843954248366,
+                    "margin": 0.37347690117713744
+                  },
+                  {
+                    "character": ".",
+                    "distance": 0.0,
+                    "margin": 1.0
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.0052900326797385615,
+                    "margin": 0.15439899918300654
+                  }
+                ],
+                "sourceRect": [
+                  104.72370147705078,
+                  192.4169921875,
+                  114.76699829101562,
+                  198.46099853515625
+                ]
+              },
+              "verifiedValue": "7.0"
+            },
+            {
+              "readings": {
+                "PSM3": "200",
+                "PSM11": "200",
+                "Vision": "200"
+              },
+              "value": "200",
+              "glyphReading": {
+                "text": "200",
+                "scores": [
+                  {
+                    "character": "2",
+                    "distance": 0.0026296977124183004,
+                    "margin": 0.2927281099939976
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.004674734477124183,
+                    "margin": 0.14546823937908496
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.015333946078431372,
+                    "margin": 0.13931525735294117
+                  }
+                ],
+                "sourceRect": [
+                  172.93800354003906,
+                  192.42498779296875,
+                  185.2790069580078,
+                  198.468994140625
+                ]
+              },
+              "verifiedValue": "200"
+            }
+          ]
+        },
+        {
+          "pdfPage": 352,
+          "printedPage": "8/32",
+          "sourceBounds": [
+            0.08,
+            0.3253114850322833,
+            0.5508744859389795,
+            0.3412899628252788
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p352-1",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 352,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "070260220"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "070260220"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "070260220"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "070260220",
+                "PSM11": "070260220",
+                "Vision": "070260220"
+              },
+              "value": "070260220",
+              "bounds": [
+                0.11488894982177132,
+                0.3283114850322833,
+                0.2020839045791061,
+                0.3382899628252788
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "070260220"
+            },
+            {
+              "readings": {
+                "PSM3": "7.0",
+                "PSM11": "7.0",
+                "Vision": "7.0"
+              },
+              "value": "7.0",
+              "glyphReading": {
+                "text": "7.0",
+                "scores": [
+                  {
+                    "character": "7",
+                    "distance": 0.0,
+                    "margin": 0.37909494005935707
+                  },
+                  {
+                    "character": ".",
+                    "distance": 0.0,
+                    "margin": 1.0
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.005343647875816993,
+                    "margin": 0.1551419526143791
+                  }
+                ],
+                "sourceRect": [
+                  104.72370147705078,
+                  201.43701171875,
+                  114.76699829101562,
+                  207.48098754882812
+                ]
+              },
+              "verifiedValue": "7.0"
+            },
+            {
+              "readings": {
+                "PSM3": "220",
+                "PSM11": "220",
+                "Vision": "220"
+              },
+              "value": "220",
+              "glyphReading": {
+                "text": "220",
+                "scores": [
+                  {
+                    "character": "2",
+                    "distance": 0.005930861928104575,
+                    "margin": 0.2897231059090303
+                  },
+                  {
+                    "character": "2",
+                    "distance": 0.011228553921568627,
+                    "margin": 0.2804349114645859
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.011325571895424836,
+                    "margin": 0.14145475898692814
+                  }
+                ],
+                "sourceRect": [
+                  172.93800354003906,
+                  201.44500732421875,
+                  185.2790069580078,
+                  207.489013671875
+                ]
+              },
+              "verifiedValue": "220"
+            }
+          ]
+        },
+        {
+          "pdfPage": 352,
+          "printedPage": "8/32",
+          "sourceBounds": [
+            0.08,
+            0.3401813735081197,
+            0.5508744859389795,
+            0.3559641948738016
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p352-1",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 352,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "070260240"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "070260240"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "070260240"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "070260240",
+                "PSM11": "070260240",
+                "Vision": "070260240"
+              },
+              "value": "070260240",
+              "bounds": [
+                0.11488894982177132,
+                0.3431813735081197,
+                0.2018097066081711,
+                0.3529641948738016
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "070260240"
+            },
+            {
+              "readings": {
+                "PSM3": "7.0",
+                "PSM11": "7.0",
+                "Vision": "7.0"
+              },
+              "value": "7.0",
+              "glyphReading": {
+                "text": "7.0",
+                "scores": [
+                  {
+                    "character": "7",
+                    "distance": 0.0035922181372549018,
+                    "margin": 0.3732534367913832
+                  },
+                  {
+                    "character": ".",
+                    "distance": 0.0,
+                    "margin": 1.0
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.002647569444444444,
+                    "margin": 0.15565257352941175
+                  }
+                ],
+                "sourceRect": [
+                  104.72370147705078,
+                  210.45700073242188,
+                  114.76699829101562,
+                  216.50100708007812
+                ]
+              },
+              "verifiedValue": "7.0"
+            },
+            {
+              "readings": {
+                "PSM3": "240",
+                "PSM11": "240",
+                "Vision": "240"
+              },
+              "value": "240",
+              "glyphReading": {
+                "text": "240",
+                "scores": [
+                  {
+                    "character": "2",
+                    "distance": 0.0033011642156862745,
+                    "margin": 0.28904134528811526
+                  },
+                  {
+                    "character": "4",
+                    "distance": 0.0012688929738562092,
+                    "margin": 0.40545916283179945
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.011968954248366012,
+                    "margin": 0.14200112336601306
+                  }
+                ],
+                "sourceRect": [
+                  172.93800354003906,
+                  210.46499633789062,
+                  185.2790069580078,
+                  216.50900268554688
+                ]
+              },
+              "verifiedValue": "240"
+            }
+          ]
+        },
+        {
+          "pdfPage": 352,
+          "printedPage": "8/32",
+          "sourceBounds": [
+            0.08,
+            0.35485560555664253,
+            0.5508744859389795,
+            0.3706384269223244
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p352-1",
+              "row": 7,
+              "column": 2,
+              "pdfPage": 352,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "070260260"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "070260260"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "070260260"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "070260260",
+                "PSM11": "070260260",
+                "Vision": "070260260"
+              },
+              "value": "070260260",
+              "bounds": [
+                0.11488894982177132,
+                0.35785560555664253,
+                0.2020839045791061,
+                0.3676384269223244
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "070260260"
+            },
+            {
+              "readings": {
+                "PSM3": "7.0",
+                "PSM11": "7.0",
+                "Vision": "7.0"
+              },
+              "value": "7.0",
+              "glyphReading": {
+                "text": "7.0",
+                "scores": [
+                  {
+                    "character": "7",
+                    "distance": 0.0,
+                    "margin": 0.37640907404628515
+                  },
+                  {
+                    "character": ".",
+                    "distance": 0.0,
+                    "margin": 1.0
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.008003982843137254,
+                    "margin": 0.1509574142156863
+                  }
+                ],
+                "sourceRect": [
+                  104.72370147705078,
+                  219.47698974609375,
+                  114.76699829101562,
+                  225.52099609375
+                ]
+              },
+              "verifiedValue": "7.0"
+            },
+            {
+              "readings": {
+                "PSM3": "260",
+                "PSM11": "260",
+                "Vision": "260"
+              },
+              "value": "260",
+              "glyphReading": {
+                "text": "260",
+                "scores": [
+                  {
+                    "character": "2",
+                    "distance": 0.005923202614379085,
+                    "margin": 0.2862584613011871
+                  },
+                  {
+                    "character": "6",
+                    "distance": 0.010641339869281044,
+                    "margin": 0.14741625816993467
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.013260825163398693,
+                    "margin": 0.14073733660130722
+                  }
+                ],
+                "sourceRect": [
+                  172.93800354003906,
+                  219.48501586914062,
+                  185.2790069580078,
+                  225.52999877929688
+                ]
+              },
+              "verifiedValue": "260"
+            }
+          ]
+        },
+        {
+          "pdfPage": 352,
+          "printedPage": "8/32",
+          "sourceBounds": [
+            0.08,
+            0.36952983760516533,
+            0.5508744859389795,
+            0.3853126589708472
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p352-1",
+              "row": 8,
+              "column": 2,
+              "pdfPage": 352,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "070270110"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "070270110"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "070270110"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "070270110",
+                "PSM11": "070270110",
+                "Vision": "070270110"
+              },
+              "value": "070270110",
+              "bounds": [
+                0.11488894982177132,
+                0.37252983760516534,
+                0.20098711269536607,
+                0.3823126589708472
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "070270110"
+            },
+            {
+              "readings": {
+                "PSM3": "8.0",
+                "PSM11": "8.0",
+                "Vision": "8.0"
+              },
+              "value": "8.0",
+              "glyphReading": {
+                "text": "8.0",
+                "scores": [
+                  {
+                    "character": "8",
+                    "distance": 0.0019429125816993464,
+                    "margin": 0.13016501225490199
+                  },
+                  {
+                    "character": ".",
+                    "distance": 0.0,
+                    "margin": 1.0
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.005310457516339869,
+                    "margin": 0.1536203022875817
+                  }
+                ],
+                "sourceRect": [
+                  104.6709976196289,
+                  228.49700927734375,
+                  114.76699829101562,
+                  234.541015625
+                ]
+              },
+              "verifiedValue": "8.0"
+            },
+            {
+              "readings": {
+                "PSM3": "110",
+                "PSM11": "110",
+                "Vision": "110"
+              },
+              "value": "110",
+              "verifiedValue": "110"
+            }
+          ]
+        },
+        {
+          "pdfPage": 352,
+          "printedPage": "8/32",
+          "sourceBounds": [
+            0.08,
+            0.38420406965368814,
+            0.5508744859389795,
+            0.40018254744668363
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p352-1",
+              "row": 9,
+              "column": 2,
+              "pdfPage": 352,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "070270160"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "070270160"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "070270160"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "070270160",
+                "PSM11": "070270160",
+                "Vision": "070270160"
+              },
+              "value": "070270160",
+              "bounds": [
+                0.11488894982177132,
+                0.38720406965368814,
+                0.2020839045791061,
+                0.39718254744668363
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "070270160"
+            },
+            {
+              "readings": {
+                "PSM3": "8.0",
+                "PSM11": "8.0",
+                "Vision": "8.0"
+              },
+              "value": "8.0",
+              "glyphReading": {
+                "text": "8.0",
+                "scores": [
+                  {
+                    "character": "8",
+                    "distance": 0.0006459354575163399,
+                    "margin": 0.1282706086601307
+                  },
+                  {
+                    "character": ".",
+                    "distance": 0.0,
+                    "margin": 1.0
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.007975898692810457,
+                    "margin": 0.15266033496732026
+                  }
+                ],
+                "sourceRect": [
+                  104.6709976196289,
+                  237.51699829101562,
+                  114.76699829101562,
+                  243.56100463867188
+                ]
+              },
+              "verifiedValue": "8.0"
+            },
+            {
+              "readings": {
+                "PSM3": "160",
+                "PSM11": "160",
+                "Vision": "160"
+              },
+              "value": "160",
+              "glyphReading": {
+                "text": "160",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.0036151960784313723,
+                    "margin": 0.4090846672002134
+                  },
+                  {
+                    "character": "6",
+                    "distance": 0.02395578022875817,
+                    "margin": 0.13013939950980394
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.01797640931372549,
+                    "margin": 0.13672130310457517
+                  }
+                ],
+                "sourceRect": [
+                  173.5540008544922,
+                  237.5260009765625,
+                  185.2790069580078,
+                  243.57000732421875
+                ]
+              },
+              "verifiedValue": "160"
+            }
+          ]
+        },
+        {
+          "pdfPage": 352,
+          "printedPage": "8/32",
+          "sourceBounds": [
+            0.08,
+            0.3988783017022109,
+            0.5508744859389795,
+            0.41485677949520644
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p352-1",
+              "row": 10,
+              "column": 2,
+              "pdfPage": 352,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "070270180"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "070270180"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "070270180"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "070270180",
+                "PSM11": "070270180",
+                "Vision": "070270180"
+              },
+              "value": "070270180",
+              "bounds": [
+                0.11488894982177132,
+                0.4018783017022109,
+                0.2018097066081711,
+                0.41185677949520644
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "070270180"
+            },
+            {
+              "readings": {
+                "PSM3": "8.0",
+                "PSM11": "8.0",
+                "Vision": "8.0"
+              },
+              "value": "8.0",
+              "glyphReading": {
+                "text": "8.0",
+                "scores": [
+                  {
+                    "character": "8",
+                    "distance": 0.0,
+                    "margin": 0.1306781862745098
+                  },
+                  {
+                    "character": ".",
+                    "distance": 0.0,
+                    "margin": 1.0
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.0052900326797385615,
+                    "margin": 0.15439899918300654
+                  }
+                ],
+                "sourceRect": [
+                  104.6709976196289,
+                  246.5369873046875,
+                  114.76699829101562,
+                  252.58099365234375
+                ]
+              },
+              "verifiedValue": "8.0"
+            },
+            {
+              "readings": {
+                "PSM3": "180",
+                "PSM11": "180",
+                "Vision": "180"
+              },
+              "value": "180",
+              "glyphReading": {
+                "text": "180",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.0012254901960784314,
+                    "margin": 0.4148495773309324
+                  },
+                  {
+                    "character": "8",
+                    "distance": 0.013965482026143792,
+                    "margin": 0.10371221405228757
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.015984987745098038,
+                    "margin": 0.13931525735294117
+                  }
+                ],
+                "sourceRect": [
+                  173.5540008544922,
+                  246.54598999023438,
+                  185.2790069580078,
+                  252.58999633789062
+                ]
+              },
+              "verifiedValue": "180"
+            }
+          ]
+        },
+        {
+          "pdfPage": 352,
+          "printedPage": "8/32",
+          "sourceBounds": [
+            0.08,
+            0.4135525337507337,
+            0.5508744859389795,
+            0.4295310115437292
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p352-1",
+              "row": 11,
+              "column": 2,
+              "pdfPage": 352,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "070270200"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "070270200"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "070270200"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "070270200",
+                "PSM11": "070270200",
+                "Vision": "070270200"
+              },
+              "value": "070270200",
+              "bounds": [
+                0.11488894982177132,
+                0.4165525337507337,
+                0.2020839045791061,
+                0.4265310115437292
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "070270200"
+            },
+            {
+              "readings": {
+                "PSM3": "8.0",
+                "PSM11": "8.0",
+                "Vision": "8.0"
+              },
+              "value": "8.0",
+              "glyphReading": {
+                "text": "8.0",
+                "scores": [
+                  {
+                    "character": "8",
+                    "distance": 0.013488051470588236,
+                    "margin": 0.11852540849673207
+                  },
+                  {
+                    "character": ".",
+                    "distance": 0.0,
+                    "margin": 1.0
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.005343647875816993,
+                    "margin": 0.1551419526143791
+                  }
+                ],
+                "sourceRect": [
+                  104.6709976196289,
+                  255.55801391601562,
+                  114.76699829101562,
+                  261.60198974609375
+                ]
+              },
+              "verifiedValue": "8.0"
+            },
+            {
+              "readings": {
+                "PSM3": "200",
+                "PSM11": "200",
+                "Vision": "200"
+              },
+              "value": "200",
+              "glyphReading": {
+                "text": "200",
+                "scores": [
+                  {
+                    "character": "2",
+                    "distance": 0.005272160947712418,
+                    "margin": 0.2899018232292917
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.0046594158496732025,
+                    "margin": 0.144155943627451
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.011325571895424836,
+                    "margin": 0.14145475898692814
+                  }
+                ],
+                "sourceRect": [
+                  172.93800354003906,
+                  255.56600952148438,
+                  185.2790069580078,
+                  261.6100158691406
+                ]
+              },
+              "verifiedValue": "200"
+            }
+          ]
+        },
+        {
+          "pdfPage": 352,
+          "printedPage": "8/32",
+          "sourceBounds": [
+            0.08,
+            0.4284224222265701,
+            0.5508744859389795,
+            0.444205243592252
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p352-1",
+              "row": 12,
+              "column": 2,
+              "pdfPage": 352,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "070270220"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "070270220"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "070270220"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "070270220",
+                "PSM11": "070270220",
+                "Vision": "070270220"
+              },
+              "value": "070270220",
+              "bounds": [
+                0.11488894982177132,
+                0.4314224222265701,
+                0.2018097066081711,
+                0.441205243592252
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "070270220"
+            },
+            {
+              "readings": {
+                "PSM3": "8.0",
+                "PSM11": "8.0",
+                "Vision": "8.0"
+              },
+              "value": "8.0",
+              "glyphReading": {
+                "text": "8.0",
+                "scores": [
+                  {
+                    "character": "8",
+                    "distance": 0.002586294934640523,
+                    "margin": 0.12868165849673205
+                  },
+                  {
+                    "character": ".",
+                    "distance": 0.0,
+                    "margin": 1.0
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.002647569444444444,
+                    "margin": 0.15565257352941175
+                  }
+                ],
+                "sourceRect": [
+                  104.6709976196289,
+                  264.5769958496094,
+                  114.76699829101562,
+                  270.62200927734375
+                ]
+              },
+              "verifiedValue": "8.0"
+            },
+            {
+              "readings": {
+                "PSM3": "220",
+                "PSM11": "220",
+                "Vision": "220"
+              },
+              "value": "220",
+              "glyphReading": {
+                "text": "220",
+                "scores": [
+                  {
+                    "character": "2",
+                    "distance": 0.0033011642156862745,
+                    "margin": 0.28904134528811526
+                  },
+                  {
+                    "character": "2",
+                    "distance": 0.005295138888888888,
+                    "margin": 0.28505339594171003
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.011968954248366012,
+                    "margin": 0.14200112336601306
+                  }
+                ],
+                "sourceRect": [
+                  172.93800354003906,
+                  264.58599853515625,
+                  185.2790069580078,
+                  270.6300048828125
+                ]
+              },
+              "verifiedValue": "220"
+            }
+          ]
+        },
+        {
+          "pdfPage": 352,
+          "printedPage": "8/32",
+          "sourceBounds": [
+            0.08,
+            0.4430966542750929,
+            0.5508744859389795,
+            0.4588794756407748
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p352-1",
+              "row": 13,
+              "column": 2,
+              "pdfPage": 352,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "070270240"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "070270240"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "070270240"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "070270240",
+                "PSM11": "070270240",
+                "Vision": "070270240"
+              },
+              "value": "070270240",
+              "bounds": [
+                0.11488894982177132,
+                0.44609665427509293,
+                0.2020839045791061,
+                0.4558794756407748
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "070270240"
+            },
+            {
+              "readings": {
+                "PSM3": "8.0",
+                "PSM11": "8.0",
+                "Vision": "8.0"
+              },
+              "value": "8.0",
+              "glyphReading": {
+                "text": "8.0",
+                "scores": [
+                  {
+                    "character": "8",
+                    "distance": 0.010278799019607843,
+                    "margin": 0.11881901552287583
+                  },
+                  {
+                    "character": ".",
+                    "distance": 0.0,
+                    "margin": 1.0
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.00865502450980392,
+                    "margin": 0.14965533088235294
+                  }
+                ],
+                "sourceRect": [
+                  104.6709976196289,
+                  273.5970153808594,
+                  114.76699829101562,
+                  279.6419982910156
+                ]
+              },
+              "verifiedValue": "8.0"
+            },
+            {
+              "readings": {
+                "PSM3": "240",
+                "PSM11": "240",
+                "Vision": "240"
+              },
+              "value": "240",
+              "glyphReading": {
+                "text": "240",
+                "scores": [
+                  {
+                    "character": "2",
+                    "distance": 0.005264501633986928,
+                    "margin": 0.2875758632619714
+                  },
+                  {
+                    "character": "4",
+                    "distance": 0.0012765522875816994,
+                    "margin": 0.4153013809690543
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.013924632352941176,
+                    "margin": 0.13940972222222223
+                  }
+                ],
+                "sourceRect": [
+                  172.93800354003906,
+                  273.6059875488281,
+                  185.2790069580078,
+                  279.6499938964844
+                ]
+              },
+              "verifiedValue": "240"
+            }
+          ]
+        },
+        {
+          "pdfPage": 352,
+          "printedPage": "8/32",
+          "sourceBounds": [
+            0.08,
+            0.45777088632361573,
+            0.5508744859389795,
+            0.4735537076892976
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p352-1",
+              "row": 14,
+              "column": 2,
+              "pdfPage": 352,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "070270260"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "070270260"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "070270260"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "070270260",
+                "PSM11": "070270260",
+                "Vision": "070270260"
+              },
+              "value": "070270260",
+              "bounds": [
+                0.11488894982177132,
+                0.46077088632361574,
+                0.2018097066081711,
+                0.4705537076892976
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "070270260"
+            },
+            {
+              "readings": {
+                "PSM3": "8.0",
+                "PSM11": "8.0",
+                "Vision": "8.0"
+              },
+              "value": "8.0",
+              "glyphReading": {
+                "text": "8.0",
+                "scores": [
+                  {
+                    "character": "8",
+                    "distance": 0.0019429125816993464,
+                    "margin": 0.13016501225490199
+                  },
+                  {
+                    "character": ".",
+                    "distance": 0.0,
+                    "margin": 1.0
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.0046594158496732025,
+                    "margin": 0.15492238562091504
+                  }
+                ],
+                "sourceRect": [
+                  104.6709976196289,
+                  282.6180114746094,
+                  114.76699829101562,
+                  288.6619873046875
+                ]
+              },
+              "verifiedValue": "8.0"
+            },
+            {
+              "readings": {
+                "PSM3": "260",
+                "PSM11": "260",
+                "Vision": "260"
+              },
+              "value": "260",
+              "glyphReading": {
+                "text": "260",
+                "scores": [
+                  {
+                    "character": "2",
+                    "distance": 0.0051521650326797385,
+                    "margin": 0.2802593954248366
+                  },
+                  {
+                    "character": "6",
+                    "distance": 0.010000510620915032,
+                    "margin": 0.14604268790849673
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.013983353758169934,
+                    "margin": 0.14340533088235297
+                  }
+                ],
+                "sourceRect": [
+                  172.93800354003906,
+                  282.6260070800781,
+                  185.2790069580078,
+                  288.6700134277344
+                ]
+              },
+              "verifiedValue": "260"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "width": 915,
+          "height": 118,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              480,
+              293
+            ],
+            "enhancedSize": [
+              960,
+              586
+            ]
+          },
+          "src": "/images/products/double-medical/universal-humeral-nail/page-352-art-01.webp",
+          "imageCaption": {
+            "ru": "Универсальный плечевой штифт",
+            "en": "Universal Humeral Nail"
+          },
+          "sourcePages": [
+            352
+          ]
+        }
+      ],
+      "keyParameters": [
+        {
+          "parameter": {
+            "ru": "Диаметр",
+            "en": "Diameter"
+          },
+          "value": {
+            "ru": "7.0 мм/8.0 мм",
+            "en": "7.0mm/8.0mm"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Материал",
+            "en": "Material"
+          },
+          "value": {
+            "ru": "титановый сплав",
+            "en": "Titanium Alloy"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Исполнение",
+            "en": "Design"
+          },
+          "value": {
+            "ru": "Канюлированное",
+            "en": "Cannulated"
+          }
+        }
+      ],
+      "sourcePdf": "/catalogs/double-medical/trauma-catalogue/source.pdf"
+    }
+  ],
+  "relatedSystemSlugs": [
+    "universal-humeral-nail-instrument-set",
+    "intramedullary-extraction-instrument-set"
+  ],
+  "catalogImports": [
+    {
+      "sourceSha256": "3f2755d7646453cd1d8981369406a66062322971a7cb98258e022ae9b9769999",
+      "sourcePdf": "/catalogs/double-medical/trauma-catalogue/source.pdf",
+      "catalogTitle": {
+        "ru": "Double Medical Trauma Catalogue — каталог продукции",
+        "en": "Double Medical Trauma Catalogue — product catalog"
+      },
+      "sourcePages": [
+        352
+      ],
+      "documentCover": "/catalogs/double-medical/trauma-catalogue/pages/001.webp",
+      "review": {
+        "flags": [],
+        "status": "verified"
+      }
+    }
+  ],
+  "availabilityNote": {
+    "ru": "Изображения приведены для справки",
+    "en": "Images for reference only"
+  }
+}

@@ -1,0 +1,6221 @@
+{
+  "mergedIntoExisting": [
+    {
+      "slug": "2-4mm-locking-screw-self-tapping-torxdrive",
+      "tablesAdded": 1,
+      "status": "published"
+    },
+    {
+      "slug": "uhn-universal-humeral-nail",
+      "tablesAdded": 1,
+      "status": "published"
+    }
+  ],
+  "pdf": "catalogs-source/double-medical/trauma-catalogue.pdf",
+  "sha256": "3f2755d7646453cd1d8981369406a66062322971a7cb98258e022ae9b9769999",
+  "method": "600-DPI Tesseract PSM3/11 plus independent Apple Vision; source glyph reconciliation and Codex visual reading; Codex medical RU; native photo composites, original Real-ESRGAN weights exact 2x then rembg",
+  "systemsCreated": 186,
+  "systems": [
+    {
+      "slug": "3-0mm-cannulated-screw",
+      "name": {
+        "ru": "3.0 мм Канюлированный винт",
+        "en": "3.0mm Cannulated Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        212,
+        223
+      ],
+      "tables": 2,
+      "rows": 26,
+      "flags": []
+    },
+    {
+      "slug": "4-0mm-cannulated-screw",
+      "name": {
+        "ru": "4.0 мм Канюлированный винт",
+        "en": "4.0mm Cannulated Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        213
+      ],
+      "tables": 1,
+      "rows": 24,
+      "flags": []
+    },
+    {
+      "slug": "washer-for-4-0mm-cannulated-screw",
+      "name": {
+        "ru": "Шайба для канюлированного винта 4.0 мм",
+        "en": "Washer for 4.0mm Cannulated Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        214
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "spiked-washer-for-4-0mm-cannulated-screw",
+      "name": {
+        "ru": "Шипованная шайба для канюлированного винта 4.0 мм",
+        "en": "Spiked Washer for 4.0mm Cannulated Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        214
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "6-5mm-cannulated-screw-fully-threaded",
+      "name": {
+        "ru": "6.5 мм Канюлированный винт, с полной резьбой",
+        "en": "6.5mm Cannulated Screw, fully threaded"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        215
+      ],
+      "tables": 1,
+      "rows": 15,
+      "flags": []
+    },
+    {
+      "slug": "6-5mm-cannulated-screw-half-threaded",
+      "name": {
+        "ru": "6.5 мм Канюлированный винт, с частичной резьбой",
+        "en": "6.5mm Cannulated Screw, half threaded"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        215
+      ],
+      "tables": 1,
+      "rows": 14,
+      "flags": []
+    },
+    {
+      "slug": "7-3mm-cannulated-screw-long-threaded",
+      "name": {
+        "ru": "7.3 мм Канюлированный винт, с длинной резьбой",
+        "en": "7.3mm Cannulated Screw, long threaded"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        216
+      ],
+      "tables": 1,
+      "rows": 13,
+      "flags": []
+    },
+    {
+      "slug": "7-3mm-cannulated-screw-short-threaded",
+      "name": {
+        "ru": "7.3 мм Канюлированный винт, с короткой резьбой",
+        "en": "7.3mm Cannulated Screw, short threaded"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        216
+      ],
+      "tables": 1,
+      "rows": 13,
+      "flags": []
+    },
+    {
+      "slug": "6-5mm-cannulated-screw-thread-length-16mm",
+      "name": {
+        "ru": "6.5 мм Канюлированный винт, длина резьбы 16 мм",
+        "en": "6.5mm Cannulated Screw, thread length 16mm"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        217
+      ],
+      "tables": 1,
+      "rows": 19,
+      "flags": []
+    },
+    {
+      "slug": "7-3mm-cannulated-screw-fully-thread",
+      "name": {
+        "ru": "7.3 мм Канюлированный винт, с полной резьбой",
+        "en": "7.3mm Cannulated Screw, fully thread"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        218
+      ],
+      "tables": 1,
+      "rows": 25,
+      "flags": []
+    },
+    {
+      "slug": "7-3mm-cannulated-screw-thread-length-32mm",
+      "name": {
+        "ru": "7.3 мм Канюлированный винт, длина резьбы 32 мм",
+        "en": "7.3mm Cannulated Screw, thread length 32mm"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        219
+      ],
+      "tables": 1,
+      "rows": 19,
+      "flags": []
+    },
+    {
+      "slug": "washer-for-6-5mm-7-3mm-cannulated-screw",
+      "name": {
+        "ru": "Шайба для канюлированного винта 6.5/7.3 мм",
+        "en": "Washer for 6.5mm/7.3mm Cannulated Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        220
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "spiked-washer-for-6-5mm-7-3mm-cannulated-screw",
+      "name": {
+        "ru": "Шипованная шайба для канюлированного винта 6.5/7.3 мм",
+        "en": "Spiked Washer for 6.5mm/7.3mm Cannulated Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        220
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "2-4mm-headless-compression-screw-short-thread",
+      "name": {
+        "ru": "2.4 мм Безголовочный компрессионный винт, с короткой резьбой",
+        "en": "2.4mm Headless Compression Screw, short thread"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        221
+      ],
+      "tables": 1,
+      "rows": 27,
+      "flags": []
+    },
+    {
+      "slug": "2-4mm-headless-compression-screw-long-thread",
+      "name": {
+        "ru": "2.4 мм Безголовочный компрессионный винт, с длинной резьбой",
+        "en": "2.4mm Headless Compression Screw, long thread"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        222
+      ],
+      "tables": 1,
+      "rows": 19,
+      "flags": []
+    },
+    {
+      "slug": "4-0mm-no-profile-cannulated-screw",
+      "name": {
+        "ru": "4.0 мм Канюлированный винт без выступающей головки",
+        "en": "4.0mm No Profile Cannulated Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        224
+      ],
+      "tables": 1,
+      "rows": 20,
+      "flags": []
+    },
+    {
+      "slug": "5-0mm-no-profile-cannulated-screw",
+      "name": {
+        "ru": "5.0 мм Канюлированный винт без выступающей головки",
+        "en": "5.0mm No Profile Cannulated Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        225
+      ],
+      "tables": 1,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "7-0mm-no-profile-cannulated-screw",
+      "name": {
+        "ru": "7.0 мм Канюлированный винт без выступающей головки",
+        "en": "7.0mm No Profile Cannulated Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        225
+      ],
+      "tables": 1,
+      "rows": 19,
+      "flags": []
+    },
+    {
+      "slug": "compression-rod-system",
+      "name": {
+        "ru": "Компрессионная стержневая система",
+        "en": "Compression Rod System"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        226
+      ],
+      "tables": 1,
+      "rows": 10,
+      "flags": []
+    },
+    {
+      "slug": "compression-locking-rod-system",
+      "name": {
+        "ru": "Блокируемая компрессионная стержневая система",
+        "en": "Compression Locking Rod System"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        226
+      ],
+      "tables": 1,
+      "rows": 7,
+      "flags": []
+    },
+    {
+      "slug": "2-5mm-headless-compression-screw-ii",
+      "name": {
+        "ru": "2.5 мм Безголовочный компрессионный винт II",
+        "en": "2.5mm Headless Compression Screw II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        227
+      ],
+      "tables": 1,
+      "rows": 15,
+      "flags": []
+    },
+    {
+      "slug": "3-0mm-headless-compression-screw-ii",
+      "name": {
+        "ru": "3.0 мм Безголовочный компрессионный винт II",
+        "en": "3.0mm Headless Compression Screw II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        227
+      ],
+      "tables": 1,
+      "rows": 16,
+      "flags": []
+    },
+    {
+      "slug": "3-5mm-headless-compression-screw-ii",
+      "name": {
+        "ru": "3.5 мм Безголовочный компрессионный винт II",
+        "en": "3.5mm Headless Compression Screw II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        228
+      ],
+      "tables": 1,
+      "rows": 8,
+      "flags": []
+    },
+    {
+      "slug": "4-0mm-headless-compression-screw-ii",
+      "name": {
+        "ru": "4.0 мм Безголовочный компрессионный винт II",
+        "en": "4.0mm Headless Compression Screw II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        228
+      ],
+      "tables": 1,
+      "rows": 10,
+      "flags": []
+    },
+    {
+      "slug": "4-5mm-headless-compression-screw-ii",
+      "name": {
+        "ru": "4.5 мм Безголовочный компрессионный винт II",
+        "en": "4.5mm Headless Compression Screw II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        229
+      ],
+      "tables": 1,
+      "rows": 10,
+      "flags": []
+    },
+    {
+      "slug": "5-2mm-headless-compression-screw-ii",
+      "name": {
+        "ru": "5.2 мм Безголовочный компрессионный винт II",
+        "en": "5.2mm Headless Compression Screw II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        229
+      ],
+      "tables": 1,
+      "rows": 8,
+      "flags": []
+    },
+    {
+      "slug": "7-0mm-headless-compression-screw-ii",
+      "name": {
+        "ru": "7.0 мм Безголовочный компрессионный винт II",
+        "en": "7.0mm Headless Compression Screw II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        230
+      ],
+      "tables": 1,
+      "rows": 17,
+      "flags": []
+    },
+    {
+      "slug": "7-0mm-headless-compression-screw",
+      "name": {
+        "ru": "7.0 мм Безголовочный компрессионный винт",
+        "en": "7.0mm Headless Compression Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        231
+      ],
+      "tables": 1,
+      "rows": 17,
+      "flags": []
+    },
+    {
+      "slug": "3-5mm-headless-screw",
+      "name": {
+        "ru": "3.5 мм Безголовочный винт",
+        "en": "3.5mm Headless Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        232
+      ],
+      "tables": 1,
+      "rows": 17,
+      "flags": []
+    },
+    {
+      "slug": "4-0mm-headless-screw",
+      "name": {
+        "ru": "4.0 мм Безголовочный винт",
+        "en": "4.0mm Headless Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        233
+      ],
+      "tables": 1,
+      "rows": 20,
+      "flags": []
+    },
+    {
+      "slug": "5-0mm-headless-screw",
+      "name": {
+        "ru": "5.0 мм Безголовочный винт",
+        "en": "5.0mm Headless Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        234
+      ],
+      "tables": 1,
+      "rows": 21,
+      "flags": []
+    },
+    {
+      "slug": "3-3mm-heberden-screw",
+      "name": {
+        "ru": "3.3 мм Винт Heberden",
+        "en": "3.3mm Heberden Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        235
+      ],
+      "tables": 1,
+      "rows": 14,
+      "flags": []
+    },
+    {
+      "slug": "3-0mm-headless-compression-screw",
+      "name": {
+        "ru": "3.0 мм Безголовочный компрессионный винт",
+        "en": "3.0mm Headless Compression Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        236
+      ],
+      "tables": 1,
+      "rows": 14,
+      "flags": []
+    },
+    {
+      "slug": "4-0mm-headless-compression-screw",
+      "name": {
+        "ru": "4.0 мм Безголовочный компрессионный винт",
+        "en": "4.0mm Headless Compression Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        237
+      ],
+      "tables": 1,
+      "rows": 18,
+      "flags": []
+    },
+    {
+      "slug": "mini-hook-locking-plate",
+      "name": {
+        "ru": "Крючковидная мини-блокируемая пластина",
+        "en": "Mini Hook Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        278
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "locking-plate-1-5-straight",
+      "name": {
+        "ru": "Блокируемая пластина 1.5, прямая",
+        "en": "Locking Plate 1.5, straight"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        278
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "adaption-locking-plate-1-5",
+      "name": {
+        "ru": "Моделируемая блокируемая пластина 1.5",
+        "en": "Adaption Locking Plate 1.5"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        278
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "locking-t-plate-1-5",
+      "name": {
+        "ru": "T-образная блокируемая пластина 1.5",
+        "en": "Locking T-Plate 1.5"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        279
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "locking-y-plate-1-5",
+      "name": {
+        "ru": "Y-образная блокируемая пластина 1.5",
+        "en": "Locking Y-Plate 1.5"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        279
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "locking-condylar-plate-1-5",
+      "name": {
+        "ru": "Мыщелковая блокируемая пластина 1.5",
+        "en": "Locking Condylar Plate 1.5"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        280
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "locking-strut-plate-1-5-oblique-angled",
+      "name": {
+        "ru": "Опорная блокируемая пластина 1.5, с косым углом",
+        "en": "Locking Strut Plate 1.5, oblique-angled"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        280
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "1-5s-mini-wed-locking-plate",
+      "name": {
+        "ru": "1.5S-образная клиновидная мини-блокируемая пластина",
+        "en": "1.5S-Mini Wed Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        281
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "straight-locking-plate-2-0",
+      "name": {
+        "ru": "Прямая блокируемая пластина 2.0",
+        "en": "Straight Locking Plate 2.0"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        281
+      ],
+      "tables": 1,
+      "rows": 5,
+      "flags": []
+    },
+    {
+      "slug": "adaption-locking-plate-2-0",
+      "name": {
+        "ru": "Моделируемая блокируемая пластина 2.0",
+        "en": "Adaption Locking Plate 2.0"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        281
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "t-locking-plate-2-0",
+      "name": {
+        "ru": "T-образная блокируемая пластина 2.0",
+        "en": "T-Locking Plate 2.0"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        282
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "y-adaption-locking-plate-2-0",
+      "name": {
+        "ru": "Y-образная моделируемая блокируемая пластина 2.0",
+        "en": "Y-Adaption Locking Plate 2.0"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        282
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "t-adaption-locking-plate-2-0",
+      "name": {
+        "ru": "T-образная моделируемая блокируемая пластина 2.0",
+        "en": "T-Adaption Locking Plate 2.0"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        282
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "locking-condylar-plate-2-0",
+      "name": {
+        "ru": "Мыщелковая блокируемая пластина 2.0",
+        "en": "Locking Condylar Plate 2.0"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        283
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "2-0s-mini-wed-locking-plate",
+      "name": {
+        "ru": "2.0S-образная клиновидная мини-блокируемая пластина",
+        "en": "2.0S-Mini Wed Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        283
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "straight-locking-plate-2-4",
+      "name": {
+        "ru": "Прямая блокируемая пластина 2.4",
+        "en": "Straight Locking Plate 2.4"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        283
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "adaption-locking-plate-2-4",
+      "name": {
+        "ru": "Моделируемая блокируемая пластина 2.4",
+        "en": "Adaption Locking Plate 2.4"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        284
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "t-locking-plate-2-4",
+      "name": {
+        "ru": "T-образная блокируемая пластина 2.4",
+        "en": "T-Locking Plate 2.4"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        284
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "y-adaption-locking-plate-2-4",
+      "name": {
+        "ru": "Y-образная моделируемая блокируемая пластина 2.4",
+        "en": "Y-Adaption Locking Plate 2.4"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        284
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "t-adaption-locking-plate-2-4",
+      "name": {
+        "ru": "T-образная моделируемая блокируемая пластина 2.4",
+        "en": "T-Adaption Locking Plate 2.4"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        285
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "condylar-locking-plate-2-4",
+      "name": {
+        "ru": "Мыщелковая блокируемая пластина 2.4",
+        "en": "Condylar Locking Plate 2.4"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        285
+      ],
+      "tables": 1,
+      "rows": 5,
+      "flags": []
+    },
+    {
+      "slug": "2-4s-mini-wed-locking-plate",
+      "name": {
+        "ru": "2.4S-образная клиновидная мини-блокируемая пластина",
+        "en": "2.4S-Mini Wed Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        286
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "straight-locking-plate-2-7",
+      "name": {
+        "ru": "Прямая блокируемая пластина 2.7",
+        "en": "Straight Locking Plate 2.7"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        286
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "adaption-locking-plate-2-7",
+      "name": {
+        "ru": "Моделируемая блокируемая пластина 2.7",
+        "en": "Adaption Locking Plate 2.7"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        287
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "t-locking-plate-2-7",
+      "name": {
+        "ru": "T-образная блокируемая пластина 2.7",
+        "en": "T-Locking Plate 2.7"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        287
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "l-locking-plate-2-7",
+      "name": {
+        "ru": "L-образная блокируемая пластина 2.7",
+        "en": "L-Locking Plate 2.7"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        288
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "l-locking-plate-2-7-oblique",
+      "name": {
+        "ru": "L-образная блокируемая пластина 2.7, косая",
+        "en": "L-Locking Plate 2.7, oblique"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        288
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "condylar-locking-plate-2-7",
+      "name": {
+        "ru": "Мыщелковая блокируемая пластина 2.7",
+        "en": "Condylar Locking Plate 2.7"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        288
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "h-locking-plate-2-7",
+      "name": {
+        "ru": "H-образная блокируемая пластина 2.7",
+        "en": "H-Locking Plate 2.7"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        289
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "x-locking-plate-2-7-for-foot",
+      "name": {
+        "ru": "X-образная блокируемая пластина 2.7, для стопы",
+        "en": "X-Locking Plate 2.7, for Foot"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        289
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "locking-plate-2-7-straight",
+      "name": {
+        "ru": "Блокируемая пластина 2.7, прямая",
+        "en": "Locking Plate 2.7, straight"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        289
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "1-5mm-locking-screw-torxdrive-self-tapping",
+      "name": {
+        "ru": "1.5 мм Блокируемый винт, со шлицем Torx, самонарезающий",
+        "en": "1.5mm Locking Screw, torxdrive, self-tapping"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        290
+      ],
+      "tables": 1,
+      "rows": 15,
+      "flags": []
+    },
+    {
+      "slug": "1-5mm-cortex-screw-torxdrive-self-tapping",
+      "name": {
+        "ru": "1.5 мм Кортикальный винт, со шлицем Torx, самонарезающий",
+        "en": "1.5mm Cortex Screw, torxdrive, self-tapping"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        290
+      ],
+      "tables": 1,
+      "rows": 15,
+      "flags": []
+    },
+    {
+      "slug": "2-0mm-locking-screw-torxdrive-self-tapping",
+      "name": {
+        "ru": "2.0 мм Блокируемый винт, со шлицем Torx, самонарезающий",
+        "en": "2.0mm Locking Screw, torxdrive, self-tapping"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        291
+      ],
+      "tables": 1,
+      "rows": 20,
+      "flags": []
+    },
+    {
+      "slug": "2-0mm-cortex-screw-torxdrive-self-tapping",
+      "name": {
+        "ru": "2.0 мм Кортикальный винт, со шлицем Torx, самонарезающий",
+        "en": "2.0mm Cortex Screw, torxdrive, self-tapping"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        292
+      ],
+      "tables": 1,
+      "rows": 20,
+      "flags": []
+    },
+    {
+      "slug": "2-4mm-cortex-screw-torxdrive-self-tapping",
+      "name": {
+        "ru": "2.4 мм Кортикальный винт, со шлицем Torx, самонарезающий",
+        "en": "2.4mm Cortex Screw, torxdrive, self-tapping"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        294
+      ],
+      "tables": 1,
+      "rows": 20,
+      "flags": []
+    },
+    {
+      "slug": "2-7mm-locking-screw-torxdrive-self-tapping",
+      "name": {
+        "ru": "2.7 мм Блокируемый винт, со шлицем Torx, самонарезающий",
+        "en": "2.7mm Locking Screw, torxdrive, self-tapping"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        295
+      ],
+      "tables": 1,
+      "rows": 24,
+      "flags": []
+    },
+    {
+      "slug": "2-7mm-cortex-screw-torxdrive-self-tapping",
+      "name": {
+        "ru": "2.7 мм Кортикальный винт, со шлицем Torx, самонарезающий",
+        "en": "2.7mm Cortex Screw, torxdrive, self-tapping"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        296
+      ],
+      "tables": 1,
+      "rows": 20,
+      "flags": []
+    },
+    {
+      "slug": "barrel-plate-dynamic-hip-screw",
+      "name": {
+        "ru": "Пластина с втулкой для динамического бедренного винта (DHS)",
+        "en": "Barrel Plate(Dynamic Hip Screw)"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        308
+      ],
+      "tables": 1,
+      "rows": 10,
+      "flags": []
+    },
+    {
+      "slug": "barrel-plate-dynamic-condylar-screw",
+      "name": {
+        "ru": "Пластина с втулкой для динамического мыщелкового винта (DCS)",
+        "en": "Barrel Plate(Dynamic Condylar Screw)"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        308
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "trochanter-stabilizing-plate",
+      "name": {
+        "ru": "Пластина для стабилизации большого вертела",
+        "en": "Trochanter Stabilizing Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        309
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "big-lag-screw-for-barrel-plate",
+      "name": {
+        "ru": "Большой шеечный винт для пластины с втулкой",
+        "en": "Big Lag Screw for Barrel Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        309
+      ],
+      "tables": 1,
+      "rows": 13,
+      "flags": []
+    },
+    {
+      "slug": "barrel-locking-plate-dynamic-hip-screw",
+      "name": {
+        "ru": "Блокируемая пластина с втулкой для динамического бедренного винта (DHS)",
+        "en": "Barrel Locking Plate(Dynamic Hip Screw)"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        310
+      ],
+      "tables": 1,
+      "rows": 10,
+      "flags": []
+    },
+    {
+      "slug": "barrel-locking-plate-dynamic-condylar-screw",
+      "name": {
+        "ru": "Блокируемая пластина с втулкой для динамического мыщелкового винта (DCS)",
+        "en": "Barrel Locking Plate(Dynamic Condylar Screw)"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        310
+      ],
+      "tables": 1,
+      "rows": 10,
+      "flags": []
+    },
+    {
+      "slug": "trochanter-stabilizing-locking-plate",
+      "name": {
+        "ru": "Блокируемая пластина для стабилизации большого вертела",
+        "en": "Trochanter Stabilizing Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        311
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "barrel-locking-plate-spiral-blade",
+      "name": {
+        "ru": "Спиральный клинок для блокируемой пластины DHS/DCS",
+        "en": "Barrel Locking Plate Spiral Blade"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        311
+      ],
+      "tables": 1,
+      "rows": 10,
+      "flags": []
+    },
+    {
+      "slug": "compression-screw-for-barrel-locking-plate-spiral-blade",
+      "name": {
+        "ru": "Компрессионный винт спирального клинка блокируемой пластины DHS/DCS",
+        "en": "Compression Screw for Barrel Locking Plate Spiral Blade"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        311
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "proximal-femoral-nail-anti-rotation",
+      "name": {
+        "ru": "Антиротационный проксимальный бедренный штифт",
+        "en": "Proximal Femoral Nail, anti-rotation"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        322
+      ],
+      "tables": 1,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "proximal-femoral-nail-anti-rotation-130",
+      "name": {
+        "ru": "Антиротационный проксимальный бедренный штифт, 130°",
+        "en": "Proximal Femoral Nail, anti-rotation, 130°"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        322
+      ],
+      "tables": 1,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "proximal-femoral-nail-anti-rotation-long",
+      "name": {
+        "ru": "Антиротационный проксимальный бедренный штифт, длинный",
+        "en": "Proximal Femoral Nail, anti-rotation, long"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        323
+      ],
+      "tables": 1,
+      "rows": 32,
+      "flags": []
+    },
+    {
+      "slug": "proximal-femoral-nail-anti-rotation-long-130",
+      "name": {
+        "ru": "Антиротационный проксимальный бедренный штифт, длинный, 130°",
+        "en": "Proximal Femoral Nail, anti-rotation, long, 130°"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        324
+      ],
+      "tables": 1,
+      "rows": 32,
+      "flags": []
+    },
+    {
+      "slug": "proximal-femoral-nail-spiral-blade",
+      "name": {
+        "ru": "Спиральный клинок проксимального бедренного штифта",
+        "en": "Proximal Femoral Nail Spiral Blade"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        325
+      ],
+      "tables": 1,
+      "rows": 10,
+      "flags": []
+    },
+    {
+      "slug": "end-cap-for-pfna",
+      "name": {
+        "ru": "Торцевая заглушка для PFNA",
+        "en": "End Cap for PFNA"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        326
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "end-cap-for-pfna-long",
+      "name": {
+        "ru": "Торцевая заглушка для PFNA, длинный",
+        "en": "End Cap for PFNA, long"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        326
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "aimstrong-proximal-femoral-nail-125",
+      "name": {
+        "ru": "Проксимальный бедренный штифт Aimstrong 125°",
+        "en": "Aimstrong Proximal Femoral Nail 125°"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        327,
+        328,
+        329
+      ],
+      "tables": 3,
+      "rows": 100,
+      "flags": []
+    },
+    {
+      "slug": "aimstrong-proximal-femoral-nail-130",
+      "name": {
+        "ru": "Проксимальный бедренный штифт Aimstrong 130°",
+        "en": "Aimstrong Proximal Femoral Nail 130°"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        330,
+        331,
+        332
+      ],
+      "tables": 3,
+      "rows": 100,
+      "flags": []
+    },
+    {
+      "slug": "aimstrong-spiral-blade",
+      "name": {
+        "ru": "Спиральный клинок Aimstrong",
+        "en": "Aimstrong Spiral Blade"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        332
+      ],
+      "tables": 1,
+      "rows": 13,
+      "flags": []
+    },
+    {
+      "slug": "aimstrong-lag-screw",
+      "name": {
+        "ru": "Шеечный винт Aimstrong",
+        "en": "Aimstrong Lag Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        333
+      ],
+      "tables": 1,
+      "rows": 13,
+      "flags": []
+    },
+    {
+      "slug": "aimstrong-end-cap",
+      "name": {
+        "ru": "Торцевая заглушка Aimstrong",
+        "en": "Aimstrong End Cap"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        333
+      ],
+      "tables": 1,
+      "rows": 8,
+      "flags": []
+    },
+    {
+      "slug": "proximal-femoral-compression-nail",
+      "name": {
+        "ru": "Компрессионный проксимальный бедренный штифт",
+        "en": "Proximal Femoral Compression Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        334
+      ],
+      "tables": 1,
+      "rows": 30,
+      "flags": []
+    },
+    {
+      "slug": "proximal-femoral-compression-nail-long",
+      "name": {
+        "ru": "Компрессионный проксимальный бедренный штифт, длинный",
+        "en": "Proximal Femoral Compression Nail, long"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        335
+      ],
+      "tables": 1,
+      "rows": 40,
+      "flags": []
+    },
+    {
+      "slug": "lag-screw-for-proximal-femoral-compression-nail",
+      "name": {
+        "ru": "Шеечный винт для компрессионного проксимального бедренного штифта",
+        "en": "Lag Screw for Proximal Femoral Compression Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        336
+      ],
+      "tables": 1,
+      "rows": 15,
+      "flags": []
+    },
+    {
+      "slug": "compression-screw-for-proximal-femoral-compression-nail",
+      "name": {
+        "ru": "Компрессионный винт для компрессионного проксимального бедренного штифта",
+        "en": "Compression Screw for Proximal Femoral Compression Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        337
+      ],
+      "tables": 1,
+      "rows": 23,
+      "flags": []
+    },
+    {
+      "slug": "end-cap-for-proximal-femoral-compression-nail",
+      "name": {
+        "ru": "Торцевая заглушка для компрессионного проксимального бедренного штифта",
+        "en": "End Cap for Proximal Femoral Compression Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        337
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "universal-femoral-nail",
+      "name": {
+        "ru": "Универсальный бедренный штифт",
+        "en": "Universal Femoral Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        338
+      ],
+      "tables": 1,
+      "rows": 18,
+      "flags": []
+    },
+    {
+      "slug": "4-9mm-locking-screw",
+      "name": {
+        "ru": "4.9 мм Блокируемый винт",
+        "en": "4.9mm Locking Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        339
+      ],
+      "tables": 1,
+      "rows": 13,
+      "flags": []
+    },
+    {
+      "slug": "universal-end-cap-for-ufn-utn",
+      "name": {
+        "ru": "Универсальная торцевая заглушка UFN/UTN",
+        "en": "Universal End Cap for UFN/UTN"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        339
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "universal-femoral-nail-ii",
+      "name": {
+        "ru": "Универсальный бедренный штифт II",
+        "en": "Universal Femoral Nail II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        340
+      ],
+      "tables": 1,
+      "rows": 42,
+      "flags": []
+    },
+    {
+      "slug": "4-9mm-locking-screw-ii",
+      "name": {
+        "ru": "4.9 мм Блокируемый винт II",
+        "en": "4.9mm Locking Screw II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        341
+      ],
+      "tables": 1,
+      "rows": 29,
+      "flags": []
+    },
+    {
+      "slug": "end-cap-for-universal-femoral-nail-ii",
+      "name": {
+        "ru": "Торцевая заглушка для универсального бедренного штифта II",
+        "en": "End Cap for Universal Femoral Nail II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        342
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "retrograde-femoral-nail",
+      "name": {
+        "ru": "Ретроградный бедренный штифт",
+        "en": "Retrograde Femoral Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        343
+      ],
+      "tables": 1,
+      "rows": 24,
+      "flags": []
+    },
+    {
+      "slug": "condyle-screw",
+      "name": {
+        "ru": "Мыщелковый винт",
+        "en": "Condyle Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        344
+      ],
+      "tables": 1,
+      "rows": 13,
+      "flags": []
+    },
+    {
+      "slug": "4-9mm-locking-screw-self-retaining",
+      "name": {
+        "ru": "4.9 мм Блокируемый винт, с удерживающей фиксацией",
+        "en": "4.9mm Locking Screw, self-retaining"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        345
+      ],
+      "tables": 1,
+      "rows": 27,
+      "flags": []
+    },
+    {
+      "slug": "5-0mm-locking-screw-for-suprapatellar-tibial-nail",
+      "name": {
+        "ru": "5.0 мм Блокируемый винт для супрапателлярного большеберцового штифта",
+        "en": "5.0mm Locking Screw for Suprapatellar Tibial Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        346,
+        366
+      ],
+      "tables": 1,
+      "rows": 29,
+      "flags": []
+    },
+    {
+      "slug": "condyle-nut-and-washer",
+      "name": {
+        "ru": "Мыщелковая гайка и шайба",
+        "en": "Condyle Nut and Washer"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        347
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "rfn-end-cap",
+      "name": {
+        "ru": "RFN Торцевая заглушка",
+        "en": "RFN End Cap"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        347
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "distal-femoral-nail-ii",
+      "name": {
+        "ru": "Дистальный бедренный штифт II",
+        "en": "Distal Femoral Nail II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        348
+      ],
+      "tables": 1,
+      "rows": 18,
+      "flags": []
+    },
+    {
+      "slug": "distal-femoral-nail-ii-long",
+      "name": {
+        "ru": "Дистальный бедренный штифт II, длинный",
+        "en": "Distal Femoral Nail II, long"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        349
+      ],
+      "tables": 1,
+      "rows": 21,
+      "flags": []
+    },
+    {
+      "slug": "6-0mm-locking-screw-for-distal-femoral-nail-ii",
+      "name": {
+        "ru": "6.0 мм Блокируемый винт для дистального бедренного штифта II",
+        "en": "6.0mm Locking Screw for Distal Femoral Nail II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        350
+      ],
+      "tables": 1,
+      "rows": 14,
+      "flags": []
+    },
+    {
+      "slug": "spiral-blade-for-distal-femoral-nail-ii",
+      "name": {
+        "ru": "Спиральный клинок для дистального бедренного штифта II",
+        "en": "Spiral Blade for Distal Femoral Nail II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        351
+      ],
+      "tables": 1,
+      "rows": 11,
+      "flags": []
+    },
+    {
+      "slug": "end-cap-for-distal-femoral-nail-ii",
+      "name": {
+        "ru": "Торцевая заглушка для дистального бедренного штифта II",
+        "en": "End Cap for Distal Femoral Nail II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        351
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "3-6mm-locking-screw-for-humeral-nail",
+      "name": {
+        "ru": "3.6 мм Блокируемый винт для плечевого штифта",
+        "en": "3.6mm Locking Screw for Humeral Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        352
+      ],
+      "tables": 1,
+      "rows": 15,
+      "flags": []
+    },
+    {
+      "slug": "5-0mm-locking-screw-for-humeral-nail",
+      "name": {
+        "ru": "5.0 мм Блокируемый винт для плечевого штифта",
+        "en": "5.0mm Locking Screw for Humeral Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        353
+      ],
+      "tables": 1,
+      "rows": 7,
+      "flags": []
+    },
+    {
+      "slug": "end-cap-for-universal-humeral-nail",
+      "name": {
+        "ru": "Торцевая заглушка для универсального плечевого штифта",
+        "en": "End Cap for Universal Humeral Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        353
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "advanced-humeral-nail",
+      "name": {
+        "ru": "Усовершенствованный плечевой штифт",
+        "en": "Advanced Humeral Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        354,
+        355,
+        356
+      ],
+      "tables": 3,
+      "rows": 88,
+      "flags": []
+    },
+    {
+      "slug": "4-5mm-locking-screw-for-advanced-humeral-nail",
+      "name": {
+        "ru": "4.5 мм Блокируемый винт для усовершенствованного плечевого штифта",
+        "en": "4.5mm Locking Screw for Advanced Humeral Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        357
+      ],
+      "tables": 1,
+      "rows": 21,
+      "flags": []
+    },
+    {
+      "slug": "end-cap-for-advanced-humeral-nail",
+      "name": {
+        "ru": "Торцевая заглушка для усовершенствованного плечевого штифта",
+        "en": "End Cap for Advanced Humeral Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        358
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "universal-tibial-nail",
+      "name": {
+        "ru": "Универсальный большеберцовый штифт",
+        "en": "Universal Tibial Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        359
+      ],
+      "tables": 1,
+      "rows": 21,
+      "flags": []
+    },
+    {
+      "slug": "4-5mm-locking-screw-for-tibial-nail",
+      "name": {
+        "ru": "4.5 мм Блокируемый винт для большеберцового штифта",
+        "en": "4.5mm Locking Screw for Tibial Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        360
+      ],
+      "tables": 1,
+      "rows": 9,
+      "flags": []
+    },
+    {
+      "slug": "universal-tibial-nail-ii",
+      "name": {
+        "ru": "Универсальный большеберцовый штифт II",
+        "en": "Universal Tibial Nail II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        361
+      ],
+      "tables": 1,
+      "rows": 24,
+      "flags": []
+    },
+    {
+      "slug": "4-0mm-locking-screw-for-universal-tibial-nail-ii",
+      "name": {
+        "ru": "4.0 мм Блокируемый винт для универсального большеберцового штифта II",
+        "en": "4.0mm Locking Screw for Universal Tibial Nail II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        362
+      ],
+      "tables": 1,
+      "rows": 22,
+      "flags": []
+    },
+    {
+      "slug": "5-0mm-locking-screw-for-universal-tibial-nail-ii",
+      "name": {
+        "ru": "5.0 мм Блокируемый винт для универсального большеберцового штифта II",
+        "en": "5.0mm Locking Screw for Universal Tibial Nail II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        363
+      ],
+      "tables": 1,
+      "rows": 11,
+      "flags": []
+    },
+    {
+      "slug": "end-cap-for-universal-tibial-nail-ii",
+      "name": {
+        "ru": "Торцевая заглушка для универсального большеберцового штифта II",
+        "en": "End Cap for Universal Tibial Nail II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        363
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "suprapatellar-tibial-nail",
+      "name": {
+        "ru": "Супрапателлярный большеберцовый штифт",
+        "en": "Suprapatellar Tibial Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        364
+      ],
+      "tables": 1,
+      "rows": 40,
+      "flags": []
+    },
+    {
+      "slug": "4-5mm-locking-screw-for-suprapatellar-tibial-nail",
+      "name": {
+        "ru": "4.5 мм Блокируемый винт для супрапателлярного большеберцового штифта",
+        "en": "4.5mm Locking Screw for Suprapatellar Tibial Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        365
+      ],
+      "tables": 1,
+      "rows": 24,
+      "flags": []
+    },
+    {
+      "slug": "universal-end-cap-for-sptn-afn",
+      "name": {
+        "ru": "Универсальная торцевая заглушка SPTN/AFN",
+        "en": "Universal End Cap for SPTN/AFN"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        366
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "distal-tibial-nail",
+      "name": {
+        "ru": "Дистальный большеберцовый штифт",
+        "en": "Distal Tibial Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        367
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "3-5mm-cancellous-screw-for-7-0mm-distal-tibial-nail",
+      "name": {
+        "ru": "3.5 мм Спонгиозный винт для дистального большеберцового штифта 7.0 мм",
+        "en": "3.5mm Cancellous Screw for 7.0mm Distal Tibial Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        367
+      ],
+      "tables": 1,
+      "rows": 11,
+      "flags": []
+    },
+    {
+      "slug": "3-5mm-cortex-screw-for-7-0mm-distal-tibial-nail",
+      "name": {
+        "ru": "3.5 мм Кортикальный винт для дистального большеберцового штифта 7.0 мм",
+        "en": "3.5mm Cortex Screw for 7.0mm Distal Tibial Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        368
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "4-0mm-cancellous-screw-for-8-0mm-distal-tibial-nail",
+      "name": {
+        "ru": "4.0 мм Спонгиозный винт для дистального большеберцового штифта 8.0 мм",
+        "en": "4.0mm Cancellous Screw for 8.0mm Distal Tibial Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        368
+      ],
+      "tables": 1,
+      "rows": 9,
+      "flags": []
+    },
+    {
+      "slug": "4-0mm-cortex-screw-for-8-0mm-distal-tibial-nail",
+      "name": {
+        "ru": "4.0 мм Кортикальный винт для дистального большеберцового штифта 8.0 мм",
+        "en": "4.0mm Cortex Screw for 8.0mm Distal Tibial Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        369
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "end-cap-for-distal-tibial-nail",
+      "name": {
+        "ru": "Торцевая заглушка для дистального большеберцового штифта",
+        "en": "End Cap for Distal Tibial Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        369
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "fibular-nail",
+      "name": {
+        "ru": "Малоберцовый штифт",
+        "en": "Fibular Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        370
+      ],
+      "tables": 1,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "2-7mm-locking-screw-for-fibular-nail",
+      "name": {
+        "ru": "2.7 мм Блокируемый винт для малоберцового штифта",
+        "en": "2.7mm Locking Screw for Fibular Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        370
+      ],
+      "tables": 1,
+      "rows": 16,
+      "flags": []
+    },
+    {
+      "slug": "end-cap-for-fibular-nail",
+      "name": {
+        "ru": "Торцевая заглушка для малоберцового штифта",
+        "en": "End Cap for Fibular Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        371
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "ulna-nail",
+      "name": {
+        "ru": "Штифт локтевой кости",
+        "en": "Ulna Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        372
+      ],
+      "tables": 1,
+      "rows": 16,
+      "flags": []
+    },
+    {
+      "slug": "end-cap-for-ulna-nail",
+      "name": {
+        "ru": "Торцевая заглушка для штифта локтевой кости",
+        "en": "End Cap for Ulna Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        372
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "radius-nail",
+      "name": {
+        "ru": "Штифт лучевой кости",
+        "en": "Radius Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        373
+      ],
+      "tables": 1,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "end-cap-for-radius-nail",
+      "name": {
+        "ru": "Торцевая заглушка для штифта лучевой кости",
+        "en": "End Cap for Radius Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        373
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "3-0mm-locking-screw-for-forearm-nail",
+      "name": {
+        "ru": "3.0 мм Блокируемый винт для штифта костей предплечья",
+        "en": "3.0mm Locking Screw for Forearm Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        374
+      ],
+      "tables": 1,
+      "rows": 26,
+      "flags": []
+    },
+    {
+      "slug": "adolescent-femoral-nail",
+      "name": {
+        "ru": "Бедренный штифт для подростков",
+        "en": "Adolescent Femoral Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        375,
+        376
+      ],
+      "tables": 2,
+      "rows": 66,
+      "flags": []
+    },
+    {
+      "slug": "5-0mm-locking-screw-for-adolescent-femoral-nail",
+      "name": {
+        "ru": "5.0 мм Блокируемый винт для бедренного штифта для подростков",
+        "en": "5.0mm Locking Screw for Adolescent Femoral Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        377
+      ],
+      "tables": 1,
+      "rows": 13,
+      "flags": []
+    },
+    {
+      "slug": "titanium-elastic-nail",
+      "name": {
+        "ru": "Титановый эластичный штифт",
+        "en": "Titanium Elastic Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        378
+      ],
+      "tables": 1,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "end-cap-for-titanium-elastic-nail",
+      "name": {
+        "ru": "Торцевая заглушка для титанового эластичного штифта",
+        "en": "End Cap for Titanium Elastic Nail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        378
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "sliding-nail-system",
+      "name": {
+        "ru": "Система скользящих штифтов",
+        "en": "Sliding Nail System"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        379
+      ],
+      "tables": 1,
+      "rows": 14,
+      "flags": []
+    },
+    {
+      "slug": "heberden-screw-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для винтов Heberden",
+        "en": "Heberden Screw Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        238,
+        239
+      ],
+      "tables": 2,
+      "rows": 13,
+      "flags": []
+    },
+    {
+      "slug": "4-0mm-no-profile-cannulated-screw-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для канюлированных винтов 4.0 мм без выступающей головки",
+        "en": "4.0mm No Profile Cannulated Screw Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        240,
+        241,
+        242
+      ],
+      "tables": 3,
+      "rows": 16,
+      "flags": []
+    },
+    {
+      "slug": "5-0mm-no-profile-cannulated-screw-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для канюлированных винтов 5.0 мм без выступающей головки",
+        "en": "5.0mm No Profile Cannulated Screw Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        243,
+        244,
+        245
+      ],
+      "tables": 3,
+      "rows": 16,
+      "flags": []
+    },
+    {
+      "slug": "7-0mm-no-profile-cannulated-screw-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для канюлированных винтов 7.0 мм без выступающей головки",
+        "en": "7.0mm No Profile Cannulated Screw Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        246,
+        247,
+        248
+      ],
+      "tables": 3,
+      "rows": 16,
+      "flags": []
+    },
+    {
+      "slug": "4-0mm-cannulated-screw-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для канюлированных винтов 4.0 мм",
+        "en": "4.0mm Cannulated Screw Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        249,
+        250
+      ],
+      "tables": 2,
+      "rows": 13,
+      "flags": []
+    },
+    {
+      "slug": "2-5mm-headless-compression-screw-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для безголовочных компрессионных винтов 2.5 мм",
+        "en": "2.5mm Headless Compression Screw Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        251,
+        252,
+        253
+      ],
+      "tables": 3,
+      "rows": 17,
+      "flags": []
+    },
+    {
+      "slug": "3-0mm-headless-compression-screw-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для безголовочных компрессионных винтов 3.0 мм",
+        "en": "3.0mm Headless Compression Screw Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        254,
+        255,
+        256
+      ],
+      "tables": 3,
+      "rows": 17,
+      "flags": [
+        {
+          "code": "source-guide-diameter-needs-confirmation",
+          "pdfPage": 255,
+          "sourcePages": [
+            255
+          ],
+          "path": "specTables.1.rows.1.0",
+          "message": {
+            "ru": "В подписи направителя напечатано Ø14/Ø0.95. Значение 14 сохранено точно; требуется подтверждение, не пропущена ли десятичная точка.",
+            "en": "The drill-guide caption prints Ø14/Ø0.95. The printed 14 is retained; confirm whether a decimal point is missing."
+          },
+          "readings": [
+            "Source visual: Ø14/Ø0.95; no correction assumed"
+          ],
+          "status": "resolved",
+          "resolution": "The printed source is unambiguously Ø14/Ø0.95; retained literally. No conflicting printed value or REF size encoding establishes a decimal correction. No value has been guessed."
+        }
+      ]
+    },
+    {
+      "slug": "3-5mm-headless-compression-screw-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для безголовочных компрессионных винтов 3.5 мм",
+        "en": "3.5mm Headless Compression Screw Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        257,
+        258,
+        259
+      ],
+      "tables": 3,
+      "rows": 16,
+      "flags": []
+    },
+    {
+      "slug": "4-0mm-headless-compression-screw-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для безголовочных компрессионных винтов 4.0 мм",
+        "en": "4.0mm Headless Compression Screw Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        260,
+        261,
+        262
+      ],
+      "tables": 3,
+      "rows": 16,
+      "flags": []
+    },
+    {
+      "slug": "4-5mm-headless-compression-screw-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для безголовочных компрессионных винтов 4.5 мм",
+        "en": "4.5mm Headless Compression Screw Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        263,
+        264
+      ],
+      "tables": 2,
+      "rows": 13,
+      "flags": []
+    },
+    {
+      "slug": "5-2mm-headless-compression-screw-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для безголовочных компрессионных винтов 5.2 мм",
+        "en": "5.2mm Headless Compression Screw Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        265,
+        266,
+        267
+      ],
+      "tables": 3,
+      "rows": 16,
+      "flags": []
+    },
+    {
+      "slug": "7-0mm-headless-compression-screw-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для безголовочных компрессионных винтов 7.0 мм",
+        "en": "7.0mm Headless Compression Screw Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        268,
+        269
+      ],
+      "tables": 2,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "6-5mm-cannulated-screw-instrument-set-advanced",
+      "name": {
+        "ru": "Расширенный набор инструментов для канюлированных винтов 6.5 мм",
+        "en": "6.5mm Cannulated Screw Instrument Set (Advanced)"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        270,
+        271,
+        272
+      ],
+      "tables": 3,
+      "rows": 20,
+      "flags": []
+    },
+    {
+      "slug": "7-3mm-cannulated-screw-instrument-set-advanced",
+      "name": {
+        "ru": "Расширенный набор инструментов для канюлированных винтов 7.3 мм",
+        "en": "7.3mm Cannulated Screw Instrument Set (Advanced)"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        273,
+        274,
+        275
+      ],
+      "tables": 3,
+      "rows": 20,
+      "flags": []
+    },
+    {
+      "slug": "mini-locking-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для мини-фрагментарных блокируемых имплантов",
+        "en": "Mini Locking Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305
+      ],
+      "tables": 8,
+      "rows": 56,
+      "flags": []
+    },
+    {
+      "slug": "dynamic-hip-condylar-screw-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для динамических бедренных/мыщелковых винтов (DHS/DCS)",
+        "en": "Dynamic Hip/Condylar Screw Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        312,
+        313,
+        314,
+        315
+      ],
+      "tables": 4,
+      "rows": 36,
+      "flags": []
+    },
+    {
+      "slug": "dynamic-hip-condylar-screw-spiral-blade-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для спирального клинка системы DHS/DCS",
+        "en": "Dynamic Hip/Condylar Screw Spiral Blade Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        316,
+        317,
+        318
+      ],
+      "tables": 3,
+      "rows": 18,
+      "flags": []
+    },
+    {
+      "slug": "proximal-femoral-nail-anti-rotation-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для антиротационного проксимального бедренного штифта",
+        "en": "Proximal Femoral Nail, Anti-rotation Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        380,
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389
+      ],
+      "tables": 10,
+      "rows": 64,
+      "flags": []
+    },
+    {
+      "slug": "aimstrong-proximal-femoral-nail-130-instrument-set-short-nail",
+      "name": {
+        "ru": "Набор инструментов для короткого проксимального бедренного штифта Aimstrong 130°",
+        "en": "Aimstrong Proximal Femoral Nail (130°) Instrument Set (Short Nail)"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        390,
+        391,
+        392,
+        393,
+        394,
+        395,
+        396,
+        397
+      ],
+      "tables": 8,
+      "rows": 49,
+      "flags": []
+    },
+    {
+      "slug": "aimstrong-proximal-femoral-nail-lag-screw-130-instrument-set-long-nail",
+      "name": {
+        "ru": "Набор инструментов для длинного проксимального бедренного штифта / шеечного винта Aimstrong 130°",
+        "en": "Aimstrong Proximal Femoral Nail/Lag Screw 130° Instrument Set (Long Nail)"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        398,
+        399,
+        400,
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407
+      ],
+      "tables": 10,
+      "rows": 68,
+      "flags": []
+    },
+    {
+      "slug": "aimstrong-proximal-femoral-nail-130-instrument-set-long-nail",
+      "name": {
+        "ru": "Набор инструментов для длинного проксимального бедренного штифта Aimstrong 130°",
+        "en": "Aimstrong Proximal Femoral Nail 130° Instrument Set (Long Nail)"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        408,
+        409,
+        410,
+        411,
+        412,
+        413,
+        414,
+        415,
+        416,
+        417,
+        418
+      ],
+      "tables": 11,
+      "rows": 70,
+      "flags": []
+    },
+    {
+      "slug": "proximal-femoral-compression-nail-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для компрессионного проксимального бедренного штифта",
+        "en": "Proximal Femoral Compression Nail Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        419,
+        420,
+        421,
+        422,
+        423,
+        424,
+        425
+      ],
+      "tables": 7,
+      "rows": 51,
+      "flags": []
+    },
+    {
+      "slug": "universal-femoral-nail-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для универсального бедренного штифта",
+        "en": "Universal Femoral Nail Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        426,
+        427,
+        428,
+        429,
+        430,
+        431
+      ],
+      "tables": 6,
+      "rows": 45,
+      "flags": []
+    },
+    {
+      "slug": "universal-femoral-nail-ii-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для универсального бедренного штифта II",
+        "en": "Universal Femoral Nail II Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        432,
+        433,
+        434,
+        435,
+        436,
+        437,
+        438,
+        439
+      ],
+      "tables": 8,
+      "rows": 60,
+      "flags": []
+    },
+    {
+      "slug": "retrograde-femoral-nail-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для ретроградного бедренного штифта",
+        "en": "Retrograde Femoral Nail Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        440,
+        441,
+        442,
+        443,
+        444,
+        445,
+        446,
+        447,
+        448,
+        449
+      ],
+      "tables": 10,
+      "rows": 78,
+      "flags": []
+    },
+    {
+      "slug": "distal-femoral-nail-ii-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для дистального бедренного штифта II",
+        "en": "Distal Femoral Nail II Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        450,
+        451,
+        452,
+        453,
+        454,
+        455,
+        456,
+        457,
+        458,
+        459
+      ],
+      "tables": 10,
+      "rows": 65,
+      "flags": []
+    },
+    {
+      "slug": "universal-humeral-nail-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для универсального плечевого штифта",
+        "en": "Universal Humeral Nail Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        460,
+        461,
+        462,
+        463,
+        464,
+        465
+      ],
+      "tables": 6,
+      "rows": 38,
+      "flags": []
+    },
+    {
+      "slug": "advanced-humeral-nail-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для усовершенствованного плечевого штифта",
+        "en": "Advanced Humeral Nail Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        466,
+        467,
+        468,
+        469,
+        470,
+        471,
+        472,
+        473
+      ],
+      "tables": 8,
+      "rows": 55,
+      "flags": []
+    },
+    {
+      "slug": "universal-tibial-nail-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для универсального большеберцового штифта",
+        "en": "Universal Tibial Nail Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        474,
+        475,
+        476,
+        477,
+        478,
+        479
+      ],
+      "tables": 6,
+      "rows": 42,
+      "flags": []
+    },
+    {
+      "slug": "universal-tibial-nail-ii-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для универсального большеберцового штифта II",
+        "en": "Universal Tibial Nail II Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        480,
+        481,
+        482,
+        483,
+        484,
+        485,
+        486,
+        487
+      ],
+      "tables": 8,
+      "rows": 53,
+      "flags": []
+    },
+    {
+      "slug": "suprapatellar-tibial-nail-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для супрапателлярного большеберцового штифта",
+        "en": "Suprapatellar Tibial Nail Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        488,
+        489,
+        490,
+        491,
+        492,
+        493,
+        494,
+        495
+      ],
+      "tables": 8,
+      "rows": 50,
+      "flags": []
+    },
+    {
+      "slug": "distal-tibial-nail-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для дистального большеберцового штифта",
+        "en": "Distal Tibial Nail Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        496,
+        497,
+        498,
+        499,
+        500,
+        501
+      ],
+      "tables": 6,
+      "rows": 34,
+      "flags": []
+    },
+    {
+      "slug": "fibular-nail-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для малоберцового штифта",
+        "en": "Fibular Nail Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508
+      ],
+      "tables": 7,
+      "rows": 43,
+      "flags": []
+    },
+    {
+      "slug": "forearm-nail-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для штифтов костей предплечья",
+        "en": "Forearm Nail Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        509,
+        510,
+        511,
+        512,
+        513,
+        514
+      ],
+      "tables": 6,
+      "rows": 38,
+      "flags": []
+    },
+    {
+      "slug": "advanced-titanium-elastic-nail-instrument-set",
+      "name": {
+        "ru": "Расширенный набор инструментов для титановых эластичных штифтов",
+        "en": "Advanced Titanium Elastic Nail Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        515,
+        516,
+        517
+      ],
+      "tables": 3,
+      "rows": 18,
+      "flags": []
+    },
+    {
+      "slug": "adolescent-femoral-nail-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для бедренного штифта для подростков",
+        "en": "Adolescent Femoral Nail Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        518,
+        519,
+        520,
+        521,
+        522,
+        523
+      ],
+      "tables": 6,
+      "rows": 42,
+      "flags": []
+    },
+    {
+      "slug": "intramedullary-extraction-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для удаления интрамедуллярных штифтов",
+        "en": "Intramedullary Extraction Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        524,
+        525,
+        526,
+        527
+      ],
+      "tables": 4,
+      "rows": 23,
+      "flags": []
+    }
+  ],
+  "nonProductPages": [
+    211,
+    277,
+    307,
+    321,
+    276,
+    297,
+    306,
+    319,
+    320,
+    528
+  ],
+  "tablesCreated": 358,
+  "imagesExtracted": 1440,
+  "uncertainties": [],
+  "translationWorkflow": "Codex-authored medical Russian; retained English; every translated field marked for medical review; no external adapter",
+  "systemsNew": 186,
+  "implantSystems": 149,
+  "instrumentSets": 37,
+  "systemsMerged": 2,
+  "mergedNames": [
+    {
+      "ru": "2.4 мм Блокируемый винт, самонарезающий, со шлицем Torx",
+      "en": "2.4mm Locking Screw, self-tapping, torxdrive"
+    },
+    {
+      "ru": "Универсальный штифт UHN",
+      "en": "UHN universal humeral nail"
+    }
+  ],
+  "newNames": [
+    {
+      "ru": "3.0 мм Канюлированный винт",
+      "en": "3.0mm Cannulated Screw"
+    },
+    {
+      "ru": "4.0 мм Канюлированный винт",
+      "en": "4.0mm Cannulated Screw"
+    },
+    {
+      "ru": "Шайба для канюлированного винта 4.0 мм",
+      "en": "Washer for 4.0mm Cannulated Screw"
+    },
+    {
+      "ru": "Шипованная шайба для канюлированного винта 4.0 мм",
+      "en": "Spiked Washer for 4.0mm Cannulated Screw"
+    },
+    {
+      "ru": "6.5 мм Канюлированный винт, с полной резьбой",
+      "en": "6.5mm Cannulated Screw, fully threaded"
+    },
+    {
+      "ru": "6.5 мм Канюлированный винт, с частичной резьбой",
+      "en": "6.5mm Cannulated Screw, half threaded"
+    },
+    {
+      "ru": "7.3 мм Канюлированный винт, с длинной резьбой",
+      "en": "7.3mm Cannulated Screw, long threaded"
+    },
+    {
+      "ru": "7.3 мм Канюлированный винт, с короткой резьбой",
+      "en": "7.3mm Cannulated Screw, short threaded"
+    },
+    {
+      "ru": "6.5 мм Канюлированный винт, длина резьбы 16 мм",
+      "en": "6.5mm Cannulated Screw, thread length 16mm"
+    },
+    {
+      "ru": "7.3 мм Канюлированный винт, с полной резьбой",
+      "en": "7.3mm Cannulated Screw, fully thread"
+    },
+    {
+      "ru": "7.3 мм Канюлированный винт, длина резьбы 32 мм",
+      "en": "7.3mm Cannulated Screw, thread length 32mm"
+    },
+    {
+      "ru": "Шайба для канюлированного винта 6.5/7.3 мм",
+      "en": "Washer for 6.5mm/7.3mm Cannulated Screw"
+    },
+    {
+      "ru": "Шипованная шайба для канюлированного винта 6.5/7.3 мм",
+      "en": "Spiked Washer for 6.5mm/7.3mm Cannulated Screw"
+    },
+    {
+      "ru": "2.4 мм Безголовочный компрессионный винт, с короткой резьбой",
+      "en": "2.4mm Headless Compression Screw, short thread"
+    },
+    {
+      "ru": "2.4 мм Безголовочный компрессионный винт, с длинной резьбой",
+      "en": "2.4mm Headless Compression Screw, long thread"
+    },
+    {
+      "ru": "4.0 мм Канюлированный винт без выступающей головки",
+      "en": "4.0mm No Profile Cannulated Screw"
+    },
+    {
+      "ru": "5.0 мм Канюлированный винт без выступающей головки",
+      "en": "5.0mm No Profile Cannulated Screw"
+    },
+    {
+      "ru": "7.0 мм Канюлированный винт без выступающей головки",
+      "en": "7.0mm No Profile Cannulated Screw"
+    },
+    {
+      "ru": "Компрессионная стержневая система",
+      "en": "Compression Rod System"
+    },
+    {
+      "ru": "Блокируемая компрессионная стержневая система",
+      "en": "Compression Locking Rod System"
+    },
+    {
+      "ru": "2.5 мм Безголовочный компрессионный винт II",
+      "en": "2.5mm Headless Compression Screw II"
+    },
+    {
+      "ru": "3.0 мм Безголовочный компрессионный винт II",
+      "en": "3.0mm Headless Compression Screw II"
+    },
+    {
+      "ru": "3.5 мм Безголовочный компрессионный винт II",
+      "en": "3.5mm Headless Compression Screw II"
+    },
+    {
+      "ru": "4.0 мм Безголовочный компрессионный винт II",
+      "en": "4.0mm Headless Compression Screw II"
+    },
+    {
+      "ru": "4.5 мм Безголовочный компрессионный винт II",
+      "en": "4.5mm Headless Compression Screw II"
+    },
+    {
+      "ru": "5.2 мм Безголовочный компрессионный винт II",
+      "en": "5.2mm Headless Compression Screw II"
+    },
+    {
+      "ru": "7.0 мм Безголовочный компрессионный винт II",
+      "en": "7.0mm Headless Compression Screw II"
+    },
+    {
+      "ru": "7.0 мм Безголовочный компрессионный винт",
+      "en": "7.0mm Headless Compression Screw"
+    },
+    {
+      "ru": "3.5 мм Безголовочный винт",
+      "en": "3.5mm Headless Screw"
+    },
+    {
+      "ru": "4.0 мм Безголовочный винт",
+      "en": "4.0mm Headless Screw"
+    },
+    {
+      "ru": "5.0 мм Безголовочный винт",
+      "en": "5.0mm Headless Screw"
+    },
+    {
+      "ru": "3.3 мм Винт Heberden",
+      "en": "3.3mm Heberden Screw"
+    },
+    {
+      "ru": "3.0 мм Безголовочный компрессионный винт",
+      "en": "3.0mm Headless Compression Screw"
+    },
+    {
+      "ru": "4.0 мм Безголовочный компрессионный винт",
+      "en": "4.0mm Headless Compression Screw"
+    },
+    {
+      "ru": "Крючковидная мини-блокируемая пластина",
+      "en": "Mini Hook Locking Plate"
+    },
+    {
+      "ru": "Блокируемая пластина 1.5, прямая",
+      "en": "Locking Plate 1.5, straight"
+    },
+    {
+      "ru": "Моделируемая блокируемая пластина 1.5",
+      "en": "Adaption Locking Plate 1.5"
+    },
+    {
+      "ru": "T-образная блокируемая пластина 1.5",
+      "en": "Locking T-Plate 1.5"
+    },
+    {
+      "ru": "Y-образная блокируемая пластина 1.5",
+      "en": "Locking Y-Plate 1.5"
+    },
+    {
+      "ru": "Мыщелковая блокируемая пластина 1.5",
+      "en": "Locking Condylar Plate 1.5"
+    },
+    {
+      "ru": "Опорная блокируемая пластина 1.5, с косым углом",
+      "en": "Locking Strut Plate 1.5, oblique-angled"
+    },
+    {
+      "ru": "1.5S-образная клиновидная мини-блокируемая пластина",
+      "en": "1.5S-Mini Wed Locking Plate"
+    },
+    {
+      "ru": "Прямая блокируемая пластина 2.0",
+      "en": "Straight Locking Plate 2.0"
+    },
+    {
+      "ru": "Моделируемая блокируемая пластина 2.0",
+      "en": "Adaption Locking Plate 2.0"
+    },
+    {
+      "ru": "T-образная блокируемая пластина 2.0",
+      "en": "T-Locking Plate 2.0"
+    },
+    {
+      "ru": "Y-образная моделируемая блокируемая пластина 2.0",
+      "en": "Y-Adaption Locking Plate 2.0"
+    },
+    {
+      "ru": "T-образная моделируемая блокируемая пластина 2.0",
+      "en": "T-Adaption Locking Plate 2.0"
+    },
+    {
+      "ru": "Мыщелковая блокируемая пластина 2.0",
+      "en": "Locking Condylar Plate 2.0"
+    },
+    {
+      "ru": "2.0S-образная клиновидная мини-блокируемая пластина",
+      "en": "2.0S-Mini Wed Locking Plate"
+    },
+    {
+      "ru": "Прямая блокируемая пластина 2.4",
+      "en": "Straight Locking Plate 2.4"
+    },
+    {
+      "ru": "Моделируемая блокируемая пластина 2.4",
+      "en": "Adaption Locking Plate 2.4"
+    },
+    {
+      "ru": "T-образная блокируемая пластина 2.4",
+      "en": "T-Locking Plate 2.4"
+    },
+    {
+      "ru": "Y-образная моделируемая блокируемая пластина 2.4",
+      "en": "Y-Adaption Locking Plate 2.4"
+    },
+    {
+      "ru": "T-образная моделируемая блокируемая пластина 2.4",
+      "en": "T-Adaption Locking Plate 2.4"
+    },
+    {
+      "ru": "Мыщелковая блокируемая пластина 2.4",
+      "en": "Condylar Locking Plate 2.4"
+    },
+    {
+      "ru": "2.4S-образная клиновидная мини-блокируемая пластина",
+      "en": "2.4S-Mini Wed Locking Plate"
+    },
+    {
+      "ru": "Прямая блокируемая пластина 2.7",
+      "en": "Straight Locking Plate 2.7"
+    },
+    {
+      "ru": "Моделируемая блокируемая пластина 2.7",
+      "en": "Adaption Locking Plate 2.7"
+    },
+    {
+      "ru": "T-образная блокируемая пластина 2.7",
+      "en": "T-Locking Plate 2.7"
+    },
+    {
+      "ru": "L-образная блокируемая пластина 2.7",
+      "en": "L-Locking Plate 2.7"
+    },
+    {
+      "ru": "L-образная блокируемая пластина 2.7, косая",
+      "en": "L-Locking Plate 2.7, oblique"
+    },
+    {
+      "ru": "Мыщелковая блокируемая пластина 2.7",
+      "en": "Condylar Locking Plate 2.7"
+    },
+    {
+      "ru": "H-образная блокируемая пластина 2.7",
+      "en": "H-Locking Plate 2.7"
+    },
+    {
+      "ru": "X-образная блокируемая пластина 2.7, для стопы",
+      "en": "X-Locking Plate 2.7, for Foot"
+    },
+    {
+      "ru": "Блокируемая пластина 2.7, прямая",
+      "en": "Locking Plate 2.7, straight"
+    },
+    {
+      "ru": "1.5 мм Блокируемый винт, со шлицем Torx, самонарезающий",
+      "en": "1.5mm Locking Screw, torxdrive, self-tapping"
+    },
+    {
+      "ru": "1.5 мм Кортикальный винт, со шлицем Torx, самонарезающий",
+      "en": "1.5mm Cortex Screw, torxdrive, self-tapping"
+    },
+    {
+      "ru": "2.0 мм Блокируемый винт, со шлицем Torx, самонарезающий",
+      "en": "2.0mm Locking Screw, torxdrive, self-tapping"
+    },
+    {
+      "ru": "2.0 мм Кортикальный винт, со шлицем Torx, самонарезающий",
+      "en": "2.0mm Cortex Screw, torxdrive, self-tapping"
+    },
+    {
+      "ru": "2.4 мм Кортикальный винт, со шлицем Torx, самонарезающий",
+      "en": "2.4mm Cortex Screw, torxdrive, self-tapping"
+    },
+    {
+      "ru": "2.7 мм Блокируемый винт, со шлицем Torx, самонарезающий",
+      "en": "2.7mm Locking Screw, torxdrive, self-tapping"
+    },
+    {
+      "ru": "2.7 мм Кортикальный винт, со шлицем Torx, самонарезающий",
+      "en": "2.7mm Cortex Screw, torxdrive, self-tapping"
+    },
+    {
+      "ru": "Пластина с втулкой для динамического бедренного винта (DHS)",
+      "en": "Barrel Plate(Dynamic Hip Screw)"
+    },
+    {
+      "ru": "Пластина с втулкой для динамического мыщелкового винта (DCS)",
+      "en": "Barrel Plate(Dynamic Condylar Screw)"
+    },
+    {
+      "ru": "Пластина для стабилизации большого вертела",
+      "en": "Trochanter Stabilizing Plate"
+    },
+    {
+      "ru": "Большой шеечный винт для пластины с втулкой",
+      "en": "Big Lag Screw for Barrel Plate"
+    },
+    {
+      "ru": "Блокируемая пластина с втулкой для динамического бедренного винта (DHS)",
+      "en": "Barrel Locking Plate(Dynamic Hip Screw)"
+    },
+    {
+      "ru": "Блокируемая пластина с втулкой для динамического мыщелкового винта (DCS)",
+      "en": "Barrel Locking Plate(Dynamic Condylar Screw)"
+    },
+    {
+      "ru": "Блокируемая пластина для стабилизации большого вертела",
+      "en": "Trochanter Stabilizing Locking Plate"
+    },
+    {
+      "ru": "Спиральный клинок для блокируемой пластины DHS/DCS",
+      "en": "Barrel Locking Plate Spiral Blade"
+    },
+    {
+      "ru": "Компрессионный винт спирального клинка блокируемой пластины DHS/DCS",
+      "en": "Compression Screw for Barrel Locking Plate Spiral Blade"
+    },
+    {
+      "ru": "Антиротационный проксимальный бедренный штифт",
+      "en": "Proximal Femoral Nail, anti-rotation"
+    },
+    {
+      "ru": "Антиротационный проксимальный бедренный штифт, 130°",
+      "en": "Proximal Femoral Nail, anti-rotation, 130°"
+    },
+    {
+      "ru": "Антиротационный проксимальный бедренный штифт, длинный",
+      "en": "Proximal Femoral Nail, anti-rotation, long"
+    },
+    {
+      "ru": "Антиротационный проксимальный бедренный штифт, длинный, 130°",
+      "en": "Proximal Femoral Nail, anti-rotation, long, 130°"
+    },
+    {
+      "ru": "Спиральный клинок проксимального бедренного штифта",
+      "en": "Proximal Femoral Nail Spiral Blade"
+    },
+    {
+      "ru": "Торцевая заглушка для PFNA",
+      "en": "End Cap for PFNA"
+    },
+    {
+      "ru": "Торцевая заглушка для PFNA, длинный",
+      "en": "End Cap for PFNA, long"
+    },
+    {
+      "ru": "Проксимальный бедренный штифт Aimstrong 125°",
+      "en": "Aimstrong Proximal Femoral Nail 125°"
+    },
+    {
+      "ru": "Проксимальный бедренный штифт Aimstrong 130°",
+      "en": "Aimstrong Proximal Femoral Nail 130°"
+    },
+    {
+      "ru": "Спиральный клинок Aimstrong",
+      "en": "Aimstrong Spiral Blade"
+    },
+    {
+      "ru": "Шеечный винт Aimstrong",
+      "en": "Aimstrong Lag Screw"
+    },
+    {
+      "ru": "Торцевая заглушка Aimstrong",
+      "en": "Aimstrong End Cap"
+    },
+    {
+      "ru": "Компрессионный проксимальный бедренный штифт",
+      "en": "Proximal Femoral Compression Nail"
+    },
+    {
+      "ru": "Компрессионный проксимальный бедренный штифт, длинный",
+      "en": "Proximal Femoral Compression Nail, long"
+    },
+    {
+      "ru": "Шеечный винт для компрессионного проксимального бедренного штифта",
+      "en": "Lag Screw for Proximal Femoral Compression Nail"
+    },
+    {
+      "ru": "Компрессионный винт для компрессионного проксимального бедренного штифта",
+      "en": "Compression Screw for Proximal Femoral Compression Nail"
+    },
+    {
+      "ru": "Торцевая заглушка для компрессионного проксимального бедренного штифта",
+      "en": "End Cap for Proximal Femoral Compression Nail"
+    },
+    {
+      "ru": "Универсальный бедренный штифт",
+      "en": "Universal Femoral Nail"
+    },
+    {
+      "ru": "4.9 мм Блокируемый винт",
+      "en": "4.9mm Locking Screw"
+    },
+    {
+      "ru": "Универсальная торцевая заглушка UFN/UTN",
+      "en": "Universal End Cap for UFN/UTN"
+    },
+    {
+      "ru": "Универсальный бедренный штифт II",
+      "en": "Universal Femoral Nail II"
+    },
+    {
+      "ru": "4.9 мм Блокируемый винт II",
+      "en": "4.9mm Locking Screw II"
+    },
+    {
+      "ru": "Торцевая заглушка для универсального бедренного штифта II",
+      "en": "End Cap for Universal Femoral Nail II"
+    },
+    {
+      "ru": "Ретроградный бедренный штифт",
+      "en": "Retrograde Femoral Nail"
+    },
+    {
+      "ru": "Мыщелковый винт",
+      "en": "Condyle Screw"
+    },
+    {
+      "ru": "4.9 мм Блокируемый винт, с удерживающей фиксацией",
+      "en": "4.9mm Locking Screw, self-retaining"
+    },
+    {
+      "ru": "5.0 мм Блокируемый винт для супрапателлярного большеберцового штифта",
+      "en": "5.0mm Locking Screw for Suprapatellar Tibial Nail"
+    },
+    {
+      "ru": "Мыщелковая гайка и шайба",
+      "en": "Condyle Nut and Washer"
+    },
+    {
+      "ru": "RFN Торцевая заглушка",
+      "en": "RFN End Cap"
+    },
+    {
+      "ru": "Дистальный бедренный штифт II",
+      "en": "Distal Femoral Nail II"
+    },
+    {
+      "ru": "Дистальный бедренный штифт II, длинный",
+      "en": "Distal Femoral Nail II, long"
+    },
+    {
+      "ru": "6.0 мм Блокируемый винт для дистального бедренного штифта II",
+      "en": "6.0mm Locking Screw for Distal Femoral Nail II"
+    },
+    {
+      "ru": "Спиральный клинок для дистального бедренного штифта II",
+      "en": "Spiral Blade for Distal Femoral Nail II"
+    },
+    {
+      "ru": "Торцевая заглушка для дистального бедренного штифта II",
+      "en": "End Cap for Distal Femoral Nail II"
+    },
+    {
+      "ru": "3.6 мм Блокируемый винт для плечевого штифта",
+      "en": "3.6mm Locking Screw for Humeral Nail"
+    },
+    {
+      "ru": "5.0 мм Блокируемый винт для плечевого штифта",
+      "en": "5.0mm Locking Screw for Humeral Nail"
+    },
+    {
+      "ru": "Торцевая заглушка для универсального плечевого штифта",
+      "en": "End Cap for Universal Humeral Nail"
+    },
+    {
+      "ru": "Усовершенствованный плечевой штифт",
+      "en": "Advanced Humeral Nail"
+    },
+    {
+      "ru": "4.5 мм Блокируемый винт для усовершенствованного плечевого штифта",
+      "en": "4.5mm Locking Screw for Advanced Humeral Nail"
+    },
+    {
+      "ru": "Торцевая заглушка для усовершенствованного плечевого штифта",
+      "en": "End Cap for Advanced Humeral Nail"
+    },
+    {
+      "ru": "Универсальный большеберцовый штифт",
+      "en": "Universal Tibial Nail"
+    },
+    {
+      "ru": "4.5 мм Блокируемый винт для большеберцового штифта",
+      "en": "4.5mm Locking Screw for Tibial Nail"
+    },
+    {
+      "ru": "Универсальный большеберцовый штифт II",
+      "en": "Universal Tibial Nail II"
+    },
+    {
+      "ru": "4.0 мм Блокируемый винт для универсального большеберцового штифта II",
+      "en": "4.0mm Locking Screw for Universal Tibial Nail II"
+    },
+    {
+      "ru": "5.0 мм Блокируемый винт для универсального большеберцового штифта II",
+      "en": "5.0mm Locking Screw for Universal Tibial Nail II"
+    },
+    {
+      "ru": "Торцевая заглушка для универсального большеберцового штифта II",
+      "en": "End Cap for Universal Tibial Nail II"
+    },
+    {
+      "ru": "Супрапателлярный большеберцовый штифт",
+      "en": "Suprapatellar Tibial Nail"
+    },
+    {
+      "ru": "4.5 мм Блокируемый винт для супрапателлярного большеберцового штифта",
+      "en": "4.5mm Locking Screw for Suprapatellar Tibial Nail"
+    },
+    {
+      "ru": "Универсальная торцевая заглушка SPTN/AFN",
+      "en": "Universal End Cap for SPTN/AFN"
+    },
+    {
+      "ru": "Дистальный большеберцовый штифт",
+      "en": "Distal Tibial Nail"
+    },
+    {
+      "ru": "3.5 мм Спонгиозный винт для дистального большеберцового штифта 7.0 мм",
+      "en": "3.5mm Cancellous Screw for 7.0mm Distal Tibial Nail"
+    },
+    {
+      "ru": "3.5 мм Кортикальный винт для дистального большеберцового штифта 7.0 мм",
+      "en": "3.5mm Cortex Screw for 7.0mm Distal Tibial Nail"
+    },
+    {
+      "ru": "4.0 мм Спонгиозный винт для дистального большеберцового штифта 8.0 мм",
+      "en": "4.0mm Cancellous Screw for 8.0mm Distal Tibial Nail"
+    },
+    {
+      "ru": "4.0 мм Кортикальный винт для дистального большеберцового штифта 8.0 мм",
+      "en": "4.0mm Cortex Screw for 8.0mm Distal Tibial Nail"
+    },
+    {
+      "ru": "Торцевая заглушка для дистального большеберцового штифта",
+      "en": "End Cap for Distal Tibial Nail"
+    },
+    {
+      "ru": "Малоберцовый штифт",
+      "en": "Fibular Nail"
+    },
+    {
+      "ru": "2.7 мм Блокируемый винт для малоберцового штифта",
+      "en": "2.7mm Locking Screw for Fibular Nail"
+    },
+    {
+      "ru": "Торцевая заглушка для малоберцового штифта",
+      "en": "End Cap for Fibular Nail"
+    },
+    {
+      "ru": "Штифт локтевой кости",
+      "en": "Ulna Nail"
+    },
+    {
+      "ru": "Торцевая заглушка для штифта локтевой кости",
+      "en": "End Cap for Ulna Nail"
+    },
+    {
+      "ru": "Штифт лучевой кости",
+      "en": "Radius Nail"
+    },
+    {
+      "ru": "Торцевая заглушка для штифта лучевой кости",
+      "en": "End Cap for Radius Nail"
+    },
+    {
+      "ru": "3.0 мм Блокируемый винт для штифта костей предплечья",
+      "en": "3.0mm Locking Screw for Forearm Nail"
+    },
+    {
+      "ru": "Бедренный штифт для подростков",
+      "en": "Adolescent Femoral Nail"
+    },
+    {
+      "ru": "5.0 мм Блокируемый винт для бедренного штифта для подростков",
+      "en": "5.0mm Locking Screw for Adolescent Femoral Nail"
+    },
+    {
+      "ru": "Титановый эластичный штифт",
+      "en": "Titanium Elastic Nail"
+    },
+    {
+      "ru": "Торцевая заглушка для титанового эластичного штифта",
+      "en": "End Cap for Titanium Elastic Nail"
+    },
+    {
+      "ru": "Система скользящих штифтов",
+      "en": "Sliding Nail System"
+    },
+    {
+      "ru": "Набор инструментов для винтов Heberden",
+      "en": "Heberden Screw Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для канюлированных винтов 4.0 мм без выступающей головки",
+      "en": "4.0mm No Profile Cannulated Screw Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для канюлированных винтов 5.0 мм без выступающей головки",
+      "en": "5.0mm No Profile Cannulated Screw Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для канюлированных винтов 7.0 мм без выступающей головки",
+      "en": "7.0mm No Profile Cannulated Screw Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для канюлированных винтов 4.0 мм",
+      "en": "4.0mm Cannulated Screw Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для безголовочных компрессионных винтов 2.5 мм",
+      "en": "2.5mm Headless Compression Screw Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для безголовочных компрессионных винтов 3.0 мм",
+      "en": "3.0mm Headless Compression Screw Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для безголовочных компрессионных винтов 3.5 мм",
+      "en": "3.5mm Headless Compression Screw Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для безголовочных компрессионных винтов 4.0 мм",
+      "en": "4.0mm Headless Compression Screw Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для безголовочных компрессионных винтов 4.5 мм",
+      "en": "4.5mm Headless Compression Screw Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для безголовочных компрессионных винтов 5.2 мм",
+      "en": "5.2mm Headless Compression Screw Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для безголовочных компрессионных винтов 7.0 мм",
+      "en": "7.0mm Headless Compression Screw Instrument Set"
+    },
+    {
+      "ru": "Расширенный набор инструментов для канюлированных винтов 6.5 мм",
+      "en": "6.5mm Cannulated Screw Instrument Set (Advanced)"
+    },
+    {
+      "ru": "Расширенный набор инструментов для канюлированных винтов 7.3 мм",
+      "en": "7.3mm Cannulated Screw Instrument Set (Advanced)"
+    },
+    {
+      "ru": "Набор инструментов для мини-фрагментарных блокируемых имплантов",
+      "en": "Mini Locking Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для динамических бедренных/мыщелковых винтов (DHS/DCS)",
+      "en": "Dynamic Hip/Condylar Screw Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для спирального клинка системы DHS/DCS",
+      "en": "Dynamic Hip/Condylar Screw Spiral Blade Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для антиротационного проксимального бедренного штифта",
+      "en": "Proximal Femoral Nail, Anti-rotation Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для короткого проксимального бедренного штифта Aimstrong 130°",
+      "en": "Aimstrong Proximal Femoral Nail (130°) Instrument Set (Short Nail)"
+    },
+    {
+      "ru": "Набор инструментов для длинного проксимального бедренного штифта / шеечного винта Aimstrong 130°",
+      "en": "Aimstrong Proximal Femoral Nail/Lag Screw 130° Instrument Set (Long Nail)"
+    },
+    {
+      "ru": "Набор инструментов для длинного проксимального бедренного штифта Aimstrong 130°",
+      "en": "Aimstrong Proximal Femoral Nail 130° Instrument Set (Long Nail)"
+    },
+    {
+      "ru": "Набор инструментов для компрессионного проксимального бедренного штифта",
+      "en": "Proximal Femoral Compression Nail Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для универсального бедренного штифта",
+      "en": "Universal Femoral Nail Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для универсального бедренного штифта II",
+      "en": "Universal Femoral Nail II Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для ретроградного бедренного штифта",
+      "en": "Retrograde Femoral Nail Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для дистального бедренного штифта II",
+      "en": "Distal Femoral Nail II Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для универсального плечевого штифта",
+      "en": "Universal Humeral Nail Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для усовершенствованного плечевого штифта",
+      "en": "Advanced Humeral Nail Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для универсального большеберцового штифта",
+      "en": "Universal Tibial Nail Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для универсального большеберцового штифта II",
+      "en": "Universal Tibial Nail II Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для супрапателлярного большеберцового штифта",
+      "en": "Suprapatellar Tibial Nail Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для дистального большеберцового штифта",
+      "en": "Distal Tibial Nail Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для малоберцового штифта",
+      "en": "Fibular Nail Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для штифтов костей предплечья",
+      "en": "Forearm Nail Instrument Set"
+    },
+    {
+      "ru": "Расширенный набор инструментов для титановых эластичных штифтов",
+      "en": "Advanced Titanium Elastic Nail Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для бедренного штифта для подростков",
+      "en": "Adolescent Femoral Nail Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для удаления интрамедуллярных штифтов",
+      "en": "Intramedullary Extraction Instrument Set"
+    }
+  ],
+  "systemsPublished": 186,
+  "systemsDraft": 0,
+  "codesFound": 3552,
+  "codesVerified": 3552,
+  "componentRefOccurrences": 3515,
+  "setCodeOccurrences": 37,
+  "distinctCodes": 3112,
+  "codeVerification": "600-DPI Tesseract PSM3 + PSM11, independent Apple Vision; source glyph and Codex visual reconciliation; exact code agreement required; no guessed REF",
+  "scope": [
+    {
+      "section": 5,
+      "en": "Cannulated Screw Set",
+      "ru": "Канюлированные винты",
+      "indexPage": 211,
+      "physicalPages": [
+        211,
+        276
+      ],
+      "printedPages": [
+        1,
+        66
+      ],
+      "productPhysicalPages": [
+        212,
+        275
+      ],
+      "productPrintedPages": [
+        2,
+        65
+      ]
+    },
+    {
+      "section": 6,
+      "en": "Mini Fragment Set",
+      "ru": "Мини-фрагменты",
+      "indexPage": 277,
+      "physicalPages": [
+        277,
+        306
+      ],
+      "printedPages": [
+        1,
+        30
+      ],
+      "productPhysicalPages": [
+        278,
+        305
+      ],
+      "productPrintedPages": [
+        2,
+        29
+      ]
+    },
+    {
+      "section": 7,
+      "en": "Dynamic Hip/Condylar Screw Set",
+      "ru": "Динамические бедренные/мыщелковые винты (DHS/DCS)",
+      "indexPage": 307,
+      "physicalPages": [
+        307,
+        320
+      ],
+      "printedPages": [
+        1,
+        14
+      ],
+      "productPhysicalPages": [
+        308,
+        318
+      ],
+      "productPrintedPages": [
+        2,
+        12
+      ]
+    },
+    {
+      "section": 8,
+      "en": "Medullary Nailing Set",
+      "ru": "Интрамедуллярный остеосинтез",
+      "indexPage": 321,
+      "physicalPages": [
+        321,
+        528
+      ],
+      "printedPages": [
+        1,
+        208
+      ],
+      "productPhysicalPages": [
+        322,
+        527
+      ],
+      "productPrintedPages": [
+        2,
+        207
+      ]
+    }
+  ],
+  "authorizedPhysicalPages": [
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283,
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290,
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    298,
+    299,
+    300,
+    301,
+    302,
+    303,
+    304,
+    305,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315,
+    316,
+    317,
+    318,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    330,
+    331,
+    332,
+    333,
+    334,
+    335,
+    336,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    351,
+    352,
+    353,
+    354,
+    355,
+    356,
+    357,
+    358,
+    359,
+    360,
+    361,
+    362,
+    363,
+    364,
+    365,
+    366,
+    367,
+    368,
+    369,
+    370,
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    377,
+    378,
+    379,
+    380,
+    381,
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    388,
+    389,
+    390,
+    391,
+    392,
+    393,
+    394,
+    395,
+    396,
+    397,
+    398,
+    399,
+    400,
+    401,
+    402,
+    403,
+    404,
+    405,
+    406,
+    407,
+    408,
+    409,
+    410,
+    411,
+    412,
+    413,
+    414,
+    415,
+    416,
+    417,
+    418,
+    419,
+    420,
+    421,
+    422,
+    423,
+    424,
+    425,
+    426,
+    427,
+    428,
+    429,
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436,
+    437,
+    438,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    449,
+    450,
+    451,
+    452,
+    453,
+    454,
+    455,
+    456,
+    457,
+    458,
+    459,
+    460,
+    461,
+    462,
+    463,
+    464,
+    465,
+    466,
+    467,
+    468,
+    469,
+    470,
+    471,
+    472,
+    473,
+    474,
+    475,
+    476,
+    477,
+    478,
+    479,
+    480,
+    481,
+    482,
+    483,
+    484,
+    485,
+    486,
+    487,
+    488,
+    489,
+    490,
+    491,
+    492,
+    493,
+    494,
+    495,
+    496,
+    497,
+    498,
+    499,
+    500,
+    501,
+    502,
+    503,
+    504,
+    505,
+    506,
+    507,
+    508,
+    509,
+    510,
+    511,
+    512,
+    513,
+    514,
+    515,
+    516,
+    517,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    527
+  ],
+  "imageQA": {
+    "status": "reviewed",
+    "reviewedAt": "2026-11-20T20:31:17.983557+00:00",
+    "assetsReviewed": [
+      "page-212-art-01",
+      "page-213-art-01",
+      "page-214-art-01",
+      "page-214-art-02",
+      "page-215-art-01",
+      "page-215-art-02",
+      "page-216-art-01",
+      "page-216-art-02",
+      "page-217-art-01",
+      "page-218-art-01",
+      "page-219-art-01",
+      "page-220-art-01",
+      "page-220-art-02",
+      "page-221-art-01",
+      "page-222-art-01",
+      "page-223-art-01",
+      "page-224-art-01",
+      "page-225-art-01",
+      "page-225-art-02",
+      "page-226-art-01",
+      "page-226-art-02",
+      "page-227-art-01",
+      "page-227-art-02",
+      "page-228-art-01",
+      "page-228-art-02",
+      "page-229-art-01",
+      "page-229-art-02",
+      "page-230-art-01",
+      "page-231-art-01",
+      "page-232-art-01",
+      "page-233-art-01",
+      "page-234-art-01",
+      "page-235-art-01",
+      "page-236-art-01",
+      "page-237-art-01",
+      "page-238-art-01",
+      "page-238-art-02",
+      "page-238-art-03",
+      "page-238-art-04",
+      "page-238-art-05",
+      "page-238-art-06",
+      "page-238-art-07",
+      "page-238-art-08",
+      "page-239-art-01",
+      "page-239-art-02",
+      "page-239-art-03",
+      "page-239-art-04",
+      "page-239-art-05",
+      "page-240-art-01",
+      "page-240-art-02",
+      "page-240-art-03",
+      "page-240-art-04",
+      "page-240-art-05",
+      "page-240-art-06",
+      "page-241-art-01",
+      "page-241-art-02",
+      "page-241-art-03",
+      "page-241-art-04",
+      "page-241-art-05",
+      "page-241-art-06",
+      "page-242-art-01",
+      "page-243-art-01",
+      "page-243-art-02",
+      "page-243-art-03",
+      "page-243-art-04",
+      "page-243-art-05",
+      "page-243-art-06",
+      "page-243-art-07",
+      "page-244-art-01",
+      "page-244-art-02",
+      "page-244-art-03",
+      "page-244-art-04",
+      "page-244-art-05",
+      "page-244-art-06",
+      "page-244-art-07",
+      "page-245-art-01",
+      "page-246-art-01",
+      "page-246-art-02",
+      "page-246-art-03",
+      "page-246-art-04",
+      "page-246-art-05",
+      "page-246-art-06",
+      "page-247-art-01",
+      "page-247-art-02",
+      "page-247-art-03",
+      "page-247-art-04",
+      "page-247-art-05",
+      "page-247-art-06",
+      "page-247-art-07",
+      "page-248-art-01",
+      "page-248-art-02",
+      "page-249-art-01",
+      "page-249-art-02",
+      "page-249-art-03",
+      "page-249-art-04",
+      "page-249-art-05",
+      "page-249-art-06",
+      "page-249-art-07",
+      "page-249-art-08",
+      "page-250-art-01",
+      "page-250-art-02",
+      "page-250-art-03",
+      "page-250-art-04",
+      "page-250-art-05",
+      "page-251-art-01",
+      "page-251-art-02",
+      "page-251-art-03",
+      "page-251-art-04",
+      "page-251-art-05",
+      "page-251-art-06",
+      "page-251-art-07",
+      "page-252-art-01",
+      "page-252-art-02",
+      "page-252-art-03",
+      "page-252-art-04",
+      "page-252-art-05",
+      "page-252-art-06",
+      "page-253-art-01",
+      "page-253-art-02",
+      "page-253-art-03",
+      "page-254-art-01",
+      "page-254-art-02",
+      "page-254-art-03",
+      "page-254-art-04",
+      "page-254-art-05",
+      "page-254-art-06-item-254-06",
+      "page-254-art-06-item-254-07",
+      "page-255-art-01-item-255-01",
+      "page-255-art-01-item-255-02",
+      "page-255-art-01-item-255-03",
+      "page-255-art-02",
+      "page-255-art-03",
+      "page-255-art-04",
+      "page-255-art-05",
+      "page-256-art-01",
+      "page-257-art-01",
+      "page-257-art-02",
+      "page-257-art-03",
+      "page-257-art-04",
+      "page-257-art-05",
+      "page-257-art-06",
+      "page-257-art-07",
+      "page-258-art-01",
+      "page-258-art-02",
+      "page-258-art-03",
+      "page-258-art-04",
+      "page-258-art-05",
+      "page-258-art-06",
+      "page-258-art-07",
+      "page-259-art-01",
+      "page-260-art-01",
+      "page-260-art-02",
+      "page-260-art-03",
+      "page-260-art-04",
+      "page-260-art-05",
+      "page-260-art-06",
+      "page-261-art-01",
+      "page-261-art-02",
+      "page-261-art-03",
+      "page-261-art-04",
+      "page-261-art-05",
+      "page-261-art-06",
+      "page-261-art-07",
+      "page-262-art-01",
+      "page-263-art-01",
+      "page-263-art-02",
+      "page-263-art-03",
+      "page-263-art-04",
+      "page-263-art-05",
+      "page-263-art-06",
+      "page-263-art-07",
+      "page-264-art-01",
+      "page-264-art-02",
+      "page-264-art-03",
+      "page-264-art-04",
+      "page-264-art-05",
+      "page-265-art-01",
+      "page-265-art-02",
+      "page-265-art-03",
+      "page-265-art-04",
+      "page-265-art-05",
+      "page-265-art-06",
+      "page-265-art-07",
+      "page-266-art-01",
+      "page-266-art-02",
+      "page-266-art-03",
+      "page-266-art-04",
+      "page-266-art-05",
+      "page-266-art-06",
+      "page-266-art-07",
+      "page-267-art-01",
+      "page-268-art-01",
+      "page-268-art-02",
+      "page-268-art-03-item-268-04",
+      "page-268-art-03-item-268-05",
+      "page-268-art-04",
+      "page-268-art-05",
+      "page-269-art-01",
+      "page-269-art-02",
+      "page-269-art-03",
+      "page-269-art-04",
+      "page-269-art-05",
+      "page-269-art-06",
+      "page-270-art-01",
+      "page-270-art-02",
+      "page-270-art-03",
+      "page-270-art-04",
+      "page-270-art-05",
+      "page-270-art-06",
+      "page-271-art-01",
+      "page-271-art-02",
+      "page-271-art-03",
+      "page-271-art-04",
+      "page-271-art-05",
+      "page-271-art-06",
+      "page-271-art-07",
+      "page-272-art-01",
+      "page-272-art-02",
+      "page-272-art-03",
+      "page-272-art-04",
+      "page-273-art-01",
+      "page-273-art-02",
+      "page-273-art-03",
+      "page-273-art-04",
+      "page-273-art-05",
+      "page-273-art-06",
+      "page-274-art-01",
+      "page-274-art-02",
+      "page-274-art-03",
+      "page-274-art-04",
+      "page-274-art-05",
+      "page-274-art-06",
+      "page-274-art-07",
+      "page-275-art-01",
+      "page-275-art-02",
+      "page-275-art-03",
+      "page-275-art-04",
+      "page-278-art-01",
+      "page-278-art-02",
+      "page-278-art-03",
+      "page-278-art-04",
+      "page-279-art-01",
+      "page-279-art-02",
+      "page-279-art-03",
+      "page-280-art-01",
+      "page-280-art-02",
+      "page-281-art-01",
+      "page-281-art-02",
+      "page-281-art-03",
+      "page-282-art-01",
+      "page-282-art-02",
+      "page-282-art-03",
+      "page-283-art-01",
+      "page-283-art-02",
+      "page-283-art-03",
+      "page-284-art-01",
+      "page-284-art-02",
+      "page-284-art-03",
+      "page-285-art-01",
+      "page-285-art-02",
+      "page-286-art-01",
+      "page-286-art-02",
+      "page-287-art-01",
+      "page-287-art-02",
+      "page-288-art-01",
+      "page-288-art-02",
+      "page-288-art-03",
+      "page-289-art-01",
+      "page-289-art-02",
+      "page-289-art-03",
+      "page-290-art-01",
+      "page-290-art-02",
+      "page-291-art-01",
+      "page-292-art-01",
+      "page-293-art-01",
+      "page-294-art-01",
+      "page-295-art-01",
+      "page-296-art-01",
+      "page-298-art-01",
+      "page-298-art-02",
+      "page-298-art-03",
+      "page-298-art-04",
+      "page-298-art-05",
+      "page-298-art-06",
+      "page-298-art-07",
+      "page-299-art-01",
+      "page-299-art-02",
+      "page-299-art-03",
+      "page-299-art-04",
+      "page-299-art-05",
+      "page-299-art-06",
+      "page-299-art-07",
+      "page-300-art-01",
+      "page-300-art-02",
+      "page-300-art-03",
+      "page-300-art-04",
+      "page-300-art-05",
+      "page-300-art-06",
+      "page-301-art-01",
+      "page-301-art-02",
+      "page-301-art-03",
+      "page-301-art-04",
+      "page-301-art-05",
+      "page-301-art-06",
+      "page-302-art-01",
+      "page-302-art-02",
+      "page-302-art-03",
+      "page-302-art-04",
+      "page-302-art-05",
+      "page-302-art-06",
+      "page-302-art-07",
+      "page-303-art-01",
+      "page-303-art-02",
+      "page-303-art-03",
+      "page-303-art-04",
+      "page-303-art-05",
+      "page-303-art-06",
+      "page-303-art-07",
+      "page-303-art-08",
+      "page-304-art-01",
+      "page-304-art-02",
+      "page-304-art-03",
+      "page-304-art-04",
+      "page-304-art-05",
+      "page-304-art-06",
+      "page-304-art-07",
+      "page-304-art-08",
+      "page-305-art-01",
+      "page-305-art-02",
+      "page-305-art-03",
+      "page-305-art-04",
+      "page-305-art-05",
+      "page-305-art-06",
+      "page-305-art-07",
+      "page-305-art-08",
+      "page-308-art-01",
+      "page-308-art-02",
+      "page-309-art-01",
+      "page-309-art-02",
+      "page-309-art-03",
+      "page-310-art-01",
+      "page-310-art-02",
+      "page-311-art-01",
+      "page-311-art-02",
+      "page-311-art-03",
+      "page-312-art-01",
+      "page-312-art-02",
+      "page-312-art-03",
+      "page-312-art-04",
+      "page-312-art-05",
+      "page-312-art-06",
+      "page-312-art-07",
+      "page-312-art-08",
+      "page-313-art-01",
+      "page-313-art-02",
+      "page-313-art-03",
+      "page-313-art-04",
+      "page-313-art-05",
+      "page-313-art-06",
+      "page-313-art-07",
+      "page-314-art-01",
+      "page-314-art-02",
+      "page-314-art-03",
+      "page-314-art-04",
+      "page-314-art-05",
+      "page-314-art-06",
+      "page-314-art-07",
+      "page-314-art-08",
+      "page-315-art-01",
+      "page-315-art-02",
+      "page-315-art-03",
+      "page-315-art-04",
+      "page-315-art-05",
+      "page-315-art-06",
+      "page-315-art-07",
+      "page-315-art-08",
+      "page-316-art-01",
+      "page-316-art-02",
+      "page-316-art-03",
+      "page-316-art-04",
+      "page-316-art-05",
+      "page-316-art-06",
+      "page-316-art-07",
+      "page-317-art-01",
+      "page-317-art-02",
+      "page-317-art-03",
+      "page-317-art-04",
+      "page-317-art-05",
+      "page-317-art-06",
+      "page-317-art-07",
+      "page-318-art-01",
+      "page-318-art-02",
+      "page-318-art-03",
+      "page-318-art-04",
+      "page-322-art-01",
+      "page-322-art-02",
+      "page-323-art-01",
+      "page-324-art-01",
+      "page-325-art-01",
+      "page-326-art-01",
+      "page-326-art-02",
+      "page-327-art-01",
+      "page-328-art-01",
+      "page-329-art-01",
+      "page-330-art-01",
+      "page-331-art-01",
+      "page-332-art-01",
+      "page-332-art-02",
+      "page-333-art-01",
+      "page-333-art-02",
+      "page-333-art-03",
+      "page-334-art-01",
+      "page-335-art-01",
+      "page-336-art-01",
+      "page-337-art-01",
+      "page-337-art-02",
+      "page-338-art-01",
+      "page-339-art-01",
+      "page-339-art-02",
+      "page-340-art-01",
+      "page-341-art-01",
+      "page-342-art-01",
+      "page-343-art-01",
+      "page-344-art-01",
+      "page-345-art-01",
+      "page-346-art-01",
+      "page-347-art-01",
+      "page-347-art-02",
+      "page-348-art-01",
+      "page-349-art-01",
+      "page-350-art-01",
+      "page-351-art-01",
+      "page-351-art-02",
+      "page-352-art-01",
+      "page-352-art-02",
+      "page-353-art-01",
+      "page-353-art-02",
+      "page-354-art-01",
+      "page-355-art-01",
+      "page-356-art-01",
+      "page-357-art-01",
+      "page-358-art-01",
+      "page-359-art-01",
+      "page-360-art-01",
+      "page-361-art-01",
+      "page-362-art-01",
+      "page-363-art-01",
+      "page-363-art-02",
+      "page-364-art-01",
+      "page-365-art-01",
+      "page-366-art-01",
+      "page-366-art-02",
+      "page-367-art-01",
+      "page-367-art-02",
+      "page-368-art-01",
+      "page-368-art-02",
+      "page-369-art-01",
+      "page-369-art-02",
+      "page-369-art-03",
+      "page-370-art-01",
+      "page-370-art-02",
+      "page-371-art-01",
+      "page-372-art-01",
+      "page-372-art-02",
+      "page-373-art-01",
+      "page-373-art-02",
+      "page-374-art-01",
+      "page-375-art-01",
+      "page-376-art-01",
+      "page-377-art-01",
+      "page-378-art-01",
+      "page-378-art-02",
+      "page-379-art-01",
+      "page-380-art-01",
+      "page-380-art-02",
+      "page-380-art-03",
+      "page-380-art-04",
+      "page-380-art-05",
+      "page-380-art-06",
+      "page-380-art-07",
+      "page-381-art-01",
+      "page-381-art-02",
+      "page-381-art-03",
+      "page-381-art-04",
+      "page-381-art-05",
+      "page-381-art-06",
+      "page-382-art-01",
+      "page-382-art-02",
+      "page-382-art-03",
+      "page-382-art-04",
+      "page-382-art-05",
+      "page-382-art-06",
+      "page-382-art-07",
+      "page-382-art-08",
+      "page-383-art-01",
+      "page-383-art-02",
+      "page-383-art-03",
+      "page-383-art-04",
+      "page-383-art-05",
+      "page-383-art-06",
+      "page-383-art-07",
+      "page-383-art-08",
+      "page-384-art-01",
+      "page-384-art-02",
+      "page-384-art-03",
+      "page-384-art-04",
+      "page-384-art-05",
+      "page-384-art-06",
+      "page-384-art-07",
+      "page-384-art-08",
+      "page-385-art-01",
+      "page-385-art-02",
+      "page-385-art-03",
+      "page-385-art-04",
+      "page-385-art-05",
+      "page-385-art-06",
+      "page-385-art-07",
+      "page-386-art-01",
+      "page-386-art-02",
+      "page-386-art-03",
+      "page-386-art-04",
+      "page-386-art-05",
+      "page-386-art-06",
+      "page-386-art-07",
+      "page-387-art-01",
+      "page-387-art-02",
+      "page-387-art-03",
+      "page-387-art-04",
+      "page-387-art-05",
+      "page-387-art-06",
+      "page-387-art-07",
+      "page-387-art-08",
+      "page-388-art-01",
+      "page-388-art-02",
+      "page-388-art-03",
+      "page-388-art-04",
+      "page-389-art-01",
+      "page-389-art-02",
+      "page-389-art-03",
+      "page-390-art-01",
+      "page-390-art-02",
+      "page-390-art-03",
+      "page-390-art-04",
+      "page-390-art-05",
+      "page-390-art-06",
+      "page-390-art-07",
+      "page-391-art-01",
+      "page-391-art-02",
+      "page-391-art-03",
+      "page-391-art-04",
+      "page-391-art-05",
+      "page-391-art-06",
+      "page-391-art-07",
+      "page-392-art-01",
+      "page-392-art-02",
+      "page-392-art-03",
+      "page-392-art-04",
+      "page-392-art-05",
+      "page-392-art-06",
+      "page-393-art-01",
+      "page-393-art-02",
+      "page-393-art-03",
+      "page-393-art-04",
+      "page-393-art-05",
+      "page-393-art-06",
+      "page-393-art-07",
+      "page-394-art-01",
+      "page-394-art-02",
+      "page-394-art-03",
+      "page-394-art-04",
+      "page-394-art-05",
+      "page-394-art-06",
+      "page-394-art-07",
+      "page-395-art-01",
+      "page-395-art-02",
+      "page-395-art-03",
+      "page-395-art-04",
+      "page-395-art-05",
+      "page-395-art-06",
+      "page-395-art-07",
+      "page-396-art-01",
+      "page-396-art-02",
+      "page-396-art-03",
+      "page-396-art-04",
+      "page-397-art-01",
+      "page-397-art-02",
+      "page-397-art-03",
+      "page-397-art-04",
+      "page-398-art-01",
+      "page-398-art-02",
+      "page-398-art-03",
+      "page-398-art-04",
+      "page-398-art-05",
+      "page-398-art-06",
+      "page-399-art-01",
+      "page-399-art-02",
+      "page-399-art-03",
+      "page-399-art-04",
+      "page-399-art-05",
+      "page-400-art-01",
+      "page-400-art-02",
+      "page-400-art-03",
+      "page-400-art-04",
+      "page-400-art-05",
+      "page-400-art-06",
+      "page-401-art-01",
+      "page-401-art-02",
+      "page-401-art-03",
+      "page-401-art-04",
+      "page-401-art-05",
+      "page-401-art-06",
+      "page-401-art-07",
+      "page-402-art-01",
+      "page-402-art-02",
+      "page-402-art-03",
+      "page-402-art-04",
+      "page-402-art-05",
+      "page-402-art-06",
+      "page-402-art-07",
+      "page-403-art-01",
+      "page-403-art-02",
+      "page-403-art-03",
+      "page-403-art-04",
+      "page-403-art-05",
+      "page-403-art-06",
+      "page-403-art-07",
+      "page-403-art-08",
+      "page-404-art-01",
+      "page-404-art-02",
+      "page-404-art-03",
+      "page-404-art-04",
+      "page-404-art-05",
+      "page-404-art-06",
+      "page-404-art-07",
+      "page-404-art-08",
+      "page-405-art-01",
+      "page-405-art-02",
+      "page-405-art-03",
+      "page-405-art-04",
+      "page-405-art-05",
+      "page-405-art-06",
+      "page-406-art-01",
+      "page-406-art-02",
+      "page-406-art-03",
+      "page-406-art-04",
+      "page-406-art-05",
+      "page-407-art-01",
+      "page-408-art-01",
+      "page-408-art-02",
+      "page-408-art-03",
+      "page-408-art-04",
+      "page-408-art-05",
+      "page-408-art-06",
+      "page-408-art-07",
+      "page-409-art-01",
+      "page-409-art-02",
+      "page-409-art-03",
+      "page-409-art-04",
+      "page-409-art-05",
+      "page-409-art-06",
+      "page-409-art-07",
+      "page-410-art-01",
+      "page-410-art-02",
+      "page-410-art-03",
+      "page-410-art-04",
+      "page-410-art-05",
+      "page-410-art-06",
+      "page-411-art-01",
+      "page-411-art-02",
+      "page-411-art-03",
+      "page-411-art-04",
+      "page-411-art-05",
+      "page-411-art-06",
+      "page-411-art-07",
+      "page-412-art-01",
+      "page-412-art-02",
+      "page-412-art-03",
+      "page-412-art-04",
+      "page-412-art-05",
+      "page-413-art-01",
+      "page-413-art-02",
+      "page-413-art-03",
+      "page-413-art-04",
+      "page-413-art-05",
+      "page-413-art-06",
+      "page-413-art-07",
+      "page-414-art-01",
+      "page-414-art-02",
+      "page-414-art-03",
+      "page-414-art-04",
+      "page-414-art-05",
+      "page-414-art-06",
+      "page-414-art-07",
+      "page-415-art-01",
+      "page-415-art-02",
+      "page-415-art-03",
+      "page-415-art-04",
+      "page-415-art-05",
+      "page-415-art-06",
+      "page-416-art-01",
+      "page-416-art-02",
+      "page-416-art-03",
+      "page-416-art-04",
+      "page-416-art-05",
+      "page-416-art-06",
+      "page-416-art-07",
+      "page-417-art-01",
+      "page-417-art-02",
+      "page-417-art-03",
+      "page-417-art-04",
+      "page-417-art-05",
+      "page-418-art-01",
+      "page-419-art-01",
+      "page-419-art-02",
+      "page-419-art-03",
+      "page-419-art-04",
+      "page-419-art-05",
+      "page-419-art-06",
+      "page-419-art-07",
+      "page-419-art-08",
+      "page-420-art-01",
+      "page-420-art-02",
+      "page-420-art-03",
+      "page-420-art-04",
+      "page-420-art-05",
+      "page-421-art-01",
+      "page-421-art-02",
+      "page-421-art-03",
+      "page-421-art-04",
+      "page-421-art-05",
+      "page-421-art-06",
+      "page-422-art-01",
+      "page-422-art-02",
+      "page-422-art-03",
+      "page-422-art-04",
+      "page-422-art-05",
+      "page-422-art-06",
+      "page-422-art-07",
+      "page-422-art-08",
+      "page-422-art-09",
+      "page-423-art-01",
+      "page-423-art-02",
+      "page-423-art-03",
+      "page-423-art-04",
+      "page-423-art-05",
+      "page-423-art-06",
+      "page-423-art-07",
+      "page-423-art-08",
+      "page-423-art-09",
+      "page-424-art-01",
+      "page-424-art-02",
+      "page-424-art-03",
+      "page-424-art-04",
+      "page-424-art-05",
+      "page-424-art-06",
+      "page-424-art-07",
+      "page-424-art-08",
+      "page-425-art-01",
+      "page-425-art-02",
+      "page-425-art-03",
+      "page-425-art-04",
+      "page-425-art-05",
+      "page-425-art-06",
+      "page-425-art-07",
+      "page-425-art-08",
+      "page-426-art-01",
+      "page-426-art-02",
+      "page-426-art-03",
+      "page-426-art-04",
+      "page-426-art-05",
+      "page-426-art-06",
+      "page-426-art-07",
+      "page-426-art-08",
+      "page-427-art-01",
+      "page-427-art-02",
+      "page-427-art-03",
+      "page-427-art-04",
+      "page-427-art-05",
+      "page-427-art-06",
+      "page-427-art-07",
+      "page-427-art-08",
+      "page-428-art-01",
+      "page-428-art-02",
+      "page-428-art-03",
+      "page-428-art-04",
+      "page-428-art-05",
+      "page-428-art-06",
+      "page-428-art-07",
+      "page-429-art-01",
+      "page-429-art-02",
+      "page-429-art-03",
+      "page-429-art-04",
+      "page-429-art-05",
+      "page-429-art-06",
+      "page-429-art-07",
+      "page-429-art-08",
+      "page-430-art-01",
+      "page-430-art-02",
+      "page-430-art-03",
+      "page-430-art-04",
+      "page-430-art-05",
+      "page-430-art-06",
+      "page-430-art-07",
+      "page-430-art-08",
+      "page-431-art-01",
+      "page-431-art-02",
+      "page-431-art-03",
+      "page-431-art-04",
+      "page-431-art-05",
+      "page-431-art-06",
+      "page-432-art-01",
+      "page-432-art-02",
+      "page-432-art-03",
+      "page-432-art-04",
+      "page-432-art-05",
+      "page-432-art-06",
+      "page-433-art-01",
+      "page-433-art-02",
+      "page-433-art-03",
+      "page-433-art-04",
+      "page-433-art-05",
+      "page-433-art-06",
+      "page-433-art-07",
+      "page-434-art-01",
+      "page-434-art-02",
+      "page-434-art-03",
+      "page-434-art-04",
+      "page-434-art-05",
+      "page-434-art-06",
+      "page-434-art-07",
+      "page-434-art-08",
+      "page-434-art-09",
+      "page-435-art-01",
+      "page-435-art-02",
+      "page-435-art-03",
+      "page-435-art-04",
+      "page-435-art-05",
+      "page-435-art-06",
+      "page-435-art-07",
+      "page-435-art-08",
+      "page-436-art-01",
+      "page-436-art-02",
+      "page-436-art-03",
+      "page-436-art-04",
+      "page-436-art-05",
+      "page-436-art-06",
+      "page-436-art-07",
+      "page-436-art-08",
+      "page-437-art-01",
+      "page-437-art-02",
+      "page-437-art-03",
+      "page-437-art-04",
+      "page-437-art-05",
+      "page-437-art-06",
+      "page-437-art-07",
+      "page-437-art-08",
+      "page-438-art-01",
+      "page-438-art-02",
+      "page-438-art-03",
+      "page-438-art-04",
+      "page-438-art-05",
+      "page-438-art-06",
+      "page-438-art-07",
+      "page-438-art-08",
+      "page-439-art-01",
+      "page-439-art-02",
+      "page-439-art-03",
+      "page-439-art-04",
+      "page-439-art-05",
+      "page-439-art-06",
+      "page-440-art-01-item-440-01",
+      "page-440-art-01-item-440-02",
+      "page-440-art-01-item-440-03",
+      "page-440-art-01-item-440-04",
+      "page-440-art-01-item-440-05",
+      "page-440-art-01-item-440-06",
+      "page-440-art-01-item-440-07",
+      "page-440-art-01-item-440-08",
+      "page-441-art-01-item-441-01",
+      "page-441-art-01-item-441-02",
+      "page-441-art-01-item-441-03",
+      "page-441-art-01-item-441-04",
+      "page-441-art-01-item-441-05",
+      "page-441-art-01-item-441-06",
+      "page-441-art-02-item-441-07",
+      "page-441-art-02-item-441-08",
+      "page-442-art-01-item-442-04",
+      "page-442-art-01-item-442-05",
+      "page-442-art-01-item-442-06",
+      "page-442-art-01-item-442-07",
+      "page-442-art-01-item-442-08",
+      "page-443-art-01-item-443-01",
+      "page-443-art-01-item-443-02",
+      "page-443-art-01-item-443-03",
+      "page-443-art-02-item-443-04",
+      "page-443-art-02-item-443-05",
+      "page-443-art-02-item-443-06",
+      "page-443-art-02-item-443-07",
+      "page-443-art-03",
+      "page-444-art-01-item-444-01",
+      "page-444-art-01-item-444-02",
+      "page-444-art-01-item-444-03",
+      "page-444-art-02",
+      "page-444-art-03",
+      "page-444-art-04",
+      "page-444-art-05-item-444-07",
+      "page-444-art-05-item-444-08",
+      "page-445-art-01",
+      "page-445-art-02",
+      "page-445-art-03-item-445-03",
+      "page-445-art-03-item-445-04",
+      "page-445-art-03-item-445-05",
+      "page-445-art-04",
+      "page-445-art-05-item-445-07",
+      "page-445-art-05-item-445-08",
+      "page-446-art-01-item-446-01",
+      "page-446-art-01-item-446-02",
+      "page-446-art-01-item-446-03",
+      "page-446-art-01-item-446-04",
+      "page-446-art-01-item-446-05",
+      "page-446-art-02-item-446-06",
+      "page-446-art-02-item-446-07",
+      "page-446-art-02-item-446-08",
+      "page-447-art-01-item-447-01",
+      "page-447-art-01-item-447-02",
+      "page-447-art-01-item-447-03",
+      "page-447-art-02",
+      "page-447-art-03",
+      "page-447-art-04-item-447-06",
+      "page-447-art-04-item-447-07",
+      "page-447-art-04-item-447-08",
+      "page-448-art-01-item-448-01",
+      "page-448-art-01-item-448-02",
+      "page-448-art-01-item-448-03",
+      "page-448-art-02-item-448-04",
+      "page-448-art-02-item-448-05",
+      "page-448-art-02-item-448-06",
+      "page-448-art-02-item-448-07",
+      "page-448-art-03",
+      "page-449-art-01",
+      "page-449-art-02",
+      "page-449-art-03",
+      "page-449-art-04",
+      "page-449-art-05",
+      "page-450-art-01",
+      "page-450-art-02",
+      "page-450-art-03",
+      "page-450-art-04",
+      "page-450-art-05-item-450-05",
+      "page-450-art-05-item-450-06",
+      "page-451-art-01",
+      "page-451-art-02-item-451-02",
+      "page-451-art-02-item-451-03",
+      "page-451-art-03",
+      "page-451-art-04",
+      "page-451-art-05",
+      "page-452-art-01",
+      "page-452-art-02",
+      "page-452-art-03",
+      "page-452-art-04",
+      "page-452-art-05",
+      "page-452-art-06",
+      "page-452-art-07",
+      "page-452-art-08",
+      "page-453-art-01",
+      "page-453-art-02",
+      "page-453-art-03",
+      "page-453-art-04",
+      "page-453-art-05",
+      "page-453-art-06",
+      "page-453-art-07",
+      "page-453-art-08",
+      "page-454-art-01",
+      "page-454-art-02",
+      "page-454-art-03",
+      "page-454-art-04",
+      "page-454-art-05",
+      "page-454-art-06",
+      "page-454-art-07",
+      "page-454-art-08",
+      "page-455-art-01",
+      "page-455-art-02",
+      "page-455-art-03",
+      "page-455-art-04",
+      "page-455-art-05",
+      "page-455-art-06",
+      "page-455-art-07",
+      "page-455-art-08",
+      "page-456-art-01",
+      "page-456-art-02",
+      "page-456-art-03",
+      "page-456-art-04",
+      "page-456-art-05",
+      "page-456-art-06",
+      "page-456-art-07",
+      "page-456-art-08",
+      "page-457-art-01",
+      "page-457-art-02",
+      "page-457-art-03",
+      "page-457-art-04",
+      "page-457-art-05",
+      "page-457-art-06",
+      "page-457-art-07",
+      "page-457-art-08",
+      "page-458-art-01",
+      "page-458-art-02",
+      "page-458-art-03",
+      "page-458-art-04",
+      "page-459-art-01",
+      "page-459-art-02",
+      "page-459-art-03",
+      "page-459-art-04",
+      "page-460-art-01",
+      "page-460-art-02",
+      "page-460-art-03",
+      "page-460-art-04",
+      "page-460-art-05",
+      "page-460-art-06",
+      "page-460-art-07",
+      "page-460-art-08",
+      "page-461-art-01",
+      "page-461-art-02",
+      "page-461-art-03",
+      "page-461-art-04",
+      "page-461-art-05",
+      "page-461-art-06",
+      "page-461-art-07",
+      "page-461-art-08",
+      "page-462-art-01",
+      "page-462-art-02",
+      "page-462-art-03",
+      "page-462-art-04",
+      "page-462-art-05",
+      "page-462-art-06",
+      "page-462-art-07",
+      "page-463-art-01",
+      "page-463-art-02",
+      "page-463-art-03",
+      "page-463-art-04",
+      "page-463-art-05",
+      "page-463-art-06",
+      "page-463-art-07",
+      "page-463-art-08",
+      "page-464-art-01",
+      "page-464-art-02",
+      "page-464-art-03",
+      "page-464-art-04",
+      "page-464-art-05",
+      "page-464-art-06",
+      "page-465-art-01",
+      "page-465-art-02",
+      "page-465-art-03",
+      "page-466-art-01",
+      "page-466-art-02",
+      "page-466-art-03",
+      "page-466-art-04",
+      "page-466-art-05",
+      "page-466-art-06",
+      "page-467-art-01",
+      "page-467-art-02",
+      "page-467-art-03",
+      "page-467-art-04",
+      "page-467-art-05",
+      "page-467-art-06",
+      "page-467-art-07",
+      "page-468-art-01",
+      "page-468-art-02",
+      "page-468-art-03",
+      "page-468-art-04",
+      "page-468-art-05",
+      "page-468-art-06",
+      "page-468-art-07",
+      "page-469-art-01",
+      "page-469-art-02",
+      "page-469-art-03",
+      "page-469-art-04",
+      "page-469-art-05",
+      "page-469-art-06",
+      "page-470-art-01",
+      "page-470-art-02",
+      "page-470-art-03",
+      "page-470-art-04",
+      "page-470-art-05",
+      "page-470-art-06",
+      "page-470-art-07",
+      "page-470-art-08",
+      "page-471-art-01",
+      "page-471-art-02",
+      "page-471-art-03",
+      "page-471-art-04",
+      "page-471-art-05",
+      "page-471-art-06",
+      "page-472-art-01",
+      "page-472-art-02",
+      "page-472-art-03",
+      "page-472-art-04",
+      "page-472-art-05",
+      "page-472-art-06",
+      "page-472-art-07",
+      "page-473-art-01",
+      "page-473-art-02",
+      "page-473-art-03",
+      "page-474-art-01",
+      "page-474-art-02",
+      "page-474-art-03",
+      "page-474-art-04",
+      "page-474-art-05",
+      "page-474-art-06",
+      "page-475-art-01",
+      "page-475-art-02",
+      "page-475-art-03",
+      "page-475-art-04",
+      "page-475-art-05",
+      "page-475-art-06",
+      "page-475-art-07",
+      "page-476-art-01",
+      "page-476-art-02",
+      "page-476-art-03",
+      "page-476-art-04",
+      "page-476-art-05",
+      "page-476-art-06",
+      "page-476-art-07",
+      "page-477-art-01",
+      "page-477-art-02",
+      "page-477-art-03",
+      "page-477-art-04",
+      "page-477-art-05",
+      "page-477-art-06",
+      "page-477-art-07",
+      "page-477-art-08",
+      "page-478-art-01",
+      "page-478-art-02",
+      "page-478-art-03",
+      "page-478-art-04",
+      "page-478-art-05",
+      "page-478-art-06",
+      "page-478-art-07",
+      "page-478-art-08",
+      "page-479-art-01",
+      "page-479-art-02",
+      "page-479-art-03",
+      "page-479-art-04",
+      "page-479-art-05",
+      "page-479-art-06",
+      "page-480-art-01",
+      "page-480-art-02",
+      "page-480-art-03",
+      "page-480-art-04",
+      "page-480-art-05",
+      "page-480-art-06",
+      "page-480-art-07",
+      "page-481-art-01",
+      "page-481-art-02",
+      "page-481-art-03",
+      "page-481-art-04",
+      "page-481-art-05",
+      "page-481-art-06",
+      "page-481-art-07",
+      "page-482-art-01",
+      "page-482-art-02",
+      "page-482-art-03",
+      "page-482-art-04",
+      "page-482-art-05",
+      "page-482-art-06",
+      "page-482-art-07",
+      "page-482-art-08",
+      "page-482-art-09",
+      "page-483-art-01",
+      "page-483-art-02",
+      "page-483-art-03",
+      "page-483-art-04",
+      "page-483-art-05",
+      "page-483-art-06",
+      "page-483-art-07",
+      "page-484-art-01",
+      "page-484-art-02",
+      "page-484-art-03",
+      "page-484-art-04",
+      "page-484-art-05",
+      "page-484-art-06",
+      "page-484-art-07",
+      "page-484-art-08",
+      "page-485-art-01",
+      "page-485-art-02",
+      "page-485-art-03",
+      "page-485-art-04",
+      "page-485-art-05",
+      "page-485-art-06",
+      "page-485-art-07",
+      "page-486-art-01",
+      "page-486-art-02",
+      "page-486-art-03",
+      "page-486-art-04",
+      "page-486-art-05",
+      "page-486-art-06",
+      "page-486-art-07",
+      "page-487-art-01",
+      "page-488-art-01",
+      "page-488-art-02",
+      "page-488-art-03",
+      "page-488-art-04",
+      "page-488-art-05",
+      "page-488-art-06",
+      "page-488-art-07",
+      "page-489-art-01",
+      "page-489-art-02",
+      "page-489-art-03",
+      "page-489-art-04",
+      "page-489-art-05",
+      "page-489-art-06",
+      "page-490-art-01",
+      "page-490-art-02",
+      "page-490-art-03",
+      "page-490-art-04",
+      "page-490-art-05",
+      "page-490-art-06",
+      "page-490-art-07",
+      "page-491-art-01",
+      "page-491-art-02",
+      "page-491-art-03",
+      "page-491-art-04",
+      "page-491-art-05",
+      "page-491-art-06",
+      "page-491-art-07",
+      "page-492-art-01",
+      "page-492-art-02",
+      "page-492-art-03",
+      "page-492-art-04",
+      "page-492-art-05",
+      "page-492-art-06",
+      "page-493-art-01",
+      "page-493-art-02",
+      "page-493-art-03",
+      "page-493-art-04",
+      "page-493-art-05",
+      "page-493-art-06",
+      "page-493-art-07",
+      "page-494-art-01",
+      "page-494-art-02",
+      "page-494-art-03",
+      "page-494-art-04",
+      "page-494-art-05",
+      "page-495-art-01",
+      "page-495-art-02",
+      "page-495-art-03",
+      "page-496-art-01",
+      "page-496-art-02",
+      "page-496-art-03",
+      "page-496-art-04",
+      "page-496-art-05",
+      "page-496-art-06",
+      "page-496-art-07",
+      "page-497-art-01",
+      "page-497-art-02",
+      "page-497-art-03",
+      "page-497-art-04",
+      "page-497-art-05",
+      "page-497-art-06",
+      "page-498-art-01",
+      "page-498-art-02",
+      "page-498-art-03",
+      "page-498-art-04",
+      "page-498-art-05",
+      "page-498-art-06",
+      "page-498-art-07",
+      "page-499-art-01",
+      "page-499-art-02",
+      "page-499-art-03",
+      "page-499-art-04",
+      "page-499-art-05",
+      "page-499-art-06",
+      "page-500-art-01",
+      "page-500-art-02",
+      "page-500-art-03",
+      "page-500-art-04",
+      "page-500-art-05",
+      "page-500-art-06",
+      "page-501-art-01",
+      "page-502-art-01",
+      "page-502-art-02",
+      "page-502-art-03",
+      "page-502-art-04",
+      "page-502-art-05",
+      "page-503-art-01",
+      "page-503-art-02",
+      "page-503-art-03",
+      "page-503-art-04",
+      "page-503-art-05",
+      "page-504-art-01",
+      "page-504-art-02",
+      "page-504-art-03",
+      "page-504-art-04",
+      "page-504-art-05",
+      "page-504-art-06",
+      "page-504-art-07",
+      "page-505-art-01",
+      "page-505-art-02",
+      "page-505-art-03",
+      "page-505-art-04",
+      "page-505-art-05",
+      "page-505-art-06",
+      "page-505-art-07",
+      "page-506-art-01",
+      "page-506-art-02",
+      "page-506-art-03",
+      "page-506-art-04",
+      "page-506-art-05",
+      "page-506-art-06",
+      "page-506-art-07",
+      "page-507-art-01",
+      "page-507-art-02",
+      "page-507-art-03",
+      "page-507-art-04",
+      "page-507-art-05",
+      "page-507-art-06",
+      "page-507-art-07",
+      "page-508-art-01",
+      "page-508-art-02",
+      "page-509-art-01",
+      "page-509-art-02",
+      "page-509-art-03",
+      "page-509-art-04",
+      "page-509-art-05",
+      "page-509-art-06",
+      "page-510-art-01",
+      "page-510-art-02",
+      "page-510-art-03",
+      "page-510-art-04",
+      "page-510-art-05",
+      "page-510-art-06",
+      "page-510-art-07",
+      "page-511-art-01",
+      "page-511-art-02",
+      "page-511-art-03",
+      "page-511-art-04",
+      "page-511-art-05",
+      "page-511-art-06",
+      "page-511-art-07",
+      "page-512-art-01",
+      "page-512-art-02",
+      "page-512-art-03",
+      "page-512-art-04",
+      "page-512-art-05",
+      "page-512-art-06",
+      "page-512-art-07",
+      "page-513-art-01",
+      "page-513-art-02",
+      "page-513-art-03",
+      "page-513-art-04",
+      "page-513-art-05",
+      "page-513-art-06",
+      "page-513-art-07",
+      "page-514-art-01",
+      "page-514-art-02",
+      "page-514-art-03",
+      "page-514-art-04",
+      "page-515-art-01",
+      "page-515-art-02",
+      "page-515-art-03",
+      "page-515-art-04",
+      "page-515-art-05",
+      "page-515-art-06",
+      "page-515-art-07",
+      "page-516-art-01",
+      "page-516-art-02",
+      "page-516-art-03",
+      "page-516-art-04",
+      "page-516-art-05",
+      "page-516-art-06",
+      "page-516-art-07",
+      "page-517-art-01",
+      "page-517-art-02",
+      "page-517-art-03",
+      "page-518-art-01",
+      "page-518-art-02",
+      "page-518-art-03",
+      "page-518-art-04",
+      "page-518-art-05",
+      "page-518-art-06",
+      "page-518-art-07",
+      "page-519-art-01-item-519-01",
+      "page-519-art-01-item-519-02",
+      "page-519-art-02",
+      "page-519-art-03",
+      "page-519-art-04",
+      "page-519-art-05",
+      "page-519-art-06",
+      "page-520-art-01",
+      "page-520-art-02",
+      "page-520-art-03-item-520-03",
+      "page-520-art-03-item-520-04",
+      "page-520-art-04",
+      "page-520-art-05",
+      "page-520-art-06",
+      "page-521-art-01",
+      "page-521-art-02",
+      "page-521-art-03",
+      "page-521-art-04",
+      "page-521-art-05",
+      "page-521-art-06",
+      "page-521-art-07",
+      "page-522-art-01",
+      "page-522-art-02",
+      "page-522-art-03",
+      "page-522-art-04",
+      "page-522-art-05",
+      "page-522-art-06",
+      "page-522-art-07",
+      "page-523-art-01",
+      "page-523-art-02",
+      "page-523-art-03",
+      "page-523-art-04",
+      "page-523-art-05",
+      "page-523-art-06",
+      "page-523-art-07",
+      "page-524-art-01",
+      "page-524-art-02",
+      "page-524-art-03",
+      "page-524-art-04",
+      "page-524-art-05",
+      "page-524-art-06",
+      "page-524-art-07",
+      "page-524-art-08",
+      "page-525-art-01",
+      "page-525-art-02",
+      "page-525-art-03",
+      "page-525-art-04",
+      "page-525-art-05",
+      "page-525-art-06",
+      "page-526-art-01",
+      "page-526-art-02",
+      "page-526-art-03",
+      "page-526-art-04",
+      "page-526-art-05",
+      "page-526-art-06",
+      "page-527-art-01",
+      "page-527-art-02",
+      "page-527-art-03",
+      "page-527-art-04",
+      "page-527-art-05"
+    ],
+    "reviewMethod": "Codex reviewed all 23 original contact sheets, all additional final instruments and cleaned page-440 silhouettes; final exact-2x/native-padding checks passed for every product photo.",
+    "contactSheets": 23,
+    "additionalFinalSheet": "image-qa/additional-final-images.jpg",
+    "fallbackOriginals": [],
+    "compositesReviewed": 23,
+    "individualPhotosFromComposites": 74,
+    "excludedNonProductArtwork": [
+      {
+        "name": "page-330-art-02",
+        "pdfPage": 330,
+        "bounds": [
+          0.7396418114409248,
+          0.7383001088584158,
+          0.8700577069632399,
+          0.8374816902294346
+        ],
+        "originalSize": [
+          121,
+          129
+        ],
+        "nativeDpi": 151,
+        "captionFree": true,
+        "sourceMethod": "Native embedded photo tiles reassembled with original transforms; outlined text removed in temporary PDF only",
+        "reason": "Catalog QR code, not a product image"
+      },
+      {
+        "name": "page-331-art-02",
+        "pdfPage": 331,
+        "bounds": [
+          0.7577731838879179,
+          0.7383001088584158,
+          0.8881890794102331,
+          0.8374816902294346
+        ],
+        "originalSize": [
+          120,
+          129
+        ],
+        "nativeDpi": 151,
+        "captionFree": true,
+        "sourceMethod": "Native embedded photo tiles reassembled with original transforms; outlined text removed in temporary PDF only",
+        "reason": "Catalog QR code, not a product image"
+      },
+      {
+        "name": "page-332-art-03",
+        "pdfPage": 332,
+        "bounds": [
+          0.7396418114409248,
+          0.7971951193053602,
+          0.8700577069632399,
+          0.8963767006763792
+        ],
+        "originalSize": [
+          121,
+          128
+        ],
+        "nativeDpi": 151,
+        "captionFree": true,
+        "sourceMethod": "Native embedded photo tiles reassembled with original transforms; outlined text removed in temporary PDF only",
+        "reason": "Catalog QR code, not a product image"
+      },
+      {
+        "name": "page-341-art-02",
+        "pdfPage": 341,
+        "bounds": [
+          0.13373817510848565,
+          0.8374794011971042,
+          0.26764662739927786,
+          0.9393170562566518
+        ],
+        "originalSize": [
+          123,
+          131
+        ],
+        "nativeDpi": 150,
+        "captionFree": true,
+        "sourceMethod": "Native embedded photo tiles reassembled with original transforms; outlined text removed in temporary PDF only",
+        "reason": "Catalog QR code, not a product image"
+      },
+      {
+        "name": "page-342-art-02",
+        "pdfPage": 342,
+        "bounds": [
+          0.11124522195077073,
+          0.7356706078495496,
+          0.2451536655228132,
+          0.8375082629090973
+        ],
+        "originalSize": [
+          123,
+          132
+        ],
+        "nativeDpi": 150,
+        "captionFree": true,
+        "sourceMethod": "Native embedded photo tiles reassembled with original transforms; outlined text removed in temporary PDF only",
+        "reason": "Catalog QR code, not a product image"
+      },
+      {
+        "name": "page-343-art-02",
+        "pdfPage": 343,
+        "bounds": [
+          0.13043804986538948,
+          0.7356706078495496,
+          0.26434649343743194,
+          0.8375082629090973
+        ],
+        "originalSize": [
+          123,
+          132
+        ],
+        "nativeDpi": 150,
+        "captionFree": true,
+        "sourceMethod": "Native embedded photo tiles reassembled with original transforms; outlined text removed in temporary PDF only",
+        "reason": "Catalog QR code, not a product image"
+      },
+      {
+        "name": "page-348-art-02",
+        "pdfPage": 348,
+        "bounds": [
+          0.11164153271993325,
+          0.7358528347276858,
+          0.24531001014304468,
+          0.8375080638628077
+        ],
+        "originalSize": [
+          124,
+          132
+        ],
+        "nativeDpi": 151,
+        "captionFree": true,
+        "sourceMethod": "Native embedded photo tiles reassembled with original transforms; outlined text removed in temporary PDF only",
+        "reason": "Catalog QR code, not a product image"
+      },
+      {
+        "name": "page-349-art-03",
+        "pdfPage": 349,
+        "bounds": [
+          0.13051164483189484,
+          0.7358528347276858,
+          0.2641801048175068,
+          0.8375080638628077
+        ],
+        "originalSize": [
+          124,
+          132
+        ],
+        "nativeDpi": 151,
+        "captionFree": true,
+        "sourceMethod": "Native embedded photo tiles reassembled with original transforms; outlined text removed in temporary PDF only",
+        "reason": "Catalog QR code, not a product image"
+      },
+      {
+        "name": "page-356-art-02",
+        "pdfPage": 356,
+        "bounds": [
+          0.11486876049650281,
+          0.734622430088474,
+          0.25015540299526023,
+          0.8375082629090973
+        ],
+        "originalSize": [
+          125,
+          133
+        ],
+        "nativeDpi": 150,
+        "captionFree": true,
+        "sourceMethod": "Native embedded photo tiles reassembled with original transforms; outlined text removed in temporary PDF only",
+        "reason": "Catalog QR code, not a product image"
+      },
+      {
+        "name": "page-357-art-02",
+        "pdfPage": 357,
+        "bounds": [
+          0.13938353068630233,
+          0.734622430088474,
+          0.2746701906225592,
+          0.8375082629090973
+        ],
+        "originalSize": [
+          124,
+          133
+        ],
+        "nativeDpi": 150,
+        "captionFree": true,
+        "sourceMethod": "Native embedded photo tiles reassembled with original transforms; outlined text removed in temporary PDF only",
+        "reason": "Catalog QR code, not a product image"
+      },
+      {
+        "name": "page-358-art-02",
+        "pdfPage": 358,
+        "bounds": [
+          0.11412709133162371,
+          0.734622430088474,
+          0.2494137512678806,
+          0.8375082629090973
+        ],
+        "originalSize": [
+          124,
+          133
+        ],
+        "nativeDpi": 150,
+        "captionFree": true,
+        "sourceMethod": "Native embedded photo tiles reassembled with original transforms; outlined text removed in temporary PDF only",
+        "reason": "Catalog QR code, not a product image"
+      },
+      {
+        "name": "page-373-art-03",
+        "pdfPage": 373,
+        "bounds": [
+          0.13470611326646353,
+          0.8374794011971042,
+          0.26800979820070114,
+          0.9388572593276575
+        ],
+        "originalSize": [
+          123,
+          131
+        ],
+        "nativeDpi": 151,
+        "captionFree": true,
+        "sourceMethod": "Native embedded photo tiles reassembled with original transforms; outlined text removed in temporary PDF only",
+        "reason": "Catalog QR code, not a product image"
+      },
+      {
+        "name": "page-349-art-02",
+        "pdfPage": 349,
+        "bounds": [
+          0.553068588381408,
+          0.17939232212775708,
+          0.9031558944537452,
+          0.19293273210738068
+        ],
+        "originalSize": [
+          455,
+          26
+        ],
+        "nativeDpi": 213,
+        "captionFree": true,
+        "sourceMethod": "Native embedded photo tiles reassembled with original transforms; outlined text removed in temporary PDF only",
+        "reason": "Empty overlapping white raster tile with an edge fragment; not a separate product photo (visually checked against PDF p349)"
+      }
+    ],
+    "checks": "image-qa-checks.json"
+  },
+  "openRealFlags": [],
+  "randomSample": [
+    {
+      "system": {
+        "ru": "Набор инструментов для безголовочных компрессионных винтов 4.5 мм",
+        "en": "4.5mm Headless Compression Screw Instrument Set"
+      },
+      "slug": "4-5mm-headless-compression-screw-instrument-set",
+      "pdfPage": 263,
+      "printedPage": "5/53",
+      "REF": "110191200",
+      "size": {
+        "ru": "Ключ, для Фиксирующая втулка",
+        "en": "Wrench, for Fixation Sleeve"
+      }
+    },
+    {
+      "system": {
+        "ru": "Пластина с втулкой для динамического бедренного винта (DHS)",
+        "en": "Barrel Plate(Dynamic Hip Screw)"
+      },
+      "slug": "barrel-plate-dynamic-hip-screw",
+      "pdfPage": 308,
+      "printedPage": "7/2",
+      "REF": "050010006",
+      "size": {
+        "ru": "Пластина с втулкой для динамического бедренного винта (DHS) · Отверстия: 6, Длина: 145.8",
+        "en": "Barrel Plate(Dynamic Hip Screw) · Holes: 6, Length: 145.8"
+      }
+    },
+    {
+      "system": {
+        "ru": "Компрессионный проксимальный бедренный штифт, длинный",
+        "en": "Proximal Femoral Compression Nail, long"
+      },
+      "slug": "proximal-femoral-compression-nail-long",
+      "pdfPage": 335,
+      "printedPage": "8/15",
+      "REF": "079911340 / 079912340",
+      "size": {
+        "ru": "Компрессионный проксимальный бедренный штифт, длинный · Диаметр: 10, Длина: 340",
+        "en": "Proximal Femoral Compression Nail, long · Diameter: 10, Length: 340"
+      }
+    },
+    {
+      "system": {
+        "ru": "Дистальный бедренный штифт II",
+        "en": "Distal Femoral Nail II"
+      },
+      "slug": "distal-femoral-nail-ii",
+      "pdfPage": 348,
+      "printedPage": "8/28",
+      "REF": "071010160",
+      "size": {
+        "ru": "Дистальный бедренный штифт II · Диаметр: 11, Длина: 160",
+        "en": "Distal Femoral Nail II · Diameter: 11, Length: 160"
+      }
+    },
+    {
+      "system": {
+        "ru": "Набор инструментов для штифтов костей предплечья",
+        "en": "Forearm Nail Instrument Set"
+      },
+      "slug": "forearm-nail-instrument-set",
+      "pdfPage": 512,
+      "printedPage": "8/192",
+      "REF": "115311500",
+      "size": {
+        "ru": "Защитная втулка для штифта костей предплечья, Ø8.0/Ø5.0",
+        "en": "Forearm Nail Protection Sleeve, Ø8.0/Ø5.0"
+      }
+    },
+    {
+      "system": {
+        "ru": "Набор инструментов для длинного проксимального бедренного штифта / шеечного винта Aimstrong 130°",
+        "en": "Aimstrong Proximal Femoral Nail/Lag Screw 130° Instrument Set (Long Nail)"
+      },
+      "slug": "aimstrong-proximal-femoral-nail-lag-screw-130-instrument-set-long-nail",
+      "pdfPage": 403,
+      "printedPage": "8/83",
+      "REF": "112537000",
+      "size": {
+        "ru": "Гибкое Отвёртка, со шлицем Torx, T40, для торцевой заглушки",
+        "en": "Flexible Screwdriver, torxdrive, T40, for End Cap"
+      }
+    },
+    {
+      "system": {
+        "ru": "4.5 мм Безголовочный компрессионный винт II",
+        "en": "4.5mm Headless Compression Screw II"
+      },
+      "slug": "4-5mm-headless-compression-screw-ii",
+      "pdfPage": 229,
+      "printedPage": "5/19",
+      "REF": "060620022",
+      "size": {
+        "ru": "4.5 мм Безголовочный компрессионный винт II · Длина: 22",
+        "en": "4.5mm Headless Compression Screw II · Length: 22"
+      }
+    },
+    {
+      "system": {
+        "ru": "4.9 мм Блокируемый винт, с удерживающей фиксацией",
+        "en": "4.9mm Locking Screw, self-retaining"
+      },
+      "slug": "4-9mm-locking-screw-self-retaining",
+      "pdfPage": 345,
+      "printedPage": "8/25",
+      "REF": "078250068",
+      "size": {
+        "ru": "4.9 мм Блокируемый винт, с удерживающей фиксацией · Длина: 68",
+        "en": "4.9mm Locking Screw, self-retaining · Length: 68"
+      }
+    },
+    {
+      "system": {
+        "ru": "3.0 мм Безголовочный компрессионный винт II",
+        "en": "3.0mm Headless Compression Screw II"
+      },
+      "slug": "3-0mm-headless-compression-screw-ii",
+      "pdfPage": 227,
+      "printedPage": "5/17",
+      "REF": "061070014",
+      "size": {
+        "ru": "3.0 мм Безголовочный компрессионный винт II · Длина: 14",
+        "en": "3.0mm Headless Compression Screw II · Length: 14"
+      }
+    },
+    {
+      "system": {
+        "ru": "3.0 мм Канюлированный винт",
+        "en": "3.0mm Cannulated Screw"
+      },
+      "slug": "3-0mm-cannulated-screw",
+      "pdfPage": 223,
+      "printedPage": "5/13",
+      "REF": "060010014",
+      "size": {
+        "ru": "3.0 мм Канюлированный винт · Длина: 14",
+        "en": "3.0mm Cannulated Screw · Length: 14"
+      }
+    },
+    {
+      "system": {
+        "ru": "Большой шеечный винт для пластины с втулкой",
+        "en": "Big Lag Screw for Barrel Plate"
+      },
+      "slug": "big-lag-screw-for-barrel-plate",
+      "pdfPage": 309,
+      "printedPage": "7/3",
+      "REF": "050040105",
+      "size": {
+        "ru": "Большой шеечный винт для пластины с втулкой · Длина: 105",
+        "en": "Big Lag Screw for Barrel Plate · Length: 105"
+      }
+    },
+    {
+      "system": {
+        "ru": "2.4 мм Кортикальный винт, со шлицем Torx, самонарезающий",
+        "en": "2.4mm Cortex Screw, torxdrive, self-tapping"
+      },
+      "slug": "2-4mm-cortex-screw-torxdrive-self-tapping",
+      "pdfPage": 294,
+      "printedPage": "6/18",
+      "REF": "030350014",
+      "size": {
+        "ru": "2.4 мм Кортикальный винт, со шлицем Torx, самонарезающий · Длина: 14",
+        "en": "2.4mm Cortex Screw, torxdrive, self-tapping · Length: 14"
+      }
+    },
+    {
+      "system": {
+        "ru": "Спиральный клинок для дистального бедренного штифта II",
+        "en": "Spiral Blade for Distal Femoral Nail II"
+      },
+      "slug": "spiral-blade-for-distal-femoral-nail-ii",
+      "pdfPage": 351,
+      "printedPage": "8/31",
+      "REF": "071100075",
+      "size": {
+        "ru": "Спиральный клинок для дистального бедренного штифта II · Длина: 75",
+        "en": "Spiral Blade for Distal Femoral Nail II · Length: 75"
+      }
+    },
+    {
+      "system": {
+        "ru": "Дистальный бедренный штифт II",
+        "en": "Distal Femoral Nail II"
+      },
+      "slug": "distal-femoral-nail-ii",
+      "pdfPage": 348,
+      "printedPage": "8/28",
+      "REF": "071020200",
+      "size": {
+        "ru": "Дистальный бедренный штифт II · Диаметр: 12, Длина: 200",
+        "en": "Distal Femoral Nail II · Diameter: 12, Length: 200"
+      }
+    },
+    {
+      "system": {
+        "ru": "2.7 мм Кортикальный винт, со шлицем Torx, самонарезающий",
+        "en": "2.7mm Cortex Screw, torxdrive, self-tapping"
+      },
+      "slug": "2-7mm-cortex-screw-torxdrive-self-tapping",
+      "pdfPage": 296,
+      "printedPage": "6/20",
+      "REF": "040150013",
+      "size": {
+        "ru": "2.7 мм Кортикальный винт, со шлицем Torx, самонарезающий · Длина: 13",
+        "en": "2.7mm Cortex Screw, torxdrive, self-tapping · Length: 13"
+      }
+    },
+    {
+      "system": {
+        "ru": "2.7 мм Блокируемый винт, со шлицем Torx, самонарезающий",
+        "en": "2.7mm Locking Screw, torxdrive, self-tapping"
+      },
+      "slug": "2-7mm-locking-screw-torxdrive-self-tapping",
+      "pdfPage": 295,
+      "printedPage": "6/19",
+      "REF": "030340010",
+      "size": {
+        "ru": "2.7 мм Блокируемый винт, со шлицем Torx, самонарезающий · Длина: 10",
+        "en": "2.7mm Locking Screw, torxdrive, self-tapping · Length: 10"
+      }
+    },
+    {
+      "system": {
+        "ru": "Набор инструментов для короткого проксимального бедренного штифта Aimstrong 130°",
+        "en": "Aimstrong Proximal Femoral Nail (130°) Instrument Set (Short Nail)"
+      },
+      "slug": "aimstrong-proximal-femoral-nail-130-instrument-set-short-nail",
+      "pdfPage": 393,
+      "printedPage": "8/73",
+      "REF": "111770600",
+      "size": {
+        "ru": "Соединительный стержень, для импакции спирального клинка и шеечного винта Aimstrong",
+        "en": "Connecting Shaft, for Impacting Aimstrong Spiral Blade and Lag Screw"
+      }
+    },
+    {
+      "system": {
+        "ru": "3.6 мм Блокируемый винт для плечевого штифта",
+        "en": "3.6mm Locking Screw for Humeral Nail"
+      },
+      "slug": "3-6mm-locking-screw-for-humeral-nail",
+      "pdfPage": 352,
+      "printedPage": "8/32",
+      "REF": "070280026",
+      "size": {
+        "ru": "3.6 мм Блокируемый винт для плечевого штифта · Длина: 26",
+        "en": "3.6mm Locking Screw for Humeral Nail · Length: 26"
+      }
+    },
+    {
+      "system": {
+        "ru": "4.5 мм Блокируемый винт для усовершенствованного плечевого штифта",
+        "en": "4.5mm Locking Screw for Advanced Humeral Nail"
+      },
+      "slug": "4-5mm-locking-screw-for-advanced-humeral-nail",
+      "pdfPage": 357,
+      "printedPage": "8/37",
+      "REF": "075484548",
+      "size": {
+        "ru": "4.5 мм Блокируемый винт для усовершенствованного плечевого штифта · Длина: 48",
+        "en": "4.5mm Locking Screw for Advanced Humeral Nail · Length: 48"
+      }
+    },
+    {
+      "system": {
+        "ru": "Дистальный бедренный штифт II",
+        "en": "Distal Femoral Nail II"
+      },
+      "slug": "distal-femoral-nail-ii",
+      "pdfPage": 348,
+      "printedPage": "8/28",
+      "REF": "071020260",
+      "size": {
+        "ru": "Дистальный бедренный штифт II · Диаметр: 12, Длина: 260",
+        "en": "Distal Femoral Nail II · Diameter: 12, Length: 260"
+      }
+    }
+  ],
+  "randomSampleSeed": 20261121,
+  "publicationDate": "2026-11-20T20:31:18.324056+00:00",
+  "sourceCatalogCorrections": [],
+  "deduplication": {
+    "method": "Compare every family against all existing Double Medical names (normalized tokens) and all implant REF codes; shared tools alone do not merge instrument sets",
+    "overlaps": [
+      {
+        "sourceName": {
+          "ru": "2.4 мм Блокируемый винт, самонарезающий, со шлицем Torx",
+          "en": "2.4mm Locking Screw, self-tapping, torxdrive"
+        },
+        "sourcePages": [
+          293
+        ],
+        "refMatches": {
+          "2-4mm-locking-screw-self-tapping-torxdrive": 20
+        }
+      }
+    ],
+    "merged": [
+      {
+        "slug": "2-4mm-locking-screw-self-tapping-torxdrive",
+        "name": {
+          "ru": "2.4 мм Блокируемый винт, самонарезающий, со шлицем Torx",
+          "en": "2.4mm Locking Screw, self-tapping, torxdrive"
+        },
+        "matchedBy": "name + REF",
+        "sourcePages": [
+          293
+        ]
+      },
+      {
+        "slug": "uhn-universal-humeral-nail",
+        "name": {
+          "ru": "Универсальный штифт UHN",
+          "en": "UHN universal humeral nail"
+        },
+        "matchedBy": "name",
+        "sourcePages": [
+          352
+        ]
+      }
+    ]
+  },
+  "sourceReadingNotes": [
+    {
+      "pdfPage": 255,
+      "REF": "112552800",
+      "printed": "Ø14/Ø0.95",
+      "action": "Retained exactly as printed; no decimal correction inferred. Source-reading review resolved."
+    }
+  ],
+  "validation": {
+    "build": "passed",
+    "publishedSiteSystems": 655,
+    "tests": {
+      "javascript": 101,
+      "python": 31,
+      "total": 132,
+      "failed": 0,
+      "skipped": 0
+    },
+    "localhostRoutesChecked": 8
+  }
+}

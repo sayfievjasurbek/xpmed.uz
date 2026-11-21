@@ -1,0 +1,106 @@
+{
+  "id": 41,
+  "bounds": [
+    0.8199960868714538,
+    0.41501535026514097,
+    0.9170416748190178,
+    0.43469159921853195
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "AVELG53SA",
+      "confidence": 51.328354,
+      "words": [
+        {
+          "text": "AVELG53SA",
+          "confidence": 51.328354,
+          "pixelBounds": [
+            4271,
+            3024,
+            4628,
+            3085
+          ],
+          "lineId": "9.3.2",
+          "bounds": [
+            0.8356486010565447,
+            0.4219927435110243,
+            0.9054979456075132,
+            0.43050516327100197
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "AVELGS35A",
+      "confidence": 51.778759,
+      "words": [
+        {
+          "text": "AVELGS35A",
+          "confidence": 51.778759,
+          "pixelBounds": [
+            4271,
+            3024,
+            4628,
+            3085
+          ],
+          "lineId": "47.1.1",
+          "bounds": [
+            0.8356486010565447,
+            0.4219927435110243,
+            0.9054979456075132,
+            0.43050516327100197
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": ".. .AVELGS35A",
+      "confidence": 58.176254,
+      "words": [
+        {
+          "text": "..",
+          "confidence": 58.176254,
+          "pixelBounds": [
+            6,
+            102,
+            52,
+            110
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": ".AVELGS35A",
+          "confidence": 58.176254,
+          "pixelBounds": [
+            66,
+            50,
+            437,
+            111
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": ".AVELGS3SA-",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": ".AVELGS3SA-",
+          "confidence": 0.0,
+          "pixelBounds": [
+            6,
+            50,
+            437,
+            111
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

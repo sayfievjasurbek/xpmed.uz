@@ -1,0 +1,164 @@
+{
+  "pdfPage": 112,
+  "officialPage": 141,
+  "alignment": [
+    [
+      0.9702098278729288,
+      0.0011422828794580018,
+      0.014582242843046928
+    ],
+    [
+      0.0002576553891191475,
+      0.9755929763755217,
+      0.011688312550772623
+    ]
+  ],
+  "alignmentMatches": 25,
+  "alignmentInliers": 25,
+  "category": "arthroscopy-electrosurgery",
+  "title": {
+    "en": "LightWave Ablators",
+    "ru": "Абляторы LightWave"
+  },
+  "groups": [
+    {
+      "title": "LightWave Suction Ablators",
+      "page": 112,
+      "officialPage": 141,
+      "headingBounds": [
+        0.10033198240258831,
+        0.15631300286134125,
+        0.31485590829449295,
+        0.17106544478491587
+      ],
+      "rows": [
+        {
+          "description": "3.2mm dia. x 150mm Length, 90° Angle",
+          "codes": [
+            {
+              "candidate": "IA-2379",
+              "sourceBounds": [
+                0.5241144012011122,
+                0.28195549517746815,
+                0.5665615771375614,
+                0.29450535188944954
+              ],
+              "officialBounds": [
+                321.208984375,
+                219.29689025878906,
+                347.97503662109375,
+                229.47589111328125
+              ],
+              "officialCode": "IA-2379"
+            }
+          ],
+          "rowBounds": [
+            0.10047515659265238,
+            0.28184299071577346,
+            0.5665615771375614,
+            0.29450535188944954
+          ],
+          "pdfPage": 112,
+          "officialPage": 141
+        },
+        {
+          "description": "3.2mm dia. x 150mm Length, 90° Angle, Foot Control",
+          "codes": [
+            {
+              "candidate": "IA-2379-FC",
+              "sourceBounds": [
+                0.5049737081773507,
+                0.29981043860251333,
+                0.5665981154205227,
+                0.31236538814787224
+              ],
+              "officialBounds": [
+                309.12200927734375,
+                233.79591369628906,
+                347.9848937988281,
+                243.97491455078125
+              ],
+              "officialCode": "IA-2379-FC"
+            }
+          ],
+          "rowBounds": [
+            0.10049605004900698,
+            0.2997030228194517,
+            0.5665981154205227,
+            0.31236538814787224
+          ],
+          "pdfPage": 112,
+          "officialPage": 141
+        },
+        {
+          "description": "4.0mm dia. x 135mm Length, 90° Angle, Suction",
+          "codes": [
+            {
+              "candidate": "IA-2000-S",
+              "sourceBounds": [
+                0.5114008829688904,
+                0.31767217200096604,
+                0.5666332506884966,
+                0.330225424033701
+              ],
+              "officialBounds": [
+                313.16302490234375,
+                248.29493713378906,
+                347.9938659667969,
+                258.47393798828125
+              ],
+              "officialCode": "IA-2000-S"
+            }
+          ],
+          "rowBounds": [
+            0.10051698583771036,
+            0.31756305493437204,
+            0.5666332506884966,
+            0.330225424033701
+          ],
+          "pdfPage": 112,
+          "officialPage": 141
+        },
+        {
+          "description": "4.0mm dia. x 165mm Length, 90° Angle, Suction",
+          "codes": [
+            {
+              "candidate": "EL-2000-S",
+              "sourceBounds": [
+                0.510451585535892,
+                0.3355319652501973,
+                0.5666412932532627,
+                0.34808545272461083
+              ],
+              "officialBounds": [
+                312.551025390625,
+                262.7939758300781,
+                347.9857482910156,
+                272.97296142578125
+              ],
+              "officialCode": "EL-2000-S"
+            }
+          ],
+          "rowBounds": [
+            0.10053792164842111,
+            0.3354231058452109,
+            0.5666412932532627,
+            0.34808545272461083
+          ],
+          "pdfPage": 112,
+          "officialPage": 141
+        }
+      ],
+      "features": [],
+      "notes": [
+        "The LightWave® design incorporates a one-piece molded handle, which is plugged",
+        "directly into the monopolar port of a standard electrosurgical generator. The LightWave",
+        "Foot Control utilizes a generator adapter to connect to the monopolar “foot control”",
+        "port of the generator. The LightWave Suction Ablator features hand controls, adjustable",
+        "roller clamp suction control and a universal suction tubing adapter."
+      ],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 4
+}

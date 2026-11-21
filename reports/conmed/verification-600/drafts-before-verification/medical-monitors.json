@@ -1,0 +1,1844 @@
+{
+  "schemaVersion": 1,
+  "slug": "medical-monitors",
+  "brand": "conmed",
+  "category": "endoscopy-visualization",
+  "subcategory": "",
+  "subcategories": [],
+  "specialty": [],
+  "name": {
+    "ru": "Медицинские мониторы",
+    "en": "Medical Monitors"
+  },
+  "shortDescription": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "Мониторы 4K\nСистема CONMED 4K обеспечивает надёжную работу и яркое изображение, давая хирургам необходимую в операционной глубину и чёткость визуализации.\n\nМедицинские HD LED-мониторы\nМедицинские HD-мониторы 26\" и 32\" со светодиодной подсветкой и беспроводная система.",
+    "en": "4K MONITORS\nCONMED’s 4K System provides dependable performance and a vivid image, allowing surgeons the depth and clarity needed in the OR.\n\nHD LED Monitor\n26\" and 32\" HD LED Backlit Medical Grade Monitors & Wireless System"
+  },
+  "heroImage": "/images/products/conmed/medical-monitors/page-006-photo-dadec882.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "methodVersion": 3,
+      "inputFingerprint": "b3ed3f0384ed4d78374b89c21359a5379d79cca7518ef5d9e84e3736317f51fe",
+      "maskMethod": "rembg plus edge-connected white-background restoration; exact source pixels retained",
+      "src": "/images/products/conmed/medical-monitors/page-006-photo-dadec882.webp",
+      "imageType": "cutout",
+      "imageCaption": {
+        "ru": "LMD-X310MD",
+        "en": "LMD-X310MD"
+      },
+      "width": 1014,
+      "height": 844,
+      "maskCoverage": 1.0,
+      "pdfPage": 6,
+      "printedPage": 4,
+      "sourceBounds": [
+        0.630869,
+        0.163248,
+        0.909624,
+        0.326496
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "methodVersion": 3,
+      "inputFingerprint": "8e0767a3babd2d4ba92d8fbefcc906b068a67842bff4bad631aaed86bed92991",
+      "maskMethod": "rembg plus edge-connected white-background restoration; exact source pixels retained",
+      "src": "/images/products/conmed/medical-monitors/page-006-photo-aea2a4b8.webp",
+      "imageType": "cutout",
+      "imageCaption": {
+        "ru": "VP4932",
+        "en": "VP4932"
+      },
+      "width": 1028,
+      "height": 901,
+      "maskCoverage": 1.0,
+      "pdfPage": 6,
+      "printedPage": 4,
+      "sourceBounds": [
+        0.630869,
+        0.366262,
+        0.92723,
+        0.545835
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "methodVersion": 3,
+      "inputFingerprint": "996a5779091b740f59b62b185b96f8caf25f567ac7968d5c715a8765c4e624ef",
+      "maskMethod": "rembg plus edge-connected white-background restoration; exact source pixels retained",
+      "src": "/images/products/conmed/medical-monitors/page-006-photo-d3ae967a.webp",
+      "imageType": "cutout",
+      "imageCaption": {
+        "ru": "Чехол для LCD-монитора",
+        "en": "LCD Monitor Cover"
+      },
+      "width": 1114,
+      "height": 929,
+      "maskCoverage": 1.0,
+      "pdfPage": 6,
+      "printedPage": 4,
+      "sourceBounds": [
+        0.622066,
+        0.619506,
+        0.930164,
+        0.806614
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    }
+  ],
+  "features": [
+    {
+      "title": {
+        "ru": "Защита при хранении",
+        "en": "Protection when not in use"
+      },
+      "text": {
+        "ru": "Защищает оборудование, когда оно не используется.",
+        "en": "Protects your investment when not in use"
+      },
+      "sourceBounds": [
+        0.106221,
+        0.652156,
+        0.569249,
+        0.665132
+      ],
+      "id": "lcd-monitor-covers-feature-1",
+      "image": null,
+      "groupId": "lcd-monitor-covers",
+      "sourcePages": [
+        6
+      ],
+      "pdfPage": 6,
+      "printedPage": 4,
+      "coordinateSpace": "normalized",
+      "path": null
+    }
+  ],
+  "components": [
+    {
+      "id": "4k-monitors-item-1",
+      "groupId": "4k-monitors",
+      "name": {
+        "ru": "Медицинский монитор SONY 31\"",
+        "en": "SONY 31\" Medical Monitor"
+      },
+      "image": "/images/products/conmed/medical-monitors/page-006-photo-dadec882.webp",
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "LMD-X310MD",
+          "pass2": "LMD-X310MD",
+          "confidence1": 87.893364,
+          "confidence2": 80.624214,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "LMD-X310MD",
+          "sourceBounds": [
+            0.49471830985915494,
+            0.23524487233151947,
+            0.5671948356807511,
+            0.24340728338216827
+          ],
+          "pdfPage": 6,
+          "printedPage": 4,
+          "system": "medical-monitors",
+          "group": "4k-monitors",
+          "componentId": "4k-monitors-item-1",
+          "tableId": "4k-monitors",
+          "row": 1,
+          "column": 2,
+          "path": "specTables.0.rows.0.1"
+        }
+      ],
+      "sourcePages": [
+        6
+      ],
+      "showInGrid": true,
+      "pdfPage": 6,
+      "printedPage": 4,
+      "sourceBounds": [
+        0.099765,
+        0.232733,
+        0.575117,
+        0.24571
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "4k-monitors-item-2",
+      "groupId": "4k-monitors",
+      "name": {
+        "ru": "Монитор 4K UHD, 32\"",
+        "en": "4K UHD Monitor, 32\""
+      },
+      "image": "/images/products/conmed/medical-monitors/page-006-photo-aea2a4b8.webp",
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "PAQS2",
+          "pass2": "PAQS2",
+          "confidence1": 23.970766,
+          "confidence2": 22.876549,
+          "flagged": true,
+          "reasons": [
+            "low-confidence",
+            "source-transcription-disagreement"
+          ],
+          "printedCandidate": "VP4932",
+          "sourceBounds": [
+            0.5366784037558685,
+            0.2524068647969862,
+            0.568368544600939,
+            0.2641272498953537
+          ],
+          "pdfPage": 6,
+          "printedPage": 4,
+          "system": "medical-monitors",
+          "group": "4k-monitors",
+          "componentId": "4k-monitors-item-2",
+          "tableId": "4k-monitors",
+          "row": 2,
+          "column": 2,
+          "path": "specTables.0.rows.1.1"
+        }
+      ],
+      "sourcePages": [
+        6
+      ],
+      "showInGrid": true,
+      "pdfPage": 6,
+      "printedPage": 4,
+      "sourceBounds": [
+        0.099765,
+        0.250314,
+        0.575117,
+        0.26329
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "hd-led-monitors-item-1",
+      "groupId": "hd-led-monitors",
+      "name": {
+        "ru": "HD LED-монитор 26”",
+        "en": "26” High Definition LED Monitor"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "VP4826",
+          "pass2": "VP4826",
+          "confidence1": 88.311234,
+          "confidence2": 32.051361,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP4826",
+          "sourceBounds": [
+            0.5249413145539906,
+            0.3627040602762662,
+            0.5660211267605634,
+            0.3706571787358727
+          ],
+          "pdfPage": 6,
+          "printedPage": 4,
+          "system": "medical-monitors",
+          "group": "hd-led-monitors",
+          "componentId": "hd-led-monitors-item-1",
+          "tableId": "hd-led-monitors",
+          "row": 1,
+          "column": 2,
+          "path": "specTables.1.rows.0.1"
+        }
+      ],
+      "sourcePages": [
+        6
+      ],
+      "showInGrid": false,
+      "pdfPage": 6,
+      "printedPage": 4,
+      "sourceBounds": [
+        0.099765,
+        0.359983,
+        0.575117,
+        0.372959
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "hd-led-monitors-item-2",
+      "groupId": "hd-led-monitors",
+      "name": {
+        "ru": "HD LED-монитор 32”",
+        "en": "32” High Definition LED Monitor"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "VP4832",
+          "pass2": "VP4832",
+          "confidence1": 82.604706,
+          "confidence2": 80.397461,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP4832",
+          "sourceBounds": [
+            0.5246478873239436,
+            0.37944746755964837,
+            0.5657276995305164,
+            0.3876098786102972
+          ],
+          "pdfPage": 6,
+          "printedPage": 4,
+          "system": "medical-monitors",
+          "group": "hd-led-monitors",
+          "componentId": "hd-led-monitors-item-2",
+          "tableId": "hd-led-monitors",
+          "row": 2,
+          "column": 2,
+          "path": "specTables.1.rows.1.1"
+        }
+      ],
+      "sourcePages": [
+        6
+      ],
+      "showInGrid": false,
+      "pdfPage": 6,
+      "printedPage": 4,
+      "sourceBounds": [
+        0.099765,
+        0.377145,
+        0.575117,
+        0.390121
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "wireless-options-item-1",
+      "groupId": "wireless-options",
+      "name": {
+        "ru": "Беспроводной комплект HD",
+        "en": "HD Wireless Kit"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "WIS1000",
+          "pass2": "WIS1000",
+          "confidence1": 91.33728,
+          "confidence2": 88.452171,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "WIS1000",
+          "sourceBounds": [
+            0.5184859154929577,
+            0.44139807450816243,
+            0.5657276995305164,
+            0.44956048555881123
+          ],
+          "pdfPage": 6,
+          "printedPage": 4,
+          "system": "medical-monitors",
+          "group": "wireless-options",
+          "componentId": "wireless-options-item-1",
+          "tableId": "wireless-options",
+          "row": 1,
+          "column": 2,
+          "path": "specTables.2.rows.0.1"
+        }
+      ],
+      "sourcePages": [
+        6
+      ],
+      "showInGrid": false,
+      "pdfPage": 6,
+      "printedPage": 4,
+      "sourceBounds": [
+        0.099765,
+        0.438677,
+        0.575117,
+        0.451653
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "wireless-options-item-2",
+      "groupId": "wireless-options",
+      "name": {
+        "ru": "Беспроводной комплект HD с преобразователем сигнала",
+        "en": "HD Wireless Kit w/ Signal Conditioner"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "WIS1000-1001",
+          "pass2": "WIS1000-1001",
+          "confidence1": 89.597328,
+          "confidence2": 90.183998,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "WIS1000-1001",
+          "sourceBounds": [
+            0.4867957746478873,
+            0.45814148179154457,
+            0.5636737089201878,
+            0.46651318543323567
+          ],
+          "pdfPage": 6,
+          "printedPage": 4,
+          "system": "medical-monitors",
+          "group": "wireless-options",
+          "componentId": "wireless-options-item-2",
+          "tableId": "wireless-options",
+          "row": 2,
+          "column": 2,
+          "path": "specTables.2.rows.1.1"
+        }
+      ],
+      "sourcePages": [
+        6
+      ],
+      "showInGrid": false,
+      "pdfPage": 6,
+      "printedPage": 4,
+      "sourceBounds": [
+        0.099765,
+        0.455839,
+        0.575117,
+        0.468815
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "lcd-monitor-covers-item-1",
+      "groupId": "lcd-monitor-covers",
+      "name": {
+        "ru": "Чехол для монитора 26\"",
+        "en": "Monitor Cover, 26\""
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "VP4826C",
+          "pass2": "VP4826C",
+          "confidence1": 88.496567,
+          "confidence2": 88.567055,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP4826C",
+          "sourceBounds": [
+            0.5181924882629108,
+            0.6904562578484722,
+            0.5669014084507042,
+            0.6986186688991209
+          ],
+          "pdfPage": 6,
+          "printedPage": 4,
+          "system": "medical-monitors",
+          "group": "lcd-monitor-covers",
+          "componentId": "lcd-monitor-covers-item-1",
+          "tableId": "lcd-monitor-covers",
+          "row": 1,
+          "column": 2,
+          "path": "specTables.3.rows.0.1"
+        }
+      ],
+      "sourcePages": [
+        6
+      ],
+      "showInGrid": false,
+      "pdfPage": 6,
+      "printedPage": 4,
+      "sourceBounds": [
+        0.099765,
+        0.687735,
+        0.575117,
+        0.700712
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "lcd-monitor-covers-item-2",
+      "groupId": "lcd-monitor-covers",
+      "name": {
+        "ru": "Чехол для монитора 32\"",
+        "en": "Monitor Cover, 32\""
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "VP4832C",
+          "pass2": "VP4832C",
+          "confidence1": 90.401482,
+          "confidence2": 78.377541,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP4832C",
+          "sourceBounds": [
+            0.5181924882629108,
+            0.7082461280870657,
+            0.5669014084507042,
+            0.7166178317287568
+          ],
+          "pdfPage": 6,
+          "printedPage": 4,
+          "system": "medical-monitors",
+          "group": "lcd-monitor-covers",
+          "componentId": "lcd-monitor-covers-item-2",
+          "tableId": "lcd-monitor-covers",
+          "row": 2,
+          "column": 2,
+          "path": "specTables.3.rows.1.1"
+        }
+      ],
+      "sourcePages": [
+        6
+      ],
+      "showInGrid": false,
+      "pdfPage": 6,
+      "printedPage": 4,
+      "sourceBounds": [
+        0.099765,
+        0.705316,
+        0.575117,
+        0.718292
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    }
+  ],
+  "componentGroups": [
+    {
+      "id": "4k-monitors",
+      "name": {
+        "ru": "Мониторы 4K",
+        "en": "4K MONITORS"
+      },
+      "description": {
+        "ru": "Система CONMED 4K обеспечивает надёжную работу и яркое изображение, давая хирургам необходимую в операционной глубину и чёткость визуализации.",
+        "en": "CONMED’s 4K System provides dependable performance and a vivid image, allowing surgeons the depth and clarity needed in the OR."
+      },
+      "componentIds": [
+        "4k-monitors-item-1",
+        "4k-monitors-item-2"
+      ],
+      "subgroups": [],
+      "sourceNotes": [],
+      "images": [
+        {
+          "methodVersion": 3,
+          "inputFingerprint": "b3ed3f0384ed4d78374b89c21359a5379d79cca7518ef5d9e84e3736317f51fe",
+          "maskMethod": "rembg plus edge-connected white-background restoration; exact source pixels retained",
+          "src": "/images/products/conmed/medical-monitors/page-006-photo-dadec882.webp",
+          "imageType": "cutout",
+          "imageCaption": {
+            "ru": "LMD-X310MD",
+            "en": "LMD-X310MD"
+          },
+          "width": 1014,
+          "height": 844,
+          "maskCoverage": 1.0,
+          "pdfPage": 6,
+          "printedPage": 4,
+          "sourceBounds": [
+            0.630869,
+            0.163248,
+            0.909624,
+            0.326496
+          ],
+          "coordinateSpace": "normalized",
+          "path": null
+        },
+        {
+          "methodVersion": 3,
+          "inputFingerprint": "8e0767a3babd2d4ba92d8fbefcc906b068a67842bff4bad631aaed86bed92991",
+          "maskMethod": "rembg plus edge-connected white-background restoration; exact source pixels retained",
+          "src": "/images/products/conmed/medical-monitors/page-006-photo-aea2a4b8.webp",
+          "imageType": "cutout",
+          "imageCaption": {
+            "ru": "VP4932",
+            "en": "VP4932"
+          },
+          "width": 1028,
+          "height": 901,
+          "maskCoverage": 1.0,
+          "pdfPage": 6,
+          "printedPage": 4,
+          "sourceBounds": [
+            0.630869,
+            0.366262,
+            0.92723,
+            0.545835
+          ],
+          "coordinateSpace": "normalized",
+          "path": null
+        }
+      ],
+      "tableId": "4k-monitors",
+      "sourcePages": [
+        6
+      ],
+      "pdfPage": 6,
+      "printedPage": 4,
+      "sourceBounds": [
+        0.099765,
+        0.142319,
+        0.575117,
+        0.156132
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "hd-led-monitors",
+      "name": {
+        "ru": "Медицинские HD LED-мониторы",
+        "en": "HD LED Monitor"
+      },
+      "description": {
+        "ru": "Медицинские HD-мониторы 26\" и 32\" со светодиодной подсветкой и беспроводная система.",
+        "en": "26\" and 32\" HD LED Backlit Medical Grade Monitors & Wireless System"
+      },
+      "componentIds": [
+        "hd-led-monitors-item-1",
+        "hd-led-monitors-item-2"
+      ],
+      "subgroups": [],
+      "sourceNotes": [],
+      "images": [],
+      "tableId": "hd-led-monitors",
+      "sourcePages": [
+        6
+      ],
+      "pdfPage": 6,
+      "printedPage": 4,
+      "sourceBounds": [
+        0.099765,
+        0.301381,
+        0.575117,
+        0.314776
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "wireless-options",
+      "name": {
+        "ru": "Беспроводные опции",
+        "en": "Wireless Options"
+      },
+      "description": {
+        "ru": "",
+        "en": ""
+      },
+      "componentIds": [
+        "wireless-options-item-1",
+        "wireless-options-item-2"
+      ],
+      "subgroups": [],
+      "sourceNotes": [],
+      "images": [],
+      "tableId": "wireless-options",
+      "sourcePages": [
+        6
+      ],
+      "pdfPage": 6,
+      "printedPage": 4,
+      "sourceBounds": [
+        0.099765,
+        0.421097,
+        0.575117,
+        0.434491
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "lcd-monitor-covers",
+      "name": {
+        "ru": "Чехлы для LCD-мониторов",
+        "en": "LCD Monitor Covers"
+      },
+      "description": {
+        "ru": "",
+        "en": ""
+      },
+      "componentIds": [
+        "lcd-monitor-covers-item-1",
+        "lcd-monitor-covers-item-2"
+      ],
+      "subgroups": [],
+      "sourceNotes": [],
+      "images": [
+        {
+          "methodVersion": 3,
+          "inputFingerprint": "996a5779091b740f59b62b185b96f8caf25f567ac7968d5c715a8765c4e624ef",
+          "maskMethod": "rembg plus edge-connected white-background restoration; exact source pixels retained",
+          "src": "/images/products/conmed/medical-monitors/page-006-photo-d3ae967a.webp",
+          "imageType": "cutout",
+          "imageCaption": {
+            "ru": "Чехол для LCD-монитора",
+            "en": "LCD Monitor Cover"
+          },
+          "width": 1114,
+          "height": 929,
+          "maskCoverage": 1.0,
+          "pdfPage": 6,
+          "printedPage": 4,
+          "sourceBounds": [
+            0.622066,
+            0.619506,
+            0.930164,
+            0.806614
+          ],
+          "coordinateSpace": "normalized",
+          "path": null
+        }
+      ],
+      "tableId": "lcd-monitor-covers",
+      "sourcePages": [
+        6
+      ],
+      "pdfPage": 6,
+      "printedPage": 4,
+      "sourceBounds": [
+        0.099765,
+        0.637924,
+        0.575117,
+        0.651319
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    }
+  ],
+  "specTables": [
+    {
+      "id": "4k-monitors",
+      "title": {
+        "ru": "Мониторы 4K",
+        "en": "4K MONITORS"
+      },
+      "unit": null,
+      "image": null,
+      "componentImage": "/images/products/conmed/medical-monitors/page-006-photo-dadec882.webp",
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "Cat. No.",
+          "en": "Cat. No."
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Медицинский монитор SONY 31\"",
+            "en": "SONY 31\" Medical Monitor"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "Монитор 4K UHD, 32\"",
+            "en": "4K UHD Monitor, 32\""
+          },
+          null
+        ]
+      ],
+      "legend": null,
+      "sourcePages": [
+        6
+      ],
+      "headersVerified": true,
+      "rowSources": [
+        {
+          "pdfPage": 6,
+          "printedPage": 4,
+          "sourceBounds": [
+            0.099765,
+            0.232733,
+            0.575117,
+            0.24571
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "LMD-X310MD",
+              "pass2": "LMD-X310MD",
+              "confidence1": 87.893364,
+              "confidence2": 80.624214,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "LMD-X310MD",
+              "sourceBounds": [
+                0.49471830985915494,
+                0.23524487233151947,
+                0.5671948356807511,
+                0.24340728338216827
+              ],
+              "pdfPage": 6,
+              "printedPage": 4,
+              "system": "medical-monitors",
+              "group": "4k-monitors",
+              "componentId": "4k-monitors-item-1",
+              "tableId": "4k-monitors",
+              "row": 1,
+              "column": 2,
+              "path": "specTables.0.rows.0.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 6,
+          "printedPage": 4,
+          "sourceBounds": [
+            0.099765,
+            0.250314,
+            0.575117,
+            0.26329
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "PAQS2",
+              "pass2": "PAQS2",
+              "confidence1": 23.970766,
+              "confidence2": 22.876549,
+              "flagged": true,
+              "reasons": [
+                "low-confidence",
+                "source-transcription-disagreement"
+              ],
+              "printedCandidate": "VP4932",
+              "sourceBounds": [
+                0.5366784037558685,
+                0.2524068647969862,
+                0.568368544600939,
+                0.2641272498953537
+              ],
+              "pdfPage": 6,
+              "printedPage": 4,
+              "system": "medical-monitors",
+              "group": "4k-monitors",
+              "componentId": "4k-monitors-item-2",
+              "tableId": "4k-monitors",
+              "row": 2,
+              "column": 2,
+              "path": "specTables.0.rows.1.1"
+            }
+          ]
+        }
+      ],
+      "groupId": "4k-monitors",
+      "pdfPage": 6,
+      "printedPage": 4,
+      "sourceBounds": [
+        0.099765,
+        0.217664,
+        0.575117,
+        0.265802
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "hd-led-monitors",
+      "title": {
+        "ru": "Медицинские HD LED-мониторы",
+        "en": "HD LED Monitor"
+      },
+      "unit": null,
+      "image": null,
+      "componentImage": null,
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "Cat. No.",
+          "en": "Cat. No."
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "HD LED-монитор 26”",
+            "en": "26” High Definition LED Monitor"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "HD LED-монитор 32”",
+            "en": "32” High Definition LED Monitor"
+          },
+          null
+        ]
+      ],
+      "legend": null,
+      "sourcePages": [
+        6
+      ],
+      "headersVerified": true,
+      "rowSources": [
+        {
+          "pdfPage": 6,
+          "printedPage": 4,
+          "sourceBounds": [
+            0.099765,
+            0.359983,
+            0.575117,
+            0.372959
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "VP4826",
+              "pass2": "VP4826",
+              "confidence1": 88.311234,
+              "confidence2": 32.051361,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "VP4826",
+              "sourceBounds": [
+                0.5249413145539906,
+                0.3627040602762662,
+                0.5660211267605634,
+                0.3706571787358727
+              ],
+              "pdfPage": 6,
+              "printedPage": 4,
+              "system": "medical-monitors",
+              "group": "hd-led-monitors",
+              "componentId": "hd-led-monitors-item-1",
+              "tableId": "hd-led-monitors",
+              "row": 1,
+              "column": 2,
+              "path": "specTables.1.rows.0.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 6,
+          "printedPage": 4,
+          "sourceBounds": [
+            0.099765,
+            0.377145,
+            0.575117,
+            0.390121
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "VP4832",
+              "pass2": "VP4832",
+              "confidence1": 82.604706,
+              "confidence2": 80.397461,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "VP4832",
+              "sourceBounds": [
+                0.5246478873239436,
+                0.37944746755964837,
+                0.5657276995305164,
+                0.3876098786102972
+              ],
+              "pdfPage": 6,
+              "printedPage": 4,
+              "system": "medical-monitors",
+              "group": "hd-led-monitors",
+              "componentId": "hd-led-monitors-item-2",
+              "tableId": "hd-led-monitors",
+              "row": 2,
+              "column": 2,
+              "path": "specTables.1.rows.1.1"
+            }
+          ]
+        }
+      ],
+      "groupId": "hd-led-monitors",
+      "pdfPage": 6,
+      "printedPage": 4,
+      "sourceBounds": [
+        0.099765,
+        0.355797,
+        0.575117,
+        0.392214
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "wireless-options",
+      "title": {
+        "ru": "Беспроводные опции",
+        "en": "Wireless Options"
+      },
+      "unit": null,
+      "image": null,
+      "componentImage": null,
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "Cat. No.",
+          "en": "Cat. No."
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Беспроводной комплект HD",
+            "en": "HD Wireless Kit"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "Беспроводной комплект HD с преобразователем сигнала",
+            "en": "HD Wireless Kit w/ Signal Conditioner"
+          },
+          null
+        ]
+      ],
+      "legend": null,
+      "sourcePages": [
+        6
+      ],
+      "headersVerified": true,
+      "rowSources": [
+        {
+          "pdfPage": 6,
+          "printedPage": 4,
+          "sourceBounds": [
+            0.099765,
+            0.438677,
+            0.575117,
+            0.451653
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "WIS1000",
+              "pass2": "WIS1000",
+              "confidence1": 91.33728,
+              "confidence2": 88.452171,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "WIS1000",
+              "sourceBounds": [
+                0.5184859154929577,
+                0.44139807450816243,
+                0.5657276995305164,
+                0.44956048555881123
+              ],
+              "pdfPage": 6,
+              "printedPage": 4,
+              "system": "medical-monitors",
+              "group": "wireless-options",
+              "componentId": "wireless-options-item-1",
+              "tableId": "wireless-options",
+              "row": 1,
+              "column": 2,
+              "path": "specTables.2.rows.0.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 6,
+          "printedPage": 4,
+          "sourceBounds": [
+            0.099765,
+            0.455839,
+            0.575117,
+            0.468815
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "WIS1000-1001",
+              "pass2": "WIS1000-1001",
+              "confidence1": 89.597328,
+              "confidence2": 90.183998,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "WIS1000-1001",
+              "sourceBounds": [
+                0.4867957746478873,
+                0.45814148179154457,
+                0.5636737089201878,
+                0.46651318543323567
+              ],
+              "pdfPage": 6,
+              "printedPage": 4,
+              "system": "medical-monitors",
+              "group": "wireless-options",
+              "componentId": "wireless-options-item-2",
+              "tableId": "wireless-options",
+              "row": 2,
+              "column": 2,
+              "path": "specTables.2.rows.1.1"
+            }
+          ]
+        }
+      ],
+      "groupId": "wireless-options",
+      "pdfPage": 6,
+      "printedPage": 4,
+      "sourceBounds": [
+        0.099765,
+        0.438677,
+        0.575117,
+        0.471746
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "lcd-monitor-covers",
+      "title": {
+        "ru": "Чехлы для LCD-мониторов",
+        "en": "LCD Monitor Covers"
+      },
+      "unit": null,
+      "image": null,
+      "componentImage": "/images/products/conmed/medical-monitors/page-006-photo-d3ae967a.webp",
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "Cat. No.",
+          "en": "Cat. No."
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Чехол для монитора 26\"",
+            "en": "Monitor Cover, 26\""
+          },
+          null
+        ],
+        [
+          {
+            "ru": "Чехол для монитора 32\"",
+            "en": "Monitor Cover, 32\""
+          },
+          null
+        ]
+      ],
+      "legend": null,
+      "sourcePages": [
+        6
+      ],
+      "headersVerified": true,
+      "rowSources": [
+        {
+          "pdfPage": 6,
+          "printedPage": 4,
+          "sourceBounds": [
+            0.099765,
+            0.687735,
+            0.575117,
+            0.700712
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "VP4826C",
+              "pass2": "VP4826C",
+              "confidence1": 88.496567,
+              "confidence2": 88.567055,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "VP4826C",
+              "sourceBounds": [
+                0.5181924882629108,
+                0.6904562578484722,
+                0.5669014084507042,
+                0.6986186688991209
+              ],
+              "pdfPage": 6,
+              "printedPage": 4,
+              "system": "medical-monitors",
+              "group": "lcd-monitor-covers",
+              "componentId": "lcd-monitor-covers-item-1",
+              "tableId": "lcd-monitor-covers",
+              "row": 1,
+              "column": 2,
+              "path": "specTables.3.rows.0.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 6,
+          "printedPage": 4,
+          "sourceBounds": [
+            0.099765,
+            0.705316,
+            0.575117,
+            0.718292
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "VP4832C",
+              "pass2": "VP4832C",
+              "confidence1": 90.401482,
+              "confidence2": 78.377541,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "VP4832C",
+              "sourceBounds": [
+                0.5181924882629108,
+                0.7082461280870657,
+                0.5669014084507042,
+                0.7166178317287568
+              ],
+              "pdfPage": 6,
+              "printedPage": 4,
+              "system": "medical-monitors",
+              "group": "lcd-monitor-covers",
+              "componentId": "lcd-monitor-covers-item-2",
+              "tableId": "lcd-monitor-covers",
+              "row": 2,
+              "column": 2,
+              "path": "specTables.3.rows.1.1"
+            }
+          ]
+        }
+      ],
+      "groupId": "lcd-monitor-covers",
+      "pdfPage": 6,
+      "printedPage": 4,
+      "sourceBounds": [
+        0.099765,
+        0.686061,
+        0.575117,
+        0.720804
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    }
+  ],
+  "refCodes": [],
+  "sourcePdf": "/catalogs/conmed/advanced-visualization-system/source.pdf",
+  "documentCover": "/catalogs/conmed/advanced-visualization-system/pages/001.webp",
+  "catalogPageCount": 20,
+  "sourcePages": [
+    6
+  ],
+  "sourcePageImages": [
+    "/catalogs/conmed/advanced-visualization-system/pages/006.webp"
+  ],
+  "sourcePageDimensions": {
+    "6": {
+      "width": 3408,
+      "height": 4778
+    }
+  },
+  "catalogEdition": null,
+  "isNew": false,
+  "status": "draft",
+  "manufacturerLinks": [
+    {
+      "label": {
+        "ru": "Подробнее на сайте производителя",
+        "en": "Learn more on the manufacturer’s website"
+      },
+      "url": "https://www.conmed.com/en/products/surgical-imaging/hd-visualization",
+      "sourcePages": [
+        6
+      ],
+      "pdfPage": 6,
+      "printedPage": 4,
+      "sourceBounds": [
+        0.1073943661971831,
+        0.8415655085809962,
+        0.21889671361502347,
+        0.9210966931770616
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    }
+  ],
+  "availabilityNote": {
+    "ru": "Не все изделия могут быть доступны на всех рынках.",
+    "en": "All products may not be available in all markets"
+  },
+  "imageDimensions": {
+    "/images/products/conmed/medical-monitors/page-006-photo-dadec882.webp": {
+      "width": 1014,
+      "height": 844
+    },
+    "/images/products/conmed/medical-monitors/page-006-photo-aea2a4b8.webp": {
+      "width": 1028,
+      "height": 901
+    },
+    "/images/products/conmed/medical-monitors/page-006-photo-d3ae967a.webp": {
+      "width": 1114,
+      "height": 929
+    }
+  },
+  "review": {
+    "flags": [
+      {
+        "path": "specTables.0.rows.0.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «LMD-X310MD», проход 2 «LMD-X310MD». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          6
+        ],
+        "pdfPage": 6,
+        "printedPage": 4,
+        "sourceBounds": [
+          0.49471830985915494,
+          0.23524487233151947,
+          0.5671948356807511,
+          0.24340728338216827
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "LMD-X310MD",
+          "pass2": "LMD-X310MD",
+          "confidence1": 87.893364,
+          "confidence2": 80.624214,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "LMD-X310MD",
+          "sourceBounds": [
+            0.49471830985915494,
+            0.23524487233151947,
+            0.5671948356807511,
+            0.24340728338216827
+          ],
+          "pdfPage": 6,
+          "printedPage": 4,
+          "system": "medical-monitors",
+          "group": "4k-monitors",
+          "componentId": "4k-monitors-item-1",
+          "tableId": "4k-monitors",
+          "row": 1,
+          "column": 2,
+          "path": "specTables.0.rows.0.1"
+        }
+      },
+      {
+        "path": "specTables.0.rows.1.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «PAQS2», проход 2 «PAQS2». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          6
+        ],
+        "pdfPage": 6,
+        "printedPage": 4,
+        "sourceBounds": [
+          0.5366784037558685,
+          0.2524068647969862,
+          0.568368544600939,
+          0.2641272498953537
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "PAQS2",
+          "pass2": "PAQS2",
+          "confidence1": 23.970766,
+          "confidence2": 22.876549,
+          "flagged": true,
+          "reasons": [
+            "low-confidence",
+            "source-transcription-disagreement"
+          ],
+          "printedCandidate": "VP4932",
+          "sourceBounds": [
+            0.5366784037558685,
+            0.2524068647969862,
+            0.568368544600939,
+            0.2641272498953537
+          ],
+          "pdfPage": 6,
+          "printedPage": 4,
+          "system": "medical-monitors",
+          "group": "4k-monitors",
+          "componentId": "4k-monitors-item-2",
+          "tableId": "4k-monitors",
+          "row": 2,
+          "column": 2,
+          "path": "specTables.0.rows.1.1"
+        }
+      },
+      {
+        "path": "specTables.1.rows.0.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «VP4826», проход 2 «VP4826». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          6
+        ],
+        "pdfPage": 6,
+        "printedPage": 4,
+        "sourceBounds": [
+          0.5249413145539906,
+          0.3627040602762662,
+          0.5660211267605634,
+          0.3706571787358727
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "VP4826",
+          "pass2": "VP4826",
+          "confidence1": 88.311234,
+          "confidence2": 32.051361,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP4826",
+          "sourceBounds": [
+            0.5249413145539906,
+            0.3627040602762662,
+            0.5660211267605634,
+            0.3706571787358727
+          ],
+          "pdfPage": 6,
+          "printedPage": 4,
+          "system": "medical-monitors",
+          "group": "hd-led-monitors",
+          "componentId": "hd-led-monitors-item-1",
+          "tableId": "hd-led-monitors",
+          "row": 1,
+          "column": 2,
+          "path": "specTables.1.rows.0.1"
+        }
+      },
+      {
+        "path": "specTables.1.rows.1.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «VP4832», проход 2 «VP4832». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          6
+        ],
+        "pdfPage": 6,
+        "printedPage": 4,
+        "sourceBounds": [
+          0.5246478873239436,
+          0.37944746755964837,
+          0.5657276995305164,
+          0.3876098786102972
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "VP4832",
+          "pass2": "VP4832",
+          "confidence1": 82.604706,
+          "confidence2": 80.397461,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP4832",
+          "sourceBounds": [
+            0.5246478873239436,
+            0.37944746755964837,
+            0.5657276995305164,
+            0.3876098786102972
+          ],
+          "pdfPage": 6,
+          "printedPage": 4,
+          "system": "medical-monitors",
+          "group": "hd-led-monitors",
+          "componentId": "hd-led-monitors-item-2",
+          "tableId": "hd-led-monitors",
+          "row": 2,
+          "column": 2,
+          "path": "specTables.1.rows.1.1"
+        }
+      },
+      {
+        "path": "specTables.2.rows.0.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «WIS1000», проход 2 «WIS1000». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          6
+        ],
+        "pdfPage": 6,
+        "printedPage": 4,
+        "sourceBounds": [
+          0.5184859154929577,
+          0.44139807450816243,
+          0.5657276995305164,
+          0.44956048555881123
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "WIS1000",
+          "pass2": "WIS1000",
+          "confidence1": 91.33728,
+          "confidence2": 88.452171,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "WIS1000",
+          "sourceBounds": [
+            0.5184859154929577,
+            0.44139807450816243,
+            0.5657276995305164,
+            0.44956048555881123
+          ],
+          "pdfPage": 6,
+          "printedPage": 4,
+          "system": "medical-monitors",
+          "group": "wireless-options",
+          "componentId": "wireless-options-item-1",
+          "tableId": "wireless-options",
+          "row": 1,
+          "column": 2,
+          "path": "specTables.2.rows.0.1"
+        }
+      },
+      {
+        "path": "specTables.2.rows.1.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «WIS1000-1001», проход 2 «WIS1000-1001». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          6
+        ],
+        "pdfPage": 6,
+        "printedPage": 4,
+        "sourceBounds": [
+          0.4867957746478873,
+          0.45814148179154457,
+          0.5636737089201878,
+          0.46651318543323567
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "WIS1000-1001",
+          "pass2": "WIS1000-1001",
+          "confidence1": 89.597328,
+          "confidence2": 90.183998,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "WIS1000-1001",
+          "sourceBounds": [
+            0.4867957746478873,
+            0.45814148179154457,
+            0.5636737089201878,
+            0.46651318543323567
+          ],
+          "pdfPage": 6,
+          "printedPage": 4,
+          "system": "medical-monitors",
+          "group": "wireless-options",
+          "componentId": "wireless-options-item-2",
+          "tableId": "wireless-options",
+          "row": 2,
+          "column": 2,
+          "path": "specTables.2.rows.1.1"
+        }
+      },
+      {
+        "path": "specTables.3.rows.0.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «VP4826C», проход 2 «VP4826C». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          6
+        ],
+        "pdfPage": 6,
+        "printedPage": 4,
+        "sourceBounds": [
+          0.5181924882629108,
+          0.6904562578484722,
+          0.5669014084507042,
+          0.6986186688991209
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "VP4826C",
+          "pass2": "VP4826C",
+          "confidence1": 88.496567,
+          "confidence2": 88.567055,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP4826C",
+          "sourceBounds": [
+            0.5181924882629108,
+            0.6904562578484722,
+            0.5669014084507042,
+            0.6986186688991209
+          ],
+          "pdfPage": 6,
+          "printedPage": 4,
+          "system": "medical-monitors",
+          "group": "lcd-monitor-covers",
+          "componentId": "lcd-monitor-covers-item-1",
+          "tableId": "lcd-monitor-covers",
+          "row": 1,
+          "column": 2,
+          "path": "specTables.3.rows.0.1"
+        }
+      },
+      {
+        "path": "specTables.3.rows.1.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «VP4832C», проход 2 «VP4832C». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          6
+        ],
+        "pdfPage": 6,
+        "printedPage": 4,
+        "sourceBounds": [
+          0.5181924882629108,
+          0.7082461280870657,
+          0.5669014084507042,
+          0.7166178317287568
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "VP4832C",
+          "pass2": "VP4832C",
+          "confidence1": 90.401482,
+          "confidence2": 78.377541,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP4832C",
+          "sourceBounds": [
+            0.5181924882629108,
+            0.7082461280870657,
+            0.5669014084507042,
+            0.7166178317287568
+          ],
+          "pdfPage": 6,
+          "printedPage": 4,
+          "system": "medical-monitors",
+          "group": "lcd-monitor-covers",
+          "componentId": "lcd-monitor-covers-item-2",
+          "tableId": "lcd-monitor-covers",
+          "row": 2,
+          "column": 2,
+          "path": "specTables.3.rows.1.1"
+        }
+      },
+      {
+        "path": "specialty",
+        "code": "specialty-review",
+        "message": {
+          "ru": "Клиническая специальность не назначена автоматически: проверьте область применения системы.",
+          "en": "Clinical specialty was not inferred; review the intended specialty."
+        },
+        "sourcePages": [
+          6
+        ],
+        "pdfPage": 6,
+        "printedPage": 4,
+        "sourceBounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "coordinateSpace": "normalized"
+      },
+      {
+        "path": "components",
+        "code": "source-association-review",
+        "message": {
+          "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+          "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+        },
+        "sourcePages": [
+          6
+        ],
+        "pdfPage": 6,
+        "printedPage": 4,
+        "sourceBounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "coordinateSpace": "normalized"
+      }
+    ],
+    "sourceSha256": "e95e65a12367e776350edfcee6a84d2d994556e67083a5c6280ab5490b11af21",
+    "importMethod": "400-DPI Tesseract PSM3 + PSM11; source-reviewed section layout; source-coordinate audit",
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "skipped": false,
+    "translatedFields": [
+      "name.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "gallery.1.imageCaption.ru",
+      "gallery.2.imageCaption.ru",
+      "features.0.title.ru",
+      "features.0.text.ru",
+      "components.0.name.ru",
+      "components.1.name.ru",
+      "components.2.name.ru",
+      "components.3.name.ru",
+      "components.4.name.ru",
+      "components.5.name.ru",
+      "components.6.name.ru",
+      "components.7.name.ru",
+      "componentGroups.0.name.ru",
+      "componentGroups.0.description.ru",
+      "componentGroups.0.images.0.imageCaption.ru",
+      "componentGroups.0.images.1.imageCaption.ru",
+      "componentGroups.1.name.ru",
+      "componentGroups.1.description.ru",
+      "componentGroups.2.name.ru",
+      "componentGroups.3.name.ru",
+      "componentGroups.3.images.0.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.1.title.ru",
+      "specTables.1.columns.0.ru",
+      "specTables.1.columns.1.ru",
+      "specTables.1.rows.0.0.ru",
+      "specTables.1.rows.1.0.ru",
+      "specTables.2.title.ru",
+      "specTables.2.columns.0.ru",
+      "specTables.2.columns.1.ru",
+      "specTables.2.rows.0.0.ru",
+      "specTables.2.rows.1.0.ru",
+      "specTables.3.title.ru",
+      "specTables.3.columns.0.ru",
+      "specTables.3.columns.1.ru",
+      "specTables.3.rows.0.0.ru",
+      "specTables.3.rows.1.0.ru",
+      "manufacturerLinks.0.label.ru",
+      "availabilityNote.ru"
+    ]
+  }
+}

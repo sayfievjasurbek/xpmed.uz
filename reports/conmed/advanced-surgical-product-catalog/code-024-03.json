@@ -1,0 +1,40 @@
+{
+  "pdfPage": 24,
+  "pageRow": 3,
+  "visualReading": "130345",
+  "visualReader": "Codex independent inspection of 600-DPI source table images; source-line crops retained",
+  "ocrReadings": {
+    "600dpi-psm3": "130345",
+    "600dpi-psm11": "130345",
+    "600dpi-code-crop-psm7": "130345",
+    "Apple-Vision-accurate": "130345"
+  },
+  "matchedReaders": [
+    "600dpi-psm3",
+    "600dpi-psm11",
+    "600dpi-code-crop-psm7",
+    "Apple-Vision-accurate"
+  ],
+  "value": "130345",
+  "verificationStatus": "verified (visual + OCR)",
+  "manufacturerStatus": "confirmed on conmed.com",
+  "officialEvidence": [
+    {
+      "url": "https://www.conmed.com/-/media/conmed/documents/catalog/advancedsurgical_catalog.ashx",
+      "code": "130345"
+    }
+  ],
+  "sourceBounds": [
+    0.8704754451183722,
+    0.2968183086798772,
+    0.9143024848366269,
+    0.3057493720346079
+  ],
+  "rowBounds": [
+    0.5289452320766902,
+    0.27718360071301246,
+    0.934,
+    0.31016042780748665
+  ],
+  "lineCrop": "reports/conmed/advanced-surgical-product-catalog/line-crops/024-03.png"
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "code": "source-ref-prefix-outlier",
+    "pdfPage": 378,
+    "tableId": "trauma-p378-1",
+    "row": 0,
+    "column": 0,
+    "ref": "073520400",
+    "commonPrefix": "0704",
+    "readings": {
+      "PSM3": "073520400",
+      "PSM11": "073520400",
+      "Vision": "073520400"
+    },
+    "status": "resolved",
+    "resolution": "Codex visual check: distinct 1.5mm source diameter group, verified by all three readers; no REF correction."
+  },
+  {
+    "code": "source-ref-prefix-outlier",
+    "pdfPage": 378,
+    "tableId": "trauma-p378-1",
+    "row": 1,
+    "column": 0,
+    "ref": "073520450",
+    "commonPrefix": "0704",
+    "readings": {
+      "PSM3": "073520450",
+      "PSM11": "073520450",
+      "Vision": "073520450"
+    },
+    "status": "resolved",
+    "resolution": "Codex visual check: distinct 1.5mm source diameter group, verified by all three readers; no REF correction."
+  }
+]

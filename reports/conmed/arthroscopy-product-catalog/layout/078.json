@@ -1,0 +1,206 @@
+{
+  "pdfPage": 78,
+  "officialPage": 104,
+  "alignment": [
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      0.0
+    ]
+  ],
+  "alignmentMatches": 0,
+  "alignmentInliers": 0,
+  "category": "arthroscopy-manual-instruments",
+  "title": {
+    "en": "Concept",
+    "ru": "Ручные инструменты Concept"
+  },
+  "groups": [
+    {
+      "title": "Linear Punch — 3.3mm dia., 130mm",
+      "page": 78,
+      "officialPage": 104,
+      "headingBounds": [
+        0.4264705882352941,
+        0.1527662758875375,
+        0.5426618289324193,
+        0.16623219576748935
+      ],
+      "rows": [
+        {
+          "description": "1.3mm Tip, Straight",
+          "codes": [
+            {
+              "candidate": "C6858",
+              "sourceBounds": [
+                0.8695882161458334,
+                0.19166274022574376,
+                0.9068647397109886,
+                0.20451501403192077
+              ],
+              "officialBounds": [
+                532.18798828125,
+                151.79689025878906,
+                555.001220703125,
+                161.97589111328125
+              ],
+              "officialCode": "C6858"
+            }
+          ],
+          "rowBounds": [
+            0.4264705882352941,
+            0.19166274022574376,
+            0.9068647397109886,
+            0.20451501403192077
+          ],
+          "pdfPage": 78,
+          "officialPage": 104
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Linear Punch — 3.3mm dia., 130mm",
+      "page": 78,
+      "officialPage": 104,
+      "headingBounds": [
+        0.4264705882352941,
+        0.35983700222439235,
+        0.5426618289324193,
+        0.3733028835720486
+      ],
+      "rows": [
+        {
+          "description": "Narrow, Straight",
+          "codes": [
+            {
+              "candidate": "C6806",
+              "sourceBounds": [
+                0.8695441351996528,
+                0.37853017479482326,
+                0.9068662356707006,
+                0.39138242933485246
+              ],
+              "officialBounds": [
+                532.1610107421875,
+                299.7958984375,
+                555.0021362304688,
+                309.9748840332031
+              ],
+              "officialCode": "C6806"
+            }
+          ],
+          "rowBounds": [
+            0.4264705882352941,
+            0.37853017479482326,
+            0.9068662356707006,
+            0.39138242933485246
+          ],
+          "pdfPage": 78,
+          "officialPage": 104
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Linear Punch — 3.3mm dia., 130mm",
+      "page": 78,
+      "officialPage": 104,
+      "headingBounds": [
+        0.4264705882352941,
+        0.5593319517193418,
+        0.5426618289324193,
+        0.572797833066998
+      ],
+      "rows": [
+        {
+          "description": "15° Up",
+          "codes": [
+            {
+              "candidate": "C6859",
+              "sourceBounds": [
+                0.8696911381740197,
+                0.5780251242897727,
+                0.9068513758042279,
+                0.590877378829802
+              ],
+              "officialBounds": [
+                532.2509765625,
+                457.7958984375,
+                554.9930419921875,
+                467.9748840332031
+              ],
+              "officialCode": "C6859"
+            }
+          ],
+          "rowBounds": [
+            0.4264705882352941,
+            0.5780251242897727,
+            0.9068513758042279,
+            0.590877378829802
+          ],
+          "pdfPage": 78,
+          "officialPage": 104
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Linear Punch, Scissor — 3.3mm dia., 130mm",
+      "page": 78,
+      "officialPage": 104,
+      "headingBounds": [
+        0.4264705882352941,
+        0.7575642749516651,
+        0.5426618289324193,
+        0.7710301562993214
+      ],
+      "rows": [
+        {
+          "description": "15° Up",
+          "codes": [
+            {
+              "candidate": "C6860",
+              "sourceBounds": [
+                0.8695735557406556,
+                0.7762574475220959,
+                0.906858855602788,
+                0.7891097405944207
+              ],
+              "officialBounds": [
+                532.1790161132812,
+                614.7958984375,
+                554.9976196289062,
+                624.9749145507812
+              ],
+              "officialCode": "C6860"
+            }
+          ],
+          "rowBounds": [
+            0.4264705882352941,
+            0.7762574475220959,
+            0.906858855602788,
+            0.7891097405944207
+          ],
+          "pdfPage": 78,
+          "officialPage": 104
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 4
+}

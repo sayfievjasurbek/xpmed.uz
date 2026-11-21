@@ -1,0 +1,184 @@
+{
+  "pdfPage": 65,
+  "officialPage": 85,
+  "alignment": [
+    [
+      0.9706318279312022,
+      0.000567506119947488,
+      0.014502672572582821
+    ],
+    [
+      0.0009893117442537004,
+      0.9747305593730564,
+      0.011658854051394264
+    ]
+  ],
+  "alignmentMatches": 21,
+  "alignmentInliers": 21,
+  "category": "small-joint-arthroscopy",
+  "title": {
+    "en": "Small Joint Arthroscopy Knives, Tubing and Cannula Set",
+    "ru": "Ножи, трубки и набор канюль для артроскопии мелких суставов"
+  },
+  "groups": [
+    {
+      "title": "Small Joint Arthroscopy Knives",
+      "page": 65,
+      "officialPage": 85,
+      "headingBounds": [
+        0.10136409605422192,
+        0.14145280125436419,
+        0.3446332406928757,
+        0.1563832382138668
+      ],
+      "rows": [
+        {
+          "description": "Banana Blade",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "9973",
+              "sourceBounds": [
+                0.5213849279037678,
+                0.3081395350950771,
+                0.5682281051580109,
+                0.31976744193980666
+              ],
+              "officialCode": "9973",
+              "officialBounds": [
+                331.1549987792969,
+                239.79689025878906,
+                348.713134765625,
+                249.97589111328125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.30095348851744186,
+            0.5782281051580109,
+            0.3229534885174419
+          ],
+          "pdfPage": 65,
+          "officialPage": 85
+        },
+        {
+          "description": "Retrograde Blade",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "9974",
+              "sourceBounds": [
+                0.5191527561187331,
+                0.3251493080339707,
+                0.5684236194461627,
+                0.337641389509607
+              ],
+              "officialCode": "9974",
+              "officialBounds": [
+                331.83001708984375,
+                254.29591369628906,
+                348.70684814453125,
+                264.47491455078125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3183953487717888,
+            0.5784236194461627,
+            0.34039534877178884
+          ],
+          "pdfPage": 65,
+          "officialPage": 85
+        },
+        {
+          "description": "Smillie Blade",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "9975",
+              "sourceBounds": [
+                0.5193482711518737,
+                0.3444767441067049,
+                0.5702647651685608,
+                0.3561046509514345
+              ],
+              "officialCode": "9975",
+              "officialBounds": [
+                331.2090148925781,
+                268.7949523925781,
+                348.7158508300781,
+                278.97393798828125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3372906975290697,
+            0.5802647651685608,
+            0.3592906975290697
+          ],
+          "pdfPage": 65,
+          "officialPage": 85
+        }
+      ],
+      "features": [
+        {
+          "text": "Hexagonal handle for positive grip and control",
+          "bounds": [
+            0.10851254523055291,
+            0.1611269917807875,
+            0.3772714187564988,
+            0.17532035005469127
+          ],
+          "officialStartX": 59.220001220703125
+        },
+        {
+          "text": "Three blade designs for proper tissue dissection: 1. Versatile banana blade 2. Retrograde blade for cutting loose tissue 3. Smillie blade for cutting along edge of bony surfaces",
+          "bounds": [
+            0.10852114380266105,
+            0.17589562723012167,
+            0.39757764831832987,
+            0.19010968315480276
+          ],
+          "officialStartX": 59.220001220703125
+        },
+        {
+          "text": "Indexed for proper orientation",
+          "bounds": [
+            0.1085555381129609,
+            0.2349702065860645,
+            0.28520908004144185,
+            0.24906969634077625
+          ],
+          "officialStartX": 59.220001220703125
+        },
+        {
+          "text": "Packaged sterile, single-use, four per box",
+          "bounds": [
+            0.10856413669053586,
+            0.24973885142505017,
+            0.35327774824922176,
+            0.2639077110729205
+          ],
+          "officialStartX": 59.220001220703125
+        },
+        {
+          "text": "Small joint knives are available in a 65mm length",
+          "bounds": [
+            0.10857273526811083,
+            0.2645074962640359,
+            0.3964920371350355,
+            0.2787203931004782
+          ],
+          "officialStartX": 59.220001220703125
+        }
+      ],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 3
+}

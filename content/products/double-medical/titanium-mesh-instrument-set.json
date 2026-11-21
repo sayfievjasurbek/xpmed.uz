@@ -1,0 +1,3638 @@
+{
+  "slug": "titanium-mesh-instrument-set",
+  "brand": "double-medical",
+  "category": "spine-instrument-sets",
+  "subcategory": "spinal-mesh",
+  "specialty": [
+    "spine"
+  ],
+  "name": {
+    "ru": "Набор инструментов для титановых сеток",
+    "en": "Titanium Mesh Instrument Set"
+  },
+  "setCode": "111470000",
+  "setCodeEvidence": [
+    {
+      "cy": 0.11964390530228917,
+      "bounds": [
+        0.27173018919659997,
+        0.11367638426922325,
+        0.37071565670414036,
+        0.1256114263353551
+      ],
+      "readings": {
+        "PSM3": "111470000",
+        "PSM11": "111470000",
+        "Vision": "111470000"
+      },
+      "value": "111470000",
+      "pdfPage": 371
+    }
+  ],
+  "catalogType": "list",
+  "importPartition": "spine-instruments",
+  "shortDescription": {
+    "ru": "Инструменты для хирургии позвоночника",
+    "en": "Spine surgery instruments"
+  },
+  "description": {
+    "ru": "Набор инструментов для титановых сеток. Комплектация и каталожные номера приведены по Spine Catalogue Double Medical.",
+    "en": "Titanium Mesh Instrument Set. Contents and catalog numbers are listed according to the Double Medical Spine Catalogue."
+  },
+  "heroImage": "/images/products/double-medical/spine-instruments/art-371-01.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "src": "/images/products/double-medical/spine-instruments/art-371-01.webp",
+      "width": 576,
+      "height": 322,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          256,
+          129
+        ],
+        "enhancedSize": [
+          512,
+          258
+        ]
+      },
+      "imageCaption": {
+        "ru": "Параллельные дистракционные щипцы",
+        "en": "Parallelled Distraction Forceps"
+      },
+      "sourcePages": [
+        371
+      ]
+    },
+    {
+      "src": "/images/products/double-medical/spine-instruments/art-371-02.webp",
+      "width": 301,
+      "height": 225,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          121,
+          83
+        ],
+        "enhancedSize": [
+          242,
+          166
+        ]
+      },
+      "imageCaption": {
+        "ru": "Фиксатор щипцов, малый, левый",
+        "en": "Forceps Clip, small, left"
+      },
+      "sourcePages": [
+        371
+      ]
+    },
+    {
+      "src": "/images/products/double-medical/spine-instruments/art-371-03.webp",
+      "width": 322,
+      "height": 246,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          129,
+          91
+        ],
+        "enhancedSize": [
+          258,
+          182
+        ]
+      },
+      "imageCaption": {
+        "ru": "Фиксатор щипцов, малый, правый",
+        "en": "Forceps Clip, small, right"
+      },
+      "sourcePages": [
+        371
+      ]
+    },
+    {
+      "src": "/images/products/double-medical/spine-instruments/art-371-04.webp",
+      "width": 357,
+      "height": 324,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          148,
+          131
+        ],
+        "enhancedSize": [
+          296,
+          262
+        ]
+      },
+      "imageCaption": {
+        "ru": "Фиксатор щипцов, большой, левый",
+        "en": "Forceps Clip, large, left"
+      },
+      "sourcePages": [
+        371
+      ]
+    },
+    {
+      "src": "/images/products/double-medical/spine-instruments/art-371-05.webp",
+      "width": 392,
+      "height": 306,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          166,
+          122
+        ],
+        "enhancedSize": [
+          332,
+          244
+        ]
+      },
+      "imageCaption": {
+        "ru": "Фиксатор щипцов, большой, правый",
+        "en": "Forceps Clip, large, right"
+      },
+      "sourcePages": [
+        371
+      ]
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [
+    {
+      "id": "spine-set-111470000-p371",
+      "groupId": "spine-set-111470000-p371",
+      "title": {
+        "ru": "Инструменты · стр. 369",
+        "en": "Instruments · p. 369"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Параллельные дистракционные щипцы",
+            "en": "Parallelled Distraction Forceps"
+          },
+          "111360100"
+        ],
+        [
+          {
+            "ru": "Фиксатор щипцов, малый, левый",
+            "en": "Forceps Clip, small, left"
+          },
+          "111361900"
+        ],
+        [
+          {
+            "ru": "Фиксатор щипцов, малый, правый",
+            "en": "Forceps Clip, small, right"
+          },
+          "111362000"
+        ],
+        [
+          {
+            "ru": "Фиксатор щипцов, большой, левый",
+            "en": "Forceps Clip, large, left"
+          },
+          "111362100"
+        ],
+        [
+          {
+            "ru": "Фиксатор щипцов, большой, правый",
+            "en": "Forceps Clip, large, right"
+          },
+          "111362200"
+        ],
+        [
+          {
+            "ru": "Измерительный штангенциркуль",
+            "en": "Caliper"
+          },
+          "111360300"
+        ],
+        [
+          {
+            "ru": "Кусачки для сетки",
+            "en": "Mesh Cutter"
+          },
+          "111360400"
+        ],
+        [
+          {
+            "ru": "Рашпиль для сетки, прямой",
+            "en": "Mesh Rasp, straight"
+          },
+          "111360600"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 371,
+          "printedPage": 369,
+          "bounds": [
+            0.13408280778722237,
+            0.14687282332224613,
+            0.56,
+            0.19883584425748385
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.14687282332224613,
+            0.56,
+            0.19883584425748385
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.14987282332224613,
+            0.21853578283520703,
+            0.159655644687928
+          ],
+          "sourceRowId": "371-01",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-111470000-p371",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 371,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111360100",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.14987282332224613,
+                    0.21853578283520703,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111360100",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.14987282332224613,
+                    0.21853578283520703,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111360100",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.14987282332224613,
+                    0.21853578283520703,
+                    0.159655644687928
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Parallelled Distraction Forceps",
+            "PSM11": "Parallelled Distraction Forceps",
+            "Vision": "Parallelled Distraction Forceps"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 371,
+          "printedPage": 369,
+          "bounds": [
+            0.13408280778722237,
+            0.23491821561338289,
+            0.56,
+            0.2870279788691058
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.23491821561338289,
+            0.56,
+            0.2870279788691058
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.2379182156133829,
+            0.21853578283520703,
+            0.2478966934063784
+          ],
+          "sourceRowId": "371-02",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-111470000-p371",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 371,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111361900",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.2379182156133829,
+                    0.21853578283520703,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111361900",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.2379182156133829,
+                    0.21853578283520703,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111361900",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.2379182156133829,
+                    0.21853578283520703,
+                    0.2478966934063784
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Forceps Clip, small, left",
+            "PSM11": "Forceps Clip, small, left",
+            "Vision": "Forceps Clip, small, left"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 371,
+          "printedPage": 369,
+          "bounds": [
+            0.13408280778722237,
+            0.3231592643318333,
+            0.56,
+            0.3752690275875562
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.3231592643318333,
+            0.56,
+            0.3752690275875562
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.3261592643318333,
+            0.21853578283520703,
+            0.3361377421248288
+          ],
+          "sourceRowId": "371-03",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-111470000-p371",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 371,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111362000",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.3261592643318333,
+                    0.21853578283520703,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111362000",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.3261592643318333,
+                    0.21853578283520703,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111362000",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.3261592643318333,
+                    0.21853578283520703,
+                    0.3361377421248288
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Forceps Clip, small, right",
+            "PSM11": "Forceps Clip, small, right",
+            "Vision": "Forceps Clip, small, right"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 371,
+          "printedPage": 369,
+          "bounds": [
+            0.13408280778722237,
+            0.4114003130502837,
+            0.56,
+            0.4635100763060066
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.4114003130502837,
+            0.56,
+            0.4635100763060066
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.4144003130502837,
+            0.21853578283520703,
+            0.4243787908432792
+          ],
+          "sourceRowId": "371-04",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-111470000-p371",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 371,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111362100",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.4144003130502837,
+                    0.21853578283520703,
+                    0.4243787908432792
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111362100",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.4144003130502837,
+                    0.21853578283520703,
+                    0.4243787908432792
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111362100",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.4144003130502837,
+                    0.21853578283520703,
+                    0.4243787908432792
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Forceps Clip, large, left",
+            "PSM11": "Forceps Clip, large, left",
+            "Vision": "Forceps Clip, large, left"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 371,
+          "printedPage": 369,
+          "bounds": [
+            0.13408280778722237,
+            0.4996413617687341,
+            0.56,
+            0.551751125024457
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.4996413617687341,
+            0.56,
+            0.551751125024457
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.5026413617687341,
+            0.21853578283520703,
+            0.5126198395617296
+          ],
+          "sourceRowId": "371-05",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-111470000-p371",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 371,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111362200",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.5026413617687341,
+                    0.21853578283520703,
+                    0.5126198395617296
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111362200",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.5026413617687341,
+                    0.21853578283520703,
+                    0.5126198395617296
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111362200",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.5026413617687341,
+                    0.21853578283520703,
+                    0.5126198395617296
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Forceps Clip, large, right",
+            "PSM11": "Forceps Clip, large, right",
+            "Vision": "Forceps Clip, large, right"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 371,
+          "printedPage": 369,
+          "bounds": [
+            0.13408280778722237,
+            0.5878824104871845,
+            0.56,
+            0.6399921737429074
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.5878824104871845,
+            0.56,
+            0.6399921737429074
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.5908824104871845,
+            0.21853578283520703,
+            0.60086088828018
+          ],
+          "sourceRowId": "371-06",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-111470000-p371",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 371,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111360300",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.5908824104871845,
+                    0.21853578283520703,
+                    0.60086088828018
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111360300",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.5908824104871845,
+                    0.21853578283520703,
+                    0.60086088828018
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111360300",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.5908824104871845,
+                    0.21853578283520703,
+                    0.60086088828018
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Caliper",
+            "PSM11": "Caliper",
+            "Vision": "Caliper"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 371,
+          "printedPage": 369,
+          "bounds": [
+            0.13408280778722237,
+            0.6761234592056349,
+            0.56,
+            0.7282332224613578
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.6761234592056349,
+            0.56,
+            0.7282332224613578
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.6791234592056349,
+            0.21853578283520703,
+            0.6891019369986304
+          ],
+          "sourceRowId": "371-07",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-111470000-p371",
+              "row": 7,
+              "column": 2,
+              "pdfPage": 371,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111360400",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.6791234592056349,
+                    0.21853578283520703,
+                    0.6891019369986304
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111360400",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.6791234592056349,
+                    0.21853578283520703,
+                    0.6891019369986304
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111360400",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.6791234592056349,
+                    0.21853578283520703,
+                    0.6891019369986304
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Mesh Cutter",
+            "PSM11": "Mesh Cutter",
+            "Vision": "Mesh Cutter"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 371,
+          "printedPage": 369,
+          "bounds": [
+            0.13408280778722237,
+            0.7643645079240853,
+            0.56,
+            0.8323429857170809
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.7643645079240853,
+            0.56,
+            0.8323429857170809
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.7673645079240853,
+            0.21853578283520703,
+            0.7773429857170808
+          ],
+          "sourceRowId": "371-08",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-111470000-p371",
+              "row": 8,
+              "column": 2,
+              "pdfPage": 371,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111360600",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.7673645079240853,
+                    0.21853578283520703,
+                    0.7773429857170808
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111360600",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.7673645079240853,
+                    0.21853578283520703,
+                    0.7773429857170808
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111360600",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.7673645079240853,
+                    0.21853578283520703,
+                    0.7773429857170808
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Mesh Rasp, straight",
+            "PSM11": "Mesh Rasp, straight",
+            "Vision": "Mesh Rasp, straight"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        }
+      ],
+      "rowImages": [
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-371-01.webp",
+          "width": 576,
+          "height": 322,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              256,
+              129
+            ],
+            "enhancedSize": [
+              512,
+              258
+            ]
+          },
+          "imageCaption": {
+            "ru": "Параллельные дистракционные щипцы",
+            "en": "Parallelled Distraction Forceps"
+          },
+          "sourcePages": [
+            371
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-371-02.webp",
+          "width": 301,
+          "height": 225,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              121,
+              83
+            ],
+            "enhancedSize": [
+              242,
+              166
+            ]
+          },
+          "imageCaption": {
+            "ru": "Фиксатор щипцов, малый, левый",
+            "en": "Forceps Clip, small, left"
+          },
+          "sourcePages": [
+            371
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-371-03.webp",
+          "width": 322,
+          "height": 246,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              129,
+              91
+            ],
+            "enhancedSize": [
+              258,
+              182
+            ]
+          },
+          "imageCaption": {
+            "ru": "Фиксатор щипцов, малый, правый",
+            "en": "Forceps Clip, small, right"
+          },
+          "sourcePages": [
+            371
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-371-04.webp",
+          "width": 357,
+          "height": 324,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              148,
+              131
+            ],
+            "enhancedSize": [
+              296,
+              262
+            ]
+          },
+          "imageCaption": {
+            "ru": "Фиксатор щипцов, большой, левый",
+            "en": "Forceps Clip, large, left"
+          },
+          "sourcePages": [
+            371
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-371-05.webp",
+          "width": 392,
+          "height": 306,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              166,
+              122
+            ],
+            "enhancedSize": [
+              332,
+              244
+            ]
+          },
+          "imageCaption": {
+            "ru": "Фиксатор щипцов, большой, правый",
+            "en": "Forceps Clip, large, right"
+          },
+          "sourcePages": [
+            371
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-371-06.webp",
+          "width": 484,
+          "height": 362,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              210,
+              149
+            ],
+            "enhancedSize": [
+              420,
+              298
+            ]
+          },
+          "imageCaption": {
+            "ru": "Измерительный штангенциркуль",
+            "en": "Caliper"
+          },
+          "sourcePages": [
+            371
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-371-07.webp",
+          "width": 548,
+          "height": 344,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              242,
+              140
+            ],
+            "enhancedSize": [
+              484,
+              280
+            ]
+          },
+          "imageCaption": {
+            "ru": "Кусачки для сетки",
+            "en": "Mesh Cutter"
+          },
+          "sourcePages": [
+            371
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-371-08.webp",
+          "width": 616,
+          "height": 118,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              276,
+              28
+            ],
+            "enhancedSize": [
+              552,
+              56
+            ]
+          },
+          "imageCaption": {
+            "ru": "Рашпиль для сетки, прямой",
+            "en": "Mesh Rasp, straight"
+          },
+          "sourcePages": [
+            371
+          ]
+        }
+      ],
+      "sourcePage": 371,
+      "sourcePages": [
+        371
+      ],
+      "printedPage": 369,
+      "catalogNumberTable": true
+    },
+    {
+      "id": "spine-set-111470000-p372",
+      "groupId": "spine-set-111470000-p372",
+      "title": {
+        "ru": "Инструменты · стр. 370",
+        "en": "Instruments · p. 370"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Рукоятка, с быстросъёмным соединением з-сииииин",
+            "en": "Handle, with quick coupling з-сииииин"
+          },
+          "111360800"
+        ],
+        [
+          {
+            "ru": "Блок для заполнения костным материалом",
+            "en": "Packing Block"
+          },
+          "111360700"
+        ],
+        [
+          {
+            "ru": "Воронка, для блока для заполнения костным материалом",
+            "en": "Funnel, for Packing Block"
+          },
+          "111360500"
+        ],
+        [
+          {
+            "ru": "Импактор, для костного трансплантата, Ø10",
+            "en": "Impactor, for Bone Graft, Ø10"
+          },
+          "111360900"
+        ],
+        [
+          {
+            "ru": "Импактор, для костного трансплантата, Ø12",
+            "en": "Impactor, for Bone Graft, Ø12"
+          },
+          "111361000"
+        ],
+        [
+          {
+            "ru": "Импактор, для костного трансплантата, Ø18",
+            "en": "Impactor, for Bone Graft, Ø18"
+          },
+          "111361100"
+        ],
+        [
+          {
+            "ru": "Импактор, для костного трансплантата, Ø21",
+            "en": "Impactor, for Bone Graft, Ø21"
+          },
+          "111361200"
+        ],
+        [
+          {
+            "ru": "Импактор, для костного трансплантата, Ø24",
+            "en": "Impactor, for Bone Graft, Ø24"
+          },
+          "111361300"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 372,
+          "printedPage": 370,
+          "bounds": [
+            0.11132437619961612,
+            0.14687282332224613,
+            0.56,
+            0.19888475836431227
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.14687282332224613,
+            0.56,
+            0.19888475836431227
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.14987282332224613,
+            0.19577735124760076,
+            0.159655644687928
+          ],
+          "sourceRowId": "372-01",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-111470000-p372",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 372,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111360800",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.14987282332224613,
+                    0.19577735124760076,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111360800",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.14987282332224613,
+                    0.19577735124760076,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111360800",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.14987282332224613,
+                    0.19577735124760076,
+                    0.159655644687928
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Handle, with quick coupling",
+            "PSM11": "Handle, with quick coupling",
+            "Vision": "Handle, with quick coupling з-сииииин"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 372,
+          "printedPage": 370,
+          "bounds": [
+            0.11132437619961612,
+            0.23511387204069653,
+            0.56,
+            0.28707689297593425
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.23511387204069653,
+            0.56,
+            0.28707689297593425
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.23811387204069653,
+            0.19577735124760076,
+            0.2478966934063784
+          ],
+          "sourceRowId": "372-02",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-111470000-p372",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 372,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111360700",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.23811387204069653,
+                    0.19577735124760076,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111360700",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.23811387204069653,
+                    0.19577735124760076,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111360700",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.23811387204069653,
+                    0.19577735124760076,
+                    0.2478966934063784
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Packing Block",
+            "PSM11": "Packing Block",
+            "Vision": "Packing Block"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 372,
+          "printedPage": 370,
+          "bounds": [
+            0.11132437619961612,
+            0.3231592643318333,
+            0.56,
+            0.3752690275875562
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.3231592643318333,
+            0.56,
+            0.3752690275875562
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.3261592643318333,
+            0.19577735124760076,
+            0.3361377421248288
+          ],
+          "sourceRowId": "372-03",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-111470000-p372",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 372,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111360500",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.3261592643318333,
+                    0.19577735124760076,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111360500",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.3261592643318333,
+                    0.19577735124760076,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111360500",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.3261592643318333,
+                    0.19577735124760076,
+                    0.3361377421248288
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Funnel, for Packing Block",
+            "PSM11": "Funnel, for Packing Block",
+            "Vision": "Funnel, for Packing Block"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 372,
+          "printedPage": 370,
+          "bounds": [
+            0.11132437619961612,
+            0.4114003130502837,
+            0.56,
+            0.4635100763060066
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.4114003130502837,
+            0.56,
+            0.4635100763060066
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.4144003130502837,
+            0.19577735124760076,
+            0.4243787908432792
+          ],
+          "sourceRowId": "372-04",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-111470000-p372",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 372,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111360900",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.4144003130502837,
+                    0.19577735124760076,
+                    0.4243787908432792
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111360900",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.4144003130502837,
+                    0.19577735124760076,
+                    0.4243787908432792
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111360900",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.4144003130502837,
+                    0.19577735124760076,
+                    0.4243787908432792
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Impactor, for Bone Graft, 610",
+            "PSM11": "Impactor, for Bone Graft, 010",
+            "Vision": "Impactor, for Bone Graft, $10"
+          },
+          "descriptionVerification": "Codex visual source crop"
+        },
+        {
+          "pdfPage": 372,
+          "printedPage": 370,
+          "bounds": [
+            0.11132437619961612,
+            0.4996413617687341,
+            0.56,
+            0.551751125024457
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.4996413617687341,
+            0.56,
+            0.551751125024457
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.5026413617687341,
+            0.19577735124760076,
+            0.5126198395617296
+          ],
+          "sourceRowId": "372-05",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-111470000-p372",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 372,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111361000",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5026413617687341,
+                    0.19577735124760076,
+                    0.5126198395617296
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111361000",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5026413617687341,
+                    0.19577735124760076,
+                    0.5126198395617296
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111361000",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5026413617687341,
+                    0.19577735124760076,
+                    0.5126198395617296
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Impactor, for Bone Graft, 612",
+            "PSM11": "Impactor, for Bone Graft, 612",
+            "Vision": "Impactor, for Bone Graft, Ф12"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 372,
+          "printedPage": 370,
+          "bounds": [
+            0.11132437619961612,
+            0.5878824104871845,
+            0.56,
+            0.6399921737429074
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.5878824104871845,
+            0.56,
+            0.6399921737429074
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.5908824104871845,
+            0.19495475733479573,
+            0.60086088828018
+          ],
+          "sourceRowId": "372-06",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-111470000-p372",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 372,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111361100",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5908824104871845,
+                    0.19495475733479573,
+                    0.60086088828018
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111361100",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5908824104871845,
+                    0.19495475733479573,
+                    0.60086088828018
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111361100",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5908824104871845,
+                    0.19495475733479573,
+                    0.60086088828018
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Impactor, for Bone Graft, 018",
+            "PSM11": "Impactor, for Bone Graft, 018",
+            "Vision": "Impactor, for Bone Graft, $18"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 372,
+          "printedPage": 370,
+          "bounds": [
+            0.11132437619961612,
+            0.6761234592056349,
+            0.56,
+            0.7282332224613578
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.6761234592056349,
+            0.56,
+            0.7282332224613578
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.6791234592056349,
+            0.19577735124760076,
+            0.6891019369986304
+          ],
+          "sourceRowId": "372-07",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-111470000-p372",
+              "row": 7,
+              "column": 2,
+              "pdfPage": 372,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111361200",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.6791234592056349,
+                    0.19577735124760076,
+                    0.6891019369986304
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111361200",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.6791234592056349,
+                    0.19577735124760076,
+                    0.6891019369986304
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111361200",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.6791234592056349,
+                    0.19577735124760076,
+                    0.6891019369986304
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Impactor, for Bone Graft, 621",
+            "PSM11": "Impactor, for Bone Graft, 621",
+            "Vision": "Impactor, for Bone Graft, $21"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 372,
+          "printedPage": 370,
+          "bounds": [
+            0.11132437619961612,
+            0.7643645079240853,
+            0.56,
+            0.8323429857170809
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.7643645079240853,
+            0.56,
+            0.8323429857170809
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.7673645079240853,
+            0.19577735124760076,
+            0.7773429857170808
+          ],
+          "sourceRowId": "372-08",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-111470000-p372",
+              "row": 8,
+              "column": 2,
+              "pdfPage": 372,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111361300",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.7673645079240853,
+                    0.19577735124760076,
+                    0.7773429857170808
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111361300",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.7673645079240853,
+                    0.19577735124760076,
+                    0.7773429857170808
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111361300",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.7673645079240853,
+                    0.19577735124760076,
+                    0.7773429857170808
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Impactor, for Bone Graft, 624",
+            "PSM11": "Impactor, for Bone Graft, 624",
+            "Vision": "Impactor, for Bone Graft, $24"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        }
+      ],
+      "rowImages": [
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-372-01.webp",
+          "width": 546,
+          "height": 139,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              243,
+              39
+            ],
+            "enhancedSize": [
+              486,
+              78
+            ]
+          },
+          "imageCaption": {
+            "ru": "Рукоятка, с быстросъёмным соединением з-сииииин",
+            "en": "Handle, with quick coupling з-сииииин"
+          },
+          "sourcePages": [
+            372
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-372-02.webp",
+          "width": 437,
+          "height": 319,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              191,
+              132
+            ],
+            "enhancedSize": [
+              382,
+              264
+            ]
+          },
+          "imageCaption": {
+            "ru": "Блок для заполнения костным материалом",
+            "en": "Packing Block"
+          },
+          "sourcePages": [
+            372
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-372-03.webp",
+          "width": 194,
+          "height": 198,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              68,
+              68
+            ],
+            "enhancedSize": [
+              136,
+              136
+            ]
+          },
+          "imageCaption": {
+            "ru": "Воронка, для блока для заполнения костным материалом",
+            "en": "Funnel, for Packing Block"
+          },
+          "sourcePages": [
+            372
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-372-04.webp",
+          "width": 464,
+          "height": 103,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              200,
+              21
+            ],
+            "enhancedSize": [
+              400,
+              42
+            ]
+          },
+          "imageCaption": {
+            "ru": "Импактор, для костного трансплантата, Ø10",
+            "en": "Impactor, for Bone Graft, Ø10"
+          },
+          "sourcePages": [
+            372
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-372-05.webp",
+          "width": 506,
+          "height": 118,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              221,
+              27
+            ],
+            "enhancedSize": [
+              442,
+              54
+            ]
+          },
+          "imageCaption": {
+            "ru": "Импактор, для костного трансплантата, Ø12",
+            "en": "Impactor, for Bone Graft, Ø12"
+          },
+          "sourcePages": [
+            372
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-372-06.webp",
+          "width": 507,
+          "height": 140,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              224,
+              41
+            ],
+            "enhancedSize": [
+              448,
+              82
+            ]
+          },
+          "imageCaption": {
+            "ru": "Импактор, для костного трансплантата, Ø18",
+            "en": "Impactor, for Bone Graft, Ø18"
+          },
+          "sourcePages": [
+            372
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-372-07.webp",
+          "width": 529,
+          "height": 153,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              235,
+              49
+            ],
+            "enhancedSize": [
+              470,
+              98
+            ]
+          },
+          "imageCaption": {
+            "ru": "Импактор, для костного трансплантата, Ø21",
+            "en": "Impactor, for Bone Graft, Ø21"
+          },
+          "sourcePages": [
+            372
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-372-08.webp",
+          "width": 500,
+          "height": 162,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              221,
+              54
+            ],
+            "enhancedSize": [
+              442,
+              108
+            ]
+          },
+          "imageCaption": {
+            "ru": "Импактор, для костного трансплантата, Ø24",
+            "en": "Impactor, for Bone Graft, Ø24"
+          },
+          "sourcePages": [
+            372
+          ]
+        }
+      ],
+      "sourcePage": 372,
+      "sourcePages": [
+        372
+      ],
+      "printedPage": 370,
+      "catalogNumberTable": true
+    },
+    {
+      "id": "spine-set-111470000-p373",
+      "groupId": "spine-set-111470000-p373",
+      "title": {
+        "ru": "Инструменты · стр. 371",
+        "en": "Instruments · p. 371"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Держатель импланта, для сетки",
+            "en": "Implant Holder, for Mesh"
+          },
+          "111361400"
+        ],
+        [
+          {
+            "ru": "Импактор, большой",
+            "en": "Impactor, large"
+          },
+          "111361500"
+        ],
+        [
+          {
+            "ru": "Импактор, малый",
+            "en": "Impactor, small"
+          },
+          "111361600"
+        ],
+        [
+          {
+            "ru": "Молоток",
+            "en": "Hammer"
+          },
+          "111361800"
+        ],
+        [
+          {
+            "ru": "Контейнер инструментов — для титановых сеток",
+            "en": "Titanium Mesh Instrument Case"
+          },
+          "111470100"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 373,
+          "printedPage": 371,
+          "bounds": [
+            0.13408280778722237,
+            0.14687282332224613,
+            0.56,
+            0.19888475836431227
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.14687282332224613,
+            0.56,
+            0.19888475836431227
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.14987282332224613,
+            0.21853578283520703,
+            0.159655644687928
+          ],
+          "sourceRowId": "373-01",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-111470000-p373",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 373,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111361400",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.14987282332224613,
+                    0.21853578283520703,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111361400",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.14987282332224613,
+                    0.21853578283520703,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111361400",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.14987282332224613,
+                    0.21853578283520703,
+                    0.159655644687928
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Implant Holder, for Mesh",
+            "PSM11": "Implant Holder, for Mesh",
+            "Vision": "Implant Holder, for Mesh"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 373,
+          "printedPage": 371,
+          "bounds": [
+            0.13408280778722237,
+            0.23511387204069653,
+            0.56,
+            0.28707689297593425
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.23511387204069653,
+            0.56,
+            0.28707689297593425
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.23811387204069653,
+            0.21853578283520703,
+            0.2478966934063784
+          ],
+          "sourceRowId": "373-02",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-111470000-p373",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 373,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111361500",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.23811387204069653,
+                    0.21853578283520703,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111361500",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.23811387204069653,
+                    0.21853578283520703,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111361500",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.23811387204069653,
+                    0.21853578283520703,
+                    0.2478966934063784
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Impactor, large",
+            "PSM11": "Impactor, large",
+            "Vision": "Impactor, large"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 373,
+          "printedPage": 371,
+          "bounds": [
+            0.13408280778722237,
+            0.3231592643318333,
+            0.56,
+            0.3752690275875562
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.3231592643318333,
+            0.56,
+            0.3752690275875562
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.3261592643318333,
+            0.21853578283520703,
+            0.3361377421248288
+          ],
+          "sourceRowId": "373-03",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-111470000-p373",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 373,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111361600",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.3261592643318333,
+                    0.21853578283520703,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111361600",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.3261592643318333,
+                    0.21853578283520703,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111361600",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.3261592643318333,
+                    0.21853578283520703,
+                    0.3361377421248288
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Impactor, small",
+            "PSM11": "Impactor, small —————-",
+            "Vision": "Impactor, small"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 373,
+          "printedPage": 371,
+          "bounds": [
+            0.13408280778722237,
+            0.4114003130502837,
+            0.56,
+            0.4635100763060066
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.4114003130502837,
+            0.56,
+            0.4635100763060066
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.4144003130502837,
+            0.21853578283520703,
+            0.4243787908432792
+          ],
+          "sourceRowId": "373-04",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-111470000-p373",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 373,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111361800",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.4144003130502837,
+                    0.21853578283520703,
+                    0.4243787908432792
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111361800",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.4144003130502837,
+                    0.21853578283520703,
+                    0.4243787908432792
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111361800",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.4144003130502837,
+                    0.21853578283520703,
+                    0.4243787908432792
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Hammer",
+            "PSM11": "Hammer",
+            "Vision": "Hammer"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 373,
+          "printedPage": 371,
+          "bounds": [
+            0.13408280778722237,
+            0.4996413617687341,
+            0.56,
+            0.5676198395617297
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.4996413617687341,
+            0.56,
+            0.5676198395617297
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.5026413617687341,
+            0.21853578283520703,
+            0.5126198395617296
+          ],
+          "sourceRowId": "373-05",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-111470000-p373",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 373,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111470100",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.5026413617687341,
+                    0.21853578283520703,
+                    0.5126198395617296
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111470100",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.5026413617687341,
+                    0.21853578283520703,
+                    0.5126198395617296
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111470100",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.5026413617687341,
+                    0.21853578283520703,
+                    0.5126198395617296
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Titanium Mesh Instrument Case",
+            "PSM11": "Titanium Mesh Instrument Case",
+            "Vision": "Titanium Mesh Instrument Case"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        }
+      ],
+      "rowImages": [
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-373-01.webp",
+          "width": 666,
+          "height": 222,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              302,
+              81
+            ],
+            "enhancedSize": [
+              604,
+              162
+            ]
+          },
+          "imageCaption": {
+            "ru": "Держатель импланта, для сетки",
+            "en": "Implant Holder, for Mesh"
+          },
+          "sourcePages": [
+            373
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-373-02.webp",
+          "width": 746,
+          "height": 130,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              341,
+              35
+            ],
+            "enhancedSize": [
+              682,
+              70
+            ]
+          },
+          "imageCaption": {
+            "ru": "Импактор, большой",
+            "en": "Impactor, large"
+          },
+          "sourcePages": [
+            373
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-373-03.webp",
+          "width": 700,
+          "height": 132,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              318,
+              34
+            ],
+            "enhancedSize": [
+              636,
+              68
+            ]
+          },
+          "imageCaption": {
+            "ru": "Импактор, малый",
+            "en": "Impactor, small"
+          },
+          "sourcePages": [
+            373
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-373-04.webp",
+          "width": 696,
+          "height": 232,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              316,
+              84
+            ],
+            "enhancedSize": [
+              632,
+              168
+            ]
+          },
+          "imageCaption": {
+            "ru": "Молоток",
+            "en": "Hammer"
+          },
+          "sourcePages": [
+            373
+          ]
+        },
+        null
+      ],
+      "sourcePage": 373,
+      "sourcePages": [
+        373
+      ],
+      "printedPage": 371,
+      "catalogNumberTable": true
+    }
+  ],
+  "referenceTables": [],
+  "refCodes": [
+    "111470000",
+    "111360100",
+    "111361900",
+    "111362000",
+    "111362100",
+    "111362200",
+    "111360300",
+    "111360400",
+    "111360600",
+    "111360800",
+    "111360700",
+    "111360500",
+    "111360900",
+    "111361000",
+    "111361100",
+    "111361200",
+    "111361300",
+    "111361400",
+    "111361500",
+    "111361600",
+    "111361800",
+    "111470100"
+  ],
+  "sourcePages": [
+    371,
+    372,
+    373
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Spine Catalogue — каталог продукции",
+    "en": "Double Medical Spine Catalogue — product catalog"
+  },
+  "documentCover": "/catalogs/double-medical/spine-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "relatedSystemSlugs": [
+    "spinal-titanium-mesh"
+  ],
+  "relatedRelationship": "Clinical family/context; no additional compatibility claim",
+  "imageDimensions": {
+    "/images/products/double-medical/spine-instruments/art-371-01.webp": {
+      "width": 576,
+      "height": 322
+    },
+    "/images/products/double-medical/spine-instruments/art-371-02.webp": {
+      "width": 301,
+      "height": 225
+    },
+    "/images/products/double-medical/spine-instruments/art-371-03.webp": {
+      "width": 322,
+      "height": 246
+    },
+    "/images/products/double-medical/spine-instruments/art-371-04.webp": {
+      "width": 357,
+      "height": 324
+    },
+    "/images/products/double-medical/spine-instruments/art-371-05.webp": {
+      "width": 392,
+      "height": 306
+    },
+    "/images/products/double-medical/spine-instruments/art-371-06.webp": {
+      "width": 484,
+      "height": 362
+    },
+    "/images/products/double-medical/spine-instruments/art-371-07.webp": {
+      "width": 548,
+      "height": 344
+    },
+    "/images/products/double-medical/spine-instruments/art-371-08.webp": {
+      "width": 616,
+      "height": 118
+    },
+    "/images/products/double-medical/spine-instruments/art-372-01.webp": {
+      "width": 546,
+      "height": 139
+    },
+    "/images/products/double-medical/spine-instruments/art-372-02.webp": {
+      "width": 437,
+      "height": 319
+    },
+    "/images/products/double-medical/spine-instruments/art-372-03.webp": {
+      "width": 194,
+      "height": 198
+    },
+    "/images/products/double-medical/spine-instruments/art-372-04.webp": {
+      "width": 464,
+      "height": 103
+    },
+    "/images/products/double-medical/spine-instruments/art-372-05.webp": {
+      "width": 506,
+      "height": 118
+    },
+    "/images/products/double-medical/spine-instruments/art-372-06.webp": {
+      "width": 507,
+      "height": 140
+    },
+    "/images/products/double-medical/spine-instruments/art-372-07.webp": {
+      "width": 529,
+      "height": 153
+    },
+    "/images/products/double-medical/spine-instruments/art-372-08.webp": {
+      "width": 500,
+      "height": 162
+    },
+    "/images/products/double-medical/spine-instruments/art-373-01.webp": {
+      "width": 666,
+      "height": 222
+    },
+    "/images/products/double-medical/spine-instruments/art-373-02.webp": {
+      "width": 746,
+      "height": 130
+    },
+    "/images/products/double-medical/spine-instruments/art-373-03.webp": {
+      "width": 700,
+      "height": 132
+    },
+    "/images/products/double-medical/spine-instruments/art-373-04.webp": {
+      "width": 696,
+      "height": 232
+    }
+  },
+  "sourcePdf": "/catalogs/double-medical/spine-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/spine-catalogue/pages/371.webp",
+    "/catalogs/double-medical/spine-catalogue/pages/372.webp",
+    "/catalogs/double-medical/spine-catalogue/pages/373.webp"
+  ],
+  "sourcePageDimensions": {
+    "210": {
+      "width": 3647,
+      "height": 5111
+    },
+    "211": {
+      "width": 3647,
+      "height": 5111
+    },
+    "212": {
+      "width": 3647,
+      "height": 5111
+    },
+    "213": {
+      "width": 3647,
+      "height": 5111
+    },
+    "214": {
+      "width": 3647,
+      "height": 5111
+    },
+    "215": {
+      "width": 3647,
+      "height": 5111
+    },
+    "216": {
+      "width": 3647,
+      "height": 5111
+    },
+    "217": {
+      "width": 3647,
+      "height": 5111
+    },
+    "218": {
+      "width": 3647,
+      "height": 5111
+    },
+    "219": {
+      "width": 3647,
+      "height": 5111
+    },
+    "220": {
+      "width": 3647,
+      "height": 5111
+    },
+    "221": {
+      "width": 3647,
+      "height": 5111
+    },
+    "222": {
+      "width": 3647,
+      "height": 5111
+    },
+    "223": {
+      "width": 3647,
+      "height": 5111
+    },
+    "224": {
+      "width": 3647,
+      "height": 5111
+    },
+    "225": {
+      "width": 3647,
+      "height": 5111
+    },
+    "226": {
+      "width": 3647,
+      "height": 5111
+    },
+    "227": {
+      "width": 3647,
+      "height": 5111
+    },
+    "228": {
+      "width": 3647,
+      "height": 5111
+    },
+    "229": {
+      "width": 3647,
+      "height": 5111
+    },
+    "230": {
+      "width": 3647,
+      "height": 5111
+    },
+    "231": {
+      "width": 3647,
+      "height": 5111
+    },
+    "232": {
+      "width": 3647,
+      "height": 5111
+    },
+    "233": {
+      "width": 3647,
+      "height": 5111
+    },
+    "234": {
+      "width": 3647,
+      "height": 5111
+    },
+    "235": {
+      "width": 3647,
+      "height": 5111
+    },
+    "236": {
+      "width": 3647,
+      "height": 5111
+    },
+    "237": {
+      "width": 3647,
+      "height": 5111
+    },
+    "238": {
+      "width": 3647,
+      "height": 5111
+    },
+    "239": {
+      "width": 3647,
+      "height": 5111
+    },
+    "240": {
+      "width": 3647,
+      "height": 5111
+    },
+    "241": {
+      "width": 3647,
+      "height": 5111
+    },
+    "242": {
+      "width": 3647,
+      "height": 5111
+    },
+    "243": {
+      "width": 3647,
+      "height": 5111
+    },
+    "244": {
+      "width": 3647,
+      "height": 5111
+    },
+    "245": {
+      "width": 3647,
+      "height": 5111
+    },
+    "246": {
+      "width": 3647,
+      "height": 5111
+    },
+    "247": {
+      "width": 3647,
+      "height": 5111
+    },
+    "248": {
+      "width": 3647,
+      "height": 5111
+    },
+    "249": {
+      "width": 3647,
+      "height": 5111
+    },
+    "250": {
+      "width": 3647,
+      "height": 5111
+    },
+    "251": {
+      "width": 3647,
+      "height": 5111
+    },
+    "252": {
+      "width": 3647,
+      "height": 5111
+    },
+    "253": {
+      "width": 3647,
+      "height": 5111
+    },
+    "254": {
+      "width": 3647,
+      "height": 5111
+    },
+    "255": {
+      "width": 3647,
+      "height": 5111
+    },
+    "256": {
+      "width": 3647,
+      "height": 5111
+    },
+    "257": {
+      "width": 3647,
+      "height": 5111
+    },
+    "258": {
+      "width": 3647,
+      "height": 5111
+    },
+    "259": {
+      "width": 3647,
+      "height": 5111
+    },
+    "260": {
+      "width": 3647,
+      "height": 5111
+    },
+    "261": {
+      "width": 3647,
+      "height": 5111
+    },
+    "262": {
+      "width": 3647,
+      "height": 5111
+    },
+    "263": {
+      "width": 3647,
+      "height": 5111
+    },
+    "264": {
+      "width": 3647,
+      "height": 5111
+    },
+    "265": {
+      "width": 3647,
+      "height": 5111
+    },
+    "266": {
+      "width": 3647,
+      "height": 5111
+    },
+    "267": {
+      "width": 3647,
+      "height": 5111
+    },
+    "268": {
+      "width": 3647,
+      "height": 5111
+    },
+    "269": {
+      "width": 3647,
+      "height": 5111
+    },
+    "270": {
+      "width": 3647,
+      "height": 5111
+    },
+    "271": {
+      "width": 3647,
+      "height": 5111
+    },
+    "272": {
+      "width": 3647,
+      "height": 5111
+    },
+    "273": {
+      "width": 3647,
+      "height": 5111
+    },
+    "274": {
+      "width": 3647,
+      "height": 5111
+    },
+    "275": {
+      "width": 3647,
+      "height": 5111
+    },
+    "276": {
+      "width": 3647,
+      "height": 5111
+    },
+    "277": {
+      "width": 3647,
+      "height": 5111
+    },
+    "278": {
+      "width": 3647,
+      "height": 5111
+    },
+    "279": {
+      "width": 3647,
+      "height": 5111
+    },
+    "280": {
+      "width": 3647,
+      "height": 5111
+    },
+    "281": {
+      "width": 3647,
+      "height": 5111
+    },
+    "282": {
+      "width": 3647,
+      "height": 5111
+    },
+    "283": {
+      "width": 3647,
+      "height": 5111
+    },
+    "284": {
+      "width": 3647,
+      "height": 5111
+    },
+    "285": {
+      "width": 3647,
+      "height": 5111
+    },
+    "286": {
+      "width": 3647,
+      "height": 5111
+    },
+    "287": {
+      "width": 3647,
+      "height": 5111
+    },
+    "288": {
+      "width": 3647,
+      "height": 5111
+    },
+    "289": {
+      "width": 3647,
+      "height": 5111
+    },
+    "290": {
+      "width": 3647,
+      "height": 5111
+    },
+    "291": {
+      "width": 3647,
+      "height": 5111
+    },
+    "292": {
+      "width": 3647,
+      "height": 5111
+    },
+    "293": {
+      "width": 3647,
+      "height": 5111
+    },
+    "294": {
+      "width": 3647,
+      "height": 5111
+    },
+    "295": {
+      "width": 3647,
+      "height": 5111
+    },
+    "296": {
+      "width": 3647,
+      "height": 5111
+    },
+    "297": {
+      "width": 3647,
+      "height": 5111
+    },
+    "298": {
+      "width": 3647,
+      "height": 5111
+    },
+    "299": {
+      "width": 3647,
+      "height": 5111
+    },
+    "300": {
+      "width": 3647,
+      "height": 5111
+    },
+    "301": {
+      "width": 3647,
+      "height": 5111
+    },
+    "302": {
+      "width": 3647,
+      "height": 5111
+    },
+    "303": {
+      "width": 3647,
+      "height": 5111
+    },
+    "304": {
+      "width": 3647,
+      "height": 5111
+    },
+    "305": {
+      "width": 3647,
+      "height": 5111
+    },
+    "306": {
+      "width": 3647,
+      "height": 5111
+    },
+    "307": {
+      "width": 3647,
+      "height": 5111
+    },
+    "308": {
+      "width": 3647,
+      "height": 5111
+    },
+    "309": {
+      "width": 3647,
+      "height": 5111
+    },
+    "310": {
+      "width": 3647,
+      "height": 5111
+    },
+    "311": {
+      "width": 3647,
+      "height": 5111
+    },
+    "312": {
+      "width": 3647,
+      "height": 5111
+    },
+    "313": {
+      "width": 3647,
+      "height": 5111
+    },
+    "314": {
+      "width": 3647,
+      "height": 5111
+    },
+    "315": {
+      "width": 3647,
+      "height": 5111
+    },
+    "316": {
+      "width": 3647,
+      "height": 5111
+    },
+    "317": {
+      "width": 3647,
+      "height": 5111
+    },
+    "318": {
+      "width": 3647,
+      "height": 5111
+    },
+    "319": {
+      "width": 3647,
+      "height": 5111
+    },
+    "320": {
+      "width": 3647,
+      "height": 5111
+    },
+    "321": {
+      "width": 3647,
+      "height": 5111
+    },
+    "322": {
+      "width": 3647,
+      "height": 5111
+    },
+    "323": {
+      "width": 3647,
+      "height": 5111
+    },
+    "324": {
+      "width": 3647,
+      "height": 5111
+    },
+    "325": {
+      "width": 3647,
+      "height": 5111
+    },
+    "326": {
+      "width": 3647,
+      "height": 5111
+    },
+    "327": {
+      "width": 3647,
+      "height": 5111
+    },
+    "328": {
+      "width": 3647,
+      "height": 5111
+    },
+    "329": {
+      "width": 3647,
+      "height": 5111
+    },
+    "330": {
+      "width": 3647,
+      "height": 5111
+    },
+    "331": {
+      "width": 3647,
+      "height": 5111
+    },
+    "332": {
+      "width": 3647,
+      "height": 5111
+    },
+    "333": {
+      "width": 3647,
+      "height": 5111
+    },
+    "334": {
+      "width": 3647,
+      "height": 5111
+    },
+    "335": {
+      "width": 3647,
+      "height": 5111
+    },
+    "336": {
+      "width": 3647,
+      "height": 5111
+    },
+    "337": {
+      "width": 3647,
+      "height": 5111
+    },
+    "338": {
+      "width": 3647,
+      "height": 5111
+    },
+    "339": {
+      "width": 3647,
+      "height": 5111
+    },
+    "340": {
+      "width": 3647,
+      "height": 5111
+    },
+    "341": {
+      "width": 3647,
+      "height": 5111
+    },
+    "342": {
+      "width": 3647,
+      "height": 5111
+    },
+    "343": {
+      "width": 3647,
+      "height": 5111
+    },
+    "344": {
+      "width": 3647,
+      "height": 5111
+    },
+    "345": {
+      "width": 3647,
+      "height": 5111
+    },
+    "346": {
+      "width": 3647,
+      "height": 5111
+    },
+    "347": {
+      "width": 3647,
+      "height": 5111
+    },
+    "348": {
+      "width": 3647,
+      "height": 5111
+    },
+    "349": {
+      "width": 3647,
+      "height": 5111
+    },
+    "350": {
+      "width": 3647,
+      "height": 5111
+    },
+    "351": {
+      "width": 3647,
+      "height": 5111
+    },
+    "352": {
+      "width": 3647,
+      "height": 5111
+    },
+    "353": {
+      "width": 3647,
+      "height": 5111
+    },
+    "354": {
+      "width": 3647,
+      "height": 5111
+    },
+    "355": {
+      "width": 3647,
+      "height": 5111
+    },
+    "356": {
+      "width": 3647,
+      "height": 5111
+    },
+    "357": {
+      "width": 3647,
+      "height": 5111
+    },
+    "358": {
+      "width": 3647,
+      "height": 5111
+    },
+    "359": {
+      "width": 3647,
+      "height": 5111
+    },
+    "360": {
+      "width": 3647,
+      "height": 5111
+    },
+    "361": {
+      "width": 3647,
+      "height": 5111
+    },
+    "362": {
+      "width": 3647,
+      "height": 5111
+    },
+    "363": {
+      "width": 3647,
+      "height": 5111
+    },
+    "364": {
+      "width": 3647,
+      "height": 5111
+    },
+    "365": {
+      "width": 3647,
+      "height": 5111
+    },
+    "366": {
+      "width": 3647,
+      "height": 5111
+    },
+    "367": {
+      "width": 3647,
+      "height": 5111
+    },
+    "368": {
+      "width": 3647,
+      "height": 5111
+    },
+    "369": {
+      "width": 3647,
+      "height": 5111
+    },
+    "370": {
+      "width": 3647,
+      "height": 5111
+    },
+    "371": {
+      "width": 3647,
+      "height": 5111
+    },
+    "372": {
+      "width": 3647,
+      "height": 5111
+    },
+    "373": {
+      "width": 3647,
+      "height": 5111
+    },
+    "374": {
+      "width": 3647,
+      "height": 5111
+    },
+    "375": {
+      "width": 3647,
+      "height": 5111
+    },
+    "376": {
+      "width": 3647,
+      "height": 5111
+    },
+    "377": {
+      "width": 3647,
+      "height": 5111
+    },
+    "378": {
+      "width": 3647,
+      "height": 5111
+    },
+    "379": {
+      "width": 3647,
+      "height": 5111
+    },
+    "380": {
+      "width": 3647,
+      "height": 5111
+    },
+    "381": {
+      "width": 3647,
+      "height": 5111
+    },
+    "382": {
+      "width": 3647,
+      "height": 5111
+    },
+    "383": {
+      "width": 3647,
+      "height": 5111
+    },
+    "384": {
+      "width": 3647,
+      "height": 5111
+    },
+    "385": {
+      "width": 3647,
+      "height": 5111
+    },
+    "386": {
+      "width": 3647,
+      "height": 5111
+    },
+    "387": {
+      "width": 3647,
+      "height": 5111
+    },
+    "388": {
+      "width": 3647,
+      "height": 5111
+    },
+    "389": {
+      "width": 3647,
+      "height": 5111
+    },
+    "390": {
+      "width": 3647,
+      "height": 5111
+    },
+    "391": {
+      "width": 3647,
+      "height": 5111
+    },
+    "392": {
+      "width": 3647,
+      "height": 5111
+    },
+    "393": {
+      "width": 3647,
+      "height": 5111
+    },
+    "394": {
+      "width": 3647,
+      "height": 5111
+    },
+    "395": {
+      "width": 3647,
+      "height": 5111
+    },
+    "396": {
+      "width": 3647,
+      "height": 5111
+    },
+    "397": {
+      "width": 3647,
+      "height": 5111
+    },
+    "398": {
+      "width": 3647,
+      "height": 5111
+    },
+    "399": {
+      "width": 3647,
+      "height": 5111
+    },
+    "400": {
+      "width": 3647,
+      "height": 5111
+    },
+    "401": {
+      "width": 3647,
+      "height": 5111
+    },
+    "402": {
+      "width": 3647,
+      "height": 5111
+    },
+    "403": {
+      "width": 3647,
+      "height": 5111
+    },
+    "404": {
+      "width": 3647,
+      "height": 5111
+    },
+    "405": {
+      "width": 3647,
+      "height": 5111
+    },
+    "406": {
+      "width": 3647,
+      "height": 5111
+    },
+    "407": {
+      "width": 3647,
+      "height": 5111
+    },
+    "408": {
+      "width": 3647,
+      "height": 5111
+    },
+    "409": {
+      "width": 3647,
+      "height": 5111
+    },
+    "410": {
+      "width": 3647,
+      "height": 5111
+    },
+    "411": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "d32e99d5106ebd5f18a76a32ff19d64da74f9ef96cc60ca536c0a533e630cb9c",
+    "importMethod": "600-DPI Tesseract PSM3 + PSM11 + independent Apple Vision accurate; exact REF agreement; Codex-authored RU medical terminology; native photo composites, Real-ESRGAN 2x before rembg",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      412
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "gallery.1.imageCaption.ru",
+      "gallery.2.imageCaption.ru",
+      "gallery.3.imageCaption.ru",
+      "gallery.4.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.rows.3.0.ru",
+      "specTables.0.rows.4.0.ru",
+      "specTables.0.rows.5.0.ru",
+      "specTables.0.rows.6.0.ru",
+      "specTables.0.rows.7.0.ru",
+      "specTables.0.rowImages.0.imageCaption.ru",
+      "specTables.0.rowImages.1.imageCaption.ru",
+      "specTables.0.rowImages.2.imageCaption.ru",
+      "specTables.0.rowImages.3.imageCaption.ru",
+      "specTables.0.rowImages.4.imageCaption.ru",
+      "specTables.0.rowImages.5.imageCaption.ru",
+      "specTables.0.rowImages.6.imageCaption.ru",
+      "specTables.0.rowImages.7.imageCaption.ru",
+      "specTables.1.title.ru",
+      "specTables.1.columns.0.ru",
+      "specTables.1.columns.1.ru",
+      "specTables.1.rows.0.0.ru",
+      "specTables.1.rows.1.0.ru",
+      "specTables.1.rows.2.0.ru",
+      "specTables.1.rows.3.0.ru",
+      "specTables.1.rows.4.0.ru",
+      "specTables.1.rows.5.0.ru",
+      "specTables.1.rows.6.0.ru",
+      "specTables.1.rows.7.0.ru",
+      "specTables.1.rowImages.0.imageCaption.ru",
+      "specTables.1.rowImages.1.imageCaption.ru",
+      "specTables.1.rowImages.2.imageCaption.ru",
+      "specTables.1.rowImages.3.imageCaption.ru",
+      "specTables.1.rowImages.4.imageCaption.ru",
+      "specTables.1.rowImages.5.imageCaption.ru",
+      "specTables.1.rowImages.6.imageCaption.ru",
+      "specTables.1.rowImages.7.imageCaption.ru",
+      "specTables.2.title.ru",
+      "specTables.2.columns.0.ru",
+      "specTables.2.columns.1.ru",
+      "specTables.2.rows.0.0.ru",
+      "specTables.2.rows.1.0.ru",
+      "specTables.2.rows.2.0.ru",
+      "specTables.2.rows.3.0.ru",
+      "specTables.2.rows.4.0.ru",
+      "specTables.2.rowImages.0.imageCaption.ru",
+      "specTables.2.rowImages.1.imageCaption.ru",
+      "specTables.2.rowImages.2.imageCaption.ru",
+      "specTables.2.rowImages.3.imageCaption.ru",
+      "catalogTitle.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Published automatically under owner instruction: no open real source flags"
+  },
+  "publishedAt": "2026-11-19T23:55:52.772140+00:00"
+}

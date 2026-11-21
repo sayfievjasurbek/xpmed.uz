@@ -1,0 +1,61 @@
+{
+  "resolved": [
+    {
+      "code": "unexplained-code-marker",
+      "field": "specTables",
+      "severity": "review",
+      "status": "open",
+      "message": {
+        "ru": "На стр. 94 после артикула стоят * / ** без найденной расшифровки. На другой странице тот же базовый артикул напечатан без звёздочек.",
+        "en": "Page 94 appends * / ** without a found legend; another source page prints the same base article without markers."
+      },
+      "sourcePages": [
+        94
+      ],
+      "itemName": "4.2mm, Large Hub, Merlin, Shaver, Great White, Pre-Bent 15°",
+      "readings": [
+        "EL9299U*",
+        "EL9299U"
+      ],
+      "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/094-05-01-1.png",
+      "path": "specTables",
+      "pdfPage": 94
+    },
+    {
+      "code": "unexplained-code-marker",
+      "field": "specTables",
+      "severity": "review",
+      "status": "open",
+      "message": {
+        "ru": "На стр. 94 после артикула стоят * / ** без найденной расшифровки. На другой странице тот же базовый артикул напечатан без звёздочек.",
+        "en": "Page 94 appends * / ** without a found legend; another source page prints the same base article without markers."
+      },
+      "sourcePages": [
+        94
+      ],
+      "itemName": "4.2mm, Large Hub, Merlin, Shaver, Great White, Pre-Bent 15°",
+      "readings": [
+        "EL9299D**",
+        "EL9299D"
+      ],
+      "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/094-05-02-1.png",
+      "path": "specTables",
+      "pdfPage": 94
+    }
+  ],
+  "resolution": {
+    "id": "p94-missing-footnote",
+    "pdfPage": 94,
+    "printedCodes": [
+      "EL9299U*",
+      "EL9299D**"
+    ],
+    "correctedCodes": [
+      "EL9299U",
+      "EL9299D"
+    ],
+    "internalNote": "p.94 missing footnote: * / ** are footnote markers, not part of the catalog numbers. Add a legend for EL9299U (concave) and EL9299D (convex); no footnote was printed.",
+    "verificationStatus": "confirmed on conmed.com",
+    "manufacturerUrl": "https://www.conmed.com/en/products/resection-fluid-management-and-ablation/resection/conmed-arthroscopic-resection"
+  }
+}

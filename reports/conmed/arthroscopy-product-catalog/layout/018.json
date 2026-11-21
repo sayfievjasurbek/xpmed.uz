@@ -1,0 +1,594 @@
+{
+  "pdfPage": 18,
+  "officialPage": 23,
+  "alignment": [
+    [
+      0.9725650127615401,
+      -0.0005563303166213462,
+      0.014518958690966801
+    ],
+    [
+      0.0007725354318426207,
+      0.9803609633657507,
+      0.010487352597451462
+    ]
+  ],
+  "alignmentMatches": 50,
+  "alignmentInliers": 36,
+  "category": "shoulder-arthroscopy",
+  "title": {
+    "en": "Biceps Tenodesis",
+    "ru": "Тенодез длинной головки бицепса"
+  },
+  "groups": [
+    {
+      "title": "TenoLok® Tenodesis Anchor — Implants",
+      "page": 18,
+      "officialPage": 23,
+      "headingBounds": [
+        0.10014176885537461,
+        0.295245002314897,
+        0.14986383186920857,
+        0.3084859660688946
+      ],
+      "rows": [
+        {
+          "description": "5.0mm TenoLok Tenodesis Anchor with one #2 Hi-Fi suture",
+          "codes": [
+            {
+              "candidate": "T50S",
+              "sourceBounds": [
+                0.5404040505311039,
+                0.31206029494920634,
+                0.5673427106555432,
+                0.32468156628556855
+              ],
+              "officialBounds": [
+                331.02801513671875,
+                243.29286193847656,
+                347.9840393066406,
+                253.47186279296875
+              ],
+              "officialCode": "T50S"
+            }
+          ],
+          "rowBounds": [
+            0.10013242505489428,
+            0.3117105749553218,
+            0.5673427106555432,
+            0.32468156628556855
+          ],
+          "pdfPage": 18,
+          "officialPage": 23
+        },
+        {
+          "description": "6.0mm TenoLok Tenodesis Anchor with one #2 Hi-Fi suture",
+          "codes": [
+            {
+              "candidate": "T60S",
+              "sourceBounds": [
+                0.5403956233846774,
+                0.3269105469348687,
+                0.5673342835091167,
+                0.33953181827123086
+              ],
+              "officialBounds": [
+                331.02801513671875,
+                255.2898712158203,
+                347.9840393066406,
+                265.4688720703125
+              ],
+              "officialCode": "T60S"
+            }
+          ],
+          "rowBounds": [
+            0.10012402821926104,
+            0.32656082696506084,
+            0.5673342835091167,
+            0.33953181827123086
+          ],
+          "pdfPage": 18,
+          "officialPage": 23
+        },
+        {
+          "description": "6.0mm TenoLok Tenodesis Anchor with distal cleats",
+          "codes": [
+            {
+              "candidate": "T60A",
+              "sourceBounds": [
+                0.5400868526392941,
+                0.34176057923704706,
+                0.5673115496682722,
+                0.35438205889268803
+              ],
+              "officialBounds": [
+                330.8390197753906,
+                267.2868957519531,
+                347.97503662109375,
+                277.46588134765625
+              ],
+              "officialCode": "T60A"
+            }
+          ],
+          "rowBounds": [
+            0.10011560106211621,
+            0.3414110978385024,
+            0.5673115496682722,
+            0.35438205889268803
+          ],
+          "pdfPage": 18,
+          "officialPage": 23
+        }
+      ],
+      "features": [],
+      "notes": [
+        "The TenoLok Tenodsis Anchor is a dual expanding anchor made of PEEK. It comes",
+        "in two different diameters (5.0mm and 6.0mm) and is intended for soft tissue to",
+        "bone fixation. It can be used for arthroscopic or mini-open biceps tenodesis repair",
+        "or MPFL, MQTFL or ALL for the knee.",
+        "The TenoLok Tenodesis Anchor provides a quick and easy repair to reduce steps in",
+        "the OR such as whipstitching and provides benefits over conventional interference",
+        "screws like tendon wrapping and tendon damage.",
+        "(Implants sold sterile)"
+      ],
+      "keyParameters": []
+    },
+    {
+      "title": "Kits",
+      "page": 18,
+      "officialPage": 23,
+      "headingBounds": [
+        0.10008905865343924,
+        0.3881305108063103,
+        0.12800225552009795,
+        0.4028209389916495
+      ],
+      "rows": [
+        {
+          "description": "one T50S, one 2.4mm guide pin, and one 6.5mm Badger drill bit",
+          "codes": [
+            {
+              "candidate": "T50S65",
+              "sourceBounds": [
+                0.5265954663342785,
+                0.42469686687256275,
+                0.5672644793400529,
+                0.43732902572220383
+              ],
+              "officialBounds": [
+                322.3789978027344,
+                334.2969055175781,
+                347.97503662109375,
+                344.47589111328125
+              ],
+              "officialCode": "T50S65"
+            }
+          ],
+          "rowBounds": [
+            0.12072120194727283,
+            0.4243744696590112,
+            0.5706970675577071,
+            0.43733175232246835
+          ],
+          "pdfPage": 18,
+          "officialPage": 23
+        },
+        {
+          "description": "one T50S, one 2.4mm guide pin, and one 7.0mm Badger drill bit",
+          "codes": [
+            {
+              "candidate": "T50S70",
+              "sourceBounds": [
+                0.5265713712071656,
+                0.4420314171338254,
+                0.5672403842129402,
+                0.45466357598346646
+              ],
+              "officialBounds": [
+                322.3700256347656,
+                348.3009033203125,
+                347.966064453125,
+                358.4798889160156
+              ],
+              "officialCode": "T50S70"
+            }
+          ],
+          "rowBounds": [
+            0.1206970461985735,
+            0.44170901987212047,
+            0.5706729724305943,
+            0.454666302583731
+          ],
+          "pdfPage": 18,
+          "officialPage": 23
+        },
+        {
+          "description": "one T60S, one 2.4mm guide pin, and one 7.5mm Badger drill bit",
+          "codes": [
+            {
+              "candidate": "T60S75",
+              "sourceBounds": [
+                0.5265472760800527,
+                0.45936596739508806,
+                0.5672162890858272,
+                0.47199812624472914
+              ],
+              "officialBounds": [
+                322.3610534667969,
+                362.3049011230469,
+                347.95709228515625,
+                372.48388671875
+              ],
+              "officialCode": "T60S75"
+            }
+          ],
+          "rowBounds": [
+            0.12067295107146067,
+            0.45904357013338315,
+            0.5706488773034815,
+            0.47200085284499366
+          ],
+          "pdfPage": 18,
+          "officialPage": 23
+        },
+        {
+          "description": "one T60S, one 2.4mm guide pin, and one 8.0mm Badger drill bit",
+          "codes": [
+            {
+              "candidate": "T60S80",
+              "sourceBounds": [
+                0.5265231324556707,
+                0.47670051761782795,
+                0.5671921454614453,
+                0.48933267646746903
+              ],
+              "officialBounds": [
+                322.35205078125,
+                376.30889892578125,
+                347.9480895996094,
+                386.4878845214844
+              ],
+              "officialCode": "T60S80"
+            }
+          ],
+          "rowBounds": [
+            0.12064885594434784,
+            0.4763781203946458,
+            0.5706247336790995,
+            0.4893354030677336
+          ],
+          "pdfPage": 18,
+          "officialPage": 23
+        },
+        {
+          "description": "one T60A, one 2.4mm guide pin, and one 7.5mm Badger drill bit",
+          "codes": [
+            {
+              "candidate": "T60A75",
+              "sourceBounds": [
+                0.5262129519374682,
+                0.4940348406335099,
+                0.5671680018370632,
+                0.506667226690209
+              ],
+              "officialBounds": [
+                322.1630554199219,
+                390.3128967285156,
+                347.9390869140625,
+                400.49188232421875
+              ],
+              "officialCode": "T60A75"
+            }
+          ],
+          "rowBounds": [
+            0.1206247123199658,
+            0.4937126706173857,
+            0.5706005900547174,
+            0.5066699532904736
+          ],
+          "pdfPage": 18,
+          "officialPage": 23
+        },
+        {
+          "description": "one T60A, one 2.4mm guide pin, and one 8.0mm Badger drill bit",
+          "codes": [
+            {
+              "candidate": "T60A80",
+              "sourceBounds": [
+                0.526188808313086,
+                0.5113693908562499,
+                0.5671438582126812,
+                0.5240017769129489
+              ],
+              "officialBounds": [
+                322.154052734375,
+                404.31689453125,
+                347.9300842285156,
+                414.4958801269531
+              ],
+              "officialCode": "T60A80"
+            }
+          ],
+          "rowBounds": [
+            0.12060056869558376,
+            0.5110472208401257,
+            0.5671438582126812,
+            0.5240017769129489
+          ],
+          "pdfPage": 18,
+          "officialPage": 23
+        }
+      ],
+      "features": [],
+      "notes": [
+        "Contents are packaged sterile, and are single use."
+      ],
+      "keyParameters": []
+    },
+    {
+      "title": "Kits — Instruments",
+      "page": 18,
+      "officialPage": 23,
+      "headingBounds": [
+        0.09992147951647816,
+        0.532309096569314,
+        0.17188381430793548,
+        0.5455676886140007
+      ],
+      "rows": [
+        {
+          "description": "9\" High Strength Guide Pin, 2.4mm dia., sterile (5/Box)",
+          "codes": [
+            {
+              "candidate": "9742D",
+              "sourceBounds": [
+                0.5319884198219537,
+                0.5491179171916766,
+                0.5671223909951352,
+                0.561745679403688
+              ],
+              "officialBounds": [
+                325.8170166015625,
+                434.80889892578125,
+                347.9300537109375,
+                444.9878845214844
+              ],
+              "officialCode": "9742D"
+            }
+          ],
+          "rowBounds": [
+            0.09991213569456114,
+            0.5487747069852972,
+            0.5671223909951352,
+            0.561745679403688
+          ],
+          "pdfPage": 18,
+          "officialPage": 23
+        },
+        {
+          "description": "Badger® Drill Bit, 6.5mm dia., sterile (4/Box)",
+          "codes": [
+            {
+              "candidate": "C8593",
+              "sourceBounds": [
+                0.5323225837090723,
+                0.5639572975121575,
+                0.56719908288,
+                0.5765848552069985
+              ],
+              "officialBounds": [
+                326.0325927734375,
+                446.7969055175781,
+                347.9836120605469,
+                456.97589111328125
+              ],
+              "officialCode": "C8593"
+            }
+          ],
+          "rowBounds": [
+            0.09990371487195651,
+            0.5636138151812176,
+            0.5671990765561782,
+            0.5765959989967404
+          ],
+          "pdfPage": 18,
+          "officialPage": 23
+        },
+        {
+          "description": "Badger® Drill Bit, 7.0mm dia., sterile (4/Box)",
+          "codes": [
+            {
+              "candidate": "C8582",
+              "sourceBounds": [
+                0.5323141544618507,
+                0.5788112515025478,
+                0.5671906536327784,
+                0.5914388091973887
+              ],
+              "officialBounds": [
+                326.0325927734375,
+                458.7969055175781,
+                347.9836120605469,
+                468.97589111328125
+              ],
+              "officialCode": "C8582"
+            }
+          ],
+          "rowBounds": [
+            0.09998040043299954,
+            0.5784641347742701,
+            0.5671906536327784,
+            0.5914388091973887
+          ],
+          "pdfPage": 18,
+          "officialPage": 23
+        },
+        {
+          "description": "Badger® Drill Bit, 7.5mm dia., sterile (4/Box)",
+          "codes": [
+            {
+              "candidate": "8593",
+              "sourceBounds": [
+                0.5397287172404299,
+                0.5936711017819005,
+                0.5671822728828261,
+                0.6062927632263015
+              ],
+              "officialBounds": [
+                330.70361328125,
+                470.7969055175781,
+                347.983642578125,
+                480.97589111328125
+              ],
+              "officialCode": "8593"
+            }
+          ],
+          "rowBounds": [
+            0.099971971185778,
+            0.5933180887646602,
+            0.5671822728828261,
+            0.6062927632263015
+          ],
+          "pdfPage": 18,
+          "officialPage": 23
+        },
+        {
+          "description": "Badger ® Drill Bit, 8.0mm dia., sterile (4/Box)",
+          "codes": [
+            {
+              "candidate": "C8599",
+              "sourceBounds": [
+                0.5322972959674076,
+                0.608519159483328,
+                0.5671737951383353,
+                0.621146717178169
+              ],
+              "officialBounds": [
+                326.0325927734375,
+                482.7969055175781,
+                347.9836120605469,
+                492.97589111328125
+              ],
+              "officialCode": "C8599"
+            }
+          ],
+          "rowBounds": [
+            0.1359770684621379,
+            0.6082006493005254,
+            0.5671737951383353,
+            0.621146717178169
+          ],
+          "pdfPage": 18,
+          "officialPage": 23
+        },
+        {
+          "description": "Tendon sizing ring (5 - 8 mm)",
+          "codes": [
+            {
+              "candidate": "GFT-SM",
+              "sourceBounds": [
+                0.526396256622478,
+                0.6233647308032768,
+                0.5671654164891781,
+                0.6359969692023542
+              ],
+              "officialBounds": [
+                322.3245849609375,
+                494.7939147949219,
+                347.983642578125,
+                504.972900390625
+              ],
+              "officialCode": "GFT-SM"
+            }
+          ],
+          "rowBounds": [
+            0.09995511269133493,
+            0.6230259967454405,
+            0.5671654164891781,
+            0.6359969692023542
+          ],
+          "pdfPage": 18,
+          "officialPage": 23
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Kits — SutureLoop Hi-Fi Suture",
+      "page": 18,
+      "officialPage": 23,
+      "headingBounds": [
+        0.09993566012229793,
+        0.6573051628294798,
+        0.23640195757146087,
+        0.6706149921652407
+      ],
+      "rows": [
+        {
+          "description": "#2 Hi-Fi Suture, 60mm Straight Needle, 20\" Loop (12/Box)",
+          "codes": [
+            {
+              "candidate": "HL200",
+              "sourceBounds": [
+                0.5330323914422503,
+                0.6741148014434788,
+                0.5671365715795182,
+                0.6867417834394124
+              ],
+              "officialBounds": [
+                326.5185852050781,
+                535.7888793945312,
+                347.9836120605469,
+                545.9678955078125
+              ],
+              "officialCode": "HL200"
+            }
+          ],
+          "rowBounds": [
+            0.09992631630038092,
+            0.6737707732454632,
+            0.5671365715795182,
+            0.6867417834394124
+          ],
+          "pdfPage": 18,
+          "officialPage": 23
+        },
+        {
+          "description": "#2 Hi-Fi Suture, 48mm Curved Needle, 20\" Loop (12/Box)",
+          "codes": [
+            {
+              "candidate": "HL201",
+              "sourceBounds": [
+                0.5330239642958239,
+                0.688965053429141,
+                0.5671281444330917,
+                0.7015920354250748
+              ],
+              "officialBounds": [
+                326.5185852050781,
+                547.785888671875,
+                347.9836120605469,
+                557.9649047851562
+              ],
+              "officialCode": "HL201"
+            }
+          ],
+          "rowBounds": [
+            0.09991788915395443,
+            0.6886210252311254,
+            0.5671281444330917,
+            0.7015920354250748
+          ],
+          "pdfPage": 18,
+          "officialPage": 23
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 17
+}

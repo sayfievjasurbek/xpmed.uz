@@ -1,0 +1,117 @@
+{
+  "id": 44,
+  "bounds": [
+    0.8199960868714538,
+    0.5422830030700531,
+    0.9170416748190178,
+    0.561959252023444
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "VP8571",
+      "confidence": 72.735741,
+      "words": [
+        {
+          "text": "VP8571",
+          "confidence": 72.735741,
+          "pixelBounds": [
+            4390,
+            3937,
+            4612,
+            3998
+          ],
+          "lineId": "9.5.5",
+          "bounds": [
+            0.8589317159068676,
+            0.549399944180854,
+            0.902367442770495,
+            0.5579123639408317
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "VP8571",
+      "confidence": 84.836784,
+      "words": [
+        {
+          "text": "VP8571",
+          "confidence": 84.836784,
+          "pixelBounds": [
+            4390,
+            3937,
+            4612,
+            3998
+          ],
+          "lineId": "61.1.1",
+          "bounds": [
+            0.8589317159068676,
+            0.549399944180854,
+            0.902367442770495,
+            0.5579123639408317
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "essere VP8571",
+      "confidence": 28.928089,
+      "words": [
+        {
+          "text": "essere",
+          "confidence": 28.928089,
+          "pixelBounds": [
+            6,
+            102,
+            171,
+            111
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "VP8571",
+          "confidence": 55.952873,
+          "pixelBounds": [
+            217,
+            51,
+            421,
+            112
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "sense P8571",
+      "confidence": 15.011263,
+      "words": [
+        {
+          "text": "sense",
+          "confidence": 15.011263,
+          "pixelBounds": [
+            6,
+            102,
+            171,
+            111
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "P8571",
+          "confidence": 29.765263,
+          "pixelBounds": [
+            223,
+            51,
+            421,
+            112
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

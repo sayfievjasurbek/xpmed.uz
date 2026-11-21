@@ -1,0 +1,3339 @@
+{
+  "slug": "ddh-hip-stem-instrument-set",
+  "brand": "double-medical",
+  "category": "arthroplasty-instrument-sets",
+  "subcategory": "hip",
+  "specialty": [
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Набор инструментов для бедренной ножки DDH",
+    "en": "DDH Hip Stem Instrument Set"
+  },
+  "catalogType": "list",
+  "shortDescription": {
+    "ru": "Инструменты для эндопротезирования",
+    "en": "Arthroplasty instruments"
+  },
+  "description": {
+    "ru": "Набор инструментов для бедренной ножки DDH. Каталожные номера и комплектация приведены по Joint Catalogue Double Medical.",
+    "en": "DDH Hip Stem Instrument Set. Catalog numbers and contents are listed according to the Double Medical Joint Catalogue."
+  },
+  "heroImage": "/images/products/double-medical/joint-catalogue/page-093-xref-1380.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "src": "/images/products/double-medical/joint-catalogue/page-093-xref-1380.webp",
+      "width": 1348,
+      "height": 134,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          668,
+          94
+        ],
+        "enhancedSize": [
+          1336,
+          188
+        ]
+      },
+      "sourcePages": [
+        93
+      ],
+      "imageCaption": {
+        "ru": "Контейнер: Набор инструментов для бедренной ножки DDH",
+        "en": "DDH Hip Stem Instrument Case"
+      }
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [
+    {
+      "id": "joint-ddh-hip-stem-instrument-set-p92",
+      "title": {
+        "ru": "Инструменты · страница 92",
+        "en": "Instruments · page 92"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Фреза, 1#",
+            "en": "Reamer, 1#"
+          },
+          "116240100"
+        ],
+        [
+          {
+            "ru": "Фреза, 2#",
+            "en": "Reamer, 2#"
+          },
+          "116240200"
+        ],
+        [
+          {
+            "ru": "Фреза, 3#",
+            "en": "Reamer, 3#"
+          },
+          "116240300"
+        ],
+        [
+          {
+            "ru": "Фреза, 4#",
+            "en": "Reamer, 4#"
+          },
+          "116240400"
+        ],
+        [
+          {
+            "ru": "Фреза, 5#",
+            "en": "Reamer, 5#"
+          },
+          "116240500"
+        ],
+        [
+          {
+            "ru": "Фреза, 6#",
+            "en": "Reamer, 6#"
+          },
+          "116240600"
+        ],
+        [
+          {
+            "ru": "Фреза, 7#",
+            "en": "Reamer, 7#"
+          },
+          "116240700"
+        ],
+        [
+          {
+            "ru": "Фреза, 8#",
+            "en": "Reamer, 8#"
+          },
+          "116240800"
+        ],
+        [
+          {
+            "ru": "Фреза, 9#",
+            "en": "Reamer, 9#"
+          },
+          "116240900"
+        ],
+        [
+          {
+            "ru": "Фреза, 10#",
+            "en": "Reamer, 10#"
+          },
+          "116241000"
+        ],
+        [
+          {
+            "ru": "Фреза, 11#",
+            "en": "Reamer, 11#"
+          },
+          "116241100"
+        ],
+        [
+          {
+            "ru": "Фреза, 12#",
+            "en": "Reamer, 12#"
+          },
+          "116241200"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 92,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.18587360594795538,
+            0.65,
+            0.19448248874975543
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p92",
+              "row": 1,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "116240100",
+                  "line": "116240100",
+                  "confidence": 96.161957,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.18587360594795538,
+                    0.22895530573073758,
+                    0.19448248874975543
+                  ],
+                  "cy": 0.1901780473488554
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116240100",
+                  "line": "116240100",
+                  "confidence": 61.155174,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.18587360594795538,
+                    0.22895530573073758,
+                    0.19448248874975543
+                  ],
+                  "cy": 0.1901780473488554
+                },
+                {
+                  "reader": "Vision",
+                  "text": "116240100",
+                  "line": "116240100",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13645621006007766,
+                    0.18459302327237104,
+                    0.23014256638255637,
+                    0.1976744187092181
+                  ],
+                  "cy": 0.19113372099079456
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Reamer, 1#",
+            "PSM11": "Reamer, 1#",
+            "Vision": "Reamer, 1#"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13956676720592268,
+            0.18587360594795538,
+            0.65,
+            0.19448248874975543
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 92,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.2295049892388965,
+            0.65,
+            0.23811387204069653
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p92",
+              "row": 2,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "116240200",
+                  "line": "116240200",
+                  "confidence": 96.524239,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.2295049892388965,
+                    0.22895530573073758,
+                    0.23811387204069653
+                  ],
+                  "cy": 0.23380943063979653
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116240200",
+                  "line": "116240200",
+                  "confidence": 57.212292,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.2295049892388965,
+                    0.22895530573073758,
+                    0.23811387204069653
+                  ],
+                  "cy": 0.23380943063979653
+                },
+                {
+                  "reader": "Vision",
+                  "text": "116240200",
+                  "line": "116240200",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1363869155181659,
+                    0.22794001231888428,
+                    0.23021186278786274,
+                    0.24153673153845534
+                  ],
+                  "cy": 0.2347383719286698
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Reamer, 2#",
+            "PSM11": "Reamer, 2#",
+            "Vision": "Reamer, 2#"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13956676720592268,
+            0.2295049892388965,
+            0.65,
+            0.23811387204069653
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 92,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.2731363725298376,
+            0.65,
+            0.28174525533163763
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p92",
+              "row": 3,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "116240300",
+                  "line": "116240300",
+                  "confidence": 96.448936,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.2731363725298376,
+                    0.22895530573073758,
+                    0.28174525533163763
+                  ],
+                  "cy": 0.2774408139307376
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116240300",
+                  "line": "116240300",
+                  "confidence": 73.66626,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.2731363725298376,
+                    0.22895530573073758,
+                    0.28174525533163763
+                  ],
+                  "cy": 0.2774408139307376
+                },
+                {
+                  "reader": "Vision",
+                  "text": "116240300",
+                  "line": "116240300",
+                  "confidence": 1,
+                  "bounds": [
+                    0.136378183333925,
+                    0.2715114759937992,
+                    0.23022059497164546,
+                    0.2851745701889078
+                  ],
+                  "cy": 0.2783430230913535
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Reamer, 3#",
+            "PSM11": "Reamer, 3#",
+            "Vision": "Reamer, 3#"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13956676720592268,
+            0.2731363725298376,
+            0.65,
+            0.28174525533163763
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 92,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.3165720993934651,
+            0.65,
+            0.32537663862257876
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p92",
+              "row": 4,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "116240400",
+                  "line": "116240400",
+                  "confidence": 96.359764,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.3165720993934651,
+                    0.22895530573073758,
+                    0.32537663862257876
+                  ],
+                  "cy": 0.3209743690080219
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116240400",
+                  "line": "116240400",
+                  "confidence": 72.790215,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.3165720993934651,
+                    0.22895530573073758,
+                    0.32537663862257876
+                  ],
+                  "cy": 0.3209743690080219
+                },
+                {
+                  "reader": "Vision",
+                  "text": "116240400",
+                  "line": "116240400",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13643605730274808,
+                    0.3153330672519631,
+                    0.2301627184599916,
+                    0.3285622812617476
+                  ],
+                  "cy": 0.32194767425685533
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Reamer, 4#",
+            "PSM11": "Reamer, 4#",
+            "Vision": "Reamer, 4#"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13956676720592268,
+            0.3165720993934651,
+            0.65,
+            0.32537663862257876
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 92,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.36020348268440616,
+            0.65,
+            0.3688123654862062
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p92",
+              "row": 5,
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "text": "116240500",
+                  "line": "116240500",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13635553806916012,
+                    0.3557918720547224,
+                    0.23227989960494885,
+                    0.3724058020454606
+                  ],
+                  "cy": 0.3640988370500915
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "116240500",
+                  "line": "116240500",
+                  "confidence": 96.5998,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.36020348268440616,
+                    0.22895530573073758,
+                    0.3688123654862062
+                  ],
+                  "cy": 0.3645079240853062
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116240500",
+                  "line": "116240500",
+                  "confidence": 56.240837,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.36020348268440616,
+                    0.22895530573073758,
+                    0.3688123654862062
+                  ],
+                  "cy": 0.3645079240853062
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Reamer, 5#",
+            "PSM11": "Reamer, b#",
+            "Vision": "Reamer, 5#"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13956676720592268,
+            0.36020348268440616,
+            0.65,
+            0.3688123654862062
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 92,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.4038348659753473,
+            0.65,
+            0.41244374877714735
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p92",
+              "row": 6,
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "text": "116240600",
+                  "line": "116240600",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13432783677038262,
+                    0.39941867840706635,
+                    0.23227093928026363,
+                    0.4159882984940996
+                  ],
+                  "cy": 0.40770348845058296
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "116240600",
+                  "line": "116240600",
+                  "confidence": 96.311913,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.4038348659753473,
+                    0.22895530573073758,
+                    0.41244374877714735
+                  ],
+                  "cy": 0.4081393073762473
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116240600",
+                  "line": "116240600",
+                  "confidence": 86.204155,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.4038348659753473,
+                    0.22895530573073758,
+                    0.41244374877714735
+                  ],
+                  "cy": 0.4081393073762473
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Reamer, 6#",
+            "PSM11": "Reamer, 6#",
+            "Vision": ""
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13956676720592268,
+            0.4038348659753473,
+            0.65,
+            0.41244374877714735
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 92,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.4474662492662884,
+            0.65,
+            0.4560751320680884
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p92",
+              "row": 7,
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "text": "116240700",
+                  "line": "116240700",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13632286793011772,
+                    0.4428970488505304,
+                    0.2323125697426286,
+                    0.45971922990127
+                  ],
+                  "cy": 0.4513081393759002
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "116240700",
+                  "line": "116240700",
+                  "confidence": 96.30056,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.4474662492662884,
+                    0.22895530573073758,
+                    0.4560751320680884
+                  ],
+                  "cy": 0.45177069066718845
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116240700",
+                  "line": "116240700",
+                  "confidence": 88.20034,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.4474662492662884,
+                    0.22895530573073758,
+                    0.4560751320680884
+                  ],
+                  "cy": 0.45177069066718845
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Reamer, 7/#",
+            "PSM11": "Reamer, /#",
+            "Vision": "Reamer, 7#"
+          },
+          "itemVerification": "verified (Codex visual 600-DPI row)",
+          "bounds": [
+            0.13956676720592268,
+            0.4474662492662884,
+            0.65,
+            0.4560751320680884
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 92,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.4909019761299159,
+            0.65,
+            0.49970651535902955
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p92",
+              "row": 8,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "116240800",
+                  "line": "116240800",
+                  "confidence": 96.437721,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.4909019761299159,
+                    0.22895530573073758,
+                    0.49970651535902955
+                  ],
+                  "cy": 0.49530424574447274
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116240800",
+                  "line": "116240800",
+                  "confidence": 95.354652,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.4909019761299159,
+                    0.22895530573073758,
+                    0.49970651535902955
+                  ],
+                  "cy": 0.49530424574447274
+                },
+                {
+                  "reader": "Vision",
+                  "text": "116240800",
+                  "line": "116240800",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13432904098886775,
+                    0.4866565398598861,
+                    0.23226973644863255,
+                    0.5046225302594436
+                  ],
+                  "cy": 0.49563953505966485
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Reamer, 8#",
+            "PSM11": "Reamer, 8#",
+            "Vision": "Reamer, &#"
+          },
+          "itemVerification": "verified (Codex visual 600-DPI row + OCR)",
+          "bounds": [
+            0.13956676720592268,
+            0.4909019761299159,
+            0.65,
+            0.49970651535902955
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 92,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.534533359420857,
+            0.65,
+            0.5431422422226571
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p92",
+              "row": 9,
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "text": "116240900",
+                  "line": "116240900",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1363318488760995,
+                    0.5301351026112912,
+                    0.23230358794457154,
+                    0.5468997812636156
+                  ],
+                  "cy": 0.5385174419374534
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "116240900",
+                  "line": "116240900",
+                  "confidence": 96.469978,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.534533359420857,
+                    0.22895530573073758,
+                    0.5431422422226571
+                  ],
+                  "cy": 0.538837800821757
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116240900",
+                  "line": "116240900",
+                  "confidence": 81.326759,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.534533359420857,
+                    0.22895530573073758,
+                    0.5431422422226571
+                  ],
+                  "cy": 0.538837800821757
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Reamer, 9#",
+            "PSM11": "Reamer, 9#",
+            "Vision": ""
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13956676720592268,
+            0.534533359420857,
+            0.65,
+            0.5431422422226571
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 92,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.5781647427117981,
+            0.65,
+            0.5867736255135981
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p92",
+              "row": 10,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "116241000",
+                  "line": "116241000",
+                  "confidence": 96.175301,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.5781647427117981,
+                    0.22895530573073758,
+                    0.5867736255135981
+                  ],
+                  "cy": 0.5824691841126981
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116241000",
+                  "line": "116241000",
+                  "confidence": 53.712463,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.5781647427117981,
+                    0.22895530573073758,
+                    0.5867736255135981
+                  ],
+                  "cy": 0.5824691841126981
+                },
+                {
+                  "reader": "Vision",
+                  "text": "116241000",
+                  "line": "116241000",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13436232544975465,
+                    0.573963087515368,
+                    0.23223645059837675,
+                    0.5917345870129178
+                  ],
+                  "cy": 0.5828488372641429
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Reamer, 10#",
+            "PSM11": "Reamer, 10#",
+            "Vision": ""
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13956676720592268,
+            0.5781647427117981,
+            0.65,
+            0.5867736255135981
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 92,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.6217961260027391,
+            0.65,
+            0.6304050088045392
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p92",
+              "row": 11,
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "text": "116241100",
+                  "line": "116241100",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1343538265491298,
+                    0.6175253296323406,
+                    0.23224494950099525,
+                    0.6339281588933938
+                  ],
+                  "cy": 0.6257267442628672
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "116241100",
+                  "line": "116241100",
+                  "confidence": 96.369774,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.6217961260027391,
+                    0.22895530573073758,
+                    0.6304050088045392
+                  ],
+                  "cy": 0.6261005674036392
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116241100",
+                  "line": "116241100",
+                  "confidence": 87.633728,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.6217961260027391,
+                    0.22895530573073758,
+                    0.6304050088045392
+                  ],
+                  "cy": 0.6261005674036392
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Reamer, 11#",
+            "PSM11": "Reamer, 11#",
+            "Vision": ""
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13956676720592268,
+            0.6217961260027391,
+            0.65,
+            0.6304050088045392
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 92,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.6654275092936803,
+            0.65,
+            0.6740363920954804
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p92",
+              "row": 12,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "116241200",
+                  "line": "116241200",
+                  "confidence": 96.131279,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.6654275092936803,
+                    0.22895530573073758,
+                    0.6740363920954804
+                  ],
+                  "cy": 0.6697319506945804
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116241200",
+                  "line": "116241200",
+                  "confidence": 94.869652,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.6654275092936803,
+                    0.22895530573073758,
+                    0.6740363920954804
+                  ],
+                  "cy": 0.6697319506945804
+                },
+                {
+                  "reader": "Vision",
+                  "text": "116241200",
+                  "line": "116241200",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13632945964545884,
+                    0.6637648907964756,
+                    0.23026931969977715,
+                    0.6778048765137645
+                  ],
+                  "cy": 0.67078488365512
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Reamer, 12#",
+            "PSM11": "Reamer, 12#",
+            "Vision": "Reamer, 12#"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13956676720592268,
+            0.6654275092936803,
+            0.65,
+            0.6740363920954804
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "rowImages": [
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-092-xref-1370.webp",
+          "width": 1520,
+          "height": 160,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              808,
+              170
+            ],
+            "enhancedSize": [
+              1616,
+              340
+            ]
+          },
+          "sourcePages": [
+            92
+          ],
+          "imageCaption": {
+            "ru": "Фреза, 1#",
+            "en": "Reamer, 1#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-092-xref-1370.webp",
+          "width": 1520,
+          "height": 160,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              808,
+              170
+            ],
+            "enhancedSize": [
+              1616,
+              340
+            ]
+          },
+          "sourcePages": [
+            92
+          ],
+          "imageCaption": {
+            "ru": "Фреза, 2#",
+            "en": "Reamer, 2#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-092-xref-1370.webp",
+          "width": 1520,
+          "height": 160,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              808,
+              170
+            ],
+            "enhancedSize": [
+              1616,
+              340
+            ]
+          },
+          "sourcePages": [
+            92
+          ],
+          "imageCaption": {
+            "ru": "Фреза, 3#",
+            "en": "Reamer, 3#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-092-xref-1370.webp",
+          "width": 1520,
+          "height": 160,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              808,
+              170
+            ],
+            "enhancedSize": [
+              1616,
+              340
+            ]
+          },
+          "sourcePages": [
+            92
+          ],
+          "imageCaption": {
+            "ru": "Фреза, 4#",
+            "en": "Reamer, 4#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-092-xref-1370.webp",
+          "width": 1520,
+          "height": 160,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              808,
+              170
+            ],
+            "enhancedSize": [
+              1616,
+              340
+            ]
+          },
+          "sourcePages": [
+            92
+          ],
+          "imageCaption": {
+            "ru": "Фреза, 5#",
+            "en": "Reamer, 5#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-092-xref-1370.webp",
+          "width": 1520,
+          "height": 160,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              808,
+              170
+            ],
+            "enhancedSize": [
+              1616,
+              340
+            ]
+          },
+          "sourcePages": [
+            92
+          ],
+          "imageCaption": {
+            "ru": "Фреза, 6#",
+            "en": "Reamer, 6#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-092-xref-1370.webp",
+          "width": 1520,
+          "height": 160,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              808,
+              170
+            ],
+            "enhancedSize": [
+              1616,
+              340
+            ]
+          },
+          "sourcePages": [
+            92
+          ],
+          "imageCaption": {
+            "ru": "Фреза, 7#",
+            "en": "Reamer, 7#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-092-xref-1370.webp",
+          "width": 1520,
+          "height": 160,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              808,
+              170
+            ],
+            "enhancedSize": [
+              1616,
+              340
+            ]
+          },
+          "sourcePages": [
+            92
+          ],
+          "imageCaption": {
+            "ru": "Фреза, 8#",
+            "en": "Reamer, 8#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-092-xref-1370.webp",
+          "width": 1520,
+          "height": 160,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              808,
+              170
+            ],
+            "enhancedSize": [
+              1616,
+              340
+            ]
+          },
+          "sourcePages": [
+            92
+          ],
+          "imageCaption": {
+            "ru": "Фреза, 9#",
+            "en": "Reamer, 9#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-092-xref-1370.webp",
+          "width": 1520,
+          "height": 160,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              808,
+              170
+            ],
+            "enhancedSize": [
+              1616,
+              340
+            ]
+          },
+          "sourcePages": [
+            92
+          ],
+          "imageCaption": {
+            "ru": "Фреза, 10#",
+            "en": "Reamer, 10#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-092-xref-1370.webp",
+          "width": 1520,
+          "height": 160,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              808,
+              170
+            ],
+            "enhancedSize": [
+              1616,
+              340
+            ]
+          },
+          "sourcePages": [
+            92
+          ],
+          "imageCaption": {
+            "ru": "Фреза, 11#",
+            "en": "Reamer, 11#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-092-xref-1370.webp",
+          "width": 1520,
+          "height": 160,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              808,
+              170
+            ],
+            "enhancedSize": [
+              1616,
+              340
+            ]
+          },
+          "sourcePages": [
+            92
+          ],
+          "imageCaption": {
+            "ru": "Фреза, 12#",
+            "en": "Reamer, 12#"
+          }
+        }
+      ],
+      "rowImageLabel": {
+        "ru": "Инструмент",
+        "en": "Instrument"
+      },
+      "sourcePages": [
+        92
+      ]
+    },
+    {
+      "id": "joint-ddh-hip-stem-instrument-set-p93",
+      "title": {
+        "ru": "Инструменты · страница 93",
+        "en": "Instruments · page 93"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Рашпиль, 1#",
+            "en": "Broach, 1#"
+          },
+          "116241300"
+        ],
+        [
+          {
+            "ru": "Рашпиль, 2#",
+            "en": "Broach, 2#"
+          },
+          "116241400"
+        ],
+        [
+          {
+            "ru": "Рашпиль, 3#",
+            "en": "Broach, 3#"
+          },
+          "116241500"
+        ],
+        [
+          {
+            "ru": "Рашпиль, 4#",
+            "en": "Broach, 4#"
+          },
+          "116241600"
+        ],
+        [
+          {
+            "ru": "Рашпиль, 5#",
+            "en": "Broach, 5#"
+          },
+          "116241700"
+        ],
+        [
+          {
+            "ru": "Рашпиль, 6#",
+            "en": "Broach, 6#"
+          },
+          "116241800"
+        ],
+        [
+          {
+            "ru": "Рашпиль, 7#",
+            "en": "Broach, 7#"
+          },
+          "116241900"
+        ],
+        [
+          {
+            "ru": "Рашпиль, 8#",
+            "en": "Broach, 8#"
+          },
+          "116242000"
+        ],
+        [
+          {
+            "ru": "Рашпиль, 9#",
+            "en": "Broach, 9#"
+          },
+          "116242100"
+        ],
+        [
+          {
+            "ru": "Рашпиль, 10#",
+            "en": "Broach, 10#"
+          },
+          "116242200"
+        ],
+        [
+          {
+            "ru": "Рашпиль, 11#",
+            "en": "Broach, 11#"
+          },
+          "116242300"
+        ],
+        [
+          {
+            "ru": "Рашпиль, 12#",
+            "en": "Broach, 12#"
+          },
+          "116242400"
+        ],
+        [
+          {
+            "ru": "Измеритель костномозгового канала",
+            "en": "Cannal Measuring Device"
+          },
+          "116242500"
+        ],
+        [
+          {
+            "ru": "Контейнер: Набор инструментов для бедренной ножки DDH",
+            "en": "DDH Hip Stem Instrument Case"
+          },
+          "116242600"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 93,
+          "sourceBounds": [
+            0.13682478749657254,
+            0.18606926237526902,
+            0.65,
+            0.1948738016043827
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p93",
+              "row": 1,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "116241300",
+                  "line": "116241300",
+                  "confidence": 95.897888,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.18606926237526902,
+                    0.22648752399232247,
+                    0.1948738016043827
+                  ],
+                  "cy": 0.19047153198982586
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116241300",
+                  "line": "116241300",
+                  "confidence": 64.375755,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.18606926237526902,
+                    0.22648752399232247,
+                    0.1948738016043827
+                  ],
+                  "cy": 0.19047153198982586
+                },
+                {
+                  "reader": "Vision",
+                  "text": "116241300",
+                  "line": "116241300 Broach, 1#",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13238289173175052,
+                    0.18452380971799776,
+                    0.22494908115637263,
+                    0.2006448414640295
+                  ],
+                  "cy": 0.19258432559101363
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Broach, 1#",
+            "PSM11": "Broach, 1#",
+            "Vision": "Broach, 1#"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13682478749657254,
+            0.18606926237526902,
+            0.65,
+            0.1948738016043827
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 93,
+          "sourceBounds": [
+            0.13682478749657254,
+            0.22989630209352377,
+            0.65,
+            0.23850518489532382
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p93",
+              "row": 2,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "116241400",
+                  "line": "116241400",
+                  "confidence": 96.107979,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.22989630209352377,
+                    0.22648752399232247,
+                    0.23850518489532382
+                  ],
+                  "cy": 0.2342007434944238
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116241400",
+                  "line": "116241400",
+                  "confidence": 68.326202,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.22989630209352377,
+                    0.22648752399232247,
+                    0.23850518489532382
+                  ],
+                  "cy": 0.2342007434944238
+                },
+                {
+                  "reader": "Vision",
+                  "text": "116241400",
+                  "line": "116241400 Broach, 2#",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13238289587126167,
+                    0.22817460353250896,
+                    0.22494908529588378,
+                    0.2442956352785407
+                  ],
+                  "cy": 0.23623511940552483
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Broach, 2#",
+            "PSM11": "Broach, 2#",
+            "Vision": "Broach, 2#"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13682478749657254,
+            0.22989630209352377,
+            0.65,
+            0.23850518489532382
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 93,
+          "sourceBounds": [
+            0.13682478749657254,
+            0.27352768538446487,
+            0.65,
+            0.28233222461357854
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p93",
+              "row": 3,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "116241500",
+                  "line": "116241500",
+                  "confidence": 96.544937,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.27352768538446487,
+                    0.22648752399232247,
+                    0.28233222461357854
+                  ],
+                  "cy": 0.27792995499902173
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116241500",
+                  "line": "116241500",
+                  "confidence": 55.594589,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.27352768538446487,
+                    0.22648752399232247,
+                    0.28233222461357854
+                  ],
+                  "cy": 0.27792995499902173
+                },
+                {
+                  "reader": "Vision",
+                  "text": "116241500",
+                  "line": "116241500 Broach, 3#",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13238289587126167,
+                    0.2718023254772497,
+                    0.22494908529588378,
+                    0.2877906980983318
+                  ],
+                  "cy": 0.27979651178779075
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Broach, 3#",
+            "PSM11": "Broach, 3#",
+            "Vision": "Broach, 3#"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13682478749657254,
+            0.27352768538446487,
+            0.65,
+            0.28233222461357854
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 93,
+          "sourceBounds": [
+            0.13682478749657254,
+            0.3173547251027196,
+            0.65,
+            0.32596360790451967
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p93",
+              "row": 4,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "116241600",
+                  "line": "116241600",
+                  "confidence": 96.393082,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.3173547251027196,
+                    0.22648752399232247,
+                    0.32596360790451967
+                  ],
+                  "cy": 0.32165916650361964
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116241600",
+                  "line": "116241600",
+                  "confidence": 52.350868,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.3173547251027196,
+                    0.22648752399232247,
+                    0.32596360790451967
+                  ],
+                  "cy": 0.32165916650361964
+                },
+                {
+                  "reader": "Vision",
+                  "text": "116241600",
+                  "line": "116241600 Broach, 4#",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13238289587126167,
+                    0.31540697664004036,
+                    0.22494908529588378,
+                    0.33139534926112246
+                  ],
+                  "cy": 0.3234011629505814
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "~=Broach, 4#",
+            "PSM11": "Broach, 4#",
+            "Vision": "Broach, 4#"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13682478749657254,
+            0.3173547251027196,
+            0.65,
+            0.32596360790451967
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 93,
+          "sourceBounds": [
+            0.13682478749657254,
+            0.36118176482097436,
+            0.65,
+            0.3697906476227744
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p93",
+              "row": 5,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "116241700",
+                  "line": "116241700",
+                  "confidence": 95.26712,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.36118176482097436,
+                    0.22648752399232247,
+                    0.3697906476227744
+                  ],
+                  "cy": 0.3654862062218744
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116241700",
+                  "line": "116241700",
+                  "confidence": 33.518162,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.36118176482097436,
+                    0.22648752399232247,
+                    0.3697906476227744
+                  ],
+                  "cy": 0.3654862062218744
+                },
+                {
+                  "reader": "Vision",
+                  "text": "116241700",
+                  "line": "116241700 Broach, 5#",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13238289173175052,
+                    0.35901162826234956,
+                    0.22494908115637263,
+                    0.37354651134520855
+                  ],
+                  "cy": 0.36627906980377906
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "~=Broach, 5#",
+            "PSM11": "Broach, 5#",
+            "Vision": "Broach, 5#"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13682478749657254,
+            0.36118176482097436,
+            0.65,
+            0.3697906476227744
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 93,
+          "sourceBounds": [
+            0.13682478749657254,
+            0.4048131481119155,
+            0.65,
+            0.41361768734102916
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p93",
+              "row": 6,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "116241800",
+                  "line": "116241800",
+                  "confidence": 95.898636,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.4048131481119155,
+                    0.22648752399232247,
+                    0.41361768734102916
+                  ],
+                  "cy": 0.4092154177264723
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116241800",
+                  "line": "116241800",
+                  "confidence": 57.115379,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.4048131481119155,
+                    0.22648752399232247,
+                    0.41361768734102916
+                  ],
+                  "cy": 0.4092154177264723
+                },
+                {
+                  "reader": "Vision",
+                  "text": "116241800",
+                  "line": "116241800 Broach, 6#",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13238289173175052,
+                    0.4025297622089624,
+                    0.22494908115637263,
+                    0.41865079395499416
+                  ],
+                  "cy": 0.4105902780819783
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Broach, 6#",
+            "PSM11": "Broach, 6#",
+            "Vision": "Broach, 6#"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13682478749657254,
+            0.4048131481119155,
+            0.65,
+            0.41361768734102916
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 93,
+          "sourceBounds": [
+            0.13682478749657254,
+            0.44864018783017023,
+            0.65,
+            0.45724907063197023
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p93",
+              "row": 7,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "116241900",
+                  "line": "116241900",
+                  "confidence": 96.010727,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.44864018783017023,
+                    0.22648752399232247,
+                    0.45724907063197023
+                  ],
+                  "cy": 0.45294462923107026
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116241900",
+                  "line": "116241900",
+                  "confidence": 79.391777,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.44864018783017023,
+                    0.22648752399232247,
+                    0.45724907063197023
+                  ],
+                  "cy": 0.45294462923107026
+                },
+                {
+                  "reader": "Vision",
+                  "text": "116241900",
+                  "line": "116241900 Broach, 7#",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13238289224600713,
+                    0.44618055555868896,
+                    0.22494908167062927,
+                    0.46081349206662536
+                  ],
+                  "cy": 0.45349702381265716
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Broach, 7#",
+            "PSM11": "Broach, 7#",
+            "Vision": "Broach, 7#"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13682478749657254,
+            0.44864018783017023,
+            0.65,
+            0.45724907063197023
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 93,
+          "sourceBounds": [
+            0.13682478749657254,
+            0.4922715711211113,
+            0.65,
+            0.501076110350225
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p93",
+              "row": 8,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "116242000",
+                  "line": "116242000",
+                  "confidence": 96.702568,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.4922715711211113,
+                    0.22648752399232247,
+                    0.501076110350225
+                  ],
+                  "cy": 0.49667384073566817
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116242000",
+                  "line": "116242000",
+                  "confidence": 69.004639,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.4922715711211113,
+                    0.22648752399232247,
+                    0.501076110350225
+                  ],
+                  "cy": 0.49667384073566817
+                },
+                {
+                  "reader": "Vision",
+                  "text": "116242000",
+                  "line": "116242000 Broach, 8#",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13238289173175052,
+                    0.4898255811858252,
+                    0.22494908115637263,
+                    0.5058139538069073
+                  ],
+                  "cy": 0.49781976749636625
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Broach, 8#",
+            "PSM11": "Broach, 8#",
+            "Vision": "Broach, 8#"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13682478749657254,
+            0.4922715711211113,
+            0.65,
+            0.501076110350225
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 93,
+          "sourceBounds": [
+            0.13682478749657254,
+            0.536098610839366,
+            0.65,
+            0.5447074936411661
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p93",
+              "row": 9,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "116242100",
+                  "line": "116242100",
+                  "confidence": 95.939156,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.536098610839366,
+                    0.22648752399232247,
+                    0.5447074936411661
+                  ],
+                  "cy": 0.5404030522402661
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116242100",
+                  "line": "116242100",
+                  "confidence": 80.368637,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.536098610839366,
+                    0.22648752399232247,
+                    0.5447074936411661
+                  ],
+                  "cy": 0.5404030522402661
+                },
+                {
+                  "reader": "Vision",
+                  "text": "116242100",
+                  "line": "116242100 Broach, 9#",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13441955634826636,
+                    0.5334302322214357,
+                    0.22606924818647053,
+                    0.5494186048425178
+                  ],
+                  "cy": 0.5414244185319768
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Broach, 9#",
+            "PSM11": "Broach, 9#",
+            "Vision": "Broach, 9#"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13682478749657254,
+            0.536098610839366,
+            0.65,
+            0.5447074936411661
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 93,
+          "sourceBounds": [
+            0.13682478749657254,
+            0.5799256505576208,
+            0.65,
+            0.5885345333594209
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p93",
+              "row": 10,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "116242200",
+                  "line": "116242200",
+                  "confidence": 96.367836,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.5799256505576208,
+                    0.22648752399232247,
+                    0.5885345333594209
+                  ],
+                  "cy": 0.5842300919585208
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116242200",
+                  "line": "116242200",
+                  "confidence": 80.227676,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.5799256505576208,
+                    0.22648752399232247,
+                    0.5885345333594209
+                  ],
+                  "cy": 0.5842300919585208
+                },
+                {
+                  "reader": "Vision",
+                  "text": "116242200",
+                  "line": "116242200 Broach, 10#",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13238288877921625,
+                    0.5770348835114066,
+                    0.2240325837985439,
+                    0.5930232561324887
+                  ],
+                  "cy": 0.5850290698219477
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Broach, 10#",
+            "PSM11": "Broach, 10#",
+            "Vision": "Broach, 10#"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13682478749657254,
+            0.5799256505576208,
+            0.65,
+            0.5885345333594209
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 93,
+          "sourceBounds": [
+            0.13682478749657254,
+            0.6235570338485619,
+            0.65,
+            0.6323615730776756
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p93",
+              "row": 11,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "116242300",
+                  "line": "116242300",
+                  "confidence": 96.068001,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.6235570338485619,
+                    0.22648752399232247,
+                    0.6323615730776756
+                  ],
+                  "cy": 0.6279593034631188
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116242300",
+                  "line": "116242300",
+                  "confidence": 75.556541,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.6235570338485619,
+                    0.22648752399232247,
+                    0.6323615730776756
+                  ],
+                  "cy": 0.6279593034631188
+                },
+                {
+                  "reader": "Vision",
+                  "text": "116242300",
+                  "line": "116242300 Broach, 11#",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13238289343823123,
+                    0.6205357146272527,
+                    0.22490544330176648,
+                    0.6366567463732844
+                  ],
+                  "cy": 0.6285962305002686
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Broach, 11#",
+            "PSM11": "Broach, 11#",
+            "Vision": "Broach, 11#"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13682478749657254,
+            0.6235570338485619,
+            0.65,
+            0.6323615730776756
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 93,
+          "sourceBounds": [
+            0.13682478749657254,
+            0.6673840735668166,
+            0.65,
+            0.6759929563686167
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p93",
+              "row": 12,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "116242400",
+                  "line": "116242400",
+                  "confidence": 96.116089,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.6673840735668166,
+                    0.22648752399232247,
+                    0.6759929563686167
+                  ],
+                  "cy": 0.6716885149677166
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116242400",
+                  "line": "116242400",
+                  "confidence": 40.416149,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.6673840735668166,
+                    0.22648752399232247,
+                    0.6759929563686167
+                  ],
+                  "cy": 0.6716885149677166
+                },
+                {
+                  "reader": "Vision",
+                  "text": "116242400",
+                  "line": "116242400",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13238289412206303,
+                    0.6656976743564312,
+                    0.23625254635655205,
+                    0.6787790697932783
+                  ],
+                  "cy": 0.6722383720748548
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Broach, 12#",
+            "PSM11": "Broach, 12#",
+            "Vision": "Broach, 12#"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13682478749657254,
+            0.6673840735668166,
+            0.65,
+            0.6759929563686167
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 93,
+          "sourceBounds": [
+            0.13682478749657254,
+            0.7110154568577578,
+            0.65,
+            0.7198199960868714
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p93",
+              "row": 13,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "116242500",
+                  "line": "116242500",
+                  "confidence": 96.404594,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.7110154568577578,
+                    0.22648752399232247,
+                    0.7198199960868714
+                  ],
+                  "cy": 0.7154177264723146
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116242500",
+                  "line": "116242500",
+                  "confidence": 86.919319,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.7110154568577578,
+                    0.22648752399232247,
+                    0.7198199960868714
+                  ],
+                  "cy": 0.7154177264723146
+                },
+                {
+                  "reader": "Vision",
+                  "text": "116242500",
+                  "line": "116242500",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13441955174371653,
+                    0.7107558139468213,
+                    0.22810590806619524,
+                    0.7223837207915508
+                  ],
+                  "cy": 0.716569767369186
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Cannal Measuring Device",
+            "PSM11": "Cannal Measuring Device",
+            "Vision": "Cannal Measuring Device"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13682478749657254,
+            0.7110154568577578,
+            0.65,
+            0.7198199960868714
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 93,
+          "sourceBounds": [
+            0.13682478749657254,
+            0.7548424965760125,
+            0.65,
+            0.7634513793778126
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-ddh-hip-stem-instrument-set-p93",
+              "row": 14,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "116242600",
+                  "line": "116242600",
+                  "confidence": 96.005882,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.7548424965760125,
+                    0.22648752399232247,
+                    0.7634513793778126
+                  ],
+                  "cy": 0.7591469379769126
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "116242600",
+                  "line": "116242600",
+                  "confidence": 92.398972,
+                  "bounds": [
+                    0.13682478749657254,
+                    0.7548424965760125,
+                    0.22648752399232247,
+                    0.7634513793778126
+                  ],
+                  "cy": 0.7591469379769126
+                },
+                {
+                  "reader": "Vision",
+                  "text": "116242600",
+                  "line": "116242600",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13441955174371653,
+                    0.7543604651096121,
+                    0.22810590806619524,
+                    0.7659883719543416
+                  ],
+                  "cy": 0.7601744185319768
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "DDH Hip Stem Instrument Case",
+            "PSM11": "DDH Hip Stem Instrument Case",
+            "Vision": "DDH Hip Stem Instrument Case"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13682478749657254,
+            0.7548424965760125,
+            0.65,
+            0.7634513793778126
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "rowImages": [
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-093-xref-1378.webp",
+          "width": 388,
+          "height": 1060,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              426,
+              605
+            ],
+            "enhancedSize": [
+              852,
+              1210
+            ]
+          },
+          "sourcePages": [
+            93
+          ],
+          "imageCaption": {
+            "ru": "Рашпиль, 1#",
+            "en": "Broach, 1#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-093-xref-1378.webp",
+          "width": 388,
+          "height": 1060,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              426,
+              605
+            ],
+            "enhancedSize": [
+              852,
+              1210
+            ]
+          },
+          "sourcePages": [
+            93
+          ],
+          "imageCaption": {
+            "ru": "Рашпиль, 2#",
+            "en": "Broach, 2#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-093-xref-1378.webp",
+          "width": 388,
+          "height": 1060,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              426,
+              605
+            ],
+            "enhancedSize": [
+              852,
+              1210
+            ]
+          },
+          "sourcePages": [
+            93
+          ],
+          "imageCaption": {
+            "ru": "Рашпиль, 3#",
+            "en": "Broach, 3#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-093-xref-1378.webp",
+          "width": 388,
+          "height": 1060,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              426,
+              605
+            ],
+            "enhancedSize": [
+              852,
+              1210
+            ]
+          },
+          "sourcePages": [
+            93
+          ],
+          "imageCaption": {
+            "ru": "Рашпиль, 4#",
+            "en": "Broach, 4#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-093-xref-1378.webp",
+          "width": 388,
+          "height": 1060,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              426,
+              605
+            ],
+            "enhancedSize": [
+              852,
+              1210
+            ]
+          },
+          "sourcePages": [
+            93
+          ],
+          "imageCaption": {
+            "ru": "Рашпиль, 5#",
+            "en": "Broach, 5#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-093-xref-1378.webp",
+          "width": 388,
+          "height": 1060,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              426,
+              605
+            ],
+            "enhancedSize": [
+              852,
+              1210
+            ]
+          },
+          "sourcePages": [
+            93
+          ],
+          "imageCaption": {
+            "ru": "Рашпиль, 6#",
+            "en": "Broach, 6#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-093-xref-1378.webp",
+          "width": 388,
+          "height": 1060,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              426,
+              605
+            ],
+            "enhancedSize": [
+              852,
+              1210
+            ]
+          },
+          "sourcePages": [
+            93
+          ],
+          "imageCaption": {
+            "ru": "Рашпиль, 7#",
+            "en": "Broach, 7#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-093-xref-1378.webp",
+          "width": 388,
+          "height": 1060,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              426,
+              605
+            ],
+            "enhancedSize": [
+              852,
+              1210
+            ]
+          },
+          "sourcePages": [
+            93
+          ],
+          "imageCaption": {
+            "ru": "Рашпиль, 8#",
+            "en": "Broach, 8#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-093-xref-1380.webp",
+          "width": 1348,
+          "height": 134,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              668,
+              94
+            ],
+            "enhancedSize": [
+              1336,
+              188
+            ]
+          },
+          "sourcePages": [
+            93
+          ],
+          "imageCaption": {
+            "ru": "Рашпиль, 9#",
+            "en": "Broach, 9#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-093-xref-1380.webp",
+          "width": 1348,
+          "height": 134,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              668,
+              94
+            ],
+            "enhancedSize": [
+              1336,
+              188
+            ]
+          },
+          "sourcePages": [
+            93
+          ],
+          "imageCaption": {
+            "ru": "Рашпиль, 10#",
+            "en": "Broach, 10#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-093-xref-1380.webp",
+          "width": 1348,
+          "height": 134,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              668,
+              94
+            ],
+            "enhancedSize": [
+              1336,
+              188
+            ]
+          },
+          "sourcePages": [
+            93
+          ],
+          "imageCaption": {
+            "ru": "Рашпиль, 11#",
+            "en": "Broach, 11#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-093-xref-1380.webp",
+          "width": 1348,
+          "height": 134,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              668,
+              94
+            ],
+            "enhancedSize": [
+              1336,
+              188
+            ]
+          },
+          "sourcePages": [
+            93
+          ],
+          "imageCaption": {
+            "ru": "Рашпиль, 12#",
+            "en": "Broach, 12#"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-093-xref-1380.webp",
+          "width": 1348,
+          "height": 134,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              668,
+              94
+            ],
+            "enhancedSize": [
+              1336,
+              188
+            ]
+          },
+          "sourcePages": [
+            93
+          ],
+          "imageCaption": {
+            "ru": "Измеритель костномозгового канала",
+            "en": "Cannal Measuring Device"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-093-xref-1380.webp",
+          "width": 1348,
+          "height": 134,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              668,
+              94
+            ],
+            "enhancedSize": [
+              1336,
+              188
+            ]
+          },
+          "sourcePages": [
+            93
+          ],
+          "imageCaption": {
+            "ru": "Контейнер: Набор инструментов для бедренной ножки DDH",
+            "en": "DDH Hip Stem Instrument Case"
+          }
+        }
+      ],
+      "rowImageLabel": {
+        "ru": "Инструмент",
+        "en": "Instrument"
+      },
+      "sourcePages": [
+        93
+      ]
+    }
+  ],
+  "referenceTables": [],
+  "refCodes": [
+    "116240000",
+    "116240100",
+    "116240200",
+    "116240300",
+    "116240400",
+    "116240500",
+    "116240600",
+    "116240700",
+    "116240800",
+    "116240900",
+    "116241000",
+    "116241100",
+    "116241200",
+    "116241300",
+    "116241400",
+    "116241500",
+    "116241600",
+    "116241700",
+    "116241800",
+    "116241900",
+    "116242000",
+    "116242100",
+    "116242200",
+    "116242300",
+    "116242400",
+    "116242500",
+    "116242600"
+  ],
+  "sourcePages": [
+    92,
+    93
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Joint Catalogue — каталог продукции",
+    "en": "Double Medical Joint Catalogue"
+  },
+  "documentCover": "/catalogs/double-medical/joint-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "relatedSystemSlugs": [
+    "ddh-femoral-stem"
+  ],
+  "setCode": "116240000",
+  "imageDimensions": {
+    "/images/products/double-medical/joint-catalogue/page-092-xref-1370.webp": {
+      "width": 1520,
+      "height": 160
+    },
+    "/images/products/double-medical/joint-catalogue/page-093-xref-1378.webp": {
+      "width": 388,
+      "height": 1060
+    },
+    "/images/products/double-medical/joint-catalogue/page-093-xref-1380.webp": {
+      "width": 1348,
+      "height": 134
+    }
+  },
+  "sourcePdf": "/catalogs/double-medical/joint-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/joint-catalogue/pages/092.webp",
+    "/catalogs/double-medical/joint-catalogue/pages/093.webp"
+  ],
+  "sourcePageDimensions": {
+    "1": {
+      "width": 3647,
+      "height": 5111
+    },
+    "2": {
+      "width": 3647,
+      "height": 5111
+    },
+    "3": {
+      "width": 3647,
+      "height": 5111
+    },
+    "4": {
+      "width": 3647,
+      "height": 5111
+    },
+    "5": {
+      "width": 3647,
+      "height": 5111
+    },
+    "6": {
+      "width": 3647,
+      "height": 5111
+    },
+    "7": {
+      "width": 3647,
+      "height": 5111
+    },
+    "8": {
+      "width": 3647,
+      "height": 5111
+    },
+    "9": {
+      "width": 3647,
+      "height": 5111
+    },
+    "10": {
+      "width": 3647,
+      "height": 5111
+    },
+    "11": {
+      "width": 3647,
+      "height": 5111
+    },
+    "12": {
+      "width": 3647,
+      "height": 5111
+    },
+    "13": {
+      "width": 3647,
+      "height": 5111
+    },
+    "14": {
+      "width": 3647,
+      "height": 5111
+    },
+    "15": {
+      "width": 3647,
+      "height": 5111
+    },
+    "16": {
+      "width": 3647,
+      "height": 5111
+    },
+    "17": {
+      "width": 3647,
+      "height": 5111
+    },
+    "18": {
+      "width": 3647,
+      "height": 5111
+    },
+    "19": {
+      "width": 3647,
+      "height": 5111
+    },
+    "20": {
+      "width": 3647,
+      "height": 5111
+    },
+    "21": {
+      "width": 3647,
+      "height": 5111
+    },
+    "22": {
+      "width": 3647,
+      "height": 5111
+    },
+    "23": {
+      "width": 3647,
+      "height": 5111
+    },
+    "24": {
+      "width": 3647,
+      "height": 5111
+    },
+    "25": {
+      "width": 3647,
+      "height": 5111
+    },
+    "26": {
+      "width": 3647,
+      "height": 5111
+    },
+    "27": {
+      "width": 3647,
+      "height": 5111
+    },
+    "28": {
+      "width": 3647,
+      "height": 5111
+    },
+    "29": {
+      "width": 3647,
+      "height": 5111
+    },
+    "30": {
+      "width": 3647,
+      "height": 5111
+    },
+    "31": {
+      "width": 3647,
+      "height": 5111
+    },
+    "32": {
+      "width": 3647,
+      "height": 5111
+    },
+    "33": {
+      "width": 3647,
+      "height": 5111
+    },
+    "34": {
+      "width": 3647,
+      "height": 5111
+    },
+    "35": {
+      "width": 3647,
+      "height": 5111
+    },
+    "36": {
+      "width": 3647,
+      "height": 5111
+    },
+    "37": {
+      "width": 3647,
+      "height": 5111
+    },
+    "38": {
+      "width": 3647,
+      "height": 5111
+    },
+    "39": {
+      "width": 3647,
+      "height": 5111
+    },
+    "40": {
+      "width": 3647,
+      "height": 5111
+    },
+    "41": {
+      "width": 3647,
+      "height": 5111
+    },
+    "42": {
+      "width": 3647,
+      "height": 5111
+    },
+    "43": {
+      "width": 3647,
+      "height": 5111
+    },
+    "44": {
+      "width": 3647,
+      "height": 5111
+    },
+    "45": {
+      "width": 3647,
+      "height": 5111
+    },
+    "46": {
+      "width": 3647,
+      "height": 5111
+    },
+    "47": {
+      "width": 3647,
+      "height": 5111
+    },
+    "48": {
+      "width": 3647,
+      "height": 5111
+    },
+    "49": {
+      "width": 3647,
+      "height": 5111
+    },
+    "50": {
+      "width": 3647,
+      "height": 5111
+    },
+    "51": {
+      "width": 3647,
+      "height": 5111
+    },
+    "52": {
+      "width": 3647,
+      "height": 5111
+    },
+    "53": {
+      "width": 3647,
+      "height": 5111
+    },
+    "54": {
+      "width": 3647,
+      "height": 5111
+    },
+    "55": {
+      "width": 3647,
+      "height": 5111
+    },
+    "56": {
+      "width": 3647,
+      "height": 5111
+    },
+    "57": {
+      "width": 3647,
+      "height": 5111
+    },
+    "58": {
+      "width": 3647,
+      "height": 5111
+    },
+    "59": {
+      "width": 3647,
+      "height": 5111
+    },
+    "60": {
+      "width": 3647,
+      "height": 5111
+    },
+    "61": {
+      "width": 3647,
+      "height": 5111
+    },
+    "62": {
+      "width": 3647,
+      "height": 5111
+    },
+    "63": {
+      "width": 3647,
+      "height": 5111
+    },
+    "64": {
+      "width": 3647,
+      "height": 5111
+    },
+    "65": {
+      "width": 3647,
+      "height": 5111
+    },
+    "66": {
+      "width": 3647,
+      "height": 5111
+    },
+    "67": {
+      "width": 3647,
+      "height": 5111
+    },
+    "68": {
+      "width": 3647,
+      "height": 5111
+    },
+    "69": {
+      "width": 3647,
+      "height": 5111
+    },
+    "70": {
+      "width": 3647,
+      "height": 5111
+    },
+    "71": {
+      "width": 3647,
+      "height": 5111
+    },
+    "72": {
+      "width": 3647,
+      "height": 5111
+    },
+    "73": {
+      "width": 3647,
+      "height": 5111
+    },
+    "74": {
+      "width": 3647,
+      "height": 5111
+    },
+    "75": {
+      "width": 3647,
+      "height": 5111
+    },
+    "76": {
+      "width": 3647,
+      "height": 5111
+    },
+    "77": {
+      "width": 3647,
+      "height": 5111
+    },
+    "78": {
+      "width": 3647,
+      "height": 5111
+    },
+    "79": {
+      "width": 3647,
+      "height": 5111
+    },
+    "80": {
+      "width": 3647,
+      "height": 5111
+    },
+    "81": {
+      "width": 3647,
+      "height": 5111
+    },
+    "82": {
+      "width": 3647,
+      "height": 5111
+    },
+    "83": {
+      "width": 3647,
+      "height": 5111
+    },
+    "84": {
+      "width": 3647,
+      "height": 5111
+    },
+    "85": {
+      "width": 3647,
+      "height": 5111
+    },
+    "86": {
+      "width": 3647,
+      "height": 5111
+    },
+    "87": {
+      "width": 3647,
+      "height": 5111
+    },
+    "88": {
+      "width": 3647,
+      "height": 5111
+    },
+    "89": {
+      "width": 3647,
+      "height": 5111
+    },
+    "90": {
+      "width": 3647,
+      "height": 5111
+    },
+    "91": {
+      "width": 3647,
+      "height": 5111
+    },
+    "92": {
+      "width": 3647,
+      "height": 5111
+    },
+    "93": {
+      "width": 3647,
+      "height": 5111
+    },
+    "94": {
+      "width": 3647,
+      "height": 5111
+    },
+    "95": {
+      "width": 3647,
+      "height": 5111
+    },
+    "96": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "049dc47f4db1409b0ab7b002cc1e8beaaf86705c6ae23efac7eff3832b23e1e5",
+    "importMethod": "600-DPI PSM3/PSM11 + independent Vision + Codex visual row checks; additive REF merges",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      71,
+      81,
+      94,
+      95,
+      96
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.rows.3.0.ru",
+      "specTables.0.rows.4.0.ru",
+      "specTables.0.rows.5.0.ru",
+      "specTables.0.rows.6.0.ru",
+      "specTables.0.rows.7.0.ru",
+      "specTables.0.rows.8.0.ru",
+      "specTables.0.rows.9.0.ru",
+      "specTables.0.rows.10.0.ru",
+      "specTables.0.rows.11.0.ru",
+      "specTables.0.rowImages.0.imageCaption.ru",
+      "specTables.0.rowImages.1.imageCaption.ru",
+      "specTables.0.rowImages.2.imageCaption.ru",
+      "specTables.0.rowImages.3.imageCaption.ru",
+      "specTables.0.rowImages.4.imageCaption.ru",
+      "specTables.0.rowImages.5.imageCaption.ru",
+      "specTables.0.rowImages.6.imageCaption.ru",
+      "specTables.0.rowImages.7.imageCaption.ru",
+      "specTables.0.rowImages.8.imageCaption.ru",
+      "specTables.0.rowImages.9.imageCaption.ru",
+      "specTables.0.rowImages.10.imageCaption.ru",
+      "specTables.0.rowImages.11.imageCaption.ru",
+      "specTables.0.rowImageLabel.ru",
+      "specTables.1.title.ru",
+      "specTables.1.columns.0.ru",
+      "specTables.1.columns.1.ru",
+      "specTables.1.rows.0.0.ru",
+      "specTables.1.rows.1.0.ru",
+      "specTables.1.rows.2.0.ru",
+      "specTables.1.rows.3.0.ru",
+      "specTables.1.rows.4.0.ru",
+      "specTables.1.rows.5.0.ru",
+      "specTables.1.rows.6.0.ru",
+      "specTables.1.rows.7.0.ru",
+      "specTables.1.rows.8.0.ru",
+      "specTables.1.rows.9.0.ru",
+      "specTables.1.rows.10.0.ru",
+      "specTables.1.rows.11.0.ru",
+      "specTables.1.rows.12.0.ru",
+      "specTables.1.rows.13.0.ru",
+      "specTables.1.rowImages.0.imageCaption.ru",
+      "specTables.1.rowImages.1.imageCaption.ru",
+      "specTables.1.rowImages.2.imageCaption.ru",
+      "specTables.1.rowImages.3.imageCaption.ru",
+      "specTables.1.rowImages.4.imageCaption.ru",
+      "specTables.1.rowImages.5.imageCaption.ru",
+      "specTables.1.rowImages.6.imageCaption.ru",
+      "specTables.1.rowImages.7.imageCaption.ru",
+      "specTables.1.rowImages.8.imageCaption.ru",
+      "specTables.1.rowImages.9.imageCaption.ru",
+      "specTables.1.rowImages.10.imageCaption.ru",
+      "specTables.1.rowImages.11.imageCaption.ru",
+      "specTables.1.rowImages.12.imageCaption.ru",
+      "specTables.1.rowImages.13.imageCaption.ru",
+      "specTables.1.rowImageLabel.ru",
+      "catalogTitle.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Published under owner authorization: zero real flags after 600-DPI source verification."
+  },
+  "publishedAt": "2026-11-19T17:19:05.239548+00:00"
+}

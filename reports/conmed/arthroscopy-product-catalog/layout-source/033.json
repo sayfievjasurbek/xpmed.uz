@@ -1,0 +1,514 @@
+{
+  "pdfPage": 33,
+  "officialPage": 45,
+  "alignment": [
+    [
+      0.9715321929740034,
+      -0.0008007359977039758,
+      0.01455545782699376
+    ],
+    [
+      0.0002902387710036957,
+      0.9726984901036998,
+      0.012497466158291877
+    ]
+  ],
+  "alignmentMatches": 29,
+  "alignmentInliers": 15,
+  "category": "knee-arthroscopy",
+  "title": {
+    "en": "Femoral Fixation Implants",
+    "ru": "Имплантаты для бедренной фиксации"
+  },
+  "groups": [
+    {
+      "title": "™ Button — Implants",
+      "page": 33,
+      "officialPage": 45,
+      "headingBounds": [
+        0.10007584047616509,
+        0.2591745023311297,
+        0.14974179576298036,
+        0.27228762286076336
+      ],
+      "rows": [
+        {
+          "description": "GraftMax ™ Button ALB",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "KS-ALB",
+              "sourceBounds": [
+                0.5173116108073388,
+                0.2747093021180591,
+                0.568228104824026,
+                0.28779069755490605
+              ],
+              "officialCode": "KS-ALB",
+              "officialBounds": [
+                322.5289611816406,
+                213.4768829345703,
+                347.9935302734375,
+                223.6558837890625
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.26824999983648257,
+            0.578228104824026,
+            0.2902499998364826
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "GraftMax ™ Button BTB",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "KS-BTB",
+              "sourceBounds": [
+                0.5173116097890088,
+                0.28918650771931653,
+                0.5682281038056959,
+                0.3023313489891578
+              ],
+              "officialCode": "KS-BTB",
+              "officialBounds": [
+                322.3759765625,
+                225.81690979003906,
+                347.9908447265625,
+                235.99591064453125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.28275892835423716,
+            0.5782281038056959,
+            0.3047589283542372
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "GraftMax ™ Button Cradle",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "KS-BCA",
+              "sourceBounds": [
+                0.5091649685324291,
+                0.3066860466645238,
+                0.5682281066851232,
+                0.3169642858011743
+              ],
+              "officialCode": "KS-BCA",
+              "officialBounds": [
+                321.781982421875,
+                238.15687561035156,
+                347.9944763183594,
+                248.33587646484375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.29882516623284905,
+            0.5782281066851233,
+            0.32082516623284907
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        }
+      ],
+      "features": [
+        {
+          "text": "Maximum fixation: reduces displacement by 70%",
+          "bounds": [
+            0.10726861684859458,
+            0.1994625260551328,
+            0.3963039355696833,
+            0.21343930304468575
+          ],
+          "officialStartX": 58.5
+        },
+        {
+          "text": "Maximum graft fill: loop is fully adjustable",
+          "bounds": [
+            0.10725749551529314,
+            0.21297222730657306,
+            0.352884898036817,
+            0.22693603647031366
+          ],
+          "officialStartX": 58.5
+        },
+        {
+          "text": "Maximum reproducibility: ease of use compared to competitive designs",
+          "bounds": [
+            0.10724637418199169,
+            0.2264819285580133,
+            0.520142429084622,
+            0.2404957081174296
+          ],
+          "officialStartX": 58.5
+        }
+      ],
+      "notes": [
+        "The GraftMax Button gives surgeons the benefits and ease of use of an adjustable",
+        "loop button, with the graft fixation of a fixed loop."
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "XO Button — GraftMax Button and XO Button Instrumentation",
+      "page": 33,
+      "officialPage": 45,
+      "headingBounds": [
+        0.0997407144411285,
+        0.6512640167464521,
+        0.37318780628817444,
+        0.6644439529196494
+      ],
+      "rows": [
+        {
+          "description": "Flex Channel Reamer, 5mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "KC8550",
+              "sourceBounds": [
+                0.5050547613233242,
+                0.37345543836302886,
+                0.5682649953485817,
+                0.38671897944462386
+              ],
+              "officialCode": "KC8550",
+              "officialBounds": [
+                320.9232177734375,
+                532.726806640625,
+                347.9888916015625,
+                542.9058227539062
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.36708720890382635,
+            0.5782649953485817,
+            0.38908720890382636
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "GraftMax Flex XACTPIN®",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "KS-FGP24",
+              "sourceBounds": [
+                0.500952577544855,
+                0.3893385990483932,
+                0.5682938581252509,
+                0.40135907532909
+              ],
+              "officialCode": "KS-FGP24",
+              "officialBounds": [
+                313.8124084472656,
+                545.076904296875,
+                347.99981689453125,
+                555.2559204101562
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3823488371887416,
+            0.5782938581252509,
+            0.4043488371887416
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "XO Button Drill Bit, 5mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C8590",
+              "sourceBounds": [
+                0.5170973163219381,
+                0.40502720145352344,
+                0.5684423987389235,
+                0.41764721720337894
+              ],
+              "officialCode": "C8590",
+              "officialBounds": [
+                325.2333984375,
+                557.4158935546875,
+                348.0034484863281,
+                567.5949096679688
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3983372093284512,
+            0.5784423987389236,
+            0.4203372093284512
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "XACTPIN® Graft Passing Guide Pin",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C8677S",
+              "sourceBounds": [
+                0.5173116108073388,
+                0.41860465095526833,
+                0.568228104824026,
+                0.43179563473511506
+              ],
+              "officialCode": "C8677S",
+              "officialBounds": [
+                320.90618896484375,
+                569.7568969726562,
+                348.00250244140625,
+                579.9359130859375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.4122001428451917,
+            0.578228104824026,
+            0.4342001428451917
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "Suture Handle",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "HDL-CLT",
+              "sourceBounds": [
+                0.5173116107891542,
+                0.4345930231391346,
+                0.5682281048058414,
+                0.44767441857598156
+              ],
+              "officialCode": "HDL-CLT",
+              "officialBounds": [
+                319.5832214355469,
+                582.0958862304688,
+                348.0025634765625,
+                592.27490234375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.4281337208575581,
+            0.5782281048058414,
+            0.4501337208575581
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "XO Button Holder",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "PS8834",
+              "sourceBounds": [
+                0.5173116099163,
+                0.45058139547298404,
+                0.5682281039329872,
+                0.4622093023177136
+              ],
+              "officialCode": "PS8834",
+              "officialBounds": [
+                320.960205078125,
+                594.4348754882812,
+                347.99981689453125,
+                604.6138916015625
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.4433953488953488,
+            0.5782281039329872,
+            0.46539534889534884
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "EL Depth Probe",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "21.1001EL",
+              "sourceBounds": [
+                0.5010183287589383,
+                0.46502976203950985,
+                0.56822810574208,
+                0.4781976745643537
+              ],
+              "officialCode": "21.1001EL",
+              "officialBounds": [
+                313.3731994628906,
+                606.77392578125,
+                348.0033874511719,
+                616.9529418945312
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.45861371830193176,
+            0.5782281057420801,
+            0.4806137183019318
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        }
+      ],
+      "features": [
+        {
+          "text": "Pre-stretched continuous loop",
+          "bounds": [
+            0.10710446596844818,
+            0.3988657172759974,
+            0.28699161625415465,
+            0.4128098869772967
+          ],
+          "officialStartX": 58.5
+        },
+        {
+          "text": "Pre-loaded with passing sutures",
+          "bounds": [
+            0.10709334463514673,
+            0.41237541852743764,
+            0.2993977022113758,
+            0.42632329778670053
+          ],
+          "officialStartX": 58.5
+        },
+        {
+          "text": "Integrated method to reposition graft and implant",
+          "bounds": [
+            0.10708222330184529,
+            0.42588511977887794,
+            0.3950808026022791,
+            0.439861587049435
+          ],
+          "officialStartX": 58.5
+        },
+        {
+          "text": "Unique drill bit designed to measure aperture to cortex length",
+          "bounds": [
+            0.10707109591282295,
+            0.4393948210285091,
+            0.4650232618886434,
+            0.45339218646710505
+          ],
+          "officialStartX": 58.499996185302734
+        }
+      ],
+      "notes": [
+        "The implant of choice for extracortical, soft tissue fixation in cruciate reconstructions."
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "™ Hi-FI® Suture",
+      "page": 33,
+      "officialPage": 45,
+      "headingBounds": [
+        0.1894450692903896,
+        0.8076202346177697,
+        0.29792351273888107,
+        0.8223045215227058
+      ],
+      "rows": [
+        {
+          "description": "#2 Hi-Fi Suture, 60mm Straight Needle, 20\" Loop (12 per Box)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "HL200",
+              "sourceBounds": [
+                0.5030549896832711,
+                0.5363372095621313,
+                0.5682281056324111,
+                0.5479651164068607
+              ],
+              "officialCode": "HL200",
+              "officialBounds": [
+                325.6199951171875,
+                663.27685546875,
+                347.9967346191406,
+                673.4558715820312
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5291511629844959,
+            0.5782281056324111,
+            0.551151162984496
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "#2 Hi-Fi Suture, 48mm Curved Needle, 20\" Loop (12 per Box)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "HL201",
+              "sourceBounds": [
+                0.4582484745528429,
+                0.553779069978798,
+                0.566191440382663,
+                0.5654761905885356
+              ],
+              "officialCode": "HL201",
+              "officialBounds": [
+                325.8269958496094,
+                677.77587890625,
+                347.99493408203125,
+                687.9548950195312
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5466276302836668,
+            0.576191440382663,
+            0.5686276302836668
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 12
+}

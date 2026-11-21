@@ -1,0 +1,17 @@
+{
+  "name": "xpmed-catalog",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node scripts/test-all.mjs",
+    "test:js": "node --test tests/*.test.mjs",
+    "test:python": "python3 -m unittest discover -s tests -p \"test_*.py\" -v"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "0.1.100",
+    "fuse.js": "7.5.0",
+    "pdfjs-dist": "5.4.624"
+  }
+}

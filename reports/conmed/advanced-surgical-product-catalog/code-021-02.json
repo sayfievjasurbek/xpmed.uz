@@ -1,0 +1,40 @@
+{
+  "pdfPage": 21,
+  "pageRow": 2,
+  "visualReading": "ARMSTAND",
+  "visualReader": "Codex independent inspection of 600-DPI source table images; source-line crops retained",
+  "ocrReadings": {
+    "600dpi-psm3": "ARMSTAND",
+    "600dpi-psm11": "ARMSTAND",
+    "600dpi-code-crop-psm7": "ARMSTAND",
+    "Apple-Vision-accurate": "ARMSTAND"
+  },
+  "matchedReaders": [
+    "600dpi-psm3",
+    "600dpi-psm11",
+    "600dpi-code-crop-psm7",
+    "Apple-Vision-accurate"
+  ],
+  "value": "ARMSTAND",
+  "verificationStatus": "verified (visual + OCR)",
+  "manufacturerStatus": "confirmed on conmed.com",
+  "officialEvidence": [
+    {
+      "url": "https://www.conmed.com/-/media/conmed/documents/catalog/advancedsurgical_catalog.ashx",
+      "code": "ARMSTAND"
+    }
+  ],
+  "sourceBounds": [
+    0.8495402073958129,
+    0.2669550655874965,
+    0.9143024848366269,
+    0.2761652246720625
+  ],
+  "rowBounds": [
+    0.5289452320766902,
+    0.24735850698523343,
+    0.934,
+    0.2798573975044563
+  ],
+  "lineCrop": "reports/conmed/advanced-surgical-product-catalog/line-crops/021-02.png"
+}

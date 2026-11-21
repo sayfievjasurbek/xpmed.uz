@@ -1,0 +1,40 @@
+{
+  "pdfPage": 5,
+  "pageRow": 9,
+  "visualReading": "iFS-Valve1",
+  "visualReader": "Codex independent inspection of 600-DPI source table images; source-line crops retained",
+  "ocrReadings": {
+    "600dpi-psm3": "iFS-Valvet",
+    "600dpi-psm11": "iFS-Valvet",
+    "600dpi-code-crop-psm7": "iFS-Valvet",
+    "isolated-psm7-scale0.5-thresholdNone": "iFS-Valve4",
+    "isolated-psm7-scale0.5-threshold175": "iFS-Valve1",
+    "Apple-Vision-accurate": "iFS-Valve1"
+  },
+  "matchedReaders": [
+    "isolated-psm7-scale0.5-threshold175",
+    "Apple-Vision-accurate"
+  ],
+  "value": "iFS-Valve1",
+  "verificationStatus": "verified (visual + OCR)",
+  "manufacturerStatus": "confirmed on conmed.com",
+  "officialEvidence": [
+    {
+      "url": "https://www.conmed.com/-/media/conmed/documents/catalog/advancedsurgical_catalog.ashx",
+      "code": "iFS-Valve1"
+    }
+  ],
+  "sourceBounds": [
+    0.8563881823517903,
+    0.5753558470555401,
+    0.9105850127176678,
+    0.5844264582751884
+  ],
+  "rowBounds": [
+    0.5083900557598712,
+    0.5409982174688057,
+    0.934,
+    0.5882352941176471
+  ],
+  "lineCrop": "reports/conmed/advanced-surgical-product-catalog/line-crops/005-09.png"
+}

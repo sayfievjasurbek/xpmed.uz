@@ -1,0 +1,367 @@
+{
+  "sourcePdf": "/catalogs/conmed/advanced-visualization-system/source.pdf",
+  "sourceFile": "catalogs-source/conmed/advanced-visualization-system.pdf",
+  "renderDpi": 400,
+  "method": "Visual transcription of company/contact pages; QR codes decoded locally with OpenCV 5.1.0 and ZXing-C++ 3.1.1. No remote QR service.",
+  "company": {
+    "page": 2,
+    "subject": "XPMED",
+    "heading_ru": "О компании",
+    "sourceLanguage": "ru",
+    "notAppliedToSite": true,
+    "sourceBounds": [
+      0.08,
+      0.115,
+      0.8,
+      0.43
+    ],
+    "paragraphs": [
+      {
+        "ru": "Мы являемся эксклюзивным дистрибьютором медицинского оборудования, имплантов и расходных материалов в Узбекистане и странах Средней Азии",
+        "en": "We are an exclusive distributor of medical equipment, implants and consumables in Uzbekistan and Central Asia."
+      },
+      {
+        "ru": "В сотрудничестве с крупнейшими мировыми лидерами в этой сфере “ConMed”, “Synimed”, “Double Medical” мы успешно поставляем более 7000 товаров в год!",
+        "en": "Working with leading global companies in this field, “ConMed”, “Synimed” and “Double Medical”, we successfully supply more than 7000 products per year!"
+      },
+      {
+        "ru": "Наша цель – вернуть пациентов к здоровой жизни, обеспечив их доступными и качественными медицинскими товарами.",
+        "en": "Our goal is to help patients return to a healthy life by providing them with affordable, high-quality medical products."
+      },
+      {
+        "ru": "Мы всегда гарантируем высшее качество нашей продукции.",
+        "en": "We always guarantee the highest quality of our products."
+      }
+    ],
+    "stats": [
+      {
+        "printed": "8+ лет\nдеятельности в этой сфере",
+        "value": "8+",
+        "ru": "лет деятельности в этой сфере",
+        "en": "years working in this field",
+        "sourceBounds": [
+          0.09,
+          0.59,
+          0.4,
+          0.66
+        ]
+      },
+      {
+        "printed": "7000+\nтоваров в год",
+        "value": "7000+",
+        "ru": "товаров в год",
+        "en": "products per year",
+        "sourceBounds": [
+          0.48,
+          0.63,
+          0.67,
+          0.7
+        ]
+      },
+      {
+        "printed": "500+\nпостоянных клиентов",
+        "value": "500+",
+        "ru": "постоянных клиентов",
+        "en": "regular clients",
+        "sourceBounds": [
+          0.71,
+          0.67,
+          0.95,
+          0.74
+        ]
+      }
+    ],
+    "printedWebsite": "www.xpmed.uz",
+    "note": {
+      "ru": "На странице приведены сведения о XPMED, а не глобальная статистика CONMED. Это заявления из недатированного каталога; актуальность не проверялась. На сайт они не перенесены.",
+      "en": "This page describes XPMED, not CONMED global statistics. These are claims printed in an undated catalog; current accuracy has not been verified. They have not been applied to the site."
+    }
+  },
+  "contacts": {
+    "page": 20,
+    "notAppliedToSite": true,
+    "sourceBounds": [
+      0.1,
+      0.81,
+      0.39,
+      0.945
+    ],
+    "printedLines": [
+      "Tashkent City, Yakkasaray",
+      "District, Solar Street, 12",
+      "info@xpmed.com",
+      "www. xpmed.uz",
+      "xpmed.uz",
+      "+998 95 476 66 60",
+      "+998 77 371 66 60"
+    ],
+    "addressPrinted": "Tashkent City, Yakkasaray\nDistrict, Solar Street, 12",
+    "emailPrinted": "info@xpmed.com",
+    "websitePrinted": "www. xpmed.uz",
+    "socialLabelPrinted": "xpmed.uz",
+    "socialIcons": [
+      "Telegram",
+      "Instagram",
+      "Facebook"
+    ],
+    "phonesPrinted": [
+      "+998 95 476 66 60",
+      "+998 77 371 66 60"
+    ],
+    "note": {
+      "ru": "Сохранены английское написание Solar Street и видимый пробел в “www. xpmed.uz”. Названия улицы и контакты не исправлялись и не переносились в текущие контакты сайта. Значок соцсетей сопровождается общим текстом xpmed.uz; конкретные URL не выводились по предположению.",
+      "en": "The printed English spelling Solar Street and visible spacing in “www. xpmed.uz” are preserved. No street name or contact details were corrected or applied to the live site. The social icons share the printed label xpmed.uz; no specific social URLs were inferred."
+    }
+  },
+  "qrs": [
+    {
+      "page": 4,
+      "printedPage": 2,
+      "bounds": [
+        0.8130868544600939,
+        0.8411469233989117,
+        0.9245892018779343,
+        0.9204688154039347
+      ],
+      "url": "https://www.conmed.com/-/media/conmed/documents/literature/im8000_specsheet.ashx",
+      "officialConmed": true,
+      "resourceType": "manufacturer-literature",
+      "decoder": "ZXing-C++ 3.1.1",
+      "decoded": true,
+      "crossCheckedWithOpenCV": true,
+      "coordinateSpace": "normalized-page",
+      "urlAvailabilityChecked": false
+    },
+    {
+      "page": 5,
+      "printedPage": 3,
+      "bounds": [
+        0.06719483568075117,
+        0.8424026789451653,
+        0.1772300469483568,
+        0.920678107994977
+      ],
+      "url": "https://www.conmed.com/-/media/conmed/documents/literature/ls8000_specsheet.ashx",
+      "officialConmed": true,
+      "resourceType": "manufacturer-literature",
+      "decoder": "ZXing-C++ 3.1.1",
+      "decoded": true,
+      "crossCheckedWithOpenCV": true,
+      "coordinateSpace": "normalized-page",
+      "urlAvailabilityChecked": false
+    },
+    {
+      "page": 6,
+      "printedPage": 4,
+      "bounds": [
+        0.1073943661971831,
+        0.8415655085809962,
+        0.21889671361502347,
+        0.9210966931770616
+      ],
+      "url": "https://www.conmed.com/en/products/surgical-imaging/hd-visualization",
+      "officialConmed": true,
+      "resourceType": "product-page",
+      "decoder": "ZXing-C++ 3.1.1",
+      "decoded": true,
+      "crossCheckedWithOpenCV": true,
+      "coordinateSpace": "normalized-page",
+      "urlAvailabilityChecked": false
+    },
+    {
+      "page": 8,
+      "printedPage": 6,
+      "bounds": [
+        0.2232981220657277,
+        0.8465885307660109,
+        0.3380281690140845,
+        0.9286312264545835
+      ],
+      "url": "https://youtu.be/D7q8ySIqG8s?si=8wpp1PDjBF0zpcZ6",
+      "officialConmed": false,
+      "resourceType": "external-video",
+      "decoder": "ZXing-C++ 3.1.1",
+      "decoded": true,
+      "crossCheckedWithOpenCV": true,
+      "coordinateSpace": "normalized-page",
+      "urlAvailabilityChecked": false
+    },
+    {
+      "page": 8,
+      "printedPage": 6,
+      "bounds": [
+        0.07511737089201878,
+        0.84742570113018,
+        0.18779342723004694,
+        0.9277940560904144
+      ],
+      "url": "https://youtu.be/S_wZl5Gn2IQ?si=oSWV_kuWswtS8pau",
+      "officialConmed": false,
+      "resourceType": "external-video",
+      "decoder": "ZXing-C++ 3.1.1",
+      "decoded": true,
+      "crossCheckedWithOpenCV": true,
+      "coordinateSpace": "normalized-page",
+      "urlAvailabilityChecked": false
+    },
+    {
+      "page": 9,
+      "printedPage": 7,
+      "bounds": [
+        0.0721830985915493,
+        0.8419840937630808,
+        0.18368544600938966,
+        0.921515278359146
+      ],
+      "url": "https://www.conmed.com/-/media/conmed/documents/literature/quicklatchuhdarthroscopes_productbrochure.ashx",
+      "officialConmed": true,
+      "resourceType": "manufacturer-literature",
+      "decoder": "ZXing-C++ 3.1.1",
+      "decoded": true,
+      "crossCheckedWithOpenCV": true,
+      "coordinateSpace": "normalized-page",
+      "urlAvailabilityChecked": false
+    },
+    {
+      "page": 9,
+      "printedPage": 7,
+      "bounds": [
+        0.2227112676056338,
+        0.8419840937630808,
+        0.33392018779342725,
+        0.9213059857681039
+      ],
+      "url": "https://www.conmed.com/-/media/conmed/documents/literature/hd_scopes_quicklatch_productbrochure.ashx",
+      "officialConmed": true,
+      "resourceType": "manufacturer-literature",
+      "decoder": "ZXing-C++ 3.1.1",
+      "decoded": true,
+      "crossCheckedWithOpenCV": false,
+      "coordinateSpace": "normalized-page",
+      "urlAvailabilityChecked": false
+    },
+    {
+      "page": 10,
+      "printedPage": 8,
+      "bounds": [
+        0.82981220657277,
+        0.8417748011720385,
+        0.9395539906103286,
+        0.9200502302218502
+      ],
+      "url": "https://www.conmed.com/-/media/conmed/documents/literature/hd_scopes_quicklatch_productbrochure.ashx",
+      "officialConmed": true,
+      "resourceType": "manufacturer-literature",
+      "decoder": "ZXing-C++ 3.1.1",
+      "decoded": true,
+      "crossCheckedWithOpenCV": false,
+      "coordinateSpace": "normalized-page",
+      "urlAvailabilityChecked": false
+    },
+    {
+      "page": 11,
+      "printedPage": 9,
+      "bounds": [
+        0.8268779342723005,
+        0.8417748011720385,
+        0.9366197183098591,
+        0.9200502302218502
+      ],
+      "url": "https://www.conmed.com/-/media/conmed/documents/literature/hd_scopes_quicklatch_productbrochure.ashx",
+      "officialConmed": true,
+      "resourceType": "manufacturer-literature",
+      "decoder": "ZXing-C++ 3.1.1",
+      "decoded": true,
+      "crossCheckedWithOpenCV": false,
+      "coordinateSpace": "normalized-page",
+      "urlAvailabilityChecked": false
+    },
+    {
+      "page": 12,
+      "printedPage": 10,
+      "bounds": [
+        0.8268779342723005,
+        0.8417748011720385,
+        0.9366197183098591,
+        0.9200502302218502
+      ],
+      "url": "https://www.conmed.com/-/media/conmed/documents/literature/hd_scopes_quicklatch_productbrochure.ashx",
+      "officialConmed": true,
+      "resourceType": "manufacturer-literature",
+      "decoder": "ZXing-C++ 3.1.1",
+      "decoded": true,
+      "crossCheckedWithOpenCV": false,
+      "coordinateSpace": "normalized-page",
+      "urlAvailabilityChecked": false
+    },
+    {
+      "page": 13,
+      "printedPage": 11,
+      "bounds": [
+        0.09330985915492958,
+        0.8417748011720385,
+        0.20305164319248825,
+        0.9200502302218502
+      ],
+      "url": "https://www.conmed.com/-/media/conmed/documents/literature/hd_scopes_quicklatch_productbrochure.ashx",
+      "officialConmed": true,
+      "resourceType": "manufacturer-literature",
+      "decoder": "ZXing-C++ 3.1.1",
+      "decoded": true,
+      "crossCheckedWithOpenCV": false,
+      "coordinateSpace": "normalized-page",
+      "urlAvailabilityChecked": false
+    },
+    {
+      "page": 14,
+      "printedPage": 12,
+      "bounds": [
+        0.1056338028169014,
+        0.8403097530347425,
+        0.2177230046948357,
+        0.9202595228128925
+      ],
+      "url": "https://www.conmed.com/-/media/conmed/documents/literature/uhd_laparoscopes_productbrochure.ashx",
+      "officialConmed": true,
+      "resourceType": "manufacturer-literature",
+      "decoder": "ZXing-C++ 3.1.1",
+      "decoded": true,
+      "crossCheckedWithOpenCV": true,
+      "coordinateSpace": "normalized-page",
+      "urlAvailabilityChecked": false
+    },
+    {
+      "page": 15,
+      "printedPage": 13,
+      "bounds": [
+        0.7855046948356808,
+        0.8415655085809962,
+        0.8973004694835681,
+        0.921515278359146
+      ],
+      "url": "https://www.conmed.com/en/products/surgical-imaging/arthroscopes-and-laparoscopes",
+      "officialConmed": true,
+      "resourceType": "product-page",
+      "decoder": "ZXing-C++ 3.1.1",
+      "decoded": true,
+      "crossCheckedWithOpenCV": true,
+      "coordinateSpace": "normalized-page",
+      "urlAvailabilityChecked": false
+    }
+  ],
+  "qrSummary": {
+    "decodedOccurrences": 13,
+    "uniqueUrls": 9,
+    "officialConmedOccurrences": 11,
+    "officialProductPageOccurrences": 2,
+    "manufacturerLiteratureOccurrences": 9,
+    "externalVideoOccurrences": 2,
+    "decodeFailures": 0
+  },
+  "decodeFailures": [],
+  "pagesWithoutQr": [
+    7,
+    16
+  ],
+  "sourceBoundsNote": "Normalized page coordinates [left,top,right,bottom]; company/contact regions manually located from rendered originals, QR bounds from decoder quadrilaterals. Physical PDF pages are used; printed product page = physical PDF page minus 2."
+}

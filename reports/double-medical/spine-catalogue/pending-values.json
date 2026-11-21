@@ -1,0 +1,2016 @@
+[
+  {
+    "id": "spine-p4-1:9:1",
+    "pdfPage": 4,
+    "table": "Anterior Cervical Spine Plate III, double line",
+    "row": 9,
+    "column": "Holes",
+    "readings": {
+      "PSM3": "4A",
+      "PSM11": "",
+      "Vision": ""
+    },
+    "glyph": "4",
+    "bounds": [
+      0.08,
+      0.39653042457444726,
+      0.56,
+      0.41231324594012914
+    ],
+    "columnStart": 0.2565572834128799,
+    "columnEnd": 0.3237856602782639
+  },
+  {
+    "id": "spine-p9-1:3:1",
+    "pdfPage": 9,
+    "table": "Anterior Cervical Spine Plate IV",
+    "row": 3,
+    "column": "Holes",
+    "readings": {
+      "PSM3": "4.",
+      "PSM11": "",
+      "Vision": ""
+    },
+    "glyph": "4",
+    "bounds": [
+      0.08,
+      0.2515490119350421,
+      0.56,
+      0.2673318333007239
+    ],
+    "columnStart": 0.27291242456843556,
+    "columnEnd": 0.342097950026103
+  },
+  {
+    "id": "spine-p15-1:2:1",
+    "pdfPage": 15,
+    "table": "Cervical Cage, PEEK, curved",
+    "row": 2,
+    "column": "Height (mm)",
+    "readings": {
+      "PSM3": "OONOO",
+      "PSM11": "i",
+      "Vision": ""
+    },
+    "glyph": "7",
+    "bounds": [
+      0.08,
+      0.26094052044609667,
+      0.56,
+      0.27691899823909216
+    ],
+    "columnStart": 0.34826883880871845,
+    "columnEnd": 0.4982688388087184
+  },
+  {
+    "id": "spine-p15-3:1:1",
+    "pdfPage": 15,
+    "table": "Cervical Cage, PEEK, parallel",
+    "row": 1,
+    "column": "Height (mm)",
+    "readings": {
+      "PSM3": "",
+      "PSM11": "",
+      "Vision": ""
+    },
+    "glyph": "6",
+    "bounds": [
+      0.08,
+      0.7800170221091763,
+      0.56,
+      0.7959954999021718
+    ],
+    "columnStart": 0.3461760788274132,
+    "columnEnd": 0.4961760788274132
+  },
+  {
+    "id": "spine-p15-3:2:1",
+    "pdfPage": 15,
+    "table": "Cervical Cage, PEEK, parallel",
+    "row": 2,
+    "column": "Height (mm)",
+    "readings": {
+      "PSM3": "",
+      "PSM11": "",
+      "Vision": ""
+    },
+    "glyph": "7",
+    "bounds": [
+      0.08,
+      0.794691254157699,
+      0.56,
+      0.8106697319506946
+    ],
+    "columnStart": 0.3461760788274132,
+    "columnEnd": 0.4961760788274132
+  },
+  {
+    "id": "spine-p15-3:4:1",
+    "pdfPage": 15,
+    "table": "Cervical Cage, PEEK, parallel",
+    "row": 4,
+    "column": "Height (mm)",
+    "readings": {
+      "PSM3": "O",
+      "PSM11": "",
+      "Vision": ""
+    },
+    "glyph": "9",
+    "bounds": [
+      0.08,
+      0.8240397182547446,
+      0.56,
+      0.8400181960477402
+    ],
+    "columnStart": 0.3461760788274132,
+    "columnEnd": 0.4961760788274132
+  },
+  {
+    "id": "spine-p42-1:8:2",
+    "pdfPage": 42,
+    "table": "Cortex Screw for Laminoplasty Plate, self-tapping",
+    "row": 8,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "",
+      "PSM11": "",
+      "Vision": ""
+    },
+    "glyph": "6",
+    "bounds": [
+      0.08,
+      0.3552469184112698,
+      0.56,
+      0.3712253962042653
+    ],
+    "columnStart": 0.38692997199098095,
+    "columnEnd": 0.5369299719909809
+  },
+  {
+    "id": "spine-p42-1:9:2",
+    "pdfPage": 42,
+    "table": "Cortex Screw for Laminoplasty Plate, self-tapping",
+    "row": 9,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "",
+      "PSM11": "",
+      "Vision": ""
+    },
+    "glyph": "8",
+    "bounds": [
+      0.08,
+      0.37011680688710624,
+      0.56,
+      0.3858996282527881
+    ],
+    "columnStart": 0.38692997199098095,
+    "columnEnd": 0.5369299719909809
+  },
+  {
+    "id": "spine-p54-1:22:2",
+    "pdfPage": 54,
+    "table": "TINA Polyaxial Pedicle Screw (5.5 System)",
+    "row": 22,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "15",
+      "PSM11": "15",
+      "Vision": ""
+    },
+    "glyph": "75",
+    "bounds": [
+      0.08,
+      0.551490315006848,
+      0.56,
+      0.5674687927998435
+    ],
+    "columnStart": 0.38688270322610285,
+    "columnEnd": 0.5368827032261029
+  },
+  {
+    "id": "spine-p54-1:45:2",
+    "pdfPage": 54,
+    "table": "TINA Polyaxial Pedicle Screw (5.5 System)",
+    "row": 45,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "15",
+      "PSM11": "15",
+      "Vision": ""
+    },
+    "glyph": "75",
+    "bounds": [
+      0.08,
+      0.8897802778321268,
+      0.56,
+      0.9055630991978086
+    ],
+    "columnStart": 0.38688270322610285,
+    "columnEnd": 0.5368827032261029
+  },
+  {
+    "id": "spine-p55-1:21:2",
+    "pdfPage": 55,
+    "table": "TINA Polyaxial Pedicle Screw (5.5 System)",
+    "row": 21,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "15",
+      "PSM11": "15",
+      "Vision": ""
+    },
+    "glyph": "75",
+    "bounds": [
+      0.08,
+      0.5368160829583252,
+      0.56,
+      0.552598904324007
+    ],
+    "columnStart": 0.4052487576522463,
+    "columnEnd": 0.5552487576522463
+  },
+  {
+    "id": "spine-p55-1:44:2",
+    "pdfPage": 55,
+    "table": "TINA Polyaxial Pedicle Screw (5.5 System)",
+    "row": 44,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "15",
+      "PSM11": "15",
+      "Vision": ""
+    },
+    "glyph": "75",
+    "bounds": [
+      0.08,
+      0.875106045783604,
+      0.56,
+      0.8908888671492858
+    ],
+    "columnStart": 0.4052487576522463,
+    "columnEnd": 0.5552487576522463
+  },
+  {
+    "id": "spine-p58-1:42:2",
+    "pdfPage": 58,
+    "table": "TINA Long Arm Polyaxial Pedicle Screw (5.5 System)",
+    "row": 42,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "Oy)",
+      "PSM11": "30",
+      "Vision": ""
+    },
+    "glyph": "55",
+    "bounds": [
+      0.08,
+      0.8455619252592448,
+      0.56,
+      0.8615404030522402
+    ],
+    "columnStart": 0.38681978054062044,
+    "columnEnd": 0.5368197805406204
+  },
+  {
+    "id": "spine-p60-1:36:2",
+    "pdfPage": 60,
+    "table": "TINA Long Arm Polyaxial Pedicle Screw (5,5 System) -m000022220",
+    "row": 36,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "oo",
+      "PSM11": "39",
+      "Vision": ""
+    },
+    "glyph": "35",
+    "bounds": [
+      0.08,
+      0.7573208765407944,
+      0.56,
+      0.7732993543337898
+    ],
+    "columnStart": 0.38684849096305,
+    "columnEnd": 0.53684849096305
+  },
+  {
+    "id": "spine-p61-1:28:2",
+    "pdfPage": 61,
+    "table": "TINA Long Am Polyaxil PedideScrew (5,5 system)172",
+    "row": 28,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "",
+      "PSM11": "115",
+      "Vision": "115 115"
+    },
+    "glyph": null,
+    "bounds": [
+      0.08,
+      0.6397313637252984,
+      0.56,
+      0.6557098415182939
+    ],
+    "columnStart": 0.4052953133944241,
+    "columnEnd": 0.5552953133944241
+  },
+  {
+    "id": "spine-p66-1:4:1",
+    "pdfPage": 66,
+    "table": "TINA Monoaxial Pedicle Screw (5.5 System)",
+    "row": 4,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "§ 9.5",
+      "PSM11": "os",
+      "Vision": ""
+    },
+    "glyph": "9.5",
+    "bounds": [
+      0.08,
+      0.2867671688514968,
+      0.56,
+      0.3027456466444923
+    ],
+    "columnStart": 0.23625254537574875,
+    "columnEnd": 0.38683004574875474
+  },
+  {
+    "id": "spine-p68-1:4:2",
+    "pdfPage": 68,
+    "table": "TINA Long Arm Monoaxial Pedicle Screw (5.5 System)",
+    "row": 4,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "5)",
+      "PSM11": "5)",
+      "Vision": ""
+    },
+    "glyph": "95",
+    "bounds": [
+      0.08,
+      0.2867671688514968,
+      0.56,
+      0.3027456466444923
+    ],
+    "columnStart": 0.38683225584205694,
+    "columnEnd": 0.536832255842057
+  },
+  {
+    "id": "spine-p68-1:22:2",
+    "pdfPage": 68,
+    "table": "TINA Long Arm Monoaxial Pedicle Screw (5.5 System)",
+    "row": 22,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "10",
+      "PSM11": "10",
+      "Vision": ""
+    },
+    "glyph": "70",
+    "bounds": [
+      0.08,
+      0.551490315006848,
+      0.56,
+      0.5674687927998435
+    ],
+    "columnStart": 0.38683225584205694,
+    "columnEnd": 0.536832255842057
+  },
+  {
+    "id": "spine-p68-1:23:2",
+    "pdfPage": 68,
+    "table": "TINA Long Arm Monoaxial Pedicle Screw (5.5 System)",
+    "row": 23,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "19",
+      "PSM11": "15",
+      "Vision": ""
+    },
+    "glyph": "75",
+    "bounds": [
+      0.08,
+      0.5661645470553708,
+      0.56,
+      0.5821430248483662
+    ],
+    "columnStart": 0.38683225584205694,
+    "columnEnd": 0.536832255842057
+  },
+  {
+    "id": "spine-p68-1:37:1",
+    "pdfPage": 68,
+    "table": "TINA Long Arm Monoaxial Pedicle Screw (5.5 System)",
+    "row": 37,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "7.9",
+      "PSM11": "1.9",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.7721907650166308,
+      0.56,
+      0.7879735863823126
+    ],
+    "columnStart": 0.23625254537574875,
+    "columnEnd": 0.38683225584205694
+  },
+  {
+    "id": "spine-p68-1:38:1",
+    "pdfPage": 68,
+    "table": "TINA Long Arm Monoaxial Pedicle Screw (5.5 System)",
+    "row": 38,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "897.5",
+      "PSM11": "1.9",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.7868649970651536,
+      0.56,
+      0.8026478184308354
+    ],
+    "columnStart": 0.23625254537574875,
+    "columnEnd": 0.38683225584205694
+  },
+  {
+    "id": "spine-p68-1:38:2",
+    "pdfPage": 68,
+    "table": "TINA Long Arm Monoaxial Pedicle Screw (5.5 System)",
+    "row": 38,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "39",
+      "PSM11": "39",
+      "Vision": ""
+    },
+    "glyph": "35",
+    "bounds": [
+      0.08,
+      0.7868649970651536,
+      0.56,
+      0.8026478184308354
+    ],
+    "columnStart": 0.38683225584205694,
+    "columnEnd": 0.536832255842057
+  },
+  {
+    "id": "spine-p68-1:39:1",
+    "pdfPage": 68,
+    "table": "TINA Long Arm Monoaxial Pedicle Screw (5.5 System)",
+    "row": 39,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "7.9",
+      "PSM11": "1.9",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.8015392291136764,
+      0.56,
+      0.8173220504793582
+    ],
+    "columnStart": 0.23625254537574875,
+    "columnEnd": 0.38683225584205694
+  },
+  {
+    "id": "spine-p68-1:41:1",
+    "pdfPage": 68,
+    "table": "TINA Long Arm Monoaxial Pedicle Screw (5.5 System)",
+    "row": 41,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "7.9",
+      "PSM11": "1.5",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.830887693210722,
+      0.56,
+      0.8468661710037175
+    ],
+    "columnStart": 0.23625254537574875,
+    "columnEnd": 0.38683225584205694
+  },
+  {
+    "id": "spine-p68-1:42:1",
+    "pdfPage": 68,
+    "table": "TINA Long Arm Monoaxial Pedicle Screw (5.5 System)",
+    "row": 42,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "387.5",
+      "PSM11": "1.5",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.8455619252592448,
+      0.56,
+      0.8615404030522402
+    ],
+    "columnStart": 0.23625254537574875,
+    "columnEnd": 0.38683225584205694
+  },
+  {
+    "id": "spine-p68-1:42:2",
+    "pdfPage": 68,
+    "table": "TINA Long Arm Monoaxial Pedicle Screw (5.5 System)",
+    "row": 42,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "30",
+      "PSM11": "30",
+      "Vision": ""
+    },
+    "glyph": "55",
+    "bounds": [
+      0.08,
+      0.8455619252592448,
+      0.56,
+      0.8615404030522402
+    ],
+    "columnStart": 0.38683225584205694,
+    "columnEnd": 0.536832255842057
+  },
+  {
+    "id": "spine-p68-1:43:1",
+    "pdfPage": 68,
+    "table": "TINA Long Arm Monoaxial Pedicle Screw (5.5 System)",
+    "row": 43,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "7.9",
+      "PSM11": "1.9",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.8604318137350812,
+      0.56,
+      0.876214635100763
+    ],
+    "columnStart": 0.23625254537574875,
+    "columnEnd": 0.38683225584205694
+  },
+  {
+    "id": "spine-p68-1:45:1",
+    "pdfPage": 68,
+    "table": "TINA Long Arm Monoaxial Pedicle Screw (5.5 System)",
+    "row": 45,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "7.9",
+      "PSM11": "1.9",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.8897802778321268,
+      0.56,
+      0.9055630991978086
+    ],
+    "columnStart": 0.23625254537574875,
+    "columnEnd": 0.38683225584205694
+  },
+  {
+    "id": "spine-p68-1:46:1",
+    "pdfPage": 68,
+    "table": "TINA Long Arm Monoaxial Pedicle Screw (5.5 System)",
+    "row": 46,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "8 7.5",
+      "PSM11": "7.9",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.9044545098806496,
+      0.56,
+      0.9204329876736451
+    ],
+    "columnStart": 0.23625254537574875,
+    "columnEnd": 0.38683225584205694
+  },
+  {
+    "id": "spine-p68-1:46:2",
+    "pdfPage": 68,
+    "table": "TINA Long Arm Monoaxial Pedicle Screw (5.5 System)",
+    "row": 46,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "19",
+      "PSM11": "15",
+      "Vision": ""
+    },
+    "glyph": "75",
+    "bounds": [
+      0.08,
+      0.9044545098806496,
+      0.56,
+      0.9204329876736451
+    ],
+    "columnStart": 0.38683225584205694,
+    "columnEnd": 0.536832255842057
+  },
+  {
+    "id": "spine-p70-1:22:2",
+    "pdfPage": 70,
+    "table": "TINA Long Arm Monoaxial Pedicle Screw (5.5 System)",
+    "row": 22,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "15",
+      "PSM11": "15",
+      "Vision": ""
+    },
+    "glyph": "75",
+    "bounds": [
+      0.08,
+      0.551490315006848,
+      0.56,
+      0.5674687927998435
+    ],
+    "columnStart": 0.3869414373689109,
+    "columnEnd": 0.5369414373689109
+  },
+  {
+    "id": "spine-p70-1:45:2",
+    "pdfPage": 70,
+    "table": "TINA Long Arm Monoaxial Pedicle Screw (5.5 System)",
+    "row": 45,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "15",
+      "PSM11": "15",
+      "Vision": ""
+    },
+    "glyph": "75",
+    "bounds": [
+      0.08,
+      0.8897802778321268,
+      0.56,
+      0.9055630991978086
+    ],
+    "columnStart": 0.3869414373689109,
+    "columnEnd": 0.5369414373689109
+  },
+  {
+    "id": "spine-p72-1:10:1",
+    "pdfPage": 72,
+    "table": "TINA Monoaxial Pedicle Screw (6.0 System)",
+    "row": 10,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "",
+      "PSM11": "5.9",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.3773560946977108,
+      0.56,
+      0.3933345724907063
+    ],
+    "columnStart": 0.23618837544148535,
+    "columnEnd": 0.3867774233936492
+  },
+  {
+    "id": "spine-p72-1:11:1",
+    "pdfPage": 72,
+    "table": "TINA Monoaxial Pedicle Screw (6.0 System)",
+    "row": 11,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "",
+      "PSM11": "9.9",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.39222598317354723,
+      0.56,
+      0.4080088045392291
+    ],
+    "columnStart": 0.23618837544148535,
+    "columnEnd": 0.3867774233936492
+  },
+  {
+    "id": "spine-p72-1:12:1",
+    "pdfPage": 72,
+    "table": "TINA Monoaxial Pedicle Screw (6.0 System)",
+    "row": 12,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "",
+      "PSM11": "Da",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.40690021522207004,
+      0.56,
+      0.4226830365877519
+    ],
+    "columnStart": 0.23618837544148535,
+    "columnEnd": 0.3867774233936492
+  },
+  {
+    "id": "spine-p72-1:13:1",
+    "pdfPage": 72,
+    "table": "TINA Monoaxial Pedicle Screw (6.0 System)",
+    "row": 13,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "",
+      "PSM11": "9.0",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.42157444727059284,
+      0.56,
+      0.4373572686362747
+    ],
+    "columnStart": 0.23618837544148535,
+    "columnEnd": 0.3867774233936492
+  },
+  {
+    "id": "spine-p94-1:4:1",
+    "pdfPage": 94,
+    "table": "TINA MIS Uni-Planar Pedicle Screw, extended tab 80mm",
+    "row": 4,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "",
+      "PSM11": "9.0",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.2873541381334377,
+      0.56,
+      0.3033326159264332
+    ],
+    "columnStart": 0.23828920673735524,
+    "columnEnd": 0.38881482597069345
+  },
+  {
+    "id": "spine-p94-1:5:1",
+    "pdfPage": 94,
+    "table": "TINA MIS Uni-Planar Pedicle Screw, extended tab 80mm",
+    "row": 5,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "",
+      "PSM11": "9.0",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.3022240266092741,
+      0.56,
+      0.318006847974956
+    ],
+    "columnStart": 0.23828920673735524,
+    "columnEnd": 0.38881482597069345
+  },
+  {
+    "id": "spine-p94-1:6:1",
+    "pdfPage": 94,
+    "table": "TINA MIS Uni-Planar Pedicle Screw, extended tab 80mm",
+    "row": 6,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "",
+      "PSM11": "9.9",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.3168982586577969,
+      0.56,
+      0.3326810800234788
+    ],
+    "columnStart": 0.23828920673735524,
+    "columnEnd": 0.38881482597069345
+  },
+  {
+    "id": "spine-p94-1:7:1",
+    "pdfPage": 94,
+    "table": "TINA MIS Uni-Planar Pedicle Screw, extended tab 80mm",
+    "row": 7,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "",
+      "PSM11": "5.9",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.3315724907063197,
+      0.56,
+      0.3475509684993152
+    ],
+    "columnStart": 0.23828920673735524,
+    "columnEnd": 0.38881482597069345
+  },
+  {
+    "id": "spine-p106-1:12:1",
+    "pdfPage": 106,
+    "table": "HOBBIT Polyaxial Pedicle Screw (5.5/6.0 System)",
+    "row": 12,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "",
+      "PSM11": "9.9",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.40474799452162,
+      0.56,
+      0.4207264723146155
+    ],
+    "columnStart": 0.23828920683368646,
+    "columnEnd": 0.3889162344496855
+  },
+  {
+    "id": "spine-p106-1:16:1",
+    "pdfPage": 106,
+    "table": "HOBBIT Polyaxial Pedicle Screw (5.5/6.0 System)",
+    "row": 16,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "",
+      "PSM11": "340",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.46364057914302487,
+      0.56,
+      0.4794234005087067
+    ],
+    "columnStart": 0.23828920683368646,
+    "columnEnd": 0.3889162344496855
+  },
+  {
+    "id": "spine-p108-1:8:1",
+    "pdfPage": 108,
+    "table": "HOBBIT Polyaxial Pedicle Screw (5.5/6.0 System)",
+    "row": 8,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "OES)",
+      "PSM11": "0.9",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.34585540990021524,
+      0.56,
+      0.36183388769321073
+    ],
+    "columnStart": 0.23828920521147678,
+    "columnEnd": 0.39097654168102525
+  },
+  {
+    "id": "spine-p108-1:14:1",
+    "pdfPage": 108,
+    "table": "HOBBIT Polyaxial Pedicle Screw (5.5/6.0 System)",
+    "row": 14,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "DES)",
+      "PSM11": "0.9",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.43409645861866564,
+      0.56,
+      0.45007493641166113
+    ],
+    "columnStart": 0.23828920521147678,
+    "columnEnd": 0.39097654168102525
+  },
+  {
+    "id": "spine-p112-1:7:2",
+    "pdfPage": 112,
+    "table": "HOBBIT Long Arm Polyaxial Pedicle Screw (5.5/6.0System)",
+    "row": 7,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "she)",
+      "PSM11": "efe)",
+      "Vision": ""
+    },
+    "glyph": "55",
+    "bounds": [
+      0.08,
+      0.3517251027196243,
+      0.56,
+      0.36770358051261987
+    ],
+    "columnStart": 0.3940224842336167,
+    "columnEnd": 0.5440224842336167
+  },
+  {
+    "id": "spine-p112-1:11:2",
+    "pdfPage": 112,
+    "table": "HOBBIT Long Arm Polyaxial Pedicle Screw (5.5/6.0System)",
+    "row": 11,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "15",
+      "PSM11": "15",
+      "Vision": ""
+    },
+    "glyph": "75",
+    "bounds": [
+      0.08,
+      0.41061768734102916,
+      0.56,
+      0.42640050870671103
+    ],
+    "columnStart": 0.3940224842336167,
+    "columnEnd": 0.5440224842336167
+  },
+  {
+    "id": "spine-p112-1:20:2",
+    "pdfPage": 112,
+    "table": "HOBBIT Long Arm Polyaxial Pedicle Screw (5.5/6.0System)",
+    "row": 20,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "59)",
+      "PSM11": "oye)",
+      "Vision": ""
+    },
+    "glyph": "55",
+    "bounds": [
+      0.08,
+      0.5428814322050479,
+      0.56,
+      0.5588599099980435
+    ],
+    "columnStart": 0.3940224842336167,
+    "columnEnd": 0.5440224842336167
+  },
+  {
+    "id": "spine-p118-1:18:1",
+    "pdfPage": 118,
+    "table": "HOBBIT Long Arm Monoaxial Pedicle Screw, Cannulated (5.5/6.0 System)",
+    "row": 18,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "7.9",
+      "PSM11": "1.9",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.5156851888084524,
+      0.56,
+      0.5314680101741343
+    ],
+    "columnStart": 0.2362525463521619,
+    "columnEnd": 0.38895916471352104
+  },
+  {
+    "id": "spine-p118-1:19:1",
+    "pdfPage": 118,
+    "table": "HOBBIT Long Arm Monoaxial Pedicle Screw, Cannulated (5.5/6.0 System)",
+    "row": 19,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "7.9",
+      "PSM11": "1.5",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.5303594208569752,
+      0.56,
+      0.5463378986499706
+    ],
+    "columnStart": 0.2362525463521619,
+    "columnEnd": 0.38895916471352104
+  },
+  {
+    "id": "spine-p118-1:20:1",
+    "pdfPage": 118,
+    "table": "HOBBIT Long Arm Monoaxial Pedicle Screw, Cannulated (5.5/6.0 System)",
+    "row": 20,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "7.9",
+      "PSM11": "1.5",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.545033652905498,
+      0.56,
+      0.5610121306984934
+    ],
+    "columnStart": 0.2362525463521619,
+    "columnEnd": 0.38895916471352104
+  },
+  {
+    "id": "spine-p118-1:21:1",
+    "pdfPage": 118,
+    "table": "HOBBIT Long Arm Monoaxial Pedicle Screw, Cannulated (5.5/6.0 System)",
+    "row": 21,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "7.9",
+      "PSM11": "1.9",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.5597078849540207,
+      0.56,
+      0.5756863627470162
+    ],
+    "columnStart": 0.2362525463521619,
+    "columnEnd": 0.38895916471352104
+  },
+  {
+    "id": "spine-p118-1:24:1",
+    "pdfPage": 118,
+    "table": "HOBBIT Long Arm Monoaxial Pedicle Screw, Cannulated (5.5/6.0 System)",
+    "row": 24,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "7.9",
+      "PSM11": "1.9",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.6039262375269028,
+      0.56,
+      0.6197090588925847
+    ],
+    "columnStart": 0.2362525463521619,
+    "columnEnd": 0.38895916471352104
+  },
+  {
+    "id": "spine-p118-1:25:1",
+    "pdfPage": 118,
+    "table": "HOBBIT Long Arm Monoaxial Pedicle Screw, Cannulated (5.5/6.0 System)",
+    "row": 25,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "7.9",
+      "PSM11": "1.5",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.6186004695754256,
+      0.56,
+      0.634578947368421
+    ],
+    "columnStart": 0.2362525463521619,
+    "columnEnd": 0.38895916471352104
+  },
+  {
+    "id": "spine-p120-1:2:1",
+    "pdfPage": 120,
+    "table": "HOBBIT Uni-Planar Pedicle Screw (5.5/6.0 System)",
+    "row": 2,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "5.0",
+      "PSM11": "9.9",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.28031050675014674,
+      0.56,
+      0.29628898454314223
+    ],
+    "columnStart": 0.23598900100731612,
+    "columnEnd": 0.3888136769542578
+  },
+  {
+    "id": "spine-p120-1:3:1",
+    "pdfPage": 120,
+    "table": "HOBBIT Uni-Planar Pedicle Screw (5.5/6.0 System)",
+    "row": 3,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "5.9",
+      "PSM11": "5.9",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.29498473879866954,
+      0.56,
+      0.31096321659166504
+    ],
+    "columnStart": 0.23598900100731612,
+    "columnEnd": 0.3888136769542578
+  },
+  {
+    "id": "spine-p120-1:8:1",
+    "pdfPage": 120,
+    "table": "HOBBIT Uni-Planar Pedicle Screw (5.5/6.0 System)",
+    "row": 8,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "5.0",
+      "PSM11": "0.9",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.36855155546859714,
+      0.56,
+      0.38453003326159263
+    ],
+    "columnStart": 0.23598900100731612,
+    "columnEnd": 0.3888136769542578
+  },
+  {
+    "id": "spine-p120-1:9:1",
+    "pdfPage": 120,
+    "table": "HOBBIT Uni-Planar Pedicle Screw (5.5/6.0 System)",
+    "row": 9,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "5.9",
+      "PSM11": "5.9",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.38322578751711994,
+      0.56,
+      0.39920426531011544
+    ],
+    "columnStart": 0.23598900100731612,
+    "columnEnd": 0.3888136769542578
+  },
+  {
+    "id": "spine-p126-1:25:2",
+    "pdfPage": 126,
+    "table": "HOBBIT Long Arm Sacroiliac Cannulated Screw (5.5/6.0 System)",
+    "row": 25,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "15",
+      "PSM11": "15",
+      "Vision": ""
+    },
+    "glyph": "75",
+    "bounds": [
+      0.08,
+      0.6186004695754256,
+      0.56,
+      0.634578947368421
+    ],
+    "columnStart": 0.3868886518642097,
+    "columnEnd": 0.5368886518642096
+  },
+  {
+    "id": "spine-p130-1:18:1",
+    "pdfPage": 130,
+    "table": "HOBBIT Long Arm Polyaxial Pedicle Screw, Cannulated (5.5/6.0 System)",
+    "row": 18,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "7.9",
+      "PSM11": "1.9",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.5156851888084524,
+      0.56,
+      0.5314680101741343
+    ],
+    "columnStart": 0.2361460720966917,
+    "columnEnd": 0.38892335586645704
+  },
+  {
+    "id": "spine-p130-1:19:1",
+    "pdfPage": 130,
+    "table": "HOBBIT Long Arm Polyaxial Pedicle Screw, Cannulated (5.5/6.0 System)",
+    "row": 19,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "7.9",
+      "PSM11": "1.9",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.5303594208569752,
+      0.56,
+      0.5461422422226571
+    ],
+    "columnStart": 0.2361460720966917,
+    "columnEnd": 0.38892335586645704
+  },
+  {
+    "id": "spine-p130-1:20:1",
+    "pdfPage": 130,
+    "table": "HOBBIT Long Arm Polyaxial Pedicle Screw, Cannulated (5.5/6.0 System)",
+    "row": 20,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "7.9",
+      "PSM11": "7.9",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.545033652905498,
+      0.56,
+      0.5610121306984934
+    ],
+    "columnStart": 0.2361460720966917,
+    "columnEnd": 0.38892335586645704
+  },
+  {
+    "id": "spine-p130-1:21:1",
+    "pdfPage": 130,
+    "table": "HOBBIT Long Arm Polyaxial Pedicle Screw, Cannulated (5.5/6.0 System)",
+    "row": 21,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "7.9",
+      "PSM11": "1.5",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.5597078849540207,
+      0.56,
+      0.5756863627470162
+    ],
+    "columnStart": 0.2361460720966917,
+    "columnEnd": 0.38892335586645704
+  },
+  {
+    "id": "spine-p130-1:22:1",
+    "pdfPage": 130,
+    "table": "HOBBIT Long Arm Polyaxial Pedicle Screw, Cannulated (5.5/6.0 System)",
+    "row": 22,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "7.9",
+      "PSM11": "5",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.5743821170025435,
+      0.56,
+      0.590360594795539
+    ],
+    "columnStart": 0.2361460720966917,
+    "columnEnd": 0.38892335586645704
+  },
+  {
+    "id": "spine-p130-1:24:1",
+    "pdfPage": 130,
+    "table": "HOBBIT Long Arm Polyaxial Pedicle Screw, Cannulated (5.5/6.0 System)",
+    "row": 24,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "7.9",
+      "PSM11": "1.9",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.6039262375269028,
+      0.56,
+      0.6197090588925847
+    ],
+    "columnStart": 0.2361460720966917,
+    "columnEnd": 0.38892335586645704
+  },
+  {
+    "id": "spine-p130-1:25:1",
+    "pdfPage": 130,
+    "table": "HOBBIT Long Arm Polyaxial Pedicle Screw, Cannulated (5.5/6.0 System)",
+    "row": 25,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "7.9",
+      "PSM11": "1.9",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.6186004695754256,
+      0.56,
+      0.634578947368421
+    ],
+    "columnStart": 0.2361460720966917,
+    "columnEnd": 0.38892335586645704
+  },
+  {
+    "id": "spine-p130-1:26:1",
+    "pdfPage": 130,
+    "table": "HOBBIT Long Arm Polyaxial Pedicle Screw, Cannulated (5.5/6.0 System)",
+    "row": 26,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "7.9",
+      "PSM11": "7.9",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.6332747016239484,
+      0.56,
+      0.6492531794169438
+    ],
+    "columnStart": 0.2361460720966917,
+    "columnEnd": 0.38892335586645704
+  },
+  {
+    "id": "spine-p136-1:1:1",
+    "pdfPage": 136,
+    "table": "HOBBIT Midline Cortex Screw (5.5 System)",
+    "row": 1,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "385.5",
+      "PSM11": "9.0",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.25878829974564665,
+      0.56,
+      0.27457112111132853
+    ],
+    "columnStart": 0.23625254537574875,
+    "columnEnd": 0.3868177294778474
+  },
+  {
+    "id": "spine-p136-1:2:1",
+    "pdfPage": 136,
+    "table": "HOBBIT Midline Cortex Screw (5.5 System)",
+    "row": 2,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "385.5",
+      "PSM11": "5.9",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.27346253179416946,
+      0.56,
+      0.2892453531598513
+    ],
+    "columnStart": 0.23625254537574875,
+    "columnEnd": 0.3868177294778474
+  },
+  {
+    "id": "spine-p136-1:3:1",
+    "pdfPage": 136,
+    "table": "HOBBIT Midline Cortex Screw (5.5 System)",
+    "row": 3,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "85.5",
+      "PSM11": "5.9",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.2881367638426922,
+      0.56,
+      0.3039195852083741
+    ],
+    "columnStart": 0.23625254537574875,
+    "columnEnd": 0.3868177294778474
+  },
+  {
+    "id": "spine-p136-1:4:1",
+    "pdfPage": 136,
+    "table": "HOBBIT Midline Cortex Screw (5.5 System)",
+    "row": 4,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "385.5",
+      "PSM11": "Oho)",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.302810995891215,
+      0.56,
+      0.3187894736842105
+    ],
+    "columnStart": 0.23625254537574875,
+    "columnEnd": 0.3868177294778474
+  },
+  {
+    "id": "spine-p136-1:5:1",
+    "pdfPage": 136,
+    "table": "HOBBIT Midline Cortex Screw (5.5 System)",
+    "row": 5,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "385.5",
+      "PSM11": "5.9",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.3174852279397378,
+      0.56,
+      0.3334637057327333
+    ],
+    "columnStart": 0.23625254537574875,
+    "columnEnd": 0.3868177294778474
+  },
+  {
+    "id": "spine-p136-1:6:1",
+    "pdfPage": 136,
+    "table": "HOBBIT Midline Cortex Screw (5.5 System)",
+    "row": 6,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "= 5.5",
+      "PSM11": "9.9",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.33215945998826063,
+      0.56,
+      0.3481379377812561
+    ],
+    "columnStart": 0.23625254537574875,
+    "columnEnd": 0.3868177294778474
+  },
+  {
+    "id": "spine-p136-1:7:1",
+    "pdfPage": 136,
+    "table": "HOBBIT Midline Cortex Screw (5.5 System)",
+    "row": 7,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "= 5.5",
+      "PSM11": "9.0",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.34702934846409705,
+      0.56,
+      0.36281216982977893
+    ],
+    "columnStart": 0.23625254537574875,
+    "columnEnd": 0.3868177294778474
+  },
+  {
+    "id": "spine-p136-1:10:1",
+    "pdfPage": 136,
+    "table": "HOBBIT Midline Cortex Screw (5.5 System)",
+    "row": 10,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "385.5",
+      "PSM11": "Se)",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.3910520446096654,
+      0.56,
+      0.4070305224026609
+    ],
+    "columnStart": 0.23625254537574875,
+    "columnEnd": 0.3868177294778474
+  },
+  {
+    "id": "spine-p136-1:11:1",
+    "pdfPage": 136,
+    "table": "HOBBIT Midline Cortex Screw (5.5 System)",
+    "row": 11,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "385.5",
+      "PSM11": "5.9",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.4057262766581882,
+      0.56,
+      0.4217047544511837
+    ],
+    "columnStart": 0.23625254537574875,
+    "columnEnd": 0.3868177294778474
+  },
+  {
+    "id": "spine-p136-1:12:1",
+    "pdfPage": 136,
+    "table": "HOBBIT Midline Cortex Screw (5.5 System)",
+    "row": 12,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "395.5",
+      "PSM11": "9.9",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.42040050870671103,
+      0.56,
+      0.4363789864997065
+    ],
+    "columnStart": 0.23625254537574875,
+    "columnEnd": 0.3868177294778474
+  },
+  {
+    "id": "spine-p136-1:13:1",
+    "pdfPage": 136,
+    "table": "HOBBIT Midline Cortex Screw (5.5 System)",
+    "row": 13,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "385.5",
+      "PSM11": "9.9",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.43527039718254745,
+      0.56,
+      0.45105321854822933
+    ],
+    "columnStart": 0.23625254537574875,
+    "columnEnd": 0.3868177294778474
+  },
+  {
+    "id": "spine-p136-1:14:1",
+    "pdfPage": 136,
+    "table": "HOBBIT Midline Cortex Screw (5.5 System)",
+    "row": 14,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "385.5",
+      "PSM11": "5.9",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.44994462923107026,
+      0.56,
+      0.4657274505967521
+    ],
+    "columnStart": 0.23625254537574875,
+    "columnEnd": 0.3868177294778474
+  },
+  {
+    "id": "spine-p140-1:20:1",
+    "pdfPage": 140,
+    "table": "HOBBIT MIS Long Arm Polyaxial Pedicle Screw (5.5/6.0 System)",
+    "row": 20,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "7.9",
+      "PSM11": "1.9",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.5381856779495207,
+      0.56,
+      0.5539684993152025
+    ],
+    "columnStart": 0.23625254670130358,
+    "columnEnd": 0.3888183266241587
+  },
+  {
+    "id": "spine-p140-1:26:1",
+    "pdfPage": 140,
+    "table": "HOBBIT MIS Long Arm Polyaxial Pedicle Screw (5.5/6.0 System)",
+    "row": 26,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "7.9",
+      "PSM11": "1.9",
+      "Vision": ""
+    },
+    "glyph": "7.5",
+    "bounds": [
+      0.08,
+      0.6264267266679711,
+      0.56,
+      0.6422095480336529
+    ],
+    "columnStart": 0.23625254670130358,
+    "columnEnd": 0.3888183266241587
+  },
+  {
+    "id": "spine-p169-1:10:1",
+    "pdfPage": 169,
+    "table": "HOBBIT Long Arm Polyaxial Pedicle Screw (4.75 System)",
+    "row": 10,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "DD",
+      "PSM11": "9.0",
+      "Vision": ""
+    },
+    "glyph": "5.5",
+    "bounds": [
+      0.08,
+      0.3945738603013109,
+      0.56,
+      0.4105523380943064
+    ],
+    "columnStart": 0.2708308595161465,
+    "columnEnd": 0.41324294578435444
+  },
+  {
+    "id": "spine-p172-1:17:0",
+    "pdfPage": 172,
+    "table": "HOBBIT Long Arm Polyaxial Pedicle Screw (4.75 System)",
+    "row": 17,
+    "column": "REF",
+    "readings": {
+      "PSM3": "08C436030",
+      "PSM11": "080436030"
+    },
+    "glyph": null,
+    "bounds": [
+      0.08,
+      0.4974891410682841,
+      0.56,
+      0.5134676188612796
+    ],
+    "columnStart": 0.1120162927778917,
+    "columnEnd": 0.2545824821138829
+  },
+  {
+    "id": "spine-p172-1:18:0",
+    "pdfPage": 172,
+    "table": "HOBBIT Long Arm Polyaxial Pedicle Screw (4.75 System)",
+    "row": 18,
+    "column": "REF",
+    "readings": {
+      "PSM3": "08C436035",
+      "PSM11": "080436035"
+    },
+    "glyph": null,
+    "bounds": [
+      0.08,
+      0.5121633731168069,
+      0.56,
+      0.5281418509098024
+    ],
+    "columnStart": 0.1120162927778917,
+    "columnEnd": 0.2545824821138829
+  },
+  {
+    "id": "spine-p177-1:6:2",
+    "pdfPage": 177,
+    "table": "HOBBIT Uni-Planar Pedicle Screw (4.75 System)",
+    "row": 6,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "",
+      "PSM11": "o1",
+      "Vision": ""
+    },
+    "glyph": "51",
+    "bounds": [
+      0.08,
+      0.3356812756799061,
+      0.56,
+      0.35165975347290157
+    ],
+    "columnStart": 0.4173752273512084,
+    "columnEnd": 0.5673752273512084
+  },
+  {
+    "id": "spine-p177-1:16:2",
+    "pdfPage": 177,
+    "table": "HOBBIT Uni-Planar Pedicle Screw (4.75 System)",
+    "row": 16,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "",
+      "PSM11": "o1",
+      "Vision": ""
+    },
+    "glyph": "51",
+    "bounds": [
+      0.08,
+      0.4828149090197613,
+      0.56,
+      0.4987933868127568
+    ],
+    "columnStart": 0.4173752273512084,
+    "columnEnd": 0.5673752273512084
+  },
+  {
+    "id": "spine-p183-1:7:1",
+    "pdfPage": 183,
+    "table": "Transconnector (4.75 System)",
+    "row": 7,
+    "column": "Length (mm)",
+    "readings": {
+      "PSM3": "70mm",
+      "PSM11": "7Omm",
+      "Vision": ""
+    },
+    "glyph": "70°°",
+    "bounds": [
+      0.08,
+      0.3505511641557425,
+      0.56,
+      0.3663339855214244
+    ],
+    "columnStart": 0.42802303262955854,
+    "columnEnd": 0.5780230326295586
+  },
+  {
+    "id": "spine-p190-1:1:1",
+    "pdfPage": 190,
+    "table": "Endo LIF Cage, PEEK",
+    "row": 1,
+    "column": "Spec.",
+    "readings": {
+      "PSM3": "28x9x8mm",
+      "PSM11": "28x9x8mmM",
+      "Vision": "28×9×8mm"
+    },
+    "glyph": "287978°°",
+    "bounds": [
+      0.08,
+      0.2443097241244375,
+      0.56,
+      0.260288201917433
+    ],
+    "columnStart": 0.2565688716601817,
+    "columnEnd": 0.42765799829568973
+  },
+  {
+    "id": "spine-p198-1:0:5",
+    "pdfPage": 198,
+    "table": "OLIF Cage",
+    "row": 0,
+    "column": "Angles (°)",
+    "readings": {
+      "PSM3": "on",
+      "PSM11": "",
+      "Vision": ""
+    },
+    "glyph": "5°",
+    "bounds": [
+      0.08,
+      0.22865720993934652,
+      0.56,
+      0.244635687732342
+    ],
+    "columnStart": 0.7820367180943167,
+    "columnEnd": 0.93
+  },
+  {
+    "id": "spine-p205-1:0:2",
+    "pdfPage": 205,
+    "table": "End Cap for Cervical Mesh, pressed",
+    "row": 0,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "10",
+      "PSM11": "010",
+      "Vision": "Ф10"
+    },
+    "glyph": "910",
+    "bounds": [
+      0.08,
+      0.23061377421248289,
+      0.56,
+      0.24659225200547838
+    ],
+    "columnStart": 0.4114052982356667,
+    "columnEnd": 0.5614052982356666
+  },
+  {
+    "id": "spine-p205-1:2:2",
+    "pdfPage": 205,
+    "table": "End Cap for Cervical Mesh, pressed",
+    "row": 2,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "p12",
+      "PSM11": "012",
+      "Vision": "Ф12"
+    },
+    "glyph": "912",
+    "bounds": [
+      0.08,
+      0.25996223830952847,
+      0.56,
+      0.27594071610252396
+    ],
+    "columnStart": 0.4114052982356667,
+    "columnEnd": 0.5614052982356666
+  },
+  {
+    "id": "spine-p205-1:4:2",
+    "pdfPage": 205,
+    "table": "End Cap for Cervical Mesh, pressed",
+    "row": 4,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "p10",
+      "PSM11": "010",
+      "Vision": "Ф10"
+    },
+    "glyph": "910",
+    "bounds": [
+      0.08,
+      0.2895063588338877,
+      0.56,
+      0.3052891801995696
+    ],
+    "columnStart": 0.4114052982356667,
+    "columnEnd": 0.5614052982356666
+  },
+  {
+    "id": "spine-p205-1:5:2",
+    "pdfPage": 205,
+    "table": "End Cap for Cervical Mesh, pressed",
+    "row": 5,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "p10",
+      "PSM11": "010",
+      "Vision": "ф10"
+    },
+    "glyph": "910",
+    "bounds": [
+      0.08,
+      0.3041805908824105,
+      0.56,
+      0.320159068675406
+    ],
+    "columnStart": 0.4114052982356667,
+    "columnEnd": 0.5614052982356666
+  },
+  {
+    "id": "spine-p205-1:6:2",
+    "pdfPage": 205,
+    "table": "End Cap for Cervical Mesh, pressed",
+    "row": 6,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "p12",
+      "PSM11": "012",
+      "Vision": "Ф12"
+    },
+    "glyph": "912",
+    "bounds": [
+      0.08,
+      0.31885482293093326,
+      0.56,
+      0.3348333007239288
+    ],
+    "columnStart": 0.4114052982356667,
+    "columnEnd": 0.5614052982356666
+  },
+  {
+    "id": "spine-p205-1:7:2",
+    "pdfPage": 205,
+    "table": "End Cap for Cervical Mesh, pressed",
+    "row": 7,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "p12",
+      "PSM11": "012",
+      "Vision": "412"
+    },
+    "glyph": "012",
+    "bounds": [
+      0.08,
+      0.33352905497945606,
+      0.56,
+      0.34950753277245156
+    ],
+    "columnStart": 0.4114052982356667,
+    "columnEnd": 0.5614052982356666
+  },
+  {
+    "id": "spine-p205-1:8:2",
+    "pdfPage": 205,
+    "table": "End Cap for Cervical Mesh, pressed",
+    "row": 8,
+    "column": "Diameter (mm)",
+    "readings": {
+      "PSM3": "p14",
+      "PSM11": "014",
+      "Vision": "414"
+    },
+    "glyph": "914",
+    "bounds": [
+      0.08,
+      0.34820328702797887,
+      0.56,
+      0.36418176482097436
+    ],
+    "columnStart": 0.4114052982356667,
+    "columnEnd": 0.5614052982356666
+  },
+  {
+    "id": "spine-p209-1:13:1",
+    "pdfPage": 209,
+    "table": "End Cap for Thoracic-Lumbar Mesh, pressed",
+    "row": 13,
+    "column": "Angles (°)",
+    "readings": {
+      "PSM3": "$<)",
+      "PSM11": "",
+      "Vision": ""
+    },
+    "glyph": "5",
+    "bounds": [
+      0.08,
+      0.4188352572882019,
+      0.56,
+      0.4346180786538838
+    ],
+    "columnStart": 0.2565638914704592,
+    "columnEnd": 0.41135783305666995
+  }
+]

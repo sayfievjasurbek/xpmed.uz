@@ -1,0 +1,924 @@
+{
+  "pdfPage": 20,
+  "officialPage": 25,
+  "alignment": [
+    [
+      0.9716722498958634,
+      -0.00047101575802946675,
+      0.014793385388986583
+    ],
+    [
+      -0.00026397800754637314,
+      0.9789608663393818,
+      0.011302460433099052
+    ]
+  ],
+  "alignmentMatches": 43,
+  "alignmentInliers": 40,
+  "category": "shoulder-arthroscopy",
+  "title": {
+    "en": "Suture Passing",
+    "ru": "Проведение шовного материала"
+  },
+  "groups": [
+    {
+      "title": "Spectrum® II Soft Tissue Repair System — Spectrum II Instruments",
+      "page": 20,
+      "officialPage": 25,
+      "headingBounds": [
+        0.09879000798789138,
+        0.326083763905699,
+        0.2369326343821869,
+        0.3392288221648827
+      ],
+      "rows": [
+        {
+          "description": "Spectrum II Handle",
+          "codes": [
+            {
+              "candidate": "C6350",
+              "sourceBounds": [
+                0.5307180999570916,
+                0.3442663589130379,
+                0.5655636742809338,
+                0.35683874487363393
+              ],
+              "officialBounds": [
+                325.052001953125,
+                269.4882507324219,
+                347.0030212402344,
+                279.667236328125
+              ],
+              "officialCode": "C6350"
+            }
+          ],
+          "rowBounds": [
+            0.09878120318181915,
+            0.3443837049022938,
+            0.5655636742809338,
+            0.35683874487363393
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        },
+        {
+          "description": "Spectrum II Sterilization Tray",
+          "codes": [
+            {
+              "candidate": "C6355",
+              "sourceBounds": [
+                0.5307094771614592,
+                0.3621880087488148,
+                0.5655550514853014,
+                0.3747603947094108
+              ],
+              "officialBounds": [
+                325.052001953125,
+                283.98724365234375,
+                347.0030212402344,
+                294.1662292480469
+              ],
+              "officialCode": "C6355"
+            }
+          ],
+          "rowBounds": [
+            0.09877258038618679,
+            0.36230535473807063,
+            0.5689844887698522,
+            0.37475946302074575
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        },
+        {
+          "description": "Spectrum II Roller Wheel Replacement Kit",
+          "codes": [
+            {
+              "candidate": "C6356",
+              "sourceBounds": [
+                0.5307008543658268,
+                0.3801096585845916,
+                0.565546428689669,
+                0.39268204454518774
+              ],
+              "officialBounds": [
+                325.052001953125,
+                298.4862365722656,
+                347.0030212402344,
+                308.66522216796875
+              ],
+              "officialCode": "C6356"
+            }
+          ],
+          "rowBounds": [
+            0.09876395759055441,
+            0.3802270045738475,
+            0.565546428689669,
+            0.39268204454518774
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        }
+      ],
+      "features": [
+        {
+          "text": "Designed for arthroscopic or open suturing of shoulder soft tissue",
+          "bounds": [
+            0.10601388362090118,
+            0.158445906188383,
+            0.4782751450355853,
+            0.17232461606347835
+          ],
+          "officialStartX": 57.49909973144531
+        },
+        {
+          "text": "Large roller wheels increase traction with Shuttle Relay™ and suture material",
+          "bounds": [
+            0.10600674702304413,
+            0.17327863715706218,
+            0.5382780491475682,
+            0.18714105329965466
+          ],
+          "officialStartX": 57.49909973144531
+        },
+        {
+          "text": "Disposable and Limited Reuse interchangeable suture hooks allow precise suture placement in otherwise hard-to-reach areas",
+          "bounds": [
+            0.10599469246639238,
+            0.18811137889222362,
+            0.5333967111222382,
+            0.20197511789213593
+          ],
+          "officialStartX": 57.496002197265625
+        },
+        {
+          "text": "Ergonomic handle design provides ease of maneuverability and handling",
+          "bounds": [
+            0.10598040714841578,
+            0.21777685969367755,
+            0.5190930432193606,
+            0.23164448074614843
+          ],
+          "officialStartX": 57.495994567871094
+        },
+        {
+          "text": "Unique key-lock insertion method allows for simple and reliable suture hook attachment",
+          "bounds": [
+            0.1059732705460214,
+            0.23260960009275908,
+            0.51179846746258,
+            0.2464792009523803
+          ],
+          "officialStartX": 57.495994567871094
+        },
+        {
+          "text": "For use with #2/0 to #1 monofilament suture, Shuttle Relay or with Super Shuttle ® Suture Passer",
+          "bounds": [
+            0.10595899734123262,
+            0.2622750808909222,
+            0.4942242388466776,
+            0.27614945233243715
+          ],
+          "officialStartX": 57.495994567871094
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Spectrum® II Soft Tissue Repair System — Limited Reuse Suture Hooks",
+      "page": 20,
+      "officialPage": 25,
+      "headingBounds": [
+        0.09874570572847882,
+        0.4181617411622274,
+        0.2594797423702556,
+        0.4313006430636643
+      ],
+      "rows": [
+        {
+          "description": "Suture Hook, 45° Right",
+          "codes": [
+            {
+              "candidate": "C6360",
+              "sourceBounds": [
+                0.5306737977249031,
+                0.43634427958715205,
+                0.5655193720487451,
+                0.44891666554774806
+              ],
+              "officialBounds": [
+                325.052001953125,
+                343.9812316894531,
+                347.0030212402344,
+                354.16021728515625
+              ],
+              "officialCode": "C6360"
+            }
+          ],
+          "rowBounds": [
+            0.09873690094963058,
+            0.4364616255764079,
+            0.5655193720487451,
+            0.44891666554774806
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        },
+        {
+          "description": "Suture Hook, 45° Left",
+          "codes": [
+            {
+              "candidate": "C6361",
+              "sourceBounds": [
+                0.5306651749292707,
+                0.45426592942292887,
+                0.5655107492531128,
+                0.46683831538352494
+              ],
+              "officialBounds": [
+                325.052001953125,
+                358.480224609375,
+                347.0030212402344,
+                368.6592102050781
+              ],
+              "officialCode": "C6361"
+            }
+          ],
+          "rowBounds": [
+            0.0987282781539982,
+            0.45438327541218476,
+            0.5655107492531128,
+            0.46683831538352494
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        },
+        {
+          "description": "Suture Hook, 60° Right",
+          "codes": [
+            {
+              "candidate": "C6362",
+              "sourceBounds": [
+                0.5306565521336383,
+                0.4721875792587058,
+                0.5655021264574804,
+                0.4847599652193018
+              ],
+              "officialBounds": [
+                325.052001953125,
+                372.9792175292969,
+                347.0030212402344,
+                383.158203125
+              ],
+              "officialCode": "C6362"
+            }
+          ],
+          "rowBounds": [
+            0.09871965535836584,
+            0.4723049252479617,
+            0.5655021264574804,
+            0.4847599652193018
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        },
+        {
+          "description": "Suture Hook, 60° Left",
+          "codes": [
+            {
+              "candidate": "C6363",
+              "sourceBounds": [
+                0.5306479293380059,
+                0.4901092290944827,
+                0.565493503661848,
+                0.5026816150550786
+              ],
+              "officialBounds": [
+                325.052001953125,
+                387.47821044921875,
+                347.0030212402344,
+                397.6571960449219
+              ],
+              "officialCode": "C6363"
+            }
+          ],
+          "rowBounds": [
+            0.09871103256273346,
+            0.4902265750837385,
+            0.565493503661848,
+            0.5026816150550786
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        },
+        {
+          "description": "Suture Hook, 90° Right",
+          "codes": [
+            {
+              "candidate": "C6364",
+              "sourceBounds": [
+                0.5306393065423736,
+                0.5080308789302596,
+                0.5654848808662156,
+                0.5206032648908555
+              ],
+              "officialBounds": [
+                325.052001953125,
+                401.9772033691406,
+                347.0030212402344,
+                412.15618896484375
+              ],
+              "officialCode": "C6364"
+            }
+          ],
+          "rowBounds": [
+            0.09870240976710108,
+            0.5081482249195154,
+            0.5654848808662156,
+            0.5206032648908555
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        },
+        {
+          "description": "Suture Hook, 90° Left",
+          "codes": [
+            {
+              "candidate": "C6365",
+              "sourceBounds": [
+                0.5306306837467412,
+                0.5259525287660363,
+                0.5654762580705833,
+                0.5385249147266324
+              ],
+              "officialBounds": [
+                325.052001953125,
+                416.4761962890625,
+                347.0030212402344,
+                426.6551818847656
+              ],
+              "officialCode": "C6365"
+            }
+          ],
+          "rowBounds": [
+            0.09869378697146872,
+            0.5260698747552922,
+            0.5654762580705833,
+            0.5385249147266324
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        },
+        {
+          "description": "Suture Hook, CorkScrew, Right",
+          "codes": [
+            {
+              "candidate": "C6366",
+              "sourceBounds": [
+                0.5306220609511088,
+                0.5438741786018132,
+                0.5654676352749509,
+                0.5564465645624092
+              ],
+              "officialBounds": [
+                325.052001953125,
+                430.9751892089844,
+                347.0030212402344,
+                441.1541748046875
+              ],
+              "officialCode": "C6366"
+            }
+          ],
+          "rowBounds": [
+            0.09868516417583634,
+            0.5439915245910691,
+            0.5654676352749509,
+            0.5564465645624092
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        },
+        {
+          "description": "Suture Hook, CorkScrew, Left",
+          "codes": [
+            {
+              "candidate": "C6367",
+              "sourceBounds": [
+                0.5306134381554765,
+                0.5617958284375901,
+                0.5654590124793185,
+                0.5743682143981861
+              ],
+              "officialBounds": [
+                325.052001953125,
+                445.47418212890625,
+                347.0030212402344,
+                455.6531677246094
+              ],
+              "officialCode": "C6367"
+            }
+          ],
+          "rowBounds": [
+            0.09867654138020396,
+            0.561913174426846,
+            0.5654590124793185,
+            0.5743682143981861
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        },
+        {
+          "description": "Suture Hook, Straight",
+          "codes": [
+            {
+              "candidate": "C6368",
+              "sourceBounds": [
+                0.530604815359844,
+                0.579717478273367,
+                0.5654503896836862,
+                0.592289864233963
+              ],
+              "officialBounds": [
+                325.052001953125,
+                459.9731750488281,
+                347.0030212402344,
+                470.15216064453125
+              ],
+              "officialCode": "C6368"
+            }
+          ],
+          "rowBounds": [
+            0.09866791858457159,
+            0.5798348242626228,
+            0.5654503896836862,
+            0.592289864233963
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        },
+        {
+          "description": "Suture Hook, Crescent, Small, 3.0 x 15.0mm",
+          "codes": [
+            {
+              "candidate": "C6369",
+              "sourceBounds": [
+                0.5305961925642116,
+                0.5976391281091439,
+                0.5654417668880538,
+                0.6102115140697398
+              ],
+              "officialBounds": [
+                325.052001953125,
+                474.47216796875,
+                347.0030212402344,
+                484.6511535644531
+              ],
+              "officialCode": "C6369"
+            }
+          ],
+          "rowBounds": [
+            0.09865929578893921,
+            0.5977564740983997,
+            0.5654417668880538,
+            0.6102115140697398
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        },
+        {
+          "description": "Suture Hook, Crescent, Medium, 4.0 x 20.0mm",
+          "codes": [
+            {
+              "candidate": "C6370",
+              "sourceBounds": [
+                0.5305875697685793,
+                0.6155607779449207,
+                0.5654331440924214,
+                0.6281331639055168
+              ],
+              "officialBounds": [
+                325.052001953125,
+                488.9711608886719,
+                347.0030212402344,
+                499.150146484375
+              ],
+              "officialCode": "C6370"
+            }
+          ],
+          "rowBounds": [
+            0.09865067299330683,
+            0.6156781239341765,
+            0.5654331440924214,
+            0.6281331639055168
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        },
+        {
+          "description": "Suture Hook, Crescent, Large, 6.0 x 25.0mm",
+          "codes": [
+            {
+              "candidate": "C6371",
+              "sourceBounds": [
+                0.5305789469729469,
+                0.6334824277806975,
+                0.5654245212786397,
+                0.6460548514629031
+              ],
+              "officialBounds": [
+                325.052001953125,
+                503.47015380859375,
+                347.0030212402344,
+                513.649169921875
+              ],
+              "officialCode": "C6371"
+            }
+          ],
+          "rowBounds": [
+            0.09864205019767446,
+            0.6335997737699535,
+            0.5654245212786397,
+            0.6460548514629031
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        }
+      ],
+      "features": [
+        {
+          "text": "Designed for arthroscopic or open suturing of shoulder soft tissue",
+          "bounds": [
+            0.10601388362090118,
+            0.158445906188383,
+            0.4782751450355853,
+            0.17232461606347835
+          ],
+          "officialStartX": 57.49909973144531
+        },
+        {
+          "text": "Large roller wheels increase traction with Shuttle Relay™ and suture material",
+          "bounds": [
+            0.10600674702304413,
+            0.17327863715706218,
+            0.5382780491475682,
+            0.18714105329965466
+          ],
+          "officialStartX": 57.49909973144531
+        },
+        {
+          "text": "Disposable and Limited Reuse interchangeable suture hooks allow precise suture placement in otherwise hard-to-reach areas",
+          "bounds": [
+            0.10599469246639238,
+            0.18811137889222362,
+            0.5333967111222382,
+            0.20197511789213593
+          ],
+          "officialStartX": 57.496002197265625
+        },
+        {
+          "text": "Ergonomic handle design provides ease of maneuverability and handling",
+          "bounds": [
+            0.10598040714841578,
+            0.21777685969367755,
+            0.5190930432193606,
+            0.23164448074614843
+          ],
+          "officialStartX": 57.495994567871094
+        },
+        {
+          "text": "Unique key-lock insertion method allows for simple and reliable suture hook attachment",
+          "bounds": [
+            0.1059732705460214,
+            0.23260960009275908,
+            0.51179846746258,
+            0.2464792009523803
+          ],
+          "officialStartX": 57.495994567871094
+        },
+        {
+          "text": "For use with #2/0 to #1 monofilament suture, Shuttle Relay or with Super Shuttle ® Suture Passer",
+          "bounds": [
+            0.10595899734123262,
+            0.2622750808909222,
+            0.4942242388466776,
+            0.27614945233243715
+          ],
+          "officialStartX": 57.495994567871094
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Spectrum® II Soft Tissue Repair System — Disposable Suture Hooks (Sterile 5/Box)",
+      "page": 20,
+      "officialPage": 25,
+      "headingBounds": [
+        0.09862379833559888,
+        0.6715345103583332,
+        0.32651761212693303,
+        0.684655166699952
+      ],
+      "rows": [
+        {
+          "description": "Suture Hook, 45° Right (Red)",
+          "codes": [
+            {
+              "candidate": "C6380",
+              "sourceBounds": [
+                0.5305518903683217,
+                0.689716973340039,
+                0.5653974646740145,
+                0.7022893970222446
+              ],
+              "officialBounds": [
+                325.052001953125,
+                548.965087890625,
+                347.0030212402344,
+                559.1441040039062
+              ],
+              "officialCode": "C6380"
+            }
+          ],
+          "rowBounds": [
+            0.09861499359304927,
+            0.6898343193292948,
+            0.5653974646740145,
+            0.7022893970222446
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        },
+        {
+          "description": "Suture Hook, 45° Left (Blue)",
+          "codes": [
+            {
+              "candidate": "C6381",
+              "sourceBounds": [
+                0.5305432675545401,
+                0.7076386608974253,
+                0.5653888418602329,
+                0.7202110845796309
+              ],
+              "officialBounds": [
+                325.052001953125,
+                563.464111328125,
+                347.0030212402344,
+                573.6431274414062
+              ],
+              "officialCode": "C6381"
+            }
+          ],
+          "rowBounds": [
+            0.09860637077926758,
+            0.7077560068866812,
+            0.5653888418602329,
+            0.7202110845796309
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        },
+        {
+          "description": "Suture Hook, 60° Right (Orange)",
+          "codes": [
+            {
+              "candidate": "C6382",
+              "sourceBounds": [
+                0.5305346447407584,
+                0.7255603484548118,
+                0.5653802190464512,
+                0.7381327721370172
+              ],
+              "officialBounds": [
+                325.052001953125,
+                577.963134765625,
+                347.0030212402344,
+                588.1421508789062
+              ],
+              "officialCode": "C6382"
+            }
+          ],
+          "rowBounds": [
+            0.09859774796548589,
+            0.7256776944440676,
+            0.5653802190464512,
+            0.7381327721370172
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        },
+        {
+          "description": "Suture Hook, 60° Left (Yellow)",
+          "codes": [
+            {
+              "candidate": "C6383",
+              "sourceBounds": [
+                0.5305260219632753,
+                0.7434819605689791,
+                0.5653715962689682,
+                0.7560543842511847
+              ],
+              "officialBounds": [
+                325.052001953125,
+                592.4620971679688,
+                347.0030212402344,
+                602.64111328125
+              ],
+              "officialCode": "C6383"
+            }
+          ],
+          "rowBounds": [
+            0.09858912518800284,
+            0.7435993065582349,
+            0.5653715962689682,
+            0.7560543842511847
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        },
+        {
+          "description": "Suture Hook, Straight (Pink)",
+          "codes": [
+            {
+              "candidate": "C6384",
+              "sourceBounds": [
+                0.5305173991857922,
+                0.7614035726831464,
+                0.565362973491485,
+                0.773975996365352
+              ],
+              "officialBounds": [
+                325.052001953125,
+                606.9610595703125,
+                347.0030212402344,
+                617.1400756835938
+              ],
+              "officialCode": "C6384"
+            }
+          ],
+          "rowBounds": [
+            0.09858050241051977,
+            0.7615209186724022,
+            0.565362973491485,
+            0.773975996365352
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        },
+        {
+          "description": "Suture Hook, Crescent, Small, 3.0 x 15.0mm (White)",
+          "codes": [
+            {
+              "candidate": "C6385",
+              "sourceBounds": [
+                0.5304944828103759,
+                0.7793252641237207,
+                0.5653400571160686,
+                0.7918976878059262
+              ],
+              "officialBounds": [
+                325.0429992675781,
+                621.4600830078125,
+                346.9940185546875,
+                631.6390991210938
+              ],
+              "officialCode": "C6385"
+            }
+          ],
+          "rowBounds": [
+            0.09857187959673808,
+            0.7794426062297887,
+            0.5653400571160686,
+            0.7918976878059262
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        },
+        {
+          "description": "Suture Hook, Crescent, Medium, 4.0 x 20.0mm (Teal)",
+          "codes": [
+            {
+              "candidate": "C6386",
+              "sourceBounds": [
+                0.5304858599965943,
+                0.797246951681107,
+                0.5653314343022869,
+                0.8098193753633126
+              ],
+              "officialBounds": [
+                325.0429992675781,
+                635.9591064453125,
+                346.9940185546875,
+                646.1381225585938
+              ],
+              "officialCode": "C6386"
+            }
+          ],
+          "rowBounds": [
+            0.09854896322132167,
+            0.7973642976703629,
+            0.5653314343022869,
+            0.8098193753633126
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        },
+        {
+          "description": "Suture Hook, Crescent, Large, 6.0 x 25.0mm (Purple)",
+          "codes": [
+            {
+              "candidate": "C6387",
+              "sourceBounds": [
+                0.5304772372191111,
+                0.8151685637952745,
+                0.5653228115248039,
+                0.8277409874774799
+              ],
+              "officialBounds": [
+                325.0429992675781,
+                650.4580688476562,
+                346.9940185546875,
+                660.6370849609375
+              ],
+              "officialCode": "C6387"
+            }
+          ],
+          "rowBounds": [
+            0.09854034044383862,
+            0.8152859097845304,
+            0.5653228115248039,
+            0.8277409874774799
+          ],
+          "pdfPage": 20,
+          "officialPage": 25
+        }
+      ],
+      "features": [
+        {
+          "text": "Designed for arthroscopic or open suturing of shoulder soft tissue",
+          "bounds": [
+            0.10601388362090118,
+            0.158445906188383,
+            0.4782751450355853,
+            0.17232461606347835
+          ],
+          "officialStartX": 57.49909973144531
+        },
+        {
+          "text": "Large roller wheels increase traction with Shuttle Relay™ and suture material",
+          "bounds": [
+            0.10600674702304413,
+            0.17327863715706218,
+            0.5382780491475682,
+            0.18714105329965466
+          ],
+          "officialStartX": 57.49909973144531
+        },
+        {
+          "text": "Disposable and Limited Reuse interchangeable suture hooks allow precise suture placement in otherwise hard-to-reach areas",
+          "bounds": [
+            0.10599469246639238,
+            0.18811137889222362,
+            0.5333967111222382,
+            0.20197511789213593
+          ],
+          "officialStartX": 57.496002197265625
+        },
+        {
+          "text": "Ergonomic handle design provides ease of maneuverability and handling",
+          "bounds": [
+            0.10598040714841578,
+            0.21777685969367755,
+            0.5190930432193606,
+            0.23164448074614843
+          ],
+          "officialStartX": 57.495994567871094
+        },
+        {
+          "text": "Unique key-lock insertion method allows for simple and reliable suture hook attachment",
+          "bounds": [
+            0.1059732705460214,
+            0.23260960009275908,
+            0.51179846746258,
+            0.2464792009523803
+          ],
+          "officialStartX": 57.495994567871094
+        },
+        {
+          "text": "For use with #2/0 to #1 monofilament suture, Shuttle Relay or with Super Shuttle ® Suture Passer",
+          "bounds": [
+            0.10595899734123262,
+            0.2622750808909222,
+            0.4942242388466776,
+            0.27614945233243715
+          ],
+          "officialStartX": 57.495994567871094
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 23
+}

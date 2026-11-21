@@ -1,0 +1,1012 @@
+{
+  "slug": "circular-connecting-rod",
+  "brand": "double-medical",
+  "category": "trauma-implants",
+  "subcategory": "trauma-external-fixation",
+  "subcategories": [
+    "trauma-external-fixation"
+  ],
+  "specialty": [
+    "traumatology",
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Дугообразная соединительная штанга",
+    "en": "Circular Connecting Rod"
+  },
+  "shortDescription": {
+    "ru": "Импланты для остеосинтеза",
+    "en": "Implants for fracture fixation"
+  },
+  "description": {
+    "ru": "Дугообразная соединительная штанга. Характеристики и каталожные номера приведены по Trauma Catalogue Double Medical.",
+    "en": "Circular Connecting Rod. Specifications and reference numbers are listed according to the Double Medical Trauma Catalogue."
+  },
+  "heroImage": "/images/products/double-medical/circular-connecting-rod/page-537-art-01.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "width": 420,
+      "height": 300,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          197,
+          132
+        ],
+        "enhancedSize": [
+          394,
+          264
+        ]
+      },
+      "src": "/images/products/double-medical/circular-connecting-rod/page-537-art-01.webp",
+      "imageCaption": {
+        "ru": "Дугообразная соединительная штанга",
+        "en": "Circular Connecting Rod"
+      },
+      "sourcePages": [
+        537
+      ]
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [
+    {
+      "id": "trauma-p537-1",
+      "groupId": "trauma-p537-1",
+      "title": {
+        "ru": "Дугообразная соединительная штанга",
+        "en": "Circular Connecting Rod"
+      },
+      "unit": "mm",
+      "sourcePage": 537,
+      "sourcePages": [
+        537
+      ],
+      "printedPage": "9/9",
+      "hideDescriptionColumn": true,
+      "columns": [
+        {
+          "ru": "Позиция",
+          "en": "Item"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Ширина",
+          "en": "Width"
+        },
+        {
+          "ru": "Диаметр",
+          "en": "Diameter"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Дугообразная соединительная штанга · Ширина: 148, Диаметр: 8",
+            "en": "Circular Connecting Rod · Width: 148, Diameter: 8"
+          },
+          "100520100",
+          {
+            "ru": "148",
+            "en": "148"
+          },
+          {
+            "ru": "8",
+            "en": "8"
+          }
+        ],
+        [
+          {
+            "ru": "Дугообразная соединительная штанга · Ширина: 168, Диаметр: 8",
+            "en": "Circular Connecting Rod · Width: 168, Diameter: 8"
+          },
+          "100520200",
+          {
+            "ru": "168",
+            "en": "168"
+          },
+          {
+            "ru": "8",
+            "en": "8"
+          }
+        ],
+        [
+          {
+            "ru": "Дугообразная соединительная штанга · Ширина: 216, Диаметр: 8",
+            "en": "Circular Connecting Rod · Width: 216, Diameter: 8"
+          },
+          "100520300",
+          {
+            "ru": "216",
+            "en": "216"
+          },
+          {
+            "ru": "8",
+            "en": "8"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 537,
+          "printedPage": "9/9",
+          "sourceBounds": [
+            0.08,
+            0.23883134415965565,
+            0.55,
+            0.2546141655253375
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p537-1",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 537,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "100520100"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "100520100"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "100520100"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "100520100",
+                "PSM11": "100520100",
+                "Vision": "100520100"
+              },
+              "value": "100520100",
+              "bounds": [
+                0.13408280778722237,
+                0.24183134415965565,
+                0.22072936660268713,
+                0.2516141655253375
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "100520100"
+            },
+            {
+              "readings": {
+                "PSM3": "148",
+                "PSM11": "148",
+                "Vision": "148"
+              },
+              "value": "148",
+              "glyphReading": {
+                "text": "148",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.0,
+                    "margin": 0.4019149013772175
+                  },
+                  {
+                    "character": "4",
+                    "distance": 0.0,
+                    "margin": 0.4337271366880086
+                  },
+                  {
+                    "character": "8",
+                    "distance": 0.0,
+                    "margin": 0.11335529003267975
+                  }
+                ],
+                "sourceRect": [
+                  113.87799835205078,
+                  148.29998779296875,
+                  125.63400268554688,
+                  154.34500122070312
+                ]
+              },
+              "verifiedValue": "148"
+            },
+            {
+              "readings": {
+                "PSM3": "8",
+                "PSM11": "8",
+                "Vision": "8"
+              },
+              "value": "8",
+              "glyphReading": {
+                "text": "8",
+                "scores": [
+                  {
+                    "character": "8",
+                    "distance": 0.0,
+                    "margin": 0.11329912173202615
+                  }
+                ],
+                "sourceRect": [
+                  165.31300354003906,
+                  148.29998779296875,
+                  168.9720001220703,
+                  154.34500122070312
+                ]
+              },
+              "verifiedValue": "8"
+            }
+          ]
+        },
+        {
+          "pdfPage": 537,
+          "printedPage": "9/9",
+          "sourceBounds": [
+            0.08,
+            0.25350557620817843,
+            0.55,
+            0.2692883975738603
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p537-1",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 537,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "100520200"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "100520200"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "100520200"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "100520200",
+                "PSM11": "100520200",
+                "Vision": "100520200"
+              },
+              "value": "100520200",
+              "bounds": [
+                0.13408280778722237,
+                0.25650557620817843,
+                0.22072936660268713,
+                0.2662883975738603
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "100520200"
+            },
+            {
+              "readings": {
+                "PSM3": "168",
+                "PSM11": "168",
+                "Vision": "168"
+              },
+              "value": "168",
+              "glyphReading": {
+                "text": "168",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.0,
+                    "margin": 0.4009191905929038
+                  },
+                  {
+                    "character": "6",
+                    "distance": 0.0,
+                    "margin": 0.15906360294117647
+                  },
+                  {
+                    "character": "8",
+                    "distance": 0.0,
+                    "margin": 0.11131535947712419
+                  }
+                ],
+                "sourceRect": [
+                  113.87799835205078,
+                  157.32000732421875,
+                  125.63400268554688,
+                  163.364013671875
+                ]
+              },
+              "verifiedValue": "168"
+            },
+            {
+              "readings": {
+                "PSM3": "8",
+                "PSM11": "8",
+                "Vision": "8"
+              },
+              "value": "8",
+              "glyphReading": {
+                "text": "8",
+                "scores": [
+                  {
+                    "character": "8",
+                    "distance": 0.0,
+                    "margin": 0.11196384803921568
+                  }
+                ],
+                "sourceRect": [
+                  165.31300354003906,
+                  157.32000732421875,
+                  168.9720001220703,
+                  163.364013671875
+                ]
+              },
+              "verifiedValue": "8"
+            }
+          ]
+        },
+        {
+          "pdfPage": 537,
+          "printedPage": "9/9",
+          "sourceBounds": [
+            0.08,
+            0.26817980825670124,
+            0.55,
+            0.28415828604969673
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p537-1",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 537,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "100520300"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "100520300"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "100520300"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "100520300",
+                "PSM11": "100520300",
+                "Vision": "100520300"
+              },
+              "value": "100520300",
+              "bounds": [
+                0.13408280778722237,
+                0.27117980825670124,
+                0.22072936660268713,
+                0.2811582860496967
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "100520300"
+            },
+            {
+              "readings": {
+                "PSM3": "216",
+                "PSM11": "216",
+                "Vision": "216"
+              },
+              "value": "216",
+              "glyphReading": {
+                "text": "216",
+                "scores": [
+                  {
+                    "character": "2",
+                    "distance": 0.0,
+                    "margin": 0.29277861978124586
+                  },
+                  {
+                    "character": "1",
+                    "distance": 0.0,
+                    "margin": 0.40052856559290384
+                  },
+                  {
+                    "character": "6",
+                    "distance": 0.0,
+                    "margin": 0.1541233455882353
+                  }
+                ],
+                "sourceRect": [
+                  113.26300048828125,
+                  166.33999633789062,
+                  125.61900329589844,
+                  172.385009765625
+                ]
+              },
+              "verifiedValue": "216"
+            },
+            {
+              "readings": {
+                "PSM3": "8",
+                "PSM11": "8",
+                "Vision": "8"
+              },
+              "value": "8",
+              "glyphReading": {
+                "text": "8",
+                "scores": [
+                  {
+                    "character": "8",
+                    "distance": 0.0,
+                    "margin": 0.11200469771241829
+                  }
+                ],
+                "sourceRect": [
+                  165.31300354003906,
+                  166.33999633789062,
+                  168.9720001220703,
+                  172.385009765625
+                ]
+              },
+              "verifiedValue": "8"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "width": 420,
+          "height": 300,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              197,
+              132
+            ],
+            "enhancedSize": [
+              394,
+              264
+            ]
+          },
+          "src": "/images/products/double-medical/circular-connecting-rod/page-537-art-01.webp",
+          "imageCaption": {
+            "ru": "Дугообразная соединительная штанга",
+            "en": "Circular Connecting Rod"
+          },
+          "sourcePages": [
+            537
+          ]
+        }
+      ],
+      "keyParameters": []
+    }
+  ],
+  "refCodes": [
+    "100520100",
+    "100520200",
+    "100520300"
+  ],
+  "sourcePages": [
+    537
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Trauma Catalogue — каталог продукции",
+    "en": "Double Medical Trauma Catalogue — product catalog"
+  },
+  "documentCover": "/catalogs/double-medical/trauma-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "catalogType": "list",
+  "importPartition": "trauma-part3",
+  "availabilityNote": {
+    "ru": "Изображения приведены для справки",
+    "en": "Images for reference only"
+  },
+  "imageDimensions": {
+    "/images/products/double-medical/circular-connecting-rod/page-537-art-01.webp": {
+      "width": 420,
+      "height": 300
+    }
+  },
+  "relatedSystemSlugs": [
+    "large-external-fixation-modular-rod-instrument-set"
+  ],
+  "sourcePdf": "/catalogs/double-medical/trauma-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/trauma-catalogue/pages/537.webp"
+  ],
+  "sourcePageDimensions": {
+    "530": {
+      "width": 3647,
+      "height": 5111
+    },
+    "531": {
+      "width": 3647,
+      "height": 5111
+    },
+    "532": {
+      "width": 3647,
+      "height": 5111
+    },
+    "533": {
+      "width": 3647,
+      "height": 5111
+    },
+    "534": {
+      "width": 3647,
+      "height": 5111
+    },
+    "535": {
+      "width": 3647,
+      "height": 5111
+    },
+    "536": {
+      "width": 3647,
+      "height": 5111
+    },
+    "537": {
+      "width": 3647,
+      "height": 5111
+    },
+    "538": {
+      "width": 3647,
+      "height": 5111
+    },
+    "539": {
+      "width": 3647,
+      "height": 5111
+    },
+    "540": {
+      "width": 3647,
+      "height": 5111
+    },
+    "541": {
+      "width": 3647,
+      "height": 5111
+    },
+    "542": {
+      "width": 3647,
+      "height": 5111
+    },
+    "543": {
+      "width": 3647,
+      "height": 5111
+    },
+    "544": {
+      "width": 3647,
+      "height": 5111
+    },
+    "545": {
+      "width": 3647,
+      "height": 5111
+    },
+    "546": {
+      "width": 3647,
+      "height": 5111
+    },
+    "547": {
+      "width": 3647,
+      "height": 5111
+    },
+    "548": {
+      "width": 3647,
+      "height": 5111
+    },
+    "549": {
+      "width": 3647,
+      "height": 5111
+    },
+    "550": {
+      "width": 3647,
+      "height": 5111
+    },
+    "551": {
+      "width": 3647,
+      "height": 5111
+    },
+    "552": {
+      "width": 3647,
+      "height": 5111
+    },
+    "553": {
+      "width": 3647,
+      "height": 5111
+    },
+    "554": {
+      "width": 3647,
+      "height": 5111
+    },
+    "555": {
+      "width": 3647,
+      "height": 5111
+    },
+    "556": {
+      "width": 3647,
+      "height": 5111
+    },
+    "557": {
+      "width": 3647,
+      "height": 5111
+    },
+    "558": {
+      "width": 3647,
+      "height": 5111
+    },
+    "559": {
+      "width": 3647,
+      "height": 5111
+    },
+    "560": {
+      "width": 3647,
+      "height": 5111
+    },
+    "561": {
+      "width": 3647,
+      "height": 5111
+    },
+    "562": {
+      "width": 3647,
+      "height": 5111
+    },
+    "563": {
+      "width": 3647,
+      "height": 5111
+    },
+    "564": {
+      "width": 3647,
+      "height": 5111
+    },
+    "565": {
+      "width": 3647,
+      "height": 5111
+    },
+    "566": {
+      "width": 3647,
+      "height": 5111
+    },
+    "567": {
+      "width": 3647,
+      "height": 5111
+    },
+    "568": {
+      "width": 3647,
+      "height": 5111
+    },
+    "569": {
+      "width": 3647,
+      "height": 5111
+    },
+    "570": {
+      "width": 3647,
+      "height": 5111
+    },
+    "571": {
+      "width": 3647,
+      "height": 5111
+    },
+    "572": {
+      "width": 3647,
+      "height": 5111
+    },
+    "573": {
+      "width": 3647,
+      "height": 5111
+    },
+    "574": {
+      "width": 3647,
+      "height": 5111
+    },
+    "575": {
+      "width": 3647,
+      "height": 5111
+    },
+    "576": {
+      "width": 3647,
+      "height": 5111
+    },
+    "577": {
+      "width": 3647,
+      "height": 5111
+    },
+    "578": {
+      "width": 3647,
+      "height": 5111
+    },
+    "582": {
+      "width": 3647,
+      "height": 5111
+    },
+    "583": {
+      "width": 3647,
+      "height": 5111
+    },
+    "584": {
+      "width": 3647,
+      "height": 5111
+    },
+    "585": {
+      "width": 3647,
+      "height": 5111
+    },
+    "586": {
+      "width": 3647,
+      "height": 5111
+    },
+    "587": {
+      "width": 3647,
+      "height": 5111
+    },
+    "588": {
+      "width": 3647,
+      "height": 5111
+    },
+    "589": {
+      "width": 3647,
+      "height": 5111
+    },
+    "590": {
+      "width": 3647,
+      "height": 5111
+    },
+    "591": {
+      "width": 3647,
+      "height": 5111
+    },
+    "592": {
+      "width": 3647,
+      "height": 5111
+    },
+    "593": {
+      "width": 3647,
+      "height": 5111
+    },
+    "594": {
+      "width": 3647,
+      "height": 5111
+    },
+    "595": {
+      "width": 3647,
+      "height": 5111
+    },
+    "596": {
+      "width": 3647,
+      "height": 5111
+    },
+    "597": {
+      "width": 3647,
+      "height": 5111
+    },
+    "598": {
+      "width": 3647,
+      "height": 5111
+    },
+    "599": {
+      "width": 3647,
+      "height": 5111
+    },
+    "600": {
+      "width": 3647,
+      "height": 5111
+    },
+    "601": {
+      "width": 3647,
+      "height": 5111
+    },
+    "602": {
+      "width": 3647,
+      "height": 5111
+    },
+    "603": {
+      "width": 3647,
+      "height": 5111
+    },
+    "604": {
+      "width": 3647,
+      "height": 5111
+    },
+    "605": {
+      "width": 3647,
+      "height": 5111
+    },
+    "606": {
+      "width": 3647,
+      "height": 5111
+    },
+    "607": {
+      "width": 3647,
+      "height": 5111
+    },
+    "608": {
+      "width": 3647,
+      "height": 5111
+    },
+    "612": {
+      "width": 3647,
+      "height": 5111
+    },
+    "613": {
+      "width": 3647,
+      "height": 5111
+    },
+    "614": {
+      "width": 3647,
+      "height": 5111
+    },
+    "615": {
+      "width": 3647,
+      "height": 5111
+    },
+    "616": {
+      "width": 3647,
+      "height": 5111
+    },
+    "617": {
+      "width": 3647,
+      "height": 5111
+    },
+    "620": {
+      "width": 3647,
+      "height": 5111
+    },
+    "621": {
+      "width": 3647,
+      "height": 5111
+    },
+    "622": {
+      "width": 3647,
+      "height": 5111
+    },
+    "623": {
+      "width": 3647,
+      "height": 5111
+    },
+    "624": {
+      "width": 3647,
+      "height": 5111
+    },
+    "625": {
+      "width": 3647,
+      "height": 5111
+    },
+    "626": {
+      "width": 3647,
+      "height": 5111
+    },
+    "627": {
+      "width": 3647,
+      "height": 5111
+    },
+    "628": {
+      "width": 3647,
+      "height": 5111
+    },
+    "632": {
+      "width": 3647,
+      "height": 5111
+    },
+    "633": {
+      "width": 3647,
+      "height": 5111
+    },
+    "634": {
+      "width": 3647,
+      "height": 5111
+    },
+    "635": {
+      "width": 3647,
+      "height": 5111
+    },
+    "636": {
+      "width": 3647,
+      "height": 5111
+    },
+    "637": {
+      "width": 3647,
+      "height": 5111
+    },
+    "638": {
+      "width": 3647,
+      "height": 5111
+    },
+    "639": {
+      "width": 3647,
+      "height": 5111
+    },
+    "640": {
+      "width": 3647,
+      "height": 5111
+    },
+    "641": {
+      "width": 3647,
+      "height": 5111
+    },
+    "642": {
+      "width": 3647,
+      "height": 5111
+    },
+    "643": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "3f2755d7646453cd1d8981369406a66062322971a7cb98258e022ae9b9769999",
+    "importMethod": "600-DPI Tesseract PSM3/11 plus independent Apple Vision; source glyph reconciliation and Codex visual reading; Codex medical RU; native photo composites, original Real-ESRGAN weights exact 2x then rembg",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      528,
+      529,
+      579,
+      580,
+      581,
+      609,
+      610,
+      611,
+      618,
+      619,
+      629,
+      630,
+      631,
+      644
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.columns.2.ru",
+      "specTables.0.columns.3.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.0.2.ru",
+      "specTables.0.rows.0.3.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.1.2.ru",
+      "specTables.0.rows.1.3.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.rows.2.2.ru",
+      "specTables.0.rows.2.3.ru",
+      "specTables.0.images.0.imageCaption.ru",
+      "catalogTitle.ru",
+      "availabilityNote.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Owner authorized automatic publication after source review with zero real open flags; no REF inferred.",
+    "imageQA": "Codex visual review of all seven final contact sheets and source layouts; two QR tiles excluded; two multi-instrument composites split into five separate row photos; ambiguous 607 composite retained only as a general subgroup illustration"
+  },
+  "publishedAt": "2026-11-21T06:37:29.425430+00:00"
+}

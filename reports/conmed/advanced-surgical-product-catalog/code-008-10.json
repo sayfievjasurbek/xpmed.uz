@@ -1,0 +1,39 @@
+{
+  "pdfPage": 8,
+  "pageRow": 10,
+  "visualReading": "iFS-SEAL",
+  "visualReader": "Codex independent inspection of 600-DPI source table images; source-line crops retained",
+  "ocrReadings": {
+    "600dpi-psm3": "IFS-SEAL",
+    "600dpi-psm11": "IFS-SEAL",
+    "600dpi-code-crop-psm7": "IFS-SEAL",
+    "isolated-psm7-scale0.5-thresholdNone": "iFS-SEAL",
+    "Apple-Vision-accurate": "iFS-SEAL"
+  },
+  "matchedReaders": [
+    "isolated-psm7-scale0.5-thresholdNone",
+    "Apple-Vision-accurate"
+  ],
+  "value": "iFS-SEAL",
+  "verificationStatus": "verified (visual + OCR)",
+  "manufacturerStatus": "confirmed on conmed.com",
+  "officialEvidence": [
+    {
+      "url": "https://www.conmed.com/-/media/conmed/documents/catalog/advancedsurgical_catalog.ashx",
+      "code": "iFS-SEAL"
+    }
+  ],
+  "sourceBounds": [
+    0.8640187830170221,
+    0.5997767234161318,
+    0.9148894541185678,
+    0.6088473346357801
+  ],
+  "rowBounds": [
+    0.5289452320766902,
+    0.5944741532976827,
+    0.934,
+    0.6131907308377896
+  ],
+  "lineCrop": "reports/conmed/advanced-surgical-product-catalog/line-crops/008-10.png"
+}

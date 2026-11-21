@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "slug": "oec-elite",
+  "brand": "ge-healthcare",
+  "category": "imaging",
+  "subcategory": "",
+  "specialty": [
+    "orthopedics",
+    "spine",
+    "surgery"
+  ],
+  "name": {
+    "ru": "OEC Elite",
+    "en": "OEC Elite"
+  },
+  "shortDescription": {
+    "ru": "Мобильная рентгеновская система",
+    "en": "Mobile X-ray system"
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "heroImage": "/images/products/ge-healthcare/oec-elite/oec-elite.webp",
+  "imageType": "cutout",
+  "gallery": [
+    "/images/products/ge-healthcare/oec-elite/oec-elite.webp"
+  ],
+  "features": [],
+  "hotspots": [],
+  "components": [
+    {
+      "id": "oec",
+      "name": {
+        "ru": "OEC Elite",
+        "en": "OEC Elite"
+      },
+      "image": "/images/products/ge-healthcare/oec-elite/oec-elite.webp",
+      "refCodes": [],
+      "sizes": [],
+      "variants": [],
+      "legacyDocuments": [
+        {
+          "type": "product-page",
+          "ru": "https://xpmed.uz/product/novinki-2/oec-elite/",
+          "en": "https://xpmed.uz/product/new/oec-elite-2/"
+        }
+      ]
+    }
+  ],
+  "specTables": [],
+  "refCodes": [],
+  "sourcePdf": null,
+  "sourcePages": [],
+  "catalogEdition": null,
+  "isNew": true,
+  "status": "published",
+  "legacyId": "oec",
+  "legacyBrand": "ge-healthcare",
+  "review": {
+    "flags": [],
+    "notes": [
+      "Migrated existing catalog content; no additional dimensions or reference codes inferred."
+    ]
+  },
+  "imageDimensions": {
+    "/images/products/ge-healthcare/oec-elite/oec-elite.webp": {
+      "width": 640,
+      "height": 640
+    }
+  },
+  "subcategories": [],
+  "legacySources": [
+    {
+      "productId": "oec",
+      "language": "ru",
+      "url": "https://xpmed.uz/product/novinki-2/oec-elite/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    },
+    {
+      "productId": "oec",
+      "language": "en",
+      "url": "https://xpmed.uz/product/new/oec-elite-2/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    }
+  ]
+}

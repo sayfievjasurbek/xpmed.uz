@@ -1,0 +1,197 @@
+{
+  "pdfPage": 81,
+  "officialPage": 107,
+  "alignment": [
+    [
+      0.9703742533424378,
+      1.753754401405982e-05,
+      0.014570635453015342
+    ],
+    [
+      -0.00024478174828021065,
+      0.9790177200958534,
+      0.010661410071378006
+    ]
+  ],
+  "alignmentMatches": 7,
+  "alignmentInliers": 7,
+  "category": "arthroscopy-manual-instruments",
+  "title": {
+    "en": "Concept",
+    "ru": "Ручные инструменты Concept"
+  },
+  "groups": [
+    {
+      "title": "Meniscal Lift Punch — 1.7mm x 130mm",
+      "page": 81,
+      "officialPage": 107,
+      "headingBounds": [
+        0.10019457224616475,
+        0.16020070280877496,
+        0.195262957201005,
+        0.17336009557364582
+      ],
+      "rows": [
+        {
+          "description": "Straight",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6700",
+              "sourceBounds": [
+                0.5068814085769797,
+                0.19851551987777405,
+                0.5684750067955342,
+                0.21282168953146985
+              ],
+              "officialCode": "C6700",
+              "officialBounds": [
+                325.5119934082031,
+                151.79689025878906,
+                348.0021057128906,
+                161.97589111328125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.19266860470462194,
+            0.5784750067955342,
+            0.21466860470462196
+          ],
+          "pdfPage": 81,
+          "officialPage": 107
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Retro Punch — 2.4mm x 130mm",
+      "page": 81,
+      "officialPage": 107,
+      "headingBounds": [
+        0.10019882377232421,
+        0.39753835078482136,
+        0.19526720872648873,
+        0.410697705825892
+      ],
+      "rows": [
+        {
+          "description": "Left",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6701",
+              "sourceBounds": [
+                0.5170547873944007,
+                0.41664653594098966,
+                0.5664482675069566,
+                0.43073718466023225
+              ],
+              "officialCode": "C6701",
+              "officialBounds": [
+                325.718994140625,
+                327.7958984375,
+                347.9967041015625,
+                337.9748840332031
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.41069186030061094,
+            0.5764482675069567,
+            0.43269186030061096
+          ],
+          "pdfPage": 81,
+          "officialPage": 107
+        },
+        {
+          "description": "Right",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6702",
+              "sourceBounds": [
+                0.5131969107671097,
+                0.43595756691421594,
+                0.5682694829685586,
+                0.44921685194034244
+              ],
+              "officialCode": "C6702",
+              "officialBounds": [
+                325.583984375,
+                342.2948913574219,
+                347.989501953125,
+                352.473876953125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.4295872094272792,
+            0.5782694829685586,
+            0.4515872094272792
+          ],
+          "pdfPage": 81,
+          "officialPage": 107
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Grasper, Cupped — 3.4mm x 130mm",
+      "page": 81,
+      "officialPage": 107,
+      "headingBounds": [
+        0.10020571035842064,
+        0.7819758646103395,
+        0.19527409531258516,
+        0.7951352196514102
+      ],
+      "rows": [
+        {
+          "description": "Straight",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6703",
+              "sourceBounds": [
+                0.5173116103490902,
+                0.8008432539735887,
+                0.5682281043657774,
+                0.8154761904815252
+              ],
+              "officialCode": "C6703",
+              "officialBounds": [
+                325.5660095214844,
+                638.7958984375,
+                348.00213623046875,
+                648.9749145507812
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.7951597222275569,
+            0.5782281043657774,
+            0.817159722227557
+          ],
+          "pdfPage": 81,
+          "officialPage": 107
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 4
+}

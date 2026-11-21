@@ -1,0 +1,117 @@
+{
+  "id": 39,
+  "bounds": [
+    0.8199960868714538,
+    0.3752442087636059,
+    0.9170416748190178,
+    0.3949204577169969
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "AVELG52",
+      "confidence": 50.781052,
+      "words": [
+        {
+          "text": "AVELG52",
+          "confidence": 50.781052,
+          "pixelBounds": [
+            4353,
+            2738,
+            4624,
+            2800
+          ],
+          "lineId": "9.2.12",
+          "bounds": [
+            0.851692428096263,
+            0.3820820541445716,
+            0.9047153198982587,
+            0.3907340217694669
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "AVELG52",
+      "confidence": 47.577621,
+      "words": [
+        {
+          "text": "AVELG52",
+          "confidence": 47.577621,
+          "pixelBounds": [
+            4353,
+            2738,
+            4624,
+            2800
+          ],
+          "lineId": "40.1.1",
+          "bounds": [
+            0.851692428096263,
+            0.3820820541445716,
+            0.9047153198982587,
+            0.3907340217694669
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "ses AVELGS2",
+      "confidence": 14.656696,
+      "words": [
+        {
+          "text": "ses",
+          "confidence": 14.656696,
+          "pixelBounds": [
+            6,
+            101,
+            152,
+            110
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "AVELGS2",
+          "confidence": 24.644112,
+          "pixelBounds": [
+            182,
+            49,
+            433,
+            111
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "vee AVELGS2",
+      "confidence": 21.177212,
+      "words": [
+        {
+          "text": "vee",
+          "confidence": 21.177212,
+          "pixelBounds": [
+            6,
+            101,
+            112,
+            110
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "AVELGS2",
+          "confidence": 29.310446,
+          "pixelBounds": [
+            176,
+            49,
+            433,
+            111
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

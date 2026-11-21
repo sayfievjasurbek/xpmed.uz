@@ -1,0 +1,106 @@
+{
+  "id": 50,
+  "bounds": [
+    0.8370181960477402,
+    0.2676528049120848,
+    0.9090197612991586,
+    0.28356126151269884
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "UHD4302",
+      "confidence": 90.9617,
+      "words": [
+        {
+          "text": "UHD4302",
+          "confidence": 90.9617,
+          "pixelBounds": [
+            4310,
+            1949,
+            4567,
+            2007
+          ],
+          "lineId": "13.4.1",
+          "bounds": [
+            0.8432792017217765,
+            0.2719787887245325,
+            0.8935629035413813,
+            0.2800725648897572
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "UHD4302",
+      "confidence": 44.6745,
+      "words": [
+        {
+          "text": "UHD4302",
+          "confidence": 44.6745,
+          "pixelBounds": [
+            4310,
+            1949,
+            4567,
+            2007
+          ],
+          "lineId": "26.1.1",
+          "bounds": [
+            0.8432792017217765,
+            0.2719787887245325,
+            0.8935629035413813,
+            0.2800725648897572
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "UAD4302",
+      "confidence": 13.618689,
+      "words": [
+        {
+          "text": "UAD4302",
+          "confidence": 13.618689,
+          "pixelBounds": [
+            0,
+            31,
+            289,
+            89
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "-UHD4302 —",
+      "confidence": 38.820396,
+      "words": [
+        {
+          "text": "-UHD4302",
+          "confidence": 42.235123,
+          "pixelBounds": [
+            0,
+            31,
+            289,
+            89
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "—",
+          "confidence": 38.820396,
+          "pixelBounds": [
+            323,
+            0,
+            361,
+            114
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

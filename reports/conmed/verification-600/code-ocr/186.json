@@ -1,0 +1,117 @@
+{
+  "id": 186,
+  "bounds": [
+    0.5030326746233614,
+    0.3304493441250349,
+    0.5840344355312072,
+    0.3455205135361429
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "UHD1030",
+      "confidence": 89.485451,
+      "words": [
+        {
+          "text": "UHD1030",
+          "confidence": 89.485451,
+          "pixelBounds": [
+            2643,
+            2394,
+            2891,
+            2452
+          ],
+          "lineId": "10.3.8",
+          "bounds": [
+            0.5171199373899432,
+            0.3340775886128942,
+            0.5656427313637253,
+            0.3421713647781189
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "UnD1030",
+      "confidence": 1.797476,
+      "words": [
+        {
+          "text": "UnD1030",
+          "confidence": 1.797476,
+          "pixelBounds": [
+            2643,
+            2394,
+            2891,
+            2452
+          ],
+          "lineId": "33.1.1",
+          "bounds": [
+            0.5171199373899432,
+            0.3340775886128942,
+            0.5656427313637253,
+            0.3421713647781189
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "... UHD1030",
+      "confidence": 42.451344,
+      "words": [
+        {
+          "text": "...",
+          "confidence": 42.451344,
+          "pixelBounds": [
+            2,
+            75,
+            42,
+            83
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "UHD1030",
+          "confidence": 87.642906,
+          "pixelBounds": [
+            72,
+            26,
+            320,
+            84
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": ". UHD1030",
+      "confidence": 25.665503,
+      "words": [
+        {
+          "text": ".",
+          "confidence": 25.665503,
+          "pixelBounds": [
+            2,
+            75,
+            42,
+            83
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "UHD1030",
+          "confidence": 41.117767,
+          "pixelBounds": [
+            72,
+            26,
+            320,
+            84
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

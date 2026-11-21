@@ -1,0 +1,138 @@
+{
+  "pdf": "catalogs-source/double-medical/cynthia-knee-system.pdf",
+  "sha256": "70ffdab6e4d0550e7450709d0c91551162240d7c2da36d97627520ca8cd01812",
+  "method": "Fingerprint-matched, reviewed bilingual extraction profile. Numeric content transcribed from PDF; not an AI inference.",
+  "pages": 2,
+  "systemsFound": 1,
+  "tablesExtracted": 6,
+  "imagesExtracted": 42,
+  "systems": [
+    {
+      "slug": "cynthia-knee-system",
+      "status": "published",
+      "file": "content/products/double-medical/cynthia-knee-system.json",
+      "tables": 12,
+      "features": 15,
+      "flags": [
+        {
+          "path": "variants.1.specTables.1",
+          "code": "conflicting-source",
+          "message": {
+            "ru": "Описание задних аугментов: 5 и 10 мм; таблица аугментов I и II: 5, 10 и 15 мм. Требуется уточнение производителя.",
+            "en": "Posterior augment feature text says 5 and 10 mm; pad I/II table says 5, 10 and 15 mm. Manufacturer clarification required."
+          },
+          "sourcePages": [
+            1,
+            2
+          ]
+        },
+        {
+          "path": "variants.1.specTables.7.legend",
+          "code": "undefined-symbols",
+          "message": {
+            "ru": "Значения символов ● и ○ не поясняются. Наличие уточняйте у менеджера.",
+            "en": "The brochure does not explain ● versus ○. Confirm availability with sales."
+          },
+          "sourcePages": [
+            1
+          ]
+        },
+        {
+          "path": "heroImage",
+          "code": "low-native-resolution",
+          "message": {
+            "ru": "Изображения низкого разрешения увеличены в 2 раза с Real-ESRGAN. Оригиналы сохранены; отображение ограничено итоговым размером.",
+            "en": "Low-resolution images enhanced 2x with Real-ESRGAN. Originals retained; display limited to final pixel dimensions."
+          },
+          "sourcePages": [
+            1,
+            2
+          ],
+          "resolution": "upscaled-2x"
+        },
+        {
+          "path": "variants",
+          "code": "hotspot-review",
+          "message": {
+            "ru": "Точки расставлены вручную по иллюстрациям; проверьте их в конечном просмотрщике.",
+            "en": "Illustration anchors are manually placed; review in the final viewer."
+          },
+          "sourcePages": [
+            2
+          ]
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    {
+      "path": "variants.1.specTables.1",
+      "code": "conflicting-source",
+      "message": {
+        "ru": "Описание задних аугментов: 5 и 10 мм; таблица аугментов I и II: 5, 10 и 15 мм. Требуется уточнение производителя.",
+        "en": "Posterior augment feature text says 5 and 10 mm; pad I/II table says 5, 10 and 15 mm. Manufacturer clarification required."
+      },
+      "sourcePages": [
+        1,
+        2
+      ]
+    },
+    {
+      "path": "variants.1.specTables.7.legend",
+      "code": "undefined-symbols",
+      "message": {
+        "ru": "Значения символов ● и ○ не поясняются. Наличие уточняйте у менеджера.",
+        "en": "The brochure does not explain ● versus ○. Confirm availability with sales."
+      },
+      "sourcePages": [
+        1
+      ]
+    },
+    {
+      "path": "heroImage",
+      "code": "low-native-resolution",
+      "message": {
+        "ru": "Изображения низкого разрешения увеличены в 2 раза с Real-ESRGAN. Оригиналы сохранены; отображение ограничено итоговым размером.",
+        "en": "Low-resolution images enhanced 2x with Real-ESRGAN. Originals retained; display limited to final pixel dimensions."
+      },
+      "sourcePages": [
+        1,
+        2
+      ],
+      "resolution": "upscaled-2x"
+    },
+    {
+      "path": "variants",
+      "code": "hotspot-review",
+      "message": {
+        "ru": "Точки расставлены вручную по иллюстрациям; проверьте их в конечном просмотрщике.",
+        "en": "Illustration anchors are manually placed; review in the final viewer."
+      },
+      "sourcePages": [
+        2
+      ]
+    }
+  ],
+  "pageImages": [
+    "/catalogs/double-medical/cynthia-knee-system/pages/001.webp",
+    "/catalogs/double-medical/cynthia-knee-system/pages/002.webp"
+  ],
+  "reviewDecisions": {
+    "augmentValues": "Preserved exactly in feature and table with Уточняйте у менеджера next to both",
+    "symbols": "Legend retained: Наличие уточняйте у менеджера",
+    "images": {
+      "method": "Real-ESRGAN",
+      "scale": 2,
+      "images": 43,
+      "originals": "_originals",
+      "alpha": "Manufacturer masks retained; rembg not needed"
+    },
+    "hotspots": "Unchanged; user will review on product page",
+    "translations": {
+      "author": "codex",
+      "reviewFields": 89,
+      "externalAdapter": false
+    },
+    "publication": "2026-11-17T21:35:37.100344+00:00"
+  }
+}

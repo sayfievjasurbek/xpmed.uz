@@ -1,0 +1,265 @@
+{
+  "pdfPage": 88,
+  "officialPage": 114,
+  "alignment": [
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      0.0
+    ]
+  ],
+  "alignmentMatches": 0,
+  "alignmentInliers": 0,
+  "category": "arthroscopy-resection",
+  "title": {
+    "en": "Consoles",
+    "ru": "Консоли"
+  },
+  "groups": [
+    {
+      "title": "Consoles",
+      "page": 88,
+      "officialPage": 114,
+      "headingBounds": [
+        0.08,
+        0.12,
+        0.92,
+        0.15
+      ],
+      "rows": [
+        {
+          "description": "D4000 Console",
+          "codes": [
+            {
+              "candidate": "D4000",
+              "sourceBounds": [
+                0.8716699936810661,
+                0.14965899303706007,
+                0.9092304503995609,
+                0.16251126684323705
+              ],
+              "officialBounds": [
+                533.4620361328125,
+                118.52992248535156,
+                556.4490356445312,
+                128.70892333984375
+              ],
+              "officialCode": "D4000"
+            }
+          ],
+          "rowBounds": [
+            0.42883171131408293,
+            0.14938627108178956,
+            0.9092304503995609,
+            0.16264763263740925
+          ],
+          "pdfPage": 88,
+          "officialPage": 114
+        },
+        {
+          "description": "D4000A Console with Irrigation Pump",
+          "codes": [
+            {
+              "candidate": "D4000A",
+              "sourceBounds": [
+                0.8640964483123978,
+                0.2879165687946358,
+                0.9092304503995609,
+                0.3007688426008128
+              ],
+              "officialBounds": [
+                528.8270263671875,
+                228.02992248535156,
+                556.4490356445312,
+                238.20892333984375
+              ],
+              "officialCode": "D4000A"
+            }
+          ],
+          "rowBounds": [
+            0.42883171131408293,
+            0.28764383720629144,
+            0.9092304503995609,
+            0.300905208394985
+          ],
+          "pdfPage": 88,
+          "officialPage": 114
+        },
+        {
+          "description": "Advantage® Console with Cord 115 Volt",
+          "codes": [
+            {
+              "candidate": "D3000",
+              "sourceBounds": [
+                0.8751013263378268,
+                0.41165392326586175,
+                0.9125014161751941,
+                0.42450617780589095
+              ],
+              "officialBounds": [
+                535.56201171875,
+                326.0299072265625,
+                558.4508666992188,
+                336.2088928222656
+              ],
+              "officialCode": "D3000"
+            }
+          ],
+          "rowBounds": [
+            0.428831511852788,
+            0.41138119167751735,
+            0.9125014161751941,
+            0.42464762986308396
+          ],
+          "pdfPage": 88,
+          "officialPage": 114
+        },
+        {
+          "description": "Advantage Console with Cord 230 Volt",
+          "codes": [
+            {
+              "candidate": "D3000I",
+              "sourceBounds": [
+                0.8720374013863358,
+                0.45837109498303347,
+                0.9125080981285744,
+                0.47122334952306266
+              ],
+              "officialBounds": [
+                533.6868896484375,
+                363.0299072265625,
+                558.4549560546875,
+                373.2088928222656
+              ],
+              "officialCode": "D3000I"
+            }
+          ],
+          "rowBounds": [
+            0.428831511852788,
+            0.45809836339468907,
+            0.9125080981285744,
+            0.47135971531723486
+          ],
+          "pdfPage": 88,
+          "officialPage": 114
+        },
+        {
+          "description": "E9000® Console with Cord 115 Volt",
+          "codes": [
+            {
+              "candidate": "E9000",
+              "sourceBounds": [
+                0.8730765947329453,
+                0.633876145488084,
+                0.9092384288513583,
+                0.6467284385604087
+              ],
+              "officialBounds": [
+                534.3228759765625,
+                502.0299072265625,
+                556.4539184570312,
+                512.2089233398438
+              ],
+              "officialCode": "E9000"
+            }
+          ],
+          "rowBounds": [
+            0.428831511852788,
+            0.6336034138997396,
+            0.9092384288513583,
+            0.6468647658222854
+          ],
+          "pdfPage": 88,
+          "officialPage": 114
+        },
+        {
+          "description": "E9000 Console with Cord 230 Volt",
+          "codes": [
+            {
+              "candidate": "E9000G",
+              "sourceBounds": [
+                0.8648903042662377,
+                0.6786993778113163,
+                0.9092389275045956,
+                0.6915516708836411
+              ],
+              "officialBounds": [
+                529.3128662109375,
+                537.5299072265625,
+                556.4542236328125,
+                547.7089233398438
+              ],
+              "officialCode": "E9000G"
+            }
+          ],
+          "rowBounds": [
+            0.428831511852788,
+            0.6784266462229719,
+            0.9092389275045956,
+            0.6916879981455176
+          ],
+          "pdfPage": 88,
+          "officialPage": 114
+        },
+        {
+          "description": "E9000 Console with Cord 100 Volt",
+          "codes": [
+            {
+              "candidate": "E9000J",
+              "sourceBounds": [
+                0.866655038073172,
+                0.7235226101345487,
+                0.9092390272352431,
+                0.7363749032068734
+              ],
+              "officialBounds": [
+                530.3928833007812,
+                573.0299072265625,
+                556.4542846679688,
+                583.2089233398438
+              ],
+              "officialCode": "E9000J"
+            }
+          ],
+          "rowBounds": [
+            0.428831511852788,
+            0.7232498785462043,
+            0.9092390272352431,
+            0.73651123046875
+          ],
+          "pdfPage": 88,
+          "officialPage": 114
+        }
+      ],
+      "features": [],
+      "notes": [
+        "Height: 5.6\" (14.2cm), Width: 14\" (35.6cm),",
+        "Depth: 16.5\" (41.9cm), Weight: 14.5lbs (6.35kg)",
+        "Height: 5.6\" (14.2cm), Width: 14\" (35.6cm),",
+        "Depth: 16.5\" (41.9cm), Weight: 14.5lbs (6.35kg)",
+        "Height: 5.125\" (13cm), Width: 17\" (43.2cm),",
+        "Depth: 13\" (35cm), Weight: 19.5lbs (8.86kg)",
+        "Height: 5.125\" (13cm), Width: 17\" ( 43.2cm),",
+        "Depth: 13\" (35cm), Weight: 19.5lbs (8.86kg)",
+        "Operates: Advantage Shavers, Apex® Shavers, PowerPro® Electric Handpieces, MicroChoice®",
+        "Handpieces, Mini-Driver",
+        "™ Handpiece and E9000® Handpieces",
+        "Height: 4.63\" (29.25cm), Width: 11.75\" (11.76cm),",
+        "Depth :12.25\" (31.11cm), Weight :15.4lbs (7.0kg)",
+        "Height: 4.63\" (29.25cm), Width: 11.75\" (11.76cm),",
+        "Depth: 12.25\" (31.11cm), Weight: 15.4lbs (7.0kg)",
+        "Height: 4.63\" (29.25cm), Width: 11.75\" (11.76cm),",
+        "Depth: 12.25\" (31.11cm), Weight: 15.4lbs (7.0kg)",
+        "Operates: Advantage Shavers, Apex Shavers, MicroChoice Handpieces,",
+        "Mini-Driver Handpiece and E9000 Handpieces"
+      ],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 7
+}

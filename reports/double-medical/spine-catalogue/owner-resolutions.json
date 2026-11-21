@@ -1,0 +1,75 @@
+{
+  "sourceSha256": "d32e99d5106ebd5f18a76a32ff19d64da74f9ef96cc60ca536c0a533e630cb9c",
+  "corrections": [
+    {
+      "id": "spine-085965045-diameter",
+      "systemSlug": "hobbit-spine-system",
+      "REF": "085965045",
+      "pdfPage": 96,
+      "kind": "diameter",
+      "diameter": "5.0",
+      "printedDiameter": "5.5",
+      "correction": "PDF p.96: REF 085965045 diameter corrected to 5.0 mm under explicit owner source review; REF unchanged.",
+      "visibility": "internal-only",
+      "basis": "Owner explicitly confirmed printed diameter is a source typo; no general code-pattern inference applied."
+    },
+    {
+      "id": "spine-085975045-diameter",
+      "systemSlug": "hobbit-spine-system",
+      "REF": "085975045",
+      "pdfPage": 101,
+      "kind": "diameter",
+      "diameter": "5.0",
+      "printedDiameter": "5.5",
+      "correction": "PDF p.101: REF 085975045 diameter corrected to 5.0 mm under explicit owner source review; REF unchanged.",
+      "visibility": "internal-only",
+      "basis": "Owner explicitly confirmed printed diameter is a source typo; no general code-pattern inference applied."
+    },
+    {
+      "id": "spine-085985045-diameter",
+      "systemSlug": "hobbit-spine-system",
+      "REF": "085985045",
+      "pdfPage": 106,
+      "kind": "diameter",
+      "diameter": "5.0",
+      "printedDiameter": "5.5",
+      "correction": "PDF p.106: REF 085985045 diameter corrected to 5.0 mm under explicit owner source review; REF unchanged.",
+      "visibility": "internal-only",
+      "basis": "Owner explicitly confirmed printed diameter is a source typo; no general code-pattern inference applied."
+    },
+    {
+      "id": "spine-085995045-diameter",
+      "systemSlug": "hobbit-spine-system",
+      "REF": "085995045",
+      "pdfPage": 110,
+      "kind": "diameter",
+      "diameter": "5.0",
+      "printedDiameter": "5.5",
+      "correction": "PDF p.110: REF 085995045 diameter corrected to 5.0 mm under explicit owner source review; REF unchanged.",
+      "visibility": "internal-only",
+      "basis": "Owner explicitly confirmed printed diameter is a source typo; no general code-pattern inference applied."
+    },
+    {
+      "id": "spine-085987030-diameter",
+      "systemSlug": "hobbit-spine-system",
+      "REF": "085987030",
+      "pdfPage": 106,
+      "kind": "diameter",
+      "diameter": "7.0",
+      "printedDiameter": "6.5",
+      "correction": "PDF p.106: REF 085987030 diameter corrected to 7.0 mm under explicit owner source review; REF unchanged.",
+      "visibility": "internal-only",
+      "basis": "Owner explicitly confirmed printed diameter is a source typo; no general code-pattern inference applied."
+    },
+    {
+      "id": "spine-091271010-height12-withheld",
+      "systemSlug": "thoracolumbar-cages",
+      "REF": "091271010",
+      "pdfPage": 188,
+      "kind": "withhold-ref",
+      "correction": "PDF p.188: retain 091271010 for width 10 / height 10. Withhold the duplicated REF for width 10 / height 12; probably 091271012 by pattern, but not confirmed and never used. Confirm with Double Medical.",
+      "visibility": "internal-only",
+      "basis": "Explicit owner instruction to withhold uncertain REF and disable ordering."
+    }
+  ]
+}

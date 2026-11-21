@@ -1,0 +1,45 @@
+{
+  "resolved": [
+    {
+      "code": "manufacturer-description-conflict",
+      "field": "specTables",
+      "severity": "review",
+      "status": "open",
+      "message": {
+        "ru": "На стр. 16 напечатано Y1802 с описанием синей нити; у CONMED этому цвету соответствует Y1802A. Код исходника сохранён, требуется уточнение.",
+        "en": "Page 16 prints Y1802 for blue suture; CONMED assigns the blue configuration to Y1802A. Source code retained pending confirmation."
+      },
+      "sourcePages": [
+        16
+      ],
+      "itemName": "Y-Knot Flex 1.8mm",
+      "readings": [
+        "Supplied PDF: Y1802 — blue suture",
+        "CONMED brochure: Y1802 — white-blue / white-black",
+        "CONMED brochure: Y1802A — blue / white-black"
+      ],
+      "manufacturerUrl": "https://www.conmed.com/-/media/conmed/documents/literature/y-knotflex_productbrochure.ashx",
+      "path": "specTables.0.rows.1",
+      "pdfPage": 16,
+      "sourceBounds": [
+        0.095,
+        0.2827848836361434,
+        0.5782281048664563,
+        0.3047848836361434
+      ]
+    }
+  ],
+  "resolution": {
+    "id": "p16-blue-suture",
+    "pdfPage": 16,
+    "printedCodes": [
+      "Y1802"
+    ],
+    "correctedCodes": [
+      "Y1802A"
+    ],
+    "internalNote": "p.16 Y1802 → Y1802A (blue suture), confirm with XPMED sales",
+    "verificationStatus": "confirmed in CONMED brochure",
+    "manufacturerUrl": "https://www.conmed.com/-/media/conmed/documents/literature/y-knotflex_productbrochure.ashx"
+  }
+}

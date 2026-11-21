@@ -1,0 +1,1290 @@
+{
+  "slug": "rod-clamp",
+  "brand": "double-medical",
+  "category": "trauma-implants",
+  "subcategory": "trauma-external-fixation",
+  "subcategories": [
+    "trauma-external-fixation"
+  ],
+  "specialty": [
+    "traumatology",
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Зажим для штанги",
+    "en": "Rod Clamp"
+  },
+  "shortDescription": {
+    "ru": "Импланты для остеосинтеза",
+    "en": "Implants for fracture fixation"
+  },
+  "description": {
+    "ru": "Зажим для штанги. Характеристики и каталожные номера приведены по Trauma Catalogue Double Medical.",
+    "en": "Rod Clamp. Specifications and reference numbers are listed according to the Double Medical Trauma Catalogue."
+  },
+  "heroImage": "/images/products/double-medical/rod-clamp/page-536-art-05.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "width": 365,
+      "height": 233,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          175,
+          97
+        ],
+        "enhancedSize": [
+          350,
+          194
+        ]
+      },
+      "src": "/images/products/double-medical/rod-clamp/page-536-art-05.webp",
+      "imageCaption": {
+        "ru": "Зажим для штанги",
+        "en": "Rod Clamp"
+      },
+      "sourcePages": [
+        536
+      ]
+    },
+    {
+      "width": 300,
+      "height": 196,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          124,
+          69
+        ],
+        "enhancedSize": [
+          248,
+          138
+        ]
+      },
+      "src": "/images/products/double-medical/rod-clamp/page-538-art-03.webp",
+      "imageCaption": {
+        "ru": "Зажим для штанги",
+        "en": "Rod Clamp"
+      },
+      "sourcePages": [
+        538
+      ]
+    },
+    {
+      "width": 278,
+      "height": 197,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          121,
+          75
+        ],
+        "enhancedSize": [
+          242,
+          150
+        ]
+      },
+      "src": "/images/products/double-medical/rod-clamp/page-541-art-01.webp",
+      "imageCaption": {
+        "ru": "Зажим для штанги",
+        "en": "Rod Clamp"
+      },
+      "sourcePages": [
+        541
+      ]
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [
+    {
+      "id": "trauma-p536-4",
+      "groupId": "trauma-p536-4",
+      "title": {
+        "ru": "Зажим для штанги",
+        "en": "Rod Clamp"
+      },
+      "unit": "mm",
+      "sourcePage": 536,
+      "sourcePages": [
+        536
+      ],
+      "printedPage": "9/8",
+      "hideDescriptionColumn": true,
+      "columns": [
+        {
+          "ru": "Позиция",
+          "en": "Item"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Диаметр штанги",
+          "en": "Rod Diameter"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Зажим для штанги · Диаметр штанги: 5",
+            "en": "Rod Clamp · Rod Diameter: 5"
+          },
+          "100570100",
+          {
+            "ru": "5",
+            "en": "5"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 536,
+          "printedPage": "9/8",
+          "sourceBounds": [
+            0.08,
+            0.6892324398356486,
+            0.55,
+            0.7052109176286441
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p536-4",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 536,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "100570100"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "100570100"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "100570100"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "100570100",
+                "PSM11": "100570100",
+                "Vision": "100570100"
+              },
+              "value": "100570100",
+              "bounds": [
+                0.11763092953112148,
+                0.6922324398356486,
+                0.20427748834658624,
+                0.7022109176286441
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "100570100"
+            },
+            {
+              "readings": {
+                "PSM3": "5",
+                "PSM11": "5",
+                "Vision": ""
+              },
+              "value": "5",
+              "glyphReading": {
+                "text": "5",
+                "scores": [
+                  {
+                    "character": "5",
+                    "distance": 0.010866013071895423,
+                    "margin": 0.1800360748466053
+                  }
+                ],
+                "sourceRect": [
+                  126.6500015258789,
+                  424.73199462890625,
+                  130.3330078125,
+                  430.66998291015625
+                ]
+              },
+              "verifiedValue": "5"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "width": 365,
+          "height": 233,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              175,
+              97
+            ],
+            "enhancedSize": [
+              350,
+              194
+            ]
+          },
+          "src": "/images/products/double-medical/rod-clamp/page-536-art-05.webp",
+          "imageCaption": {
+            "ru": "Зажим для штанги",
+            "en": "Rod Clamp"
+          },
+          "sourcePages": [
+            536
+          ]
+        }
+      ],
+      "keyParameters": []
+    },
+    {
+      "id": "trauma-p538-3",
+      "groupId": "trauma-p538-3",
+      "title": {
+        "ru": "Зажим для штанги",
+        "en": "Rod Clamp"
+      },
+      "unit": "mm",
+      "sourcePage": 538,
+      "sourcePages": [
+        538
+      ],
+      "printedPage": "9/10",
+      "hideDescriptionColumn": true,
+      "columns": [
+        {
+          "ru": "Позиция",
+          "en": "Item"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Диаметр штанги",
+          "en": "Rod Diameter"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Зажим для штанги · Диаметр штанги: 5/8",
+            "en": "Rod Clamp · Rod Diameter: 5/8"
+          },
+          "100570200",
+          {
+            "ru": "5/8",
+            "en": "5/8"
+          }
+        ],
+        [
+          {
+            "ru": "Зажим для штанги · Диаметр штанги: 8",
+            "en": "Rod Clamp · Rod Diameter: 8"
+          },
+          "100570300",
+          {
+            "ru": "8",
+            "en": "8"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 538,
+          "printedPage": "9/10",
+          "sourceBounds": [
+            0.08,
+            0.5612731363725298,
+            0.55,
+            0.5772516141655254
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p538-3",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 538,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "100570200"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "100570200"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "100570200"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "100570200",
+                "PSM11": "100570200",
+                "Vision": "100570200"
+              },
+              "value": "100570200",
+              "bounds": [
+                0.11543734576364136,
+                0.5642731363725298,
+                0.2020839045791061,
+                0.5742516141655254
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "100570200"
+            },
+            {
+              "readings": {
+                "PSM3": "5/8",
+                "PSM11": "5/8",
+                "Vision": "5/8"
+              },
+              "value": "5/8",
+              "glyphReading": {
+                "text": "5/8",
+                "scores": [
+                  {
+                    "character": "5",
+                    "distance": 0.0,
+                    "margin": 0.18813196945444843
+                  },
+                  {
+                    "character": "/",
+                    "distance": 0.0,
+                    "margin": 0.20325075571895423
+                  },
+                  {
+                    "character": "8",
+                    "distance": 0.0,
+                    "margin": 0.13052500000000003
+                  }
+                ],
+                "sourceRect": [
+                  157.1320037841797,
+                  346.0169982910156,
+                  167.25100708007812,
+                  352.1369934082031
+                ]
+              },
+              "verifiedValue": "5/8"
+            }
+          ]
+        },
+        {
+          "pdfPage": 538,
+          "printedPage": "9/10",
+          "sourceBounds": [
+            0.08,
+            0.5759473684210527,
+            0.55,
+            0.5919258462140481
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p538-3",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 538,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "100570300"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "100570300"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "100570300"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "100570300",
+                "PSM11": "100570300",
+                "Vision": "100570300"
+              },
+              "value": "100570300",
+              "bounds": [
+                0.11543734576364136,
+                0.5789473684210527,
+                0.2020839045791061,
+                0.5889258462140481
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "100570300"
+            },
+            {
+              "readings": {
+                "PSM3": "8",
+                "PSM11": "8",
+                "Vision": "8"
+              },
+              "value": "8",
+              "glyphReading": {
+                "text": "8",
+                "scores": [
+                  {
+                    "character": "8",
+                    "distance": 0.0,
+                    "margin": 0.11375102124183006
+                  }
+                ],
+                "sourceRect": [
+                  157.125,
+                  355.1130065917969,
+                  160.7830047607422,
+                  361.156982421875
+                ]
+              },
+              "verifiedValue": "8"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "width": 300,
+          "height": 196,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              124,
+              69
+            ],
+            "enhancedSize": [
+              248,
+              138
+            ]
+          },
+          "src": "/images/products/double-medical/rod-clamp/page-538-art-03.webp",
+          "imageCaption": {
+            "ru": "Зажим для штанги",
+            "en": "Rod Clamp"
+          },
+          "sourcePages": [
+            538
+          ]
+        }
+      ],
+      "keyParameters": []
+    },
+    {
+      "id": "trauma-p541-1",
+      "groupId": "trauma-p541-1",
+      "title": {
+        "ru": "Зажим для штанги",
+        "en": "Rod Clamp"
+      },
+      "unit": "mm",
+      "sourcePage": 541,
+      "sourcePages": [
+        541
+      ],
+      "printedPage": "9/13",
+      "hideDescriptionColumn": true,
+      "columns": [
+        {
+          "ru": "Позиция",
+          "en": "Item"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Диаметр штанги",
+          "en": "Rod Diameter"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Зажим для штанги · Диаметр штанги: 5/3",
+            "en": "Rod Clamp · Rod Diameter: 5/3"
+          },
+          "100570500",
+          {
+            "ru": "5/3",
+            "en": "5/3"
+          }
+        ],
+        [
+          {
+            "ru": "Зажим для штанги · Диаметр штанги: 3",
+            "en": "Rod Clamp · Rod Diameter: 3"
+          },
+          "100570600",
+          {
+            "ru": "3",
+            "en": "3"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 541,
+          "printedPage": "9/13",
+          "sourceBounds": [
+            0.08,
+            0.20478712580708275,
+            0.55,
+            0.22056994717276462
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p541-1",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 541,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "100570500"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "100570500"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "100570500"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "100570500",
+                "PSM11": "100570500",
+                "Vision": "100570500"
+              },
+              "value": "100570500",
+              "bounds": [
+                0.13408280778722237,
+                0.20778712580708275,
+                0.22072936660268713,
+                0.21756994717276462
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "100570500"
+            },
+            {
+              "readings": {
+                "PSM3": "9/3",
+                "PSM11": "9/3",
+                "Vision": "5/3"
+              },
+              "value": "9/3",
+              "glyphReading": {
+                "text": "5/3",
+                "scores": [
+                  {
+                    "character": "5",
+                    "distance": 0.0054279003267973846,
+                    "margin": 0.1811824188008537
+                  },
+                  {
+                    "character": "/",
+                    "distance": 0.015965441176470595,
+                    "margin": 0.18205232843137253
+                  },
+                  {
+                    "character": "3",
+                    "distance": 0.004667075163398693,
+                    "margin": 0.11466503267973854
+                  }
+                ],
+                "sourceRect": [
+                  165.32000732421875,
+                  127.34701538085938,
+                  175.4290008544922,
+                  133.47100830078125
+                ]
+              },
+              "verifiedValue": "5/3"
+            }
+          ]
+        },
+        {
+          "pdfPage": 541,
+          "printedPage": "9/13",
+          "sourceBounds": [
+            0.08,
+            0.21946135785560555,
+            0.55,
+            0.23524417922128743
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p541-1",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 541,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "100570600"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "100570600"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "100570600"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "100570600",
+                "PSM11": "100570600",
+                "Vision": "100570600"
+              },
+              "value": "100570600",
+              "bounds": [
+                0.13408280778722237,
+                0.22246135785560556,
+                0.22072936660268713,
+                0.23224417922128743
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "100570600"
+            },
+            {
+              "readings": {
+                "PSM3": "3",
+                "PSM11": "3",
+                "Vision": "3"
+              },
+              "value": "3",
+              "glyphReading": {
+                "text": "3",
+                "scores": [
+                  {
+                    "character": "3",
+                    "distance": 0.0,
+                    "margin": 0.11536713643790851
+                  }
+                ],
+                "sourceRect": [
+                  165.32400512695312,
+                  136.4429931640625,
+                  168.96099853515625,
+                  142.49200439453125
+                ]
+              },
+              "verifiedValue": "3"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "width": 278,
+          "height": 197,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              121,
+              75
+            ],
+            "enhancedSize": [
+              242,
+              150
+            ]
+          },
+          "src": "/images/products/double-medical/rod-clamp/page-541-art-01.webp",
+          "imageCaption": {
+            "ru": "Зажим для штанги",
+            "en": "Rod Clamp"
+          },
+          "sourcePages": [
+            541
+          ]
+        }
+      ],
+      "keyParameters": []
+    }
+  ],
+  "refCodes": [
+    "100570100",
+    "100570200",
+    "100570300",
+    "100570500",
+    "100570600"
+  ],
+  "sourcePages": [
+    536,
+    538,
+    541
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Trauma Catalogue — каталог продукции",
+    "en": "Double Medical Trauma Catalogue — product catalog"
+  },
+  "documentCover": "/catalogs/double-medical/trauma-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "catalogType": "list",
+  "importPartition": "trauma-part3",
+  "availabilityNote": {
+    "ru": "Изображения приведены для справки",
+    "en": "Images for reference only"
+  },
+  "imageDimensions": {
+    "/images/products/double-medical/rod-clamp/page-536-art-05.webp": {
+      "width": 365,
+      "height": 233
+    },
+    "/images/products/double-medical/rod-clamp/page-538-art-03.webp": {
+      "width": 300,
+      "height": 196
+    },
+    "/images/products/double-medical/rod-clamp/page-541-art-01.webp": {
+      "width": 278,
+      "height": 197
+    }
+  },
+  "relatedSystemSlugs": [
+    "small-external-fixation-modular-rod-system-instrument-set",
+    "large-external-fixation-modular-rod-instrument-set"
+  ],
+  "sourcePdf": "/catalogs/double-medical/trauma-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/trauma-catalogue/pages/536.webp",
+    "/catalogs/double-medical/trauma-catalogue/pages/538.webp",
+    "/catalogs/double-medical/trauma-catalogue/pages/541.webp"
+  ],
+  "sourcePageDimensions": {
+    "530": {
+      "width": 3647,
+      "height": 5111
+    },
+    "531": {
+      "width": 3647,
+      "height": 5111
+    },
+    "532": {
+      "width": 3647,
+      "height": 5111
+    },
+    "533": {
+      "width": 3647,
+      "height": 5111
+    },
+    "534": {
+      "width": 3647,
+      "height": 5111
+    },
+    "535": {
+      "width": 3647,
+      "height": 5111
+    },
+    "536": {
+      "width": 3647,
+      "height": 5111
+    },
+    "537": {
+      "width": 3647,
+      "height": 5111
+    },
+    "538": {
+      "width": 3647,
+      "height": 5111
+    },
+    "539": {
+      "width": 3647,
+      "height": 5111
+    },
+    "540": {
+      "width": 3647,
+      "height": 5111
+    },
+    "541": {
+      "width": 3647,
+      "height": 5111
+    },
+    "542": {
+      "width": 3647,
+      "height": 5111
+    },
+    "543": {
+      "width": 3647,
+      "height": 5111
+    },
+    "544": {
+      "width": 3647,
+      "height": 5111
+    },
+    "545": {
+      "width": 3647,
+      "height": 5111
+    },
+    "546": {
+      "width": 3647,
+      "height": 5111
+    },
+    "547": {
+      "width": 3647,
+      "height": 5111
+    },
+    "548": {
+      "width": 3647,
+      "height": 5111
+    },
+    "549": {
+      "width": 3647,
+      "height": 5111
+    },
+    "550": {
+      "width": 3647,
+      "height": 5111
+    },
+    "551": {
+      "width": 3647,
+      "height": 5111
+    },
+    "552": {
+      "width": 3647,
+      "height": 5111
+    },
+    "553": {
+      "width": 3647,
+      "height": 5111
+    },
+    "554": {
+      "width": 3647,
+      "height": 5111
+    },
+    "555": {
+      "width": 3647,
+      "height": 5111
+    },
+    "556": {
+      "width": 3647,
+      "height": 5111
+    },
+    "557": {
+      "width": 3647,
+      "height": 5111
+    },
+    "558": {
+      "width": 3647,
+      "height": 5111
+    },
+    "559": {
+      "width": 3647,
+      "height": 5111
+    },
+    "560": {
+      "width": 3647,
+      "height": 5111
+    },
+    "561": {
+      "width": 3647,
+      "height": 5111
+    },
+    "562": {
+      "width": 3647,
+      "height": 5111
+    },
+    "563": {
+      "width": 3647,
+      "height": 5111
+    },
+    "564": {
+      "width": 3647,
+      "height": 5111
+    },
+    "565": {
+      "width": 3647,
+      "height": 5111
+    },
+    "566": {
+      "width": 3647,
+      "height": 5111
+    },
+    "567": {
+      "width": 3647,
+      "height": 5111
+    },
+    "568": {
+      "width": 3647,
+      "height": 5111
+    },
+    "569": {
+      "width": 3647,
+      "height": 5111
+    },
+    "570": {
+      "width": 3647,
+      "height": 5111
+    },
+    "571": {
+      "width": 3647,
+      "height": 5111
+    },
+    "572": {
+      "width": 3647,
+      "height": 5111
+    },
+    "573": {
+      "width": 3647,
+      "height": 5111
+    },
+    "574": {
+      "width": 3647,
+      "height": 5111
+    },
+    "575": {
+      "width": 3647,
+      "height": 5111
+    },
+    "576": {
+      "width": 3647,
+      "height": 5111
+    },
+    "577": {
+      "width": 3647,
+      "height": 5111
+    },
+    "578": {
+      "width": 3647,
+      "height": 5111
+    },
+    "582": {
+      "width": 3647,
+      "height": 5111
+    },
+    "583": {
+      "width": 3647,
+      "height": 5111
+    },
+    "584": {
+      "width": 3647,
+      "height": 5111
+    },
+    "585": {
+      "width": 3647,
+      "height": 5111
+    },
+    "586": {
+      "width": 3647,
+      "height": 5111
+    },
+    "587": {
+      "width": 3647,
+      "height": 5111
+    },
+    "588": {
+      "width": 3647,
+      "height": 5111
+    },
+    "589": {
+      "width": 3647,
+      "height": 5111
+    },
+    "590": {
+      "width": 3647,
+      "height": 5111
+    },
+    "591": {
+      "width": 3647,
+      "height": 5111
+    },
+    "592": {
+      "width": 3647,
+      "height": 5111
+    },
+    "593": {
+      "width": 3647,
+      "height": 5111
+    },
+    "594": {
+      "width": 3647,
+      "height": 5111
+    },
+    "595": {
+      "width": 3647,
+      "height": 5111
+    },
+    "596": {
+      "width": 3647,
+      "height": 5111
+    },
+    "597": {
+      "width": 3647,
+      "height": 5111
+    },
+    "598": {
+      "width": 3647,
+      "height": 5111
+    },
+    "599": {
+      "width": 3647,
+      "height": 5111
+    },
+    "600": {
+      "width": 3647,
+      "height": 5111
+    },
+    "601": {
+      "width": 3647,
+      "height": 5111
+    },
+    "602": {
+      "width": 3647,
+      "height": 5111
+    },
+    "603": {
+      "width": 3647,
+      "height": 5111
+    },
+    "604": {
+      "width": 3647,
+      "height": 5111
+    },
+    "605": {
+      "width": 3647,
+      "height": 5111
+    },
+    "606": {
+      "width": 3647,
+      "height": 5111
+    },
+    "607": {
+      "width": 3647,
+      "height": 5111
+    },
+    "608": {
+      "width": 3647,
+      "height": 5111
+    },
+    "612": {
+      "width": 3647,
+      "height": 5111
+    },
+    "613": {
+      "width": 3647,
+      "height": 5111
+    },
+    "614": {
+      "width": 3647,
+      "height": 5111
+    },
+    "615": {
+      "width": 3647,
+      "height": 5111
+    },
+    "616": {
+      "width": 3647,
+      "height": 5111
+    },
+    "617": {
+      "width": 3647,
+      "height": 5111
+    },
+    "620": {
+      "width": 3647,
+      "height": 5111
+    },
+    "621": {
+      "width": 3647,
+      "height": 5111
+    },
+    "622": {
+      "width": 3647,
+      "height": 5111
+    },
+    "623": {
+      "width": 3647,
+      "height": 5111
+    },
+    "624": {
+      "width": 3647,
+      "height": 5111
+    },
+    "625": {
+      "width": 3647,
+      "height": 5111
+    },
+    "626": {
+      "width": 3647,
+      "height": 5111
+    },
+    "627": {
+      "width": 3647,
+      "height": 5111
+    },
+    "628": {
+      "width": 3647,
+      "height": 5111
+    },
+    "632": {
+      "width": 3647,
+      "height": 5111
+    },
+    "633": {
+      "width": 3647,
+      "height": 5111
+    },
+    "634": {
+      "width": 3647,
+      "height": 5111
+    },
+    "635": {
+      "width": 3647,
+      "height": 5111
+    },
+    "636": {
+      "width": 3647,
+      "height": 5111
+    },
+    "637": {
+      "width": 3647,
+      "height": 5111
+    },
+    "638": {
+      "width": 3647,
+      "height": 5111
+    },
+    "639": {
+      "width": 3647,
+      "height": 5111
+    },
+    "640": {
+      "width": 3647,
+      "height": 5111
+    },
+    "641": {
+      "width": 3647,
+      "height": 5111
+    },
+    "642": {
+      "width": 3647,
+      "height": 5111
+    },
+    "643": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "3f2755d7646453cd1d8981369406a66062322971a7cb98258e022ae9b9769999",
+    "importMethod": "600-DPI Tesseract PSM3/11 plus independent Apple Vision; source glyph reconciliation and Codex visual reading; Codex medical RU; native photo composites, original Real-ESRGAN weights exact 2x then rembg",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      528,
+      529,
+      579,
+      580,
+      581,
+      609,
+      610,
+      611,
+      618,
+      619,
+      629,
+      630,
+      631,
+      644
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "gallery.1.imageCaption.ru",
+      "gallery.2.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.columns.2.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.0.2.ru",
+      "specTables.0.images.0.imageCaption.ru",
+      "specTables.1.title.ru",
+      "specTables.1.columns.0.ru",
+      "specTables.1.columns.1.ru",
+      "specTables.1.columns.2.ru",
+      "specTables.1.rows.0.0.ru",
+      "specTables.1.rows.0.2.ru",
+      "specTables.1.rows.1.0.ru",
+      "specTables.1.rows.1.2.ru",
+      "specTables.1.images.0.imageCaption.ru",
+      "specTables.2.title.ru",
+      "specTables.2.columns.0.ru",
+      "specTables.2.columns.1.ru",
+      "specTables.2.columns.2.ru",
+      "specTables.2.rows.0.0.ru",
+      "specTables.2.rows.0.2.ru",
+      "specTables.2.rows.1.0.ru",
+      "specTables.2.rows.1.2.ru",
+      "specTables.2.images.0.imageCaption.ru",
+      "catalogTitle.ru",
+      "availabilityNote.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Owner authorized automatic publication after source review with zero real open flags; no REF inferred.",
+    "imageQA": "Codex visual review of all seven final contact sheets and source layouts; two QR tiles excluded; two multi-instrument composites split into five separate row photos; ambiguous 607 composite retained only as a general subgroup illustration"
+  },
+  "publishedAt": "2026-11-21T06:37:29.425430+00:00"
+}

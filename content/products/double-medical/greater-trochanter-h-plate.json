@@ -1,0 +1,1454 @@
+{
+  "slug": "greater-trochanter-h-plate",
+  "brand": "double-medical",
+  "category": "trauma-implants",
+  "subcategory": "trauma-large-fragment",
+  "subcategories": [
+    "trauma-large-fragment"
+  ],
+  "specialty": [
+    "traumatology",
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "H-образная пластина для большого вертела",
+    "en": "Greater Trochanter H Plate"
+  },
+  "shortDescription": {
+    "ru": "Импланты для остеосинтеза",
+    "en": "Implants for fracture fixation"
+  },
+  "description": {
+    "ru": "H-образная пластина для большого вертела. Характеристики и каталожные номера приведены по Trauma Catalogue Double Medical.",
+    "en": "Greater Trochanter H Plate. Specifications and reference numbers are listed according to the Double Medical Trauma Catalogue."
+  },
+  "heroImage": "/images/products/double-medical/greater-trochanter-h-plate/page-084-art-02.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "width": 211,
+      "height": 499,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          97,
+          230
+        ],
+        "enhancedSize": [
+          194,
+          460
+        ]
+      },
+      "src": "/images/products/double-medical/greater-trochanter-h-plate/page-084-art-02.webp",
+      "imageCaption": {
+        "ru": "H-образная пластина для большого вертела",
+        "en": "Greater Trochanter H Plate"
+      },
+      "sourcePages": [
+        84
+      ]
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [
+    {
+      "id": "trauma-p84-2",
+      "groupId": "trauma-p84-2",
+      "title": {
+        "ru": "H-образная пластина для большого вертела",
+        "en": "Greater Trochanter H Plate"
+      },
+      "unit": "mm",
+      "sourcePage": 84,
+      "sourcePages": [
+        84
+      ],
+      "printedPage": "2/6",
+      "hideDescriptionColumn": true,
+      "columns": [
+        {
+          "ru": "Позиция",
+          "en": "Item"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Сторона (L/R)",
+          "en": "Direction"
+        },
+        {
+          "ru": "Отверстия",
+          "en": "Holes"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "H-образная пластина для большого вертела · Сторона (L/R): Левая, Отверстия: 12",
+            "en": "Greater Trochanter H Plate · Direction: Left, Holes: 12"
+          },
+          "028401012",
+          {
+            "ru": "Левая",
+            "en": "Left"
+          },
+          {
+            "ru": "12",
+            "en": "12"
+          }
+        ],
+        [
+          {
+            "ru": "H-образная пластина для большого вертела · Сторона (L/R): Правая, Отверстия: 12",
+            "en": "Greater Trochanter H Plate · Direction: Right, Holes: 12"
+          },
+          "028402012",
+          {
+            "ru": "Правая",
+            "en": "Right"
+          },
+          {
+            "ru": "12",
+            "en": "12"
+          }
+        ],
+        [
+          {
+            "ru": "H-образная пластина для большого вертела · Сторона (L/R): Левая, Отверстия: 14",
+            "en": "Greater Trochanter H Plate · Direction: Left, Holes: 14"
+          },
+          "028401014",
+          {
+            "ru": "Левая",
+            "en": "Left"
+          },
+          {
+            "ru": "14",
+            "en": "14"
+          }
+        ],
+        [
+          {
+            "ru": "H-образная пластина для большого вертела · Сторона (L/R): Правая, Отверстия: 14",
+            "en": "Greater Trochanter H Plate · Direction: Right, Holes: 14"
+          },
+          "028402014",
+          {
+            "ru": "Правая",
+            "en": "Right"
+          },
+          {
+            "ru": "14",
+            "en": "14"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 84,
+          "printedPage": "2/6",
+          "sourceBounds": [
+            0.08,
+            0.4691189591078067,
+            0.6101018335502613,
+            0.4850974369008022
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p84-2",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 84,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "028401012"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "028401012"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "028401012"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "028401012",
+                "PSM11": "028401012",
+                "Vision": "028401012"
+              },
+              "value": "028401012",
+              "bounds": [
+                0.11488894982177132,
+                0.4721189591078067,
+                0.2020839045791061,
+                0.4820974369008022
+              ],
+              "verifiedValue": "028401012"
+            },
+            {
+              "readings": {
+                "PSM3": "Left",
+                "PSM11": "Left",
+                "Vision": "Left"
+              },
+              "value": "Left",
+              "verifiedValue": "Left"
+            },
+            {
+              "readings": {
+                "PSM3": "12",
+                "PSM11": "12",
+                "Vision": "12"
+              },
+              "value": "12",
+              "glyphReading": {
+                "text": "12",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.003620302287581699,
+                    "margin": 0.4189600756969455
+                  },
+                  {
+                    "character": "2",
+                    "distance": 0.0034109477124183002,
+                    "margin": 0.29935286406229156
+                  }
+                ],
+                "sourceRect": [
+                  199.21099853515625,
+                  289.6470031738281,
+                  206.5850067138672,
+                  295.59100341796875
+                ]
+              },
+              "verifiedValue": "12"
+            }
+          ]
+        },
+        {
+          "pdfPage": 84,
+          "printedPage": "2/6",
+          "sourceBounds": [
+            0.08,
+            0.48398884758364313,
+            0.6101018335502613,
+            0.499771668949325
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p84-2",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 84,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "028402012"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "028402012"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "028402012"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "028402012",
+                "PSM11": "028402012",
+                "Vision": "028402012"
+              },
+              "value": "028402012",
+              "bounds": [
+                0.11488894982177132,
+                0.48698884758364314,
+                0.2020839045791061,
+                0.496771668949325
+              ],
+              "verifiedValue": "028402012"
+            },
+            {
+              "readings": {
+                "PSM3": "Right",
+                "PSM11": "Right",
+                "Vision": "Right"
+              },
+              "value": "Right",
+              "verifiedValue": "Right"
+            },
+            {
+              "readings": {
+                "PSM3": "12",
+                "PSM11": "12",
+                "Vision": "12"
+              },
+              "value": "12",
+              "glyphReading": {
+                "text": "12",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.0024050245098039217,
+                    "margin": 0.4214212685074029
+                  },
+                  {
+                    "character": "2",
+                    "distance": 0.004095179738562091,
+                    "margin": 0.29415474314725887
+                  }
+                ],
+                "sourceRect": [
+                  199.21099853515625,
+                  298.6679992675781,
+                  206.5850067138672,
+                  304.6109924316406
+                ]
+              },
+              "verifiedValue": "12"
+            }
+          ]
+        },
+        {
+          "pdfPage": 84,
+          "printedPage": "2/6",
+          "sourceBounds": [
+            0.08,
+            0.49866307963216594,
+            0.6101018335502613,
+            0.5146415574251614
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p84-2",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 84,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "028401014"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "028401014"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "028401014"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "028401014",
+                "PSM11": "028401014",
+                "Vision": "028401014"
+              },
+              "value": "028401014",
+              "bounds": [
+                0.11488894982177132,
+                0.5016630796321659,
+                0.20263230052097614,
+                0.5116415574251614
+              ],
+              "verifiedValue": "028401014"
+            },
+            {
+              "readings": {
+                "PSM3": "Left",
+                "PSM11": "Left",
+                "Vision": "Left"
+              },
+              "value": "Left",
+              "verifiedValue": "Left"
+            },
+            {
+              "readings": {
+                "PSM3": "14",
+                "PSM11": "14",
+                "Vision": "14"
+              },
+              "value": "14",
+              "glyphReading": {
+                "text": "14",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.001189746732026144,
+                    "margin": 0.4238339523309324
+                  },
+                  {
+                    "character": "4",
+                    "distance": 0.0,
+                    "margin": 0.4455480108710151
+                  }
+                ],
+                "sourceRect": [
+                  199.21099853515625,
+                  307.68701171875,
+                  206.6179962158203,
+                  313.6310119628906
+                ]
+              },
+              "verifiedValue": "14"
+            }
+          ]
+        },
+        {
+          "pdfPage": 84,
+          "printedPage": "2/6",
+          "sourceBounds": [
+            0.08,
+            0.5133373116806887,
+            0.6101018335502613,
+            0.5293157894736842
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p84-2",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 84,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "028402014"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "028402014"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "028402014"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "028402014",
+                "PSM11": "028402014",
+                "Vision": "028402014"
+              },
+              "value": "028402014",
+              "bounds": [
+                0.11488894982177132,
+                0.5163373116806887,
+                0.20263230052097614,
+                0.5263157894736842
+              ],
+              "verifiedValue": "028402014"
+            },
+            {
+              "readings": {
+                "PSM3": "Right",
+                "PSM11": "Right",
+                "Vision": "Right"
+              },
+              "value": "Right",
+              "verifiedValue": "Right"
+            },
+            {
+              "readings": {
+                "PSM3": "14",
+                "PSM11": "14",
+                "Vision": "14"
+              },
+              "value": "14",
+              "glyphReading": {
+                "text": "14",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.005897671568627451,
+                    "margin": 0.417683864379085
+                  },
+                  {
+                    "character": "4",
+                    "distance": 0.0044551674836601305,
+                    "margin": 0.4298821611978125
+                  }
+                ],
+                "sourceRect": [
+                  199.21099853515625,
+                  316.7070007324219,
+                  206.6179962158203,
+                  322.6510009765625
+                ]
+              },
+              "verifiedValue": "14"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "width": 211,
+          "height": 499,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              97,
+              230
+            ],
+            "enhancedSize": [
+              194,
+              460
+            ]
+          },
+          "src": "/images/products/double-medical/greater-trochanter-h-plate/page-084-art-02.webp",
+          "imageCaption": {
+            "ru": "H-образная пластина для большого вертела",
+            "en": "Greater Trochanter H Plate"
+          },
+          "sourcePages": [
+            84
+          ]
+        }
+      ],
+      "keyParameters": [
+        {
+          "parameter": {
+            "ru": "Материал",
+            "en": "Material"
+          },
+          "value": {
+            "ru": "титановый сплав",
+            "en": "Titanium Alloy"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Совместимые винты",
+            "en": "Screws"
+          },
+          "value": {
+            "ru": "4.5 мм GTP Кортикальный винт",
+            "en": "4.5mm GTP Cortex Screw"
+          }
+        }
+      ]
+    }
+  ],
+  "refCodes": [
+    "028401012",
+    "028402012",
+    "028401014",
+    "028402014"
+  ],
+  "sourcePages": [
+    84
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Trauma Catalogue — каталог продукции",
+    "en": "Double Medical Trauma Catalogue — product catalog"
+  },
+  "documentCover": "/catalogs/double-medical/trauma-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "catalogType": "list",
+  "importPartition": "trauma-part1",
+  "availabilityNote": {
+    "ru": "Изображения приведены для справки",
+    "en": "Images for reference only"
+  },
+  "imageDimensions": {
+    "/images/products/double-medical/greater-trochanter-h-plate/page-084-art-02.webp": {
+      "width": 211,
+      "height": 499
+    }
+  },
+  "relatedSystemSlugs": [
+    "large-locking-instrument-set"
+  ],
+  "sourcePdf": "/catalogs/double-medical/trauma-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/trauma-catalogue/pages/084.webp"
+  ],
+  "sourcePageDimensions": {
+    "6": {
+      "width": 3647,
+      "height": 5111
+    },
+    "7": {
+      "width": 3647,
+      "height": 5111
+    },
+    "8": {
+      "width": 3647,
+      "height": 5111
+    },
+    "9": {
+      "width": 3647,
+      "height": 5111
+    },
+    "10": {
+      "width": 3647,
+      "height": 5111
+    },
+    "11": {
+      "width": 3647,
+      "height": 5111
+    },
+    "12": {
+      "width": 3647,
+      "height": 5111
+    },
+    "13": {
+      "width": 3647,
+      "height": 5111
+    },
+    "14": {
+      "width": 3647,
+      "height": 5111
+    },
+    "15": {
+      "width": 3647,
+      "height": 5111
+    },
+    "16": {
+      "width": 3647,
+      "height": 5111
+    },
+    "17": {
+      "width": 3647,
+      "height": 5111
+    },
+    "18": {
+      "width": 3647,
+      "height": 5111
+    },
+    "19": {
+      "width": 3647,
+      "height": 5111
+    },
+    "20": {
+      "width": 3647,
+      "height": 5111
+    },
+    "21": {
+      "width": 3647,
+      "height": 5111
+    },
+    "22": {
+      "width": 3647,
+      "height": 5111
+    },
+    "23": {
+      "width": 3647,
+      "height": 5111
+    },
+    "24": {
+      "width": 3647,
+      "height": 5111
+    },
+    "25": {
+      "width": 3647,
+      "height": 5111
+    },
+    "26": {
+      "width": 3647,
+      "height": 5111
+    },
+    "27": {
+      "width": 3647,
+      "height": 5111
+    },
+    "28": {
+      "width": 3647,
+      "height": 5111
+    },
+    "29": {
+      "width": 3647,
+      "height": 5111
+    },
+    "30": {
+      "width": 3647,
+      "height": 5111
+    },
+    "31": {
+      "width": 3647,
+      "height": 5111
+    },
+    "32": {
+      "width": 3647,
+      "height": 5111
+    },
+    "33": {
+      "width": 3647,
+      "height": 5111
+    },
+    "34": {
+      "width": 3647,
+      "height": 5111
+    },
+    "35": {
+      "width": 3647,
+      "height": 5111
+    },
+    "36": {
+      "width": 3647,
+      "height": 5111
+    },
+    "37": {
+      "width": 3647,
+      "height": 5111
+    },
+    "38": {
+      "width": 3647,
+      "height": 5111
+    },
+    "39": {
+      "width": 3647,
+      "height": 5111
+    },
+    "40": {
+      "width": 3647,
+      "height": 5111
+    },
+    "41": {
+      "width": 3647,
+      "height": 5111
+    },
+    "42": {
+      "width": 3647,
+      "height": 5111
+    },
+    "43": {
+      "width": 3647,
+      "height": 5111
+    },
+    "44": {
+      "width": 3647,
+      "height": 5111
+    },
+    "45": {
+      "width": 3647,
+      "height": 5111
+    },
+    "46": {
+      "width": 3647,
+      "height": 5111
+    },
+    "47": {
+      "width": 3647,
+      "height": 5111
+    },
+    "48": {
+      "width": 3647,
+      "height": 5111
+    },
+    "49": {
+      "width": 3647,
+      "height": 5111
+    },
+    "50": {
+      "width": 3647,
+      "height": 5111
+    },
+    "51": {
+      "width": 3647,
+      "height": 5111
+    },
+    "52": {
+      "width": 3647,
+      "height": 5111
+    },
+    "53": {
+      "width": 3647,
+      "height": 5111
+    },
+    "54": {
+      "width": 3647,
+      "height": 5111
+    },
+    "55": {
+      "width": 3647,
+      "height": 5111
+    },
+    "56": {
+      "width": 3647,
+      "height": 5111
+    },
+    "57": {
+      "width": 3647,
+      "height": 5111
+    },
+    "58": {
+      "width": 3647,
+      "height": 5111
+    },
+    "59": {
+      "width": 3647,
+      "height": 5111
+    },
+    "60": {
+      "width": 3647,
+      "height": 5111
+    },
+    "61": {
+      "width": 3647,
+      "height": 5111
+    },
+    "62": {
+      "width": 3647,
+      "height": 5111
+    },
+    "63": {
+      "width": 3647,
+      "height": 5111
+    },
+    "64": {
+      "width": 3647,
+      "height": 5111
+    },
+    "65": {
+      "width": 3647,
+      "height": 5111
+    },
+    "66": {
+      "width": 3647,
+      "height": 5111
+    },
+    "67": {
+      "width": 3647,
+      "height": 5111
+    },
+    "68": {
+      "width": 3647,
+      "height": 5111
+    },
+    "69": {
+      "width": 3647,
+      "height": 5111
+    },
+    "70": {
+      "width": 3647,
+      "height": 5111
+    },
+    "71": {
+      "width": 3647,
+      "height": 5111
+    },
+    "72": {
+      "width": 3647,
+      "height": 5111
+    },
+    "73": {
+      "width": 3647,
+      "height": 5111
+    },
+    "74": {
+      "width": 3647,
+      "height": 5111
+    },
+    "75": {
+      "width": 3647,
+      "height": 5111
+    },
+    "76": {
+      "width": 3647,
+      "height": 5111
+    },
+    "77": {
+      "width": 3647,
+      "height": 5111
+    },
+    "80": {
+      "width": 3647,
+      "height": 5111
+    },
+    "81": {
+      "width": 3647,
+      "height": 5111
+    },
+    "82": {
+      "width": 3647,
+      "height": 5111
+    },
+    "83": {
+      "width": 3647,
+      "height": 5111
+    },
+    "84": {
+      "width": 3647,
+      "height": 5111
+    },
+    "85": {
+      "width": 3647,
+      "height": 5111
+    },
+    "86": {
+      "width": 3647,
+      "height": 5111
+    },
+    "87": {
+      "width": 3647,
+      "height": 5111
+    },
+    "88": {
+      "width": 3647,
+      "height": 5111
+    },
+    "89": {
+      "width": 3647,
+      "height": 5111
+    },
+    "90": {
+      "width": 3647,
+      "height": 5111
+    },
+    "91": {
+      "width": 3647,
+      "height": 5111
+    },
+    "92": {
+      "width": 3647,
+      "height": 5111
+    },
+    "93": {
+      "width": 3647,
+      "height": 5111
+    },
+    "94": {
+      "width": 3647,
+      "height": 5111
+    },
+    "95": {
+      "width": 3647,
+      "height": 5111
+    },
+    "96": {
+      "width": 3647,
+      "height": 5111
+    },
+    "97": {
+      "width": 3647,
+      "height": 5111
+    },
+    "98": {
+      "width": 3647,
+      "height": 5111
+    },
+    "99": {
+      "width": 3647,
+      "height": 5111
+    },
+    "100": {
+      "width": 3647,
+      "height": 5111
+    },
+    "101": {
+      "width": 3647,
+      "height": 5111
+    },
+    "102": {
+      "width": 3647,
+      "height": 5111
+    },
+    "103": {
+      "width": 3647,
+      "height": 5111
+    },
+    "104": {
+      "width": 3647,
+      "height": 5111
+    },
+    "105": {
+      "width": 3647,
+      "height": 5111
+    },
+    "106": {
+      "width": 3647,
+      "height": 5111
+    },
+    "107": {
+      "width": 3647,
+      "height": 5111
+    },
+    "108": {
+      "width": 3647,
+      "height": 5111
+    },
+    "109": {
+      "width": 3647,
+      "height": 5111
+    },
+    "110": {
+      "width": 3647,
+      "height": 5111
+    },
+    "111": {
+      "width": 3647,
+      "height": 5111
+    },
+    "112": {
+      "width": 3647,
+      "height": 5111
+    },
+    "113": {
+      "width": 3647,
+      "height": 5111
+    },
+    "114": {
+      "width": 3647,
+      "height": 5111
+    },
+    "115": {
+      "width": 3647,
+      "height": 5111
+    },
+    "116": {
+      "width": 3647,
+      "height": 5111
+    },
+    "117": {
+      "width": 3647,
+      "height": 5111
+    },
+    "118": {
+      "width": 3647,
+      "height": 5111
+    },
+    "119": {
+      "width": 3647,
+      "height": 5111
+    },
+    "120": {
+      "width": 3647,
+      "height": 5111
+    },
+    "121": {
+      "width": 3647,
+      "height": 5111
+    },
+    "122": {
+      "width": 3647,
+      "height": 5111
+    },
+    "123": {
+      "width": 3647,
+      "height": 5111
+    },
+    "124": {
+      "width": 3647,
+      "height": 5111
+    },
+    "125": {
+      "width": 3647,
+      "height": 5111
+    },
+    "126": {
+      "width": 3647,
+      "height": 5111
+    },
+    "127": {
+      "width": 3647,
+      "height": 5111
+    },
+    "128": {
+      "width": 3647,
+      "height": 5111
+    },
+    "129": {
+      "width": 3647,
+      "height": 5111
+    },
+    "130": {
+      "width": 3647,
+      "height": 5111
+    },
+    "131": {
+      "width": 3647,
+      "height": 5111
+    },
+    "132": {
+      "width": 3647,
+      "height": 5111
+    },
+    "133": {
+      "width": 3647,
+      "height": 5111
+    },
+    "134": {
+      "width": 3647,
+      "height": 5111
+    },
+    "135": {
+      "width": 3647,
+      "height": 5111
+    },
+    "136": {
+      "width": 3647,
+      "height": 5111
+    },
+    "137": {
+      "width": 3647,
+      "height": 5111
+    },
+    "138": {
+      "width": 3647,
+      "height": 5111
+    },
+    "139": {
+      "width": 3647,
+      "height": 5111
+    },
+    "140": {
+      "width": 3647,
+      "height": 5111
+    },
+    "143": {
+      "width": 3647,
+      "height": 5111
+    },
+    "144": {
+      "width": 3647,
+      "height": 5111
+    },
+    "145": {
+      "width": 3647,
+      "height": 5111
+    },
+    "146": {
+      "width": 3647,
+      "height": 5111
+    },
+    "147": {
+      "width": 3647,
+      "height": 5111
+    },
+    "148": {
+      "width": 3647,
+      "height": 5111
+    },
+    "149": {
+      "width": 3647,
+      "height": 5111
+    },
+    "150": {
+      "width": 3647,
+      "height": 5111
+    },
+    "151": {
+      "width": 3647,
+      "height": 5111
+    },
+    "152": {
+      "width": 3647,
+      "height": 5111
+    },
+    "153": {
+      "width": 3647,
+      "height": 5111
+    },
+    "154": {
+      "width": 3647,
+      "height": 5111
+    },
+    "155": {
+      "width": 3647,
+      "height": 5111
+    },
+    "156": {
+      "width": 3647,
+      "height": 5111
+    },
+    "157": {
+      "width": 3647,
+      "height": 5111
+    },
+    "158": {
+      "width": 3647,
+      "height": 5111
+    },
+    "159": {
+      "width": 3647,
+      "height": 5111
+    },
+    "160": {
+      "width": 3647,
+      "height": 5111
+    },
+    "161": {
+      "width": 3647,
+      "height": 5111
+    },
+    "162": {
+      "width": 3647,
+      "height": 5111
+    },
+    "163": {
+      "width": 3647,
+      "height": 5111
+    },
+    "164": {
+      "width": 3647,
+      "height": 5111
+    },
+    "165": {
+      "width": 3647,
+      "height": 5111
+    },
+    "166": {
+      "width": 3647,
+      "height": 5111
+    },
+    "167": {
+      "width": 3647,
+      "height": 5111
+    },
+    "168": {
+      "width": 3647,
+      "height": 5111
+    },
+    "169": {
+      "width": 3647,
+      "height": 5111
+    },
+    "170": {
+      "width": 3647,
+      "height": 5111
+    },
+    "171": {
+      "width": 3647,
+      "height": 5111
+    },
+    "172": {
+      "width": 3647,
+      "height": 5111
+    },
+    "173": {
+      "width": 3647,
+      "height": 5111
+    },
+    "174": {
+      "width": 3647,
+      "height": 5111
+    },
+    "175": {
+      "width": 3647,
+      "height": 5111
+    },
+    "176": {
+      "width": 3647,
+      "height": 5111
+    },
+    "177": {
+      "width": 3647,
+      "height": 5111
+    },
+    "178": {
+      "width": 3647,
+      "height": 5111
+    },
+    "179": {
+      "width": 3647,
+      "height": 5111
+    },
+    "180": {
+      "width": 3647,
+      "height": 5111
+    },
+    "181": {
+      "width": 3647,
+      "height": 5111
+    },
+    "182": {
+      "width": 3647,
+      "height": 5111
+    },
+    "183": {
+      "width": 3647,
+      "height": 5111
+    },
+    "184": {
+      "width": 3647,
+      "height": 5111
+    },
+    "185": {
+      "width": 3647,
+      "height": 5111
+    },
+    "186": {
+      "width": 3647,
+      "height": 5111
+    },
+    "187": {
+      "width": 3647,
+      "height": 5111
+    },
+    "188": {
+      "width": 3647,
+      "height": 5111
+    },
+    "189": {
+      "width": 3647,
+      "height": 5111
+    },
+    "190": {
+      "width": 3647,
+      "height": 5111
+    },
+    "193": {
+      "width": 3647,
+      "height": 5111
+    },
+    "194": {
+      "width": 3647,
+      "height": 5111
+    },
+    "195": {
+      "width": 3647,
+      "height": 5111
+    },
+    "196": {
+      "width": 3647,
+      "height": 5111
+    },
+    "197": {
+      "width": 3647,
+      "height": 5111
+    },
+    "198": {
+      "width": 3647,
+      "height": 5111
+    },
+    "199": {
+      "width": 3647,
+      "height": 5111
+    },
+    "200": {
+      "width": 3647,
+      "height": 5111
+    },
+    "201": {
+      "width": 3647,
+      "height": 5111
+    },
+    "202": {
+      "width": 3647,
+      "height": 5111
+    },
+    "203": {
+      "width": 3647,
+      "height": 5111
+    },
+    "204": {
+      "width": 3647,
+      "height": 5111
+    },
+    "205": {
+      "width": 3647,
+      "height": 5111
+    },
+    "206": {
+      "width": 3647,
+      "height": 5111
+    },
+    "207": {
+      "width": 3647,
+      "height": 5111
+    },
+    "208": {
+      "width": 3647,
+      "height": 5111
+    },
+    "209": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "3f2755d7646453cd1d8981369406a66062322971a7cb98258e022ae9b9769999",
+    "importMethod": "600-DPI Tesseract PSM3/11 plus independent Apple Vision; source glyph reconciliation and Codex visual reading; Codex medical RU; native photo composites, original Real-ESRGAN weights exact 2x then rembg",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      79,
+      142,
+      192,
+      78,
+      141,
+      191,
+      210
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.columns.2.ru",
+      "specTables.0.columns.3.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.0.2.ru",
+      "specTables.0.rows.0.3.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.1.2.ru",
+      "specTables.0.rows.1.3.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.rows.2.2.ru",
+      "specTables.0.rows.2.3.ru",
+      "specTables.0.rows.3.0.ru",
+      "specTables.0.rows.3.2.ru",
+      "specTables.0.rows.3.3.ru",
+      "specTables.0.images.0.imageCaption.ru",
+      "specTables.0.keyParameters.0.parameter.ru",
+      "specTables.0.keyParameters.0.value.ru",
+      "specTables.0.keyParameters.1.parameter.ru",
+      "specTables.0.keyParameters.1.value.ru",
+      "catalogTitle.ru",
+      "availabilityNote.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Owner authorized automatic publication: exact source REF verification, Codex-authored RU/EN, complete image QA, zero open real flags",
+    "imageQA": "All source photos checked visually; native resolution corrected for rotations; Real-ESRGAN exact 2x, rembg, source-white aperture cleanup; originals retained."
+  },
+  "publishedAt": "2026-11-20T18:40:53.285059+00:00"
+}

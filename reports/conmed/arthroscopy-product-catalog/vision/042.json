@@ -1,0 +1,808 @@
+[
+  {
+    "alternatives" : [
+      "Graft Preparation"
+    ],
+    "bounds" : [
+      0.099796334573206788,
+      0.030505952667400194,
+      0.36048879836976666,
+      0.055307539968987518
+    ],
+    "confidence" : 1,
+    "text" : "Graft Preparation"
+  },
+  {
+    "alternatives" : [
+      "System"
+    ],
+    "bounds" : [
+      0.099579796530542442,
+      0.059084601265467662,
+      0.21202916663754326,
+      0.084810747433646583
+    ],
+    "confidence" : 1,
+    "text" : "System"
+  },
+  {
+    "alternatives" : [
+      "Graft Preparation Table, Scraping"
+    ],
+    "bounds" : [
+      0.099796339117902561,
+      0.24418604677143374,
+      0.31160895932065813,
+      0.25581395361616321
+    ],
+    "confidence" : 1,
+    "text" : "Graft Preparation Table, Scraping"
+  },
+  {
+    "alternatives" : [
+      "Board and Graft Sizing Block"
+    ],
+    "bounds" : [
+      0.099796334124574018,
+      0.25570436526688622,
+      0.28513238741310409,
+      0.2659883718624978
+    ],
+    "confidence" : 1,
+    "text" : "Board and Graft Sizing Block"
+  },
+  {
+    "alternatives" : [
+      "Slide Lock"
+    ],
+    "bounds" : [
+      0.097759676014172459,
+      0.40401785712135507,
+      0.16904276975975824,
+      0.41424418581598621
+    ],
+    "confidence" : 1,
+    "text" : "Slide Lock"
+  },
+  {
+    "alternatives" : [
+      "Soft Tissue Graft Clamp"
+    ],
+    "bounds" : [
+      0.21777526526430552,
+      0.4023641617200846,
+      0.3708519464730155,
+      0.414349184117353
+    ],
+    "confidence" : 1,
+    "text" : "Soft Tissue Graft Clamp"
+  },
+  {
+    "alternatives" : [
+      "Suture Holder Clamp"
+    ],
+    "bounds" : [
+      0.099796340542376932,
+      0.59738372108202742,
+      0.23421588389754144,
+      0.60763888896367524
+    ],
+    "confidence" : 1,
+    "text" : "Suture Holder Clamp"
+  },
+  {
+    "alternatives" : [
+      "Tension Clamp"
+    ],
+    "bounds" : [
+      0.26680244719823637,
+      0.59738372105174642,
+      0.36252545743516484,
+      0.60763888893339413
+    ],
+    "confidence" : 1,
+    "text" : "Tension Clamp"
+  },
+  {
+    "alternatives" : [
+      "Bone-Tendon-Bone"
+    ],
+    "bounds" : [
+      0.097759676693823072,
+      0.72093023256600741,
+      0.22403258652409949,
+      0.73255813941073689
+    ],
+    "confidence" : 1,
+    "text" : "Bone-Tendon-Bone"
+  },
+  {
+    "alternatives" : [
+      "Clamp"
+    ],
+    "bounds" : [
+      0.09775967434066006,
+      0.7325581393818672,
+      0.14256619056090139,
+      0.74563953481871426
+    ],
+    "confidence" : 1,
+    "text" : "Clamp"
+  },
+  {
+    "alternatives" : [
+      "Bone Block"
+    ],
+    "bounds" : [
+      0.28713748908780351,
+      0.72082253891334047,
+      0.36459367025984152,
+      0.73266583329165136
+    ],
+    "confidence" : 1,
+    "text" : "Bone Block"
+  },
+  {
+    "alternatives" : [
+      "Drill Guide"
+    ],
+    "bounds" : [
+      0.28920570464726297,
+      0.73255813942728876,
+      0.35845213735884696,
+      0.7456395348641357
+    ],
+    "confidence" : 1,
+    "text" : "Drill Guide"
+  },
+  {
+    "alternatives" : [
+      "2mm Twist Drill w\/Stop"
+    ],
+    "bounds" : [
+      0.097759678837861325,
+      0.8575581396543962,
+      0.24643584412547867,
+      0.87063953509124326
+    ],
+    "confidence" : 1,
+    "text" : "2mm Twist Drill w\/Stop"
+  },
+  {
+    "alternatives" : [
+      "40, KNEE ARTHROSCOPY PRODUCTS"
+    ],
+    "bounds" : [
+      0.038696538562795278,
+      0.9635416667282295,
+      0.22403259185132535,
+      0.97247023815680089
+    ],
+    "confidence" : 1,
+    "text" : "40, KNEE ARTHROSCOPY PRODUCTS"
+  },
+  {
+    "alternatives" : [
+      "CCONMED"
+    ],
+    "bounds" : [
+      0.53356765698949038,
+      0.046387832776482951,
+      0.72305149056775664,
+      0.075705190959965307
+    ],
+    "confidence" : 1,
+    "text" : "CCONMED"
+  },
+  {
+    "alternatives" : [
+      "XPmed"
+    ],
+    "bounds" : [
+      0.82880028930649219,
+      0.05486528025633286,
+      0.94920378601823385,
+      0.075948673050503013
+    ],
+    "confidence" : 1,
+    "text" : "XPmed"
+  },
+  {
+    "alternatives" : [
+      "Concept® GraFix® Graft Prepaption System"
+    ],
+    "bounds" : [
+      0.42566191097669215,
+      0.14384920633770482,
+      0.75967412955283964,
+      0.15699404760754609
+    ],
+    "confidence" : 1,
+    "text" : "Concept® GraFix® Graft Prepaption System"
+  },
+  {
+    "alternatives" : [
+      "This fully modular system plays a key role during ACL and PCL reconstructive"
+    ],
+    "bounds" : [
+      0.42769858413374223,
+      0.1626984126719655,
+      0.86761711281126741,
+      0.17441860453670577
+    ],
+    "confidence" : 1,
+    "text" : "This fully modular system plays a key role during ACL and PCL reconstructive"
+  },
+  {
+    "alternatives" : [
+      "surgeries to prepare soft tissue and bone-tendon-bone autografts or allografts."
+    ],
+    "bounds" : [
+      0.42769858650102305,
+      0.17584325373772858,
+      0.87169042663543284,
+      0.18898809500756975
+    ],
+    "confidence" : 1,
+    "text" : "surgeries to prepare soft tissue and bone-tendon-bone autografts or allografts."
+  },
+  {
+    "alternatives" : [
+      "The system allows the surgeon to interchange the various components to clean,"
+    ],
+    "bounds" : [
+      0.42769857577947179,
+      0.19040697681019336,
+      0.88187373700056881,
+      0.20213293660694753
+    ],
+    "confidence" : 1,
+    "text" : "The system allows the surgeon to interchange the various components to clean,"
+  },
+  {
+    "alternatives" : [
+      "whip stitch, measure, pre-tension, or add a fixation device."
+    ],
+    "bounds" : [
+      0.42769857920479787,
+      0.20337301575583622,
+      0.7617107977809453,
+      0.21656976746769674
+    ],
+    "confidence" : 1,
+    "text" : "whip stitch, measure, pre-tension, or add a fixation device."
+  },
+  {
+    "alternatives" : [
+      "The sizing block, sold separately, can accommodate grafts from 3.0mm to 13mm,"
+    ],
+    "bounds" : [
+      0.42769858838029556,
+      0.22238372090439618,
+      0.89409368397204625,
+      0.23546511634124323
+    ],
+    "confidence" : 1,
+    "text" : "The sizing block, sold separately, can accommodate grafts from 3.0mm to 13mm,"
+  },
+  {
+    "alternatives" : [
+      "in 0.5mm increments."
+    ],
+    "bounds" : [
+      0.4276985766509957,
+      0.23685515854536021,
+      0.55804480854927563,
+      0.24709302310401915
+    ],
+    "confidence" : 1,
+    "text" : "in 0.5mm increments."
+  },
+  {
+    "alternatives" : [
+      "The universal slide locks allow for any of the graft preparation table components to"
+    ],
+    "bounds" : [
+      0.42769858418002105,
+      0.25570436513870543,
+      0.89002036831488718,
+      0.26744186032643458
+    ],
+    "confidence" : 1,
+    "text" : "The universal slide locks allow for any of the graft preparation table components to"
+  },
+  {
+    "alternatives" : [
+      "be changed intraoperatively, easily and quickly. The slide locks are also fully adjustable"
+    ],
+    "bounds" : [
+      0.42362526653644594,
+      0.26884920635487275,
+      0.89816698504196579,
+      0.28348214286280926
+    ],
+    "confidence" : 1,
+    "text" : "be changed intraoperatively, easily and quickly. The slide locks are also fully adjustable"
+  },
+  {
+    "alternatives" : [
+      "via the spring loaded locking button, tor one handed adjustments."
+    ],
+    "bounds" : [
+      0.42362525741774643,
+      0.28343023255773925,
+      0.78411404290811937,
+      0.29662698426959988
+    ],
+    "confidence" : 1,
+    "text" : "via the spring loaded locking button, tor one handed adjustments."
+  },
+  {
+    "alternatives" : [
+      "The Tension Clamp is etched in both Pounds (30 Ibs. max) and Newtons"
+    ],
+    "bounds" : [
+      0.42769858570752323,
+      0.30232558160670497,
+      0.83706719356946258,
+      0.3139880950974121
+    ],
+    "confidence" : 1,
+    "text" : "The Tension Clamp is etched in both Pounds (30 Ibs. max) and Newtons"
+  },
+  {
+    "alternatives" : [
+      "(120 N max) tor quick reterencing during pre-tensioning ot the gratt tor"
+    ],
+    "bounds" : [
+      0.42362527036909664,
+      0.31686046509507704,
+      0.83095722250259363,
+      0.32848837193980662
+    ],
+    "confidence" : 1,
+    "text" : "(120 N max) tor quick reterencing during pre-tensioning ot the gratt tor"
+  },
+  {
+    "alternatives" : [
+      "those surgeons who feel it is necessary for satisfactory post-op results."
+    ],
+    "bounds" : [
+      0.42566193024689702,
+      0.32558139507027284,
+      0.83299388238039418,
+      0.34156976769135494
+    ],
+    "confidence" : 1,
+    "text" : "those surgeons who feel it is necessary for satisfactory post-op results."
+  },
+  {
+    "alternatives" : [
+      "The Graft Clamps are designed to act as an extra set of hands and incorporate"
+    ],
+    "bounds" : [
+      0.42566192202221725,
+      0.34738372129079642,
+      0.87372707361351165,
+      0.36191860437365553
+    ],
+    "confidence" : 1,
+    "text" : "The Graft Clamps are designed to act as an extra set of hands and incorporate"
+  },
+  {
+    "alternatives" : [
+      "atraumatic teeth to prevent damage to the graft."
+    ],
+    "bounds" : [
+      0.42566192321226975,
+      0.36036706350073189,
+      0.70264765405860585,
+      0.3750000000086684
+    ],
+    "confidence" : 1,
+    "text" : "atraumatic teeth to prevent damage to the graft."
+  },
+  {
+    "alternatives" : [
+      "Graft Preparation Table ....."
+    ],
+    "bounds" : [
+      0.42566191897884365,
+      0.41269841259586793,
+      0.56415478440201172,
+      0.42587209305272578
+    ],
+    "confidence" : 1,
+    "text" : "Graft Preparation Table ....."
+  },
+  {
+    "alternatives" : [
+      "Slide Lock (2 Recommended)"
+    ],
+    "bounds" : [
+      0.42566191982253049,
+      0.43168604651949571,
+      0.58044806290659368,
+      0.44331395336422519
+    ],
+    "confidence" : 1,
+    "text" : "Slide Lock (2 Recommended)"
+  },
+  {
+    "alternatives" : [
+      "Soft Tissue Graft Clamp...."
+    ],
+    "bounds" : [
+      0.42566191611965365,
+      0.44912790691457061,
+      0.56619144788238296,
+      0.46230158737142846
+    ],
+    "confidence" : 1,
+    "text" : "Soft Tissue Graft Clamp...."
+  },
+  {
+    "alternatives" : [
+      "Suture Holder Clamp ......"
+    ],
+    "bounds" : [
+      0.4276985766509957,
+      0.46800595216970675,
+      0.55804480854927563,
+      0.47819767421836024
+    ],
+    "confidence" : 1,
+    "text" : "Suture Holder Clamp ......"
+  },
+  {
+    "alternatives" : [
+      "Tension Clamp..."
+    ],
+    "bounds" : [
+      0.42566191758935973,
+      0.48536706347883996,
+      0.51323828899584056,
+      0.49563953468347655
+    ],
+    "confidence" : 1,
+    "text" : "Tension Clamp..."
+  },
+  {
+    "alternatives" : [
+      "Bone-Tendon-Bone Clamp"
+    ],
+    "bounds" : [
+      0.42362525272861501,
+      0.50290697675468699,
+      0.56415478449134426,
+      0.51598837219153404
+    ],
+    "confidence" : 1,
+    "text" : "Bone-Tendon-Bone Clamp"
+  },
+  {
+    "alternatives" : [
+      "Bone Block Drill Guide"
+    ],
+    "bounds" : [
+      0.42362525550786562,
+      0.52033730135577549,
+      0.54582484327013847,
+      0.53348214262561677
+    ],
+    "confidence" : 1,
+    "text" : "Bone Block Drill Guide"
+  },
+  {
+    "alternatives" : [
+      "Scraping Board..."
+    ],
+    "bounds" : [
+      0.42560010369790974,
+      0.53902040645328031,
+      0.51737342201382164,
+      0.55254936086837458
+    ],
+    "confidence" : 1,
+    "text" : "Scraping Board..."
+  },
+  {
+    "alternatives" : [
+      "Surgical Instrument Tray..."
+    ],
+    "bounds" : [
+      0.4256619193250758,
+      0.55668604644945452,
+      0.56415478474824388,
+      0.56976744188630146
+    ],
+    "confidence" : 1,
+    "text" : "Surgical Instrument Tray..."
+  },
+  {
+    "alternatives" : [
+      "Graft Sizing Block, Grafix."
+    ],
+    "bounds" : [
+      0.42566192043036072,
+      0.57412790687823345,
+      0.56008146378552526,
+      0.5873015873350913
+    ],
+    "confidence" : 1,
+    "text" : "Graft Sizing Block, Grafix."
+  },
+  {
+    "alternatives" : [
+      "XD Button® Holder ..."
+    ],
+    "bounds" : [
+      0.42362525657315048,
+      0.59151785697400494,
+      0.53360488874253176,
+      0.60466269824384622
+    ],
+    "confidence" : 1,
+    "text" : "XD Button® Holder ..."
+  },
+  {
+    "alternatives" : [
+      "2mm Twist Drill w\/Stop."
+    ],
+    "bounds" : [
+      0.42362525461643002,
+      0.60901162831322153,
+      0.54989816444670647,
+      0.62354651139608064
+    ],
+    "confidence" : 1,
+    "text" : "2mm Twist Drill w\/Stop."
+  },
+  {
+    "alternatives" : [
+      "Cat. No."
+    ],
+    "bounds" : [
+      0.84928716919704683,
+      0.39236111091186732,
+      0.89613034645128997,
+      0.40848214265789906
+    ],
+    "confidence" : 1,
+    "text" : "Cat. No."
+  },
+  {
+    "alternatives" : [
+      "PS8820"
+    ],
+    "bounds" : [
+      0.84928716873775145,
+      0.41133720954868669,
+      0.89816700702599628,
+      0.4258720926315458
+    ],
+    "confidence" : 1,
+    "text" : "PS8820"
+  },
+  {
+    "alternatives" : [
+      "PS8821"
+    ],
+    "bounds" : [
+      0.84928716959589268,
+      0.43168604650496079,
+      0.89613034685013582,
+      0.44331395334969037
+    ],
+    "confidence" : 1,
+    "text" : "PS8821"
+  },
+  {
+    "alternatives" : [
+      "PS8822"
+    ],
+    "bounds" : [
+      0.84928716867575893,
+      0.44912790710504391,
+      0.89613034593000196,
+      0.46075581394977339
+    ],
+    "confidence" : 1,
+    "text" : "PS8822"
+  },
+  {
+    "alternatives" : [
+      "PS8823"
+    ],
+    "bounds" : [
+      0.84905594775971471,
+      0.46607788816355356,
+      0.89636156818929358,
+      0.47868955358650789
+    ],
+    "confidence" : 1,
+    "text" : "PS8823"
+  },
+  {
+    "alternatives" : [
+      "PS8824"
+    ],
+    "bounds" : [
+      0.84928716940071269,
+      0.48401162780240981,
+      0.89613034665495572,
+      0.49709302323925675
+    ],
+    "confidence" : 1,
+    "text" : "PS8824"
+  },
+  {
+    "alternatives" : [
+      "PS8826"
+    ],
+    "bounds" : [
+      0.8491789810299738,
+      0.50268160780481619,
+      0.89623853491646166,
+      0.51476025254218094
+    ],
+    "confidence" : 1,
+    "text" : "PS8826"
+  },
+  {
+    "alternatives" : [
+      "PS8829"
+    ],
+    "bounds" : [
+      0.84928716883214528,
+      0.52034883732881487,
+      0.89613034608638842,
+      0.53343023276566182
+    ],
+    "confidence" : 1,
+    "text" : "PS8829"
+  },
+  {
+    "alternatives" : [
+      "PS8830"
+    ],
+    "bounds" : [
+      0.84928716934494708,
+      0.53779069755773923,
+      0.89613034659919022,
+      0.55087209299458628
+    ],
+    "confidence" : 1,
+    "text" : "PS8830"
+  },
+  {
+    "alternatives" : [
+      "PS8831"
+    ],
+    "bounds" : [
+      0.84928716940071269,
+      0.5566860465049609,
+      0.89613034665495572,
+      0.56831395334969026
+    ],
+    "confidence" : 1,
+    "text" : "PS8831"
+  },
+  {
+    "alternatives" : [
+      "PS8832"
+    ],
+    "bounds" : [
+      0.84928716867575893,
+      0.57412790698464955,
+      0.89613034593000196,
+      0.5872093024214966
+    ],
+    "confidence" : 1,
+    "text" : "PS8832"
+  },
+  {
+    "alternatives" : [
+      ". PS8834"
+    ],
+    "bounds" : [
+      0.84725050806565361,
+      0.59151785702851079,
+      0.89613034635389843,
+      0.60466269829835206
+    ],
+    "confidence" : 1,
+    "text" : ". PS8834"
+  },
+  {
+    "alternatives" : [
+      ".8733"
+    ],
+    "bounds" : [
+      0.8615071283926794,
+      0.60755813970857053,
+      0.89816700578247322,
+      0.62209302279142964
+    ],
+    "confidence" : 1,
+    "text" : ".8733"
+  },
+  {
+    "alternatives" : [
+      "Graft Sizing Rings"
+    ],
+    "bounds" : [
+      0.42355203036094558,
+      0.6930322852502464,
+      0.53164145085463255,
+      0.70813050507635433
+    ],
+    "confidence" : 1,
+    "text" : "Graft Sizing Rings"
+  },
+  {
+    "alternatives" : [
+      "Graft Sizing Ring, Large..."
+    ],
+    "bounds" : [
+      0.42362525393573286,
+      0.71220930233608237,
+      0.56008146363045863,
+      0.72529069777292932
+    ],
+    "confidence" : 1,
+    "text" : "Graft Sizing Ring, Large..."
+  },
+  {
+    "alternatives" : [
+      "Graft Sizing Ring, Small"
+    ],
+    "bounds" : [
+      0.4256619173353709,
+      0.72965116269218699,
+      0.55193482716564735,
+      0.74280753982605596
+    ],
+    "confidence" : 1,
+    "text" : "Graft Sizing Ring, Small"
+  },
+  {
+    "alternatives" : [
+      "...GFT-LG"
+    ],
+    "bounds" : [
+      0.84312566838499836,
+      0.71208892365166143,
+      0.89618186801189437,
+      0.72395758784822073
+    ],
+    "confidence" : 1,
+    "text" : "...GFT-LG"
+  },
+  {
+    "alternatives" : [
+      "GFT-SM"
+    ],
+    "bounds" : [
+      0.84919831441592075,
+      0.73092013996567751,
+      0.89621920138492339,
+      0.74291706957337167
+    ],
+    "confidence" : 1,
+    "text" : "GFT-SM"
+  },
+  {
+    "alternatives" : [
+      "Customer Service: (within U.S.) Phone: 800.237.0169 Fax 727.399.5256 Customer Service: (outside U.S.) Phone: 727.392.6464 Fax: 727.397.4540"
+    ],
+    "bounds" : [
+      0.45417516004955927,
+      0.96354166670400443,
+      0.95519348791378056,
+      0.97247023813257583
+    ],
+    "confidence" : 1,
+    "text" : "Customer Service: (within U.S.) Phone: 800.237.0169 Fax 727.399.5256 Customer Service: (outside U.S.) Phone: 727.392.6464 Fax: 727.397.4540"
+  }
+]

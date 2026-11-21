@@ -1,0 +1,1335 @@
+{
+  "slug": "post",
+  "brand": "double-medical",
+  "category": "trauma-implants",
+  "subcategory": "trauma-external-fixation",
+  "subcategories": [
+    "trauma-external-fixation"
+  ],
+  "specialty": [
+    "traumatology",
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Опорная стойка",
+    "en": "Post"
+  },
+  "shortDescription": {
+    "ru": "Импланты для остеосинтеза",
+    "en": "Implants for fracture fixation"
+  },
+  "description": {
+    "ru": "Опорная стойка. Характеристики и каталожные номера приведены по Trauma Catalogue Double Medical.",
+    "en": "Post. Specifications and reference numbers are listed according to the Double Medical Trauma Catalogue."
+  },
+  "heroImage": "/images/products/double-medical/post/page-536-art-01.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "width": 338,
+      "height": 123,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          141,
+          50
+        ],
+        "enhancedSize": [
+          282,
+          100
+        ]
+      },
+      "src": "/images/products/double-medical/post/page-536-art-01.webp",
+      "imageCaption": {
+        "ru": "Опорная стойка",
+        "en": "Post"
+      },
+      "sourcePages": [
+        536
+      ]
+    },
+    {
+      "width": 328,
+      "height": 175,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          143,
+          62
+        ],
+        "enhancedSize": [
+          286,
+          124
+        ]
+      },
+      "src": "/images/products/double-medical/post/page-536-art-02.webp",
+      "imageCaption": {
+        "ru": "Опорная стойка",
+        "en": "Post"
+      },
+      "sourcePages": [
+        536
+      ]
+    },
+    {
+      "width": 282,
+      "height": 113,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          112,
+          39
+        ],
+        "enhancedSize": [
+          224,
+          78
+        ]
+      },
+      "src": "/images/products/double-medical/post/page-537-art-03.webp",
+      "imageCaption": {
+        "ru": "Опорная стойка",
+        "en": "Post"
+      },
+      "sourcePages": [
+        537
+      ]
+    },
+    {
+      "width": 283,
+      "height": 156,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          118,
+          50
+        ],
+        "enhancedSize": [
+          236,
+          100
+        ]
+      },
+      "src": "/images/products/double-medical/post/page-537-art-04.webp",
+      "imageCaption": {
+        "ru": "Опорная стойка",
+        "en": "Post"
+      },
+      "sourcePages": [
+        537
+      ]
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [
+    {
+      "id": "trauma-p536-1",
+      "groupId": "trauma-p536-1",
+      "title": {
+        "ru": "Опорная стойка",
+        "en": "Post"
+      },
+      "unit": "mm",
+      "sourcePage": 536,
+      "sourcePages": [
+        536
+      ],
+      "printedPage": "9/8",
+      "hideDescriptionColumn": true,
+      "columns": [
+        {
+          "ru": "Позиция",
+          "en": "Item"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Угол (°)",
+          "en": "Angles (°)"
+        },
+        {
+          "ru": "Диаметр",
+          "en": "Diameter"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Опорная стойка · Угол (°): 0, Диаметр: 5",
+            "en": "Post · Angles (°): 0, Diameter: 5"
+          },
+          "100530100",
+          {
+            "ru": "0",
+            "en": "0"
+          },
+          {
+            "ru": "5",
+            "en": "5"
+          }
+        ],
+        [
+          {
+            "ru": "Опорная стойка · Угол (°): 30, Диаметр: 5",
+            "en": "Post · Angles (°): 30, Diameter: 5"
+          },
+          "100530200",
+          {
+            "ru": "30",
+            "en": "30"
+          },
+          {
+            "ru": "5",
+            "en": "5"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 536,
+          "printedPage": "9/8",
+          "sourceBounds": [
+            0.08,
+            0.23785306202308745,
+            0.55,
+            0.253831539816083
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p536-1",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 536,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "100530100"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "100530100"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "100530100"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "100530100",
+                "PSM11": "100530100",
+                "Vision": "100530100"
+              },
+              "value": "100530100",
+              "bounds": [
+                0.11543734576364136,
+                0.24085306202308746,
+                0.2020839045791061,
+                0.25083153981608297
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "100530100"
+            },
+            {
+              "readings": {
+                "PSM3": "0",
+                "PSM11": "0",
+                "Vision": ""
+              },
+              "value": "0",
+              "glyphReading": {
+                "text": "0",
+                "scores": [
+                  {
+                    "character": "0",
+                    "distance": 0.0054738562091503256,
+                    "margin": 0.15383995098039216
+                  }
+                ],
+                "sourceRect": [
+                  105.16680145263672,
+                  146.86700439453125,
+                  108.78800201416016,
+                  152.9110107421875
+                ]
+              },
+              "verifiedValue": "0"
+            },
+            {
+              "readings": {
+                "PSM3": "=, 5",
+                "PSM11": "5",
+                "Vision": "5"
+              },
+              "value": "=, 5",
+              "glyphReading": {
+                "text": "5",
+                "scores": [
+                  {
+                    "character": "5",
+                    "distance": 0.004059436274509803,
+                    "margin": 0.18550227174203013
+                  }
+                ],
+                "sourceRect": [
+                  157.1320037841797,
+                  147.82400512695312,
+                  160.81399536132812,
+                  153.76199340820312
+                ]
+              },
+              "verifiedValue": "5"
+            }
+          ]
+        },
+        {
+          "pdfPage": 536,
+          "printedPage": "9/8",
+          "sourceBounds": [
+            0.08,
+            0.25252729407161023,
+            0.55,
+            0.2685057718646058
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p536-1",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 536,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "100530200"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "100530200"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "100530200"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "100530200",
+                "PSM11": "100530200",
+                "Vision": "100530200"
+              },
+              "value": "100530200",
+              "bounds": [
+                0.11543734576364136,
+                0.25552729407161023,
+                0.2020839045791061,
+                0.2655057718646058
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "100530200"
+            },
+            {
+              "readings": {
+                "PSM3": "30",
+                "PSM11": "30",
+                "Vision": "30"
+              },
+              "value": "30",
+              "glyphReading": {
+                "text": "30",
+                "scores": [
+                  {
+                    "character": "3",
+                    "distance": 0.0,
+                    "margin": 0.12766033496732024
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.0,
+                    "margin": 0.1541233455882353
+                  }
+                ],
+                "sourceRect": [
+                  105.1709976196289,
+                  155.88699340820312,
+                  113.10199737548828,
+                  161.93499755859375
+                ]
+              },
+              "verifiedValue": "30"
+            },
+            {
+              "readings": {
+                "PSM3": "5",
+                "PSM11": "fs)",
+                "Vision": "5"
+              },
+              "value": "5",
+              "glyphReading": {
+                "text": "5",
+                "scores": [
+                  {
+                    "character": "5",
+                    "distance": 0.002706290849673202,
+                    "margin": 0.18550227174203018
+                  }
+                ],
+                "sourceRect": [
+                  157.1320037841797,
+                  156.843994140625,
+                  160.81399536132812,
+                  162.78201293945312
+                ]
+              },
+              "verifiedValue": "5"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "width": 338,
+          "height": 123,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              141,
+              50
+            ],
+            "enhancedSize": [
+              282,
+              100
+            ]
+          },
+          "src": "/images/products/double-medical/post/page-536-art-01.webp",
+          "imageCaption": {
+            "ru": "Опорная стойка",
+            "en": "Post"
+          },
+          "sourcePages": [
+            536
+          ]
+        },
+        {
+          "width": 328,
+          "height": 175,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              143,
+              62
+            ],
+            "enhancedSize": [
+              286,
+              124
+            ]
+          },
+          "src": "/images/products/double-medical/post/page-536-art-02.webp",
+          "imageCaption": {
+            "ru": "Опорная стойка",
+            "en": "Post"
+          },
+          "sourcePages": [
+            536
+          ]
+        }
+      ],
+      "keyParameters": []
+    },
+    {
+      "id": "trauma-p537-3",
+      "groupId": "trauma-p537-3",
+      "title": {
+        "ru": "Опорная стойка",
+        "en": "Post"
+      },
+      "unit": "mm",
+      "sourcePage": 537,
+      "sourcePages": [
+        537
+      ],
+      "printedPage": "9/9",
+      "hideDescriptionColumn": true,
+      "columns": [
+        {
+          "ru": "Позиция",
+          "en": "Item"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Угол (°)",
+          "en": "Angles (°)"
+        },
+        {
+          "ru": "Диаметр",
+          "en": "Diameter"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Опорная стойка · Угол (°): 0, Диаметр: 8",
+            "en": "Post · Angles (°): 0, Diameter: 8"
+          },
+          "100540100",
+          {
+            "ru": "0",
+            "en": "0"
+          },
+          {
+            "ru": "8",
+            "en": "8"
+          }
+        ],
+        [
+          {
+            "ru": "Опорная стойка · Угол (°): 30, Диаметр: 8",
+            "en": "Post · Angles (°): 30, Diameter: 8"
+          },
+          "100540200",
+          {
+            "ru": "30",
+            "en": "30"
+          },
+          {
+            "ru": "8",
+            "en": "8"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 537,
+          "printedPage": "9/9",
+          "sourceBounds": [
+            0.08,
+            0.690602034826844,
+            0.55,
+            0.7065805126198396
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p537-3",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 537,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "100540100"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "100540100"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "100540100"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "100540100",
+                "PSM11": "100540100",
+                "Vision": "100540100"
+              },
+              "value": "100540100",
+              "bounds": [
+                0.13408280778722237,
+                0.693602034826844,
+                0.22072936660268713,
+                0.7035805126198396
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "100540100"
+            },
+            {
+              "readings": {
+                "PSM3": "0",
+                "PSM11": "0",
+                "Vision": ""
+              },
+              "value": "0",
+              "glyphReading": {
+                "text": "0",
+                "scores": [
+                  {
+                    "character": "0",
+                    "distance": 0.013357843137254901,
+                    "margin": 0.14726051879084967
+                  }
+                ],
+                "sourceRect": [
+                  113.3550033569336,
+                  424.6260070800781,
+                  116.97699737548828,
+                  430.66998291015625
+                ]
+              },
+              "verifiedValue": "0"
+            },
+            {
+              "readings": {
+                "PSM3": "8",
+                "PSM11": "",
+                "Vision": "8"
+              },
+              "value": "8",
+              "glyphReading": {
+                "text": "8",
+                "scores": [
+                  {
+                    "character": "8",
+                    "distance": 0.011956188725490195,
+                    "margin": 0.10522875816993466
+                  }
+                ],
+                "sourceRect": [
+                  165.31300354003906,
+                  425.4779968261719,
+                  168.9720001220703,
+                  431.5220031738281
+                ]
+              },
+              "verifiedValue": "8"
+            }
+          ]
+        },
+        {
+          "pdfPage": 537,
+          "printedPage": "9/9",
+          "sourceBounds": [
+            0.08,
+            0.7054719233026805,
+            0.55,
+            0.7212547446683624
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p537-3",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 537,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "100540200"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "100540200"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "100540200"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "100540200",
+                "PSM11": "100540200",
+                "Vision": "100540200"
+              },
+              "value": "100540200",
+              "bounds": [
+                0.13408280778722237,
+                0.7084719233026805,
+                0.22072936660268713,
+                0.7182547446683624
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "100540200"
+            },
+            {
+              "readings": {
+                "PSM3": "30",
+                "PSM11": "30",
+                "Vision": "30"
+              },
+              "value": "30",
+              "glyphReading": {
+                "text": "30",
+                "scores": [
+                  {
+                    "character": "3",
+                    "distance": 0.0,
+                    "margin": 0.11534160539215688
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.0,
+                    "margin": 0.1545701388888889
+                  }
+                ],
+                "sourceRect": [
+                  113.36000061035156,
+                  433.6470031738281,
+                  121.29000091552734,
+                  439.69500732421875
+                ]
+              },
+              "verifiedValue": "30"
+            },
+            {
+              "readings": {
+                "PSM3": "8",
+                "PSM11": "8",
+                "Vision": "8"
+              },
+              "value": "8",
+              "glyphReading": {
+                "text": "8",
+                "scores": [
+                  {
+                    "character": "8",
+                    "distance": 0.0,
+                    "margin": 0.11396037581699348
+                  }
+                ],
+                "sourceRect": [
+                  165.31300354003906,
+                  434.49798583984375,
+                  168.9720001220703,
+                  440.5419921875
+                ]
+              },
+              "verifiedValue": "8"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "width": 282,
+          "height": 113,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              112,
+              39
+            ],
+            "enhancedSize": [
+              224,
+              78
+            ]
+          },
+          "src": "/images/products/double-medical/post/page-537-art-03.webp",
+          "imageCaption": {
+            "ru": "Опорная стойка",
+            "en": "Post"
+          },
+          "sourcePages": [
+            537
+          ]
+        },
+        {
+          "width": 283,
+          "height": 156,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              118,
+              50
+            ],
+            "enhancedSize": [
+              236,
+              100
+            ]
+          },
+          "src": "/images/products/double-medical/post/page-537-art-04.webp",
+          "imageCaption": {
+            "ru": "Опорная стойка",
+            "en": "Post"
+          },
+          "sourcePages": [
+            537
+          ]
+        }
+      ],
+      "keyParameters": []
+    }
+  ],
+  "refCodes": [
+    "100530100",
+    "100530200",
+    "100540100",
+    "100540200"
+  ],
+  "sourcePages": [
+    536,
+    537
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Trauma Catalogue — каталог продукции",
+    "en": "Double Medical Trauma Catalogue — product catalog"
+  },
+  "documentCover": "/catalogs/double-medical/trauma-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "catalogType": "list",
+  "importPartition": "trauma-part3",
+  "availabilityNote": {
+    "ru": "Изображения приведены для справки",
+    "en": "Images for reference only"
+  },
+  "imageDimensions": {
+    "/images/products/double-medical/post/page-536-art-01.webp": {
+      "width": 338,
+      "height": 123
+    },
+    "/images/products/double-medical/post/page-536-art-02.webp": {
+      "width": 328,
+      "height": 175
+    },
+    "/images/products/double-medical/post/page-537-art-03.webp": {
+      "width": 282,
+      "height": 113
+    },
+    "/images/products/double-medical/post/page-537-art-04.webp": {
+      "width": 283,
+      "height": 156
+    }
+  },
+  "relatedSystemSlugs": [
+    "small-external-fixation-modular-rod-system-instrument-set",
+    "large-external-fixation-modular-rod-instrument-set"
+  ],
+  "sourcePdf": "/catalogs/double-medical/trauma-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/trauma-catalogue/pages/536.webp",
+    "/catalogs/double-medical/trauma-catalogue/pages/537.webp"
+  ],
+  "sourcePageDimensions": {
+    "530": {
+      "width": 3647,
+      "height": 5111
+    },
+    "531": {
+      "width": 3647,
+      "height": 5111
+    },
+    "532": {
+      "width": 3647,
+      "height": 5111
+    },
+    "533": {
+      "width": 3647,
+      "height": 5111
+    },
+    "534": {
+      "width": 3647,
+      "height": 5111
+    },
+    "535": {
+      "width": 3647,
+      "height": 5111
+    },
+    "536": {
+      "width": 3647,
+      "height": 5111
+    },
+    "537": {
+      "width": 3647,
+      "height": 5111
+    },
+    "538": {
+      "width": 3647,
+      "height": 5111
+    },
+    "539": {
+      "width": 3647,
+      "height": 5111
+    },
+    "540": {
+      "width": 3647,
+      "height": 5111
+    },
+    "541": {
+      "width": 3647,
+      "height": 5111
+    },
+    "542": {
+      "width": 3647,
+      "height": 5111
+    },
+    "543": {
+      "width": 3647,
+      "height": 5111
+    },
+    "544": {
+      "width": 3647,
+      "height": 5111
+    },
+    "545": {
+      "width": 3647,
+      "height": 5111
+    },
+    "546": {
+      "width": 3647,
+      "height": 5111
+    },
+    "547": {
+      "width": 3647,
+      "height": 5111
+    },
+    "548": {
+      "width": 3647,
+      "height": 5111
+    },
+    "549": {
+      "width": 3647,
+      "height": 5111
+    },
+    "550": {
+      "width": 3647,
+      "height": 5111
+    },
+    "551": {
+      "width": 3647,
+      "height": 5111
+    },
+    "552": {
+      "width": 3647,
+      "height": 5111
+    },
+    "553": {
+      "width": 3647,
+      "height": 5111
+    },
+    "554": {
+      "width": 3647,
+      "height": 5111
+    },
+    "555": {
+      "width": 3647,
+      "height": 5111
+    },
+    "556": {
+      "width": 3647,
+      "height": 5111
+    },
+    "557": {
+      "width": 3647,
+      "height": 5111
+    },
+    "558": {
+      "width": 3647,
+      "height": 5111
+    },
+    "559": {
+      "width": 3647,
+      "height": 5111
+    },
+    "560": {
+      "width": 3647,
+      "height": 5111
+    },
+    "561": {
+      "width": 3647,
+      "height": 5111
+    },
+    "562": {
+      "width": 3647,
+      "height": 5111
+    },
+    "563": {
+      "width": 3647,
+      "height": 5111
+    },
+    "564": {
+      "width": 3647,
+      "height": 5111
+    },
+    "565": {
+      "width": 3647,
+      "height": 5111
+    },
+    "566": {
+      "width": 3647,
+      "height": 5111
+    },
+    "567": {
+      "width": 3647,
+      "height": 5111
+    },
+    "568": {
+      "width": 3647,
+      "height": 5111
+    },
+    "569": {
+      "width": 3647,
+      "height": 5111
+    },
+    "570": {
+      "width": 3647,
+      "height": 5111
+    },
+    "571": {
+      "width": 3647,
+      "height": 5111
+    },
+    "572": {
+      "width": 3647,
+      "height": 5111
+    },
+    "573": {
+      "width": 3647,
+      "height": 5111
+    },
+    "574": {
+      "width": 3647,
+      "height": 5111
+    },
+    "575": {
+      "width": 3647,
+      "height": 5111
+    },
+    "576": {
+      "width": 3647,
+      "height": 5111
+    },
+    "577": {
+      "width": 3647,
+      "height": 5111
+    },
+    "578": {
+      "width": 3647,
+      "height": 5111
+    },
+    "582": {
+      "width": 3647,
+      "height": 5111
+    },
+    "583": {
+      "width": 3647,
+      "height": 5111
+    },
+    "584": {
+      "width": 3647,
+      "height": 5111
+    },
+    "585": {
+      "width": 3647,
+      "height": 5111
+    },
+    "586": {
+      "width": 3647,
+      "height": 5111
+    },
+    "587": {
+      "width": 3647,
+      "height": 5111
+    },
+    "588": {
+      "width": 3647,
+      "height": 5111
+    },
+    "589": {
+      "width": 3647,
+      "height": 5111
+    },
+    "590": {
+      "width": 3647,
+      "height": 5111
+    },
+    "591": {
+      "width": 3647,
+      "height": 5111
+    },
+    "592": {
+      "width": 3647,
+      "height": 5111
+    },
+    "593": {
+      "width": 3647,
+      "height": 5111
+    },
+    "594": {
+      "width": 3647,
+      "height": 5111
+    },
+    "595": {
+      "width": 3647,
+      "height": 5111
+    },
+    "596": {
+      "width": 3647,
+      "height": 5111
+    },
+    "597": {
+      "width": 3647,
+      "height": 5111
+    },
+    "598": {
+      "width": 3647,
+      "height": 5111
+    },
+    "599": {
+      "width": 3647,
+      "height": 5111
+    },
+    "600": {
+      "width": 3647,
+      "height": 5111
+    },
+    "601": {
+      "width": 3647,
+      "height": 5111
+    },
+    "602": {
+      "width": 3647,
+      "height": 5111
+    },
+    "603": {
+      "width": 3647,
+      "height": 5111
+    },
+    "604": {
+      "width": 3647,
+      "height": 5111
+    },
+    "605": {
+      "width": 3647,
+      "height": 5111
+    },
+    "606": {
+      "width": 3647,
+      "height": 5111
+    },
+    "607": {
+      "width": 3647,
+      "height": 5111
+    },
+    "608": {
+      "width": 3647,
+      "height": 5111
+    },
+    "612": {
+      "width": 3647,
+      "height": 5111
+    },
+    "613": {
+      "width": 3647,
+      "height": 5111
+    },
+    "614": {
+      "width": 3647,
+      "height": 5111
+    },
+    "615": {
+      "width": 3647,
+      "height": 5111
+    },
+    "616": {
+      "width": 3647,
+      "height": 5111
+    },
+    "617": {
+      "width": 3647,
+      "height": 5111
+    },
+    "620": {
+      "width": 3647,
+      "height": 5111
+    },
+    "621": {
+      "width": 3647,
+      "height": 5111
+    },
+    "622": {
+      "width": 3647,
+      "height": 5111
+    },
+    "623": {
+      "width": 3647,
+      "height": 5111
+    },
+    "624": {
+      "width": 3647,
+      "height": 5111
+    },
+    "625": {
+      "width": 3647,
+      "height": 5111
+    },
+    "626": {
+      "width": 3647,
+      "height": 5111
+    },
+    "627": {
+      "width": 3647,
+      "height": 5111
+    },
+    "628": {
+      "width": 3647,
+      "height": 5111
+    },
+    "632": {
+      "width": 3647,
+      "height": 5111
+    },
+    "633": {
+      "width": 3647,
+      "height": 5111
+    },
+    "634": {
+      "width": 3647,
+      "height": 5111
+    },
+    "635": {
+      "width": 3647,
+      "height": 5111
+    },
+    "636": {
+      "width": 3647,
+      "height": 5111
+    },
+    "637": {
+      "width": 3647,
+      "height": 5111
+    },
+    "638": {
+      "width": 3647,
+      "height": 5111
+    },
+    "639": {
+      "width": 3647,
+      "height": 5111
+    },
+    "640": {
+      "width": 3647,
+      "height": 5111
+    },
+    "641": {
+      "width": 3647,
+      "height": 5111
+    },
+    "642": {
+      "width": 3647,
+      "height": 5111
+    },
+    "643": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "3f2755d7646453cd1d8981369406a66062322971a7cb98258e022ae9b9769999",
+    "importMethod": "600-DPI Tesseract PSM3/11 plus independent Apple Vision; source glyph reconciliation and Codex visual reading; Codex medical RU; native photo composites, original Real-ESRGAN weights exact 2x then rembg",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      528,
+      529,
+      579,
+      580,
+      581,
+      609,
+      610,
+      611,
+      618,
+      619,
+      629,
+      630,
+      631,
+      644
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "gallery.1.imageCaption.ru",
+      "gallery.2.imageCaption.ru",
+      "gallery.3.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.columns.2.ru",
+      "specTables.0.columns.3.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.0.2.ru",
+      "specTables.0.rows.0.3.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.1.2.ru",
+      "specTables.0.rows.1.3.ru",
+      "specTables.0.images.0.imageCaption.ru",
+      "specTables.0.images.1.imageCaption.ru",
+      "specTables.1.title.ru",
+      "specTables.1.columns.0.ru",
+      "specTables.1.columns.1.ru",
+      "specTables.1.columns.2.ru",
+      "specTables.1.columns.3.ru",
+      "specTables.1.rows.0.0.ru",
+      "specTables.1.rows.0.2.ru",
+      "specTables.1.rows.0.3.ru",
+      "specTables.1.rows.1.0.ru",
+      "specTables.1.rows.1.2.ru",
+      "specTables.1.rows.1.3.ru",
+      "specTables.1.images.0.imageCaption.ru",
+      "specTables.1.images.1.imageCaption.ru",
+      "catalogTitle.ru",
+      "availabilityNote.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Owner authorized automatic publication after source review with zero real open flags; no REF inferred.",
+    "imageQA": "Codex visual review of all seven final contact sheets and source layouts; two QR tiles excluded; two multi-instrument composites split into five separate row photos; ambiguous 607 composite retained only as a general subgroup illustration"
+  },
+  "publishedAt": "2026-11-21T06:37:29.425430+00:00"
+}

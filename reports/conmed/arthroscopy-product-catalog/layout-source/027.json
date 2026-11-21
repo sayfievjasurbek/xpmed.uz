@@ -1,0 +1,281 @@
+{
+  "pdfPage": 27,
+  "officialPage": 35,
+  "alignment": [
+    [
+      0.9693814134030603,
+      -0.00024492983345956543,
+      0.015025092340532821
+    ],
+    [
+      -0.001348021965818677,
+      0.9805340069814702,
+      0.010951639773560182
+    ]
+  ],
+  "alignmentMatches": 23,
+  "alignmentInliers": 23,
+  "category": "shoulder-arthroscopy",
+  "title": {
+    "en": "Arthroscopic Accessories",
+    "ru": "Принадлежности для артроскопии"
+  },
+  "groups": [
+    {
+      "title": "Switching Sticks",
+      "page": 27,
+      "officialPage": 35,
+      "headingBounds": [
+        0.10052615412994151,
+        0.14131044118541347,
+        0.22930606522346073,
+        0.15590126756963213
+      ],
+      "rows": [
+        {
+          "description": "Switching Sticks .125\" dia. x 10\" length, Blunt Distal Tip (2 per Box)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "2220",
+              "sourceBounds": [
+                0.5173116099163,
+                0.21651785696210313,
+                0.5682281039329872,
+                0.23115079347003964
+              ],
+              "officialCode": "2220",
+              "officialBounds": [
+                330.2460021972656,
+                166.79689025878906,
+                347.9975891113281,
+                176.97589111328125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.21083432521607137,
+            0.5782281039329872,
+            0.2328343252160714
+          ],
+          "pdfPage": 27,
+          "officialPage": 35
+        },
+        {
+          "description": "Swiching Stick for QuickLatch® Sheath System 3.0mm O.D. x 14\"L",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "T4906",
+              "sourceBounds": [
+                0.5173116078702752,
+                0.2354651162623178,
+                0.5682281071925218,
+                0.24854651169916475
+              ],
+              "officialCode": "T4906",
+              "officialBounds": [
+                326.537109375,
+                181.29689025878906,
+                348.00030517578125,
+                191.47589111328125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.22900581398074127,
+            0.5782281071925218,
+            0.2510058139807413
+          ],
+          "pdfPage": 27,
+          "officialPage": 35
+        }
+      ],
+      "features": [
+        {
+          "text": "Medical-grade stainless steel",
+          "bounds": [
+            0.10764901674687313,
+            0.16108454027327432,
+            0.2826473651672725,
+            0.17484349295806773
+          ],
+          "officialStartX": 58.5
+        },
+        {
+          "text": "Ideal for maintaining proper portal sites",
+          "bounds": [
+            0.10764561494599006,
+            0.1747030587024604,
+            0.339671184959845,
+            0.18838271876832072
+          ],
+          "officialStartX": 58.5
+        }
+      ],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Arthroscopic Portal Rod",
+      "page": 27,
+      "officialPage": 35,
+      "headingBounds": [
+        0.10049012594105508,
+        0.2855430318588242,
+        0.28864305440354754,
+        0.3000512846689807
+      ],
+      "rows": [
+        {
+          "description": "Arthroscopic Portal Rod",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "2221",
+              "sourceBounds": [
+                0.5173116103236319,
+                0.37063953534810534,
+                0.5682281043403191,
+                0.38517441843096445
+              ],
+              "officialCode": "2221",
+              "officialBounds": [
+                330.3269958496094,
+                290.6169128417969,
+                347.989501953125,
+                300.7958984375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3649069768895349,
+            0.5782281043403191,
+            0.3869069768895349
+          ],
+          "pdfPage": 27,
+          "officialPage": 35
+        },
+        {
+          "description": "Arthroscopic Portal Rod for QuickLatch Sheath System 30mm O.D. x 12\" L",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "T4907",
+              "sourceBounds": [
+                0.5173116102014323,
+                0.38808139581322165,
+                0.5682281042181195,
+                0.40261627889608076
+              ],
+              "officialCode": "T4907",
+              "officialBounds": [
+                327.1409912109375,
+                305.11590576171875,
+                347.9895324707031,
+                315.2948913574219
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3823488373546512,
+            0.5782281042181195,
+            0.4043488373546512
+          ],
+          "pdfPage": 27,
+          "officialPage": 35
+        }
+      ],
+      "features": [
+        {
+          "text": ".125\" diameter",
+          "bounds": [
+            0.10761298856034615,
+            0.3053171215011285,
+            0.20086020814203273,
+            0.3191897667657723
+          ],
+          "officialStartX": 58.5
+        },
+        {
+          "text": "13\" length with conical distal tip",
+          "bounds": [
+            0.10760891877495396,
+            0.32160979978291604,
+            0.2994811803749362,
+            0.33534531593770184
+          ],
+          "officialStartX": 58.5
+        },
+        {
+          "text": "Ideal for proper portal placement on opposite side of joint",
+          "bounds": [
+            0.1076048489848429,
+            0.33790249695581676,
+            0.4419524029630381,
+            0.35143986805258504
+          ],
+          "officialStartX": 58.5
+        }
+      ],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Magnetic Retriever",
+      "page": 27,
+      "officialPage": 35,
+      "headingBounds": [
+        0.10045183400447316,
+        0.4388381428766161,
+        0.24750430913610527,
+        0.4534035499844815
+      ],
+      "rows": [
+        {
+          "description": "Magnetic Retriever",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "9970",
+              "sourceBounds": [
+                0.5173116103976924,
+                0.4781976744340606,
+                0.5682281044143795,
+                0.49127906987090764
+              ],
+              "officialCode": "9970",
+              "officialBounds": [
+                330.49798583984375,
+                377.1169128417969,
+                347.9958190917969,
+                387.2958984375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.4717383721524841,
+            0.5782281044143796,
+            0.4937383721524841
+          ],
+          "pdfPage": 27,
+          "officialPage": 35
+        }
+      ],
+      "features": [],
+      "notes": [
+        "For recovery of ferrous metallic objects utilizing magnetic attraction."
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 5
+}

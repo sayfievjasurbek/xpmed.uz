@@ -1,10 +1,19 @@
+// Native focus-visible heuristics are retained; pointer clicks never draw an outline.
+document.addEventListener('pointerdown',()=>{document.documentElement.dataset.inputMode='pointer';},{capture:true});
+document.addEventListener('keydown',event=>{if(event.key==='Tab'||event.key.startsWith('Arrow')||['Home','End','PageUp','PageDown'].includes(event.key))document.documentElement.dataset.inputMode='keyboard';},{capture:true});
 const header = document.querySelector('.site-header');
 const desktopNav = header.querySelector('.desktop-nav');
 const desktopQuery = window.matchMedia('(min-width: 1051px)');
 const mobileMenu = document.querySelector('#mobile-menu');
-const triggers = [...desktopNav.querySelectorAll('button[aria-controls]')];
+const triggers = [...desktopNav.querySelectorAll(':scope > .nav-item > button[aria-controls]')];
 let activeTrigger;
 let openedByHover = false;
+
+for(const menu of document.querySelectorAll('.area-menu')){
+  const tabs=[...menu.querySelectorAll('[role="tab"]')];
+  const select=tab=>{for(const candidate of tabs){const active=candidate===tab;candidate.setAttribute('aria-selected',String(active));candidate.tabIndex=active?0:-1;document.getElementById(candidate.getAttribute('aria-controls')).hidden=!active;}};
+  for(const tab of tabs){tab.addEventListener('pointerenter',event=>{if(event.pointerType==='mouse')select(tab)});tab.addEventListener('click',()=>select(tab));tab.addEventListener('keydown',event=>{if(!['ArrowDown','ArrowUp','Home','End'].includes(event.key))return;event.preventDefault();const index=tabs.indexOf(tab),next=event.key==='Home'?tabs[0]:event.key==='End'?tabs.at(-1):tabs[(index+(event.key==='ArrowDown'?1:-1)+tabs.length)%tabs.length];select(next);next.focus();});}
+}
 
 function setPanel(trigger, openFromHover = false) {
   if (activeTrigger && activeTrigger !== trigger) {
@@ -82,7 +91,7 @@ for (const opener of document.querySelectorAll('[data-open]')) {
 
 for (const dialog of document.querySelectorAll('dialog')) {
   dialog.addEventListener('click', (event) => {
-    if (event.target.closest('[data-close], a[href]')) dialog.close();
+    if (event.target.closest('[data-close], a[href]:not([data-testimonial]):not([data-keep-dialog])')) dialog.close();
     else if (event.target === dialog && dialog !== mobileMenu) {
       const bounds = dialog.getBoundingClientRect();
       if (event.clientX < bounds.left || event.clientX > bounds.right ||
@@ -92,42 +101,3 @@ for (const dialog of document.querySelectorAll('dialog')) {
     }
   });
 }
-
-const search = document.querySelector('#search-dialog');
-const field = search.querySelector('input');
-const empty = search.querySelector('[data-search-empty]');
-const status = search.querySelector('[data-search-status]');
-const normalize = (value) => value.toLocaleLowerCase(document.documentElement.lang).replaceAll('ё', 'е');
-const entries = [...search.querySelectorAll('[data-search-result]')].map((element) => ({
-  element,
-  label: normalize(element.textContent.replace(/\s+/g, ' ')),
-}));
-
-function filterSearch() {
-  const terms = normalize(field.value.trim()).split(/\s+/).filter(Boolean);
-  let count = 0;
-
-  for (const { element, label } of entries) {
-    const matches = terms.every((term) => label.includes(term));
-    element.hidden = !matches;
-    if (matches) count += 1;
-  }
-
-  empty.hidden = count > 0;
-  status.textContent = terms.length ? status.dataset.count.replace('{count}', count) : '';
-}
-
-field.addEventListener('input', filterSearch);
-field.addEventListener('keydown', (event) => {
-  if (!['Enter', 'ArrowDown'].includes(event.key)) return;
-  const first = search.querySelector('[data-search-result]:not([hidden]) a');
-  if (!first) return;
-  event.preventDefault();
-  if (event.key === 'Enter') first.click();
-  else first.focus();
-});
-
-search.addEventListener('close', () => {
-  field.value = '';
-  filterSearch();
-});

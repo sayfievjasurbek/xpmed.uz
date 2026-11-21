@@ -1,0 +1,1661 @@
+{
+  "sha256": "70ffdab6e4d0550e7450709d0c91551162240d7c2da36d97627520ca8cd01812",
+  "method": "Fingerprint-matched, reviewed bilingual extraction profile. Numeric content transcribed from PDF; not an AI inference.",
+  "system": {
+    "slug": "cynthia-knee-system",
+    "brand": "double-medical",
+    "category": "joint-replacement",
+    "imageType": "cutout",
+    "catalogEdition": "2025.09",
+    "isNew": true,
+    "schemaVersion": 1,
+    "subcategory": "knee",
+    "specialty": [
+      "orthopedics"
+    ],
+    "name": {
+      "ru": "Система эндопротезирования коленного сустава Cynthia",
+      "en": "Cynthia Knee Replacement System"
+    },
+    "shortDescription": {
+      "ru": "Первичное и ревизионное эндопротезирование коленного сустава",
+      "en": "Primary and revision knee replacement"
+    },
+    "description": {
+      "ru": "Система эндопротезирования коленного сустава Cynthia включает компоненты для первичного и ревизионного эндопротезирования. Технические данные приведены по официальному каталогу Double Medical, редакция 2025.09.",
+      "en": "The Cynthia Knee Replacement System includes components for primary and revision knee replacement. Technical data follows the official Double Medical brochure, edition 2025.09."
+    },
+    "heroImage": "/images/products/cynthia/primary-ps.webp",
+    "gallery": [
+      "/images/products/cynthia/primary-ps.webp",
+      "/images/products/cynthia/primary-cr.webp",
+      "/images/products/cynthia/revision-full.webp",
+      "/images/products/cynthia/revision-exploded.webp"
+    ],
+    "features": [],
+    "hotspots": [],
+    "components": [
+      {
+        "id": "femoral-component",
+        "name": {
+          "ru": "Бедренный компонент",
+          "en": "Femoral component"
+        },
+        "image": "/images/products/cynthia/femoral-component.webp",
+        "refCodes": [],
+        "sizes": [],
+        "variants": []
+      },
+      {
+        "id": "tibial-tray",
+        "name": {
+          "ru": "Тибиальное основание",
+          "en": "Tibial tray"
+        },
+        "image": "/images/products/cynthia/tibial-tray.webp",
+        "refCodes": [],
+        "sizes": [],
+        "variants": []
+      },
+      {
+        "id": "insert-ps",
+        "name": {
+          "ru": "Вкладыш PS",
+          "en": "PS insert"
+        },
+        "image": "/images/products/cynthia/insert-ps.webp",
+        "refCodes": [],
+        "sizes": [],
+        "variants": []
+      },
+      {
+        "id": "insert-cr",
+        "name": {
+          "ru": "Вкладыш CR",
+          "en": "CR insert"
+        },
+        "image": "/images/products/cynthia/insert-cr.webp",
+        "refCodes": [],
+        "sizes": [],
+        "variants": []
+      },
+      {
+        "id": "patella",
+        "name": {
+          "ru": "Компонент надколенника",
+          "en": "Patella"
+        },
+        "image": "/images/products/cynthia/patella.webp",
+        "refCodes": [],
+        "sizes": [],
+        "variants": []
+      },
+      {
+        "id": "extension-stems",
+        "name": {
+          "ru": "Удлиняющие стержни",
+          "en": "Extension stems"
+        },
+        "image": "/images/products/cynthia/extension-stems.webp",
+        "refCodes": [],
+        "sizes": [],
+        "variants": []
+      },
+      {
+        "id": "augments",
+        "name": {
+          "ru": "Аугменты",
+          "en": "Augments"
+        },
+        "image": "/images/products/cynthia/augments.webp",
+        "refCodes": [],
+        "sizes": [],
+        "variants": []
+      },
+      {
+        "id": "offset-connector",
+        "name": {
+          "ru": "Офсетный коннектор",
+          "en": "Offset connector"
+        },
+        "image": "/images/products/cynthia/offset-connector.webp",
+        "refCodes": [],
+        "sizes": [],
+        "variants": []
+      },
+      {
+        "id": "revision-femoral-component",
+        "name": {
+          "ru": "Ревизионный бедренный компонент",
+          "en": "Revision femoral component"
+        },
+        "image": "/images/products/cynthia/revision-femoral-component.webp",
+        "refCodes": [],
+        "imageCaption": {
+          "ru": "Фрагмент сборки из каталога",
+          "en": "Assembly detail from the catalog"
+        }
+      },
+      {
+        "id": "revision-tibial-tray",
+        "name": {
+          "ru": "Ревизионное тибиальное основание",
+          "en": "Revision tibial tray"
+        },
+        "image": "/images/products/cynthia/feature-12.webp",
+        "refCodes": []
+      },
+      {
+        "id": "revision-high-constraint-insert",
+        "name": {
+          "ru": "Вкладыш повышенной связанности",
+          "en": "High-constraint insert"
+        },
+        "image": "/images/products/cynthia/revision-high-constraint-insert.webp",
+        "refCodes": [],
+        "imageCaption": {
+          "ru": "Вкладыш показан в составе системы",
+          "en": "Insert shown within the assembled system"
+        }
+      }
+    ],
+    "specTables": [],
+    "refCodes": [],
+    "sourcePdf": null,
+    "sourcePages": [
+      1,
+      2
+    ],
+    "status": "draft",
+    "variants": [
+      {
+        "id": "primary",
+        "name": {
+          "ru": "Первичное эндопротезирование",
+          "en": "Primary knee replacement"
+        },
+        "heroImage": "/images/products/cynthia/primary-ps.webp",
+        "gallery": [
+          "/images/products/cynthia/primary-ps.webp",
+          "/images/products/cynthia/primary-cr.webp",
+          "/images/products/cynthia/primary-ps-anterior.webp"
+        ],
+        "features": [
+          {
+            "id": "condylar-anti-rotation-post",
+            "title": {
+              "ru": "Антиротационный выступ бедренного компонента",
+              "en": "Condylar anti-rotation post"
+            },
+            "text": {
+              "ru": "Повышает ротационную стабильность бедренного компонента.",
+              "en": "Improves anti-rotational stability of the femoral condyle."
+            },
+            "image": "/images/products/cynthia/feature-01.webp"
+          },
+          {
+            "id": "gradual-radius",
+            "title": {
+              "ru": "Плавно изменяющийся радиус кривизны",
+              "en": "Gradual radius design"
+            },
+            "text": {
+              "ru": "Обеспечивает более плавное сгибание во всём диапазоне движений.",
+              "en": "Ensures smoother flexion throughout the range of motion."
+            },
+            "image": "/images/products/cynthia/feature-02.webp"
+          },
+          {
+            "id": "oblique-box",
+            "title": {
+              "ru": "Косая межмыщелковая коробка",
+              "en": "Oblique intercondylar box design"
+            },
+            "text": {
+              "ru": "Позволяет сохранить больший объём костной ткани.",
+              "en": "Preserves more bone stock."
+            },
+            "image": "/images/products/cynthia/feature-03.webp"
+          },
+          {
+            "id": "thumb-shaped-post",
+            "title": {
+              "ru": "Усиленный пост вкладыша пальцевидной формы",
+              "en": "Thumb-shaped post"
+            },
+            "text": {
+              "ru": "Повышает прочность поста вкладыша.",
+              "en": "Increases post strength."
+            },
+            "image": "/images/products/cynthia/feature-04.webp"
+          },
+          {
+            "id": "trochlear-groove",
+            "title": {
+              "ru": "Углублённая и удлинённая модифицированная блоковая борозда",
+              "en": "Gradually deepened and extended modified trochlear groove"
+            },
+            "text": {
+              "ru": "Обеспечивает более плавную траекторию движения надколенника.",
+              "en": "Provides smoother patellar tracking."
+            },
+            "image": "/images/products/cynthia/feature-05.webp"
+          },
+          {
+            "id": "anatomic-flange",
+            "title": {
+              "ru": "Анатомический передний фланец",
+              "en": "Anatomic anterior flange"
+            },
+            "text": {
+              "ru": "Улучшает соответствие переднему кортикальному слою бедренной кости.",
+              "en": "Improves fit with the anterior femoral cortex."
+            },
+            "image": "/images/products/cynthia/feature-06.webp"
+          },
+          {
+            "id": "anterior-cutout",
+            "title": {
+              "ru": "Передняя выемка",
+              "en": "Anterior cutout design"
+            },
+            "text": {
+              "ru": "Снижает натяжение передних мягких тканей при глубоком сгибании.",
+              "en": "Reduces anterior soft tissue tension during high flexion."
+            },
+            "image": "/images/products/cynthia/feature-07.webp"
+          },
+          {
+            "id": "central-lock",
+            "title": {
+              "ru": "Центральный механизм фиксации вкладыша",
+              "en": "Central locking mechanism"
+            },
+            "text": {
+              "ru": "Обеспечивает совместимость типоразмеров во всех измерениях. Дугообразная направляющая замка облегчает установку полиэтиленового вкладыша.",
+              "en": "Allows full-size compatibility across all dimensions. The arcuate locking rail facilitates polyethylene insert implantation."
+            },
+            "image": "/images/products/cynthia/feature-08.webp"
+          },
+          {
+            "id": "posterior-condyle",
+            "title": {
+              "ru": "Увеличенная кривизна заднего отдела мыщелка",
+              "en": "Increased curvature of the posterior condylar tail"
+            },
+            "text": {
+              "ru": "Предотвращает концентрацию напряжений при глубоком сгибании.",
+              "en": "Prevents stress concentration during high flexion."
+            },
+            "image": "/images/products/cynthia/feature-09.webp"
+          }
+        ],
+        "hotspots": [
+          {
+            "id": "hotspot-condylar-anti-rotation-post",
+            "featureId": "condylar-anti-rotation-post",
+            "image": "/images/products/cynthia/primary-ps.webp",
+            "x": 40,
+            "y": 44,
+            "placement": "illustration-reference",
+            "source": {
+              "pdfPage": 2
+            }
+          },
+          {
+            "id": "hotspot-gradual-radius",
+            "featureId": "gradual-radius",
+            "image": "/images/products/cynthia/primary-ps.webp",
+            "x": 67,
+            "y": 50,
+            "placement": "illustration-reference",
+            "source": {
+              "pdfPage": 2
+            }
+          },
+          {
+            "id": "hotspot-oblique-box",
+            "featureId": "oblique-box",
+            "image": "/images/products/cynthia/primary-cr.webp",
+            "x": 58,
+            "y": 39,
+            "placement": "illustration-reference",
+            "source": {
+              "pdfPage": 2
+            }
+          },
+          {
+            "id": "hotspot-thumb-shaped-post",
+            "featureId": "thumb-shaped-post",
+            "image": "/images/products/cynthia/primary-ps.webp",
+            "x": 45,
+            "y": 49,
+            "placement": "illustration-reference",
+            "source": {
+              "pdfPage": 2
+            }
+          },
+          {
+            "id": "hotspot-trochlear-groove",
+            "featureId": "trochlear-groove",
+            "image": "/images/products/cynthia/primary-cr.webp",
+            "x": 18,
+            "y": 24,
+            "placement": "illustration-reference",
+            "source": {
+              "pdfPage": 2
+            }
+          },
+          {
+            "id": "hotspot-anatomic-flange",
+            "featureId": "anatomic-flange",
+            "image": "/images/products/cynthia/primary-cr.webp",
+            "x": 12,
+            "y": 15,
+            "placement": "illustration-reference",
+            "source": {
+              "pdfPage": 2
+            }
+          },
+          {
+            "id": "hotspot-anterior-cutout",
+            "featureId": "anterior-cutout",
+            "image": "/images/products/cynthia/primary-cr.webp",
+            "x": 57,
+            "y": 49,
+            "placement": "illustration-reference",
+            "source": {
+              "pdfPage": 2
+            }
+          },
+          {
+            "id": "hotspot-central-lock",
+            "featureId": "central-lock",
+            "image": "/images/products/cynthia/primary-ps.webp",
+            "x": 51,
+            "y": 65,
+            "placement": "illustration-reference",
+            "source": {
+              "pdfPage": 2
+            }
+          },
+          {
+            "id": "hotspot-posterior-condyle",
+            "featureId": "posterior-condyle",
+            "image": "/images/products/cynthia/primary-ps.webp",
+            "x": 13,
+            "y": 42,
+            "placement": "illustration-reference",
+            "source": {
+              "pdfPage": 2
+            }
+          }
+        ],
+        "specTables": [
+          {
+            "id": "femoral",
+            "title": {
+              "ru": "Бедренный компонент",
+              "en": "Femoral condyle prosthesis"
+            },
+            "unit": "mm",
+            "image": null,
+            "columns": [
+              {
+                "ru": "Параметр",
+                "en": "Parameter"
+              },
+              "10#",
+              "11#",
+              "12#",
+              "13#",
+              "14#",
+              "15#",
+              "16#",
+              "17#",
+              "18#"
+            ],
+            "rows": [
+              [
+                {
+                  "ru": "PS: переднезадний размер (A/P)",
+                  "en": "PS A/P"
+                },
+                54,
+                55,
+                57,
+                60,
+                61,
+                64,
+                66,
+                68,
+                70
+              ],
+              [
+                {
+                  "ru": "CR: переднезадний размер (A/P)",
+                  "en": "CR A/P"
+                },
+                53,
+                54,
+                56,
+                59,
+                60,
+                63,
+                65,
+                67,
+                69
+              ],
+              [
+                {
+                  "ru": "Медиолатеральный размер (M/L)",
+                  "en": "M/L"
+                },
+                59,
+                61,
+                63,
+                65,
+                67,
+                68,
+                71,
+                73,
+                75
+              ]
+            ],
+            "legend": null,
+            "sourcePages": [
+              1
+            ]
+          },
+          {
+            "id": "tibial",
+            "title": {
+              "ru": "Тибиальный компонент с фиксированным вкладышем",
+              "en": "Tibial prosthesis, fixed bearing"
+            },
+            "unit": "mm",
+            "image": null,
+            "columns": [
+              {
+                "ru": "Параметр",
+                "en": "Parameter"
+              },
+              "10#",
+              "11#",
+              "12#",
+              "13#",
+              "14#",
+              "15#",
+              "16#",
+              "17#",
+              "18#"
+            ],
+            "rows": [
+              [
+                {
+                  "ru": "Переднезадний размер (A/P)",
+                  "en": "A/P"
+                },
+                41,
+                42,
+                44,
+                45,
+                46,
+                47,
+                49,
+                51,
+                53
+              ],
+              [
+                {
+                  "ru": "Медиолатеральный размер (M/L)",
+                  "en": "M/L"
+                },
+                62,
+                65,
+                67,
+                68,
+                70,
+                72,
+                74,
+                76,
+                79
+              ]
+            ],
+            "legend": null,
+            "sourcePages": [
+              1
+            ]
+          },
+          {
+            "id": "inserts",
+            "title": {
+              "ru": "Фиксированные тибиальные вкладыши PS / CR",
+              "en": "Tibial inserts, fixed bearing, PS / CR"
+            },
+            "unit": "mm",
+            "image": null,
+            "columns": [
+              {
+                "ru": "Параметр",
+                "en": "Parameter"
+              },
+              "PS",
+              "CR"
+            ],
+            "rows": [
+              [
+                {
+                  "ru": "Типоразмеры",
+                  "en": "Sizes"
+                },
+                "10#–18#",
+                "10#–18#"
+              ],
+              [
+                {
+                  "ru": "Диапазон толщины",
+                  "en": "Thickness range"
+                },
+                "6–16",
+                "6–16"
+              ]
+            ],
+            "legend": null,
+            "sourcePages": [
+              1
+            ]
+          },
+          {
+            "id": "patella",
+            "title": {
+              "ru": "Компонент надколенника",
+              "en": "Patella"
+            },
+            "unit": "mm",
+            "image": null,
+            "columns": [
+              {
+                "ru": "Параметр",
+                "en": "Parameter"
+              },
+              {
+                "ru": "Значение",
+                "en": "Value"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "ru": "Диаметр",
+                  "en": "Diameter"
+                },
+                "29–41"
+              ],
+              [
+                {
+                  "ru": "Толщина",
+                  "en": "Thickness"
+                },
+                "5.0 / 5.5 / 6.0"
+              ]
+            ],
+            "legend": null,
+            "sourcePages": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "id": "revision",
+        "name": {
+          "ru": "Ревизионное эндопротезирование",
+          "en": "Revision knee replacement"
+        },
+        "heroImage": "/images/products/cynthia/revision-full.webp",
+        "gallery": [
+          "/images/products/cynthia/revision-full.webp",
+          "/images/products/cynthia/revision-exploded.webp",
+          "/images/products/cynthia/revision-components.webp"
+        ],
+        "features": [
+          {
+            "id": "valgus-stem",
+            "title": {
+              "ru": "Удлиняющий стержень с вальгусным углом 6°",
+              "en": "Extension stem with 6° valgus angle"
+            },
+            "text": {
+              "ru": "Удлиняющий стержень с вальгусным углом 6°.",
+              "en": "Extension stem with a 6° valgus angle."
+            },
+            "image": "/images/products/cynthia/feature-10.webp"
+          },
+          {
+            "id": "high-constraint",
+            "title": {
+              "ru": "Вкладыш повышенной связанности",
+              "en": "High-constraint insert"
+            },
+            "text": {
+              "ru": "Обеспечивает глубокое сгибание до 155°.",
+              "en": "Provides up to 155° of high-flexion range of motion."
+            },
+            "image": "/images/products/cynthia/feature-11.webp"
+          },
+          {
+            "id": "zero-slope",
+            "title": {
+              "ru": "Тибиальное плато с задним наклоном 0°",
+              "en": "Tibial plateau with 0° posterior slope"
+            },
+            "text": {
+              "ru": "Задний наклон тибиального плато составляет 0°.",
+              "en": "The tibial plateau has a 0° posterior slope."
+            },
+            "image": "/images/products/cynthia/feature-12.webp"
+          },
+          {
+            "id": "non-penetrating",
+            "title": {
+              "ru": "Непроникающая конструкция",
+              "en": "Non-penetrating design"
+            },
+            "text": {
+              "ru": "Снижает износ. Высота киля тибиального компонента — 25 мм.",
+              "en": "Reduces wear. Tibial keel height: 25 mm."
+            },
+            "image": "/images/products/cynthia/feature-13.webp"
+          },
+          {
+            "id": "offset-connector",
+            "title": {
+              "ru": "Офсетный коннектор",
+              "en": "Offset connector"
+            },
+            "text": {
+              "ru": "Смещение 2, 4 или 6 мм и свободное позиционирование на 360° позволяют корректировать сгибательный промежуток.",
+              "en": "Provides 2, 4 and 6 mm offset adjustments, 360° free positioning and flexion gap adjustment."
+            },
+            "image": "/images/products/cynthia/offset-connector.webp"
+          },
+          {
+            "id": "augments",
+            "title": {
+              "ru": "Аугменты для замещения костных дефектов",
+              "en": "Augments"
+            },
+            "text": {
+              "ru": "Возможна независимая установка: дистальные аугменты 5, 10 и 15 мм; задние мыщелковые аугменты 5 и 10 мм. Комбинации дистального и заднего аугментов: 5×5, 10×5, 5×10 и 10×10 мм.",
+              "en": "Can be used independently: distal augments 5, 10 and 15 mm; posterior condylar augments 5 and 10 mm. Combined distal and posterior augments: 5×5, 10×5, 5×10 and 10×10 mm."
+            },
+            "image": "/images/products/cynthia/augments.webp",
+            "note": {
+              "ru": "Уточняйте у менеджера",
+              "en": "Please confirm with your sales representative"
+            }
+          }
+        ],
+        "hotspots": [],
+        "specTables": [
+          {
+            "id": "revision-femoral",
+            "title": {
+              "ru": "Ревизионный бедренный компонент",
+              "en": "Revision femoral component"
+            },
+            "unit": "mm",
+            "image": null,
+            "columns": [
+              {
+                "ru": "Параметр",
+                "en": "Parameter"
+              },
+              3,
+              5,
+              7,
+              9,
+              11
+            ],
+            "rows": [
+              [
+                {
+                  "ru": "Медиолатеральный размер (M/L)",
+                  "en": "M/L"
+                },
+                59,
+                63,
+                67,
+                71,
+                75
+              ],
+              [
+                {
+                  "ru": "Переднезадний размер (A/P)",
+                  "en": "A/P"
+                },
+                54,
+                58,
+                62,
+                66,
+                70
+              ]
+            ],
+            "legend": null,
+            "sourcePages": [
+              1
+            ],
+            "componentId": "revision-femoral-component"
+          },
+          {
+            "id": "femoral-augments",
+            "title": {
+              "ru": "Бедренные аугменты I и II",
+              "en": "Femoral defect pads I and II"
+            },
+            "unit": "mm",
+            "image": null,
+            "columns": [
+              {
+                "ru": "Параметр",
+                "en": "Parameter"
+              },
+              "I",
+              "II"
+            ],
+            "rows": [
+              [
+                {
+                  "ru": "Толщина",
+                  "en": "Thickness"
+                },
+                [
+                  5,
+                  10,
+                  15
+                ],
+                [
+                  5,
+                  10,
+                  15
+                ]
+              ]
+            ],
+            "legend": null,
+            "sourcePages": [
+              1
+            ],
+            "note": {
+              "ru": "Уточняйте у менеджера",
+              "en": "Please confirm with your sales representative"
+            }
+          },
+          {
+            "id": "femoral-augments-iii",
+            "title": {
+              "ru": "Бедренные аугменты III",
+              "en": "Femoral defect pad III"
+            },
+            "unit": "mm",
+            "image": null,
+            "columns": [
+              {
+                "ru": "Параметр",
+                "en": "Parameter"
+              },
+              {
+                "ru": "Значение",
+                "en": "Value"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "ru": "Размеры",
+                  "en": "Dimensions"
+                },
+                [
+                  "5×5",
+                  "10×5",
+                  "5×10",
+                  "10×10"
+                ]
+              ]
+            ],
+            "legend": null,
+            "sourcePages": [
+              1
+            ],
+            "headerType": "parameter-values"
+          },
+          {
+            "id": "restricted-insert",
+            "title": {
+              "ru": "Вкладыш повышенной связанности XV",
+              "en": "Meniscal bearing, restricted type XV"
+            },
+            "unit": "mm",
+            "image": null,
+            "columns": [
+              {
+                "ru": "Параметр",
+                "en": "Parameter"
+              },
+              {
+                "ru": "Значение",
+                "en": "Value"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "ru": "Толщина",
+                  "en": "Thickness"
+                },
+                [
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15,
+                  16
+                ]
+              ]
+            ],
+            "legend": null,
+            "sourcePages": [
+              1
+            ],
+            "headerType": "parameter-values",
+            "componentId": "revision-high-constraint-insert"
+          },
+          {
+            "id": "revision-tibial",
+            "title": {
+              "ru": "Ревизионное тибиальное основание VII с фиксированным вкладышем",
+              "en": "Revision tibial tray, fixed bearing VII"
+            },
+            "unit": "mm",
+            "image": null,
+            "columns": [
+              {
+                "ru": "Параметр",
+                "en": "Parameter"
+              },
+              3,
+              5,
+              7,
+              9,
+              11
+            ],
+            "rows": [
+              [
+                {
+                  "ru": "Медиолатеральный размер (M/L)",
+                  "en": "M/L"
+                },
+                64,
+                68,
+                72,
+                76,
+                80
+              ],
+              [
+                {
+                  "ru": "Переднезадний размер (A/P)",
+                  "en": "A/P"
+                },
+                42,
+                44,
+                47,
+                50,
+                53
+              ]
+            ],
+            "legend": null,
+            "sourcePages": [
+              1
+            ],
+            "componentId": "revision-tibial-tray"
+          },
+          {
+            "id": "tibial-augments",
+            "title": {
+              "ru": "Тибиальные аугменты I и II",
+              "en": "Tibial defect pads I and II"
+            },
+            "unit": "mm",
+            "image": null,
+            "columns": [
+              {
+                "ru": "Параметр",
+                "en": "Parameter"
+              },
+              "I",
+              "II"
+            ],
+            "rows": [
+              [
+                {
+                  "ru": "Толщина",
+                  "en": "Thickness"
+                },
+                [
+                  5,
+                  10,
+                  15
+                ],
+                [
+                  5,
+                  10,
+                  15
+                ]
+              ]
+            ],
+            "legend": null,
+            "sourcePages": [
+              1
+            ]
+          },
+          {
+            "id": "offset",
+            "title": {
+              "ru": "Офсетный коннектор",
+              "en": "Offset connector"
+            },
+            "unit": "mm",
+            "image": null,
+            "columns": [
+              {
+                "ru": "Параметр",
+                "en": "Parameter"
+              },
+              {
+                "ru": "Значение",
+                "en": "Value"
+              }
+            ],
+            "rows": [
+              [
+                {
+                  "ru": "Смещение",
+                  "en": "Offset"
+                },
+                [
+                  "+2",
+                  "+4",
+                  "+6"
+                ]
+              ]
+            ],
+            "legend": null,
+            "sourcePages": [
+              1
+            ],
+            "headerType": "parameter-values"
+          },
+          {
+            "id": "extension-rods",
+            "title": {
+              "ru": "Ревизионные удлиняющие стержни",
+              "en": "Revision extension rods"
+            },
+            "unit": "mm",
+            "image": null,
+            "columns": [
+              {
+                "ru": "Тип",
+                "en": "Type"
+              },
+              {
+                "ru": "Длина",
+                "en": "Length"
+              },
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20
+            ],
+            "rows": [
+              [
+                "TSI",
+                80,
+                "",
+                "●",
+                "",
+                "●",
+                "",
+                "●",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "TSI",
+                120,
+                "",
+                "○",
+                "",
+                "○",
+                "",
+                "○",
+                "",
+                "○",
+                "",
+                "○",
+                "",
+                "○"
+              ],
+              [
+                "TSI",
+                160,
+                "",
+                "○",
+                "",
+                "○",
+                "",
+                "○",
+                "",
+                "○",
+                "",
+                "○",
+                "",
+                "○"
+              ],
+              [
+                "TSII",
+                120,
+                "●",
+                "●",
+                "●",
+                "●",
+                "●",
+                "●",
+                "●",
+                "○",
+                "",
+                "○",
+                "",
+                ""
+              ],
+              [
+                "TSII",
+                160,
+                "●",
+                "●",
+                "●",
+                "●",
+                "●",
+                "●",
+                "●",
+                "○",
+                "",
+                "○",
+                "",
+                ""
+              ]
+            ],
+            "legend": {
+              "ru": "Наличие уточняйте у менеджера",
+              "en": "Please confirm availability with your sales representative"
+            },
+            "sourcePages": [
+              1
+            ]
+          }
+        ],
+        "componentIds": [
+          "revision-femoral-component",
+          "revision-tibial-tray",
+          "revision-high-constraint-insert",
+          "extension-stems",
+          "augments",
+          "offset-connector"
+        ]
+      }
+    ]
+  },
+  "assets": [
+    {
+      "file": "primary-ps.webp",
+      "png": "primary-ps.png",
+      "pdfPage": 1,
+      "pdfObject": "Im9",
+      "nativeSize": [
+        431,
+        663
+      ]
+    },
+    {
+      "file": "primary-cr.webp",
+      "png": "primary-cr.png",
+      "pdfPage": 2,
+      "pdfObject": "Im15",
+      "nativeSize": [
+        217,
+        314
+      ]
+    },
+    {
+      "file": "revision-full.webp",
+      "png": "revision-full.png",
+      "pdfPage": 1,
+      "pdfObject": "Im11",
+      "nativeSize": [
+        312,
+        1108
+      ]
+    },
+    {
+      "file": "revision-exploded.webp",
+      "png": "revision-exploded.png",
+      "pdfPage": 2,
+      "pdfObject": "Im2",
+      "nativeSize": [
+        454,
+        1311
+      ]
+    },
+    {
+      "file": "femoral-component.webp",
+      "png": "femoral-component.png",
+      "pdfPage": 1,
+      "pdfObject": "Im2",
+      "nativeSize": [
+        86,
+        69
+      ]
+    },
+    {
+      "file": "tibial-tray.webp",
+      "png": "tibial-tray.png",
+      "pdfPage": 2,
+      "pdfObject": "Im21",
+      "nativeSize": [
+        128,
+        100
+      ]
+    },
+    {
+      "file": "insert-ps.webp",
+      "png": "insert-ps.png",
+      "pdfPage": 2,
+      "pdfObject": "Im7",
+      "nativeSize": [
+        167,
+        79
+      ]
+    },
+    {
+      "file": "insert-cr.webp",
+      "png": "insert-cr.png",
+      "pdfPage": 2,
+      "pdfObject": "Im20",
+      "nativeSize": [
+        170,
+        47
+      ]
+    },
+    {
+      "file": "patella.webp",
+      "png": "patella.png",
+      "pdfPage": 1,
+      "pdfObject": "Im8",
+      "nativeSize": [
+        122,
+        72
+      ]
+    },
+    {
+      "file": "extension-stems.webp",
+      "png": "extension-stems.png",
+      "pdfPage": 2,
+      "pdfObject": "Im1",
+      "nativeSize": [
+        360,
+        235
+      ]
+    },
+    {
+      "file": "primary-ps-anterior.webp",
+      "png": "primary-ps-anterior.png",
+      "pdfPage": 1,
+      "pdfObject": "Im10",
+      "nativeSize": [
+        253,
+        409
+      ]
+    },
+    {
+      "file": "primary-ps-display.webp",
+      "png": "primary-ps-display.png",
+      "pdfPage": 2,
+      "pdfObject": "Im13",
+      "nativeSize": [
+        228,
+        315
+      ]
+    },
+    {
+      "file": "primary-ps-display-alt.webp",
+      "png": "primary-ps-display-alt.png",
+      "pdfPage": 2,
+      "pdfObject": "Im14",
+      "nativeSize": [
+        228,
+        315
+      ]
+    },
+    {
+      "file": "primary-cr-display-alt.webp",
+      "png": "primary-cr-display-alt.png",
+      "pdfPage": 2,
+      "pdfObject": "Im16",
+      "nativeSize": [
+        217,
+        314
+      ]
+    },
+    {
+      "file": "primary-cr-coated.webp",
+      "png": "primary-cr-coated.png",
+      "pdfPage": 2,
+      "pdfObject": "Im17",
+      "nativeSize": [
+        212,
+        302
+      ]
+    },
+    {
+      "file": "primary-cr-coated-alt.webp",
+      "png": "primary-cr-coated-alt.png",
+      "pdfPage": 2,
+      "pdfObject": "Im18",
+      "nativeSize": [
+        210,
+        301
+      ]
+    },
+    {
+      "file": "revision-components.webp",
+      "png": "revision-components.png",
+      "pdfPage": 2,
+      "pdfObject": "Im19",
+      "nativeSize": [
+        671,
+        779
+      ]
+    },
+    {
+      "file": "extension-stems-and-augments.webp",
+      "png": "extension-stems-and-augments.png",
+      "pdfPage": 2,
+      "pdfObject": "Im10",
+      "nativeSize": [
+        558,
+        551
+      ]
+    },
+    {
+      "file": "femoral-component-cr.webp",
+      "png": "femoral-component-cr.png",
+      "pdfPage": 1,
+      "pdfObject": "Im1",
+      "nativeSize": [
+        101,
+        76
+      ]
+    },
+    {
+      "file": "tibial-tray-specification.webp",
+      "png": "tibial-tray-specification.png",
+      "pdfPage": 1,
+      "pdfObject": "Im3",
+      "nativeSize": [
+        95,
+        76
+      ]
+    },
+    {
+      "file": "insert-ps-specification.webp",
+      "png": "insert-ps-specification.png",
+      "pdfPage": 1,
+      "pdfObject": "Im6",
+      "nativeSize": [
+        91,
+        43
+      ]
+    },
+    {
+      "file": "insert-cr-specification.webp",
+      "png": "insert-cr-specification.png",
+      "pdfPage": 1,
+      "pdfObject": "Im13",
+      "nativeSize": [
+        91,
+        25
+      ]
+    },
+    {
+      "file": "insert-ps-alternative.webp",
+      "png": "insert-ps-alternative.png",
+      "pdfPage": 1,
+      "pdfObject": "Im4",
+      "nativeSize": [
+        91,
+        53
+      ]
+    },
+    {
+      "file": "insert-cr-alternative.webp",
+      "png": "insert-cr-alternative.png",
+      "pdfPage": 1,
+      "pdfObject": "Im5",
+      "nativeSize": [
+        99,
+        75
+      ]
+    },
+    {
+      "file": "patella-coated.webp",
+      "png": "patella-coated.png",
+      "pdfPage": 1,
+      "pdfObject": "Im7",
+      "nativeSize": [
+        104,
+        46
+      ]
+    },
+    {
+      "file": "revision-full-specification.webp",
+      "png": "revision-full-specification.png",
+      "pdfPage": 1,
+      "pdfObject": "Im12",
+      "nativeSize": [
+        90,
+        317
+      ]
+    },
+    {
+      "file": "revision-components-specification.webp",
+      "png": "revision-components-specification.png",
+      "pdfPage": 1,
+      "pdfObject": "Im0",
+      "nativeSize": [
+        157,
+        155
+      ]
+    },
+    {
+      "file": "feature-01.webp",
+      "png": "feature-01.png",
+      "pdfPage": 2,
+      "pdfObject": "Im0",
+      "nativeSize": [
+        146,
+        146
+      ]
+    },
+    {
+      "file": "feature-02.webp",
+      "png": "feature-02.png",
+      "pdfPage": 2,
+      "pdfObject": "Im6",
+      "nativeSize": [
+        102,
+        106
+      ]
+    },
+    {
+      "file": "feature-03.webp",
+      "png": "feature-03.png",
+      "pdfPage": 2,
+      "pdfObject": "Im4",
+      "nativeSize": [
+        173,
+        154
+      ]
+    },
+    {
+      "file": "feature-04.webp",
+      "png": "feature-04.png",
+      "pdfPage": 2,
+      "pdfObject": "Im3",
+      "nativeSize": [
+        145,
+        198
+      ]
+    },
+    {
+      "file": "feature-05.webp",
+      "png": "feature-05.png",
+      "pdfPage": 2,
+      "pdfObject": "Im8",
+      "nativeSize": [
+        103,
+        95
+      ]
+    },
+    {
+      "file": "feature-06.webp",
+      "png": "feature-06.png",
+      "pdfPage": 2,
+      "pdfObject": "Im9",
+      "nativeSize": [
+        101,
+        94
+      ]
+    },
+    {
+      "file": "feature-07.webp",
+      "png": "feature-07.png",
+      "pdfPage": 2,
+      "pdfObject": "Im23",
+      "nativeSize": [
+        119,
+        107
+      ]
+    },
+    {
+      "file": "feature-08.webp",
+      "png": "feature-08.png",
+      "pdfPage": 2,
+      "pdfObject": "Im21",
+      "nativeSize": [
+        128,
+        100
+      ]
+    },
+    {
+      "file": "feature-09.webp",
+      "png": "feature-09.png",
+      "pdfPage": 2,
+      "pdfObject": "Im22",
+      "nativeSize": [
+        109,
+        118
+      ]
+    },
+    {
+      "file": "feature-10.webp",
+      "png": "feature-10.png",
+      "pdfPage": 2,
+      "pdfObject": "Im11",
+      "nativeSize": [
+        89,
+        165
+      ]
+    },
+    {
+      "file": "feature-11.webp",
+      "png": "feature-11.png",
+      "pdfPage": 2,
+      "pdfObject": "Im12",
+      "nativeSize": [
+        113,
+        166
+      ]
+    },
+    {
+      "file": "feature-12.webp",
+      "png": "feature-12.png",
+      "pdfPage": 2,
+      "pdfObject": "Im24",
+      "nativeSize": [
+        111,
+        89
+      ]
+    },
+    {
+      "file": "feature-13.webp",
+      "png": "feature-13.png",
+      "pdfPage": 2,
+      "pdfObject": "Im25",
+      "nativeSize": [
+        135,
+        82
+      ]
+    },
+    {
+      "file": "feature-14.webp",
+      "png": "feature-14.png",
+      "pdfPage": 2,
+      "pdfObject": "Im26",
+      "nativeSize": [
+        215,
+        221
+      ]
+    },
+    {
+      "file": "feature-15.webp",
+      "png": "feature-15.png",
+      "pdfPage": 2,
+      "pdfObject": "Im27",
+      "nativeSize": [
+        176,
+        219
+      ]
+    },
+    {
+      "file": "offset-connector.webp",
+      "png": "offset-connector.png",
+      "pdfPage": 2,
+      "pdfObject": "Im2",
+      "sourceCrop": [
+        54,
+        846,
+        160,
+        1034
+      ]
+    },
+    {
+      "file": "augments.webp",
+      "png": "augments.png",
+      "pdfPage": 2,
+      "pdfObject": "Im2",
+      "sourceCrops": [
+        [
+          4,
+          463,
+          116,
+          625
+        ],
+        [
+          344,
+          607,
+          454,
+          753
+        ]
+      ]
+    },
+    {
+      "file": "revision-femoral-component.webp",
+      "png": "revision-femoral-component.png",
+      "pdfPage": 2,
+      "pdfObject": "Im2",
+      "sourceCrop": [
+        115,
+        510,
+        345,
+        750
+      ]
+    },
+    {
+      "file": "revision-high-constraint-insert.webp",
+      "png": "revision-high-constraint-insert.png",
+      "pdfPage": 2,
+      "pdfObject": "Im2",
+      "sourceCrop": [
+        96,
+        655,
+        304,
+        757
+      ]
+    }
+  ],
+  "flags": [
+    {
+      "path": "variants.1.specTables.1",
+      "code": "conflicting-source",
+      "message": {
+        "ru": "Описание задних аугментов: 5 и 10 мм; таблица аугментов I и II: 5, 10 и 15 мм. Требуется уточнение производителя.",
+        "en": "Posterior augment feature text says 5 and 10 mm; pad I/II table says 5, 10 and 15 mm. Manufacturer clarification required."
+      },
+      "sourcePages": [
+        1,
+        2
+      ]
+    },
+    {
+      "path": "variants.1.specTables.7.legend",
+      "code": "undefined-symbols",
+      "message": {
+        "ru": "Значения символов ● и ○ не поясняются. Наличие уточняйте у менеджера.",
+        "en": "The brochure does not explain ● versus ○. Confirm availability with sales."
+      },
+      "sourcePages": [
+        1
+      ]
+    },
+    {
+      "path": "heroImage",
+      "code": "low-native-resolution",
+      "message": {
+        "ru": "Рендеры сохранены без увеличения. Отдельные компоненты имеют низкое исходное разрешение.",
+        "en": "Native resolution retained; isolated components are low resolution."
+      },
+      "sourcePages": [
+        1,
+        2
+      ]
+    },
+    {
+      "path": "variants",
+      "code": "hotspot-review",
+      "message": {
+        "ru": "Точки расставлены вручную по иллюстрациям; проверьте их в конечном просмотрщике.",
+        "en": "Illustration anchors are manually placed; review in the final viewer."
+      },
+      "sourcePages": [
+        2
+      ]
+    }
+  ]
+}

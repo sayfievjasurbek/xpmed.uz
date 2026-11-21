@@ -1,0 +1,95 @@
+{
+  "id": 56,
+  "bounds": [
+    0.8370181960477402,
+    0.40538654758582193,
+    0.9090197612991586,
+    0.42129500418643595
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "UQL6132-R",
+      "confidence": 92.33606,
+      "words": [
+        {
+          "text": "UQL6132-R",
+          "confidence": 92.33606,
+          "pixelBounds": [
+            4262,
+            2918,
+            4569,
+            2978
+          ],
+          "lineId": "13.11.1",
+          "bounds": [
+            0.833887693210722,
+            0.4072006698297516,
+            0.8939542163960086,
+            0.4155735417248116
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "UQL6132-R",
+      "confidence": 91.82605,
+      "words": [
+        {
+          "text": "UQL6132-R",
+          "confidence": 91.82605,
+          "pixelBounds": [
+            4262,
+            2918,
+            4569,
+            2978
+          ],
+          "lineId": "56.1.1",
+          "bounds": [
+            0.833887693210722,
+            0.4072006698297516,
+            0.8939542163960086,
+            0.4155735417248116
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "JQL6132-R",
+      "confidence": 92.298912,
+      "words": [
+        {
+          "text": "JQL6132-R",
+          "confidence": 92.298912,
+          "pixelBounds": [
+            0,
+            13,
+            291,
+            73
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "JQL6132-R",
+      "confidence": 15.977955,
+      "words": [
+        {
+          "text": "JQL6132-R",
+          "confidence": 15.977955,
+          "pixelBounds": [
+            0,
+            13,
+            291,
+            73
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

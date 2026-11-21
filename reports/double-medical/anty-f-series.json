@@ -1,0 +1,80 @@
+{
+  "pdf": "catalogs-source/double-medical/anty-f-series.pdf",
+  "sha256": "b6bc9aa481910bd8d2963e5744991bf419a8c13fe8bb42ed5c3da4759cec007e",
+  "method": "600-DPI two-setting Tesseract OCR; complete matrix visually transcribed and checked cell by cell, with Chinese header translations supplied by owner; page-2 callouts mapped onto native stem coordinates.",
+  "ocr": {
+    "dpi": 600,
+    "settings": [
+      3,
+      11
+    ]
+  },
+  "systemsCreated": 1,
+  "systems": [
+    {
+      "slug": "anty-f-series",
+      "status": "published",
+      "flags": [],
+      "translatedFields": [
+        "name.ru",
+        "shortDescription.ru",
+        "description.ru",
+        "gallery.0.imageCaption.ru",
+        "features.0.title.ru",
+        "features.0.text.ru",
+        "features.1.title.ru",
+        "features.1.text.ru",
+        "features.2.title.ru",
+        "features.2.text.ru",
+        "features.3.title.ru",
+        "features.3.text.ru",
+        "features.4.title.ru",
+        "features.4.text.ru",
+        "features.5.title.ru",
+        "features.5.text.ru",
+        "specTables.0.title.ru",
+        "specTables.0.columns.0.ru",
+        "specTables.0.columns.1.ru",
+        "specTables.0.columns.2.ru",
+        "specTables.0.columns.3.ru",
+        "specTables.0.columns.4.ru",
+        "specTables.0.columns.5.ru",
+        "specTables.0.columns.6.ru",
+        "specTables.0.columns.7.ru",
+        "specTables.0.columns.8.ru",
+        "specTables.0.columns.9.ru",
+        "specTables.0.columns.10.ru",
+        "specTables.0.columns.11.ru",
+        "specTables.0.columns.12.ru",
+        "specTables.0.headerRows.0.0.value.ru",
+        "specTables.0.headerRows.0.1.value.ru",
+        "specTables.0.headerRows.0.5.value.ru",
+        "specTables.0.headerRows.0.6.value.ru",
+        "specTables.0.headerRows.0.7.value.ru",
+        "specTables.0.headerRows.0.11.value.ru",
+        "specTables.0.headerRows.0.12.value.ru",
+        "specTables.0.legend.ru",
+        "catalogTitle.ru"
+      ]
+    }
+  ],
+  "variantsCreated": 0,
+  "tablesCreated": 1,
+  "tableIds": [
+    "anty-f-series-sizes"
+  ],
+  "imagesExtracted": 9,
+  "nonProductPages": [],
+  "openRealFlags": [],
+  "uncertainties": [],
+  "translationWorkflow": "Codex-authored professional Russian, retained English, translated fields require medical review; no external adapter",
+  "status": "published",
+  "published": 1,
+  "drafts": 0,
+  "sizeRows": 11,
+  "size11Present": false,
+  "hotspots": 6,
+  "headerLevels": 2,
+  "sampleFile": "reports/double-medical/anty-f-series/sample-20.json",
+  "sampleSeed": 5529679946196695350
+}

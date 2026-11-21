@@ -1,0 +1,1311 @@
+{
+  "slug": "5-0mm-locking-screw-self-tapping-flat-head",
+  "brand": "double-medical",
+  "category": "trauma-implants",
+  "subcategory": "trauma-large-fragment",
+  "subcategories": [
+    "trauma-large-fragment"
+  ],
+  "specialty": [
+    "traumatology",
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "5.0 мм Блокируемый винт, самонарезающий, с плоской головкой",
+    "en": "5.0mm Locking Screw, self-tapping, flat head"
+  },
+  "shortDescription": {
+    "ru": "Импланты для остеосинтеза",
+    "en": "Implants for fracture fixation"
+  },
+  "description": {
+    "ru": "5.0 мм Блокируемый винт, самонарезающий, с плоской головкой. Характеристики и каталожные номера приведены по Trauma Catalogue Double Medical.",
+    "en": "5.0mm Locking Screw, self-tapping, flat head. Specifications and reference numbers are listed according to the Double Medical Trauma Catalogue."
+  },
+  "heroImage": "/images/products/double-medical/5-0mm-locking-screw-self-tapping-flat-head/page-105-art-01.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "width": 218,
+      "height": 141,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          93,
+          51
+        ],
+        "enhancedSize": [
+          186,
+          102
+        ]
+      },
+      "src": "/images/products/double-medical/5-0mm-locking-screw-self-tapping-flat-head/page-105-art-01.webp",
+      "imageCaption": {
+        "ru": "5.0 мм Блокируемый винт, самонарезающий, с плоской головкой",
+        "en": "5.0mm Locking Screw, self-tapping, flat head"
+      },
+      "sourcePages": [
+        105
+      ]
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [
+    {
+      "id": "trauma-p105-1",
+      "groupId": "trauma-p105-1",
+      "title": {
+        "ru": "5.0 мм Блокируемый винт, самонарезающий, с плоской головкой",
+        "en": "5.0mm Locking Screw, self-tapping, flat head"
+      },
+      "unit": "mm",
+      "sourcePage": 105,
+      "sourcePages": [
+        105
+      ],
+      "printedPage": "2/27",
+      "hideDescriptionColumn": true,
+      "columns": [
+        {
+          "ru": "Позиция",
+          "en": "Item"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Длина",
+          "en": "Length"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "5.0 мм Блокируемый винт, самонарезающий, с плоской головкой · Длина: 10",
+            "en": "5.0mm Locking Screw, self-tapping, flat head · Length: 10"
+          },
+          "040300010",
+          {
+            "ru": "10",
+            "en": "10"
+          }
+        ],
+        [
+          {
+            "ru": "5.0 мм Блокируемый винт, самонарезающий, с плоской головкой · Длина: 14",
+            "en": "5.0mm Locking Screw, self-tapping, flat head · Length: 14"
+          },
+          "040300014",
+          {
+            "ru": "14",
+            "en": "14"
+          }
+        ],
+        [
+          {
+            "ru": "5.0 мм Блокируемый винт, самонарезающий, с плоской головкой · Длина: 18",
+            "en": "5.0mm Locking Screw, self-tapping, flat head · Length: 18"
+          },
+          "040300018",
+          {
+            "ru": "18",
+            "en": "18"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 105,
+          "printedPage": "2/27",
+          "sourceBounds": [
+            0.08,
+            0.262897084719233,
+            0.55,
+            0.2788755625122285
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p105-1",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 105,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "040300010"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "040300010"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "040300010"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "040300010",
+                "PSM11": "040300010",
+                "Vision": "040300010"
+              },
+              "value": "040300010",
+              "bounds": [
+                0.13353441184535234,
+                0.265897084719233,
+                0.22072936660268713,
+                0.2758755625122285
+              ],
+              "verifiedValue": "040300010"
+            },
+            {
+              "readings": {
+                "PSM3": "10",
+                "PSM11": "10",
+                "Vision": "10"
+              },
+              "value": "10",
+              "glyphReading": {
+                "text": "10",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.0012280433006535947,
+                    "margin": 0.39882564484126987
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.010003063725490195,
+                    "margin": 0.14822814542483662
+                  }
+                ],
+                "sourceRect": [
+                  155.8459930419922,
+                  163.0780029296875,
+                  163.2570037841797,
+                  169.12298583984375
+                ]
+              },
+              "verifiedValue": "10"
+            }
+          ]
+        },
+        {
+          "pdfPage": 105,
+          "printedPage": "2/27",
+          "sourceBounds": [
+            0.08,
+            0.2775713167677558,
+            0.55,
+            0.2935497945607513
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p105-1",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 105,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "040300014"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "040300014"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "040300014"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "040300014",
+                "PSM11": "040300014",
+                "Vision": "040300014"
+              },
+              "value": "040300014",
+              "bounds": [
+                0.13353441184535234,
+                0.2805713167677558,
+                0.22100356457362216,
+                0.2905497945607513
+              ],
+              "verifiedValue": "040300014"
+            },
+            {
+              "readings": {
+                "PSM3": "14",
+                "PSM11": "14",
+                "Vision": "14"
+              },
+              "value": "14",
+              "glyphReading": {
+                "text": "14",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.0011820874183006535,
+                    "margin": 0.3966529528478058
+                  },
+                  {
+                    "character": "4",
+                    "distance": 0.02783776010404162,
+                    "margin": 0.38317766690009336
+                  }
+                ],
+                "sourceRect": [
+                  155.8459930419922,
+                  172.09799194335938,
+                  163.2519989013672,
+                  178.0419921875
+                ]
+              },
+              "verifiedValue": "14"
+            }
+          ]
+        },
+        {
+          "pdfPage": 105,
+          "printedPage": "2/27",
+          "sourceBounds": [
+            0.08,
+            0.2922455488162786,
+            0.55,
+            0.3082240266092741
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p105-1",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 105,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "040300018"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "040300018"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "040300018"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "040300018",
+                "PSM11": "040300018",
+                "Vision": "040300018"
+              },
+              "value": "040300018",
+              "bounds": [
+                0.13353441184535234,
+                0.2952455488162786,
+                0.22072936660268713,
+                0.3052240266092741
+              ],
+              "verifiedValue": "040300018"
+            },
+            {
+              "readings": {
+                "PSM3": "18",
+                "PSM11": "18",
+                "Vision": "18"
+              },
+              "value": "18",
+              "glyphReading": {
+                "text": "18",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.010404242113512069,
+                    "margin": 0.38842684990662935
+                  },
+                  {
+                    "character": "8",
+                    "distance": 0.038434436274509806,
+                    "margin": 0.09027020016339869
+                  }
+                ],
+                "sourceRect": [
+                  155.8459930419922,
+                  181.11801147460938,
+                  163.28799438476562,
+                  187.16299438476562
+                ]
+              },
+              "verifiedValue": "18"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "width": 218,
+          "height": 141,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              93,
+              51
+            ],
+            "enhancedSize": [
+              186,
+              102
+            ]
+          },
+          "src": "/images/products/double-medical/5-0mm-locking-screw-self-tapping-flat-head/page-105-art-01.webp",
+          "imageCaption": {
+            "ru": "5.0 мм Блокируемый винт, самонарезающий, с плоской головкой",
+            "en": "5.0mm Locking Screw, self-tapping, flat head"
+          },
+          "sourcePages": [
+            105
+          ]
+        }
+      ],
+      "keyParameters": [
+        {
+          "parameter": {
+            "ru": "Диаметр",
+            "en": "Diameter"
+          },
+          "value": {
+            "ru": "5.0 мм",
+            "en": "5.0mm"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Шестигранный шлиц",
+            "en": "Hexagonal Socket"
+          },
+          "value": {
+            "ru": "3.5 мм",
+            "en": "3.5mm"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Материал",
+            "en": "Material"
+          },
+          "value": {
+            "ru": "титановый сплав",
+            "en": "Titanium Alloy"
+          }
+        }
+      ]
+    }
+  ],
+  "refCodes": [
+    "040300010",
+    "040300014",
+    "040300018"
+  ],
+  "sourcePages": [
+    105
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Trauma Catalogue — каталог продукции",
+    "en": "Double Medical Trauma Catalogue — product catalog"
+  },
+  "documentCover": "/catalogs/double-medical/trauma-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "catalogType": "list",
+  "importPartition": "trauma-part1",
+  "availabilityNote": {
+    "ru": "Изображения приведены для справки",
+    "en": "Images for reference only"
+  },
+  "imageDimensions": {
+    "/images/products/double-medical/5-0mm-locking-screw-self-tapping-flat-head/page-105-art-01.webp": {
+      "width": 218,
+      "height": 141
+    }
+  },
+  "relatedSystemSlugs": [
+    "large-locking-instrument-set"
+  ],
+  "sourcePdf": "/catalogs/double-medical/trauma-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/trauma-catalogue/pages/105.webp"
+  ],
+  "sourcePageDimensions": {
+    "6": {
+      "width": 3647,
+      "height": 5111
+    },
+    "7": {
+      "width": 3647,
+      "height": 5111
+    },
+    "8": {
+      "width": 3647,
+      "height": 5111
+    },
+    "9": {
+      "width": 3647,
+      "height": 5111
+    },
+    "10": {
+      "width": 3647,
+      "height": 5111
+    },
+    "11": {
+      "width": 3647,
+      "height": 5111
+    },
+    "12": {
+      "width": 3647,
+      "height": 5111
+    },
+    "13": {
+      "width": 3647,
+      "height": 5111
+    },
+    "14": {
+      "width": 3647,
+      "height": 5111
+    },
+    "15": {
+      "width": 3647,
+      "height": 5111
+    },
+    "16": {
+      "width": 3647,
+      "height": 5111
+    },
+    "17": {
+      "width": 3647,
+      "height": 5111
+    },
+    "18": {
+      "width": 3647,
+      "height": 5111
+    },
+    "19": {
+      "width": 3647,
+      "height": 5111
+    },
+    "20": {
+      "width": 3647,
+      "height": 5111
+    },
+    "21": {
+      "width": 3647,
+      "height": 5111
+    },
+    "22": {
+      "width": 3647,
+      "height": 5111
+    },
+    "23": {
+      "width": 3647,
+      "height": 5111
+    },
+    "24": {
+      "width": 3647,
+      "height": 5111
+    },
+    "25": {
+      "width": 3647,
+      "height": 5111
+    },
+    "26": {
+      "width": 3647,
+      "height": 5111
+    },
+    "27": {
+      "width": 3647,
+      "height": 5111
+    },
+    "28": {
+      "width": 3647,
+      "height": 5111
+    },
+    "29": {
+      "width": 3647,
+      "height": 5111
+    },
+    "30": {
+      "width": 3647,
+      "height": 5111
+    },
+    "31": {
+      "width": 3647,
+      "height": 5111
+    },
+    "32": {
+      "width": 3647,
+      "height": 5111
+    },
+    "33": {
+      "width": 3647,
+      "height": 5111
+    },
+    "34": {
+      "width": 3647,
+      "height": 5111
+    },
+    "35": {
+      "width": 3647,
+      "height": 5111
+    },
+    "36": {
+      "width": 3647,
+      "height": 5111
+    },
+    "37": {
+      "width": 3647,
+      "height": 5111
+    },
+    "38": {
+      "width": 3647,
+      "height": 5111
+    },
+    "39": {
+      "width": 3647,
+      "height": 5111
+    },
+    "40": {
+      "width": 3647,
+      "height": 5111
+    },
+    "41": {
+      "width": 3647,
+      "height": 5111
+    },
+    "42": {
+      "width": 3647,
+      "height": 5111
+    },
+    "43": {
+      "width": 3647,
+      "height": 5111
+    },
+    "44": {
+      "width": 3647,
+      "height": 5111
+    },
+    "45": {
+      "width": 3647,
+      "height": 5111
+    },
+    "46": {
+      "width": 3647,
+      "height": 5111
+    },
+    "47": {
+      "width": 3647,
+      "height": 5111
+    },
+    "48": {
+      "width": 3647,
+      "height": 5111
+    },
+    "49": {
+      "width": 3647,
+      "height": 5111
+    },
+    "50": {
+      "width": 3647,
+      "height": 5111
+    },
+    "51": {
+      "width": 3647,
+      "height": 5111
+    },
+    "52": {
+      "width": 3647,
+      "height": 5111
+    },
+    "53": {
+      "width": 3647,
+      "height": 5111
+    },
+    "54": {
+      "width": 3647,
+      "height": 5111
+    },
+    "55": {
+      "width": 3647,
+      "height": 5111
+    },
+    "56": {
+      "width": 3647,
+      "height": 5111
+    },
+    "57": {
+      "width": 3647,
+      "height": 5111
+    },
+    "58": {
+      "width": 3647,
+      "height": 5111
+    },
+    "59": {
+      "width": 3647,
+      "height": 5111
+    },
+    "60": {
+      "width": 3647,
+      "height": 5111
+    },
+    "61": {
+      "width": 3647,
+      "height": 5111
+    },
+    "62": {
+      "width": 3647,
+      "height": 5111
+    },
+    "63": {
+      "width": 3647,
+      "height": 5111
+    },
+    "64": {
+      "width": 3647,
+      "height": 5111
+    },
+    "65": {
+      "width": 3647,
+      "height": 5111
+    },
+    "66": {
+      "width": 3647,
+      "height": 5111
+    },
+    "67": {
+      "width": 3647,
+      "height": 5111
+    },
+    "68": {
+      "width": 3647,
+      "height": 5111
+    },
+    "69": {
+      "width": 3647,
+      "height": 5111
+    },
+    "70": {
+      "width": 3647,
+      "height": 5111
+    },
+    "71": {
+      "width": 3647,
+      "height": 5111
+    },
+    "72": {
+      "width": 3647,
+      "height": 5111
+    },
+    "73": {
+      "width": 3647,
+      "height": 5111
+    },
+    "74": {
+      "width": 3647,
+      "height": 5111
+    },
+    "75": {
+      "width": 3647,
+      "height": 5111
+    },
+    "76": {
+      "width": 3647,
+      "height": 5111
+    },
+    "77": {
+      "width": 3647,
+      "height": 5111
+    },
+    "80": {
+      "width": 3647,
+      "height": 5111
+    },
+    "81": {
+      "width": 3647,
+      "height": 5111
+    },
+    "82": {
+      "width": 3647,
+      "height": 5111
+    },
+    "83": {
+      "width": 3647,
+      "height": 5111
+    },
+    "84": {
+      "width": 3647,
+      "height": 5111
+    },
+    "85": {
+      "width": 3647,
+      "height": 5111
+    },
+    "86": {
+      "width": 3647,
+      "height": 5111
+    },
+    "87": {
+      "width": 3647,
+      "height": 5111
+    },
+    "88": {
+      "width": 3647,
+      "height": 5111
+    },
+    "89": {
+      "width": 3647,
+      "height": 5111
+    },
+    "90": {
+      "width": 3647,
+      "height": 5111
+    },
+    "91": {
+      "width": 3647,
+      "height": 5111
+    },
+    "92": {
+      "width": 3647,
+      "height": 5111
+    },
+    "93": {
+      "width": 3647,
+      "height": 5111
+    },
+    "94": {
+      "width": 3647,
+      "height": 5111
+    },
+    "95": {
+      "width": 3647,
+      "height": 5111
+    },
+    "96": {
+      "width": 3647,
+      "height": 5111
+    },
+    "97": {
+      "width": 3647,
+      "height": 5111
+    },
+    "98": {
+      "width": 3647,
+      "height": 5111
+    },
+    "99": {
+      "width": 3647,
+      "height": 5111
+    },
+    "100": {
+      "width": 3647,
+      "height": 5111
+    },
+    "101": {
+      "width": 3647,
+      "height": 5111
+    },
+    "102": {
+      "width": 3647,
+      "height": 5111
+    },
+    "103": {
+      "width": 3647,
+      "height": 5111
+    },
+    "104": {
+      "width": 3647,
+      "height": 5111
+    },
+    "105": {
+      "width": 3647,
+      "height": 5111
+    },
+    "106": {
+      "width": 3647,
+      "height": 5111
+    },
+    "107": {
+      "width": 3647,
+      "height": 5111
+    },
+    "108": {
+      "width": 3647,
+      "height": 5111
+    },
+    "109": {
+      "width": 3647,
+      "height": 5111
+    },
+    "110": {
+      "width": 3647,
+      "height": 5111
+    },
+    "111": {
+      "width": 3647,
+      "height": 5111
+    },
+    "112": {
+      "width": 3647,
+      "height": 5111
+    },
+    "113": {
+      "width": 3647,
+      "height": 5111
+    },
+    "114": {
+      "width": 3647,
+      "height": 5111
+    },
+    "115": {
+      "width": 3647,
+      "height": 5111
+    },
+    "116": {
+      "width": 3647,
+      "height": 5111
+    },
+    "117": {
+      "width": 3647,
+      "height": 5111
+    },
+    "118": {
+      "width": 3647,
+      "height": 5111
+    },
+    "119": {
+      "width": 3647,
+      "height": 5111
+    },
+    "120": {
+      "width": 3647,
+      "height": 5111
+    },
+    "121": {
+      "width": 3647,
+      "height": 5111
+    },
+    "122": {
+      "width": 3647,
+      "height": 5111
+    },
+    "123": {
+      "width": 3647,
+      "height": 5111
+    },
+    "124": {
+      "width": 3647,
+      "height": 5111
+    },
+    "125": {
+      "width": 3647,
+      "height": 5111
+    },
+    "126": {
+      "width": 3647,
+      "height": 5111
+    },
+    "127": {
+      "width": 3647,
+      "height": 5111
+    },
+    "128": {
+      "width": 3647,
+      "height": 5111
+    },
+    "129": {
+      "width": 3647,
+      "height": 5111
+    },
+    "130": {
+      "width": 3647,
+      "height": 5111
+    },
+    "131": {
+      "width": 3647,
+      "height": 5111
+    },
+    "132": {
+      "width": 3647,
+      "height": 5111
+    },
+    "133": {
+      "width": 3647,
+      "height": 5111
+    },
+    "134": {
+      "width": 3647,
+      "height": 5111
+    },
+    "135": {
+      "width": 3647,
+      "height": 5111
+    },
+    "136": {
+      "width": 3647,
+      "height": 5111
+    },
+    "137": {
+      "width": 3647,
+      "height": 5111
+    },
+    "138": {
+      "width": 3647,
+      "height": 5111
+    },
+    "139": {
+      "width": 3647,
+      "height": 5111
+    },
+    "140": {
+      "width": 3647,
+      "height": 5111
+    },
+    "143": {
+      "width": 3647,
+      "height": 5111
+    },
+    "144": {
+      "width": 3647,
+      "height": 5111
+    },
+    "145": {
+      "width": 3647,
+      "height": 5111
+    },
+    "146": {
+      "width": 3647,
+      "height": 5111
+    },
+    "147": {
+      "width": 3647,
+      "height": 5111
+    },
+    "148": {
+      "width": 3647,
+      "height": 5111
+    },
+    "149": {
+      "width": 3647,
+      "height": 5111
+    },
+    "150": {
+      "width": 3647,
+      "height": 5111
+    },
+    "151": {
+      "width": 3647,
+      "height": 5111
+    },
+    "152": {
+      "width": 3647,
+      "height": 5111
+    },
+    "153": {
+      "width": 3647,
+      "height": 5111
+    },
+    "154": {
+      "width": 3647,
+      "height": 5111
+    },
+    "155": {
+      "width": 3647,
+      "height": 5111
+    },
+    "156": {
+      "width": 3647,
+      "height": 5111
+    },
+    "157": {
+      "width": 3647,
+      "height": 5111
+    },
+    "158": {
+      "width": 3647,
+      "height": 5111
+    },
+    "159": {
+      "width": 3647,
+      "height": 5111
+    },
+    "160": {
+      "width": 3647,
+      "height": 5111
+    },
+    "161": {
+      "width": 3647,
+      "height": 5111
+    },
+    "162": {
+      "width": 3647,
+      "height": 5111
+    },
+    "163": {
+      "width": 3647,
+      "height": 5111
+    },
+    "164": {
+      "width": 3647,
+      "height": 5111
+    },
+    "165": {
+      "width": 3647,
+      "height": 5111
+    },
+    "166": {
+      "width": 3647,
+      "height": 5111
+    },
+    "167": {
+      "width": 3647,
+      "height": 5111
+    },
+    "168": {
+      "width": 3647,
+      "height": 5111
+    },
+    "169": {
+      "width": 3647,
+      "height": 5111
+    },
+    "170": {
+      "width": 3647,
+      "height": 5111
+    },
+    "171": {
+      "width": 3647,
+      "height": 5111
+    },
+    "172": {
+      "width": 3647,
+      "height": 5111
+    },
+    "173": {
+      "width": 3647,
+      "height": 5111
+    },
+    "174": {
+      "width": 3647,
+      "height": 5111
+    },
+    "175": {
+      "width": 3647,
+      "height": 5111
+    },
+    "176": {
+      "width": 3647,
+      "height": 5111
+    },
+    "177": {
+      "width": 3647,
+      "height": 5111
+    },
+    "178": {
+      "width": 3647,
+      "height": 5111
+    },
+    "179": {
+      "width": 3647,
+      "height": 5111
+    },
+    "180": {
+      "width": 3647,
+      "height": 5111
+    },
+    "181": {
+      "width": 3647,
+      "height": 5111
+    },
+    "182": {
+      "width": 3647,
+      "height": 5111
+    },
+    "183": {
+      "width": 3647,
+      "height": 5111
+    },
+    "184": {
+      "width": 3647,
+      "height": 5111
+    },
+    "185": {
+      "width": 3647,
+      "height": 5111
+    },
+    "186": {
+      "width": 3647,
+      "height": 5111
+    },
+    "187": {
+      "width": 3647,
+      "height": 5111
+    },
+    "188": {
+      "width": 3647,
+      "height": 5111
+    },
+    "189": {
+      "width": 3647,
+      "height": 5111
+    },
+    "190": {
+      "width": 3647,
+      "height": 5111
+    },
+    "193": {
+      "width": 3647,
+      "height": 5111
+    },
+    "194": {
+      "width": 3647,
+      "height": 5111
+    },
+    "195": {
+      "width": 3647,
+      "height": 5111
+    },
+    "196": {
+      "width": 3647,
+      "height": 5111
+    },
+    "197": {
+      "width": 3647,
+      "height": 5111
+    },
+    "198": {
+      "width": 3647,
+      "height": 5111
+    },
+    "199": {
+      "width": 3647,
+      "height": 5111
+    },
+    "200": {
+      "width": 3647,
+      "height": 5111
+    },
+    "201": {
+      "width": 3647,
+      "height": 5111
+    },
+    "202": {
+      "width": 3647,
+      "height": 5111
+    },
+    "203": {
+      "width": 3647,
+      "height": 5111
+    },
+    "204": {
+      "width": 3647,
+      "height": 5111
+    },
+    "205": {
+      "width": 3647,
+      "height": 5111
+    },
+    "206": {
+      "width": 3647,
+      "height": 5111
+    },
+    "207": {
+      "width": 3647,
+      "height": 5111
+    },
+    "208": {
+      "width": 3647,
+      "height": 5111
+    },
+    "209": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "3f2755d7646453cd1d8981369406a66062322971a7cb98258e022ae9b9769999",
+    "importMethod": "600-DPI Tesseract PSM3/11 plus independent Apple Vision; source glyph reconciliation and Codex visual reading; Codex medical RU; native photo composites, original Real-ESRGAN weights exact 2x then rembg",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      79,
+      142,
+      192,
+      78,
+      141,
+      191,
+      210
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.columns.2.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.0.2.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.1.2.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.rows.2.2.ru",
+      "specTables.0.images.0.imageCaption.ru",
+      "specTables.0.keyParameters.0.parameter.ru",
+      "specTables.0.keyParameters.0.value.ru",
+      "specTables.0.keyParameters.1.parameter.ru",
+      "specTables.0.keyParameters.1.value.ru",
+      "specTables.0.keyParameters.2.parameter.ru",
+      "specTables.0.keyParameters.2.value.ru",
+      "catalogTitle.ru",
+      "availabilityNote.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Owner authorized automatic publication: exact source REF verification, Codex-authored RU/EN, complete image QA, zero open real flags",
+    "imageQA": "All source photos checked visually; native resolution corrected for rotations; Real-ESRGAN exact 2x, rembg, source-white aperture cleanup; originals retained."
+  },
+  "publishedAt": "2026-11-20T18:40:53.285059+00:00"
+}

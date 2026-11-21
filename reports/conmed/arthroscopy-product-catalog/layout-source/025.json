@@ -1,0 +1,375 @@
+{
+  "pdfPage": 25,
+  "officialPage": 32,
+  "alignment": [
+    [
+      0.970887614034147,
+      0.001470032664183086,
+      0.014086345686552381
+    ],
+    [
+      -0.0011819244956221024,
+      0.9791238907832512,
+      0.011668873813839643
+    ]
+  ],
+  "alignmentMatches": 46,
+  "alignmentInliers": 40,
+  "category": "shoulder-arthroscopy",
+  "title": {
+    "en": "Cannula Systems",
+    "ru": "Системы канюль"
+  },
+  "groups": [
+    {
+      "title": "Reusable Obturators",
+      "page": 25,
+      "officialPage": 32,
+      "headingBounds": [
+        0.4283369719285065,
+        0.1414549208980362,
+        0.5836853719297771,
+        0.15601450428225297
+      ],
+      "rows": [
+        {
+          "description": "Cannulated Obturator (5.0mm x 85mm), Green for use with Green Dry-Doc (C7350)and Green Hex Flex (C7450)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C7380",
+              "sourceBounds": [
+                0.8513238296190037,
+                0.20634920624786246,
+                0.8961303458392449,
+                0.21802325560259728
+              ],
+              "officialCode": "C7380",
+              "officialBounds": [
+                533.3400268554688,
+                157.7938995361328,
+                555.0029907226562,
+                167.972900390625
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.19918623092522986,
+            0.9061303458392449,
+            0.22118623092522988
+          ],
+          "pdfPage": 25,
+          "officialPage": 32
+        },
+        {
+          "description": "Cannulated Obturator (6.0mm x 85mm), Gray for use with Gray Dry-Doc (C7359) and Gray Hex Flex (C7455)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C7382",
+              "sourceBounds": [
+                0.8472505088090344,
+                0.23536706346439462,
+                0.8961303470972792,
+                0.24999999997233113
+              ],
+              "officialCode": "C7382",
+              "officialBounds": [
+                533.3400268554688,
+                181.7879180908203,
+                555.0029907226562,
+                191.9669189453125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.22968353171836287,
+            0.9061303470972792,
+            0.2516835317183629
+          ],
+          "pdfPage": 25,
+          "officialPage": 32
+        },
+        {
+          "description": "Cannulated Obturator (7.0mm x 85mm), Blue for use with Blue Dry-Doc (C7360) and Blue Hex Flex (C7465)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C7385",
+              "sourceBounds": [
+                0.8574338099403577,
+                0.2659883722125358,
+                0.8961303457113735,
+                0.27906976764938274
+              ],
+              "officialCode": "C7385",
+              "officialBounds": [
+                533.3400268554688,
+                205.7819366455078,
+                555.0029907226562,
+                215.9609375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.25952906993095926,
+            0.9061303457113735,
+            0.2815290699309593
+          ],
+          "pdfPage": 25,
+          "officialPage": 32
+        },
+        {
+          "description": "Cannulated Obturator (7.0mm x 95mm), Black for use with Blue-Black Dry-Doc (C7369)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C7388",
+              "sourceBounds": [
+                0.8472505087581179,
+                0.29505813932736147,
+                0.8961303470463627,
+                0.3081395347642084
+              ],
+              "officialCode": "C7388",
+              "officialBounds": [
+                533.3400268554688,
+                229.7759552001953,
+                555.0029907226562,
+                239.9549560546875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.28859883704578493,
+            0.9061303470463627,
+            0.31059883704578495
+          ],
+          "pdfPage": 25,
+          "officialPage": 32
+        },
+        {
+          "description": "Cannulated Obturator (8.0mm x 75mm), Red for use with Red Dry-Doc (C7367)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C7390",
+              "sourceBounds": [
+                0.8513238297462947,
+                0.32412790686914916,
+                0.8961303459665361,
+                0.3372093023059961
+              ],
+              "officialCode": "C7390",
+              "officialBounds": [
+                533.3400268554688,
+                253.7699737548828,
+                555.0029907226562,
+                263.948974609375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3176686045875726,
+            0.9061303459665361,
+            0.33966860458757264
+          ],
+          "pdfPage": 25,
+          "officialPage": 32
+        },
+        {
+          "description": "Cannulated Obturator (8.0mm x 85mm), Yellow for use with Yellow Dry-Doc (C7368) and Yellow Hex Flex (C7480)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C7395",
+              "sourceBounds": [
+                0.847250507943454,
+                0.351686508136863,
+                0.8961303462316988,
+                0.3663194446447995
+              ],
+              "officialCode": "C7395",
+              "officialBounds": [
+                533.3400268554688,
+                275.7659912109375,
+                555.0029907226562,
+                285.9449768066406
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3460029763908312,
+            0.9061303462316989,
+            0.36800297639083124
+          ],
+          "pdfPage": 25,
+          "officialPage": 32
+        }
+      ],
+      "features": [],
+      "notes": [
+        "For use with Dry-Doc and Hex Flex cannulae."
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Universal Cannula Set",
+      "page": 25,
+      "officialPage": 32,
+      "headingBounds": [
+        0.4286981289789573,
+        0.3819089570310008,
+        0.5936601677594939,
+        0.3964568276768911
+      ],
+      "rows": [
+        {
+          "description": "70mm Universal Cannula Set, with Fenestrations, 10/Box",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "9704",
+              "sourceBounds": [
+                0.8615071287467476,
+                0.5406976744763439,
+                0.8961303451025396,
+                0.5537790699131909
+              ],
+              "officialCode": "9704",
+              "officialBounds": [
+                537.9390869140625,
+                428.7969055175781,
+                555.0030517578125,
+                438.97589111328125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5342383721947673,
+            0.9061303451025396,
+            0.5562383721947673
+          ],
+          "pdfPage": 25,
+          "officialPage": 32
+        },
+        {
+          "description": "70mm Shoulder Cannula Set, without Fenestrations, 10/Box",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "9718",
+              "sourceBounds": [
+                0.8615071287467476,
+                0.5595930232844836,
+                0.8961303451025396,
+                0.5726744187213305
+              ],
+              "officialCode": "9718",
+              "officialBounds": [
+                537.9390869140625,
+                443.8359069824219,
+                555.0030517578125,
+                454.014892578125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.553133721002907,
+            0.9061303451025396,
+            0.575133721002907
+          ],
+          "pdfPage": 25,
+          "officialPage": 32
+        }
+      ],
+      "features": [
+        {
+          "text": "5.5mm internal diameter",
+          "bounds": [
+            0.435899150804201,
+            0.4232905171930423,
+            0.5831396837212409,
+            0.43709348013946075
+          ],
+          "officialStartX": 265.5000915527344
+        },
+        {
+          "text": "70mm working length",
+          "bounds": [
+            0.4359214240263856,
+            0.4381257276594552,
+            0.5674880457904897,
+            0.4519477714750351
+          ],
+          "officialStartX": 265.5000915527344
+        },
+        {
+          "text": "Non-conductive material for electrosurgical procedures",
+          "bounds": [
+            0.4359436972485702,
+            0.4529609381258681,
+            0.7482507272945391,
+            0.4665629549137991
+          ],
+          "officialStartX": 265.5000915527344
+        },
+        {
+          "text": "Connector allows positive connection to some CONMED blades and burs",
+          "bounds": [
+            0.4359659704707548,
+            0.46779614859228097,
+            0.8460121699262944,
+            0.4812791811467775
+          ],
+          "officialStartX": 265.5000915527344
+        },
+        {
+          "text": "Integral double seal prevents backwash of fluids",
+          "bounds": [
+            0.43598824369293937,
+            0.4826313590586938,
+            0.7112842192136516,
+            0.4962784318050282
+          ],
+          "officialStartX": 265.5000915527344
+        },
+        {
+          "text": "Sharp and blunt trocars included",
+          "bounds": [
+            0.436010516915124,
+            0.49746656952510676,
+            0.6262585675589386,
+            0.511217176629343
+          ],
+          "officialStartX": 265.5000915527344
+        },
+        {
+          "text": "Packaged sterile, single-use, ten per box",
+          "bounds": [
+            0.43603093403545984,
+            0.5110655124526519,
+            0.6704291123739888,
+            0.5247623727414452
+          ],
+          "officialStartX": 265.5000915527344
+        }
+      ],
+      "notes": [
+        "Smooth 5.5mm gray plastic cannula"
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 8
+}

@@ -1,0 +1,40 @@
+{
+  "pdfPage": 6,
+  "pageRow": 3,
+  "visualReading": "SEM-EVAC",
+  "visualReader": "Codex independent inspection of 600-DPI source table images; source-line crops retained",
+  "ocrReadings": {
+    "600dpi-psm3": "SEM-EVAC",
+    "600dpi-psm11": "SEM-EVAC",
+    "600dpi-code-crop-psm7": "Box SEM-EVAC",
+    "Apple-Vision-accurate": "OX SEM-EVAC"
+  },
+  "matchedReaders": [
+    "600dpi-psm3",
+    "600dpi-psm11",
+    "600dpi-code-crop-psm7",
+    "Apple-Vision-accurate"
+  ],
+  "value": "SEM-EVAC",
+  "verificationStatus": "verified (visual + OCR)",
+  "manufacturerStatus": "confirmed on conmed.com",
+  "officialEvidence": [
+    {
+      "url": "https://www.conmed.com/-/media/conmed/documents/catalog/advancedsurgical_catalog.ashx",
+      "code": "SEM-EVAC"
+    }
+  ],
+  "sourceBounds": [
+    0.8540403052240266,
+    0.24616243371476415,
+    0.9139111719819996,
+    0.2552330449344125
+  ],
+  "rowBounds": [
+    0.5289452320766902,
+    0.22638146167557932,
+    0.934,
+    0.25935828877005346
+  ],
+  "lineCrop": "reports/conmed/advanced-surgical-product-catalog/line-crops/006-03.png"
+}

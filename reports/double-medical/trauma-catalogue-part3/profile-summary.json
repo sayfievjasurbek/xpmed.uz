@@ -1,0 +1,35 @@
+{
+  "systems": 139,
+  "implantSystems": 126,
+  "instrumentSets": 13,
+  "photosReady": 426,
+  "photosExpected": 426,
+  "flags": [
+    {
+      "code": "duplicate-ref-different-size",
+      "pdfPage": 585,
+      "sourcePages": [
+        585
+      ],
+      "path": "specTables.0.rows.32.1",
+      "message": {
+        "ru": "Требуется проверка значения по исходному каталогу.",
+        "en": "Verify the value against the source catalog."
+      },
+      "readings": [
+        [
+          "020940003",
+          "150",
+          "3",
+          "89"
+        ],
+        [
+          "020940003",
+          "140",
+          "4",
+          "105"
+        ]
+      ]
+    }
+  ]
+}

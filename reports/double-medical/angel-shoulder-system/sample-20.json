@@ -1,0 +1,406 @@
+{
+  "selection": "Stratified random sample of non-empty source anchor cells across all six tables; covered coordinates excluded. Row counts start at the first printed row, including the type/diameter row. Column counts visible cells in that row; gridColumn is the internal span coordinate.",
+  "seed": 231327217047628518,
+  "samples": [
+    {
+      "tableId": "reverse-liner-glenosphere",
+      "tableName": {
+        "ru": "Сочетаемость плечевого вкладыша и гленосферы",
+        "en": "Fitting relationship between humeral liner and glenosphere"
+      },
+      "row": 4,
+      "column": 2,
+      "gridColumn": 3,
+      "value": "+0",
+      "pdfPage": 5,
+      "colspan": 4,
+      "rowspan": 1,
+      "sourceBounds": [
+        0.10223788894542914,
+        0.8371189246441443,
+        0.8870400571979816,
+        0.8557841077297874
+      ]
+    },
+    {
+      "tableId": "reverse-shoulder-set",
+      "tableName": {
+        "ru": "Комплект для реверсивного эндопротезирования",
+        "en": "Reverse Shoulder Set"
+      },
+      "row": 3,
+      "column": 9,
+      "gridColumn": 10,
+      "value": "10",
+      "pdfPage": 5,
+      "colspan": 1,
+      "rowspan": 1,
+      "sourceBounds": [
+        0.10223788894542914,
+        0.6457571877754475,
+        0.8870400571979816,
+        0.6663877390489248
+      ]
+    },
+    {
+      "tableId": "cemented-stem-dimensions",
+      "tableName": {
+        "ru": "Размеры цементной плечевой ножки",
+        "en": "Cemented humeral stem dimensions"
+      },
+      "row": 2,
+      "column": 7,
+      "gridColumn": 7,
+      "value": "125",
+      "pdfPage": 8,
+      "colspan": 1,
+      "rowspan": 1,
+      "sourceBounds": [
+        0.4802082662588338,
+        0.5152637177418016,
+        0.8880184102022441,
+        0.5378014902153071
+      ]
+    },
+    {
+      "tableId": "reverse-shoulder-set",
+      "tableName": {
+        "ru": "Комплект для реверсивного эндопротезирования",
+        "en": "Reverse Shoulder Set"
+      },
+      "row": 4,
+      "column": 5,
+      "gridColumn": 9,
+      "value": "8",
+      "pdfPage": 5,
+      "colspan": 4,
+      "rowspan": 1,
+      "sourceBounds": [
+        0.10223788894542914,
+        0.6663877390489248,
+        0.8870400571979816,
+        0.6870066609248409
+      ]
+    },
+    {
+      "tableId": "anatomic-shoulder-set",
+      "tableName": {
+        "ru": "Комплект для анатомического эндопротезирования / гемиартропластики",
+        "en": "Shoulder/half shoulder set"
+      },
+      "row": 3,
+      "column": 15,
+      "gridColumn": 16,
+      "value": "12.5",
+      "pdfPage": 8,
+      "colspan": 1,
+      "rowspan": 1,
+      "sourceBounds": [
+        0.1059882421284353,
+        0.6317902813045083,
+        0.8880184102022441,
+        0.6515602571584606
+      ]
+    },
+    {
+      "tableId": "head-glenoid-compatibility",
+      "tableName": {
+        "ru": "Сочетаемость головки плечевой кости и гленоидального компонента",
+        "en": "Relationship between the humeral head and the glenoid liner"
+      },
+      "row": 12,
+      "column": 5,
+      "gridColumn": 6,
+      "value": "●",
+      "pdfPage": 8,
+      "colspan": 1,
+      "rowspan": 1,
+      "sourceBounds": [
+        0.1059882421284353,
+        0.9370968554773369,
+        0.8880184102022441,
+        0.9533896414605058
+      ]
+    },
+    {
+      "tableId": "glenoid-radius-zones",
+      "tableName": {
+        "ru": "Тип суставной поверхности по диаметру головки",
+        "en": "Joint-surface type by head diameter"
+      },
+      "row": 1,
+      "column": 7,
+      "gridColumn": 7,
+      "value": "53",
+      "pdfPage": 7,
+      "colspan": 1,
+      "rowspan": 1,
+      "sourceBounds": [
+        0.1402305972776221,
+        0.9029762030329276,
+        0.6864776913241732,
+        0.9278631138137852
+      ]
+    },
+    {
+      "tableId": "cemented-stem-dimensions",
+      "tableName": {
+        "ru": "Размеры цементной плечевой ножки",
+        "en": "Cemented humeral stem dimensions"
+      },
+      "row": 1,
+      "column": 3,
+      "gridColumn": 3,
+      "value": "8.8",
+      "pdfPage": 8,
+      "colspan": 1,
+      "rowspan": 1,
+      "sourceBounds": [
+        0.4802082662588338,
+        0.4932027505683031,
+        0.8880184102022441,
+        0.5152637177418016
+      ]
+    },
+    {
+      "tableId": "reverse-shoulder-set",
+      "tableName": {
+        "ru": "Комплект для реверсивного эндопротезирования",
+        "en": "Reverse Shoulder Set"
+      },
+      "row": 2,
+      "column": 13,
+      "gridColumn": 14,
+      "value": "140",
+      "pdfPage": 5,
+      "colspan": 3,
+      "rowspan": 1,
+      "sourceBounds": [
+        0.10223788894542914,
+        0.6251382658995315,
+        0.8870400571979816,
+        0.6457571877754475
+      ]
+    },
+    {
+      "tableId": "reverse-liner-glenosphere",
+      "tableName": {
+        "ru": "Сочетаемость плечевого вкладыша и гленосферы",
+        "en": "Fitting relationship between humeral liner and glenosphere"
+      },
+      "row": 8,
+      "column": 3,
+      "gridColumn": 3,
+      "value": "18",
+      "pdfPage": 5,
+      "colspan": 3,
+      "rowspan": 1,
+      "sourceBounds": [
+        0.10223788894542914,
+        0.9117447687940334,
+        0.8870400571979816,
+        0.9304564694699212
+      ]
+    },
+    {
+      "tableId": "head-glenoid-compatibility",
+      "tableName": {
+        "ru": "Сочетаемость головки плечевой кости и гленоидального компонента",
+        "en": "Relationship between the humeral head and the glenoid liner"
+      },
+      "row": 9,
+      "column": 5,
+      "gridColumn": 5,
+      "value": "●",
+      "pdfPage": 8,
+      "colspan": 1,
+      "rowspan": 1,
+      "sourceBounds": [
+        0.1059882421284353,
+        0.8834388151301983,
+        0.8880184102022441,
+        0.901127128820705
+      ]
+    },
+    {
+      "tableId": "glenoid-radius-zones",
+      "tableName": {
+        "ru": "Тип суставной поверхности по диаметру головки",
+        "en": "Joint-surface type by head diameter"
+      },
+      "row": 1,
+      "column": 4,
+      "gridColumn": 4,
+      "value": "44",
+      "pdfPage": 7,
+      "colspan": 1,
+      "rowspan": 1,
+      "sourceBounds": [
+        0.1402305972776221,
+        0.9029762030329276,
+        0.6864776913241732,
+        0.9278631138137852
+      ]
+    },
+    {
+      "tableId": "cemented-stem-dimensions",
+      "tableName": {
+        "ru": "Размеры цементной плечевой ножки",
+        "en": "Cemented humeral stem dimensions"
+      },
+      "row": 1,
+      "column": 7,
+      "gridColumn": 7,
+      "value": "17",
+      "pdfPage": 8,
+      "colspan": 1,
+      "rowspan": 1,
+      "sourceBounds": [
+        0.4802082662588338,
+        0.4932027505683031,
+        0.8880184102022441,
+        0.5152637177418016
+      ]
+    },
+    {
+      "tableId": "head-glenoid-compatibility",
+      "tableName": {
+        "ru": "Сочетаемость головки плечевой кости и гленоидального компонента",
+        "en": "Relationship between the humeral head and the glenoid liner"
+      },
+      "row": 4,
+      "column": 1,
+      "gridColumn": 3,
+      "value": "/",
+      "pdfPage": 8,
+      "colspan": 1,
+      "rowspan": 1,
+      "sourceBounds": [
+        0.1059882421284353,
+        0.7944041474020462,
+        0.8880184102022441,
+        0.8126739309706102
+      ]
+    },
+    {
+      "tableId": "reverse-liner-glenosphere",
+      "tableName": {
+        "ru": "Сочетаемость плечевого вкладыша и гленосферы",
+        "en": "Fitting relationship between humeral liner and glenosphere"
+      },
+      "row": 3,
+      "column": 5,
+      "gridColumn": 19,
+      "value": "46",
+      "pdfPage": 5,
+      "colspan": 8,
+      "rowspan": 1,
+      "sourceBounds": [
+        0.10223788894542914,
+        0.8184653709560622,
+        0.8870400571979816,
+        0.8371189246441443
+      ]
+    },
+    {
+      "tableId": "glenoid-radius-zones",
+      "tableName": {
+        "ru": "Тип суставной поверхности по диаметру головки",
+        "en": "Joint-surface type by head diameter"
+      },
+      "row": 2,
+      "column": 2,
+      "gridColumn": 2,
+      "value": "α",
+      "pdfPage": 7,
+      "colspan": 3,
+      "rowspan": 1,
+      "sourceBounds": [
+        0.1402305972776221,
+        0.9278631138137852,
+        0.6864776913241732,
+        0.9533780120629446
+      ]
+    },
+    {
+      "tableId": "reverse-liner-glenosphere",
+      "tableName": {
+        "ru": "Сочетаемость плечевого вкладыша и гленосферы",
+        "en": "Fitting relationship between humeral liner and glenosphere"
+      },
+      "row": 4,
+      "column": 3,
+      "gridColumn": 7,
+      "value": "+2.5",
+      "pdfPage": 5,
+      "colspan": 4,
+      "rowspan": 1,
+      "sourceBounds": [
+        0.10223788894542914,
+        0.8371189246441443,
+        0.8870400571979816,
+        0.8557841077297874
+      ]
+    },
+    {
+      "tableId": "anatomic-shoulder-set",
+      "tableName": {
+        "ru": "Комплект для анатомического эндопротезирования / гемиартропластики",
+        "en": "Shoulder/half shoulder set"
+      },
+      "row": 2,
+      "column": 5,
+      "gridColumn": 6,
+      "value": "122",
+      "pdfPage": 8,
+      "colspan": 1,
+      "rowspan": 1,
+      "sourceBounds": [
+        0.1059882421284353,
+        0.6120319348481172,
+        0.8880184102022441,
+        0.6317902813045083
+      ]
+    },
+    {
+      "tableId": "reverse-shoulder-set",
+      "tableName": {
+        "ru": "Комплект для реверсивного эндопротезирования",
+        "en": "Reverse Shoulder Set"
+      },
+      "row": 4,
+      "column": 6,
+      "gridColumn": 13,
+      "value": "/",
+      "pdfPage": 5,
+      "colspan": 9,
+      "rowspan": 1,
+      "sourceBounds": [
+        0.10223788894542914,
+        0.6663877390489248,
+        0.8870400571979816,
+        0.6870066609248409
+      ]
+    },
+    {
+      "tableId": "anatomic-shoulder-set",
+      "tableName": {
+        "ru": "Комплект для анатомического эндопротезирования / гемиартропластики",
+        "en": "Shoulder/half shoulder set"
+      },
+      "row": 3,
+      "column": 2,
+      "gridColumn": 3,
+      "value": "6.7",
+      "pdfPage": 8,
+      "colspan": 1,
+      "rowspan": 1,
+      "sourceBounds": [
+        0.1059882421284353,
+        0.6317902813045083,
+        0.8880184102022441,
+        0.6515602571584606
+      ]
+    }
+  ]
+}

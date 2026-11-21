@@ -1,0 +1,117 @@
+{
+  "id": 55,
+  "bounds": [
+    0.8370181960477402,
+    0.38989673457996094,
+    0.9090197612991586,
+    0.40580519118057495
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "UQL6132",
+      "confidence": 91.56237,
+      "words": [
+        {
+          "text": "UQL6132",
+          "confidence": 91.56237,
+          "pixelBounds": [
+            4324,
+            2810,
+            4567,
+            2871
+          ],
+          "lineId": "13.10.1",
+          "bounds": [
+            0.8460183917041675,
+            0.3921295004186436,
+            0.8935629035413813,
+            0.40064192017862127
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "UQL6132",
+      "confidence": 90.258263,
+      "words": [
+        {
+          "text": "UQL6132",
+          "confidence": 90.258263,
+          "pixelBounds": [
+            4324,
+            2810,
+            4567,
+            2871
+          ],
+          "lineId": "50.1.1",
+          "bounds": [
+            0.8460183917041675,
+            0.3921295004186436,
+            0.8935629035413813,
+            0.40064192017862127
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": ". UQL6132",
+      "confidence": 15.283098,
+      "words": [
+        {
+          "text": ".",
+          "confidence": 15.283098,
+          "pixelBounds": [
+            0,
+            66,
+            22,
+            74
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "UQL6132",
+          "confidence": 87.027672,
+          "pixelBounds": [
+            46,
+            16,
+            289,
+            77
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "UQL6132 —",
+      "confidence": 10.507965,
+      "words": [
+        {
+          "text": "UQL6132",
+          "confidence": 32.82803,
+          "pixelBounds": [
+            0,
+            16,
+            289,
+            77
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "—",
+          "confidence": 10.507965,
+          "pixelBounds": [
+            323,
+            0,
+            361,
+            114
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

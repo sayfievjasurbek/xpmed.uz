@@ -1,0 +1,660 @@
+{
+  "pdfPage": 95,
+  "officialPage": 121,
+  "alignment": [
+    [
+      0.9705827865718797,
+      -0.000369752235811682,
+      0.014986020080986207
+    ],
+    [
+      -0.0006183380619042173,
+      0.9779813028366529,
+      0.011769611714937676
+    ]
+  ],
+  "alignmentMatches": 42,
+  "alignmentInliers": 40,
+  "category": "arthroscopy-resection",
+  "title": {
+    "en": "Large Hub Shaver Blades",
+    "ru": "Шейверные насадки с большим разъёмом"
+  },
+  "groups": [
+    {
+      "title": "Mako™ Blade — 6,000rpm Max., 13.0cm Working Length, 6 per Box",
+      "page": 95,
+      "officialPage": 121,
+      "headingBounds": [
+        0.1004939357604121,
+        0.2595022952698187,
+        0.3876646102622556,
+        0.2724887595150925
+      ],
+      "rows": [
+        {
+          "description": "4.2mm, Large Hub, Sterling, Shaver, Mako",
+          "codes": [
+            {
+              "candidate": "9298A",
+              "sourceBounds": [
+                0.5322108167089734,
+                0.27750886398898217,
+                0.5667474395954266,
+                0.2900561418803219
+              ],
+              "officialBounds": [
+                326.1990051269531,
+                215.4709014892578,
+                347.9790344238281,
+                225.64990234375
+              ],
+              "officialCode": "9298A"
+            }
+          ],
+          "rowBounds": [
+            0.10048702390381237,
+            0.27778390621826377,
+            0.5667474395954266,
+            0.2900561418803219
+          ],
+          "pdfPage": 95,
+          "officialPage": 121
+        },
+        {
+          "description": "5.5mm, Large Hub, Sterling, Shaver, Mako",
+          "codes": [
+            {
+              "candidate": "C9298A",
+              "sourceBounds": [
+                0.5247972584430949,
+                0.2927056072894092,
+                0.566741695840612,
+                0.3052481658165369
+              ],
+              "officialBounds": [
+                321.52801513671875,
+                227.7738800048828,
+                347.9790344238281,
+                237.952880859375
+              ],
+              "officialCode": "C9298A"
+            }
+          ],
+          "rowBounds": [
+            0.10048129829840692,
+            0.29297593014291623,
+            0.566741695840612,
+            0.3052481658165369
+          ],
+          "pdfPage": 95,
+          "officialPage": 121
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Full-Radius Resector — 6,000rpm Max., 13.0cm Working Length, 6 per Box",
+      "page": 95,
+      "officialPage": 121,
+      "headingBounds": [
+        0.10044127219626008,
+        0.3987955194699248,
+        0.38761337446588445,
+        0.4117819451217418
+      ],
+      "rows": [
+        {
+          "description": "3.5mm, Large Hub, Sterling, Shaver, Full–Radius Resector",
+          "codes": [
+            {
+              "candidate": "C9248",
+              "sourceBounds": [
+                0.5318869767845629,
+                0.41680222326603916,
+                0.5666947760526457,
+                0.42934930955463096
+              ],
+              "officialBounds": [
+                326.02801513671875,
+                328.27490234375,
+                347.9790344238281,
+                338.4538879394531
+              ],
+              "officialCode": "C9248"
+            }
+          ],
+          "rowBounds": [
+            0.10043436035390775,
+            0.41707709273450516,
+            0.5666947760526457,
+            0.42934930955463096
+          ],
+          "pdfPage": 95,
+          "officialPage": 121
+        },
+        {
+          "description": "4.2mm, Large Hub, Sterling, Shaver, Full-Radius Resector",
+          "codes": [
+            {
+              "candidate": "9247A",
+              "sourceBounds": [
+                0.5321524093900067,
+                0.4319941121253032,
+                0.5666890322835836,
+                0.4445413711747106
+              ],
+              "officialBounds": [
+                326.1990051269531,
+                340.5779113769531,
+                347.9790344238281,
+                350.75689697265625
+              ],
+              "officialCode": "9247A"
+            }
+          ],
+          "rowBounds": [
+            0.10042863473425491,
+            0.4322691543430222,
+            0.5666890322835836,
+            0.4445413711747106
+          ],
+          "pdfPage": 95,
+          "officialPage": 121
+        },
+        {
+          "description": "4.8mm, Large Hub, Sterling, Shaver, Full-Radius Resector",
+          "codes": [
+            {
+              "candidate": "C9245",
+              "sourceBounds": [
+                0.5318754892464386,
+                0.44718634650619854,
+                0.5666832885145214,
+                0.4597334327947903
+              ],
+              "officialBounds": [
+                326.02801513671875,
+                352.88092041015625,
+                347.9790344238281,
+                363.0599060058594
+              ],
+              "officialCode": "C9245"
+            }
+          ],
+          "rowBounds": [
+            0.10042289096519273,
+            0.4474612159631019,
+            0.5666832885145214,
+            0.4597334327947903
+          ],
+          "pdfPage": 95,
+          "officialPage": 121
+        },
+        {
+          "description": "5.5mm, Large Hub, Sterling, Shaver, Full-Radius Resector",
+          "codes": [
+            {
+              "candidate": "9246A",
+              "sourceBounds": [
+                0.5321409218518824,
+                0.4623782353654626,
+                0.5666775447454593,
+                0.47492549441487
+              ],
+              "officialBounds": [
+                326.1990051269531,
+                365.1839294433594,
+                347.9790344238281,
+                375.3629150390625
+              ],
+              "officialCode": "9246A"
+            }
+          ],
+          "rowBounds": [
+            0.10041714719613057,
+            0.46265327758318153,
+            0.5666775447454593,
+            0.47492549441487
+          ],
+          "pdfPage": 95,
+          "officialPage": 121
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Full-Radius Resector — Pre-Bent to 15°, 6,000rpm Max., 13.0cm Working Length, 6 per Box",
+      "page": 95,
+      "officialPage": 121,
+      "headingBounds": [
+        0.10040585295251532,
+        0.4925261438314407,
+        0.48222413019176735,
+        0.5054522723780472
+      ],
+      "rows": [
+        {
+          "description": "4.2mm, Large Hub, Sterling, Shaver, Full-Radius Resector",
+          "codes": [
+            {
+              "candidate": "C9241M",
+              "sourceBounds": [
+                0.5220600540574312,
+                0.5105390855903242,
+                0.5666593386594916,
+                0.5230799339277094
+              ],
+              "officialBounds": [
+                319.85400390625,
+                404.180908203125,
+                347.9790344238281,
+                414.3598937988281
+              ],
+              "officialCode": "C9241M"
+            }
+          ],
+          "rowBounds": [
+            0.10039894111016298,
+            0.510807717096021,
+            0.5666593386594916,
+            0.5230799339277094
+          ],
+          "pdfPage": 95,
+          "officialPage": 121
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Full-Radius Resector — Bendable to 30° Max. 6,000rpm Max., 13.0cm Working Length, 6 per Box",
+      "page": 95,
+      "officialPage": 121,
+      "headingBounds": [
+        0.10038762449990729,
+        0.5406917377797833,
+        0.4746409556919756,
+        0.5536226857958282
+      ],
+      "rows": [
+        {
+          "description": "3.7mm, Large Hub, Merlin ®, Shaver, Full-Radius Resector",
+          "codes": [
+            {
+              "candidate": "P9375",
+              "sourceBounds": [
+                0.5323872969890249,
+                0.5586993322217297,
+                0.5666384659727612,
+                0.571246773127873
+              ],
+              "officialBounds": [
+                326.3773193359375,
+                443.18792724609375,
+                347.97735595703125,
+                453.3669128417969
+              ],
+              "officialCode": "P9375"
+            }
+          ],
+          "rowBounds": [
+            0.23424724089224594,
+            0.5588880274696212,
+            0.5666384659727612,
+            0.571246773127873
+          ],
+          "pdfPage": 95,
+          "officialPage": 121
+        },
+        {
+          "description": "3.7mm, Large Hub, Merlin, Shaver, Full-Radius Resector, Pre-Bent to 15°",
+          "codes": [
+            {
+              "candidate": "37FRR-ME-PB",
+              "sourceBounds": [
+                0.4929529692758176,
+                0.5891085709316108,
+                0.5666269784346369,
+                0.6016308963680324
+              ],
+              "officialBounds": [
+                301.519287109375,
+                467.7939453125,
+                347.97735595703125,
+                477.9729309082031
+              ],
+              "officialCode": "37FRR-ME-PB"
+            }
+          ],
+          "rowBounds": [
+            0.11464555252906139,
+            0.5741575247403051,
+            0.5666269784346369,
+            0.6016308963680324
+          ],
+          "pdfPage": 95,
+          "officialPage": 121
+        },
+        {
+          "description": "4.2mm, Large Hub, Merlin, Shaver, Full-Radius Resector",
+          "codes": [
+            {
+              "candidate": "P9376",
+              "sourceBounds": [
+                0.5323700656818382,
+                0.6042755170819688,
+                0.5666212346655748,
+                0.6168229579881119
+              ],
+              "officialBounds": [
+                326.3773193359375,
+                480.0969543457031,
+                347.97735595703125,
+                490.27593994140625
+              ],
+              "officialCode": "P9376"
+            }
+          ],
+          "rowBounds": [
+            0.10036076451860873,
+            0.604550741202674,
+            0.5666212346655748,
+            0.6168229579881119
+          ],
+          "pdfPage": 95,
+          "officialPage": 121
+        },
+        {
+          "description": "4.2mm, Large Hub, Merlin, Shaver, Full-Radius Resector, Pre-bent to 15°",
+          "codes": [
+            {
+              "candidate": "C9241",
+              "sourceBounds": [
+                0.531807643230005,
+                0.6194679333504335,
+                0.5666154424980876,
+                0.6320150196390253
+              ],
+              "officialBounds": [
+                326.02630615234375,
+                492.39996337890625,
+                347.9773254394531,
+                502.5789489746094
+              ],
+              "officialCode": "C9241"
+            }
+          ],
+          "rowBounds": [
+            0.100355044948759,
+            0.6197428028073368,
+            0.5666154424980876,
+            0.6320150196390253
+          ],
+          "pdfPage": 95,
+          "officialPage": 121
+        },
+        {
+          "description": "4.8mm, Large Hub, Merlin, Shaver, Full-Radius Resector, Bendable to 20° Max",
+          "codes": [
+            {
+              "candidate": "P9377",
+              "sourceBounds": [
+                0.5323528343746518,
+                0.6498517019422078,
+                0.5666040033441408,
+                0.6623991805322157
+              ],
+              "officialBounds": [
+                326.3773193359375,
+                517.0059814453125,
+                347.97735595703125,
+                527.1849975585938
+              ],
+              "officialCode": "P9377"
+            }
+          ],
+          "rowBounds": [
+            0.11462257745281271,
+            0.6349257712206239,
+            0.5666040033441408,
+            0.6623991805322157
+          ],
+          "pdfPage": 95,
+          "officialPage": 121
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Full-Radius Resector — 6,000rpm Max., 13.0cm Working Length, 6 per Box",
+      "page": 95,
+      "officialPage": 121,
+      "headingBounds": [
+        0.10033463145567734,
+        0.6800083450221863,
+        0.38750673977510486,
+        0.6929947706701491
+      ],
+      "rows": [
+        {
+          "description": "3.5mm, Large Hub, ReAct, Shaver, Full-Radius Resector",
+          "codes": [
+            {
+              "candidate": "35FRR-RA-ZZ",
+              "sourceBounds": [
+                0.4955690519981041,
+                0.6980381182725562,
+                0.5665881655468312,
+                0.7105621727714861
+              ],
+              "officialBounds": [
+                303.19482421875,
+                556.0098876953125,
+                347.9788513183594,
+                566.1889038085938
+              ],
+              "officialCode": "35FRR-RA-ZZ"
+            }
+          ],
+          "rowBounds": [
+            0.100327719613325,
+            0.6982899182867667,
+            0.5665881655468312,
+            0.7105621727714861
+          ],
+          "pdfPage": 95,
+          "officialPage": 121
+        },
+        {
+          "description": "4.2mm, Large Hub, ReAct, Shaver, Full-Radius Resector",
+          "codes": [
+            {
+              "candidate": "42FRR-RA-ZZ",
+              "sourceBounds": [
+                0.4955633082432893,
+                0.7132301422087712,
+                0.5665824217920163,
+                0.7257541967077011
+              ],
+              "officialBounds": [
+                303.19482421875,
+                568.3128662109375,
+                347.9788513183594,
+                578.4918823242188
+              ],
+              "officialCode": "42FRR-RA-ZZ"
+            }
+          ],
+          "rowBounds": [
+            0.1003220242569351,
+            0.7134819421921481,
+            0.5665824217920163,
+            0.7257541967077011
+          ],
+          "pdfPage": 95,
+          "officialPage": 121
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Full-Radius Resector — 6,000rpm Max., 19.0cm Working Length, 1 per Box",
+      "page": 95,
+      "officialPage": 121,
+      "headingBounds": [
+        0.10031072999907245,
+        0.7433548461242718,
+        0.38748283831849994,
+        0.7563412717722346
+      ],
+      "rows": [
+        {
+          "description": "4.2mm, Large Hub, Merlin, Shaver, Full-Radius Resector Pre-Bent to 15°, Convex",
+          "codes": [
+            {
+              "candidate": "EL9247D",
+              "sourceBounds": [
+                0.5190759963832512,
+                0.7765616486402358,
+                0.5665585203354115,
+                0.7891006978097868
+              ],
+              "officialBounds": [
+                318.03582763671875,
+                619.6128540039062,
+                347.9788818359375,
+                629.7918701171875
+              ],
+              "officialCode": "EL9247D"
+            }
+          ],
+          "rowBounds": [
+            0.1145770944583308,
+            0.7616272508143301,
+            0.5665585203354115,
+            0.7891006978097868
+          ],
+          "pdfPage": 95,
+          "officialPage": 121
+        },
+        {
+          "description": "4.2mm, Large Hub, Merlin, Shaver, Full-Radius Resector Pre-Bent to 15°, Concave",
+          "codes": [
+            {
+              "candidate": "EL9247U",
+              "sourceBounds": [
+                0.5195926324857238,
+                0.806945360056121,
+                0.566547032825782,
+                0.8194847456822166
+              ],
+              "officialBounds": [
+                318.36883544921875,
+                644.2188110351562,
+                347.9788818359375,
+                654.3978271484375
+              ],
+              "officialCode": "EL9247U"
+            }
+          ],
+          "rowBounds": [
+            0.11456560692020647,
+            0.7920113740544895,
+            0.566547032825782,
+            0.8194847456822166
+          ],
+          "pdfPage": 95,
+          "officialPage": 121
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Full-Radius Resector — 6,000rpm Max., 8.0cm Working Length, 6/box",
+      "page": 95,
+      "officialPage": 121,
+      "headingBounds": [
+        0.10027529263441316,
+        0.837085395129621,
+        0.35850117421509253,
+        0.8500902618152663
+      ],
+      "rows": [
+        {
+          "description": "2.0mm, Large Hub, Sterling, Shaver, Full-Radius Resector",
+          "codes": [
+            {
+              "candidate": "C9943A",
+              "sourceBounds": [
+                0.5245843409367488,
+                0.8550966455406944,
+                0.566528778327142,
+                0.8676392229097545
+              ],
+              "officialBounds": [
+                321.52783203125,
+                683.2158203125,
+                347.9788513183594,
+                693.3948364257812
+              ],
+              "officialCode": "C9943A"
+            }
+          ],
+          "rowBounds": [
+            0.10026838079206084,
+            0.8553669683942013,
+            0.566528778327142,
+            0.8676392229097545
+          ],
+          "pdfPage": 95,
+          "officialPage": 121
+        },
+        {
+          "description": "2.9mm, Large Hub, Sterling, Shaver, Full-Radius Resector",
+          "codes": [
+            {
+              "candidate": "C9944A",
+              "sourceBounds": [
+                0.5245776643760005,
+                0.872755907464209,
+                0.566522101766394,
+                0.885298484833269
+              ],
+              "officialBounds": [
+                321.52783203125,
+                697.516845703125,
+                347.9788513183594,
+                707.6958618164062
+              ],
+              "officialCode": "C9944A"
+            }
+          ],
+          "rowBounds": [
+            0.10026170423131261,
+            0.8730262303177159,
+            0.566522101766394,
+            0.885298484833269
+          ],
+          "pdfPage": 95,
+          "officialPage": 121
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 18
+}

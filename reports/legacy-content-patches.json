@@ -1,0 +1,884 @@
+{
+  "pbg": {
+    "description": {
+      "ru": "Бесцементная бедренная ножка PBG предназначена для пациентов с выраженным болевым синдромом и/или нарушением функции тазобедренного сустава при остеоартрозе, посттравматическом или ревматоидном артрите и врождённой дисплазии. Пескоструйная обработка диафизарной части создаёт поверхность для костного обрастания.\n\nВ исходном описании к показаниям также отнесены аваскулярный некроз головки бедренной кости; острые травматические переломы головки или шейки бедренной кости; неудовлетворительные результаты предшествующих операций, включая реконструкцию сустава, внутреннюю фиксацию, артродез, гемиартропластику и тотальное эндопротезирование; отдельные случаи анкилоза.",
+      "en": "The PBG cementless femoral stem is indicated for a severely painful and/or disabled hip joint associated with osteoarthritis, traumatic arthritis, rheumatoid arthritis or congenital hip dysplasia. The grit-blasted diaphyseal region provides a surface for bone ongrowth.\n\nThe original description also lists avascular necrosis of the femoral head; acute traumatic fracture of the femoral head or neck; failed previous hip surgery, including joint reconstruction, internal fixation, arthrodesis, hemiarthroplasty or total hip replacement; and certain cases of ankylosis."
+    },
+    "features": [
+      {
+        "id": "legacy-biplanar-taper",
+        "title": {
+          "ru": "Двухплоскостная конусность 3°",
+          "en": "3° biplanar taper"
+        },
+        "text": {
+          "ru": "Двухплоскостная конусность 3° соответствует естественной форме бедренного канала.",
+          "en": "The 3° biplanar taper matches the natural femoral canal."
+        }
+      },
+      {
+        "id": "legacy-load-transfer",
+        "title": {
+          "ru": "Передача нагрузки",
+          "en": "Load transfer"
+        },
+        "text": {
+          "ru": "Нагрузка передаётся проксимальнее метафизарно-диафизарного перехода, что позволяет избежать экранирования нагрузки в дистальном отделе.",
+          "en": "Load transfer takes place above the metaphyseal–diaphyseal junction, avoiding stress shielding distally."
+        }
+      },
+      {
+        "id": "legacy-three-point",
+        "title": {
+          "ru": "Трёхточечная фиксация",
+          "en": "Three-point fixation"
+        },
+        "text": {
+          "ru": "Трёхточечный контакт и фиксация обеспечивают немедленную ротационную стабильность.",
+          "en": "Three-point contact and fixation provide immediate rotational stability."
+        }
+      },
+      {
+        "id": "legacy-titanium-coating",
+        "title": {
+          "ru": "Проксимальное титановое покрытие",
+          "en": "Proximal titanium coating"
+        },
+        "text": {
+          "ru": "Вакуумно-плазменное титановое покрытие толщиной 200 мкм, с размером пор 200 мкм и пористостью 30% способствует врастанию костной ткани.",
+          "en": "Vacuum plasma titanium coating with a thickness of 200 μm, pore size of 200 μm and porosity of 30% supports bone ingrowth."
+        }
+      },
+      {
+        "id": "legacy-grit-blasted",
+        "title": {
+          "ru": "Пескоструйная поверхность",
+          "en": "Grit-blasted surface"
+        },
+        "text": {
+          "ru": "Пескоструйно обработанная диафизарная часть обеспечивает поверхность для костного обрастания.",
+          "en": "The grit-blasted diaphyseal region provides a surface for bone ongrowth."
+        }
+      },
+      {
+        "id": "legacy-distal-tip",
+        "title": {
+          "ru": "Полированный дистальный конец",
+          "en": "Polished distal tip"
+        },
+        "text": {
+          "ru": "Полированный пулевидный дистальный конец предотвращает импинджмент кортикального слоя и уменьшает боль в бедре.",
+          "en": "The polished distal bullet tip avoids cortical impingement and reduces thigh pain."
+        }
+      }
+    ],
+    "specTables": [
+      {
+        "id": "legacy-pbg-characteristics",
+        "title": {
+          "ru": "Характеристики ножки PBG",
+          "en": "PBG stem characteristics"
+        },
+        "unit": null,
+        "columns": [
+          {
+            "ru": "Параметр",
+            "en": "Parameter"
+          },
+          {
+            "ru": "Значение",
+            "en": "Value"
+          }
+        ],
+        "rows": [
+          [
+            {
+              "ru": "Двухплоскостная конусность",
+              "en": "Biplanar taper"
+            },
+            "3°"
+          ],
+          [
+            {
+              "ru": "Толщина проксимального покрытия",
+              "en": "Proximal coating thickness"
+            },
+            {
+              "ru": "200 мкм",
+              "en": "200 μm"
+            }
+          ],
+          [
+            {
+              "ru": "Размер пор",
+              "en": "Pore size"
+            },
+            {
+              "ru": "200 мкм",
+              "en": "200 μm"
+            }
+          ],
+          [
+            {
+              "ru": "Пористость покрытия",
+              "en": "Coating porosity"
+            },
+            "30%"
+          ]
+        ],
+        "legend": null,
+        "headerType": "parameter-values"
+      }
+    ]
+  },
+  "tina": {
+    "description": {
+      "ru": "Система транспедикулярной фиксации TINA 5.5/6.0 включает полиаксиальные винты с максимальным углом отклонения 50°, облегчающим установку винтов и стержней. Для систем 5.5 и 6.0 используется один набор инструментов. Подвздошные винты большого диаметра предназначены для репозиции и внутренней фиксации крестцово-подвздошного сочленения.\n\nВ исходном описании указаны грудопоясничный и крестцовый отделы позвоночника. Показания: деформации, дегенеративные заболевания межпозвонковых дисков, спондилолистез, травмы, опухоли и стеноз.\n\nВарианты винтов: полиаксиальный транспедикулярный, полиаксиальный редукционный, моноаксиальный транспедикулярный и моноаксиальный редукционный. Инструментарий: набор TINA 5.5/6.0.",
+      "en": "The TINA Spine 5.5/6.0 pedicle screw system includes polyaxial screws with a maximum angulation of 50°, facilitating screw and rod placement. The same instrument set is offered for systems 5.5 and 6.0. Large-diameter iliac screws are provided for sacroiliac reduction and internal fixation.\n\nThe original description specifies the thoracolumbar and sacral spine. Indications include deformities, degenerative disc disease, spondylolisthesis, trauma, tumors and stenosis.\n\nScrew options are polyaxial pedicle, polyaxial reduction, monoaxial pedicle and monoaxial reduction screws. Instrumentation: TINA 5.5/6.0 Instrument Set."
+    },
+    "features": [
+      {
+        "id": "legacy-saddle-lock",
+        "title": {
+          "ru": "Седловидный блокирующий элемент",
+          "en": "Saddle locking block"
+        },
+        "text": {
+          "ru": "Зубчатая резьба седловидного блокирующего элемента увеличивает площадь контакта и силу удержания стержня винтом, снижая риск перекоса резьбы.",
+          "en": "The serrated thread of the saddle locking block increases contact area and rod-to-screw holding force while minimizing cross-threading."
+        }
+      },
+      {
+        "id": "legacy-double-lead",
+        "title": {
+          "ru": "Двухзаходная резьба",
+          "en": "Double-lead thread"
+        },
+        "text": {
+          "ru": "Двухзаходная резьба обеспечивает надёжную фиксацию в кости и быстрое введение винта.",
+          "en": "The double-lead thread provides secure bone anchorage and fast screw insertion."
+        }
+      },
+      {
+        "id": "legacy-low-profile",
+        "title": {
+          "ru": "Низкопрофильный поперечный коннектор",
+          "en": "Ultra-low-profile transconnector"
+        },
+        "text": {
+          "ru": "Поперечный коннектор с ультранизким профилем уменьшает раздражение окружающих мягких тканей.",
+          "en": "The ultra-low-profile transconnector minimizes irritation to surrounding soft tissue."
+        }
+      },
+      {
+        "id": "legacy-polyaxial-angle",
+        "title": {
+          "ru": "Полиаксиальность до 50°",
+          "en": "Polyaxial angulation up to 50°"
+        },
+        "text": {
+          "ru": "Максимальный угол отклонения полиаксиального винта составляет 50°, облегчая установку винта и стержня.",
+          "en": "A maximum polyaxial angulation of 50° facilitates screw and rod placement."
+        }
+      },
+      {
+        "id": "legacy-spherical-head",
+        "title": {
+          "ru": "Сферическая головка винта",
+          "en": "Spherical screw head"
+        },
+        "text": {
+          "ru": "Сферическая головка корпуса винта улучшает угловую стабильность и фрикционное удержание.",
+          "en": "The spherical screw-body head provides improved angular stability and frictional holding force."
+        }
+      },
+      {
+        "id": "legacy-iliac-screws",
+        "title": {
+          "ru": "Подвздошные винты",
+          "en": "Iliac screws"
+        },
+        "text": {
+          "ru": "Предусмотрены подвздошные винты большого диаметра для репозиции и внутренней фиксации крестцово-подвздошного сочленения.",
+          "en": "Large-diameter iliac screws are provided for sacroiliac reduction and internal fixation."
+        }
+      }
+    ],
+    "specTables": [
+      {
+        "id": "legacy-tina-characteristics",
+        "title": {
+          "ru": "Характеристики системы TINA",
+          "en": "TINA system characteristics"
+        },
+        "unit": null,
+        "columns": [
+          {
+            "ru": "Параметр",
+            "en": "Parameter"
+          },
+          {
+            "ru": "Значение",
+            "en": "Value"
+          }
+        ],
+        "rows": [
+          [
+            {
+              "ru": "Система",
+              "en": "System"
+            },
+            "TINA 5.5 / 6.0"
+          ],
+          [
+            {
+              "ru": "Максимальная полиаксиальность",
+              "en": "Maximum polyaxial angulation"
+            },
+            "50°"
+          ],
+          [
+            {
+              "ru": "Варианты винтов",
+              "en": "Screw options"
+            },
+            {
+              "ru": "Полиаксиальный транспедикулярный / полиаксиальный редукционный / моноаксиальный транспедикулярный / моноаксиальный редукционный",
+              "en": "Polyaxial pedicle / polyaxial reduction / monoaxial pedicle / monoaxial reduction"
+            }
+          ],
+          [
+            {
+              "ru": "Набор инструментов",
+              "en": "Instrument set"
+            },
+            "TINA 5.5/6.0"
+          ]
+        ],
+        "legend": null,
+        "headerType": "parameter-values"
+      }
+    ]
+  },
+  "cervical": {
+    "description": {
+      "ru": "Передний шейный блокированный кейдж объединяет пластину и межтеловой имплант. Предварительно собранные пластина и распорка позволяют избежать отдельного этапа выравнивания и реконструирования передней шейной пластины.\n\nВ англоязычном описании указаны разрывы и грыжи межпозвонковых дисков, дегенеративные заболевания дисков, нестабильность позвоночника, псевдоартроз и неудовлетворительные результаты спондилодеза. Область применения — шейный отдел C2–C7. Дополнительно перечислены стеноз позвоночного канала и предшествующий неудачный спондилодез.\n\nСистема предусматривает самонарезающие блокируемые винты диаметром 3.0 мм со звездообразным шлицем длиной 12, 14 и 16 мм. Предусмотрен набор инструментов для переднего шейного блокированного кейджа.",
+      "en": "The anterior cervical locking cage combines a plate and an interbody implant. The Russian source states that the preassembled plate and spacer avoid a separate alignment and reconstruction step for the anterior cervical plate.\n\nThe English description lists ruptured and herniated discs, degenerative disc disease, spinal instability, pseudarthrosis and failed spondylodesis. The indicated spinal region is C2–C7. Spinal stenosis and failed previous fusion are also listed.\n\nThe system includes 3.0 mm self-tapping locking screws with a stardrive recess in lengths of 12, 14 and 16 mm. An Anterior Cervical Intervertebral Locking Cage Instrument Set is provided."
+    },
+    "features": [
+      {
+        "id": "legacy-peek-optima",
+        "title": {
+          "ru": "Материал PEEK-OPTIMA®",
+          "en": "PEEK-OPTIMA® material"
+        },
+        "text": {
+          "ru": "Биосовместимый материал PEEK-OPTIMA® близок по свойствам к губчатой кости; в исходном описании это связывается с уменьшением риска системного воздействия и местных воспалительных реакций.",
+          "en": "The source describes biocompatible PEEK-OPTIMA® as having properties close to cancellous bone, minimizing the risk of systemic uptake and local inflammatory reactions."
+        }
+      },
+      {
+        "id": "legacy-perforated",
+        "title": {
+          "ru": "Перфорированная структура",
+          "en": "Perforated structure"
+        },
+        "text": {
+          "ru": "Перфорированная структура предназначена для врастания костной ткани.",
+          "en": "The perforated structure supports bone ingrowth."
+        }
+      },
+      {
+        "id": "legacy-roughened",
+        "title": {
+          "ru": "Шероховатая поверхность",
+          "en": "Roughened surface"
+        },
+        "text": {
+          "ru": "Шероховатая поверхность способствует интеграции импланта.",
+          "en": "The roughened surface promotes integration."
+        }
+      }
+    ],
+    "specTables": [
+      {
+        "id": "legacy-cervical-screws",
+        "title": {
+          "ru": "Блокируемые винты",
+          "en": "Locking screws"
+        },
+        "unit": "mm",
+        "columns": [
+          {
+            "ru": "Параметр",
+            "en": "Parameter"
+          },
+          {
+            "ru": "Значение",
+            "en": "Value"
+          }
+        ],
+        "rows": [
+          [
+            {
+              "ru": "Диаметр",
+              "en": "Diameter"
+            },
+            "3.0"
+          ],
+          [
+            {
+              "ru": "Длина",
+              "en": "Length"
+            },
+            [
+              "12",
+              "14",
+              "16"
+            ]
+          ]
+        ],
+        "legend": null,
+        "headerType": "parameter-values"
+      },
+      {
+        "id": "legacy-cervical-characteristics",
+        "title": {
+          "ru": "Характеристики кейджа",
+          "en": "Cage characteristics"
+        },
+        "unit": null,
+        "columns": [
+          {
+            "ru": "Параметр",
+            "en": "Parameter"
+          },
+          {
+            "ru": "Значение",
+            "en": "Value"
+          }
+        ],
+        "rows": [
+          [
+            {
+              "ru": "Материал",
+              "en": "Material"
+            },
+            "PEEK-OPTIMA®"
+          ],
+          [
+            {
+              "ru": "Отдел позвоночника",
+              "en": "Spinal region"
+            },
+            "C2–C7"
+          ],
+          [
+            {
+              "ru": "Шлиц винта",
+              "en": "Screw recess"
+            },
+            {
+              "ru": "Звездообразный",
+              "en": "Stardrive"
+            }
+          ],
+          [
+            {
+              "ru": "Тип винта",
+              "en": "Screw type"
+            },
+            {
+              "ru": "Блокируемый, самонарезающий",
+              "en": "Locking, self-tapping"
+            }
+          ]
+        ],
+        "legend": null,
+        "headerType": "parameter-values"
+      }
+    ]
+  },
+  "uhn": {
+    "description": {
+      "ru": "Универсальный интрамедуллярный штифт UHN предназначен для фиксации переломов проксимального отдела и диафиза плечевой кости.\n\nВ исходном описании перечислены блокируемые винты для плечевого штифта диаметром 3.6 и 5.0 мм, торцевая заглушка и набор инструментов Universal Humeral Nail Instrument Set.",
+      "en": "The UHN Universal Humeral Nail is designed for fixation of proximal humeral fractures and humeral shaft fractures.\n\nThe original description lists 3.6 mm and 5.0 mm locking screws for the humeral nail, an end cap, and the Universal Humeral Nail Instrument Set."
+    },
+    "features": [
+      {
+        "id": "legacy-anatomic-design",
+        "title": {
+          "ru": "Анатомическая форма",
+          "en": "Anatomic design"
+        },
+        "text": {
+          "ru": "Анатомическая форма соответствует физиологической кривизне костномозгового канала, облегчая введение штифта.",
+          "en": "The anatomic design corresponds to the physiological curvature of the medullary canal for easier insertion."
+        }
+      },
+      {
+        "id": "legacy-distal-cutting",
+        "title": {
+          "ru": "Режущий дистальный конец",
+          "en": "Distal cutting end"
+        },
+        "text": {
+          "ru": "Режущий дистальный конец облегчает введение штифта.",
+          "en": "The distal cutting end facilitates insertion."
+        }
+      }
+    ],
+    "specTables": [
+      {
+        "id": "legacy-uhn-locking-screws",
+        "title": {
+          "ru": "Блокируемые винты для плечевого штифта",
+          "en": "Locking screws for the humeral nail"
+        },
+        "unit": "mm",
+        "columns": [
+          {
+            "ru": "Параметр",
+            "en": "Parameter"
+          },
+          {
+            "ru": "Значение",
+            "en": "Value"
+          }
+        ],
+        "rows": [
+          [
+            {
+              "ru": "Диаметр",
+              "en": "Diameter"
+            },
+            [
+              "3.6",
+              "5.0"
+            ]
+          ]
+        ],
+        "legend": null,
+        "headerType": "parameter-values"
+      }
+    ]
+  },
+  "sequent": {
+    "description": {
+      "ru": "Инструмент для восстановления мениска Sequent™ представляет собой систему с несколькими имплантами из PEEK. Она позволяет независимо натягивать и фиксировать швы в любой конфигурации. Технология обеспечивает простую технику реконструкции мениска с потенциальной возможностью более быстрого восстановления и снижения риска повреждения мениска и суставного хряща.\n\nМалые, средние и большие разрывы мениска можно восстанавливать с использованием трёх или шести непрерывных швов. Предусмотрены две конфигурации инструмента, позволяющие выбрать вариант для восстановления практически любого разрыва мениска. На исходной странице указан изогнутый инструмент с 4 или 7 предварительно заряженными имплантами.",
+      "en": "The Sequent™ Meniscus Repair Instrument is a multi-implant system made from PEEK. It allows individually tensioned and fixed stitches in any configuration. The technology provides a simple meniscus reconstruction technique with the potential for faster recovery and reduced risk of meniscal and cartilage injury.\n\nSmall, medium and large meniscal tears can be repaired using three or six continuous stitches. Two instrument configurations allow surgeons to select the appropriate instrument for virtually any meniscal tear. The original page specifies a curved instrument with 4 or 7 preloaded implants."
+    },
+    "specTables": [
+      {
+        "id": "legacy-sequent-characteristics",
+        "title": {
+          "ru": "Характеристики Sequent",
+          "en": "Sequent characteristics"
+        },
+        "unit": null,
+        "columns": [
+          {
+            "ru": "Параметр",
+            "en": "Parameter"
+          },
+          {
+            "ru": "Значение",
+            "en": "Value"
+          }
+        ],
+        "rows": [
+          [
+            {
+              "ru": "Материал имплантов",
+              "en": "Implant material"
+            },
+            "PEEK"
+          ],
+          [
+            {
+              "ru": "Форма инструмента",
+              "en": "Instrument shape"
+            },
+            {
+              "ru": "Изогнутый",
+              "en": "Curved"
+            }
+          ],
+          [
+            {
+              "ru": "Предварительно заряженные импланты",
+              "en": "Preloaded implants"
+            },
+            [
+              "4",
+              "7"
+            ]
+          ],
+          [
+            {
+              "ru": "Непрерывные швы",
+              "en": "Continuous stitches"
+            },
+            [
+              "3",
+              "6"
+            ]
+          ]
+        ],
+        "legend": null,
+        "headerType": "parameter-values"
+      }
+    ]
+  },
+  "poplok": {
+    "description": {
+      "ru": "Безузловой анкерный фиксатор POPLOK диаметром 3.3 мм изготовлен из PEEK — рентгенонегативного полимера. В комплект входит одна нить #2 HIFI.",
+      "en": "The POPLOK knotless anchor has a diameter of 3.3 mm and is made from PEEK, a radiolucent polymer. One #2 HIFI suture is included."
+    },
+    "specTables": [
+      {
+        "id": "legacy-poplok-characteristics",
+        "title": {
+          "ru": "Характеристики POPLOK",
+          "en": "POPLOK characteristics"
+        },
+        "unit": null,
+        "columns": [
+          {
+            "ru": "Параметр",
+            "en": "Parameter"
+          },
+          {
+            "ru": "Значение",
+            "en": "Value"
+          }
+        ],
+        "rows": [
+          [
+            {
+              "ru": "Диаметр",
+              "en": "Diameter"
+            },
+            {
+              "ru": "3.3 мм",
+              "en": "3.3 mm"
+            }
+          ],
+          [
+            {
+              "ru": "Материал",
+              "en": "Material"
+            },
+            "PEEK"
+          ],
+          [
+            {
+              "ru": "Фиксация",
+              "en": "Fixation"
+            },
+            {
+              "ru": "Безузловая",
+              "en": "Knotless"
+            }
+          ],
+          [
+            {
+              "ru": "Нить в комплекте",
+              "en": "Included suture"
+            },
+            {
+              "ru": "1 × #2 HIFI",
+              "en": "1 × #2 HIFI"
+            }
+          ]
+        ],
+        "legend": null,
+        "headerType": "parameter-values"
+      }
+    ]
+  },
+  "cannula": {
+    "description": {
+      "ru": "Стерильная пункционная канюля Synicem для вертебропластики имеет эргономичную конструкцию. Соединитель типа Luer обеспечивает надёжное соединение компонентов. Канюля имеет острый атравматичный скос.\n\nКаждая упаковка содержит блистер с одной канюлей, стерилизованной этиленоксидом. Канюля с рукояткой изготовлена из хирургической нержавеющей стали. Доступные сочетания наружного диаметра и длины: 2.4 мм × 100 мм; 3.0 мм × 100 мм и 3.0 мм × 150 мм.",
+      "en": "The sterile Synicem puncture cannula for vertebroplasty has an ergonomic design. Its Luer connector provides a secure connection between components. The cannula has a sharp, atraumatic bevel.\n\nEach package contains a blister pack with one cannula sterilized using ethylene oxide. The cannula and handle assembly uses surgical stainless steel. Available outer-diameter and length combinations are 2.4 mm × 100 mm, 3.0 mm × 100 mm and 3.0 mm × 150 mm."
+    },
+    "specTables": [
+      {
+        "id": "legacy-cannula-sizes",
+        "title": {
+          "ru": "Размеры пункционной канюли",
+          "en": "Puncture cannula sizes"
+        },
+        "unit": "mm",
+        "columns": [
+          {
+            "ru": "Наружный диаметр",
+            "en": "Outer diameter"
+          },
+          {
+            "ru": "Длина",
+            "en": "Length"
+          }
+        ],
+        "rows": [
+          [
+            "2.4",
+            "100"
+          ],
+          [
+            "3.0",
+            "100"
+          ],
+          [
+            "3.0",
+            "150"
+          ]
+        ],
+        "legend": null,
+        "headersVerified": true
+      },
+      {
+        "id": "legacy-cannula-characteristics",
+        "title": {
+          "ru": "Характеристики канюли",
+          "en": "Cannula characteristics"
+        },
+        "unit": null,
+        "columns": [
+          {
+            "ru": "Параметр",
+            "en": "Parameter"
+          },
+          {
+            "ru": "Значение",
+            "en": "Value"
+          }
+        ],
+        "rows": [
+          [
+            {
+              "ru": "Материал",
+              "en": "Material"
+            },
+            {
+              "ru": "Хирургическая нержавеющая сталь",
+              "en": "Surgical stainless steel"
+            }
+          ],
+          [
+            {
+              "ru": "Соединитель",
+              "en": "Connector"
+            },
+            "Luer"
+          ],
+          [
+            {
+              "ru": "Стерилизация",
+              "en": "Sterilization"
+            },
+            {
+              "ru": "Этиленоксид",
+              "en": "Ethylene oxide"
+            }
+          ],
+          [
+            {
+              "ru": "Упаковка",
+              "en": "Packaging"
+            },
+            {
+              "ru": "1 канюля в блистере",
+              "en": "1 cannula in a blister pack"
+            }
+          ]
+        ],
+        "legend": null,
+        "headerType": "parameter-values"
+      }
+    ]
+  },
+  "anchor": {
+    "description": {
+      "ru": "Система CrossFT включает безузловой анкер 4.75 мм и анкер CrossFT 4.5 мм с двумя нитями #2 Hi-Fi.\n\nНа исходной странице безузлового анкера описана система двухрядного шва ротаторной манжеты CUFF LINK: анкер с голубой лентой и анкер с ушком, через которое проводится лента из медиального ряда швов. В исходном описании эта техника охарактеризована как применяемая редко и требующая дорогостоящих анкеров, инструментария и навыка выполнения шва ротаторной манжеты плечевого сустава. Наименование CUFF LINK сохранено из источника и требует проверки соответствия изделию CrossFT.\n\nАнкер CrossFT 4.5 мм из PEEK ввинчивается в кость и предназначен для шва ротаторной манжеты. Для формирования отверстия требуется шило.",
+      "en": "The CrossFT system includes a 4.75 mm knotless anchor and a 4.5 mm CrossFT anchor with two #2 Hi-Fi sutures.\n\nThe original knotless-anchor page describes the CUFF LINK double-row rotator cuff suture system: an anchor with blue tape and an eyelet anchor through which tape from the medial suture row is passed. The source describes these as infrequent procedures requiring costly anchors and instruments and expertise in rotator cuff suturing. The CUFF LINK name is preserved from the source and requires verification against the CrossFT product.\n\nThe 4.5 mm CrossFT PEEK anchor screws into bone and is intended for rotator cuff suturing. An awl is required to create the hole."
+    },
+    "specTables": [
+      {
+        "id": "legacy-crossft-characteristics",
+        "title": {
+          "ru": "Характеристики анкеров CrossFT",
+          "en": "CrossFT anchor characteristics"
+        },
+        "unit": null,
+        "columns": [
+          {
+            "ru": "Изделие",
+            "en": "Product"
+          },
+          {
+            "ru": "Диаметр",
+            "en": "Diameter"
+          },
+          {
+            "ru": "Характеристики из источника",
+            "en": "Source characteristics"
+          }
+        ],
+        "rows": [
+          [
+            {
+              "ru": "Безузловой анкер CrossFT",
+              "en": "CrossFT knotless anchor"
+            },
+            {
+              "ru": "4.75 мм",
+              "en": "4.75 mm"
+            },
+            {
+              "ru": "Анкер с голубой лентой; в исходном описании указана система CUFF LINK",
+              "en": "Anchor with blue tape; the original description identifies CUFF LINK"
+            }
+          ],
+          [
+            {
+              "ru": "Анкер CrossFT на отвёртке",
+              "en": "CrossFT anchor on a screwdriver"
+            },
+            {
+              "ru": "4.5 мм",
+              "en": "4.5 mm"
+            },
+            {
+              "ru": "PEEK; 2 нити #2 Hi-Fi; требуется шило",
+              "en": "PEEK; two #2 Hi-Fi sutures; awl required"
+            }
+          ]
+        ],
+        "legend": null,
+        "headersVerified": true
+      }
+    ]
+  },
+  "synicem": {
+    "description": {
+      "ru": "Synicem 1G — стерильный рентгеноконтрастный акриловый костный цемент с гентамицином для ручного нанесения. В исходном описании указаны маркировка CE и соответствие ISO 13485 и ISO 5833. Тройной барьер обеспечивает стерильность упаковки. Отмечены лёгкое смешивание и быстрое получение однородной массы, короткая фаза окончательного отверждения для уменьшения риска микроподвижности, однородная рентгеноконтрастность благодаря микродисперсному рентгеноконтрастному веществу. Цемент содержит термостабильный антибиотик широкого спектра действия; в источнике отмечено его высвобождение из цемента.\n\nПредназначен для цементирования и фиксации костей и компонентов протеза с использованием стерильного полимеризующегося материала в ортопедии и других хирургических специальностях. В исходном описании Synicem 1G с гентамицином рекомендован при повышенном риске повторного вмешательства, инфицировании микроорганизмами, чувствительными к гентамицину, или сниженных защитных силах организма. Доза порошка 20 г содержит 250 мг гентамицина сульфата, доза 40 г — 500 мг.\n\nSynicem 3G — стерильный рентгеноконтрастный акриловый костный цемент с гентамицином для шприцевого введения. В исходном описании указаны маркировка CE и соответствие ISO 13485 и ISO 5833. Тройной барьер обеспечивает стерильность упаковки. Отмечены быстрое смешивание и получение однородной массы, удобство нанесения благодаря продлённому периоду вязкости, надёжная фиксация протеза, короткая фаза окончательного отверждения для уменьшения риска микроподвижности и однородная рентгеноконтрастность. Заявлена совместимость со всеми системами нанесения и смешивания.\n\nПредназначен для цементирования и фиксации костей и компонентов протеза с использованием стерильного полимеризующегося материала в ортопедии и других хирургических специальностях. В исходном описании Synicem 3G с гентамицином рекомендован при повышенном риске повторного вмешательства, инфицировании микроорганизмами, чувствительными к гентамицину, или сниженных защитных силах организма. Доза порошка 40 г содержит 500 мг гентамицина сульфата, доза 60 г — 750 мг.\n\nSynicem VTP — акриловый хирургический цемент для вертебропластики. В исходном описании указаны маркировка CE и соответствие ISO 13485 и ISO 5833. Тройной барьер обеспечивает стерильность упаковки. Отмечены простота приготовления и инъекционного введения, низкая вязкость, высокая рентгеноконтрастность и постоянное рабочее время. Согласно исходному описанию, это позволяет точно контролировать введение под рентгеноскопией с уменьшением облучения пациента и медицинского персонала.\n\nРазработан для заполнения тел позвонков со структурными изменениями при остеопорозе, опухолевой инфильтрации доброкачественного или злокачественного характера, сосудистых мальформациях и отдельных видах травм. Метод применения определяется клинической ситуацией и решением специалиста. В источнике перечислены введение с помощью инъекционного устройства и иглы для биопсии тела позвонка, а также внутрипозвонковые вмешательства — баллонная или инструментальная кифопластика.",
+      "en": "Synicem 1G is a sterile, radiopaque acrylic bone cement with gentamicin for manual application. The original description states CE marking and compliance with ISO 13485 and ISO 5833. Triple-barrier packaging protects sterility. It describes easy mixing and rapid mass homogeneity, a short final setting phase to reduce the risk of micromotion, and homogeneous radiopacity from a microdispersed radiopaque substance. It contains a thermostable broad-spectrum antibiotic, with antibiotic release described in the source.\n\nIt is used for cementation and fixation of bone and prosthetic elements using a sterile polymerizable material in orthopedics and other surgical specialties. The source recommends gentamicin-containing Synicem 1G for patients at increased risk associated with repeat intervention, infection with gentamicin-susceptible organisms or reduced host defenses. A 20 g powder dose contains 250 mg gentamicin sulfate, and a 40 g dose contains 500 mg.\n\nSynicem 3G is a sterile, radiopaque acrylic bone cement with gentamicin for syringe application. The source states CE marking and compliance with ISO 13485 and ISO 5833. Triple-barrier packaging protects sterility. It describes rapid mixing and mass homogeneity, easy application during an extended viscosity period, reliable prosthesis fixation, a short final setting phase to reduce micromotion, and homogeneous radiopacity. Compatibility with all application and mixing systems is claimed.\n\nIt is used for cementation and fixation of bone and prosthetic elements using a sterile polymerizable material in orthopedics and other surgical specialties. The source recommends gentamicin-containing Synicem 3G for patients at increased risk associated with repeat intervention, infection with gentamicin-susceptible organisms or reduced host defenses. A 40 g powder dose contains 500 mg gentamicin sulfate, and a 60 g dose contains 750 mg.\n\nSynicem VTP is an acrylic surgical cement for vertebroplasty. The source states CE marking and compliance with ISO 13485 and ISO 5833. Triple-barrier packaging protects sterility. It describes easy preparation and injection, low viscosity, high radiopacity and a constant working time. According to the original description, this permits precise fluoroscopic control with reduced exposure to the patient and medical staff.\n\nIt is developed for filling vertebral bodies with structural changes caused by osteoporosis, benign or malignant tumor infiltration, vascular malformations and selected trauma cases. Application depends on the clinical situation and specialist judgment. The source lists injection using an injection device and a vertebral body biopsy needle, as well as intravertebral procedures using balloon or instrumental kyphoplasty."
+    },
+    "specTables": [
+      {
+        "id": "legacy-synicem-gentamicin",
+        "title": {
+          "ru": "Дозировки гентамицина из исходных описаний",
+          "en": "Gentamicin quantities in the original descriptions"
+        },
+        "unit": null,
+        "columns": [
+          {
+            "ru": "Цемент",
+            "en": "Cement"
+          },
+          {
+            "ru": "Порошок",
+            "en": "Powder"
+          },
+          {
+            "ru": "Гентамицина сульфат",
+            "en": "Gentamicin sulfate"
+          }
+        ],
+        "rows": [
+          [
+            "Synicem 1G",
+            {
+              "ru": "20 г",
+              "en": "20 g"
+            },
+            {
+              "ru": "250 мг",
+              "en": "250 mg"
+            }
+          ],
+          [
+            "Synicem 1G",
+            {
+              "ru": "40 г",
+              "en": "40 g"
+            },
+            {
+              "ru": "500 мг",
+              "en": "500 mg"
+            }
+          ],
+          [
+            "Synicem 3G",
+            {
+              "ru": "40 г",
+              "en": "40 g"
+            },
+            {
+              "ru": "500 мг",
+              "en": "500 mg"
+            }
+          ],
+          [
+            "Synicem 3G",
+            {
+              "ru": "60 г",
+              "en": "60 g"
+            },
+            {
+              "ru": "750 мг",
+              "en": "750 mg"
+            }
+          ]
+        ],
+        "legend": null,
+        "headersVerified": true
+      },
+      {
+        "id": "legacy-synicem-application",
+        "title": {
+          "ru": "Способы применения",
+          "en": "Application methods"
+        },
+        "unit": null,
+        "columns": [
+          {
+            "ru": "Параметр",
+            "en": "Parameter"
+          },
+          {
+            "ru": "Значение",
+            "en": "Value"
+          }
+        ],
+        "rows": [
+          [
+            "Synicem 1G",
+            {
+              "ru": "Ручное нанесение",
+              "en": "Manual application"
+            }
+          ],
+          [
+            "Synicem 3G",
+            {
+              "ru": "Шприцевое введение",
+              "en": "Syringe application"
+            }
+          ],
+          [
+            "Synicem VTP",
+            {
+              "ru": "Вертебропластика",
+              "en": "Vertebroplasty"
+            }
+          ]
+        ],
+        "legend": null,
+        "headerType": "parameter-values"
+      }
+    ]
+  }
+}

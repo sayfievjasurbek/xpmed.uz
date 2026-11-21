@@ -1,0 +1,917 @@
+{
+  "slug": "centralizer",
+  "brand": "double-medical",
+  "category": "joint-replacement",
+  "subcategory": "hip",
+  "specialty": [
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Центратор бедренной ножки",
+    "en": "Centralizer"
+  },
+  "catalogType": "system",
+  "shortDescription": {
+    "ru": "Компоненты для эндопротезирования",
+    "en": "Joint replacement components"
+  },
+  "description": {
+    "ru": "Центратор бедренной ножки. Материалы и доступные исполнения приведены в таблицах каталожных номеров.",
+    "en": "Centralizer. Materials and available configurations are listed in the reference tables."
+  },
+  "heroImage": "/images/products/double-medical/joint-catalogue/page-006-xref-91.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "src": "/images/products/double-medical/joint-catalogue/page-006-xref-91.webp",
+      "width": 296,
+      "height": 424,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          124,
+          186
+        ],
+        "enhancedSize": [
+          248,
+          372
+        ]
+      },
+      "sourcePages": [
+        6
+      ],
+      "imageCaption": {
+        "ru": "Центратор бедренной ножки",
+        "en": "Centralizer"
+      }
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [],
+  "referenceTables": [
+    {
+      "id": "joint-centralizer-p6-2",
+      "title": {
+        "ru": "Центратор бедренной ножки",
+        "en": "Centralizer"
+      },
+      "unit": "mm",
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Sizemm",
+          "en": "Sizemm"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Центратор бедренной ножки · 8",
+            "en": "Centralizer · 8"
+          },
+          "130310008S",
+          {
+            "ru": "8",
+            "en": "8"
+          }
+        ],
+        [
+          {
+            "ru": "Центратор бедренной ножки · 10",
+            "en": "Centralizer · 10"
+          },
+          "130310010S",
+          {
+            "ru": "10",
+            "en": "10"
+          }
+        ],
+        [
+          {
+            "ru": "Центратор бедренной ножки · 12",
+            "en": "Centralizer · 12"
+          },
+          "130310012S",
+          {
+            "ru": "12",
+            "en": "12"
+          }
+        ],
+        [
+          {
+            "ru": "Центратор бедренной ножки · 14",
+            "en": "Centralizer · 14"
+          },
+          "130310014S",
+          {
+            "ru": "14",
+            "en": "14"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 6,
+          "sourceBounds": [
+            0.1782286811077598,
+            0.548033652905498,
+            0.6,
+            0.5572295049892388
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-centralizer-p6-2",
+              "row": 1,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130310008S",
+                  "line": "130310008S",
+                  "confidence": 91.066177,
+                  "bounds": [
+                    0.1782286811077598,
+                    0.548033652905498,
+                    0.2678914176035097,
+                    0.5572295049892388
+                  ],
+                  "cy": 0.5526315789473684
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130310008S",
+                  "line": "130310008S",
+                  "confidence": 91.103905,
+                  "bounds": [
+                    0.1782286811077598,
+                    0.548033652905498,
+                    0.2678914176035097,
+                    0.5572295049892388
+                  ],
+                  "cy": 0.5526315789473684
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130310008S",
+                  "line": "130310008S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.17304468149500052,
+                    0.5462341412638965,
+                    0.27094717166151155,
+                    0.5598705098716144
+                  ],
+                  "cy": 0.5530523255677554
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "8",
+            "PSM11": "8",
+            "Vision": "8"
+          },
+          "itemVerification": "Codex visual full-table comparison at 600 DPI",
+          "bounds": [
+            0.1782286811077598,
+            0.548033652905498,
+            0.6,
+            0.5572295049892388
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 6,
+          "sourceBounds": [
+            0.1782286811077598,
+            0.5613382899628253,
+            0.6,
+            0.5703384856192526
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-centralizer-p6-2",
+              "row": 2,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130310010S",
+                  "line": "130310010S",
+                  "confidence": 91.446075,
+                  "bounds": [
+                    0.1782286811077598,
+                    0.5613382899628253,
+                    0.26761721963257473,
+                    0.5703384856192526
+                  ],
+                  "cy": 0.5658383877910389
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130310010S",
+                  "line": "130310010S",
+                  "confidence": 90.783203,
+                  "bounds": [
+                    0.1782286811077598,
+                    0.5613382899628253,
+                    0.26761721963257473,
+                    0.5703384856192526
+                  ],
+                  "cy": 0.5658383877910389
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130310010S",
+                  "line": "130310010S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1747707897887054,
+                    0.5597904464215951,
+                    0.27105702533028697,
+                    0.5748694148935461
+                  ],
+                  "cy": 0.5673299306575706
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "10",
+            "PSM11": "10",
+            "Vision": "10"
+          },
+          "itemVerification": "Codex visual full-table comparison at 600 DPI",
+          "bounds": [
+            0.1782286811077598,
+            0.5613382899628253,
+            0.6,
+            0.5703384856192526
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 6,
+          "sourceBounds": [
+            0.1782286811077598,
+            0.574447270592839,
+            0.6,
+            0.5834474662492662
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-centralizer-p6-2",
+              "row": 3,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130310012S",
+                  "line": "130310012S",
+                  "confidence": 92.552994,
+                  "bounds": [
+                    0.1782286811077598,
+                    0.574447270592839,
+                    0.2678914176035097,
+                    0.5834474662492662
+                  ],
+                  "cy": 0.5789473684210527
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130310012S",
+                  "line": "130310012S",
+                  "confidence": 89.495506,
+                  "bounds": [
+                    0.1782286811077598,
+                    0.574447270592839,
+                    0.2678914176035097,
+                    0.5834474662492662
+                  ],
+                  "cy": 0.5789473684210527
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130310012S",
+                  "line": "130310012S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.17300724426049732,
+                    0.5708674715696523,
+                    0.27302126877364125,
+                    0.5875627609544035
+                  ],
+                  "cy": 0.5792151162620279
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "12",
+            "PSM11": "12",
+            "Vision": "12"
+          },
+          "itemVerification": "Codex visual full-table comparison at 600 DPI",
+          "bounds": [
+            0.1782286811077598,
+            0.574447270592839,
+            0.6,
+            0.5834474662492662
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 6,
+          "sourceBounds": [
+            0.1782286811077598,
+            0.5875562512228527,
+            0.6,
+            0.59655644687928
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-centralizer-p6-2",
+              "row": 4,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130310014S",
+                  "line": "130310014S",
+                  "confidence": 90.934334,
+                  "bounds": [
+                    0.1782286811077598,
+                    0.5875562512228527,
+                    0.26761721963257473,
+                    0.59655644687928
+                  ],
+                  "cy": 0.5920563490510664
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130310014S",
+                  "line": "130310014S",
+                  "confidence": 90.775932,
+                  "bounds": [
+                    0.1782286811077598,
+                    0.5875562512228527,
+                    0.26761721963257473,
+                    0.59655644687928
+                  ],
+                  "cy": 0.5920563490510664
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130310014S",
+                  "line": "130310014S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1750664544229266,
+                    0.5854606099544101,
+                    0.2709620586022612,
+                    0.6005859016425117
+                  ],
+                  "cy": 0.5930232557984609
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "14",
+            "PSM11": "14",
+            "Vision": "14"
+          },
+          "itemVerification": "Codex visual full-table comparison at 600 DPI",
+          "bounds": [
+            0.1782286811077598,
+            0.5875562512228527,
+            0.6,
+            0.59655644687928
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "keyParameters": [
+        {
+          "parameter": {
+            "ru": "Материал",
+            "en": "Material"
+          },
+          "value": {
+            "ru": "Полиэтилен",
+            "en": "Polyethylene"
+          }
+        }
+      ],
+      "sourcePages": [
+        6
+      ],
+      "sourcePdf": "/catalogs/double-medical/joint-catalogue/source.pdf",
+      "hideDescriptionColumn": true,
+      "images": [
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-006-xref-91.webp",
+          "width": 296,
+          "height": 424,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              124,
+              186
+            ],
+            "enhancedSize": [
+              248,
+              372
+            ]
+          },
+          "sourcePages": [
+            6
+          ],
+          "imageCaption": {
+            "ru": "Центратор бедренной ножки",
+            "en": "Centralizer"
+          }
+        }
+      ]
+    }
+  ],
+  "refCodes": [
+    "130310008S",
+    "130310010S",
+    "130310012S",
+    "130310014S"
+  ],
+  "sourcePages": [
+    6
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Joint Catalogue — каталог продукции",
+    "en": "Double Medical Joint Catalogue"
+  },
+  "documentCover": "/catalogs/double-medical/joint-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "relatedSystemSlugs": [
+    "cemented-hip-stem-instrument-set"
+  ],
+  "imageDimensions": {
+    "/images/products/double-medical/joint-catalogue/page-006-xref-91.webp": {
+      "width": 296,
+      "height": 424
+    }
+  },
+  "sourcePdf": "/catalogs/double-medical/joint-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/joint-catalogue/pages/006.webp"
+  ],
+  "sourcePageDimensions": {
+    "1": {
+      "width": 3647,
+      "height": 5111
+    },
+    "2": {
+      "width": 3647,
+      "height": 5111
+    },
+    "3": {
+      "width": 3647,
+      "height": 5111
+    },
+    "4": {
+      "width": 3647,
+      "height": 5111
+    },
+    "5": {
+      "width": 3647,
+      "height": 5111
+    },
+    "6": {
+      "width": 3647,
+      "height": 5111
+    },
+    "7": {
+      "width": 3647,
+      "height": 5111
+    },
+    "8": {
+      "width": 3647,
+      "height": 5111
+    },
+    "9": {
+      "width": 3647,
+      "height": 5111
+    },
+    "10": {
+      "width": 3647,
+      "height": 5111
+    },
+    "11": {
+      "width": 3647,
+      "height": 5111
+    },
+    "12": {
+      "width": 3647,
+      "height": 5111
+    },
+    "13": {
+      "width": 3647,
+      "height": 5111
+    },
+    "14": {
+      "width": 3647,
+      "height": 5111
+    },
+    "15": {
+      "width": 3647,
+      "height": 5111
+    },
+    "16": {
+      "width": 3647,
+      "height": 5111
+    },
+    "17": {
+      "width": 3647,
+      "height": 5111
+    },
+    "18": {
+      "width": 3647,
+      "height": 5111
+    },
+    "19": {
+      "width": 3647,
+      "height": 5111
+    },
+    "20": {
+      "width": 3647,
+      "height": 5111
+    },
+    "21": {
+      "width": 3647,
+      "height": 5111
+    },
+    "22": {
+      "width": 3647,
+      "height": 5111
+    },
+    "23": {
+      "width": 3647,
+      "height": 5111
+    },
+    "24": {
+      "width": 3647,
+      "height": 5111
+    },
+    "25": {
+      "width": 3647,
+      "height": 5111
+    },
+    "26": {
+      "width": 3647,
+      "height": 5111
+    },
+    "27": {
+      "width": 3647,
+      "height": 5111
+    },
+    "28": {
+      "width": 3647,
+      "height": 5111
+    },
+    "29": {
+      "width": 3647,
+      "height": 5111
+    },
+    "30": {
+      "width": 3647,
+      "height": 5111
+    },
+    "31": {
+      "width": 3647,
+      "height": 5111
+    },
+    "32": {
+      "width": 3647,
+      "height": 5111
+    },
+    "33": {
+      "width": 3647,
+      "height": 5111
+    },
+    "34": {
+      "width": 3647,
+      "height": 5111
+    },
+    "35": {
+      "width": 3647,
+      "height": 5111
+    },
+    "36": {
+      "width": 3647,
+      "height": 5111
+    },
+    "37": {
+      "width": 3647,
+      "height": 5111
+    },
+    "38": {
+      "width": 3647,
+      "height": 5111
+    },
+    "39": {
+      "width": 3647,
+      "height": 5111
+    },
+    "40": {
+      "width": 3647,
+      "height": 5111
+    },
+    "41": {
+      "width": 3647,
+      "height": 5111
+    },
+    "42": {
+      "width": 3647,
+      "height": 5111
+    },
+    "43": {
+      "width": 3647,
+      "height": 5111
+    },
+    "44": {
+      "width": 3647,
+      "height": 5111
+    },
+    "45": {
+      "width": 3647,
+      "height": 5111
+    },
+    "46": {
+      "width": 3647,
+      "height": 5111
+    },
+    "47": {
+      "width": 3647,
+      "height": 5111
+    },
+    "48": {
+      "width": 3647,
+      "height": 5111
+    },
+    "49": {
+      "width": 3647,
+      "height": 5111
+    },
+    "50": {
+      "width": 3647,
+      "height": 5111
+    },
+    "51": {
+      "width": 3647,
+      "height": 5111
+    },
+    "52": {
+      "width": 3647,
+      "height": 5111
+    },
+    "53": {
+      "width": 3647,
+      "height": 5111
+    },
+    "54": {
+      "width": 3647,
+      "height": 5111
+    },
+    "55": {
+      "width": 3647,
+      "height": 5111
+    },
+    "56": {
+      "width": 3647,
+      "height": 5111
+    },
+    "57": {
+      "width": 3647,
+      "height": 5111
+    },
+    "58": {
+      "width": 3647,
+      "height": 5111
+    },
+    "59": {
+      "width": 3647,
+      "height": 5111
+    },
+    "60": {
+      "width": 3647,
+      "height": 5111
+    },
+    "61": {
+      "width": 3647,
+      "height": 5111
+    },
+    "62": {
+      "width": 3647,
+      "height": 5111
+    },
+    "63": {
+      "width": 3647,
+      "height": 5111
+    },
+    "64": {
+      "width": 3647,
+      "height": 5111
+    },
+    "65": {
+      "width": 3647,
+      "height": 5111
+    },
+    "66": {
+      "width": 3647,
+      "height": 5111
+    },
+    "67": {
+      "width": 3647,
+      "height": 5111
+    },
+    "68": {
+      "width": 3647,
+      "height": 5111
+    },
+    "69": {
+      "width": 3647,
+      "height": 5111
+    },
+    "70": {
+      "width": 3647,
+      "height": 5111
+    },
+    "71": {
+      "width": 3647,
+      "height": 5111
+    },
+    "72": {
+      "width": 3647,
+      "height": 5111
+    },
+    "73": {
+      "width": 3647,
+      "height": 5111
+    },
+    "74": {
+      "width": 3647,
+      "height": 5111
+    },
+    "75": {
+      "width": 3647,
+      "height": 5111
+    },
+    "76": {
+      "width": 3647,
+      "height": 5111
+    },
+    "77": {
+      "width": 3647,
+      "height": 5111
+    },
+    "78": {
+      "width": 3647,
+      "height": 5111
+    },
+    "79": {
+      "width": 3647,
+      "height": 5111
+    },
+    "80": {
+      "width": 3647,
+      "height": 5111
+    },
+    "81": {
+      "width": 3647,
+      "height": 5111
+    },
+    "82": {
+      "width": 3647,
+      "height": 5111
+    },
+    "83": {
+      "width": 3647,
+      "height": 5111
+    },
+    "84": {
+      "width": 3647,
+      "height": 5111
+    },
+    "85": {
+      "width": 3647,
+      "height": 5111
+    },
+    "86": {
+      "width": 3647,
+      "height": 5111
+    },
+    "87": {
+      "width": 3647,
+      "height": 5111
+    },
+    "88": {
+      "width": 3647,
+      "height": 5111
+    },
+    "89": {
+      "width": 3647,
+      "height": 5111
+    },
+    "90": {
+      "width": 3647,
+      "height": 5111
+    },
+    "91": {
+      "width": 3647,
+      "height": 5111
+    },
+    "92": {
+      "width": 3647,
+      "height": 5111
+    },
+    "93": {
+      "width": 3647,
+      "height": 5111
+    },
+    "94": {
+      "width": 3647,
+      "height": 5111
+    },
+    "95": {
+      "width": 3647,
+      "height": 5111
+    },
+    "96": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "049dc47f4db1409b0ab7b002cc1e8beaaf86705c6ae23efac7eff3832b23e1e5",
+    "importMethod": "600-DPI PSM3/PSM11 + independent Vision + Codex visual row checks; additive REF merges",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      71,
+      81,
+      94,
+      95,
+      96
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "referenceTables.0.title.ru",
+      "referenceTables.0.columns.0.ru",
+      "referenceTables.0.columns.1.ru",
+      "referenceTables.0.columns.2.ru",
+      "referenceTables.0.rows.0.0.ru",
+      "referenceTables.0.rows.0.2.ru",
+      "referenceTables.0.rows.1.0.ru",
+      "referenceTables.0.rows.1.2.ru",
+      "referenceTables.0.rows.2.0.ru",
+      "referenceTables.0.rows.2.2.ru",
+      "referenceTables.0.rows.3.0.ru",
+      "referenceTables.0.rows.3.2.ru",
+      "referenceTables.0.keyParameters.0.parameter.ru",
+      "referenceTables.0.keyParameters.0.value.ru",
+      "referenceTables.0.images.0.imageCaption.ru",
+      "catalogTitle.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Published under owner authorization: zero real flags after 600-DPI source verification."
+  },
+  "publishedAt": "2026-11-19T17:19:02.224365+00:00"
+}

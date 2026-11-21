@@ -1,0 +1,122 @@
+{
+  "pdfPage": 66,
+  "officialPage": 86,
+  "alignment": [
+    [
+      0.9711577681825143,
+      0.00021740005273379284,
+      0.014342102863993381
+    ],
+    [
+      0.0007598279960780876,
+      0.9759856915106027,
+      0.011186490586538622
+    ]
+  ],
+  "alignmentMatches": 46,
+  "alignmentInliers": 46,
+  "category": "small-joint-arthroscopy",
+  "title": {
+    "en": "Carpal Tunnel Release Kit",
+    "ru": "Набор для релиза карпального канала"
+  },
+  "groups": [
+    {
+      "title": "CTS Relief Kit®",
+      "page": 66,
+      "officialPage": 86,
+      "headingBounds": [
+        0.4285412565303234,
+        0.14138304395232898,
+        0.5450628373689065,
+        0.15617560818117723
+      ],
+      "rows": [
+        {
+          "description": "CTS Relief Kit (4 Sterile Kits per Box)",
+          "codes": [
+            {
+              "candidate": "9971",
+              "sourceBounds": [
+                0.8673997370371883,
+                0.31228603272207994,
+                0.8951120314724632,
+                0.3248513478066799
+              ],
+              "officialBounds": [
+                537.5339965820312,
+                243.79689025878906,
+                554.995849609375,
+                253.97589111328125
+              ],
+              "officialCode": "9971"
+            }
+          ],
+          "rowBounds": [
+            0.428579248561377,
+            0.3119427022115074,
+            0.8951120314724632,
+            0.3248513478066799
+          ],
+          "pdfPage": 66,
+          "officialPage": 86
+        }
+      ],
+      "features": [
+        {
+          "text": "Provides the surgeon with a set of simple to use, disposable instruments for endoscopic release of the transverse carpal ligament through a single portal",
+          "bounds": [
+            0.43568650890412025,
+            0.16108087161311385,
+            0.8796422118952122,
+            0.17536557647337483
+          ],
+          "officialStartX": 265.5
+        },
+        {
+          "text": "Endoscopic technique reduces post-operative pain and recovery time for the patient",
+          "bounds": [
+            0.43569254779237976,
+            0.18819157586444385,
+            0.8934581090422398,
+            0.2024870948764775
+          ],
+          "officialStartX": 265.5
+        },
+        {
+          "text": "Allows the surgeon to resect the ligament under direct visualization through a standard 4mm arthroscope",
+          "bounds": [
+            0.4356955672375566,
+            0.20174693269097999,
+            0.8866191545845385,
+            0.21603709858378817
+          ],
+          "officialStartX": 265.5
+        },
+        {
+          "text": "“D”-shaped, slotted cannula helps to shield adjacent neurovascular structures from potential damage",
+          "bounds": [
+            0.4357016061279103,
+            0.22885764634405228,
+            0.8891865994633342,
+            0.24314981626549836
+          ],
+          "officialStartX": 265.5
+        },
+        {
+          "text": "Pen-like knife handle improves the surgeon’s tactile feel and control of the instrument while cutting",
+          "bounds": [
+            0.43570764501826403,
+            0.2559683599971246,
+            0.8695661046813796,
+            0.27024517423668376
+          ],
+          "officialStartX": 265.5
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 1
+}

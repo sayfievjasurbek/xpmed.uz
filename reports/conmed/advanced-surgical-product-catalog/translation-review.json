@@ -1,0 +1,2818 @@
+[
+  [
+    5,
+    "AS-iFS1",
+    {
+      "en": "AirSeal iFS, 120V",
+      "ru": "Инсуффляционная система AirSeal iFS, 120 В"
+    }
+  ],
+  [
+    5,
+    "AS-iFS2",
+    {
+      "en": "AirSeal iFS, 230V",
+      "ru": "Инсуффляционная система AirSeal iFS, 230 В"
+    }
+  ],
+  [
+    5,
+    "iFS-BC1",
+    {
+      "en": "Required Connector must be installed on the iFS (37° flare fitting)",
+      "ru": "Соединитель для подачи газа из баллона; необходим для подключения к iFS; развальцованный фитинг 37°"
+    }
+  ],
+  [
+    5,
+    "iFS-WC1",
+    {
+      "en": "Required Connector must be installed on the iFS DISS Fitting",
+      "ru": "Соединитель для централизованной подачи газа; необходим для подключения к iFS; фитинг DISS"
+    }
+  ],
+  [
+    5,
+    "AS-iCART",
+    {
+      "en": "Cart w/ Bottle Rack, Holds Two E Size CO2 Tanks",
+      "ru": "Тележка с держателем для двух баллонов CO2 типоразмера E"
+    }
+  ],
+  [
+    5,
+    "AS-iCART-V",
+    {
+      "en": "Cart w/ Bottle Rack, Holds Two E Size CO2 Tanks, switching Valve and Hoses included",
+      "ru": "Тележка с держателем для двух баллонов CO2 типоразмера E; переключающий клапан и шланги входят в комплект"
+    }
+  ],
+  [
+    5,
+    "AS-iCART-6",
+    {
+      "en": "Cart w/ Bottle Rack, Holds Two 6 (160mm) Bottle Gas Tanks",
+      "ru": "Тележка с держателем для двух баллонов (6, 160 мм)"
+    }
+  ],
+  [
+    5,
+    "AS-iCART-6V",
+    {
+      "en": "Cart w/ Bottle Rack, Holds Two 6 (160mm) Bottle Gas Tanks, and Switching Valve",
+      "ru": "Тележка с держателем для двух баллонов (6, 160 мм) и переключающим клапаном"
+    }
+  ],
+  [
+    5,
+    "iFS-Valve1",
+    {
+      "en": "switching Valve, (2) Yoke Pin Index with 18 supply Hoses, (1) 36 Connection Hose, (1) 90° owivel, (1) Mounting Bracket",
+      "ru": "Переключающий клапан: (2) скобы Pin Index с подающими шлангами 18; (1) соединительный шланг 36; (1) шарнир 90°; (1) монтажный кронштейн"
+    }
+  ],
+  [
+    5,
+    "iFS-Tower1",
+    {
+      "en": "(1) Yoke Pin Index mounted Switching Valve, (1) Yoke Pin Index with 18 Supply Hose and (1) 36 Connection Hose, (1) 90° Swivel",
+      "ru": "(1) переключающий клапан на скобе Pin Index; (1) скоба Pin Index с подающим шлангом 18 и (1) соединительным шлангом 36; (1) шарнир 90°"
+    }
+  ],
+  [
+    5,
+    "iFS-HPH120",
+    {
+      "en": "Add-on: 120 High Pressure Hose to E Size CO2 Tanks",
+      "ru": "Дополнительный шланг высокого давления 120 для баллонов CO2 типоразмера E"
+    }
+  ],
+  [
+    5,
+    "iFS-HPH4",
+    {
+      "en": "36 High Pressure Hose with a Pin Index Yoke to connect to E Size CO2 Tanks with a Pin Index Cylinder Valve",
+      "ru": "Шланг высокого давления 36 со скобой Pin Index для подключения к баллонам CO2 типоразмера E с вентилем Pin Index"
+    }
+  ],
+  [
+    5,
+    "iFS-HPH2",
+    {
+      "en": "1.5m High Pressure Hose with a Pin Index Yoke to connect to E Size CO2 Tanks with a DIN Bottle Gas Tanks",
+      "ru": "Шланг высокого давления 1.5 м со скобой Pin Index для подключения к баллонам CO2 типоразмера E (DIN)"
+    }
+  ],
+  [
+    5,
+    "iFS-HPH3",
+    {
+      "en": "1.5m High Pressure Hose with a Pin Index Yoke to connect to E Size CO2 Tanks with an ISO Bottle Gas Tanks",
+      "ru": "Шланг высокого давления 1.5 м со скобой Pin Index для подключения к баллонам CO2 типоразмера E (ISO)"
+    }
+  ],
+  [
+    6,
+    "ASM-EVAC1",
+    {
+      "en": "For use with iFS AirSeal Mode Tri-Lumen Filtered Tube Set",
+      "ru": "Для применения с iFS AirSeal режим трёхпросветная трубчатый комплект с фильтром"
+    }
+  ],
+  [
+    6,
+    "ASM-EVAC1-Bi",
+    {
+      "en": "For use with AirSeal Robotic Solution Bifurcated Filtered Tube Set",
+      "ru": "Для применения с AirSeal роботическая система раздвоенная трубчатый комплект с фильтром"
+    }
+  ],
+  [
+    6,
+    "SEM-EVAC",
+    {
+      "en": "For use with IFS Smoke Evacuation Mode Bifurcated Smoke Evac Filtered Tube Set",
+      "ru": "Для применения с IFS эвакуация дыма режим раздвоенная трубчатый комплект для эвакуации дыма с фильтром"
+    }
+  ],
+  [
+    6,
+    "SIM-TUB",
+    {
+      "en": "For use with iFS Standard Insufflation Mode, single Lumen Filtered Tube Set",
+      "ru": "Для применения с iFS стандартный инсуффляция режим, одноразового применения просвет трубчатый комплект с фильтром"
+    }
+  ],
+  [
+    6,
+    "iAS8-dV",
+    {
+      "en": "8mm Cannula Cap and Obturator, Bladeless Optical Tip, Standard Length",
+      "ru": "Колпачок канюли и обтуратор; диаметр 8 мм; стандартная длина; безлезвийный оптический наконечник"
+    }
+  ],
+  [
+    6,
+    "iAS8-dVL",
+    {
+      "en": "8mm Cannula Cap and Obturator, Bladeless Optical Tip, Long",
+      "ru": "Колпачок канюли и обтуратор; диаметр 8 мм; увеличенная длина; безлезвийный оптический наконечник"
+    }
+  ],
+  [
+    6,
+    "iAS5-75LP",
+    {
+      "en": "5mm Access Port and Low Profile Obturator with Bladeless Optical Tip, 75mm Length",
+      "ru": "Порт доступа и низкопрофильный обтуратор; диаметр 5 мм; длина 75 мм; безлезвийный оптический наконечник"
+    }
+  ],
+  [
+    6,
+    "iAS5-100LP",
+    {
+      "en": "5mm Access Port and Low Profile Obturator with Bladeless Optical Tip, 100mm Length",
+      "ru": "Порт доступа и низкопрофильный обтуратор; диаметр 5 мм; длина 100 мм; безлезвийный оптический наконечник"
+    }
+  ],
+  [
+    6,
+    "iAS5-120LP",
+    {
+      "en": "5mm Access Port and Low Profile Obturator with Bladeless Optical Tip, 120mm Length",
+      "ru": "Порт доступа и низкопрофильный обтуратор; диаметр 5 мм; длина 120 мм; безлезвийный оптический наконечник"
+    }
+  ],
+  [
+    6,
+    "iASB5-150",
+    {
+      "en": "5mm smooth Access Port with Blunt Tip, 150mm Length (for use with single site surgical platforms)",
+      "ru": "Гладкий порт доступа; диаметр 5 мм; длина 150 мм; тупой наконечник; для хирургических платформ с доступом через один порт"
+    }
+  ],
+  [
+    6,
+    "iAS8-100LP",
+    {
+      "en": "8mm Access Port and Low Profile Obturator, with Bladeless Optical Tio, 100mm Length",
+      "ru": "Порт доступа и низкопрофильный обтуратор; диаметр 8 мм; длина 100 мм; безлезвийный оптический наконечник"
+    }
+  ],
+  [
+    6,
+    "iAS8-120LP",
+    {
+      "en": "8mm Access Port and Low Profile Obturator, with Bladeless Optical Tip, 120mm Length",
+      "ru": "Порт доступа и низкопрофильный обтуратор; диаметр 8 мм; длина 120 мм; безлезвийный оптический наконечник"
+    }
+  ],
+  [
+    6,
+    "iAS12-100LPi",
+    {
+      "en": "12mm Access Port and Palm Grip Obturator, with Bladeless Optical Tio, 100mm Length",
+      "ru": "Порт доступа и обтуратор с ладонной рукояткой; диаметр 12 мм; длина 100 мм; безлезвийный оптический наконечник"
+    }
+  ],
+  [
+    6,
+    "iASB12-100",
+    {
+      "en": "12mm Access Port and Obturator, with Blunt Tip, 100mm Length",
+      "ru": "Порт доступа и обтуратор; диаметр 12 мм; длина 100 мм; тупой наконечник"
+    }
+  ],
+  [
+    6,
+    "iAS12-120LPi",
+    {
+      "en": "12mm Access Port and Palm Grip Obturator, with Bladeless Optical Tip, 120mm Length",
+      "ru": "Порт доступа и обтуратор с ладонной рукояткой; диаметр 12 мм; длина 120 мм; безлезвийный оптический наконечник"
+    }
+  ],
+  [
+    6,
+    "iASB12-120",
+    {
+      "en": "12mm Access Port and Obturator, with Blunt Tip, 120mm Length",
+      "ru": "Порт доступа и обтуратор; диаметр 12 мм; длина 120 мм; тупой наконечник"
+    }
+  ],
+  [
+    6,
+    "iAS12-150LPi",
+    {
+      "en": "12mm Access Port and Palm Grip Obturator, with Bladeless Optical Tip, 150mm Length",
+      "ru": "Порт доступа и обтуратор с ладонной рукояткой; диаметр 12 мм; длина 150 мм; безлезвийный оптический наконечник"
+    }
+  ],
+  [
+    7,
+    "BV-5X70",
+    {
+      "en": "5mm Trocar & Cannula, 70mm Length",
+      "ru": "Троакар и канюля; диаметр 5 мм; длина 70 мм"
+    }
+  ],
+  [
+    7,
+    "BV-5X100",
+    {
+      "en": "5mm Trocar & Cannula, 100mm Length",
+      "ru": "Троакар и канюля; диаметр 5 мм; длина 100 мм"
+    }
+  ],
+  [
+    7,
+    "BV-5X150",
+    {
+      "en": "5mm Obturator & Cannula, 150mm Length",
+      "ru": "Обтуратор и канюля; диаметр 5 мм; длина 150 мм"
+    }
+  ],
+  [
+    7,
+    "BV-11X70",
+    {
+      "en": "11mm Obturator & Cannula, 70mm Length",
+      "ru": "Обтуратор и канюля; диаметр 11 мм; длина 70 мм"
+    }
+  ],
+  [
+    7,
+    "BV-11X100",
+    {
+      "en": "11mm Trocar & Cannula, 100mm Length",
+      "ru": "Троакар и канюля; диаметр 11 мм; длина 100 мм"
+    }
+  ],
+  [
+    7,
+    "BV-11X150",
+    {
+      "en": "11mm Obturator & Cannula, 150mm Length",
+      "ru": "Обтуратор и канюля; диаметр 11 мм; длина 150 мм"
+    }
+  ],
+  [
+    7,
+    "BV-12X70",
+    {
+      "en": "12mm Obturator & Cannula, 70mm Length",
+      "ru": "Обтуратор и канюля; диаметр 12 мм; длина 70 мм"
+    }
+  ],
+  [
+    7,
+    "BV-12X100",
+    {
+      "en": "12mm Trocar & Cannula, 100mm Length",
+      "ru": "Троакар и канюля; диаметр 12 мм; длина 100 мм"
+    }
+  ],
+  [
+    7,
+    "BV-12X150",
+    {
+      "en": "12mm Obturator & Cannula, 150mm Length",
+      "ru": "Обтуратор и канюля; диаметр 12 мм; длина 150 мм"
+    }
+  ],
+  [
+    7,
+    "BV-15X100BLS",
+    {
+      "en": "15mm Obturator & Cannula, 100mm Length",
+      "ru": "Обтуратор и канюля; диаметр 15 мм; длина 100 мм"
+    }
+  ],
+  [
+    7,
+    "BV-5X70-BLD",
+    {
+      "en": "5mm Trocar & Cannula, 70mm Length",
+      "ru": "Троакар и канюля; диаметр 5 мм; длина 70 мм"
+    }
+  ],
+  [
+    7,
+    "BV-5X100-BLD",
+    {
+      "en": "5mm Trocar & Cannula, 100mm Length",
+      "ru": "Троакар и канюля; диаметр 5 мм; длина 100 мм"
+    }
+  ],
+  [
+    7,
+    "BV-5X150-BLD",
+    {
+      "en": "5mm Obturator & Cannula, 150mm Length",
+      "ru": "Обтуратор и канюля; диаметр 5 мм; длина 150 мм"
+    }
+  ],
+  [
+    7,
+    "BV-11X100-BLD",
+    {
+      "en": "11mm Trocar & Cannula, 100mm Length",
+      "ru": "Троакар и канюля; диаметр 11 мм; длина 100 мм"
+    }
+  ],
+  [
+    7,
+    "BV-11X150-BLD",
+    {
+      "en": "11mm Obturator & Cannula, 150mm Length",
+      "ru": "Обтуратор и канюля; диаметр 11 мм; длина 150 мм"
+    }
+  ],
+  [
+    7,
+    "BV-12X70-BLD",
+    {
+      "en": "12mm Obturator & Cannula, 75mm Length",
+      "ru": "Обтуратор и канюля; диаметр 12 мм; длина 75 мм"
+    }
+  ],
+  [
+    7,
+    "BV-12X100-BLD",
+    {
+      "en": "12mm Trocar & Cannula, 100mm Length",
+      "ru": "Троакар и канюля; диаметр 12 мм; длина 100 мм"
+    }
+  ],
+  [
+    7,
+    "BV-12X150-BLD",
+    {
+      "en": "12mm Obturator & Cannula, 150mm Length",
+      "ru": "Обтуратор и канюля; диаметр 12 мм; длина 150 мм"
+    }
+  ],
+  [
+    7,
+    "BV-15X100-BLD",
+    {
+      "en": "15mm Obturator & Cannula, 100mm Length",
+      "ru": "Обтуратор и канюля; диаметр 15 мм; длина 100 мм"
+    }
+  ],
+  [
+    7,
+    "BV-11X100-HSS",
+    {
+      "en": "11mm Trocar & Cannula, 100mm Length",
+      "ru": "Троакар и канюля; диаметр 11 мм; длина 100 мм"
+    }
+  ],
+  [
+    7,
+    "BV-12X100-HSS",
+    {
+      "en": "12mm Trocar & Cannula, 100mm Length",
+      "ru": "Троакар и канюля; диаметр 12 мм; длина 100 мм"
+    }
+  ],
+  [
+    7,
+    "BV-5X70-CAN",
+    {
+      "en": "5mm Cannula, 70mm Length",
+      "ru": "Канюля; диаметр 5 мм; длина 70 мм"
+    }
+  ],
+  [
+    7,
+    "BV-5X100-CAN",
+    {
+      "en": "5mm Cannula, 100mm Length",
+      "ru": "Канюля; диаметр 5 мм; длина 100 мм"
+    }
+  ],
+  [
+    7,
+    "BV-11X70-CAN",
+    {
+      "en": "11mm Cannula, 70mm Length",
+      "ru": "Канюля; диаметр 11 мм; длина 70 мм"
+    }
+  ],
+  [
+    7,
+    "BV-11X100-CAN",
+    {
+      "en": "11mm Cannula, 100mm Length",
+      "ru": "Канюля; диаметр 11 мм; длина 100 мм"
+    }
+  ],
+  [
+    7,
+    "BV-11X150-CAN",
+    {
+      "en": "11mm Cannula, 150mm Length",
+      "ru": "Канюля; диаметр 11 мм; длина 150 мм"
+    }
+  ],
+  [
+    7,
+    "BV-12X70-CAN",
+    {
+      "en": "12mm Cannula, 75mm Length",
+      "ru": "Канюля; диаметр 12 мм; длина 75 мм"
+    }
+  ],
+  [
+    7,
+    "BV-12X100-CAN",
+    {
+      "en": "12mm Cannula, 100mm Length",
+      "ru": "Канюля; диаметр 12 мм; длина 100 мм"
+    }
+  ],
+  [
+    7,
+    "BV-12X150-CAN",
+    {
+      "en": "12mm Cannula, 150mm Length",
+      "ru": "Канюля; диаметр 12 мм; длина 150 мм"
+    }
+  ],
+  [
+    8,
+    "LLVN12012",
+    {
+      "en": "LaparoLight Veress Needle, 12cm (120mm)",
+      "ru": "Игла Вереша LaparoLight; длина 12 см (120 мм)"
+    }
+  ],
+  [
+    8,
+    "LLVN15012",
+    {
+      "en": "LaparoLight Veress Needle, 15cm (150mm)",
+      "ru": "Игла Вереша LaparoLight; длина 15 см (150 мм)"
+    }
+  ],
+  [
+    8,
+    "60-6050-097",
+    {
+      "en": "Insufflation Tubing (10° length) and 0.1 micron hydrophobic filter assembly with suction type connector",
+      "ru": "Инсуффляционная трубка длиной 10 и фильтрующий узел с гидрофобной мембраной 0.1 micron; соединитель для аспирации"
+    }
+  ],
+  [
+    8,
+    "60-6050-098",
+    {
+      "en": "Insufflation Tubing (10° length) and 0.1 micron hydrophobic filter assembly with O ring connector",
+      "ru": "Инсуффляционная трубка длиной 10 и фильтрующий узел с гидрофобной мембраной 0.1 micron; соединитель с уплотнительным кольцом"
+    }
+  ],
+  [
+    8,
+    "60-6050-099",
+    {
+      "en": "Insufflation Tubing (10° length) and 0.1 micron hydrophobic filter assembly with luer lock connector",
+      "ru": "Инсуффляционная трубка длиной 10 и фильтрующий узел с гидрофобной мембраной 0.1 micron; соединитель Luer Lock"
+    }
+  ],
+  [
+    8,
+    "60-6050-001",
+    {
+      "en": "Pneumoperitoneum Insufflation Needle 14 gauge, 12cm with stainless steel tip guard and band indicator",
+      "ru": "Игла для наложения пневмоперитонеума, 14 G, 12 см; защитный кончик из нержавеющей стали и полосовой индикатор"
+    }
+  ],
+  [
+    8,
+    "60-6050-002",
+    {
+      "en": "Pneumoperitoneum Insufflation Needle 14 gauge, 15cm, with stainless steel tip guard and band indicator",
+      "ru": "Игла для наложения пневмоперитонеума, 14 G, 15 см; защитный кончик из нержавеющей стали и полосовой индикатор"
+    }
+  ],
+  [
+    8,
+    "iFS-Fuse",
+    {
+      "en": "IFS Fuse, 10 Amp",
+      "ru": "Предохранитель iFS, 10 А"
+    }
+  ],
+  [
+    8,
+    "iFS-ORING",
+    {
+      "en": "IFS Connector O-Ring",
+      "ru": "Уплотнительное кольцо соединителя iFS"
+    }
+  ],
+  [
+    8,
+    "iFS-SEAL",
+    {
+      "en": "Pin Index Yoke Seal",
+      "ru": "Уплотнение скобы Pin Index"
+    }
+  ],
+  [
+    8,
+    "iFS-CON1",
+    {
+      "en": "Connector for High Pressure Gas Hose",
+      "ru": "Соединитель шланга высокого давления"
+    }
+  ],
+  [
+    8,
+    "SQ-22213",
+    {
+      "en": "Upper Gas Bottle Assembly for use on -2R Carts",
+      "ru": "Верхний узел газового баллона для тележек -2R"
+    }
+  ],
+  [
+    8,
+    "iFS-HGSV",
+    {
+      "en": "Switching Valve for Low Pressure House Gas",
+      "ru": "Переключающий клапан для централизованной подачи газа низкого давления"
+    }
+  ],
+  [
+    8,
+    "SQ-85601038",
+    {
+      "en": "160mm Bottle Rack Base for use on -6 Carts",
+      "ru": "Основание держателя баллона 160 мм для тележек -6"
+    }
+  ],
+  [
+    8,
+    "SGQ-545",
+    {
+      "en": "Pin Index Yoke JIC Male",
+      "ru": "Штуцер скобы Pin Index с наружной резьбой JIC"
+    }
+  ],
+  [
+    8,
+    "SCG-547",
+    {
+      "en": "Pin Index Yoke 1/4 NFT Male",
+      "ru": "Штуцер скобы Pin Index с наружной резьбой 1/4 NFT"
+    }
+  ],
+  [
+    8,
+    "iCART-BRACKET",
+    {
+      "en": "Valve Bracket for use on -V Carts and -2R Carts",
+      "ru": "Кронштейн клапана для тележек -V и -2R"
+    }
+  ],
+  [
+    10,
+    "VC120",
+    {
+      "en": "100/120 Volt Systems",
+      "ru": "100/120 В, система"
+    }
+  ],
+  [
+    10,
+    "VC220",
+    {
+      "en": "220/240 Volt Systems (includes one filter and one footswitch)",
+      "ru": "220/240 В, система (включает один фильтр и один педаль)"
+    }
+  ],
+  [
+    10,
+    "VC120NF",
+    {
+      "en": "100/120 Volt Systems",
+      "ru": "100/120 В, система"
+    }
+  ],
+  [
+    10,
+    "VS135 Series",
+    {
+      "en": "ViroSafe® VisiClear® Filter",
+      "ru": "ViroSafe® VisiClear® фильтр"
+    }
+  ],
+  [
+    10,
+    "VV120",
+    {
+      "en": "100/120 Volt Systems",
+      "ru": "100/120 В, система"
+    }
+  ],
+  [
+    10,
+    "VV220",
+    {
+      "en": "220/240 Volt Systems (includes one filter and one footswitch)",
+      "ru": "220/240 В, система (включает один фильтр и один педаль)"
+    }
+  ],
+  [
+    10,
+    "VV220NF",
+    {
+      "en": "220/240 Volt Systems (includes one filter and one footswitch)",
+      "ru": "220/240 В, система (включает один фильтр и один педаль)"
+    }
+  ],
+  [
+    10,
+    "VS353 Series",
+    {
+      "en": "ViroSafe® ViroVac® Filter",
+      "ru": "ViroSafe® ViroVac® фильтр"
+    }
+  ],
+  [
+    10,
+    "60-8585-120",
+    {
+      "en": "100/120V",
+      "ru": "100/120 В"
+    }
+  ],
+  [
+    10,
+    "60-8585-230",
+    {
+      "en": "220/240V",
+      "ru": "220/240 В"
+    }
+  ],
+  [
+    10,
+    "60-8590-001",
+    {
+      "en": "Replacement Filter",
+      "ru": "сменный фильтр"
+    }
+  ],
+  [
+    10,
+    "60-8597-001",
+    {
+      "en": "Activation Device",
+      "ru": "устройство активации"
+    }
+  ],
+  [
+    10,
+    "60-8596-001",
+    {
+      "en": "CONMED Fluid Trap",
+      "ru": "CONMED ловушка жидкости"
+    }
+  ],
+  [
+    11,
+    "PLP1020",
+    {
+      "en": "Push Button, 1 Stainless Steel Blade Electrode, 10 tubing,Disposable",
+      "ru": "кнопочное управление, 1 электрод-лезвие из нержавеющей стали электрод, 10 трубка,одноразового применения"
+    }
+  ],
+  [
+    11,
+    "PLP2020",
+    {
+      "en": "Push Button, 1 Non-Stick Blade Electrode, 10 tubing,Disposable",
+      "ru": "кнопочное управление, 1 электрод-лезвие с антипригарным покрытием электрод, 10 трубка,одноразового применения"
+    }
+  ],
+  [
+    11,
+    "PLP2520",
+    {
+      "en": "Push Button, 1 Non-stick Blade Electrode, 15 tubing,Disposable",
+      "ru": "кнопочное управление, 1 электрод-лезвие с антипригарным покрытием электрод, 15 трубка,одноразового применения"
+    }
+  ],
+  [
+    11,
+    "PLPUL2020",
+    {
+      "en": "Push Button, 1. Non-Stick Blade Electrode, 10 tubing,Disposable",
+      "ru": "кнопочное управление, 1. электрод-лезвие с антипригарным покрытием электрод, 10 трубка,одноразового применения"
+    }
+  ],
+  [
+    11,
+    "PLPUL2520",
+    {
+      "en": "Push Button, 1 Non-Stick Blade Electrode, 15 tubing,Disposable",
+      "ru": "кнопочное управление, 1 электрод-лезвие с антипригарным покрытием электрод, 15 трубка,одноразового применения"
+    }
+  ],
+  [
+    11,
+    "PLPRO4020",
+    {
+      "en": "Push Button, 1 Non-Stick Blade Electrode, 10 tubing,Disposable",
+      "ru": "кнопочное управление, 1 электрод-лезвие с антипригарным покрытием электрод, 10 трубка,одноразового применения"
+    }
+  ],
+  [
+    11,
+    "PLPRO4520",
+    {
+      "en": "Push Button, 1 Non-Stick Blade Flectrode, 15. tubing Disposable",
+      "ru": "кнопочное управление, 1 электрод-лезвие с антипригарным покрытием электрод, 15. трубка одноразового применения"
+    }
+  ],
+  [
+    11,
+    "PROTIP420",
+    {
+      "en": "Capture Ports (X-Ray Detectable): Fits 4 (102 mm) electrodes",
+      "ru": "Рентгеноконтрастные порты: подходит для 4 (102 мм) электроды"
+    }
+  ],
+  [
+    11,
+    "PROTIP620",
+    {
+      "en": "Capture Ports (X-Ray Detectable): Fits 6 (152 mm) electrodes",
+      "ru": "Рентгеноконтрастные порты: подходит для 6 (152 мм) электроды"
+    }
+  ],
+  [
+    12,
+    "SnapEvac20",
+    {
+      "en": "10 ft (3 m) tubing with a 7/8 in (22 mm) cuff",
+      "ru": "Трубка длиной 10 ft (3 м) с манжетой 7/8 in (22 мм)"
+    }
+  ],
+  [
+    12,
+    "60-6828-005A",
+    {
+      "en": "GoldLine Push Button, 4 of 10mm tubing and 6 of 22mm Tubing, UltraClean Blade Electrode, Holster, Single Use, Sterile",
+      "ru": "Рукоятка GoldLine с кнопочным управлением; трубки 4 длиной при диаметре 10 мм и 6 длиной при диаметре 22 мм; электрод-лезвие UltraClean, держатель; одноразовое применение; стерильно"
+    }
+  ],
+  [
+    12,
+    "60-6829-005A",
+    {
+      "en": "GoldLine Rocker Switch, 4 of 10mm Tubing and6 of22mm Tubing, UltraClean Blade Electrode, Holster, Single Use, Sterile",
+      "ru": "Рукоятка GoldLine с клавишным управлением; трубки 4 длиной при диаметре 10 мм и 6 длиной при диаметре 22 мм; электрод-лезвие UltraClean, держатель; одноразовое применение; стерильно"
+    }
+  ],
+  [
+    12,
+    "PA2010",
+    {
+      "en": "3/8 (9.5mm) x4 (122 m) tubing with an adapter to 7/8 (22 mm) x6 (18 m) tube",
+      "ru": "Трубка 3/8 (9.5 мм) × 4 (122 м) с адаптером к трубке 7/8 (22 мм) × 6 (18 м)"
+    }
+  ],
+  [
+    13,
+    "VT38S1010",
+    {
+      "en": "Sterile, 10 (3.0 m)",
+      "ru": "стерильно, 10 (3.0 м)"
+    }
+  ],
+  [
+    13,
+    "VT10424",
+    {
+      "en": "Sterile: 6 (18 m)",
+      "ru": "стерильно: 6 (18 м)"
+    }
+  ],
+  [
+    13,
+    "VT10624",
+    {
+      "en": "Sterile: 10 (3.0 m)",
+      "ru": "стерильно: 10 (3.0 м)"
+    }
+  ],
+  [
+    13,
+    "VT10324",
+    {
+      "en": "Non-Sterile: 6 (18 m) with (12) 7/8Xtubing-to-tubing connectors (extension tubing)",
+      "ru": "нестерильно: 6 (18 м) с (12) 7/8межтрубочный соединители (удлинительный трубка)"
+    }
+  ],
+  [
+    13,
+    "VT10524",
+    {
+      "en": "Non-Sterile: 10 (30 m)",
+      "ru": "нестерильно: 10 (30 м)"
+    }
+  ],
+  [
+    13,
+    "VT78-6",
+    {
+      "en": "Non-Sterile: 6 (1.8 m)",
+      "ru": "нестерильно: 6 (1.8 м)"
+    }
+  ],
+  [
+    13,
+    "VT10206",
+    {
+      "en": "Sterile: 6 (18 m)",
+      "ru": "стерильно: 6 (18 м)"
+    }
+  ],
+  [
+    13,
+    "VT10306",
+    {
+      "en": "Non-Sterile: 10 (30 m)",
+      "ru": "нестерильно: 10 (30 м)"
+    }
+  ],
+  [
+    14,
+    "VTESU05",
+    {
+      "en": "sterile, 7/8 (22mm)x6 8m) with 7/8 (22 mm) to 1/4 (6.4 mm) reducer to 1/4 (6.4mm) x2 (6m) tubing",
+      "ru": "стерильно, 7/8 (22мм)x6 8м) с 7/8 (22 мм) к 1/4 (6.4 мм) редукционный к 1/4 (6.4мм) x2 (6м) трубка"
+    }
+  ],
+  [
+    14,
+    "PSFTS05",
+    {
+      "en": "Non-Sterile, 7/8 (22 mm) x6 (18 m) with 7/8 (22 mm) to 1/4 (6.4 mm) reducer to 1/4 (6.4mm) x2 (.6 m) tubing",
+      "ru": "нестерильно, 7/8 (22 мм) x6 (18 м) с 7/8 (22 мм) к 1/4 (6.4 мм) редукционный к 1/4 (6.4мм) x2 (.6 м) трубка"
+    }
+  ],
+  [
+    14,
+    "60-6815-001",
+    {
+      "en": "LEEP Tubing Set, 10 (3.05m), Non-Sterile",
+      "ru": "LEEP трубки комплект, 10 (3.05м), нестерильно"
+    }
+  ],
+  [
+    14,
+    "VTWT424",
+    {
+      "en": "Sterile: 6 (18 m) tubing",
+      "ru": "стерильно: 6 (18 м) трубка"
+    }
+  ],
+  [
+    14,
+    "60-6805-001",
+    {
+      "en": "Sterile: Hand-held Smoke Evacuation Tubing 6 (18m), 7/8 diameter, Single Use",
+      "ru": "стерильно: ручной Трубки для эвакуации хирургического дыма 6 (18м), 7/8 диаметр, одноразового применения"
+    }
+  ],
+  [
+    14,
+    "VTWT624",
+    {
+      "en": "Sterile: 10 (3.0 m) tubing",
+      "ru": "стерильно: 10 (3.0 м) трубка"
+    }
+  ],
+  [
+    14,
+    "VTWT805",
+    {
+      "en": "Sterile: 14 (4.3 m) tubing",
+      "ru": "стерильно: 14 (4.3 м) трубка"
+    }
+  ],
+  [
+    14,
+    "VTWT206",
+    {
+      "en": "sterile, 6 (18 m) tubing",
+      "ru": "стерильно, 6 (18 м) трубка"
+    }
+  ],
+  [
+    14,
+    "VTWT505",
+    {
+      "en": "Sterile,6 (1.8 m)",
+      "ru": "стерильно,6 (1.8 м)"
+    }
+  ],
+  [
+    15,
+    "RF10210",
+    {
+      "en": "sterile, 7/8 (22 mm) to 1/4 (6.4 mm) reducer fitting with 2’ (.6 m) x 1/4” (6.4 mm) tubing",
+      "ru": "стерильно, 7/8 (22 мм) к 1/4 (6.4 мм) редукционный соединитель с 2’ (.6 м) x 1/4” (6.4 мм) трубка"
+    }
+  ],
+  [
+    15,
+    "PSFTS05",
+    {
+      "en": "Non-Sterile, 7/8 (22 mm) to 1/4 (6.4 mm) reducer fitting with 2’ (.6 m) x 1/4” (6.4 mm) tubing",
+      "ru": "нестерильно, 7/8 (22 мм) к 1/4 (6.4 мм) редукционный соединитель с 2’ (.6 м) x 1/4” (6.4 мм) трубка"
+    }
+  ],
+  [
+    15,
+    "RF10112",
+    {
+      "en": "7/8 (22 mm) to 1/4 (6.4 mm) reducer fitting",
+      "ru": "7/8 (22 мм) к 1/4 (6.4 мм) редукционный соединитель"
+    }
+  ],
+  [
+    15,
+    "60-6840-001",
+    {
+      "en": "7/8 to 1/4 reducer adapter",
+      "ru": "7/8 к 1/4 переходник-редуктор"
+    }
+  ],
+  [
+    16,
+    "PP010CS",
+    {
+      "en": "PlumePort® ActiV®",
+      "ru": "PlumePort® ActiV®"
+    }
+  ],
+  [
+    16,
+    "PP012SEO",
+    {
+      "en": "PlumePort® SEO",
+      "ru": "PlumePort® SEO"
+    }
+  ],
+  [
+    16,
+    "PP010",
+    {
+      "en": "PlumePort®",
+      "ru": "PlumePort®"
+    }
+  ],
+  [
+    16,
+    "BLAP100",
+    {
+      "en": "PlumePort® SE",
+      "ru": "PlumePort® SE"
+    }
+  ],
+  [
+    16,
+    "60-6810-001",
+    {
+      "en": "Laparoscopic Smoke Evacuation Tubing set 10 (3.05m),1/4 diameter w/ luer lock, Single Use; Sterile",
+      "ru": "Комплект трубок для лапароскопической эвакуации дыма; длина 10 (3.05 м), диаметр 1/4; соединитель Luer Lock; одноразовое применение; стерильно"
+    }
+  ],
+  [
+    17,
+    "VS135",
+    {
+      "en": "1/4 (6.4 mm), 3/8 (9.5 mm) and 7/8 (22 mm)",
+      "ru": "1/4 (6.4 мм), 3/8 (9.5 мм) и 7/8 (22 мм)"
+    }
+  ],
+  [
+    17,
+    "VS1352",
+    {
+      "en": "1/4 (6.4 mm), 3/8 (9.5 mm) and 7/8 (22 mm)",
+      "ru": "1/4 (6.4 мм), 3/8 (9.5 мм) и 7/8 (22 мм)"
+    }
+  ],
+  [
+    17,
+    "VS1354",
+    {
+      "en": "1/4 (6.4 mm), 3/8 (9.5 mm) and 7/8 (22 mm)",
+      "ru": "1/4 (6.4 мм), 3/8 (9.5 мм) и 7/8 (22 мм)"
+    }
+  ],
+  [
+    17,
+    "VS353",
+    {
+      "en": "1/4 (6.4mm), 3/8 (9.5 mm) and 7/8 (22 mm)",
+      "ru": "1/4 (6.4мм), 3/8 (9.5 мм) и 7/8 (22 мм)"
+    }
+  ],
+  [
+    17,
+    "VS35302",
+    {
+      "en": "1/4 (6.4mm), 3/8 (9.5 mm) and 7/8 (22 mm)",
+      "ru": "1/4 (6.4мм), 3/8 (9.5 мм) и 7/8 (22 мм)"
+    }
+  ],
+  [
+    17,
+    "VS35304",
+    {
+      "en": "1/4 (6.4 mm), 3/8 (9.5 mm) and 7/8 (22 mm)",
+      "ru": "1/4 (6.4 мм), 3/8 (9.5 мм) и 7/8 (22 мм)"
+    }
+  ],
+  [
+    18,
+    "BILF150",
+    {
+      "en": "BILF150 Multi-Use In-Line Filter",
+      "ru": "BILF150 многократного применения встроенный фильтр"
+    }
+  ],
+  [
+    18,
+    "BILF200",
+    {
+      "en": "BILF200 Multi-Use In-Line Filter",
+      "ru": "BILF200 многократного применения встроенный фильтр"
+    }
+  ],
+  [
+    18,
+    "60-8084-001",
+    {
+      "en": "AER Defense FilterOne ULPA Rated",
+      "ru": "AER Defense FilterOne ULPA класс"
+    }
+  ],
+  [
+    19,
+    "VSNEP04",
+    {
+      "en": "1/4 (6.4 mm), 3/8 (9.5 mm) and 7/8 (22 mm)",
+      "ru": "1/4 (6.4 мм), 3/8 (9.5 мм) и 7/8 (22 мм)"
+    }
+  ],
+  [
+    19,
+    "BTLDXS04",
+    {
+      "en": "7/8 (22 mm) port",
+      "ru": "7/8 (22 мм) порт"
+    }
+  ],
+  [
+    19,
+    "VSSV301",
+    {
+      "en": "1/4 (6.4 mm), 3/8 (9.5 mm) and 7/8 (22 mm)",
+      "ru": "1/4 (6.4 мм), 3/8 (9.5 мм) и 7/8 (22 мм)"
+    }
+  ],
+  [
+    19,
+    "VSSV304",
+    {
+      "en": "1/4 (6.4mm), 3/8 (9.5 mm) and 7/8 (22 mm)",
+      "ru": "1/4 (6.4мм), 3/8 (9.5 мм) и 7/8 (22 мм)"
+    }
+  ],
+  [
+    19,
+    "VSTR0804",
+    {
+      "en": "1/4 (6.4 mm), 3/8 (9.5 mm) and 7/8 (22 mm)",
+      "ru": "1/4 (6.4 мм), 3/8 (9.5 мм) и 7/8 (22 мм)"
+    }
+  ],
+  [
+    19,
+    "BSPF030",
+    {
+      "en": "1-3/8” (35 mm) port pre-filter",
+      "ru": "1-3/8” (35 мм) порт предварительный фильтр"
+    }
+  ],
+  [
+    20,
+    "EZLINK01",
+    {
+      "en": "EZLink®",
+      "ru": "EZLink®"
+    }
+  ],
+  [
+    20,
+    "FS10004",
+    {
+      "en": "10 length (3.0 m)",
+      "ru": "Пневматическая педаль для эвакуаторов хирургического дыма CONMED; длина 10 (3.0 м)"
+    }
+  ],
+  [
+    20,
+    "VSFT10",
+    {
+      "en": "7/8 (22 mm) and 1/4 (6.4 mm) tubing connection ports",
+      "ru": "Ловушка жидкости ViroSafe; соединительные порты для трубок 7/8 (22 мм) и 1/4 (6.4 мм)"
+    }
+  ],
+  [
+    20,
+    "DCCM01",
+    {
+      "en": "CONMED Electrosurgical Units (certain models only) and Smoke Evacuators",
+      "ru": "Кабель прямого подключения: электрохирургические аппараты CONMED (определённые модели) и эвакуаторы дыма"
+    }
+  ],
+  [
+    20,
+    "DCCOV01",
+    {
+      "en": "Covidien Electrosurgical Units (certain models only) and CONMED Smoke Evacuators",
+      "ru": "Кабель прямого подключения: электрохирургические аппараты Covidien (определённые модели) и эвакуаторы дыма CONMED"
+    }
+  ],
+  [
+    20,
+    "ADP22X22Y",
+    {
+      "en": "7/8 (22 mm)",
+      "ru": "Y-образный адаптер, 7/8 (22 мм)"
+    }
+  ],
+  [
+    21,
+    "LA3010CL4",
+    {
+      "en": "A/case",
+      "ru": "Клипсы-адаптеры рукоятки LaseAdapt; совместимость: лазерные системы Sciton Contour TRL Erbium Scanner и ProFractional Therapy"
+    }
+  ],
+  [
+    21,
+    "ARMSTAND",
+    {
+      "en": "10 (25.4cm) x10 (25.4 cm) x 34 (86.4 cm)",
+      "ru": "Стойка для руки Armstand: 10 (25.4 см) × 10 (25.4 см) × 34 (86.4 см)"
+    }
+  ],
+  [
+    21,
+    "ETC01",
+    {
+      "en": "15 (38.1 cm) x 17.5 (44.5 cm) x 32 (81.3 cm)",
+      "ru": "Тележка EvacCart: 15 (38.1 см) × 17.5 (44.5 см) × 32 (81.3 см)"
+    }
+  ],
+  [
+    21,
+    "VVWM01",
+    {
+      "en": "ViroVac® Wall Mount Kit",
+      "ru": "ViroVac® комплект настенного крепления"
+    }
+  ],
+  [
+    21,
+    "60-8041-001",
+    {
+      "en": "Smoke Accessories Basket",
+      "ru": "корзина для принадлежностей эвакуации дыма"
+    }
+  ],
+  [
+    23,
+    "60-8800-SET",
+    {
+      "en": "HelixAR System, ABC Generator and Cart",
+      "ru": "Система HelixAR: генератор ABC и тележка"
+    }
+  ],
+  [
+    23,
+    "60-8800-SYS",
+    {
+      "en": "HelixAR System, ABC Generator and Cart, with Monopolar and Bipolar Footswitch",
+      "ru": "Система HelixAR: генератор ABC и тележка, монополярная и биполярная педали"
+    }
+  ],
+  [
+    23,
+    "60-8475-001",
+    {
+      "en": "ABC Single Pedal Footswitch, 15",
+      "ru": "Одноклавишная педаль ABC, 15"
+    }
+  ],
+  [
+    23,
+    "60-8470-001",
+    {
+      "en": "ABC Single Pedal Footswitch, 30",
+      "ru": "Одноклавишная педаль ABC, 30"
+    }
+  ],
+  [
+    23,
+    "60-8480-001",
+    {
+      "en": "HelixAR Wireless Footswitch Kit (Monopolar & ABC Footswitch, AA Batteries, Receiver/Antenna, Operator s Manual\")",
+      "ru": "Комплект беспроводной педали HelixAR: монополярная педаль и педаль ABC, батареи AA, приёмник/антенна, руководство оператора"
+    }
+  ],
+  [
+    23,
+    "60-6700-001",
+    {
+      "en": "Monopolar Dual Pedal Footswitch, 15",
+      "ru": "Двухклавишная монополярная педаль, 15"
+    }
+  ],
+  [
+    23,
+    "60-5103-002",
+    {
+      "en": "Bipolar Single Footswitch, 15",
+      "ru": "Одноклавишная биполярная педаль, 15"
+    }
+  ],
+  [
+    23,
+    "136050",
+    {
+      "en": "D Size with 33 Cubic Feet (934.46 liters) capacity 99.998% Pure Argon Gas included",
+      "ru": "Баллон типоразмера D: объём 33 куб. фута (934.46 liters); чистый аргон 99.998% входит в комплект"
+    }
+  ],
+  [
+    23,
+    "136051",
+    {
+      "en": "Empty D Size with 33 Cubic Feet (934.46 liters) capacity",
+      "ru": "Пустой баллон типоразмера D; объём 33 куб. фута (934.46 liters)"
+    }
+  ],
+  [
+    23,
+    "60-8849-001",
+    {
+      "en": "Adapter allows System 5000 ESUs to be mounted to HelixAR on a Mobile Pedestal",
+      "ru": "Адаптер для установки электрохирургического аппарата System 5000 на мобильную стойку HelixAR"
+    }
+  ],
+  [
+    24,
+    "130321",
+    {
+      "en": "Triple Option Hand Control Handpiece with 10 (3.05m) cordAllows use of Monopolar Cut, Coagulation and ABC",
+      "ru": "Трёхрежимная рукоятка с ручным управлением и кабелем 10 (3.05 м); монополярное резание, коагуляция и ABC"
+    }
+  ],
+  [
+    24,
+    "130344",
+    {
+      "en": "single Function Hand Control Handpiece with 10 (3.05m) cord”",
+      "ru": "Однорежимная рукоятка с ручным управлением и кабелем 10 (3.05 м)"
+    }
+  ],
+  [
+    24,
+    "130345",
+    {
+      "en": "45° Angled ABC Foot Control Handpiece with 10 (3.05m) cord*",
+      "ru": "Рукоятка ABC с ножным управлением, угол 45°; кабель 10 (3.05 м)"
+    }
+  ],
+  [
+    24,
+    "130342",
+    {
+      "en": "Laparoscopic 10mm ABC Probe with 10 (3.05m) cord. 28cm working length”",
+      "ru": "Лапароскопический зонд ABC, диаметр 10 мм; кабель 10 (3.05 м); рабочая длина 28 см"
+    }
+  ],
+  [
+    24,
+    "160655",
+    {
+      "en": "Laparoscopic 5mm ABC Probe with 10 (3.05m) cord. 28cm working length",
+      "ru": "Лапароскопический зонд ABC, диаметр 5 мм; кабель 10 (3.05 м); рабочая длина 28 см"
+    }
+  ],
+  [
+    24,
+    "160656",
+    {
+      "en": "Laparoscopic 5mm ABC Probe with 10 (3.05m) cord. 28cm working length",
+      "ru": "Лапароскопический зонд ABC с ручным управлением, диаметр 5 мм; кабель 10 (3.05 м); рабочая длина 28 см"
+    }
+  ],
+  [
+    24,
+    "160636",
+    {
+      "en": "Laparoscopic 5mm ABC Probe with 10 (3.05m) cord. 36cm working length",
+      "ru": "Лапароскопический зонд ABC с ручным управлением, диаметр 5 мм; кабель 10 (3.05 м); рабочая длина 36 см"
+    }
+  ],
+  [
+    24,
+    "160644",
+    {
+      "en": "Laparoscopic 5mm ABC Probe with 10 (3.05m) cord. 44cm working length",
+      "ru": "Лапароскопический зонд ABC с ручным управлением, диаметр 5 мм; кабель 10 (3.05 м); рабочая длина 44 см"
+    }
+  ],
+  [
+    25,
+    "139330",
+    {
+      "en": "ABC Dissecting Blade Electrode converts Argon Beam Coagulation to Argon Beam Dissect",
+      "ru": "Разрезающий электрод-лезвие ABC; переключение с аргоноплазменной коагуляции на аргоноплазменную диссекцию"
+    }
+  ],
+  [
+    25,
+    "139331",
+    {
+      "en": "ABC Dissecting Blunt Needle Electrode converts Argon Beam Coagulation to Argon Beam Dissect",
+      "ru": "Разрезающий электрод ABC в форме тупой иглы; переключение с аргоноплазменной коагуляции на аргоноплазменную диссекцию"
+    }
+  ],
+  [
+    25,
+    "134003",
+    {
+      "en": "3 (7.6cm) Bend-a-Beam Single Function Malleable ABC Hand Control Handpiece with 10 (3.05m) Cord Allows Use of Monopolar ABC Coagulation. Single Use, sterile",
+      "ru": "Моделируемая однорежимная рукоятка Bend-a-Beam с ручным управлением, 3 (7.6 см); кабель 10 (3.05 м); монополярная коагуляция ABC; одноразовое применение; стерильно"
+    }
+  ],
+  [
+    25,
+    "134006",
+    {
+      "en": "6 (15.2cm) Bend-a-Beam Single Function Malleable ABC Hand Control Handpiece with 10 (3.05m) Cord. Allows Use of Monopolar ABC Coagulation. Single Use, Sterile",
+      "ru": "Моделируемая однорежимная рукоятка Bend-a-Beam с ручным управлением, 6 (15.2 см); кабель 10 (3.05 м); монополярная коагуляция ABC; одноразовое применение; стерильно"
+    }
+  ],
+  [
+    25,
+    "134009",
+    {
+      "en": "9 (22.8cm) Bend-a-Beam Single Function Malleable ABC Hand Control Handpiece with 10 (3.05m) Cord. Allows Use of Monopolar ABC Coagulation. Single Use, Sterile",
+      "ru": "Моделируемая однорежимная рукоятка Bend-a-Beam с ручным управлением, 9 (22.8 см); кабель 10 (3.05 м); монополярная коагуляция ABC; одноразовое применение; стерильно"
+    }
+  ],
+  [
+    26,
+    "410-2000",
+    {
+      "en": "sureFit Dual Dispersive Electrode (for patients > 4.8 lbs.), Single use, Pre-attached 10 (305m) Cable",
+      "ru": "sureFit двухсекционный нейтральный электрод (для пациентов > 4.8 фунтов.), одноразового применения, предварительно подсоединённый 10 (305м) кабель"
+    }
+  ],
+  [
+    26,
+    "410-2100",
+    {
+      "en": "sureFit Dual Dispersive Electrode (for patients > 4.8 lbs.), Single use, Pre-attached 15 (457m) Cable",
+      "ru": "sureFit двухсекционный нейтральный электрод (для пациентов > 4.8 фунтов.), одноразового применения, предварительно подсоединённый 15 (457м) кабель"
+    }
+  ],
+  [
+    26,
+    "410-2200",
+    {
+      "en": "sureFit Dual Dispersive Electrode (for patients > 4.8 lbs.), Single use, without Cable, resealable, 5-pack pouch (use reusable cable #1229)",
+      "ru": "sureFit двухсекционный нейтральный электрод (для пациентов > 4.8 фунтов.), одноразового применения, без кабеля, повторно закрываемый, 5-упаковка пакет (применение многоразового применения кабель #1229)"
+    }
+  ],
+  [
+    26,
+    "7-382",
+    {
+      "en": "Adult Dual Dispersive Electrode (for patients >15 kg), Single use, Pre-attached 10 (3.05m) Cable",
+      "ru": "для взрослых двухсекционный нейтральный электрод (для пациентов >15 кг), одноразового применения, предварительно подсоединённый 10 (3.05м) кабель"
+    }
+  ],
+  [
+    26,
+    "7-383",
+    {
+      "en": "Pediatric Dual Dispersive Electrode (for patients 5-15 kg), Single use, Pre-attached 10 (305m) Cable",
+      "ru": "для детей двухсекционный нейтральный электрод (для пациентов 5-15 кг), одноразового применения, предварительно подсоединённый 10 (305м) кабель"
+    }
+  ],
+  [
+    26,
+    "7-384",
+    {
+      "en": "Adult Single Dispersive Electrode (for patients >15 kg), Single use, Pre-attached 10 (3.05m) Cable",
+      "ru": "для взрослых односекционный нейтральный электрод (для пациентов >15 кг), одноразового применения, предварительно подсоединённый 10 (3.05м) кабель"
+    }
+  ],
+  [
+    26,
+    "51-7810",
+    {
+      "en": "Adult Single Dispersive Electrode (for Patients >15 kg), Single Use, Pre-attached 10 (305m) Cable",
+      "ru": "для взрослых односекционный нейтральный электрод (для пациентов >15 кг), одноразового применения, предварительно подсоединённый 10 (305м) кабель"
+    }
+  ],
+  [
+    26,
+    "51-7310",
+    {
+      "en": "Adult Dual Dispersive Electrode (for Patients >15 kg), Single Use, Pre-attached 10 (305m) Cable",
+      "ru": "для взрослых двухсекционный нейтральный электрод (для пациентов >15 кг), одноразового применения, предварительно подсоединённый 10 (305м) кабель"
+    }
+  ],
+  [
+    26,
+    "51-7410",
+    {
+      "en": "Adult Dual Dispersive Electrode (for Patients >15 kg), Single use, without Cable (use cable 1-229)",
+      "ru": "для взрослых двухсекционный нейтральный электрод (для пациентов >15 кг), одноразового применения, без кабеля (применение кабель 1-229)"
+    }
+  ],
+  [
+    26,
+    "51-7710",
+    {
+      "en": "Pediatric Dual Dispersive Electrode (for Patients 5-15 kg), Single use, Pre-attached 10 (305m) Cable",
+      "ru": "для детей двухсекционный нейтральный электрод (для пациентов 5-15 кг), одноразового применения, предварительно подсоединённый 10 (305м) кабель"
+    }
+  ],
+  [
+    27,
+    "410-2100",
+    {
+      "en": "Adult Single Dispersive Electrode (for patients >15 kg), Single use, Pre-attached 10 (305m) Cable",
+      "ru": "для взрослых односекционный нейтральный электрод (для пациентов >15 кг), одноразового применения, предварительно подсоединённый 10 (305м) кабель"
+    }
+  ],
+  [
+    27,
+    "400-2349",
+    {
+      "en": "Adult Single Dispersive (for patients >15 kg) No Cable",
+      "ru": "для взрослых одноразового применения нейтральный (для пациентов >15 кг) без кабеля"
+    }
+  ],
+  [
+    27,
+    "400-2700",
+    {
+      "en": "Adult Single Dispersive Electrode (for patients >15 kg), Single use, without cable, resealable 5-pack pouch (use reusable cable # 1229)",
+      "ru": "для взрослых односекционный нейтральный электрод (для пациентов >15 кг), одноразового применения, без кабеля, повторно закрываемый 5-упаковка пакет (применение многоразового применения кабель # 1229)"
+    }
+  ],
+  [
+    27,
+    "425-2200",
+    {
+      "en": "Pediatric Single Dispersive Electrode (for patients 5-15 kg), Single use, Pre-attached 10 (305m) Cable",
+      "ru": "для детей односекционный нейтральный электрод (для пациентов 5-15 кг), одноразового применения, предварительно подсоединённый 10 (305м) кабель"
+    }
+  ],
+  [
+    27,
+    "425-2508",
+    {
+      "en": "Pediatric Dual Dispersive Electrode (for patients 5-15 kg), Single use, Pre-attached 10 (305m) Cable",
+      "ru": "для детей двухсекционный нейтральный электрод (для пациентов 5-15 кг), одноразового применения, предварительно подсоединённый 10 (305м) кабель"
+    }
+  ],
+  [
+    27,
+    "440-2400",
+    {
+      "en": "Premie Single Dispersive Electrode (for patients < 5 kg), Single use, Pre-attached 10 (305m) Cable",
+      "ru": "для недоношенных односекционный нейтральный электрод (для пациентов < 5 кг), одноразового применения, предварительно подсоединённый 10 (305м) кабель"
+    }
+  ],
+  [
+    27,
+    "450-2300",
+    {
+      "en": "Infant Single Dispersive Electrode (for patients 5-15 kg), Single use, Pre-attached 10 (305m) Cable",
+      "ru": "для младенцев односекционный нейтральный электрод (для пациентов 5-15 кг), одноразового применения, предварительно подсоединённый 10 (305м) кабель"
+    }
+  ],
+  [
+    34,
+    "60-0641-001",
+    {
+      "en": "ASPENGEL Conductive Gel, Nonstaining; 8.45 fluid ounce",
+      "ru": "Электропроводящий гель ASPENGEL, не оставляет пятен; объём 8.45 жидк. унций"
+    }
+  ],
+  [
+    34,
+    "T229",
+    {
+      "en": "Cable for use with all ARM-equipped and Valleylap REM-equipped generators. 10 (3.05m)",
+      "ru": "Кабель для генераторов с системами ARM и Valleylab REM; длина 10 (3.05 м)"
+    }
+  ],
+  [
+    34,
+    "T229-5M",
+    {
+      "en": "Cable for use with all ARM-equipped and Valleylad REM-equipped generators. 15 (4.57m)",
+      "ru": "Кабель для генераторов с системами ARM и Valleylab REM; длина 15 (4.57 м)"
+    }
+  ],
+  [
+    34,
+    "T228",
+    {
+      "en": "Cable for use with single dispersive electrodes and non-contact quality monitoring generators; 10 (305m)",
+      "ru": "Кабель для односекционных нейтральных электродов и генераторов с бесконтактным контролем качества; длина 10 (305 м)"
+    }
+  ],
+  [
+    35,
+    "B204",
+    {
+      "en": "Dispersive Electrode Adapter. For use with Valleylab generators without REM (single- foil only); Wallach Leep 100",
+      "ru": "Адаптер нейтрального электрода; совместимость: генераторы Valleylab без REM (только односекционные электроды), Wallach Leep 100"
+    }
+  ],
+  [
+    35,
+    "B205",
+    {
+      "en": "Dispersive Electrode Adapter. For use with all Aspen Labs; Birtcher 3000, 4400; Davol/Bard/Birtcher 5000 without PSS; Bicap 60, 200",
+      "ru": "Адаптер нейтрального электрода; совместимость: Aspen Labs, Birtcher 3000 и 4400, Davol/Bard/Birtcher 5000 без PSS, Bicap 60 и 200"
+    }
+  ],
+  [
+    35,
+    "B210",
+    {
+      "en": "Dispersive Electrode Adapter. For use with Erbe and Elmed generators",
+      "ru": "Адаптер нейтрального электрода для генераторов Erbe и Elmed"
+    }
+  ],
+  [
+    35,
+    "A238",
+    {
+      "en": "Dispersive Electrode Adapter. Allows CONMED ABC generators to use Valleylab dual-foil dispersive electrodes",
+      "ru": "Адаптер нейтрального электрода для подключения двухсекционных электродов Valleylab к генераторам CONMED ABC"
+    }
+  ],
+  [
+    35,
+    "B227",
+    {
+      "en": "Dispersive Electrode Adapter. For use with Ritter Bovie Specialist",
+      "ru": "Адаптер нейтрального электрода для Ritter Bovie Specialist"
+    }
+  ],
+  [
+    35,
+    "B260",
+    {
+      "en": "Dispersive Electrode Adapter. For use with Olympus S-P cables retrofit with CONMED Adapter and CONMED Single Foil Dispersive electrodes",
+      "ru": "Адаптер нейтрального электрода для кабелей Olympus S-P с адаптером CONMED и односекционными электродами CONMED"
+    }
+  ],
+  [
+    28,
+    "60-8005-002",
+    {
+      "en": "system 5000 ESU, 100V - 240V (Symbols Front Panel)",
+      "ru": "Электрохирургический аппарат System 5000, 100 В–240 В; передняя панель с символами"
+    }
+  ],
+  [
+    28,
+    "60-8040-001",
+    {
+      "en": "Mobile Pedestal including Upper and Lower Storage Baskets",
+      "ru": "Мобильная стойка с верхней и нижней корзинами для хранения"
+    }
+  ],
+  [
+    28,
+    "60-6700-001",
+    {
+      "en": "Monopolar Footswitch with 15 ft. cable",
+      "ru": "Монополярная педаль с кабелем 15 ft"
+    }
+  ],
+  [
+    28,
+    "60-5103-001",
+    {
+      "en": "Bipolar Footswitch",
+      "ru": "Биполярная педаль"
+    }
+  ],
+  [
+    28,
+    "60-8041-001",
+    {
+      "en": "saddlebag Lower Basket",
+      "ru": "Нижняя навесная корзина"
+    }
+  ],
+  [
+    28,
+    "60-8030-001",
+    {
+      "en": "Adapter allows two System 5000 ESUs to be mounted on a Mobile Pedestal",
+      "ru": "Адаптер для установки двух аппаратов System 5000 на мобильную стойку"
+    }
+  ],
+  [
+    29,
+    "60-2450-230",
+    {
+      "en": "system 2450 ESU, 230-240V",
+      "ru": "Электрохирургический аппарат System 2450, 230–240 В"
+    }
+  ],
+  [
+    29,
+    "60-7152-001",
+    {
+      "en": "system 2450 Cart",
+      "ru": "Тележка System 2450"
+    }
+  ],
+  [
+    29,
+    "60-6700-001",
+    {
+      "en": "Monopolar Footswitch with 15 ft. cable",
+      "ru": "Монополярная педаль с кабелем 15 ft"
+    }
+  ],
+  [
+    29,
+    "60-5103-001",
+    {
+      "en": "Bipolar Footswitch",
+      "ru": "Биполярная педаль"
+    }
+  ],
+  [
+    29,
+    "60-6963-001",
+    {
+      "en": "stacking Adapter for System 2450",
+      "ru": "Адаптер для установки аппаратов System 2450 друг на друга"
+    }
+  ],
+  [
+    29,
+    "60-5480-001",
+    {
+      "en": "Assembled Cart",
+      "ru": "Универсальная тележка для электрохирургического аппарата в сборе"
+    }
+  ],
+  [
+    30,
+    "131309A",
+    {
+      "en": "Push Button, Hand Switch Pencils: UltraClean® Blade, Holster, 10 Cable",
+      "ru": "Рукоятка с кнопочным ручным управлением: электрод-лезвие UltraClean®, держатель, кабель 10"
+    }
+  ],
+  [
+    30,
+    "131326A",
+    {
+      "en": "Push Button, Hand Switch Pencils: UltraClean® Blade, Holster, 15 Cable",
+      "ru": "Рукоятка с кнопочным ручным управлением: электрод-лезвие UltraClean®, держатель, кабель 15"
+    }
+  ],
+  [
+    30,
+    "130309A",
+    {
+      "en": "Push Button, Hand Switch Pencils: standard Blade, Holster, 10 Cable",
+      "ru": "Рукоятка с кнопочным ручным управлением: стандартный лезвие, держатель, кабель 10"
+    }
+  ],
+  [
+    30,
+    "130326A",
+    {
+      "en": "Push Button, Hand Switch Pencils: Standard Blade, Holster, 15 Cable",
+      "ru": "Рукоятка с кнопочным ручным управлением: стандартный электрод-лезвие, держатель, кабель 15"
+    }
+  ],
+  [
+    30,
+    "130303A",
+    {
+      "en": "Push Button, Hand Switch Pencils: standard Blade, Holster, Tip Cleaner, 10 Cable",
+      "ru": "Рукоятка с кнопочным ручным управлением: стандартный лезвие, держатель, наконечник очиститель, кабель 10"
+    }
+  ],
+  [
+    30,
+    "130302A",
+    {
+      "en": "Push Button, Hand Switch Pencils: Needle Electrode, Holster, 10 Cable",
+      "ru": "Рукоятка с кнопочным ручным управлением: игольчатый электрод, держатель, кабель 10"
+    }
+  ],
+  [
+    30,
+    "138114A",
+    {
+      "en": "Push Button, Hand Switch Pencils: Extended Insulated Blade, Holster, 10 Cable",
+      "ru": "Рукоятка с кнопочным ручным управлением: удлинённый изолированный электрод-лезвие, держатель, кабель 10"
+    }
+  ],
+  [
+    30,
+    "131307A",
+    {
+      "en": "Rocker Switch, Hand Switch Pencils: UltraClean® Blade, Holster, 10 Cable",
+      "ru": "Рукоятка с клавишным ручным управлением: электрод-лезвие UltraClean®, держатель, кабель 10"
+    }
+  ],
+  [
+    30,
+    "131327A",
+    {
+      "en": "Rocker Switch, Hand Switch Pencils: UltraClean® Blade, Holster, 15 Cable",
+      "ru": "Рукоятка с клавишным ручным управлением: электрод-лезвие UltraClean®, держатель, кабель 15"
+    }
+  ],
+  [
+    30,
+    "130307A",
+    {
+      "en": "Rocker Switch, Hand Switch Pencils: standard Blade, Holster, 10 Cable",
+      "ru": "Рукоятка с клавишным ручным управлением: стандартный лезвие, держатель, кабель 10"
+    }
+  ],
+  [
+    30,
+    "130327A",
+    {
+      "en": "Rocker Switch, Hand Switch Pencils: standard Blade, Holster, 15 Cable",
+      "ru": "Рукоятка с клавишным ручным управлением: стандартный лезвие, держатель, кабель 15"
+    }
+  ],
+  [
+    30,
+    "130304A",
+    {
+      "en": "Rocker Switch, Hand Switch Pencils: standard Blade, Holster, Tip Cleaner, 10 Cable",
+      "ru": "Рукоятка с клавишным ручным управлением: стандартный лезвие, держатель, наконечник очиститель, кабель 10"
+    }
+  ],
+  [
+    30,
+    "130301A",
+    {
+      "en": "Rocker Switch, Hand Switch Pencils: Needle Electrode, Holster, 10 Cable",
+      "ru": "Рукоятка с клавишным ручным управлением: игольчатый электрод, держатель, кабель 10"
+    }
+  ],
+  [
+    30,
+    "138115A",
+    {
+      "en": "Rocker Switch, Hand Switch Pencils: Ext. Blade 10 (3.05m) Cable,Holster A",
+      "ru": "Рукоятка с клавишным ручным управлением: удлинённый. лезвие 10 (3.05м) кабель,держатель A"
+    }
+  ],
+  [
+    30,
+    "138650A",
+    {
+      "en": "Foot Control Pencils: UltraClean® Blade, Holster, 10 Cable",
+      "ru": "Рукоятка с ножным управлением: электрод-лезвие UltraClean®, держатель, кабель 10"
+    }
+  ],
+  [
+    30,
+    "138652A",
+    {
+      "en": "Foot Control Pencils: Needle Electrode, Holster, 15 Cable",
+      "ru": "Рукоятка с ножным управлением: игольчатый электрод, держатель, кабель 15"
+    }
+  ],
+  [
+    30,
+    "138659A",
+    {
+      "en": "Foot Control Pencils: Blade Electrode, Holster, 10 Cable",
+      "ru": "Рукоятка с ножным управлением: электрод-лезвие, держатель, кабель 10"
+    }
+  ],
+  [
+    30,
+    "138029",
+    {
+      "en": "Tip Cleaner, Single Use, Sterile",
+      "ru": "Очиститель наконечника; одноразовое применение; стерильно"
+    }
+  ],
+  [
+    31,
+    "130317",
+    {
+      "en": "GoldLine® Push Button, 1 Blade Disposable, 50 use, 10 (305m) Cable",
+      "ru": "Рукоятка GoldLine с кнопочным управлением; одноразовый электрод-лезвие 1; ресурс рукоятки 50 применений; кабель 10 (305 м)"
+    }
+  ],
+  [
+    31,
+    "130317-15",
+    {
+      "en": "GoldLine® Push Button, 1 Blade Disposable, 50 use, 15 (457m) Cable",
+      "ru": "Рукоятка GoldLine с кнопочным управлением; одноразовый электрод-лезвие 1; ресурс рукоятки 50 применений; кабель 15 (457 м)"
+    }
+  ],
+  [
+    31,
+    "130316",
+    {
+      "en": "GoldLine® Rocker Switch, 1 Blade Disposable, 50 use, 10 (3.05m) Cable",
+      "ru": "Рукоятка GoldLine с клавишным управлением; одноразовый электрод-лезвие 1; ресурс рукоятки 50 применений; кабель 10 (3.05 м)"
+    }
+  ],
+  [
+    31,
+    "130384",
+    {
+      "en": "PowerPoint®, 1 Blade Reusable, 50 use, 15 (457m) Cable",
+      "ru": "Рукоятка PowerPoint; многоразовый электрод-лезвие 1; ресурс рукоятки 50 применений; кабель 15 (457 м)"
+    }
+  ],
+  [
+    31,
+    "130402",
+    {
+      "en": "Push-Button Pencil, 1 Stainless Steel Blade, Sterile",
+      "ru": "Рукоятка с кнопочным управлением; электрод-лезвие из нержавеющей стали 1; стерильно"
+    }
+  ],
+  [
+    31,
+    "130403",
+    {
+      "en": "Push-Button Pencil, 1 ValueBlue Coated Electrode, Sterile",
+      "ru": "Рукоятка с кнопочным управлением; электрод с покрытием ValueBlue 1; стерильно"
+    }
+  ],
+  [
+    31,
+    "130404",
+    {
+      "en": "Rocker-Switch Pencil, 1 Stainless Steel, sterile",
+      "ru": "Рукоятка с клавишным управлением; электрод-лезвие из нержавеющей стали 1; стерильно"
+    }
+  ],
+  [
+    31,
+    "130405",
+    {
+      "en": "Rocker-Switch Pencil, 1 ValueBlue Coated Electrode, Sterile",
+      "ru": "Рукоятка с клавишным управлением; электрод с покрытием ValueBlue 1; стерильно"
+    }
+  ],
+  [
+    32,
+    "138102",
+    {
+      "en": "Needle Electrode w/ Hex Hub",
+      "ru": "игольчатый электрод с/ шестигранный разъём"
+    }
+  ],
+  [
+    32,
+    "138105",
+    {
+      "en": "Needle Electrode w/ Extended Insulation; Hex Hub",
+      "ru": "игольчатый электрод с/ удлинённая изоляция; шестигранный разъём"
+    }
+  ],
+  [
+    32,
+    "138108",
+    {
+      "en": "6 Needle Electrode w/ Hex Hub 4Q/case",
+      "ru": "6 игольчатый электрод с/ шестигранный разъём 4Q/упаковка"
+    }
+  ],
+  [
+    32,
+    "138025",
+    {
+      "en": "6 ENT Needle Electrode w/ Extended Insulation",
+      "ru": "6 ЛОР игольчатый электрод с/ удлинённая изоляция"
+    }
+  ],
+  [
+    32,
+    "138103",
+    {
+      "en": "3/16 diameter, with Hex Hub",
+      "ru": "3/16 диаметр, с шестигранный разъём"
+    }
+  ],
+  [
+    32,
+    "60-5181-102",
+    {
+      "en": "3mm diameter, 10cm shaft",
+      "ru": "3мм диаметр, 10см стержень"
+    }
+  ],
+  [
+    32,
+    "60-5181-103",
+    {
+      "en": "5mm diameter, 10cm shaft",
+      "ru": "5мм диаметр, 10см стержень"
+    }
+  ],
+  [
+    32,
+    "60-5180-101",
+    {
+      "en": "T Style, 12x8mm",
+      "ru": "T тип, 12x8мм"
+    }
+  ],
+  [
+    32,
+    "60-5180-102",
+    {
+      "en": "T Style, 15x10mm",
+      "ru": "T тип, 15x10мм"
+    }
+  ],
+  [
+    32,
+    "60-5180-104",
+    {
+      "en": "T Style, 20x10mm",
+      "ru": "T тип, 20x10мм"
+    }
+  ],
+  [
+    32,
+    "60-0869-001",
+    {
+      "en": "Straight Blade Electrode, 1. (2.54cm) length; Hex Hub",
+      "ru": "прямой электрод-лезвие, 1. (2.54см) длина; шестигранный разъём"
+    }
+  ],
+  [
+    32,
+    "60-0860-001",
+    {
+      "en": "Fine; Hex Hub",
+      "ru": "тонкий; шестигранный разъём"
+    }
+  ],
+  [
+    32,
+    "138010",
+    {
+      "en": "Round Loop Electrode, 3/8 (0.95cm) diameter, 2 (5.08cm) length",
+      "ru": "круглый петлевой электрод, 3/8 (0.95см) диаметр, 2 (5.08см) длина"
+    }
+  ],
+  [
+    32,
+    "138011",
+    {
+      "en": "Round Loop Electrode, 1/4 (0.64cm) diameter, 1°\" (4.45cm) length",
+      "ru": "круглый петлевой электрод, 1/4 (0.64см) диаметр, 1°\" (4.45см) длина"
+    }
+  ],
+  [
+    32,
+    "138012",
+    {
+      "en": "Round Loop Electrode, 3/4 (1.91cm) diameter, 2.1 (6.53cm) length",
+      "ru": "круглый петлевой электрод, 3/4 (1.91см) диаметр, 2.1 (6.53см) длина"
+    }
+  ],
+  [
+    33,
+    "138026",
+    {
+      "en": "straight Electrode Extender, SX(12.7cm) o/case",
+      "ru": "прямой электрод удлинитель, (12.7см) o/упаковка"
+    }
+  ],
+  [
+    33,
+    "139100",
+    {
+      "en": "1 UltraClean® Blade",
+      "ru": "1 UltraClean® лезвие"
+    }
+  ],
+  [
+    33,
+    "139104EXT",
+    {
+      "en": "1 UltraClean® Blade with Extended Insulation",
+      "ru": "1 UltraClean® лезвие с удлинённой изоляцией"
+    }
+  ],
+  [
+    33,
+    "139112",
+    {
+      "en": "4 UltraClean® Blade",
+      "ru": "4 UltraClean® лезвие"
+    }
+  ],
+  [
+    33,
+    "139112EXT",
+    {
+      "en": "4 UltraClean® Blade with Extended Insulation",
+      "ru": "4 UltraClean® лезвие с удлинённой изоляцией"
+    }
+  ],
+  [
+    33,
+    "139107",
+    {
+      "en": "6 UltraClean® Blade",
+      "ru": "6 UltraClean® лезвие"
+    }
+  ],
+  [
+    33,
+    "139110EXT",
+    {
+      "en": "6 UltraClean® Blade with Extended Insulation",
+      "ru": "6 UltraClean® лезвие с удлинённой изоляцией"
+    }
+  ],
+  [
+    33,
+    "139321",
+    {
+      "en": "1 UltraClean® Blade for ABC® Triple Option Handpiece",
+      "ru": "1 UltraClean® лезвие для ABC® трёхрежимный рукоятка"
+    }
+  ],
+  [
+    33,
+    "138100",
+    {
+      "en": "Heavy Flat Blade Electrode w/ Hex Hub",
+      "ru": "усиленный плоский электрод-лезвие с/ шестигранный разъём"
+    }
+  ],
+  [
+    33,
+    "138101",
+    {
+      "en": "Standard Flat Blade Electrode w/ Hex Hub",
+      "ru": "стандартный плоский электрод-лезвие с/ шестигранный разъём"
+    }
+  ],
+  [
+    33,
+    "138104",
+    {
+      "en": "Flat Blade Electrode with Extended Insulation; Hex Hub",
+      "ru": "плоский электрод-лезвие с удлинённой изоляцией; шестигранный разъём"
+    }
+  ],
+  [
+    33,
+    "138107",
+    {
+      "en": "6 Flat Blade Electrode with Hex Hub AQ/case",
+      "ru": "6 плоский электрод-лезвие с шестигранный разъём /упаковка"
+    }
+  ],
+  [
+    33,
+    "138110",
+    {
+      "en": "6 Flat Blade Electrode with Extended Insulation; Hex Hub",
+      "ru": "6 плоский электрод-лезвие с удлинённой изоляцией; шестигранный разъём"
+    }
+  ],
+  [
+    33,
+    "138112",
+    {
+      "en": "4 Flat Blade Electrode with Hex Hub A",
+      "ru": "4 плоский электрод-лезвие с шестигранный разъём A"
+    }
+  ],
+  [
+    33,
+    "138113",
+    {
+      "en": "3\"? Flat Blade Electrode with Hex Hub 4Q/case",
+      "ru": "3\"? плоский электрод-лезвие с шестигранный разъём 4Q/упаковка"
+    }
+  ],
+  [
+    33,
+    "139102",
+    {
+      "en": "1 UltraClean® Needle",
+      "ru": "1 UltraClean® игольчатый электрод"
+    }
+  ],
+  [
+    33,
+    "139105EXT",
+    {
+      "en": "1 UltraClean® Needle with Extended Insulation",
+      "ru": "1 UltraClean® игольчатый электрод с удлинённой изоляцией"
+    }
+  ],
+  [
+    33,
+    "139108",
+    {
+      "en": "6 UltraClean® Needle",
+      "ru": "6 UltraClean® игольчатый электрод"
+    }
+  ],
+  [
+    33,
+    "139025EXT",
+    {
+      "en": "6 UltraClean® Needle with Extended Insulation",
+      "ru": "6 UltraClean® игольчатый электрод с удлинённой изоляцией"
+    }
+  ],
+  [
+    36,
+    "130187",
+    {
+      "en": "Foot Control, 10 French, 6 (15m), Monopolar, Single Use; Sterile 10 (3.0m) Cordset",
+      "ru": "с ножным управлением, 10 Fr, 6 (15м), монополярный, одноразового применения; стерильно 10 (3.0м) кабельный комплект"
+    }
+  ],
+  [
+    36,
+    "130188",
+    {
+      "en": "Hand Control, 10 French, 6 (15cm), Monopolar, Single Use; Sterile10 (3.0m) Cordset",
+      "ru": "с ручным управлением, 10 Fr, 6 (15см), монополярный, одноразового применения; стерильно10 (3.0м) кабельный комплект"
+    }
+  ],
+  [
+    36,
+    "60-1765-001",
+    {
+      "en": "scoville-Greenwood Bayonet, 7¾ (19.7cm) Length, 1.5mm Tip, Insulated",
+      "ru": "Scoville–Greenwood штыковидный, 7¾ (19.7см) длина, 1.5мм наконечник, изолированный"
+    }
+  ],
+  [
+    36,
+    "60-1769-001",
+    {
+      "en": "Cushing Bayonet, Micro Tip, 7½ (19.1cm) Length, 0.7mm Tip, Insulated",
+      "ru": "Кушинга штыковидный, микронаконечник, 7½ (19.1см) длина, 0.7мм наконечник, изолированный"
+    }
+  ],
+  [
+    36,
+    "60-1770-001",
+    {
+      "en": "Hardy Bayonet, Micro Tip with Stops, 8¼ (21.0cm) Length, 0.5mm Tip, Non-Insulated",
+      "ru": "Харди штыковидный, микронаконечник с ограничителями, 8¼ (21.0см) длина, 0.5мм наконечник, без изоляции"
+    }
+  ],
+  [
+    36,
+    "60-7400-001",
+    {
+      "en": "Bayonet, Straight 20cm Length, 2.0mm Tip, Insulated",
+      "ru": "штыковидный, прямой 20см длина, 2.0мм наконечник, изолированный"
+    }
+  ],
+  [
+    36,
+    "60-7401-001",
+    {
+      "en": "Bayonet, Straight, 20cm Length, 1.0mm Tip, Insulated",
+      "ru": "штыковидный, прямой, 20см длина, 1.0мм наконечник, изолированный"
+    }
+  ],
+  [
+    36,
+    "60-1766-001",
+    {
+      "en": "Jewelers Micro Tip, Curved, 4 (10.2cm) Length, 0.4mm Tip, Insulated",
+      "ru": "ювелирного типа микронаконечник, изогнутый, 4 (10.2см) длина, 0.4мм наконечник, изолированный"
+    }
+  ],
+  [
+    36,
+    "60-1767-001",
+    {
+      "en": "Jewelers Micro Tip, Straight, 4 (10.2cm) Length,0.4mm Tip, Insulated",
+      "ru": "ювелирного типа микронаконечник, прямой, 4 (10.2см) длина,0.4мм наконечник, изолированный"
+    }
+  ],
+  [
+    36,
+    "136011",
+    {
+      "en": "Jewelers Micro Tip, Curved, 4 (10.2cm), 0.4mm Tip, Non-Insulated",
+      "ru": "ювелирного типа микронаконечник, изогнутый, 4 (10.2см), 0.4мм наконечник, без изоляции"
+    }
+  ],
+  [
+    36,
+    "60-7403-001",
+    {
+      "en": "Jewelers, Straight, 11cm Length, 0.5mm Tip, Insulated",
+      "ru": "ювелирного типа, прямой, 11см длина, 0.5мм наконечник, изолированный"
+    }
+  ],
+  [
+    36,
+    "60-1771-001",
+    {
+      "en": "Micro Tip with Stops, 5½ (14.0cm) Length, 0.7mm Tip, Non-Insulated",
+      "ru": "микронаконечник с ограничителями, 5½ (14.0см) длина, 0.7мм наконечник, без изоляции"
+    }
+  ],
+  [
+    36,
+    "60-1772-001",
+    {
+      "en": "straight, 6 (15.2cm) Length, 1.5mm Tip, Insulated",
+      "ru": "прямой, 6 (15.2см) длина, 1.5мм наконечник, изолированный"
+    }
+  ],
+  [
+    37,
+    "60-1768-001",
+    {
+      "en": "straight, 5 (12.7cm) Length, 1.0mm Tip, Insulated",
+      "ru": "прямой, 5 (12.7см) длина, 1.0мм наконечник, изолированный"
+    }
+  ],
+  [
+    37,
+    "60-7404-001",
+    {
+      "en": "straight, 13cm Length, 1.0mm Tip, Insulated",
+      "ru": "прямой, 13см длина, 1.0мм наконечник, изолированный"
+    }
+  ],
+  [
+    37,
+    "60-1773-001",
+    {
+      "en": "straight, 3/3½ (8.9cm) Length, 0.4mm Tip, Insulated",
+      "ru": "прямой, 3/3½ (8.9см) длина, 0.4мм наконечник, изолированный"
+    }
+  ],
+  [
+    37,
+    "60-1774-001",
+    {
+      "en": "Curved, 3½ (8.9cm) Length, 0.5mm Tip, Insulated",
+      "ru": "изогнутый, 3½ (8.9см) длина, 0.5мм наконечник, изолированный"
+    }
+  ],
+  [
+    37,
+    "136016",
+    {
+      "en": "Cushing, Straight, 7 (17.8cm) Length, 1.5mm Tip, Not Insulated",
+      "ru": "Кушинга, прямой, 7 (17.8см) длина, 1.5мм наконечник, без изоляции"
+    }
+  ],
+  [
+    37,
+    "60-5121-001",
+    {
+      "en": "scoville-Greenwood Bayonet, 734 (19./cm) Length, 1.5mm Tip, Insulated",
+      "ru": "Scoville–Greenwood штыковидный, 734 (19./см) длина, 1.5мм наконечник, изолированный"
+    }
+  ],
+  [
+    37,
+    "60-5122-001",
+    {
+      "en": "Jewelers, Straight Tip 4 (10.2cm) Length, 0.4mm Tip, Insulated",
+      "ru": "ювелирного типа, прямой наконечник 4 (10.2см) длина, 0.4мм наконечник, изолированный"
+    }
+  ],
+  [
+    37,
+    "60-5123-001",
+    {
+      "en": "semkin, Micro Tip, 5½ (14.0cm) Length, 0.7mm Tip, Insulated",
+      "ru": "Семкина, микронаконечник, 5½ (14.0см) длина, 0.7мм наконечник, изолированный"
+    }
+  ],
+  [
+    37,
+    "60-0821-001",
+    {
+      "en": "Potts-Smith, Straight Tip with Cable, 7 (17.8cm) Length, 2.0mm Tip, Insulated",
+      "ru": "Поттса–Смита, прямой наконечник с кабелем, 7 (17.8см) длина, 2.0мм наконечник, изолированный"
+    }
+  ],
+  [
+    37,
+    "60-0812-001",
+    {
+      "en": "Bayonet, Straight Tip with Cable, 7½ (19.1cm), 2.0mm Tip, Insulated",
+      "ru": "штыковидный, прямой наконечник с кабелем, 7½ (19.1см), 2.0мм наконечник, изолированный"
+    }
+  ],
+  [
+    38,
+    "60-0823-001",
+    {
+      "en": "Adapter for foot control monopolar accessories; fits Bovie #12 type output sockets",
+      "ru": "Адаптер монополярных принадлежностей с ножным управлением; для выходных гнёзд Bovie #12"
+    }
+  ],
+  [
+    38,
+    "60-6790-001",
+    {
+      "en": "Universal Adapter for foot control monopolar accessories; fits Bovie #12 type output sockets",
+      "ru": "Универсальный адаптер монополярных принадлежностей с ножным управлением; для выходных гнёзд Bovie #12"
+    }
+  ],
+  [
+    38,
+    "133001",
+    {
+      "en": "Coaxial Bipolar Adapter, for use with CONMED Excalibur Plus PC®, Sabre® 2400, Sabre® 180, System 7500° and 7550",
+      "ru": "Коаксиальный биполярный адаптер для CONMED Excalibur Plus PC, Sabre 2400, Sabre 180, System 7500 и 7550"
+    }
+  ],
+  [
+    38,
+    "133002",
+    {
+      "en": "Coaxial Bipolar Adapter, for use with CONMED System 2450 , System 5000 , and Valleylab electrosurgical units",
+      "ru": "Коаксиальный биполярный адаптер для CONMED System 2450, System 5000 и электрохирургических аппаратов Valleylab"
+    }
+  ],
+  [
+    38,
+    "60-5168-001",
+    {
+      "en": "Disposable Monopolar Cord (Gray), 09375 (2.4mm) receptacle, 10 (3.05m) length, Single-use, Sterile",
+      "ru": "Одноразовый монополярный кабель, серый; гнездо .09375 (2.4 мм); длина 10 (3.05 м); стерильно"
+    }
+  ],
+  [
+    38,
+    "60-5168-005",
+    {
+      "en": "Disposable Monopolar Cord (Blue), 15625 (4mm) receptacle, 10 (3.05m) length, Single-use, Sterile",
+      "ru": "Одноразовый монополярный кабель, синий; гнездо .15625 (4 мм); длина 10 (3.05 м); стерильно"
+    }
+  ],
+  [
+    38,
+    "60-5102-002",
+    {
+      "en": "Disposable Bipolar Cord, 10 (3.05m) length, Single-use, Sterile",
+      "ru": "Одноразовый биполярный кабель; длина 10 (3.05 м); стерильно"
+    }
+  ],
+  [
+    38,
+    "135166",
+    {
+      "en": "Disposable Bipolar Cord, 12 (3.66m) length, Single-use, Sterile",
+      "ru": "Одноразовый биполярный кабель; длина 12 (3.66 м); стерильно"
+    }
+  ],
+  [
+    38,
+    "60-5169-001",
+    {
+      "en": "Monopolar, 4mm (.15625_) pin receptacle, 10 (3.05m) length,Reusable, Non-sterile",
+      "ru": "Многоразовый монополярный кабель; гнездо под контакт 4 мм (.15625); длина 10 (3.05 м); нестерильно"
+    }
+  ],
+  [
+    38,
+    "60-0823-001",
+    {
+      "en": "standard adapter for foot-activated monopolar accessories",
+      "ru": "Стандартный адаптер для монополярных принадлежностей с ножным включением"
+    }
+  ],
+  [
+    39,
+    "60-5159-001",
+    {
+      "en": "Spatula: 5mm x 32cm working length",
+      "ru": "электрод-лопатка: Диаметр 5мм; рабочая длина 32см"
+    }
+  ],
+  [
+    39,
+    "60-5159-002",
+    {
+      "en": "Spatula: 5mm x 27cm working length",
+      "ru": "электрод-лопатка: Диаметр 5мм; рабочая длина 27см"
+    }
+  ],
+  [
+    39,
+    "60-5159-004",
+    {
+      "en": "Spatula: 5mm x 32cm working length w/ 4mm pin",
+      "ru": "электрод-лопатка: Диаметр 5мм; рабочая длина 32см с/ 4мм контакт"
+    }
+  ],
+  [
+    39,
+    "60-5163-001",
+    {
+      "en": "L Hook: 5mm x 32cm working length",
+      "ru": "L крючок: Диаметр 5мм; рабочая длина 32см"
+    }
+  ],
+  [
+    39,
+    "60-5163-002",
+    {
+      "en": "L Hook: 5mm x 27cm working length",
+      "ru": "L крючок: Диаметр 5мм; рабочая длина 27см"
+    }
+  ],
+  [
+    39,
+    "60-5163-004",
+    {
+      "en": "L Hook: 5mm x 32cm working length w/ 4mm pin",
+      "ru": "L крючок: Диаметр 5мм; рабочая длина 32см с/ 4мм контакт"
+    }
+  ],
+  [
+    39,
+    "60-5160-001",
+    {
+      "en": "Straight Blade: 5mm x 32cm working length",
+      "ru": "прямой лезвие: Диаметр 5мм; рабочая длина 32см"
+    }
+  ],
+  [
+    39,
+    "60-5160-002",
+    {
+      "en": "Straight Blade: 5mm x 27cm working length",
+      "ru": "прямой лезвие: Диаметр 5мм; рабочая длина 27см"
+    }
+  ],
+  [
+    39,
+    "60-5164-001",
+    {
+      "en": "J Hook: 5mm x 32cm working length",
+      "ru": "J крючок: Диаметр 5мм; рабочая длина 32см"
+    }
+  ],
+  [
+    39,
+    "60-5164-002",
+    {
+      "en": "J Hook: 5mm x 27cm working length",
+      "ru": "J крючок: Диаметр 5мм; рабочая длина 27см"
+    }
+  ],
+  [
+    39,
+    "60-5164-004",
+    {
+      "en": "J Hook: 5mm x 32cm working length w/ 4mm pin",
+      "ru": "J крючок: Диаметр 5мм; рабочая длина 32см с/ 4мм контакт"
+    }
+  ],
+  [
+    39,
+    "60-5162-001",
+    {
+      "en": "Hook Blade: 5mm x 32cm working length",
+      "ru": "крючок лезвие: Диаметр 5мм; рабочая длина 32см"
+    }
+  ],
+  [
+    39,
+    "60-6102-002",
+    {
+      "en": "Disposable Footswitching Bipolar Cable, 10 (3.05m)",
+      "ru": "одноразового применения с ножным включением биполярный кабель, 10 (3.05м)"
+    }
+  ],
+  [
+    39,
+    "60-8046-001",
+    {
+      "en": "Reusable, Footswitching, Bipolar Forceps Cable, 12 (3.66m)",
+      "ru": "многоразовые, с ножным включением, биполярный пинцеты кабель, 12 (3.66м)"
+    }
+  ],
+  [
+    39,
+    "60-2121-001",
+    {
+      "en": "Disposable Monopolar TUR/Endoscopic Cable for ACMI, 10 (3.05m)",
+      "ru": "одноразового применения монополярный TUR/эндоскопический кабель для ACMI, 10 (3.05м)"
+    }
+  ],
+  [
+    39,
+    "60-5130-001",
+    {
+      "en": "Reusable, Handswitching, Bipolar Cable, use with Bistat and System 7550, 12 (3.66m)",
+      "ru": "многоразовые, с ручным включением, биполярный кабель, применение с Bistat и система 7550, 12 (3.66м)"
+    }
+  ],
+  [
+    39,
+    "60-5132-001",
+    {
+      "en": "Reusable, Handswitching, Bipolar Cable, use with System 2450 and System 5000, 12 (3.66m)",
+      "ru": "многоразовые, с ручным включением, биполярный кабель, применение с система 2450 и система 5000, 12 (3.66м)"
+    }
+  ],
+  [
+    39,
+    "60-0824-001",
+    {
+      "en": "Reusable, Footswitching, Monopolar Forceps Cable with threaded male connector, 10 (3.05m)",
+      "ru": "многоразовые, с ножным включением, монополярный пинцеты кабель с резьбовой штекерный соединитель, 10 (3.05м)"
+    }
+  ],
+  [
+    39,
+    "QI-2301",
+    {
+      "en": "Reusable Footswitching Bipolar Forceps Cable, 10X (3.05) use with Wolf Kleppinger forceps Twin banana plug machine connectors",
+      "ru": "многоразовые с ножным включением биполярный пинцеты кабель, 10X (3.05) применение с Wolf Kleppinger пинцеты два штекерных соединителя типа «банан»"
+    }
+  ],
+  [
+    39,
+    "60-0816-001",
+    {
+      "en": "Reusable Monopolar TUR Cable with Standard (Bovie #12) Plug",
+      "ru": "многоразовые монополярный TUR кабель с стандартный (Bovie #12) штекер"
+    }
+  ],
+  [
+    41,
+    "2-1003",
+    {
+      "en": "Curved Metzenbaum, 5mm x 33cm length",
+      "ru": "Изогнутые ножницы Метценбаума; диаметр 5 мм; длина 33 см"
+    }
+  ],
+  [
+    41,
+    "2-4301",
+    {
+      "en": "Curved Metzenbaum, 5mm x 43cm length",
+      "ru": "Изогнутые ножницы Метценбаума; диаметр 5 мм; длина 43 см"
+    }
+  ],
+  [
+    41,
+    "2-1004",
+    {
+      "en": "Curved Mini-Metzenbaum, 5mm x 33cm length",
+      "ru": "Изогнутые мини-ножницы Метценбаума; диаметр 5 мм; длина 33 см"
+    }
+  ],
+  [
+    41,
+    "2-1013",
+    {
+      "en": "scissor Hook, 5mm x 33cm length",
+      "ru": "Крючковые ножницы; диаметр 5 мм; длина 33 см"
+    }
+  ],
+  [
+    41,
+    "2-1008",
+    {
+      "en": "Fenestrated (Duckbill), 5mm x 33cm length",
+      "ru": "Окончатый зажим («утиный клюв»); диаметр 5 мм; длина 33 см"
+    }
+  ],
+  [
+    41,
+    "2-4307",
+    {
+      "en": "Fenestrated (Duckbill), 5mm x 43cm length",
+      "ru": "Окончатый зажим («утиный клюв»); диаметр 5 мм; длина 43 см"
+    }
+  ],
+  [
+    41,
+    "2-1019",
+    {
+      "en": "Allis, 5mm x 33cm length",
+      "ru": "Зажим Эллиса; диаметр 5 мм; длина 33 см"
+    }
+  ],
+  [
+    41,
+    "2-4319",
+    {
+      "en": "Allis, 5mm x 43cm length",
+      "ru": "Зажим Эллиса; диаметр 5 мм; длина 43 см"
+    }
+  ],
+  [
+    41,
+    "2-1028",
+    {
+      "en": "Endoweave ,95mmx 33cm length",
+      "ru": "Зажим Endoweave; диаметр 95 мм; длина 33 см"
+    }
+  ],
+  [
+    41,
+    "2-4328",
+    {
+      "en": "Endoweave ,95mm x 43cm length",
+      "ru": "Зажим Endoweave; диаметр 95 мм; длина 43 см"
+    }
+  ],
+  [
+    41,
+    "2-1005",
+    {
+      "en": "Babcock, 5mm x 33cm length",
+      "ru": "Зажим Бэбкока; диаметр 5 мм; длина 33 см"
+    }
+  ],
+  [
+    41,
+    "2-4305",
+    {
+      "en": "Babcock, 5mm x 43cm length",
+      "ru": "Зажим Бэбкока; диаметр 5 мм; длина 43 см"
+    }
+  ],
+  [
+    41,
+    "2-1014",
+    {
+      "en": "Babcock, 10mm x 33cm length",
+      "ru": "Зажим Бэбкока; диаметр 10 мм; длина 33 см"
+    }
+  ],
+  [
+    41,
+    "2-1009",
+    {
+      "en": "Curved (Maryland), 5mm x 33cm length",
+      "ru": "Изогнутый диссектор Maryland; диаметр 5 мм; длина 33 см"
+    }
+  ],
+  [
+    41,
+    "2-4308",
+    {
+      "en": "Curved (Maryland), 5mm x 43cm length",
+      "ru": "Изогнутый диссектор Maryland; диаметр 5 мм; длина 43 см"
+    }
+  ],
+  [
+    41,
+    "2-1018",
+    {
+      "en": "Tapered, 5mm x 33cm length",
+      "ru": "Конический диссектор; диаметр 5 мм; длина 33 см"
+    }
+  ],
+  [
+    41,
+    "2-4318",
+    {
+      "en": "Tapered, 5mm x 43cm length",
+      "ru": "Конический диссектор; диаметр 5 мм; длина 43 см"
+    }
+  ],
+  [
+    41,
+    "1-1010",
+    {
+      "en": "standard Handle with ratchet, Non-Sterile",
+      "ru": "Стандартная рукоятка с кремальерой; нестерильно"
+    }
+  ],
+  [
+    42,
+    "1411",
+    {
+      "en": "Reflex® Short Curved, 5mm x 32cm length, (cord not included)",
+      "ru": "Ножницы Reflex, короткие изогнутые; диаметр 5 мм, длина 32 см; кабель не входит в комплект"
+    }
+  ],
+  [
+    42,
+    "1412",
+    {
+      "en": "Reflex® Long Curved, 5mm x 32cm length, (cord not included)",
+      "ru": "Ножницы Reflex, длинные изогнутые; диаметр 5 мм, длина 32 см; кабель не входит в комплект"
+    }
+  ],
+  [
+    42,
+    "1221",
+    {
+      "en": "short Curved Mini Metz, 5mm x 33cm length, (cord not included)",
+      "ru": "Короткие изогнутые мини-ножницы Метценбаума; диаметр 5 мм, длина 33 см; кабель не входит в комплект"
+    }
+  ],
+  [
+    42,
+    "1222",
+    {
+      "en": "Long Curved Metz Scissors, 5mm x 33cm length, (cord not included)",
+      "ru": "Длинные изогнутые ножницы Метценбаума; диаметр 5 мм, длина 33 см; кабель не входит в комплект"
+    }
+  ]
+]

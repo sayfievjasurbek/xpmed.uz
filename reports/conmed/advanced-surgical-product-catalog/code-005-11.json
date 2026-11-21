@@ -1,0 +1,39 @@
+{
+  "pdfPage": 5,
+  "pageRow": 11,
+  "visualReading": "iFS-HPH120",
+  "visualReader": "Codex independent inspection of 600-DPI source table images; source-line crops retained",
+  "ocrReadings": {
+    "600dpi-psm3": "IFS-HPH1 20",
+    "600dpi-psm11": "IFS-HPH120",
+    "600dpi-code-crop-psm7": "IFS-HPH120",
+    "isolated-psm7-scale0.5-thresholdNone": "iFS-HPH120",
+    "Apple-Vision-accurate": "iFS-HPH120"
+  },
+  "matchedReaders": [
+    "isolated-psm7-scale0.5-thresholdNone",
+    "Apple-Vision-accurate"
+  ],
+  "value": "iFS-HPH120",
+  "verificationStatus": "verified (visual + OCR)",
+  "manufacturerStatus": "confirmed on conmed.com",
+  "officialEvidence": [
+    {
+      "url": "https://www.conmed.com/-/media/conmed/documents/catalog/advancedsurgical_catalog.ashx",
+      "code": "iFS-HPH120"
+    }
+  ],
+  "sourceBounds": [
+    0.8464097045587947,
+    0.6929946971811332,
+    0.9129328898454314,
+    0.7020653084007815
+  ],
+  "rowBounds": [
+    0.5083900557598712,
+    0.6729055258467023,
+    0.934,
+    0.7058823529411765
+  ],
+  "lineCrop": "reports/conmed/advanced-surgical-product-catalog/line-crops/005-11.png"
+}

@@ -1,0 +1,742 @@
+{
+  "reviewedAt": "2026-11-18T17:24:42.077627+00:00",
+  "scope": "CONMED Advanced Visualization System — 11 list systems",
+  "catalogNumbersChanged": false,
+  "decisions": [
+    {
+      "system": "camera-systems",
+      "originalFlag": {
+        "path": "components",
+        "code": "source-association-review",
+        "message": {
+          "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+          "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+        },
+        "sourcePages": [
+          4
+        ],
+        "pdfPage": 4,
+        "printedPage": 2,
+        "sourceBounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "A",
+      "reason": "Generic import reminder superseded by per-cell verified OCR/visual evidence, reviewed subgroup migration and caption-free embedded PDF image extraction. Any specific unresolved issues retain separate open flags."
+    },
+    {
+      "system": "cannulas",
+      "originalFlag": {
+        "path": "componentGroups.bridge-cannulas",
+        "code": "source-note",
+        "message": {
+          "ru": "В узком шрифте префикс каталожных номеров визуально неоднозначен: O/0. Ручные чтения OC… являются кандидатами, а не подтверждёнными номерами; требуется сравнение обоих проходов OCR и проверка по оригиналу.",
+          "en": "The narrow typeface makes the catalog-number prefix visually ambiguous: O/0. Manual OC… readings are candidates, not confirmed codes; compare both OCR passes and verify against the original."
+        },
+        "sourcePages": [
+          13
+        ],
+        "pdfPage": 13,
+        "printedPage": 11,
+        "sourceBounds": [
+          0.427,
+          0.156,
+          0.91,
+          0.519
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "A",
+      "reason": "Historical O/0 prefix ambiguity resolved by stored 600-DPI OCR plus visual verification. All bridge-cannula catalog codes have verified cell-level evidence."
+    },
+    {
+      "system": "cannulas",
+      "originalFlag": {
+        "path": "componentGroups.pressure-sensing-cannula",
+        "code": "source-note",
+        "message": {
+          "ru": "В строке длины 5.0\" (127 мм) код внутренней канюли не напечатан; значение оставлено пустым. Код 83234 повторён в обеих строках адаптера притока, как в источнике.",
+          "en": "The inner-cannula code is not printed for the 5.0\" (127mm) row and is left empty. Code 83234 is repeated in both inflow-adapter rows exactly as printed."
+        },
+        "sourcePages": [
+          13
+        ],
+        "pdfPage": 13,
+        "printedPage": 11,
+        "sourceBounds": [
+          0.427,
+          0.588,
+          0.91,
+          0.65
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "B",
+      "issue": {
+        "system": "cannulas",
+        "name": {
+          "ru": "Канюли",
+          "en": "Cannulas"
+        },
+        "pdfPage": 13,
+        "issue": "Missing inner-cannula code for the 5.0\" (127 mm) row.",
+        "readings": {
+          "visual": "Inner Cannula column blank; Inflow Adapter column 83234",
+          "600dpi-psm3": "No inner-cannula code; 83234 at the right (inflow adapter)",
+          "600dpi-psm11": "No inner-cannula code; 83234 at the right (inflow adapter)"
+        },
+        "currentValue": ""
+      },
+      "finalStatus": "resolved",
+      "resolvedAt": "2026-11-18T17:29:42.328939+00:00",
+      "resolution": "See sourceCatalogCorrections; explicit owner instruction."
+    },
+    {
+      "system": "cannulas",
+      "originalFlag": {
+        "path": "components",
+        "code": "source-association-review",
+        "message": {
+          "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+          "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+        },
+        "sourcePages": [
+          10
+        ],
+        "pdfPage": 10,
+        "printedPage": 8,
+        "sourceBounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "A",
+      "reason": "Generic import reminder superseded by per-cell verified OCR/visual evidence, reviewed subgroup migration and caption-free embedded PDF image extraction. Any specific unresolved issues retain separate open flags."
+    },
+    {
+      "system": "conmed-arthroscopes",
+      "originalFlag": {
+        "path": "componentGroups.bridge-cannulas",
+        "code": "source-note",
+        "message": {
+          "ru": "В узком шрифте префикс каталожных номеров визуально неоднозначен: O/0. Ручные чтения OC… являются кандидатами, а не подтверждёнными номерами; требуется сравнение обоих проходов OCR и проверка по оригиналу.",
+          "en": "The narrow typeface makes the catalog-number prefix visually ambiguous: O/0. Manual OC… readings are candidates, not confirmed codes; compare both OCR passes and verify against the original."
+        },
+        "sourcePages": [
+          13
+        ],
+        "pdfPage": 13,
+        "printedPage": 11,
+        "sourceBounds": [
+          0.427,
+          0.156,
+          0.91,
+          0.519
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "A",
+      "reason": "Stale flag copied during the system split: this subgroup is absent here. The actual missing-code issue remains open only on cannulas."
+    },
+    {
+      "system": "conmed-arthroscopes",
+      "originalFlag": {
+        "path": "componentGroups.pressure-sensing-cannula",
+        "code": "source-note",
+        "message": {
+          "ru": "В строке длины 5.0\" (127 мм) код внутренней канюли не напечатан; значение оставлено пустым. Код 83234 повторён в обеих строках адаптера притока, как в источнике.",
+          "en": "The inner-cannula code is not printed for the 5.0\" (127mm) row and is left empty. Code 83234 is repeated in both inflow-adapter rows exactly as printed."
+        },
+        "sourcePages": [
+          13
+        ],
+        "pdfPage": 13,
+        "printedPage": 11,
+        "sourceBounds": [
+          0.427,
+          0.588,
+          0.91,
+          0.65
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "A",
+      "reason": "Stale flag copied during the system split: this subgroup is absent here. The actual missing-code issue remains open only on cannulas."
+    },
+    {
+      "system": "conmed-arthroscopes",
+      "originalFlag": {
+        "path": "components",
+        "code": "source-association-review",
+        "message": {
+          "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+          "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+        },
+        "sourcePages": [
+          10
+        ],
+        "pdfPage": 10,
+        "printedPage": 8,
+        "sourceBounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "A",
+      "reason": "Generic import reminder superseded by per-cell verified OCR/visual evidence, reviewed subgroup migration and caption-free embedded PDF image extraction. Any specific unresolved issues retain separate open flags."
+    },
+    {
+      "system": "conmed-arthroscopes",
+      "originalFlag": {
+        "path": "components",
+        "code": "source-association-review",
+        "message": {
+          "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+          "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+        },
+        "sourcePages": [
+          9
+        ],
+        "pdfPage": 9,
+        "printedPage": 7,
+        "sourceBounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "A",
+      "reason": "Generic import reminder superseded by per-cell verified OCR/visual evidence, reviewed subgroup migration and caption-free embedded PDF image extraction. Any specific unresolved issues retain separate open flags."
+    },
+    {
+      "system": "hd-laparoscopes",
+      "originalFlag": {
+        "path": "componentGroups.hd-5-5mm-laparoscope",
+        "code": "image-association-review",
+        "message": {
+          "ru": "На странице изображения лапароскопов перекрываются; кадр может включать соседний стержень. Сверьте с оригиналом.",
+          "en": "The three angled laparoscope illustrations overlap vertically in the page layout; cropping bounding rectangles may include a neighboring shaft. Visually review the isolated cutouts against the full source page."
+        },
+        "sourcePages": [
+          15
+        ],
+        "pdfPage": 15,
+        "printedPage": 13,
+        "sourceBounds": [
+          0.052,
+          0.144,
+          0.398,
+          0.4
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "A",
+      "reason": "The warned-about rectangular page crops were replaced by isolated original embedded PDF photos. Visually compared all four current images/captions with PDF page 15: each matches its subgroup, with no neighboring shaft or printed caption."
+    },
+    {
+      "system": "hd-laparoscopes",
+      "originalFlag": {
+        "path": "componentGroups.hd-5-5mm-extended-laparoscope",
+        "code": "image-association-review",
+        "message": {
+          "ru": "На странице изображения лапароскопов перекрываются; кадр может включать соседний стержень. Сверьте с оригиналом.",
+          "en": "The three angled laparoscope illustrations overlap vertically in the page layout; cropping bounding rectangles may include a neighboring shaft. Visually review the isolated cutouts against the full source page."
+        },
+        "sourcePages": [
+          15
+        ],
+        "pdfPage": 15,
+        "printedPage": 13,
+        "sourceBounds": [
+          0.052,
+          0.328,
+          0.398,
+          0.579
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "A",
+      "reason": "The warned-about rectangular page crops were replaced by isolated original embedded PDF photos. Visually compared all four current images/captions with PDF page 15: each matches its subgroup, with no neighboring shaft or printed caption."
+    },
+    {
+      "system": "hd-laparoscopes",
+      "originalFlag": {
+        "path": "componentGroups.hd-10mm-laparoscope",
+        "code": "image-association-review",
+        "message": {
+          "ru": "На странице изображения лапароскопов перекрываются; кадр может включать соседний стержень. Сверьте с оригиналом.",
+          "en": "The three angled laparoscope illustrations overlap vertically in the page layout; cropping bounding rectangles may include a neighboring shaft. Visually review the isolated cutouts against the full source page."
+        },
+        "sourcePages": [
+          15
+        ],
+        "pdfPage": 15,
+        "printedPage": 13,
+        "sourceBounds": [
+          0.052,
+          0.518,
+          0.398,
+          0.76
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "A",
+      "reason": "The warned-about rectangular page crops were replaced by isolated original embedded PDF photos. Visually compared all four current images/captions with PDF page 15: each matches its subgroup, with no neighboring shaft or printed caption."
+    },
+    {
+      "system": "hd-laparoscopes",
+      "originalFlag": {
+        "path": "componentGroups.2dhd-laparoscope",
+        "code": "image-association-review",
+        "message": {
+          "ru": "На странице изображения лапароскопов перекрываются; кадр может включать соседний стержень. Сверьте с оригиналом.",
+          "en": "The three angled laparoscope illustrations overlap vertically in the page layout; cropping bounding rectangles may include a neighboring shaft. Visually review the isolated cutouts against the full source page."
+        },
+        "sourcePages": [
+          15
+        ],
+        "pdfPage": 15,
+        "printedPage": 13,
+        "sourceBounds": [
+          0.052,
+          0.747,
+          0.335,
+          0.904
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "A",
+      "reason": "The warned-about rectangular page crops were replaced by isolated original embedded PDF photos. Visually compared all four current images/captions with PDF page 15: each matches its subgroup, with no neighboring shaft or printed caption."
+    },
+    {
+      "system": "hd-laparoscopes",
+      "originalFlag": {
+        "path": "components",
+        "code": "source-association-review",
+        "message": {
+          "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+          "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+        },
+        "sourcePages": [
+          15
+        ],
+        "pdfPage": 15,
+        "printedPage": 13,
+        "sourceBounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "A",
+      "reason": "Generic import reminder superseded by per-cell verified OCR/visual evidence, reviewed subgroup migration and caption-free embedded PDF image extraction. Any specific unresolved issues retain separate open flags."
+    },
+    {
+      "system": "light-sources-and-light-guides",
+      "originalFlag": {
+        "path": "components",
+        "code": "source-association-review",
+        "message": {
+          "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+          "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+        },
+        "sourcePages": [
+          5
+        ],
+        "pdfPage": 5,
+        "printedPage": 3,
+        "sourceBounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "A",
+      "reason": "Generic import reminder superseded by per-cell verified OCR/visual evidence, reviewed subgroup migration and caption-free embedded PDF image extraction. Any specific unresolved issues retain separate open flags."
+    },
+    {
+      "system": "looking-glass",
+      "originalFlag": {
+        "path": "componentGroups.looking-glass-light-source",
+        "code": "source-prose-review",
+        "message": {
+          "ru": "В исходном названии адаптера напечатано «A cml»; сохранено без предположения ACMI. Проверьте наименование.",
+          "en": "Printed English adapter name is malformed (\"A cml\"); preserved in both languages rather than inferring ACMI. Requires source-name review."
+        },
+        "sourcePages": [
+          8
+        ],
+        "pdfPage": 8,
+        "printedPage": 6,
+        "sourceBounds": [
+          0.494718,
+          0.323985,
+          0.90669,
+          0.33738
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "B",
+      "issue": {
+        "system": "looking-glass",
+        "name": {
+          "ru": "Система Looking Glass",
+          "en": "Looking Glass"
+        },
+        "pdfPage": 8,
+        "issue": "Unclear adapter designation for verified code AVELG52; no inferred expansion applied.",
+        "readings": {
+          "visual": "ELG Adapter A cml",
+          "600dpi-psm3": "ELG Adapter A CMI",
+          "600dpi-psm11": "ELG Adapter A cml"
+        },
+        "currentValue": "ELG Adapter A cml",
+        "unconfirmedInterpretation": "ACMI (not substituted)"
+      },
+      "finalStatus": "resolved",
+      "resolvedAt": "2026-11-18T17:29:42.328939+00:00",
+      "resolution": "See sourceCatalogCorrections; explicit owner instruction."
+    },
+    {
+      "system": "looking-glass",
+      "originalFlag": {
+        "path": "components",
+        "code": "source-association-review",
+        "message": {
+          "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+          "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+        },
+        "sourcePages": [
+          8
+        ],
+        "pdfPage": 8,
+        "printedPage": 6,
+        "sourceBounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "A",
+      "reason": "Generic import reminder superseded by per-cell verified OCR/visual evidence, reviewed subgroup migration and caption-free embedded PDF image extraction. Any specific unresolved issues retain separate open flags."
+    },
+    {
+      "system": "medical-monitors",
+      "originalFlag": {
+        "path": "components",
+        "code": "source-association-review",
+        "message": {
+          "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+          "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+        },
+        "sourcePages": [
+          6
+        ],
+        "pdfPage": 6,
+        "printedPage": 4,
+        "sourceBounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "A",
+      "reason": "Generic import reminder superseded by per-cell verified OCR/visual evidence, reviewed subgroup migration and caption-free embedded PDF image extraction. Any specific unresolved issues retain separate open flags."
+    },
+    {
+      "system": "sheath-and-bridge-systems",
+      "originalFlag": {
+        "path": "componentGroups.bridge-cannulas",
+        "code": "source-note",
+        "message": {
+          "ru": "В узком шрифте префикс каталожных номеров визуально неоднозначен: O/0. Ручные чтения OC… являются кандидатами, а не подтверждёнными номерами; требуется сравнение обоих проходов OCR и проверка по оригиналу.",
+          "en": "The narrow typeface makes the catalog-number prefix visually ambiguous: O/0. Manual OC… readings are candidates, not confirmed codes; compare both OCR passes and verify against the original."
+        },
+        "sourcePages": [
+          13
+        ],
+        "pdfPage": 13,
+        "printedPage": 11,
+        "sourceBounds": [
+          0.427,
+          0.156,
+          0.91,
+          0.519
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "A",
+      "reason": "Stale flag copied during the system split: this subgroup is absent here. The actual missing-code issue remains open only on cannulas."
+    },
+    {
+      "system": "sheath-and-bridge-systems",
+      "originalFlag": {
+        "path": "componentGroups.pressure-sensing-cannula",
+        "code": "source-note",
+        "message": {
+          "ru": "В строке длины 5.0\" (127 мм) код внутренней канюли не напечатан; значение оставлено пустым. Код 83234 повторён в обеих строках адаптера притока, как в источнике.",
+          "en": "The inner-cannula code is not printed for the 5.0\" (127mm) row and is left empty. Code 83234 is repeated in both inflow-adapter rows exactly as printed."
+        },
+        "sourcePages": [
+          13
+        ],
+        "pdfPage": 13,
+        "printedPage": 11,
+        "sourceBounds": [
+          0.427,
+          0.588,
+          0.91,
+          0.65
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "A",
+      "reason": "Stale flag copied during the system split: this subgroup is absent here. The actual missing-code issue remains open only on cannulas."
+    },
+    {
+      "system": "sheath-and-bridge-systems",
+      "originalFlag": {
+        "path": "components",
+        "code": "source-association-review",
+        "message": {
+          "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+          "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+        },
+        "sourcePages": [
+          10
+        ],
+        "pdfPage": 10,
+        "printedPage": 8,
+        "sourceBounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "A",
+      "reason": "Generic import reminder superseded by per-cell verified OCR/visual evidence, reviewed subgroup migration and caption-free embedded PDF image extraction. Any specific unresolved issues retain separate open flags."
+    },
+    {
+      "system": "sheath-and-bridge-systems",
+      "originalFlag": {
+        "path": "components",
+        "code": "source-association-review",
+        "message": {
+          "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+          "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+        },
+        "sourcePages": [
+          9
+        ],
+        "pdfPage": 9,
+        "printedPage": 7,
+        "sourceBounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "A",
+      "reason": "Generic import reminder superseded by per-cell verified OCR/visual evidence, reviewed subgroup migration and caption-free embedded PDF image extraction. Any specific unresolved issues retain separate open flags."
+    },
+    {
+      "system": "sterilization-trays",
+      "originalFlag": {
+        "path": "components",
+        "code": "source-association-review",
+        "message": {
+          "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+          "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+        },
+        "sourcePages": [
+          16
+        ],
+        "pdfPage": 16,
+        "printedPage": 14,
+        "sourceBounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "A",
+      "reason": "Generic import reminder superseded by per-cell verified OCR/visual evidence, reviewed subgroup migration and caption-free embedded PDF image extraction. Any specific unresolved issues retain separate open flags."
+    },
+    {
+      "system": "surgical-video-carts-and-accessories",
+      "originalFlag": {
+        "path": "components",
+        "code": "source-association-review",
+        "message": {
+          "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+          "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+        },
+        "sourcePages": [
+          7
+        ],
+        "pdfPage": 7,
+        "printedPage": 5,
+        "sourceBounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "A",
+      "reason": "Generic import reminder superseded by per-cell verified OCR/visual evidence, reviewed subgroup migration and caption-free embedded PDF image extraction. Any specific unresolved issues retain separate open flags."
+    },
+    {
+      "system": "uhd-laparoscopes",
+      "originalFlag": {
+        "path": "components",
+        "code": "source-association-review",
+        "message": {
+          "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+          "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+        },
+        "sourcePages": [
+          14
+        ],
+        "pdfPage": 14,
+        "printedPage": 12,
+        "sourceBounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "coordinateSpace": "normalized"
+      },
+      "category": "A",
+      "reason": "Generic import reminder superseded by per-cell verified OCR/visual evidence, reviewed subgroup migration and caption-free embedded PDF image extraction. Any specific unresolved issues retain separate open flags."
+    }
+  ],
+  "published": [
+    "camera-systems",
+    "conmed-arthroscopes",
+    "hd-laparoscopes",
+    "light-sources-and-light-guides",
+    "medical-monitors",
+    "sheath-and-bridge-systems",
+    "sterilization-trays",
+    "surgical-video-carts-and-accessories",
+    "uhd-laparoscopes",
+    "looking-glass",
+    "cannulas"
+  ],
+  "drafts": [],
+  "resolvedFlagCount": 24,
+  "openFlagCount": 0,
+  "finalizedAt": "2026-11-18T17:29:42.328939+00:00",
+  "initialResolvedFlagCount": 22,
+  "historicalRealIssues": [
+    {
+      "system": "cannulas",
+      "name": {
+        "ru": "Канюли",
+        "en": "Cannulas"
+      },
+      "pdfPage": 13,
+      "issue": "Missing inner-cannula code for the 5.0\" (127 mm) row.",
+      "readings": {
+        "visual": "Inner Cannula column blank; Inflow Adapter column 83234",
+        "600dpi-psm3": "No inner-cannula code; 83234 at the right (inflow adapter)",
+        "600dpi-psm11": "No inner-cannula code; 83234 at the right (inflow adapter)"
+      },
+      "currentValue": ""
+    },
+    {
+      "system": "looking-glass",
+      "name": {
+        "ru": "Система Looking Glass",
+        "en": "Looking Glass"
+      },
+      "pdfPage": 8,
+      "issue": "Unclear adapter designation for verified code AVELG52; no inferred expansion applied.",
+      "readings": {
+        "visual": "ELG Adapter A cml",
+        "600dpi-psm3": "ELG Adapter A CMI",
+        "600dpi-psm11": "ELG Adapter A cml"
+      },
+      "currentValue": "ELG Adapter A cml",
+      "unconfirmedInterpretation": "ACMI (not substituted)"
+    }
+  ],
+  "realIssues": [],
+  "sourceCatalogCorrections": [
+    {
+      "system": "looking-glass",
+      "sourcePdfPage": 8,
+      "catalogNumber": "AVELG52",
+      "asPrinted": "ELG Adapter A cml",
+      "corrected": {
+        "ru": "Адаптер ELG ACMI",
+        "en": "ELG ACMI Adapter"
+      },
+      "internalNote": "Source PDF typo 'A cml' corrected to ACMI",
+      "visibility": "internal-only",
+      "basis": "Explicit catalog-owner correction",
+      "designerAction": "Replace A cml with ACMI; retain AVELG52."
+    },
+    {
+      "system": "cannulas",
+      "sourcePdfPage": 13,
+      "table": "pressure-sensing-cannula",
+      "row": 2,
+      "column": 2,
+      "item": "5.1mm O.D. inner cannula, 5.0 inch / 127 mm",
+      "asPrinted": "No catalog number in Inner Cannula column; 83234 is in Inflow Adapter column.",
+      "officialSource": {
+        "url": "https://www.conmed.com/-/media/conmed/documents/catalog/surgicalimaging_catalog.ashx",
+        "pdfPage": 18,
+        "printedPage": 16,
+        "finding": "Official CONMED catalog has the same missing inner-cannula code. No code confirmed on conmed.com.",
+        "queries": [
+          "site:conmed.com \"5.1mm\" \"127\" cannula",
+          "site:conmed.com \"Pressure Sensing Cannula\" \"5.0\"",
+          "site:conmed.com \"83225\"",
+          "site:conmed.com \"127mm\" \"Inner Cannula\""
+        ],
+        "unconfirmedThirdPartyCandidate": "83225; excluded because no conmed.com confirmation found"
+      },
+      "siteTreatment": {
+        "code": null,
+        "display": "—",
+        "note": {
+          "ru": "Каталожный номер уточняйте у менеджера",
+          "en": "Please confirm the catalog number with your account manager"
+        }
+      },
+      "designerAction": "Obtain the correct inner-cannula code from CONMED and print it in its own column. Keep 83234 only under Inflow Adapter.",
+      "resolution": "Owner-authorized explicit missing-code display; no inferred number."
+    }
+  ]
+}

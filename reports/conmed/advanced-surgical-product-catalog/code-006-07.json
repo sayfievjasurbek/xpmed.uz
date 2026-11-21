@@ -1,0 +1,43 @@
+{
+  "pdfPage": 6,
+  "pageRow": 7,
+  "visualReading": "iAS5-75LP",
+  "visualReader": "Codex independent inspection of 600-DPI source table images; source-line crops retained",
+  "ocrReadings": {
+    "600dpi-psm3": "|AS9-75LP",
+    "600dpi-psm11": "IASo-/5LP",
+    "600dpi-code-crop-psm7": "IASo-/5LP",
+    "isolated-psm7-scale0.5-thresholdNone": "iASS-75LP",
+    "isolated-psm7-scale0.5-threshold175": "iASS-75LP",
+    "isolated-psm7-scale0.75-threshold210": "IAS5-75LP",
+    "isolated-psm7-scale1-thresholdNone": "IASo-/75LP",
+    "isolated-psm13-scale0.5-thresholdNone": "IASE-75LP",
+    "isolated-psm13-scale0.5-threshold175": "—IRSE-75LP",
+    "isolated-psm13-scale0.75-threshold210": "—AS5-75LP",
+    "isolated-psm13-scale1-thresholdNone": "—AS5-75LP",
+    "Apple-Vision-accurate": "IAS5-75LP"
+  },
+  "matchedReaders": [],
+  "value": null,
+  "verificationStatus": "unresolved",
+  "manufacturerStatus": "confirmed on conmed.com",
+  "officialEvidence": [
+    {
+      "url": "https://www.conmed.com/-/media/conmed/documents/catalog/advancedsurgical_catalog.ashx",
+      "code": "iAS5-75LP"
+    }
+  ],
+  "sourceBounds": [
+    0.8542359616513402,
+    0.41613173318448227,
+    0.913715515554686,
+    0.4252023444041306
+  ],
+  "rowBounds": [
+    0.5289452320766902,
+    0.3966131907308378,
+    0.934,
+    0.4295900178253119
+  ],
+  "lineCrop": "reports/conmed/advanced-surgical-product-catalog/line-crops/006-07.png"
+}

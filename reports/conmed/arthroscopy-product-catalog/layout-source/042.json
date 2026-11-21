@@ -1,0 +1,495 @@
+{
+  "pdfPage": 42,
+  "officialPage": 58,
+  "alignment": [
+    [
+      0.970748004712807,
+      8.631347260700328e-05,
+      0.014581257980936355
+    ],
+    [
+      -0.0008766725391219236,
+      0.9782994317619735,
+      0.011951503545525861
+    ]
+  ],
+  "alignmentMatches": 79,
+  "alignmentInliers": 75,
+  "category": "knee-arthroscopy",
+  "title": {
+    "en": "Graft Preparation System",
+    "ru": "Система подготовки трансплантата"
+  },
+  "groups": [
+    {
+      "title": "Concept® GraFix® Graft Prepaption System",
+      "page": 42,
+      "officialPage": 58,
+      "headingBounds": [
+        0.4285882161442044,
+        0.14175802246005043,
+        0.7594460118266657,
+        0.15619548254287757
+      ],
+      "rows": [
+        {
+          "description": "Graft Preparation Table",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "PS8820",
+              "sourceBounds": [
+                0.8492871687377515,
+                0.4113372095486867,
+                0.8981670070259963,
+                0.4258720926315458
+              ],
+              "officialCode": "PS8820",
+              "officialBounds": [
+                528.2009887695312,
+                324.7969055175781,
+                555.0048217773438,
+                334.97589111328125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.40560465109011623,
+            0.9081670070259963,
+            0.42760465109011625
+          ],
+          "pdfPage": 42,
+          "officialPage": 58
+        },
+        {
+          "description": "Slide Lock (2 Recommended)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "PS8821",
+              "sourceBounds": [
+                0.8492871695958927,
+                0.4316860465049608,
+                0.8961303468501358,
+                0.44331395334969037
+              ],
+              "officialCode": "PS8821",
+              "officialBounds": [
+                528.291015625,
+                339.2958984375,
+                555.0029296875,
+                349.4748840332031
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.42449999992732557,
+            0.9061303468501358,
+            0.4464999999273256
+          ],
+          "pdfPage": 42,
+          "officialPage": 58
+        },
+        {
+          "description": "Soft Tissue Graft Clamp",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "PS8822",
+              "sourceBounds": [
+                0.8492871686757589,
+                0.4491279071050439,
+                0.896130345930002,
+                0.4607558139497734
+              ],
+              "officialCode": "PS8822",
+              "officialBounds": [
+                528.156005859375,
+                353.7948913574219,
+                555.0030517578125,
+                363.973876953125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.44194186052740864,
+            0.906130345930002,
+            0.46394186052740866
+          ],
+          "pdfPage": 42,
+          "officialPage": 58
+        },
+        {
+          "description": "Suture Holder Clamp",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "PS8823",
+              "sourceBounds": [
+                0.8490559477597147,
+                0.46607788816355356,
+                0.8963615681892936,
+                0.4786895535865079
+              ],
+              "officialCode": "PS8823",
+              "officialBounds": [
+                528.2009887695312,
+                368.29388427734375,
+                555.0057373046875,
+                378.4728698730469
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.4593837208750307,
+            0.9063615681892936,
+            0.48138372087503073
+          ],
+          "pdfPage": 42,
+          "officialPage": 58
+        },
+        {
+          "description": "Tension Clamp",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "PS8824",
+              "sourceBounds": [
+                0.8492871694007127,
+                0.4840116278024098,
+                0.8961303466549557,
+                0.49709302323925675
+              ],
+              "officialCode": "PS8824",
+              "officialBounds": [
+                528.5700073242188,
+                382.7928771972656,
+                555.007568359375,
+                392.97186279296875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.47755232552083327,
+            0.9061303466549557,
+            0.4995523255208333
+          ],
+          "pdfPage": 42,
+          "officialPage": 58
+        },
+        {
+          "description": "Bone-Tendon-Bone Clamp",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "PS8826",
+              "sourceBounds": [
+                0.8491789810299738,
+                0.5026816078048162,
+                0.8962385349164617,
+                0.5147602525421809
+              ],
+              "officialCode": "PS8826",
+              "officialBounds": [
+                528.1920166015625,
+                397.2918701171875,
+                555.0012817382812,
+                407.4708557128906
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.4957209301734985,
+            0.9062385349164617,
+            0.5177209301734985
+          ],
+          "pdfPage": 42,
+          "officialPage": 58
+        },
+        {
+          "description": "Bone Block Drill Guide",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "PS8829",
+              "sourceBounds": [
+                0.8492871688321453,
+                0.5203488373288149,
+                0.8961303460863884,
+                0.5334302327656618
+              ],
+              "officialCode": "PS8829",
+              "officialBounds": [
+                528.156005859375,
+                411.7908630371094,
+                554.9994506835938,
+                421.9698486328125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5138895350472383,
+            0.9061303460863884,
+            0.5358895350472384
+          ],
+          "pdfPage": 42,
+          "officialPage": 58
+        },
+        {
+          "description": "Scraping Board",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "PS8830",
+              "sourceBounds": [
+                0.8492871693449471,
+                0.5377906975577392,
+                0.8961303465991902,
+                0.5508720929945863
+              ],
+              "officialCode": "PS8830",
+              "officialBounds": [
+                528.02099609375,
+                426.28985595703125,
+                555.0057373046875,
+                436.4688415527344
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5313313952761628,
+            0.9061303465991902,
+            0.5533313952761628
+          ],
+          "pdfPage": 42,
+          "officialPage": 58
+        },
+        {
+          "description": "Surgical Instrument Tray",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "PS8831",
+              "sourceBounds": [
+                0.8492871694007127,
+                0.5566860465049609,
+                0.8961303466549557,
+                0.5683139533496903
+              ],
+              "officialCode": "PS8831",
+              "officialBounds": [
+                528.2099609375,
+                440.7888488769531,
+                555.0055541992188,
+                450.96783447265625
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5494999999273256,
+            0.9061303466549557,
+            0.5714999999273256
+          ],
+          "pdfPage": 42,
+          "officialPage": 58
+        },
+        {
+          "description": "Graft Sizing Block, Grafix",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "PS8832",
+              "sourceBounds": [
+                0.8492871686757589,
+                0.5741279069846495,
+                0.896130345930002,
+                0.5872093024214966
+              ],
+              "officialCode": "PS8832",
+              "officialBounds": [
+                528.1199951171875,
+                455.287841796875,
+                555.0057373046875,
+                465.4668273925781
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5676686047030731,
+            0.906130345930002,
+            0.5896686047030731
+          ],
+          "pdfPage": 42,
+          "officialPage": 58
+        },
+        {
+          "description": "XO Button® Holder",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "PS8834",
+              "sourceBounds": [
+                0.8472505080656536,
+                0.5915178570285108,
+                0.8961303463538984,
+                0.6046626982983521
+              ],
+              "officialCode": "PS8834",
+              "officialBounds": [
+                527.9501953125,
+                469.7969055175781,
+                554.99072265625,
+                479.97589111328125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5850902776634314,
+            0.9061303463538984,
+            0.6070902776634314
+          ],
+          "pdfPage": 42,
+          "officialPage": 58
+        },
+        {
+          "description": "2mm Twist Drill w/Stop",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8733",
+              "sourceBounds": [
+                0.8615071283926794,
+                0.6075581397085705,
+                0.8981670057824732,
+                0.6220930227914296
+              ],
+              "officialCode": "8733",
+              "officialBounds": [
+                537.4271850585938,
+                484.2958984375,
+                554.9898071289062,
+                494.4748840332031
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.6018255812500001,
+            0.9081670057824732,
+            0.6238255812500001
+          ],
+          "pdfPage": 42,
+          "officialPage": 58
+        }
+      ],
+      "features": [],
+      "notes": [
+        "This fully modular system plays a key role during ACL and PCL reconstructive",
+        "surgeries to prepare soft tissue and bone-tendon-bone autografts or allografts.",
+        "The system allows the surgeon to interchange the various components to clean,",
+        "whip stitch, measure, pre-tension, or add a fixation device.",
+        "The sizing block, sold separately, can accommodate grafts from 3.0mm to 13mm,",
+        "in 0.5mm increments.",
+        "The universal slide locks allow for any of the graft preparation table components to",
+        "be changed intraoperatively, easily and quickly. The slide locks are also fully adjustable",
+        "via the spring loaded locking button, for one handed adjustments.",
+        "The Tension Clamp is etched in both Pounds (30 lbs. max) and Newtons",
+        "(120 N max) for quick referencing during pre-tensioning of the graft for",
+        "those surgeons who feel it is necessary for satisfactory post-op results.",
+        "The Graft Clamps are designed to act as an extra set of hands and incorporate",
+        "atraumatic teeth to prevent damage to the graft."
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Concept® GraFix® Graft Prepaption System — Graft Sizing Rings",
+      "page": 42,
+      "officialPage": 58,
+      "headingBounds": [
+        0.42862449568286043,
+        0.6934151589594492,
+        0.530768413440889,
+        0.7064965789580858
+      ],
+      "rows": [
+        {
+          "description": "Graft Sizing Ring, Large",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "GFT-LG",
+              "sourceBounds": [
+                0.8431256683849984,
+                0.7120889236516614,
+                0.8961818680118944,
+                0.7239575878482207
+              ],
+              "officialCode": "GFT-LG",
+              "officialBounds": [
+                530.209228515625,
+                566.798828125,
+                554.994384765625,
+                576.9778442382812
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.7050232557499411,
+            0.9061818680118944,
+            0.7270232557499411
+          ],
+          "pdfPage": 42,
+          "officialPage": 58
+        },
+        {
+          "description": "Graft Sizing Ring, Small",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "GFT-SM",
+              "sourceBounds": [
+                0.8491983144159208,
+                0.7309201399656775,
+                0.8962192013849234,
+                0.7429170695733717
+              ],
+              "officialCode": "GFT-SM",
+              "officialBounds": [
+                528.2742309570312,
+                581.2978515625,
+                554.988037109375,
+                591.4768676757812
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.7239186047695246,
+            0.9062192013849234,
+            0.7459186047695247
+          ],
+          "pdfPage": 42,
+          "officialPage": 58
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 14
+}

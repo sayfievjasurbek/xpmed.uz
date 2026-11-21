@@ -1,0 +1,3387 @@
+{
+  "pdf": "catalogs-source/conmed/arthroscopy-product-catalog.pdf",
+  "sha256": "8d03674812d7683eeb3b6b544a19febc832db2440e56e7f933677f4cee80ffe6",
+  "method": "600-DPI dual Tesseract + independent Apple Vision, supplied-source visual crops, official CONMED exact-code corroboration; Codex medical RU; native images enhanced with Real-ESRGAN 2x before rembg",
+  "systemsCreated": 52,
+  "systems": [
+    {
+      "slug": "arthroscopy-electrosurgery-edge-bipolar-arthroscopic-radiofrequency-system",
+      "name": {
+        "en": "Edge Bipolar Arthroscopic Radiofrequency System",
+        "ru": "Биполярная артроскопическая радиочастотная система Edge"
+      },
+      "category": "arthroscopy-electrosurgery",
+      "status": "published",
+      "sourcePages": [
+        111
+      ],
+      "tables": 2,
+      "flags": []
+    },
+    {
+      "slug": "arthroscopy-electrosurgery-lightwave-ablators",
+      "name": {
+        "en": "LightWave Ablators",
+        "ru": "Абляторы LightWave"
+      },
+      "category": "arthroscopy-electrosurgery",
+      "status": "published",
+      "sourcePages": [
+        112
+      ],
+      "tables": 1,
+      "flags": []
+    },
+    {
+      "slug": "arthroscopy-fluid-management-10k-fluid-system",
+      "name": {
+        "en": "10k Fluid System",
+        "ru": "Система управления жидкостью 10k"
+      },
+      "category": "arthroscopy-fluid-management",
+      "status": "published",
+      "sourcePages": [
+        108
+      ],
+      "tables": 2,
+      "flags": []
+    },
+    {
+      "slug": "arthroscopy-fluid-management-24k-pump-system",
+      "name": {
+        "en": "24k Pump System",
+        "ru": "Помповая система 24k"
+      },
+      "category": "arthroscopy-fluid-management",
+      "status": "published",
+      "sourcePages": [
+        106,
+        107
+      ],
+      "tables": 13,
+      "flags": []
+    },
+    {
+      "slug": "arthroscopy-fluid-management-gravity-tubing-and-suction-devices",
+      "name": {
+        "en": "Gravity Tubing and Suction Devices",
+        "ru": "Трубки для гравитационной подачи и аспирационные устройства"
+      },
+      "category": "arthroscopy-fluid-management",
+      "status": "published",
+      "sourcePages": [
+        109
+      ],
+      "tables": 1,
+      "flags": []
+    },
+    {
+      "slug": "arthroscopy-manual-instruments-accessories",
+      "name": {
+        "en": "Accessories",
+        "ru": "Принадлежности для ручных инструментов"
+      },
+      "category": "arthroscopy-manual-instruments",
+      "status": "published",
+      "sourcePages": [
+        86
+      ],
+      "tables": 2,
+      "flags": []
+    },
+    {
+      "slug": "arthroscopy-manual-instruments-concept",
+      "name": {
+        "en": "Concept",
+        "ru": "Ручные инструменты Concept"
+      },
+      "category": "arthroscopy-manual-instruments",
+      "status": "published",
+      "sourcePages": [
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82
+      ],
+      "tables": 20,
+      "flags": []
+    },
+    {
+      "slug": "arthroscopy-manual-instruments-shutt-instrument-sets",
+      "name": {
+        "en": "Shutt Instrument Sets",
+        "ru": "Наборы инструментов Shutt"
+      },
+      "category": "arthroscopy-manual-instruments",
+      "status": "published",
+      "sourcePages": [
+        75
+      ],
+      "tables": 2,
+      "flags": []
+    },
+    {
+      "slug": "arthroscopy-manual-instruments-shutt-manual-instruments",
+      "name": {
+        "en": "Shutt Manual Instruments",
+        "ru": "Ручные инструменты Shutt"
+      },
+      "category": "arthroscopy-manual-instruments",
+      "status": "published",
+      "sourcePages": [
+        69
+      ],
+      "tables": 0,
+      "flags": []
+    },
+    {
+      "slug": "arthroscopy-manual-instruments-shutt-small-joint",
+      "name": {
+        "en": "Shutt Small Joint",
+        "ru": "Инструменты Shutt для мелких суставов"
+      },
+      "category": "arthroscopy-manual-instruments",
+      "status": "published",
+      "sourcePages": [
+        84
+      ],
+      "tables": 1,
+      "flags": []
+    },
+    {
+      "slug": "arthroscopy-manual-instruments-shutt",
+      "name": {
+        "en": "Shutt",
+        "ru": "Ручные инструменты Shutt"
+      },
+      "category": "arthroscopy-manual-instruments",
+      "status": "published",
+      "sourcePages": [
+        70,
+        71,
+        72,
+        73,
+        74
+      ],
+      "tables": 29,
+      "flags": []
+    },
+    {
+      "slug": "arthroscopy-resection-consoles",
+      "name": {
+        "en": "Consoles",
+        "ru": "Консоли"
+      },
+      "category": "arthroscopy-resection",
+      "status": "published",
+      "sourcePages": [
+        88
+      ],
+      "tables": 2,
+      "flags": []
+    },
+    {
+      "slug": "arthroscopy-resection-footswitches-and-accessories",
+      "name": {
+        "en": "Footswitches and Accessories",
+        "ru": "Педали и принадлежности"
+      },
+      "category": "arthroscopy-resection",
+      "status": "published",
+      "sourcePages": [
+        89
+      ],
+      "tables": 4,
+      "flags": []
+    },
+    {
+      "slug": "arthroscopy-resection-handpieces",
+      "name": {
+        "en": "Handpieces",
+        "ru": "Наконечники"
+      },
+      "category": "arthroscopy-resection",
+      "status": "published",
+      "sourcePages": [
+        90
+      ],
+      "tables": 3,
+      "flags": []
+    },
+    {
+      "slug": "arthroscopy-resection-large-hub-burs-and-routers",
+      "name": {
+        "en": "Large Hub Burs and Routers",
+        "ru": "Боры и фрезы с большим разъёмом"
+      },
+      "category": "arthroscopy-resection",
+      "status": "published",
+      "sourcePages": [
+        98,
+        99,
+        100
+      ],
+      "tables": 12,
+      "flags": []
+    },
+    {
+      "slug": "arthroscopy-resection-large-hub-shaver-blades",
+      "name": {
+        "en": "Large Hub Shaver Blades",
+        "ru": "Шейверные насадки с большим разъёмом"
+      },
+      "category": "arthroscopy-resection",
+      "status": "published",
+      "sourcePages": [
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "tables": 33,
+      "flags": []
+    },
+    {
+      "slug": "arthroscopy-resection-micro-hub-blades",
+      "name": {
+        "en": "Micro Hub Blades",
+        "ru": "Шейверные насадки с микроразъёмом"
+      },
+      "category": "arthroscopy-resection",
+      "status": "published",
+      "sourcePages": [
+        101,
+        102,
+        103
+      ],
+      "tables": 9,
+      "flags": []
+    },
+    {
+      "slug": "arthroscopy-resection-micro-hub-burs-and-routers",
+      "name": {
+        "en": "Micro Hub Burs and Routers",
+        "ru": "Боры и фрезы с микроразъёмом"
+      },
+      "category": "arthroscopy-resection",
+      "status": "published",
+      "sourcePages": [
+        104
+      ],
+      "tables": 3,
+      "flags": []
+    },
+    {
+      "slug": "hip-arthroscopy-anchors",
+      "name": {
+        "en": "Anchors",
+        "ru": "Якорные фиксаторы"
+      },
+      "category": "hip-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        58
+      ],
+      "tables": 2,
+      "flags": []
+    },
+    {
+      "slug": "hip-arthroscopy-bridge-system",
+      "name": {
+        "en": "Bridge System",
+        "ru": "Системы мостов"
+      },
+      "category": "hip-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        52
+      ],
+      "tables": 3,
+      "flags": []
+    },
+    {
+      "slug": "hip-arthroscopy-hip-access",
+      "name": {
+        "en": "Hip Access",
+        "ru": "Доступ к тазобедренному суставу"
+      },
+      "category": "hip-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        53
+      ],
+      "tables": 2,
+      "flags": []
+    },
+    {
+      "slug": "hip-arthroscopy-hip-blades-and-burs",
+      "name": {
+        "en": "Hip Blades and Burs",
+        "ru": "Шейверные насадки и боры для тазобедренного сустава"
+      },
+      "category": "hip-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        55
+      ],
+      "tables": 1,
+      "flags": []
+    },
+    {
+      "slug": "hip-arthroscopy-hip-manual-instruments",
+      "name": {
+        "en": "Hip Manual Instruments",
+        "ru": "Ручные инструменты для тазобедренного сустава"
+      },
+      "category": "hip-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        56
+      ],
+      "tables": 2,
+      "flags": []
+    },
+    {
+      "slug": "hip-arthroscopy-hip-suture-passers",
+      "name": {
+        "en": "Hip Suture Passers",
+        "ru": "Проводники шовного материала для тазобедренного сустава"
+      },
+      "category": "hip-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        57
+      ],
+      "tables": 2,
+      "flags": []
+    },
+    {
+      "slug": "hip-arthroscopy-shutt-series-210-manual-instruments",
+      "name": {
+        "en": "Shutt Series 210 Manual Instruments",
+        "ru": "Ручные инструменты Shutt Series 210"
+      },
+      "category": "hip-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        54
+      ],
+      "tables": 6,
+      "flags": []
+    },
+    {
+      "slug": "hip-arthroscopy-suction-ablator-and-tray",
+      "name": {
+        "en": "Suction Ablator and Tray",
+        "ru": "Аспирационный аблятор и лоток"
+      },
+      "category": "hip-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        59
+      ],
+      "tables": 1,
+      "flags": []
+    },
+    {
+      "slug": "knee-arthroscopy-bioabsorbable-interference-screws",
+      "name": {
+        "en": "Bioabsorbable Interference Screws",
+        "ru": "Биорезорбируемые интерференционные винты"
+      },
+      "category": "knee-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        30,
+        31,
+        32
+      ],
+      "tables": 10,
+      "flags": []
+    },
+    {
+      "slug": "knee-arthroscopy-biocomposite-interference-screws",
+      "name": {
+        "en": "Biocomposite Interference Screws",
+        "ru": "Биокомпозитные интерференционные винты"
+      },
+      "category": "knee-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        29
+      ],
+      "tables": 1,
+      "flags": []
+    },
+    {
+      "slug": "knee-arthroscopy-cruciate-reconstruction-accessories",
+      "name": {
+        "en": "Cruciate Reconstruction Accessories",
+        "ru": "Принадлежности для реконструкции крестообразных связок"
+      },
+      "category": "knee-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "tables": 15,
+      "flags": []
+    },
+    {
+      "slug": "knee-arthroscopy-cruciate-reconstruction-system",
+      "name": {
+        "en": "Cruciate Reconstruction System",
+        "ru": "Система реконструкции крестообразных связок"
+      },
+      "category": "knee-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        34,
+        35
+      ],
+      "tables": 6,
+      "flags": []
+    },
+    {
+      "slug": "knee-arthroscopy-femoral-fixation-implants",
+      "name": {
+        "en": "Femoral Fixation Implants",
+        "ru": "Имплантаты для бедренной фиксации"
+      },
+      "category": "knee-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        33
+      ],
+      "tables": 2,
+      "flags": []
+    },
+    {
+      "slug": "knee-arthroscopy-graft-preparation-system",
+      "name": {
+        "en": "Graft Preparation System",
+        "ru": "Система подготовки трансплантата"
+      },
+      "category": "knee-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        42
+      ],
+      "tables": 1,
+      "flags": []
+    },
+    {
+      "slug": "knee-arthroscopy-meniscal-fixation-implants",
+      "name": {
+        "en": "Meniscal Fixation Implants",
+        "ru": "Имплантаты для фиксации мениска"
+      },
+      "category": "knee-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        47
+      ],
+      "tables": 1,
+      "flags": []
+    },
+    {
+      "slug": "knee-arthroscopy-meniscal-fixation-systems",
+      "name": {
+        "en": "Meniscal Fixation Systems",
+        "ru": "Системы фиксации мениска"
+      },
+      "category": "knee-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        48
+      ],
+      "tables": 3,
+      "flags": []
+    },
+    {
+      "slug": "knee-arthroscopy-ocd-repair",
+      "name": {
+        "en": "OCD Repair",
+        "ru": "Лечение рассекающего остеохондрита"
+      },
+      "category": "knee-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        46
+      ],
+      "tables": 5,
+      "flags": []
+    },
+    {
+      "slug": "knee-arthroscopy-reamer-systems",
+      "name": {
+        "en": "Reamer Systems",
+        "ru": "Системы канюлированных развёрток"
+      },
+      "category": "knee-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        43,
+        44,
+        45
+      ],
+      "tables": 3,
+      "flags": []
+    },
+    {
+      "slug": "knee-arthroscopy-sterilization-trays",
+      "name": {
+        "en": "Sterilization Trays",
+        "ru": "Лотки для стерилизации"
+      },
+      "category": "knee-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        49
+      ],
+      "tables": 3,
+      "flags": []
+    },
+    {
+      "slug": "shoulder-arthroscopy-arthroscopic-accessories",
+      "name": {
+        "en": "Arthroscopic Accessories",
+        "ru": "Принадлежности для артроскопии"
+      },
+      "category": "shoulder-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        27
+      ],
+      "tables": 2,
+      "flags": []
+    },
+    {
+      "slug": "shoulder-arthroscopy-biceps-tenodesis",
+      "name": {
+        "en": "Biceps Tenodesis",
+        "ru": "Тенодез длинной головки бицепса"
+      },
+      "category": "shoulder-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        18
+      ],
+      "tables": 3,
+      "flags": []
+    },
+    {
+      "slug": "shoulder-arthroscopy-cannula-systems",
+      "name": {
+        "en": "Cannula Systems",
+        "ru": "Системы канюль"
+      },
+      "category": "shoulder-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        24,
+        25
+      ],
+      "tables": 4,
+      "flags": []
+    },
+    {
+      "slug": "shoulder-arthroscopy-hi-fi-suture",
+      "name": {
+        "en": "Hi-Fi Suture",
+        "ru": "Шовный материал Hi-Fi"
+      },
+      "category": "shoulder-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        23
+      ],
+      "tables": 1,
+      "flags": []
+    },
+    {
+      "slug": "shoulder-arthroscopy-instability-repair",
+      "name": {
+        "en": "Instability Repair",
+        "ru": "Стабилизация плечевого сустава"
+      },
+      "category": "shoulder-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        16,
+        17
+      ],
+      "tables": 10,
+      "flags": []
+    },
+    {
+      "slug": "shoulder-arthroscopy-master-arthroscopy-shoulder-instrument-set",
+      "name": {
+        "en": "MASTER Arthroscopy Shoulder Instrument Set",
+        "ru": "Набор артроскопических инструментов MASTER для плечевого сустава"
+      },
+      "category": "shoulder-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        22
+      ],
+      "tables": 4,
+      "flags": []
+    },
+    {
+      "slug": "shoulder-arthroscopy-positioning-devices",
+      "name": {
+        "en": "Positioning Devices",
+        "ru": "Устройства для позиционирования"
+      },
+      "category": "shoulder-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        26
+      ],
+      "tables": 3,
+      "flags": []
+    },
+    {
+      "slug": "shoulder-arthroscopy-rotator-cuff-repair",
+      "name": {
+        "en": "Rotator Cuff Repair",
+        "ru": "Восстановление вращательной манжеты"
+      },
+      "category": "shoulder-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "tables": 16,
+      "flags": []
+    },
+    {
+      "slug": "shoulder-arthroscopy-suture-passing",
+      "name": {
+        "en": "Suture Passing",
+        "ru": "Проведение шовного материала"
+      },
+      "category": "shoulder-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        19,
+        20,
+        21
+      ],
+      "tables": 9,
+      "flags": []
+    },
+    {
+      "slug": "small-joint-arthroscopy-anchors",
+      "name": {
+        "en": "Anchors",
+        "ru": "Якорные фиксаторы"
+      },
+      "category": "small-joint-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        67
+      ],
+      "tables": 2,
+      "flags": []
+    },
+    {
+      "slug": "small-joint-arthroscopy-carpal-tunnel-release-kit",
+      "name": {
+        "en": "Carpal Tunnel Release Kit",
+        "ru": "Набор для релиза карпального канала"
+      },
+      "category": "small-joint-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        66
+      ],
+      "tables": 1,
+      "flags": []
+    },
+    {
+      "slug": "small-joint-arthroscopy-small-joint-arthroscopy-knives-tubing-and-cannula-set",
+      "name": {
+        "en": "Small Joint Arthroscopy Knives, Tubing and Cannula Set",
+        "ru": "Ножи, трубки и набор канюль для артроскопии мелких суставов"
+      },
+      "category": "small-joint-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        65
+      ],
+      "tables": 1,
+      "flags": []
+    },
+    {
+      "slug": "small-joint-arthroscopy-small-joint-forceps-and-graspers",
+      "name": {
+        "en": "Small Joint Forceps and Graspers",
+        "ru": "Кусачки и захваты для мелких суставов"
+      },
+      "category": "small-joint-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        61,
+        62
+      ],
+      "tables": 17,
+      "flags": []
+    },
+    {
+      "slug": "small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+      "name": {
+        "en": "Small Joint Instrument Sets and Case",
+        "ru": "Наборы инструментов и контейнер для мелких суставов"
+      },
+      "category": "small-joint-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        63,
+        85
+      ],
+      "tables": 5,
+      "flags": []
+    },
+    {
+      "slug": "small-joint-arthroscopy-small-joint-probes-curettes-and-dissectors",
+      "name": {
+        "en": "Small Joint Probes, Curettes and Dissectors",
+        "ru": "Зонды, кюретки и диссекторы для мелких суставов"
+      },
+      "category": "small-joint-arthroscopy",
+      "status": "published",
+      "sourcePages": [
+        64
+      ],
+      "tables": 2,
+      "flags": []
+    }
+  ],
+  "nonProductPages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    28,
+    51,
+    60,
+    68,
+    87,
+    105,
+    110,
+    113,
+    114,
+    115,
+    116
+  ],
+  "tablesCreated": 288,
+  "imagesExtracted": 333,
+  "uncertainties": [],
+  "translationWorkflow": "Codex-authored medical Russian; retained English; every translated field marked for medical review; no external adapter",
+  "sections": [
+    {
+      "category": "shoulder-arthroscopy",
+      "name": {
+        "ru": "Артроскопия плечевого сустава",
+        "en": "Shoulder Arthroscopy"
+      },
+      "created": 9,
+      "published": 9,
+      "drafts": 0,
+      "catalogNumberCellsFound": 286,
+      "verified": 286,
+      "confirmedOnConmedCom": 286,
+      "overlapsWithPublishedSystems": 2,
+      "withinPdfRepeatedEntries": 7
+    },
+    {
+      "category": "knee-arthroscopy",
+      "name": {
+        "ru": "Артроскопия коленного сустава",
+        "en": "Knee Arthroscopy"
+      },
+      "created": 11,
+      "published": 11,
+      "drafts": 0,
+      "catalogNumberCellsFound": 325,
+      "verified": 325,
+      "confirmedOnConmedCom": 325,
+      "overlapsWithPublishedSystems": 0,
+      "withinPdfRepeatedEntries": 41
+    },
+    {
+      "category": "hip-arthroscopy",
+      "name": {
+        "ru": "Артроскопия тазобедренного сустава",
+        "en": "Hip Arthroscopy"
+      },
+      "created": 8,
+      "published": 8,
+      "drafts": 0,
+      "catalogNumberCellsFound": 123,
+      "verified": 123,
+      "confirmedOnConmedCom": 123,
+      "overlapsWithPublishedSystems": 15,
+      "withinPdfRepeatedEntries": 6
+    },
+    {
+      "category": "small-joint-arthroscopy",
+      "name": {
+        "ru": "Артроскопия мелких суставов",
+        "en": "Small Joint Arthroscopy"
+      },
+      "created": 6,
+      "published": 6,
+      "drafts": 0,
+      "catalogNumberCellsFound": 63,
+      "verified": 63,
+      "confirmedOnConmedCom": 63,
+      "overlapsWithPublishedSystems": 0,
+      "withinPdfRepeatedEntries": 21
+    },
+    {
+      "category": "arthroscopy-manual-instruments",
+      "name": {
+        "ru": "Ручные артроскопические инструменты",
+        "en": "Arthroscopy Manual Instruments"
+      },
+      "created": 6,
+      "published": 6,
+      "drafts": 0,
+      "catalogNumberCellsFound": 204,
+      "verified": 204,
+      "confirmedOnConmedCom": 204,
+      "overlapsWithPublishedSystems": 0,
+      "withinPdfRepeatedEntries": 95
+    },
+    {
+      "category": "arthroscopy-resection",
+      "name": {
+        "ru": "Резекция (шейверы, боры, консоли)",
+        "en": "Resection Products"
+      },
+      "created": 7,
+      "published": 7,
+      "drafts": 0,
+      "catalogNumberCellsFound": 220,
+      "verified": 220,
+      "confirmedOnConmedCom": 220,
+      "overlapsWithPublishedSystems": 0,
+      "withinPdfRepeatedEntries": 57
+    },
+    {
+      "category": "arthroscopy-fluid-management",
+      "name": {
+        "ru": "Управление жидкостью (помпы)",
+        "en": "Fluid Management"
+      },
+      "created": 3,
+      "published": 3,
+      "drafts": 0,
+      "catalogNumberCellsFound": 16,
+      "verified": 16,
+      "confirmedOnConmedCom": 16,
+      "overlapsWithPublishedSystems": 0,
+      "withinPdfRepeatedEntries": 0
+    },
+    {
+      "category": "arthroscopy-electrosurgery",
+      "name": {
+        "ru": "Электрохирургическая артроскопия",
+        "en": "ESA Electrosurgical Arthroscopy"
+      },
+      "created": 2,
+      "published": 2,
+      "drafts": 0,
+      "catalogNumberCellsFound": 15,
+      "verified": 15,
+      "confirmedOnConmedCom": 15,
+      "overlapsWithPublishedSystems": 0,
+      "withinPdfRepeatedEntries": 1
+    }
+  ],
+  "published": 52,
+  "drafts": 0,
+  "catalogNumbersFound": 1252,
+  "catalogNumbersVerified": 1252,
+  "confirmedOnConmedCom": 1252,
+  "openRealFlags": [],
+  "random20Rows": [
+    {
+      "system": {
+        "en": "Rotator Cuff Repair",
+        "ru": "Восстановление вращательной манжеты"
+      },
+      "slug": "shoulder-arthroscopy-rotator-cuff-repair",
+      "pdfPage": 11,
+      "description": "4.5mm GENESYS CrossFT Suture Anchor w/Three #2 Hi-Fi Sutures (17mm length) w/ needles",
+      "catalogNumber": "CFBC-4503NB"
+    },
+    {
+      "system": {
+        "en": "Cruciate Reconstruction Accessories",
+        "ru": "Принадлежности для реконструкции крестообразных связок"
+      },
+      "slug": "knee-arthroscopy-cruciate-reconstruction-accessories",
+      "pdfPage": 37,
+      "description": "Microfracture Awl, 45°, 190.5mm length",
+      "catalogNumber": "7202"
+    },
+    {
+      "system": {
+        "en": "Hi-Fi Suture",
+        "ru": "Шовный материал Hi-Fi"
+      },
+      "slug": "shoulder-arthroscopy-hi-fi-suture",
+      "pdfPage": 23,
+      "description": "Hi-Fi Passing Loop",
+      "catalogNumber": "HL7000"
+    },
+    {
+      "system": {
+        "en": "Cruciate Reconstruction Accessories",
+        "ru": "Принадлежности для реконструкции крестообразных связок"
+      },
+      "slug": "knee-arthroscopy-cruciate-reconstruction-accessories",
+      "pdfPage": 41,
+      "description": "Tunnel Dilator Sterilization Case",
+      "catalogNumber": "TD8504"
+    },
+    {
+      "system": {
+        "en": "Instability Repair",
+        "ru": "Стабилизация плечевого сустава"
+      },
+      "slug": "shoulder-arthroscopy-instability-repair",
+      "pdfPage": 16,
+      "description": "Drill Guide, Fishmouth",
+      "catalogNumber": "Y-G001"
+    },
+    {
+      "system": {
+        "en": "Rotator Cuff Repair",
+        "ru": "Восстановление вращательной манжеты"
+      },
+      "slug": "shoulder-arthroscopy-rotator-cuff-repair",
+      "pdfPage": 9,
+      "description": "Y-Knot RC Drill Guide",
+      "catalogNumber": "Y-DGRC"
+    },
+    {
+      "system": {
+        "en": "OCD Repair",
+        "ru": "Лечение рассекающего остеохондрита"
+      },
+      "slug": "knee-arthroscopy-ocd-repair",
+      "pdfPage": 46,
+      "description": "1.5mm Arthroscopic Tip (Green)",
+      "catalogNumber": "AT1500"
+    },
+    {
+      "system": {
+        "en": "Large Hub Shaver Blades",
+        "ru": "Шейверные насадки с большим разъёмом"
+      },
+      "slug": "arthroscopy-resection-large-hub-shaver-blades",
+      "pdfPage": 96,
+      "description": "5.5mm, Large Hub, Sterling, Shaver, Gator",
+      "catalogNumber": "9260A"
+    },
+    {
+      "system": {
+        "en": "Rotator Cuff Repair",
+        "ru": "Восстановление вращательной манжеты"
+      },
+      "slug": "shoulder-arthroscopy-rotator-cuff-repair",
+      "pdfPage": 14,
+      "description": "ThRevo® FT Suture Anchor, 5.0mm O.D. 18.0mm length, w/Three #2 Hi-Fi Sutures,",
+      "catalogNumber": "CF6160H"
+    },
+    {
+      "system": {
+        "en": "24k Pump System",
+        "ru": "Помповая система 24k"
+      },
+      "slug": "arthroscopy-fluid-management-24k-pump-system",
+      "pdfPage": 106,
+      "description": "24kTIPS Tube Set",
+      "catalogNumber": "24kTIPS"
+    },
+    {
+      "system": {
+        "en": "Micro Hub Blades",
+        "ru": "Шейверные насадки с микроразъёмом"
+      },
+      "slug": "arthroscopy-resection-micro-hub-blades",
+      "pdfPage": 102,
+      "description": "4.2mm, Micro Hub, Merlin®, Blade, Full-Radius Resector, Pre-Bent 15°",
+      "catalogNumber": "MP9249"
+    },
+    {
+      "system": {
+        "en": "Femoral Fixation Implants",
+        "ru": "Имплантаты для бедренной фиксации"
+      },
+      "slug": "knee-arthroscopy-femoral-fixation-implants",
+      "pdfPage": 33,
+      "description": "GraftMax Flex XACTPIN®",
+      "catalogNumber": "KS-FGP24"
+    },
+    {
+      "system": {
+        "en": "Hi-Fi Suture",
+        "ru": "Шовный материал Hi-Fi"
+      },
+      "slug": "shoulder-arthroscopy-hi-fi-suture",
+      "pdfPage": 23,
+      "description": "#2 Hi-Fi Suture, 12/Box, Single 36\" Strand, White-Green Co-Braid, No Needle",
+      "catalogNumber": "H5140"
+    },
+    {
+      "system": {
+        "en": "Biocomposite Interference Screws",
+        "ru": "Биокомпозитные интерференционные винты"
+      },
+      "slug": "knee-arthroscopy-biocomposite-interference-screws",
+      "pdfPage": 29,
+      "description": "GENESYS Matryx 7.0 x 25.0mm Interference Screw",
+      "catalogNumber": "237025M5"
+    },
+    {
+      "system": {
+        "en": "Hip Suture Passers",
+        "ru": "Проводники шовного материала для тазобедренного сустава"
+      },
+      "slug": "hip-arthroscopy-hip-suture-passers",
+      "pdfPage": 57,
+      "description": "Spectrum MVP, Medium Crecent Hook, Extended Length, Disposable, Packaged Sterile, 3 per Box",
+      "catalogNumber": "C6400EL"
+    },
+    {
+      "system": {
+        "en": "Suture Passing",
+        "ru": "Проведение шовного материала"
+      },
+      "slug": "shoulder-arthroscopy-suture-passing",
+      "pdfPage": 19,
+      "description": "Seahawk Suture Passer (right, up)",
+      "catalogNumber": "GU2001"
+    },
+    {
+      "system": {
+        "en": "Concept",
+        "ru": "Ручные инструменты Concept"
+      },
+      "slug": "arthroscopy-manual-instruments-concept",
+      "pdfPage": 82,
+      "description": "Retriever, 15° Upswept",
+      "catalogNumber": "C6801"
+    },
+    {
+      "system": {
+        "en": "Micro Hub Burs and Routers",
+        "ru": "Боры и фрезы с микроразъёмом"
+      },
+      "slug": "arthroscopy-resection-micro-hub-burs-and-routers",
+      "pdfPage": 104,
+      "description": "6.0mm, Micro Hub, Sterling, Bur, Oval",
+      "catalogNumber": "MH9102"
+    },
+    {
+      "system": {
+        "en": "OCD Repair",
+        "ru": "Лечение рассекающего остеохондрита"
+      },
+      "slug": "knee-arthroscopy-ocd-repair",
+      "pdfPage": 46,
+      "description": "Wrench",
+      "catalogNumber": "AA1520-05"
+    },
+    {
+      "system": {
+        "en": "Concept",
+        "ru": "Ручные инструменты Concept"
+      },
+      "slug": "arthroscopy-manual-instruments-concept",
+      "pdfPage": 81,
+      "description": "Straight",
+      "catalogNumber": "C6700"
+    }
+  ],
+  "overlaps": {
+    "overlaps": [
+      {
+        "system": "shoulder-arthroscopy-suture-passing",
+        "pdfPage": 21,
+        "description": "Crochet Hook",
+        "catalogNumber": "C6105",
+        "existingSystem": "conmed/shoulder-arthroscopy-rotator-cuff-repair",
+        "withinThisPdf": true
+      },
+      {
+        "system": "shoulder-arthroscopy-suture-passing",
+        "pdfPage": 21,
+        "description": "Loop Handle Knot Pusher",
+        "catalogNumber": "C6112",
+        "existingSystem": "conmed/shoulder-arthroscopy-rotator-cuff-repair",
+        "withinThisPdf": true
+      },
+      {
+        "system": "shoulder-arthroscopy-master-arthroscopy-shoulder-instrument-set",
+        "pdfPage": 22,
+        "description": "Katana® High-Strength Suture Cutter",
+        "catalogNumber": "GU1009",
+        "existingSystem": "conmed/shoulder-arthroscopy-suture-passing",
+        "withinThisPdf": true
+      },
+      {
+        "system": "shoulder-arthroscopy-master-arthroscopy-shoulder-instrument-set",
+        "pdfPage": 22,
+        "description": "Straight, 3.4 dia., 136mm",
+        "catalogNumber": "GU1005",
+        "existingSystem": "conmed/shoulder-arthroscopy-suture-passing",
+        "withinThisPdf": true
+      },
+      {
+        "system": "shoulder-arthroscopy-master-arthroscopy-shoulder-instrument-set",
+        "pdfPage": 22,
+        "description": "Loop Handled Knot Pusher",
+        "catalogNumber": "C6112",
+        "existingSystem": "conmed/shoulder-arthroscopy-rotator-cuff-repair",
+        "withinThisPdf": true
+      },
+      {
+        "system": "shoulder-arthroscopy-master-arthroscopy-shoulder-instrument-set",
+        "pdfPage": 22,
+        "description": "Switching Stick",
+        "catalogNumber": "2220",
+        "existingSystem": "conmed/shoulder-arthroscopy-suture-passing",
+        "withinThisPdf": true
+      },
+      {
+        "system": "shoulder-arthroscopy-arthroscopic-accessories",
+        "pdfPage": 27,
+        "description": "Switching Sticks .125\" dia. x 10\" length, Blunt Distal Tip (2 per Box)",
+        "catalogNumber": "2220",
+        "existingSystem": "conmed/shoulder-arthroscopy-suture-passing",
+        "withinThisPdf": true
+      },
+      {
+        "system": "shoulder-arthroscopy-arthroscopic-accessories",
+        "pdfPage": 27,
+        "description": "Swiching Stick for QuickLatch® Sheath System 3.0mm O.D. x 14\"L",
+        "catalogNumber": "T4906",
+        "existingSystem": "conmed/sheath-and-bridge-systems",
+        "withinThisPdf": false
+      },
+      {
+        "system": "shoulder-arthroscopy-arthroscopic-accessories",
+        "pdfPage": 27,
+        "description": "Arthroscopic Portal Rod for QuickLatch Sheath System 30mm O.D. x 12\" L",
+        "catalogNumber": "T4907",
+        "existingSystem": "conmed/sheath-and-bridge-systems",
+        "withinThisPdf": false
+      },
+      {
+        "system": "knee-arthroscopy-femoral-fixation-implants",
+        "pdfPage": 33,
+        "description": "#2 Hi-Fi Suture, 60mm Straight Needle, 20\" Loop (12 per Box)",
+        "catalogNumber": "HL200",
+        "existingSystem": "conmed/shoulder-arthroscopy-biceps-tenodesis",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-femoral-fixation-implants",
+        "pdfPage": 33,
+        "description": "#2 Hi-Fi Suture, 48mm Curved Needle, 20\" Loop (12 per Box)",
+        "catalogNumber": "HL201",
+        "existingSystem": "conmed/shoulder-arthroscopy-biceps-tenodesis",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-cruciate-reconstruction-system",
+        "pdfPage": 34,
+        "description": "GraftMax Flex XACTPIN™",
+        "catalogNumber": "KS-FGP24",
+        "existingSystem": "conmed/knee-arthroscopy-femoral-fixation-implants",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-cruciate-reconstruction-system",
+        "pdfPage": 34,
+        "description": "GraftMax Flex Channel Reamer, 5.0mm",
+        "catalogNumber": "KC8550",
+        "existingSystem": "conmed/knee-arthroscopy-femoral-fixation-implants",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-cruciate-reconstruction-accessories",
+        "pdfPage": 36,
+        "description": "XACTPIN® Graft Passing Guide Pin, 2.4mm (.09375\") dia. x 43.18cm (17\")",
+        "catalogNumber": "C8677S",
+        "existingSystem": "conmed/knee-arthroscopy-femoral-fixation-implants",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-cruciate-reconstruction-accessories",
+        "pdfPage": 36,
+        "description": "Magnetic Retriever",
+        "catalogNumber": "9970",
+        "existingSystem": "conmed/shoulder-arthroscopy-arthroscopic-accessories",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-cruciate-reconstruction-accessories",
+        "pdfPage": 38,
+        "description": "3.5mm dia. Tip, Mini-Probe, Straight, Blue Handle",
+        "catalogNumber": "21.1001",
+        "existingSystem": "conmed/shoulder-arthroscopy-suture-passing",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-cruciate-reconstruction-accessories",
+        "pdfPage": 40,
+        "description": "#2 Hi-Fi Suture, 60mm Straight Needle, 20\" Loop (12 per Box)",
+        "catalogNumber": "HL200",
+        "existingSystem": "conmed/shoulder-arthroscopy-biceps-tenodesis",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-cruciate-reconstruction-accessories",
+        "pdfPage": 40,
+        "description": "#2 Hi-Fi Suture, 48mm Curved Needle, 20\" Loop (12 per Box)",
+        "catalogNumber": "HL201",
+        "existingSystem": "conmed/shoulder-arthroscopy-biceps-tenodesis",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-cruciate-reconstruction-accessories",
+        "pdfPage": 41,
+        "description": "Graft Sizing Ring, Small",
+        "catalogNumber": "GFT-SM",
+        "existingSystem": "conmed/shoulder-arthroscopy-biceps-tenodesis",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-graft-preparation-system",
+        "pdfPage": 42,
+        "description": "XO Button® Holder",
+        "catalogNumber": "PS8834",
+        "existingSystem": "conmed/knee-arthroscopy-femoral-fixation-implants",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-graft-preparation-system",
+        "pdfPage": 42,
+        "description": "Graft Sizing Ring, Large",
+        "catalogNumber": "GFT-LG",
+        "existingSystem": "conmed/knee-arthroscopy-cruciate-reconstruction-accessories",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-graft-preparation-system",
+        "pdfPage": 42,
+        "description": "Graft Sizing Ring, Small",
+        "catalogNumber": "GFT-SM",
+        "existingSystem": "conmed/shoulder-arthroscopy-biceps-tenodesis",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-reamer-systems",
+        "pdfPage": 43,
+        "description": "GraftMax ™ Flex Sentinel ™ Reamer, 5.5mm",
+        "catalogNumber": "KS8555",
+        "existingSystem": "conmed/knee-arthroscopy-cruciate-reconstruction-system",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-reamer-systems",
+        "pdfPage": 43,
+        "description": "GraftMax Flex Sentinel Reamer, 6.0mm",
+        "catalogNumber": "KS8560",
+        "existingSystem": "conmed/knee-arthroscopy-cruciate-reconstruction-system",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-reamer-systems",
+        "pdfPage": 43,
+        "description": "GraftMax Flex Sentinel Reamer, 6.5mm",
+        "catalogNumber": "KS8565",
+        "existingSystem": "conmed/knee-arthroscopy-cruciate-reconstruction-system",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-reamer-systems",
+        "pdfPage": 43,
+        "description": "GraftMax Flex Sentinel Reamer, 7.0mm",
+        "catalogNumber": "KS8570",
+        "existingSystem": "conmed/knee-arthroscopy-cruciate-reconstruction-system",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-reamer-systems",
+        "pdfPage": 43,
+        "description": "GraftMax Flex Sentinel Reamer, 7.5mm",
+        "catalogNumber": "KS8575",
+        "existingSystem": "conmed/knee-arthroscopy-cruciate-reconstruction-system",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-reamer-systems",
+        "pdfPage": 43,
+        "description": "GraftMax Flex Sentinel Reamer, 8.0mm",
+        "catalogNumber": "KS8580",
+        "existingSystem": "conmed/knee-arthroscopy-cruciate-reconstruction-system",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-reamer-systems",
+        "pdfPage": 43,
+        "description": "GraftMax Flex Sentinel Reamer, 8.5mm",
+        "catalogNumber": "KS8585",
+        "existingSystem": "conmed/knee-arthroscopy-cruciate-reconstruction-system",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-reamer-systems",
+        "pdfPage": 43,
+        "description": "GraftMax Flex Sentinel Reamer, 9.0mm",
+        "catalogNumber": "KS8590",
+        "existingSystem": "conmed/knee-arthroscopy-cruciate-reconstruction-system",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-reamer-systems",
+        "pdfPage": 43,
+        "description": "GraftMax Flex Sentinel Reamer, 9.5mm",
+        "catalogNumber": "KS8595",
+        "existingSystem": "conmed/knee-arthroscopy-cruciate-reconstruction-system",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-reamer-systems",
+        "pdfPage": 43,
+        "description": "GraftMax Flex Sentinel Reamer, 10.0mm",
+        "catalogNumber": "KS8510",
+        "existingSystem": "conmed/knee-arthroscopy-cruciate-reconstruction-system",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-reamer-systems",
+        "pdfPage": 43,
+        "description": "GraftMax Flex Sentinel Reamer, 10.5mm",
+        "catalogNumber": "KS85105",
+        "existingSystem": "conmed/knee-arthroscopy-cruciate-reconstruction-system",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-reamer-systems",
+        "pdfPage": 43,
+        "description": "GraftMax Flex Sentinel Reamer, 11.0mm",
+        "catalogNumber": "KS8511",
+        "existingSystem": "conmed/knee-arthroscopy-cruciate-reconstruction-system",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-reamer-systems",
+        "pdfPage": 43,
+        "description": "GraftMax Flex Sentinel Reamer, 13.0mm",
+        "catalogNumber": "KS8513",
+        "existingSystem": "conmed/knee-arthroscopy-cruciate-reconstruction-system",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-reamer-systems",
+        "pdfPage": 45,
+        "description": "6.5mm dia",
+        "catalogNumber": "C8593",
+        "existingSystem": "conmed/shoulder-arthroscopy-biceps-tenodesis",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-reamer-systems",
+        "pdfPage": 45,
+        "description": "7.0mm dia",
+        "catalogNumber": "C8582",
+        "existingSystem": "conmed/shoulder-arthroscopy-biceps-tenodesis",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-reamer-systems",
+        "pdfPage": 45,
+        "description": "8.0mm dia",
+        "catalogNumber": "C8599",
+        "existingSystem": "conmed/shoulder-arthroscopy-biceps-tenodesis",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-meniscal-fixation-systems",
+        "pdfPage": 48,
+        "description": "30° Top and Bottom Serrations",
+        "catalogNumber": "C8537.1",
+        "existingSystem": "conmed/shoulder-arthroscopy-suture-passing",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-sterilization-trays",
+        "pdfPage": 49,
+        "description": "Tunnel Dilator Tray",
+        "catalogNumber": "TD8504",
+        "existingSystem": "conmed/knee-arthroscopy-cruciate-reconstruction-accessories",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-sterilization-trays",
+        "pdfPage": 49,
+        "description": "Grafix ® Graft Tray",
+        "catalogNumber": "PS8831",
+        "existingSystem": "conmed/knee-arthroscopy-graft-preparation-system",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-positioning-devices",
+        "pdfPage": 50,
+        "description": "AssistArm Limb Positioner",
+        "catalogNumber": "AA-PSN100",
+        "existingSystem": "conmed/shoulder-arthroscopy-positioning-devices",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-positioning-devices",
+        "pdfPage": 50,
+        "description": "Arm Support for Beach Chair",
+        "catalogNumber": "AA-AS-BC200",
+        "existingSystem": "conmed/shoulder-arthroscopy-positioning-devices",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-positioning-devices",
+        "pdfPage": 50,
+        "description": "Connector",
+        "catalogNumber": "AA-CON250",
+        "existingSystem": "conmed/shoulder-arthroscopy-positioning-devices",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-positioning-devices",
+        "pdfPage": 50,
+        "description": "Traction Unit",
+        "catalogNumber": "AA-TRAC400",
+        "existingSystem": "conmed/shoulder-arthroscopy-positioning-devices",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-positioning-devices",
+        "pdfPage": 50,
+        "description": "Arm Support for Lateral Decubitus",
+        "catalogNumber": "AA-AS-LD500",
+        "existingSystem": "conmed/shoulder-arthroscopy-positioning-devices",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-positioning-devices",
+        "pdfPage": 50,
+        "description": "Knee",
+        "catalogNumber": "AA-K600",
+        "existingSystem": "conmed/shoulder-arthroscopy-positioning-devices",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-positioning-devices",
+        "pdfPage": 50,
+        "description": "Ankle",
+        "catalogNumber": "AA-A700",
+        "existingSystem": "conmed/shoulder-arthroscopy-positioning-devices",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-positioning-devices",
+        "pdfPage": 50,
+        "description": "Disposable Kit for Shoulder and Knee, Packaged Sterile, 10/Box",
+        "catalogNumber": "AA-SK-KIT10",
+        "existingSystem": "conmed/shoulder-arthroscopy-positioning-devices",
+        "withinThisPdf": true
+      },
+      {
+        "system": "knee-arthroscopy-positioning-devices",
+        "pdfPage": 50,
+        "description": "Disposable Kit for Ankle, Packaged Sterile, 10/Box",
+        "catalogNumber": "AA-A-KIT10",
+        "existingSystem": "conmed/shoulder-arthroscopy-positioning-devices",
+        "withinThisPdf": true
+      },
+      {
+        "system": "hip-arthroscopy-bridge-system",
+        "pdfPage": 52,
+        "description": "Single Stopcock Doublelatch Hip Bridge",
+        "catalogNumber": "DLH100",
+        "existingSystem": "conmed/sheath-and-bridge-systems",
+        "withinThisPdf": false
+      },
+      {
+        "system": "hip-arthroscopy-bridge-system",
+        "pdfPage": 52,
+        "description": "Double Stopcock Doublelatch Hip Bridge",
+        "catalogNumber": "DLH200",
+        "existingSystem": "conmed/sheath-and-bridge-systems",
+        "withinThisPdf": false
+      },
+      {
+        "system": "hip-arthroscopy-bridge-system",
+        "pdfPage": 52,
+        "description": "5.8mm DoubleLatch Hip Conical Obturator",
+        "catalogNumber": "DLH580",
+        "existingSystem": "conmed/sheath-and-bridge-systems",
+        "withinThisPdf": false
+      },
+      {
+        "system": "hip-arthroscopy-bridge-system",
+        "pdfPage": 52,
+        "description": "5.8mm DoubleLatch Hip Cannulated Obturator",
+        "catalogNumber": "DLH581",
+        "existingSystem": "conmed/sheath-and-bridge-systems",
+        "withinThisPdf": false
+      },
+      {
+        "system": "hip-arthroscopy-bridge-system",
+        "pdfPage": 52,
+        "description": "4.6mm DoubleLatch Hip Conical Obturator",
+        "catalogNumber": "DLH460",
+        "existingSystem": "conmed/sheath-and-bridge-systems",
+        "withinThisPdf": false
+      },
+      {
+        "system": "hip-arthroscopy-bridge-system",
+        "pdfPage": 52,
+        "description": "4.6mm DoubleLatch Hip Cannulated Obturator",
+        "catalogNumber": "DLH461",
+        "existingSystem": "conmed/sheath-and-bridge-systems",
+        "withinThisPdf": false
+      },
+      {
+        "system": "hip-arthroscopy-bridge-system",
+        "pdfPage": 52,
+        "description": "5.8mm DoubleLatch Hip Cannula Straight",
+        "catalogNumber": "DLH582",
+        "existingSystem": "conmed/sheath-and-bridge-systems",
+        "withinThisPdf": false
+      },
+      {
+        "system": "hip-arthroscopy-bridge-system",
+        "pdfPage": 52,
+        "description": "5.8mm DoubleLatch Hip Cannula Fenestrated",
+        "catalogNumber": "DLH583",
+        "existingSystem": "conmed/sheath-and-bridge-systems",
+        "withinThisPdf": false
+      },
+      {
+        "system": "hip-arthroscopy-bridge-system",
+        "pdfPage": 52,
+        "description": "4.6mm DoubleLatch Hip Cannula Straight",
+        "catalogNumber": "DLH462",
+        "existingSystem": "conmed/sheath-and-bridge-systems",
+        "withinThisPdf": false
+      },
+      {
+        "system": "hip-arthroscopy-bridge-system",
+        "pdfPage": 52,
+        "description": "4.6mm DoubleLatch Hip Cannula Fenestrated",
+        "catalogNumber": "DLH463",
+        "existingSystem": "conmed/sheath-and-bridge-systems",
+        "withinThisPdf": false
+      },
+      {
+        "system": "hip-arthroscopy-bridge-system",
+        "pdfPage": 52,
+        "description": "Replacement Seals",
+        "catalogNumber": "DL1008",
+        "existingSystem": "conmed/sheath-and-bridge-systems",
+        "withinThisPdf": false
+      },
+      {
+        "system": "hip-arthroscopy-bridge-system",
+        "pdfPage": 52,
+        "description": "Replacement Cannula seal cap",
+        "catalogNumber": "DL1009",
+        "existingSystem": "conmed/sheath-and-bridge-systems",
+        "withinThisPdf": false
+      },
+      {
+        "system": "hip-arthroscopy-bridge-system",
+        "pdfPage": 52,
+        "description": "Seal Cap Installation and Removal Tool",
+        "catalogNumber": "DL1010",
+        "existingSystem": "conmed/sheath-and-bridge-systems",
+        "withinThisPdf": false
+      },
+      {
+        "system": "hip-arthroscopy-bridge-system",
+        "pdfPage": 52,
+        "description": "4.6mm DoubleLatch Hip Cannulated Obturator w/ Handle",
+        "catalogNumber": "HPS-H46",
+        "existingSystem": "conmed/sheath-and-bridge-systems",
+        "withinThisPdf": false
+      },
+      {
+        "system": "hip-arthroscopy-bridge-system",
+        "pdfPage": 52,
+        "description": "5.8mm DoubleLatch Hip Cannulated Obturator w/ Handle",
+        "catalogNumber": "HPS-H58",
+        "existingSystem": "conmed/sheath-and-bridge-systems",
+        "withinThisPdf": false
+      },
+      {
+        "system": "hip-arthroscopy-hip-manual-instruments",
+        "pdfPage": 56,
+        "description": "Extended Length Depth Probe",
+        "catalogNumber": "21.1001EL",
+        "existingSystem": "conmed/knee-arthroscopy-femoral-fixation-implants",
+        "withinThisPdf": true
+      },
+      {
+        "system": "hip-arthroscopy-anchors",
+        "pdfPage": 58,
+        "description": "Poplok 2.8mm w/One Strand of #2 Hi-Fi® Suture",
+        "catalogNumber": "GKP-2801",
+        "existingSystem": "conmed/shoulder-arthroscopy-instability-repair",
+        "withinThisPdf": true
+      },
+      {
+        "system": "hip-arthroscopy-anchors",
+        "pdfPage": 58,
+        "description": "Poplok 2.8mm w/Two Strand of #0 Hi-Fi Suture",
+        "catalogNumber": "GKP-2802",
+        "existingSystem": "conmed/shoulder-arthroscopy-instability-repair",
+        "withinThisPdf": true
+      },
+      {
+        "system": "hip-arthroscopy-anchors",
+        "pdfPage": 58,
+        "description": "Poplok 3.3mm w/One Strand of #2 Hi-Fi Suture",
+        "catalogNumber": "GKP-3301",
+        "existingSystem": "conmed/shoulder-arthroscopy-instability-repair",
+        "withinThisPdf": true
+      },
+      {
+        "system": "hip-arthroscopy-anchors",
+        "pdfPage": 58,
+        "description": "Poplok 3.3mm w/Two Strand of #0 Hi-Fi Suture",
+        "catalogNumber": "GKP-3302",
+        "existingSystem": "conmed/shoulder-arthroscopy-instability-repair",
+        "withinThisPdf": true
+      },
+      {
+        "system": "hip-arthroscopy-anchors",
+        "pdfPage": 58,
+        "description": "Poplok Guide",
+        "catalogNumber": "BGU-00M",
+        "existingSystem": "conmed/shoulder-arthroscopy-instability-repair",
+        "withinThisPdf": true
+      },
+      {
+        "system": "small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "pdfPage": 63,
+        "description": "SST Blunt Tip Forceps, 15° Down",
+        "catalogNumber": "2.60013",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "pdfPage": 63,
+        "description": "45° Forceps, Blunt Tip, Right",
+        "catalogNumber": "32.60013",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "pdfPage": 63,
+        "description": "45° Forceps, Blunt Tip, Left",
+        "catalogNumber": "32.60014",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "pdfPage": 63,
+        "description": "SST Scoop Tip Forceps, Straight",
+        "catalogNumber": "2.7004",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "pdfPage": 63,
+        "description": "Standard Grasper, Straight",
+        "catalogNumber": "17.6001",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "pdfPage": 63,
+        "description": "Mosquito Tip Grasper, Straight",
+        "catalogNumber": "17.6004",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "pdfPage": 63,
+        "description": "SST Blunt Tip Forceps, Straight",
+        "catalogNumber": "2.6009",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "pdfPage": 63,
+        "description": "SST Scoop Tip Forceps, 15° Down",
+        "catalogNumber": "2.60015",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "pdfPage": 63,
+        "description": "Standard Grasper, Straight",
+        "catalogNumber": "17.7001",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "pdfPage": 63,
+        "description": "Mosquito Tip Grasper, Straight",
+        "catalogNumber": "17.7004",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "pdfPage": 63,
+        "description": "SST Blunt Tip Forceps, Straight",
+        "catalogNumber": "2.7009",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "pdfPage": 63,
+        "description": "SST Scoop Tip Forceps, 15° Down",
+        "catalogNumber": "2.70015",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "small-joint-arthroscopy-small-joint-probes-curettes-and-dissectors",
+        "pdfPage": 64,
+        "description": "65mm Small Joint Probe, 70° Tip",
+        "catalogNumber": "26.3003",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "small-joint-arthroscopy-small-joint-probes-curettes-and-dissectors",
+        "pdfPage": 64,
+        "description": "90mm Small Joint Probe, 70° Tip",
+        "catalogNumber": "26.7003",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "small-joint-arthroscopy-small-joint-probes-curettes-and-dissectors",
+        "pdfPage": 64,
+        "description": "Instrument Stabilizer Ball",
+        "catalogNumber": "326.000",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "small-joint-arthroscopy-small-joint-probes-curettes-and-dissectors",
+        "pdfPage": 64,
+        "description": "Open Curette",
+        "catalogNumber": "22.6005",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "small-joint-arthroscopy-small-joint-probes-curettes-and-dissectors",
+        "pdfPage": 64,
+        "description": "Dissector",
+        "catalogNumber": "22.6008",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "small-joint-arthroscopy-small-joint-probes-curettes-and-dissectors",
+        "pdfPage": 64,
+        "description": "Open Curette",
+        "catalogNumber": "22.7005",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "small-joint-arthroscopy-small-joint-probes-curettes-and-dissectors",
+        "pdfPage": 64,
+        "description": "Dissector",
+        "catalogNumber": "22.7008",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "small-joint-arthroscopy-small-joint-arthroscopy-knives-tubing-and-cannula-set",
+        "pdfPage": 65,
+        "description": "Banana Blade",
+        "catalogNumber": "9973",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "small-joint-arthroscopy-small-joint-arthroscopy-knives-tubing-and-cannula-set",
+        "pdfPage": 65,
+        "description": "Retrograde Blade",
+        "catalogNumber": "9974",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt",
+        "pdfPage": 71,
+        "description": "Blunt Tip, Left",
+        "catalogNumber": "S210RFL",
+        "existingSystem": "conmed/hip-arthroscopy-shutt-series-210-manual-instruments",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt",
+        "pdfPage": 71,
+        "description": "Blunt Tip, Right",
+        "catalogNumber": "S210RFR",
+        "existingSystem": "conmed/hip-arthroscopy-shutt-series-210-manual-instruments",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt",
+        "pdfPage": 71,
+        "description": "15° Up",
+        "catalogNumber": "S210AFU",
+        "existingSystem": "conmed/hip-arthroscopy-shutt-series-210-manual-instruments",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt",
+        "pdfPage": 71,
+        "description": "Left",
+        "catalogNumber": "S210AFL",
+        "existingSystem": "conmed/hip-arthroscopy-shutt-series-210-manual-instruments",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt",
+        "pdfPage": 71,
+        "description": "Right",
+        "catalogNumber": "S210AFR",
+        "existingSystem": "conmed/hip-arthroscopy-shutt-series-210-manual-instruments",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt",
+        "pdfPage": 73,
+        "description": "Straight",
+        "catalogNumber": "16.1018",
+        "existingSystem": "conmed/shoulder-arthroscopy-suture-passing",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt",
+        "pdfPage": 73,
+        "description": "Series 210®",
+        "catalogNumber": "S210SRF",
+        "existingSystem": "conmed/hip-arthroscopy-shutt-series-210-manual-instruments",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt",
+        "pdfPage": 74,
+        "description": "Straight",
+        "catalogNumber": "2.10011",
+        "existingSystem": "conmed/shoulder-arthroscopy-suture-passing",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt",
+        "pdfPage": 74,
+        "description": "Series 210®",
+        "catalogNumber": "S210MSC",
+        "existingSystem": "conmed/hip-arthroscopy-shutt-series-210-manual-instruments",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt",
+        "pdfPage": 74,
+        "description": "Straight, w/Ratchet",
+        "catalogNumber": "11.1001",
+        "existingSystem": "conmed/shoulder-arthroscopy-suture-passing",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt",
+        "pdfPage": 74,
+        "description": "Series 210",
+        "catalogNumber": "S210GSP",
+        "existingSystem": "conmed/hip-arthroscopy-shutt-series-210-manual-instruments",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-instrument-sets",
+        "pdfPage": 75,
+        "description": "SST Forceps, Blunt Tip, Straight",
+        "catalogNumber": "2.1039",
+        "existingSystem": "conmed/arthroscopy-manual-instruments-shutt",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-instrument-sets",
+        "pdfPage": 75,
+        "description": "Micro-Scissors, Straight",
+        "catalogNumber": "2.10011",
+        "existingSystem": "conmed/shoulder-arthroscopy-suture-passing",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-instrument-sets",
+        "pdfPage": 75,
+        "description": "B-Scoop Forceps, Straight",
+        "catalogNumber": "1.1002",
+        "existingSystem": "conmed/arthroscopy-manual-instruments-shutt",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-instrument-sets",
+        "pdfPage": 75,
+        "description": "SST Forceps, Blunt Tip, Straight",
+        "catalogNumber": "1.1039",
+        "existingSystem": "conmed/arthroscopy-manual-instruments-shutt",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-instrument-sets",
+        "pdfPage": 75,
+        "description": "Mini-Aggressor Forceps, Straight",
+        "catalogNumber": "31.10033",
+        "existingSystem": "conmed/arthroscopy-manual-instruments-shutt",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-instrument-sets",
+        "pdfPage": 75,
+        "description": "Aggressor Forceps, 15° Up",
+        "catalogNumber": "31.16334",
+        "existingSystem": "conmed/arthroscopy-manual-instruments-shutt",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-instrument-sets",
+        "pdfPage": 75,
+        "description": "Aggressor Forceps, 15° Right",
+        "catalogNumber": "31.16235",
+        "existingSystem": "conmed/arthroscopy-manual-instruments-shutt",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-instrument-sets",
+        "pdfPage": 75,
+        "description": "Aggressor Forceps, 15° Left",
+        "catalogNumber": "31.16136",
+        "existingSystem": "conmed/arthroscopy-manual-instruments-shutt",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-instrument-sets",
+        "pdfPage": 75,
+        "description": "Retrograde Forceps, Straight, Left Bite",
+        "catalogNumber": "C3007.0",
+        "existingSystem": "conmed/arthroscopy-manual-instruments-shutt",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-instrument-sets",
+        "pdfPage": 75,
+        "description": "Retrograde Forceps, 15° Up, Right Bite",
+        "catalogNumber": "C3007.2",
+        "existingSystem": "conmed/arthroscopy-manual-instruments-shutt",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-instrument-sets",
+        "pdfPage": 75,
+        "description": "Alligator Grasper, Straight",
+        "catalogNumber": "18.1002",
+        "existingSystem": "conmed/arthroscopy-manual-instruments-shutt",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-instrument-sets",
+        "pdfPage": 75,
+        "description": "Mini-Tip Forceps, Straight",
+        "catalogNumber": "2.1003",
+        "existingSystem": "conmed/arthroscopy-manual-instruments-shutt",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-instrument-sets",
+        "pdfPage": 75,
+        "description": "Mini-Tip Forceps, 15° Up",
+        "catalogNumber": "2.1633",
+        "existingSystem": "conmed/arthroscopy-manual-instruments-shutt",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-instrument-sets",
+        "pdfPage": 75,
+        "description": "Mini-Aggressor Forceps, 15° Up",
+        "catalogNumber": "32.16334",
+        "existingSystem": "conmed/arthroscopy-manual-instruments-shutt",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-instrument-sets",
+        "pdfPage": 75,
+        "description": "45° Forceps, Blunt Tip, Right",
+        "catalogNumber": "31.10013",
+        "existingSystem": "conmed/arthroscopy-manual-instruments-shutt",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-instrument-sets",
+        "pdfPage": 75,
+        "description": "Aggressor Forceps, Straight",
+        "catalogNumber": "31.10034",
+        "existingSystem": "conmed/arthroscopy-manual-instruments-shutt",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-instrument-sets",
+        "pdfPage": 75,
+        "description": "90° Rotary Forceps, Square Tip, Blunt, Right",
+        "catalogNumber": "41.1001",
+        "existingSystem": "conmed/arthroscopy-manual-instruments-shutt",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-instrument-sets",
+        "pdfPage": 75,
+        "description": "90° Rotary Forceps, Square Tip, Blunt, Left",
+        "catalogNumber": "41.1002",
+        "existingSystem": "conmed/arthroscopy-manual-instruments-shutt",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-instrument-sets",
+        "pdfPage": 75,
+        "description": "Alligator Grasper, Straight",
+        "catalogNumber": "11.1002",
+        "existingSystem": "conmed/arthroscopy-manual-instruments-shutt",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-instrument-sets",
+        "pdfPage": 75,
+        "description": "Retrograde Forceps, Straight, Right Bite",
+        "catalogNumber": "C3007.1",
+        "existingSystem": "conmed/arthroscopy-manual-instruments-shutt",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-master-arthroscopy-shoulder-instrument-set",
+        "pdfPage": 83,
+        "description": "Straight, 3.5mm dia., 138mm",
+        "catalogNumber": "GU1004",
+        "existingSystem": "conmed/shoulder-arthroscopy-master-arthroscopy-shoulder-instrument-set",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-master-arthroscopy-shoulder-instrument-set",
+        "pdfPage": 83,
+        "description": "35° Up, 3.5mm dia., 138mm",
+        "catalogNumber": "GU1008",
+        "existingSystem": "conmed/shoulder-arthroscopy-master-arthroscopy-shoulder-instrument-set",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-master-arthroscopy-shoulder-instrument-set",
+        "pdfPage": 83,
+        "description": "Straight, 3.5mm dia., 138mm",
+        "catalogNumber": "GU1003",
+        "existingSystem": "conmed/shoulder-arthroscopy-master-arthroscopy-shoulder-instrument-set",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-master-arthroscopy-shoulder-instrument-set",
+        "pdfPage": 83,
+        "description": "Straight, 3.4mm dia., 136mm",
+        "catalogNumber": "GU1005",
+        "existingSystem": "conmed/shoulder-arthroscopy-suture-passing",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-master-arthroscopy-shoulder-instrument-set",
+        "pdfPage": 83,
+        "description": "Straight, 3.5mm dia., 142mm",
+        "catalogNumber": "GU1002",
+        "existingSystem": "conmed/shoulder-arthroscopy-master-arthroscopy-shoulder-instrument-set",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-master-arthroscopy-shoulder-instrument-set",
+        "pdfPage": 83,
+        "description": "Ring Handled Knot Pusher",
+        "catalogNumber": "C6112",
+        "existingSystem": "conmed/shoulder-arthroscopy-rotator-cuff-repair",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-master-arthroscopy-shoulder-instrument-set",
+        "pdfPage": 83,
+        "description": "Switching Stick",
+        "catalogNumber": "2220",
+        "existingSystem": "conmed/shoulder-arthroscopy-suture-passing",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-master-arthroscopy-shoulder-instrument-set",
+        "pdfPage": 83,
+        "description": "Instrument Tray",
+        "catalogNumber": "MT1006",
+        "existingSystem": "conmed/shoulder-arthroscopy-master-arthroscopy-shoulder-instrument-set",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint",
+        "pdfPage": 84,
+        "description": "Straight",
+        "catalogNumber": "15.6001",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint",
+        "pdfPage": 84,
+        "description": "Straight",
+        "catalogNumber": "17.6001",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint",
+        "pdfPage": 84,
+        "description": "Straight",
+        "catalogNumber": "15.7001",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint",
+        "pdfPage": 84,
+        "description": "Straight",
+        "catalogNumber": "17.7001",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint",
+        "pdfPage": 84,
+        "description": "Straight",
+        "catalogNumber": "15.6004",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint",
+        "pdfPage": 84,
+        "description": "Straight",
+        "catalogNumber": "17.6004",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint",
+        "pdfPage": 84,
+        "description": "Straight",
+        "catalogNumber": "17.7004",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint",
+        "pdfPage": 84,
+        "description": "Straight",
+        "catalogNumber": "5.6009",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint",
+        "pdfPage": 84,
+        "description": "15° Down",
+        "catalogNumber": "5.60013",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint",
+        "pdfPage": 84,
+        "description": "15° Up",
+        "catalogNumber": "5.60014",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint",
+        "pdfPage": 84,
+        "description": "Straight",
+        "catalogNumber": "2.6009",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint",
+        "pdfPage": 84,
+        "description": "15° Down",
+        "catalogNumber": "2.60013",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint",
+        "pdfPage": 84,
+        "description": "Straight",
+        "catalogNumber": "5.7009",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint",
+        "pdfPage": 84,
+        "description": "Straight",
+        "catalogNumber": "2.7009",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint",
+        "pdfPage": 84,
+        "description": "Straight",
+        "catalogNumber": "5.6004",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint",
+        "pdfPage": 84,
+        "description": "15° Up",
+        "catalogNumber": "5.60016",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint",
+        "pdfPage": 84,
+        "description": "15° Down",
+        "catalogNumber": "2.60015",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint",
+        "pdfPage": 84,
+        "description": "Straight",
+        "catalogNumber": "2.7004",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint",
+        "pdfPage": 84,
+        "description": "15° Down",
+        "catalogNumber": "2.70015",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "Blunt Tip, Right",
+        "catalogNumber": "35.60013",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "Blunt Tip, Left",
+        "catalogNumber": "35.60014",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "Blunt Tip, Right",
+        "catalogNumber": "32.60013",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "Blunt Tip, Left",
+        "catalogNumber": "32.60014",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "Blunt Tip, Right",
+        "catalogNumber": "35.70013",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "Blunt Tip, Left",
+        "catalogNumber": "35.70014",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "SST Blunt Tip Forceps, 15° Down",
+        "catalogNumber": "2.60013",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "SST Scoop Tip Forceps, Straight",
+        "catalogNumber": "2.7004",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "Banana Blade Knife (4 per Box, Sterile)",
+        "catalogNumber": "9973",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "Retrograde Blade Knife (4 per Box, Sterile)",
+        "catalogNumber": "9974",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "Standard Grasper, Straight",
+        "catalogNumber": "17.6001",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "Mosquito Tip Grasper, Straight",
+        "catalogNumber": "17.6004",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "SST Blunt Tip Forceps, Straight",
+        "catalogNumber": "2.6009",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "SST Scoop Tip Forceps, 15° Down",
+        "catalogNumber": "2.60015",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "Standard Grasper, Straight",
+        "catalogNumber": "17.7001",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "Mosquito Tip Grasper, Straight",
+        "catalogNumber": "17.7004",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "SST Blunt Tip Forceps, Straight",
+        "catalogNumber": "2.7009",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "SST Scoop Tip Forceps, 15° Down",
+        "catalogNumber": "2.70015",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-forceps-and-graspers",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "Probe, 70° Tip",
+        "catalogNumber": "26.3003",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "Instrument Stabilizer Ball",
+        "catalogNumber": "326.000",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "Open Curette",
+        "catalogNumber": "22.6005",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "Dissector",
+        "catalogNumber": "22.6008",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "Probe, 70° Tip",
+        "catalogNumber": "26.7003",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "Open Curette",
+        "catalogNumber": "22.7005",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "Dissector",
+        "catalogNumber": "22.7008",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-shutt-small-joint-sets",
+        "pdfPage": 85,
+        "description": "Instrument Case 9.25\"W x 5.25\"H x 9\"D (Accommodates Up to Ten Shutt Small Joint Instruments) Includes Accessory Tray",
+        "catalogNumber": "9896",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-accessories",
+        "pdfPage": 86,
+        "description": "4.0mm dia. Tip, Maxi-Probe, Straight, Green Handle",
+        "catalogNumber": "21.1002",
+        "existingSystem": "conmed/knee-arthroscopy-cruciate-reconstruction-accessories",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-accessories",
+        "pdfPage": 86,
+        "description": "3.5mm dia. Tip, Mini-Probe, Straight, Blue Handle",
+        "catalogNumber": "21.1001",
+        "existingSystem": "conmed/shoulder-arthroscopy-suture-passing",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-accessories",
+        "pdfPage": 86,
+        "description": "65mm Small Joint Probe, 70° Tip",
+        "catalogNumber": "26.3003",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-accessories",
+        "pdfPage": 86,
+        "description": "90mm Small Joint Probe, 70° Tip",
+        "catalogNumber": "26.7003",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-accessories",
+        "pdfPage": 86,
+        "description": "90mm Small Joint Probe, 30° Tip",
+        "catalogNumber": "26.7103",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-probes-curettes-and-dissectors",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-accessories",
+        "pdfPage": 86,
+        "description": "Instrument Stabilizer Ball",
+        "catalogNumber": "326.000",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-accessories",
+        "pdfPage": 86,
+        "description": "Curette/Dissector",
+        "catalogNumber": "26.3006",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-probes-curettes-and-dissectors",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-accessories",
+        "pdfPage": 86,
+        "description": "Open Curette",
+        "catalogNumber": "22.6005",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-accessories",
+        "pdfPage": 86,
+        "description": "Dissector",
+        "catalogNumber": "22.6008",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-accessories",
+        "pdfPage": 86,
+        "description": "Open Curette",
+        "catalogNumber": "22.7005",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-manual-instruments-accessories",
+        "pdfPage": 86,
+        "description": "Dissector",
+        "catalogNumber": "22.7008",
+        "existingSystem": "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "4.2mm HPS UltraFRR ®",
+        "catalogNumber": "HDPS-C010",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "4.2mm HPS UltraGator ®",
+        "catalogNumber": "HDPS-C002",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "4.2mm HPS Great White ®, Prebent Convex",
+        "catalogNumber": "HPS-CB01",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "4.2mm HPS Great White, Prebent Concave",
+        "catalogNumber": "HPS-CB02",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "4.2mm HPS FRR, Prebent Convex",
+        "catalogNumber": "HPS-CB03",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "4.2mm HPS FRR, Prebent Concave",
+        "catalogNumber": "HPS-CB04",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "4.2mm HPS Gator®, Prebent Convex",
+        "catalogNumber": "HPS-CB05",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "4.2mm HPS Gator, Prebent Concave",
+        "catalogNumber": "HPS-CB06",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "4.2mm HPS Ultracut®, Prebent Convex",
+        "catalogNumber": "HPS-CB07",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "4.2mm HPS Ultracut, Prebent Concave",
+        "catalogNumber": "HPS-CB08",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "4.5mm EL Hip Prebent Spherical Bur",
+        "catalogNumber": "HPS-HB01",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "4.5mm EL Hip Prebent Polishing Bur",
+        "catalogNumber": "HPS-HB02",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "4.0mm EL Hip Prebent Oval Bur",
+        "catalogNumber": "HPS-HB03",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "5.5mm EL Hip Prebent Spherical Bur",
+        "catalogNumber": "HPS-HB11",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "5.5mm EL Hip Prebent Polishing Bur",
+        "catalogNumber": "HPS-HB12",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "6.0mm EL Hip Prebent Oval Bur",
+        "catalogNumber": "HPS-HB13",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "4.2mm HPS Great White, Sterling",
+        "catalogNumber": "HPS-C001",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "4.2mm HPS Gator, Sterling",
+        "catalogNumber": "HPS-C002",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "4.2mm HPS FRR, Sterling",
+        "catalogNumber": "HPS-C003",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "4.2mm HPS Ultracut, Sterling",
+        "catalogNumber": "HPS-C004",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "4.5mm HPS Spherical Bur",
+        "catalogNumber": "HPS-H001",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "4.0mm HPS Oval Bur",
+        "catalogNumber": "HPS-H002",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "4.0mm HPS Pear Bur",
+        "catalogNumber": "HPS-H003",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "4.5mm HPS Polishing Bur",
+        "catalogNumber": "HPS-H004",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "4.5mm HPS Vortex® Bur",
+        "catalogNumber": "HPS-H005",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "5.5mm HPS Spherical Bur",
+        "catalogNumber": "HPS-H011",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "6.0mm HPS Oval Bur",
+        "catalogNumber": "HPS-H012",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "6.0mm HPS Pear Bur",
+        "catalogNumber": "HPS-H013",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "5.5mm HPS Polishing Bur",
+        "catalogNumber": "HPS-H014",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 91,
+        "description": "6.0mm HPS Vortex Bur",
+        "catalogNumber": "HPS-H015",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 92,
+        "description": "4.0/4.5mm EL Bur Sheath",
+        "catalogNumber": "HPS-S001",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 92,
+        "description": "5.5/6.0mm EL Bur Sheath",
+        "catalogNumber": "HPS-S011",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 92,
+        "description": "4.2mm, Sterling, Shaver, Ultracut",
+        "catalogNumber": "EL9405",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 92,
+        "description": "4.2mm, Merlin, Shaver, Cuda ®, Bendable to 30°",
+        "catalogNumber": "EL9356",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 92,
+        "description": "4.0mm, Sterling, Bur, Oval",
+        "catalogNumber": "EL9101",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 92,
+        "description": "6.0mm, Sterling, Bur, Oval, 20° Reduced Hood",
+        "catalogNumber": "60VAL-EL-RH",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 92,
+        "description": "4.2mm, Sterling, Shaver, Great White",
+        "catalogNumber": "EL9299",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 92,
+        "description": "4.2mm, Sterling, Shaver, Great White, Pre-Bent 15°, Convex",
+        "catalogNumber": "EL9299D",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 92,
+        "description": "4.2mm, Sterling, Shaver, Great White, Pre-Bent 15°, Concave",
+        "catalogNumber": "EL9299U",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 92,
+        "description": "4.2mm, Sterling, Shaver, Gator",
+        "catalogNumber": "EL9263A",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 92,
+        "description": "5.5mm, Sterling, Shaver, Gator",
+        "catalogNumber": "EL9260A",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 92,
+        "description": "4.2mm, Sterling, Shaver, Full-Radius Resector, Pre-Bent 15°, Convex",
+        "catalogNumber": "EL9247D",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 92,
+        "description": "4.2mm, Sterling, Shaver, Full-Radius Resector, Pre-Bent 15°, Concave",
+        "catalogNumber": "EL9247U",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 92,
+        "description": "4.5mm, Sterling, Bur, Spherical, 20° Reduced Hood",
+        "catalogNumber": "EL9111RH",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-hip-blades-and-burs",
+        "pdfPage": 92,
+        "description": "5.5mm, Sterling, Bur, Spherical, 20° Reduced Hood",
+        "catalogNumber": "55SPH-EL-RH",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-large-hub-shaver-blades",
+        "pdfPage": 94,
+        "description": "4.2mm, Large Hub, Merlin, Shaver, Great White, Pre-Bent 15°, Concave",
+        "catalogNumber": "EL9299U",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true,
+        "printedCatalogNumber": "EL9299U*"
+      },
+      {
+        "system": "arthroscopy-resection-large-hub-shaver-blades",
+        "pdfPage": 94,
+        "description": "4.2mm, Large Hub, Merlin, Shaver, Great White, Pre-Bent 15°, Convex",
+        "catalogNumber": "EL9299D",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true,
+        "printedCatalogNumber": "EL9299D**"
+      },
+      {
+        "system": "arthroscopy-resection-large-hub-shaver-blades",
+        "pdfPage": 94,
+        "description": "4.2mm, Large Hub, Merlin, Shaver, Great White",
+        "catalogNumber": "EL9299",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-large-hub-shaver-blades",
+        "pdfPage": 94,
+        "description": "4.2mm, Large Hub, Sterling, Shaver, Ultracut",
+        "catalogNumber": "EL9405",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-large-hub-shaver-blades",
+        "pdfPage": 95,
+        "description": "4.2mm, Large Hub, Merlin, Shaver, Full-Radius Resector Pre-Bent to 15°, Convex",
+        "catalogNumber": "EL9247D",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-large-hub-shaver-blades",
+        "pdfPage": 95,
+        "description": "4.2mm, Large Hub, Merlin, Shaver, Full-Radius Resector Pre-Bent to 15°, Concave",
+        "catalogNumber": "EL9247U",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-large-hub-shaver-blades",
+        "pdfPage": 96,
+        "description": "4.2mm, Large Hub, Sterling, Shaver, Gator",
+        "catalogNumber": "EL9263A",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-large-hub-shaver-blades",
+        "pdfPage": 96,
+        "description": "5.5mm, Large Hub, Sterling, Shaver, Gator",
+        "catalogNumber": "EL9260A",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-large-hub-shaver-blades",
+        "pdfPage": 97,
+        "description": "4.2mm, Large Hub, Merlin, Shaver, Cuda Bendable to 30° max",
+        "catalogNumber": "EL9356",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-large-hub-burs-and-routers",
+        "pdfPage": 99,
+        "description": "4.5mm, Large Hub, Sterling, Bur, Spherical, 20° Reduced Hood",
+        "catalogNumber": "EL9111RH",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-large-hub-burs-and-routers",
+        "pdfPage": 99,
+        "description": "5.5mm, Large Hub, Sterling, Bur, Spherical 20° Reduced Hood",
+        "catalogNumber": "55SPH-EL-RH",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-resection-large-hub-burs-and-routers",
+        "pdfPage": 99,
+        "description": "4.0mm, Large Hub, Sterling, Bur, Oval",
+        "catalogNumber": "EL9101",
+        "existingSystem": "conmed/hip-arthroscopy-hip-blades-and-burs",
+        "withinThisPdf": true
+      },
+      {
+        "system": "arthroscopy-electrosurgery-lightwave-ablators",
+        "pdfPage": 112,
+        "description": "4.0mm dia. x 165mm Length, 90° Angle, Suction",
+        "catalogNumber": "EL-2000-S",
+        "existingSystem": "conmed/hip-arthroscopy-suction-ablator-and-tray",
+        "withinThisPdf": true
+      }
+    ],
+    "duplicateRows": [
+      {
+        "system": "shoulder-arthroscopy-rotator-cuff-repair",
+        "pdfPage": 12,
+        "description": "In-line Drill Guide (can be used with 4.0mm, 4.75mm, and 5.5mm drill bits)",
+        "catalogNumber": "Y-DGRCA"
+      },
+      {
+        "system": "shoulder-arthroscopy-rotator-cuff-repair",
+        "pdfPage": 12,
+        "description": "In-line Drill Guide Obturator",
+        "catalogNumber": "Y-OBRC"
+      },
+      {
+        "system": "shoulder-arthroscopy-rotator-cuff-repair",
+        "pdfPage": 13,
+        "description": "4.0mm disposable, sterile drill bit",
+        "catalogNumber": "CFK-40D"
+      },
+      {
+        "system": "shoulder-arthroscopy-rotator-cuff-repair",
+        "pdfPage": 13,
+        "description": "4.75mm/5.5mm disposable, sterile punch",
+        "catalogNumber": "CFK-DBP4755"
+      },
+      {
+        "system": "shoulder-arthroscopy-rotator-cuff-repair",
+        "pdfPage": 13,
+        "description": "4.75mm reusable, non-sterile punch",
+        "catalogNumber": "CFK-BP475"
+      },
+      {
+        "system": "shoulder-arthroscopy-rotator-cuff-repair",
+        "pdfPage": 13,
+        "description": "4.75mm disposable, sterile drill bit",
+        "catalogNumber": "CFK-475D"
+      },
+      {
+        "system": "shoulder-arthroscopy-rotator-cuff-repair",
+        "pdfPage": 13,
+        "description": "5.5mm reusable, non-sterile punch",
+        "catalogNumber": "CFK-BP55"
+      },
+      {
+        "system": "shoulder-arthroscopy-rotator-cuff-repair",
+        "pdfPage": 13,
+        "description": "5.5mm disposable, sterile drill bit",
+        "catalogNumber": "CFK-55D"
+      },
+      {
+        "system": "shoulder-arthroscopy-rotator-cuff-repair",
+        "pdfPage": 13,
+        "description": "In-line Drill Guide (can be used with 4.0mm, 4.75mm, and 5.5mm drill bits)",
+        "catalogNumber": "Y-DGRCA"
+      },
+      {
+        "system": "shoulder-arthroscopy-rotator-cuff-repair",
+        "pdfPage": 13,
+        "description": "In-line Drill Guide Obturator",
+        "catalogNumber": "Y-OBRC"
+      },
+      {
+        "system": "shoulder-arthroscopy-instability-repair",
+        "pdfPage": 17,
+        "description": "Instrument Tray",
+        "catalogNumber": "C6178"
+      },
+      {
+        "system": "knee-arthroscopy-bioabsorbable-interference-screws",
+        "pdfPage": 32,
+        "description": "Fixed Tri-Lobe Driver for 7.0 – 11.0mm Interference Screws",
+        "catalogNumber": "DFS70"
+      },
+      {
+        "system": "knee-arthroscopy-bioabsorbable-interference-screws",
+        "pdfPage": 32,
+        "description": "Short Modular Tri-Lobe Driver for 7.0 – 11.0mm Interference Screws",
+        "catalogNumber": "DMS70"
+      },
+      {
+        "system": "knee-arthroscopy-bioabsorbable-interference-screws",
+        "pdfPage": 32,
+        "description": "Extended Length Modular Tri-Lobe Driver for 7.0 – 11.0mm Interference Screws",
+        "catalogNumber": "C8716"
+      },
+      {
+        "system": "knee-arthroscopy-bioabsorbable-interference-screws",
+        "pdfPage": 32,
+        "description": "Universal Driver, Modular Ratcheting Handle",
+        "catalogNumber": "D8640"
+      },
+      {
+        "system": "arthroscopy-manual-instruments-concept",
+        "pdfPage": 78,
+        "description": "1.3mm Tip, Straight",
+        "catalogNumber": "C6858"
+      },
+      {
+        "system": "arthroscopy-manual-instruments-concept",
+        "pdfPage": 78,
+        "description": "Narrow, Straight",
+        "catalogNumber": "C6806"
+      },
+      {
+        "system": "arthroscopy-manual-instruments-concept",
+        "pdfPage": 78,
+        "description": "15° Up",
+        "catalogNumber": "C6859"
+      },
+      {
+        "system": "arthroscopy-manual-instruments-concept",
+        "pdfPage": 78,
+        "description": "15° Up",
+        "catalogNumber": "C6860"
+      },
+      {
+        "system": "arthroscopy-manual-instruments-concept",
+        "pdfPage": 82,
+        "description": "Linear Wide Bite Up 15° Curved Left Punch",
+        "catalogNumber": "C6804"
+      },
+      {
+        "system": "arthroscopy-manual-instruments-concept",
+        "pdfPage": 82,
+        "description": "Linear Wide Bite Up 15° Curved Right Punch",
+        "catalogNumber": "C6805"
+      },
+      {
+        "system": "arthroscopy-manual-instruments-concept",
+        "pdfPage": 82,
+        "description": "Linear Scissor Straight Punch",
+        "catalogNumber": "C6809"
+      },
+      {
+        "system": "arthroscopy-manual-instruments-concept",
+        "pdfPage": 82,
+        "description": "Linear Large Body Grasper",
+        "catalogNumber": "C6812"
+      },
+      {
+        "system": "arthroscopy-manual-instruments-concept",
+        "pdfPage": 82,
+        "description": "Rotary 90° Left Punch",
+        "catalogNumber": "C6850"
+      },
+      {
+        "system": "arthroscopy-manual-instruments-concept",
+        "pdfPage": 82,
+        "description": "Rotary 90° Right Punch",
+        "catalogNumber": "C6851"
+      },
+      {
+        "system": "arthroscopy-manual-instruments-concept",
+        "pdfPage": 82,
+        "description": "Linear Wide Bite Up 15° Punch",
+        "catalogNumber": "C6856"
+      },
+      {
+        "system": "arthroscopy-manual-instruments-concept",
+        "pdfPage": 82,
+        "description": "Linear Wide Bite Up 15° Upswept Punch",
+        "catalogNumber": "C6857"
+      },
+      {
+        "system": "arthroscopy-manual-instruments-concept",
+        "pdfPage": 82,
+        "description": "Linear 1.3mm Straight Punch",
+        "catalogNumber": "C6858"
+      },
+      {
+        "system": "arthroscopy-manual-instruments-concept",
+        "pdfPage": 82,
+        "description": "Linear 1.3mm 15° Punch",
+        "catalogNumber": "C6859"
+      },
+      {
+        "system": "arthroscopy-manual-instruments-concept",
+        "pdfPage": 82,
+        "description": "Linear Wide Bite Oblique 25° Left Punch",
+        "catalogNumber": "C6868"
+      },
+      {
+        "system": "arthroscopy-manual-instruments-concept",
+        "pdfPage": 82,
+        "description": "Linear Wide Bite Oblique 25° Right Punch",
+        "catalogNumber": "C6869"
+      }
+    ],
+    "omittedDuplicateSystems": [
+      {
+        "name": {
+          "en": "Positioning Devices",
+          "ru": "Устройства для позиционирования"
+        },
+        "sourcePages": [
+          50
+        ],
+        "related": [
+          "conmed/shoulder-arthroscopy-positioning-devices"
+        ],
+        "reason": "All catalog numbers already imported; duplicate page not created"
+      },
+      {
+        "name": {
+          "en": "MASTER Arthroscopy Shoulder Instrument Set",
+          "ru": "Набор артроскопических инструментов MASTER для плечевого сустава"
+        },
+        "sourcePages": [
+          83
+        ],
+        "related": [
+          "conmed/shoulder-arthroscopy-master-arthroscopy-shoulder-instrument-set",
+          "conmed/shoulder-arthroscopy-suture-passing",
+          "conmed/shoulder-arthroscopy-rotator-cuff-repair"
+        ],
+        "reason": "All catalog numbers already imported; duplicate page not created"
+      },
+      {
+        "name": {
+          "en": "Hip Blades and Burs",
+          "ru": "Шейверные насадки и боры для тазобедренного сустава"
+        },
+        "sourcePages": [
+          91,
+          92
+        ],
+        "related": [
+          "conmed/hip-arthroscopy-hip-blades-and-burs"
+        ],
+        "reason": "All catalog numbers already imported; duplicate page not created"
+      },
+      {
+        "name": {
+          "en": "Shutt Small Joint Sets",
+          "ru": "Наборы Shutt для мелких суставов"
+        },
+        "sourcePages": [
+          85
+        ],
+        "related": [
+          "conmed/small-joint-arthroscopy-small-joint-instrument-sets-and-case"
+        ],
+        "reason": "Repeated Shutt small-joint set page merged into the original family; its additional 35.60017 row is retained"
+      }
+    ],
+    "officialEditionExclusions": []
+  },
+  "sourceTranscription": "Provided PDF is the inventory. Official edition is corroboration only; unmatched official items are excluded and retained in the evidence report.",
+  "imageQualityReview": "All image contact sheets visually reviewed; enclosed white background cleaned on six wire/handle images; originals and exact 2x images retained.",
+  "validation": {
+    "build": "passed; 102 published systems generated, drafts excluded",
+    "tests": {
+      "javascript": 46,
+      "python": 19,
+      "total": 65,
+      "failed": 0,
+      "skipped": 0
+    },
+    "browser": "Sampled RU/EN desktop/mobile product page, row search and selection, source-page review and coordinates checked"
+  },
+  "sourceCatalogCorrections": [
+    {
+      "id": "p16-blue-suture",
+      "pdfPage": 16,
+      "printedCodes": [
+        "Y1802"
+      ],
+      "correctedCodes": [
+        "Y1802A"
+      ],
+      "internalNote": "p.16 Y1802 → Y1802A (blue suture), confirm with XPMED sales",
+      "verificationStatus": "confirmed in CONMED brochure",
+      "manufacturerUrl": "https://www.conmed.com/-/media/conmed/documents/literature/y-knotflex_productbrochure.ashx"
+    },
+    {
+      "id": "p94-missing-footnote",
+      "pdfPage": 94,
+      "printedCodes": [
+        "EL9299U*",
+        "EL9299D**"
+      ],
+      "correctedCodes": [
+        "EL9299U",
+        "EL9299D"
+      ],
+      "internalNote": "p.94 missing footnote: * / ** are footnote markers, not part of the catalog numbers. Add a legend for EL9299U (concave) and EL9299D (convex); no footnote was printed.",
+      "verificationStatus": "confirmed on conmed.com",
+      "manufacturerUrl": "https://www.conmed.com/en/products/resection-fluid-management-and-ablation/resection/conmed-arthroscopic-resection"
+    }
+  ]
+}

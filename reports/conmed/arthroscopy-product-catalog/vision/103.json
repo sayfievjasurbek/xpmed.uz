@@ -1,0 +1,652 @@
+[
+  {
+    "alternatives" : [
+      "XPmed"
+    ],
+    "bounds" : [
+      0.12198459379867345,
+      0.051694745183752278,
+      0.23646754240961854,
+      0.073305254965362665
+    ],
+    "confidence" : 1,
+    "text" : "XPmed"
+  },
+  {
+    "alternatives" : [
+      "CCONMED"
+    ],
+    "bounds" : [
+      0.29735234027687074,
+      0.046511628726733978,
+      0.49287169342985016,
+      0.075581394892452081
+    ],
+    "confidence" : 1,
+    "text" : "CCONMED"
+  },
+  {
+    "alternatives" : [
+      "Micro Hub Blades"
+    ],
+    "bounds" : [
+      0.59877800038911466,
+      0.050843254150940709,
+      0.90020366364347182,
+      0.072674418435298649
+    ],
+    "confidence" : 1,
+    "text" : "Micro Hub Blades"
+  },
+  {
+    "alternatives" : [
+      "For Use with the Following Handpieces:"
+    ],
+    "bounds" : [
+      0.099796346800525973,
+      0.1438492063932113,
+      0.40936863296865228,
+      0.15552325574794612
+    ],
+    "confidence" : 1,
+    "text" : "For Use with the Following Handpieces:"
+  },
+  {
+    "alternatives" : [
+      "MC9840"
+    ],
+    "bounds" : [
+      0.11199174705703752,
+      0.15692408747937225,
+      0.16092067768714444,
+      0.16865730816257596
+    ],
+    "confidence" : 1,
+    "text" : "MC9840"
+  },
+  {
+    "alternatives" : [
+      "Cuda® Blade"
+    ],
+    "bounds" : [
+      0.099796333768781609,
+      0.19469246029585818,
+      0.19755601034527132,
+      0.20494186024549199
+    ],
+    "confidence" : 1,
+    "text" : "Cuda® Blade"
+  },
+  {
+    "alternatives" : [
+      "Cat. No."
+    ],
+    "bounds" : [
+      0.51929574688832481,
+      0.21642411236406423,
+      0.56624396891469875,
+      0.22543635263010731
+    ],
+    "confidence" : 1,
+    "text" : "Cat. No."
+  },
+  {
+    "alternatives" : [
+      "Sterling®"
+    ],
+    "bounds" : [
+      0.099796334514426308,
+      0.23401162821017651,
+      0.14663951176866938,
+      0.24418604646278852
+    ],
+    "confidence" : 1,
+    "text" : "Sterling®"
+  },
+  {
+    "alternatives" : [
+      "5,000rpm Max., 6 per Box"
+    ],
+    "bounds" : [
+      0.097759676593124359,
+      0.24553571411413944,
+      0.24847249760918394,
+      0.2572674418429074
+    ],
+    "confidence" : 1,
+    "text" : "5,000rpm Max., 6 per Box"
+  },
+  {
+    "alternatives" : [
+      "2.0mm, Micro Hub, Sterling®, Blade, Cuda, 7.6cm Working Length...."
+    ],
+    "bounds" : [
+      0.097759682365468781,
+      0.26308139541484454,
+      0.45417515639895711,
+      0.27480158727958481
+    ],
+    "confidence" : 1,
+    "text" : "2.0mm, Micro Hub, Sterling®, Blade, Cuda, 7.6cm Working Length...."
+  },
+  {
+    "alternatives" : [
+      "2.9mm, Micro Hub, Sterling, Blade, Cuda, 7.6cm Working Length.."
+    ],
+    "bounds" : [
+      0.099796348705143381,
+      0.27901785715163607,
+      0.44195519019505991,
+      0.28924418584626732
+    ],
+    "confidence" : 1,
+    "text" : "2.9mm, Micro Hub, Sterling, Blade, Cuda, 7.6cm Working Length.."
+  },
+  {
+    "alternatives" : [
+      "3.5mm, Micro Hub, Sterling, Blade, Cuda, 7.6cm Working Length."
+    ],
+    "bounds" : [
+      0.099796346596519966,
+      0.29360465118034851,
+      0.43991853235799427,
+      0.3053075397220999
+    ],
+    "confidence" : 1,
+    "text" : "3.5mm, Micro Hub, Sterling, Blade, Cuda, 7.6cm Working Length."
+  },
+  {
+    "alternatives" : [
+      "3.5mm, Micro Hub, Sterling, Blade, Cuda, 13.0cm Working Length"
+    ],
+    "bounds" : [
+      0.099796338768499901,
+      0.30952380961231962,
+      0.44399185720909662,
+      0.31976744162993964
+    ],
+    "confidence" : 1,
+    "text" : "3.5mm, Micro Hub, Sterling, Blade, Cuda, 13.0cm Working Length"
+  },
+  {
+    "alternatives" : [
+      "4.2mm, Micro Hub, Sterling, Blade, Cuda, 13.0cm Working Length.."
+    ],
+    "bounds" : [
+      0.097759687291248717,
+      0.32412790691457061,
+      0.45010182864561454,
+      0.33730158737142846
+    ],
+    "confidence" : 1,
+    "text" : "4.2mm, Micro Hub, Sterling, Blade, Cuda, 13.0cm Working Length.."
+  },
+  {
+    "alternatives" : [
+      "Merlin®"
+    ],
+    "bounds" : [
+      0.099796335033124392,
+      0.35319767442505068,
+      0.14460285125336572,
+      0.36337209267766246
+    ],
+    "confidence" : 1,
+    "text" : "Merlin®"
+  },
+  {
+    "alternatives" : [
+      "Bendable to 30° Max. 5,000rpm Max., 13.0cm Working Length, 6 per Box"
+    ],
+    "bounds" : [
+      0.099796333005656462,
+      0.36627906997879811,
+      0.51527495049739847,
+      0.37797619058853571
+    ],
+    "confidence" : 1,
+    "text" : "Bendable to 30° Max. 5,000rpm Max., 13.0cm Working Length, 6 per Box"
+  },
+  {
+    "alternatives" : [
+      "4.2mm, Micro Hub, Merlin, Blade, CudaMP9356"
+    ],
+    "bounds" : [
+      0.099796340543111109,
+      0.38368055552677549,
+      0.35234216020366399,
+      0.39534883694949652
+    ],
+    "confidence" : 1,
+    "text" : "4.2mm, Micro Hub, Merlin, Blade, CudaMP9356"
+  },
+  {
+    "alternatives" : [
+      "... 69950"
+    ],
+    "bounds" : [
+      0.51527494942645458,
+      0.26308139599590818,
+      0.56822810447714356,
+      0.27616279048664982
+    ],
+    "confidence" : 1,
+    "text" : "... 69950"
+  },
+  {
+    "alternatives" : [
+      ".... C9951"
+    ],
+    "bounds" : [
+      0.51527494969905629,
+      0.27901785721119743,
+      0.56619144371574337,
+      0.29069767449794615
+    ],
+    "confidence" : 1,
+    "text" : ".... C9951"
+  },
+  {
+    "alternatives" : [
+      "...C9952"
+    ],
+    "bounds" : [
+      0.51731161084976918,
+      0.29360465103399891,
+      0.56822810486645625,
+      0.30668604647084607
+    ],
+    "confidence" : 1,
+    "text" : "...C9952"
+  },
+  {
+    "alternatives" : [
+      "MC9253"
+    ],
+    "bounds" : [
+      0.51731161084976918,
+      0.30959302337127159,
+      0.56822810486645625,
+      0.3197674416238836
+    ],
+    "confidence" : 1,
+    "text" : "MC9253"
+  },
+  {
+    "alternatives" : [
+      ". MC9254"
+    ],
+    "bounds" : [
+      0.51505958603470525,
+      0.32360826434814516,
+      0.5684434676261626,
+      0.33627545622823507
+    ],
+    "confidence" : 1,
+    "text" : ". MC9254"
+  },
+  {
+    "alternatives" : [
+      "Cuda®"
+    ],
+    "bounds" : [
+      0.62932790254897963,
+      0.34011627940424893,
+      0.66802443831999536,
+      0.34883720906474336
+    ],
+    "confidence" : 1,
+    "text" : "Cuda®"
+  },
+  {
+    "alternatives" : [
+      "AlI-purpose aggressive blade. Ideal for extensive"
+    ],
+    "bounds" : [
+      0.62932790177879827,
+      0.35317460295035508,
+      0.87169042157490184,
+      0.36483134898210112
+    ],
+    "confidence" : 1,
+    "text" : "AlI-purpose aggressive blade. Ideal for extensive"
+  },
+  {
+    "alternatives" : [
+      "tissue removal."
+    ],
+    "bounds" : [
+      0.62932790489324608,
+      0.36627907005347371,
+      0.70875763746927944,
+      0.37500000018702084
+    ],
+    "confidence" : 1,
+    "text" : "tissue removal."
+  },
+  {
+    "alternatives" : [
+      "Dragon® End Cutter"
+    ],
+    "bounds" : [
+      0.099796337215605921,
+      0.49418604672265243,
+      0.25458248029966907,
+      0.50726744121339407
+    ],
+    "confidence" : 1,
+    "text" : "Dragon® End Cutter"
+  },
+  {
+    "alternatives" : [
+      "Sterliing°"
+    ],
+    "bounds" : [
+      0.099692551415991371,
+      0.51720660221759907,
+      0.15081661483618761,
+      0.52930502528986911
+    ],
+    "confidence" : 1,
+    "text" : "Sterliing°"
+  },
+  {
+    "alternatives" : [
+      "5,000rpm Max., 13.0cm Working Length, 6 per Box"
+    ],
+    "bounds" : [
+      0.09979633722052457,
+      0.53050595248429755,
+      0.39103870061043244,
+      0.5421626985160436
+    ],
+    "confidence" : 1,
+    "text" : "5,000rpm Max., 13.0cm Working Length, 6 per Box"
+  },
+  {
+    "alternatives" : [
+      "4.2mm, Micro Hub, Sterling, Blade, Dragon, End Cutter..."
+    ],
+    "bounds" : [
+      0.099796339320661925,
+      0.547867063484896,
+      0.39307535843901209,
+      0.55813953468953259
+    ],
+    "confidence" : 1,
+    "text" : "4.2mm, Micro Hub, Sterling, Blade, Dragon, End Cutter..."
+  },
+  {
+    "alternatives" : [
+      "5.5mm, Micro Hub, Sterling, Blade, Dragon, End Cutter."
+    ],
+    "bounds" : [
+      0.099796335323494065,
+      0.562499999872209,
+      0.38696536603427945,
+      0.57415674590395505
+    ],
+    "confidence" : 1,
+    "text" : "5.5mm, Micro Hub, Sterling, Blade, Dragon, End Cutter."
+  },
+  {
+    "alternatives" : [
+      "MC9291"
+    ],
+    "bounds" : [
+      0.51731160875811788,
+      0.54796511639452739,
+      0.56619144704636271,
+      0.55813953464713928
+    ],
+    "confidence" : 1,
+    "text" : "MC9291"
+  },
+  {
+    "alternatives" : [
+      "MC9292"
+    ],
+    "bounds" : [
+      0.51702452433847235,
+      0.5618256012854147,
+      0.56851519130757011,
+      0.57480230542118838
+    ],
+    "confidence" : 1,
+    "text" : "MC9292"
+  },
+  {
+    "alternatives" : [
+      "Dragon® End Cutter"
+    ],
+    "bounds" : [
+      0.63136456720378176,
+      0.61482558151686262,
+      0.74949083289805118,
+      0.62499999976947451
+    ],
+    "confidence" : 1,
+    "text" : "Dragon® End Cutter"
+  },
+  {
+    "alternatives" : [
+      "A multi-purpose blade thats ideal for tough tissue"
+    ],
+    "bounds" : [
+      0.62932790799049743,
+      0.62936046510961208,
+      0.88187372765105021,
+      0.64098837195434155
+    ],
+    "confidence" : 1,
+    "text" : "A multi-purpose blade thats ideal for tough tissue"
+  },
+  {
+    "alternatives" : [
+      "resections like meniscus tears."
+    ],
+    "bounds" : [
+      0.62932790543754269,
+      0.64236111103632476,
+      0.78615071486116717,
+      0.65261627891797258
+    ],
+    "confidence" : 1,
+    "text" : "resections like meniscus tears."
+  },
+  {
+    "alternatives" : [
+      "Slotted Whisker"
+    ],
+    "bounds" : [
+      0.099796333272234583,
+      0.71651785734510287,
+      0.226069243102511,
+      0.72819767415879888
+    ],
+    "confidence" : 1,
+    "text" : "Slotted Whisker"
+  },
+  {
+    "alternatives" : [
+      "Sterling®"
+    ],
+    "bounds" : [
+      0.099796334514426308,
+      0.74127907007064164,
+      0.14663951176866938,
+      0.75145348832325365
+    ],
+    "confidence" : 1,
+    "text" : "Sterling®"
+  },
+  {
+    "alternatives" : [
+      "5,000rpm Max., 6 per Box"
+    ],
+    "bounds" : [
+      0.097759679648114078,
+      0.7529069770039919,
+      0.2484725006641737,
+      0.76463293632769325
+    ],
+    "confidence" : 1,
+    "text" : "5,000rpm Max., 6 per Box"
+  },
+  {
+    "alternatives" : [
+      "2.9mm, Micro Hub, Sterling, Blade, Slotted Whisker,"
+    ],
+    "bounds" : [
+      0.099796338570038334,
+      0.77033730141128198,
+      0.37067210223104757,
+      0.78199404744302803
+    ],
+    "confidence" : 1,
+    "text" : "2.9mm, Micro Hub, Sterling, Blade, Slotted Whisker,"
+  },
+  {
+    "alternatives" : [
+      "7.6cm Working Length ...."
+    ],
+    "bounds" : [
+      0.11405295757835637,
+      0.78197674425205388,
+      0.24643584520507861,
+      0.7936507936067887
+    ],
+    "confidence" : 1,
+    "text" : "7.6cm Working Length ...."
+  },
+  {
+    "alternatives" : [
+      "4.2mm, Micro Hub, Sterling, Blade, Slotted Whisker,"
+    ],
+    "bounds" : [
+      0.099796334669154371,
+      0.8008432539686543,
+      0.36863544260172132,
+      0.81104651140828288
+    ],
+    "confidence" : 1,
+    "text" : "4.2mm, Micro Hub, Sterling, Blade, Slotted Whisker,"
+  },
+  {
+    "alternatives" : [
+      "13.0cm Working Length.."
+    ],
+    "bounds" : [
+      0.11405295465914402,
+      0.81249999987220889,
+      0.24643584228586624,
+      0.82415674590395493
+    ],
+    "confidence" : 1,
+    "text" : "13.0cm Working Length.."
+  },
+  {
+    "alternatives" : [
+      "...C9981"
+    ],
+    "bounds" : [
+      0.51934826861999317,
+      0.78343023281894597,
+      0.56619144587423631,
+      0.79360465107155798
+    ],
+    "confidence" : 1,
+    "text" : "...C9981"
+  },
+  {
+    "alternatives" : [
+      ".MC9274"
+    ],
+    "bounds" : [
+      0.51731161093463007,
+      0.81250000000786782,
+      0.56822810495131715,
+      0.82412790685259729
+    ],
+    "confidence" : 1,
+    "text" : ".MC9274"
+  },
+  {
+    "alternatives" : [
+      "Slotted Whisker"
+    ],
+    "bounds" : [
+      0.63136456211908709,
+      0.83854166670400443,
+      0.72912423869557674,
+      0.84747023813257583
+    ],
+    "confidence" : 1,
+    "text" : "Slotted Whisker"
+  },
+  {
+    "alternatives" : [
+      "Non-aggressive, for debridement of the fine synovium,"
+    ],
+    "bounds" : [
+      0.6293279118594749,
+      0.85168650773848587,
+      0.91649694257026026,
+      0.86337209295724848
+    ],
+    "confidence" : 1,
+    "text" : "Non-aggressive, for debridement of the fine synovium,"
+  },
+  {
+    "alternatives" : [
+      "fatty tissue and articulating surfaces."
+    ],
+    "bounds" : [
+      0.63136457063102946,
+      0.86482558155319988,
+      0.82484724683332866,
+      0.87499999980581178
+    ],
+    "confidence" : 1,
+    "text" : "fatty tissue and articulating surfaces."
+  },
+  {
+    "alternatives" : [
+      "Customer Service: (within U.S.) Phone: 800.237.0169 Fax 727.399.5256 Customer Service: (outside U.S.) Phone: 727.392.6464 Fax: 727.397.4540"
+    ],
+    "bounds" : [
+      0.05498982400067947,
+      0.96354166670400443,
+      0.5560081518649006,
+      0.97247023813257583
+    ],
+    "confidence" : 1,
+    "text" : "Customer Service: (within U.S.) Phone: 800.237.0169 Fax 727.399.5256 Customer Service: (outside U.S.) Phone: 727.392.6464 Fax: 727.397.4540"
+  },
+  {
+    "alternatives" : [
+      "All products may not be available in all markets."
+    ],
+    "bounds" : [
+      0.78615072017741883,
+      0.93303571423726472,
+      0.95723014092237713,
+      0.94196428566583612
+    ],
+    "confidence" : 1,
+    "text" : "All products may not be available in all markets."
+  },
+  {
+    "alternatives" : [
+      "RESECTION PRODUCTS, 101"
+    ],
+    "bounds" : [
+      0.81466395277953141,
+      0.96354166670400443,
+      0.95519348454226072,
+      0.97247023813257583
+    ],
+    "confidence" : 1,
+    "text" : "RESECTION PRODUCTS, 101"
+  }
+]

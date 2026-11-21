@@ -1,0 +1,123 @@
+{
+  "pdfPage": 88,
+  "officialPage": 114,
+  "alignment": [
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      0.0
+    ]
+  ],
+  "alignmentMatches": 0,
+  "alignmentInliers": 0,
+  "category": "arthroscopy-resection",
+  "title": {
+    "en": "Consoles",
+    "ru": "Консоли"
+  },
+  "groups": [
+    {
+      "title": "Consoles",
+      "page": 88,
+      "officialPage": 114,
+      "headingBounds": [
+        0.08,
+        0.12,
+        0.92,
+        0.15
+      ],
+      "rows": [
+        {
+          "description": "D4000 Console",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "D4000",
+              "sourceBounds": [
+                0.8452138507027614,
+                0.1584302326614847,
+                0.8981670057534503,
+                0.1686046509140966
+              ],
+              "officialCode": "D4000",
+              "officialBounds": [
+                533.4620361328125,
+                118.52992248535156,
+                556.4490356445312,
+                128.70892333984375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.15051744178779064,
+            0.9081670057534503,
+            0.17251744178779066
+          ],
+          "pdfPage": 88,
+          "officialPage": 114
+        },
+        {
+          "description": "D4000A Console with Irrigation Pump",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "D4000A",
+              "sourceBounds": [
+                0.8451576344548045,
+                0.2934731904521485,
+                0.8982232196164196,
+                0.30536401906161503
+              ],
+              "officialCode": "D4000A",
+              "officialBounds": [
+                528.8270263671875,
+                228.02992248535156,
+                556.4490356445312,
+                238.20892333984375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.28641860475688175,
+            0.9082232196164196,
+            0.30841860475688176
+          ],
+          "pdfPage": 88,
+          "officialPage": 114
+        }
+      ],
+      "features": [],
+      "notes": [
+        "Height: 5.6\" (14.2cm), Width: 14\" (35.6cm),",
+        "Depth: 16.5\" (41.9cm), Weight: 14.5lbs (6.35kg)",
+        "Height: 5.6\" (14.2cm), Width: 14\" (35.6cm),",
+        "Depth: 16.5\" (41.9cm), Weight: 14.5lbs (6.35kg)",
+        "Height: 5.125\" (13cm), Width: 17\" (43.2cm),",
+        "Depth: 13\" (35cm), Weight: 19.5lbs (8.86kg)",
+        "Height: 5.125\" (13cm), Width: 17\" ( 43.2cm),",
+        "Depth: 13\" (35cm), Weight: 19.5lbs (8.86kg)",
+        "Operates: Advantage Shavers, Apex® Shavers, PowerPro® Electric Handpieces, MicroChoice®",
+        "Handpieces, Mini-Driver",
+        "™ Handpiece and E9000® Handpieces",
+        "Height: 4.63\" (29.25cm), Width: 11.75\" (11.76cm),",
+        "Depth :12.25\" (31.11cm), Weight :15.4lbs (7.0kg)",
+        "Height: 4.63\" (29.25cm), Width: 11.75\" (11.76cm),",
+        "Depth: 12.25\" (31.11cm), Weight: 15.4lbs (7.0kg)",
+        "Height: 4.63\" (29.25cm), Width: 11.75\" (11.76cm),",
+        "Depth: 12.25\" (31.11cm), Weight: 15.4lbs (7.0kg)",
+        "Operates: Advantage Shavers, Apex Shavers, MicroChoice Handpieces,",
+        "Mini-Driver Handpiece and E9000 Handpieces"
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 2
+}

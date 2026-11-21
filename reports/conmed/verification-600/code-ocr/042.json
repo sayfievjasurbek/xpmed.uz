@@ -1,0 +1,117 @@
+{
+  "id": 42,
+  "bounds": [
+    0.8199960868714538,
+    0.502093217973765,
+    0.9170416748190178,
+    0.521769466927156
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "VP8501",
+      "confidence": 84.630882,
+      "words": [
+        {
+          "text": "VP8501",
+          "confidence": 84.630882,
+          "pixelBounds": [
+            4390,
+            3652,
+            4612,
+            3713
+          ],
+          "lineId": "9.5.3",
+          "bounds": [
+            0.8589317159068676,
+            0.509628802679319,
+            0.902367442770495,
+            0.5181412224392967
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "VP8501",
+      "confidence": 89.721268,
+      "words": [
+        {
+          "text": "VP8501",
+          "confidence": 89.721268,
+          "pixelBounds": [
+            4390,
+            3652,
+            4612,
+            3713
+          ],
+          "lineId": "55.1.1",
+          "bounds": [
+            0.8589317159068676,
+            0.509628802679319,
+            0.902367442770495,
+            0.5181412224392967
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "ieee VP8501",
+      "confidence": 16.576786,
+      "words": [
+        {
+          "text": "ieee",
+          "confidence": 16.576786,
+          "pixelBounds": [
+            6,
+            105,
+            172,
+            114
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "VP8501",
+          "confidence": 45.836098,
+          "pixelBounds": [
+            209,
+            54,
+            421,
+            115
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "“cece P8501",
+      "confidence": 1.942444,
+      "words": [
+        {
+          "text": "“cece",
+          "confidence": 2.259684,
+          "pixelBounds": [
+            6,
+            105,
+            172,
+            114
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "P8501",
+          "confidence": 1.942444,
+          "pixelBounds": [
+            223,
+            54,
+            421,
+            115
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

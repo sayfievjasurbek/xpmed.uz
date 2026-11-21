@@ -1,0 +1,379 @@
+[
+  {
+    "alternatives" : [
+      "Handpieces"
+    ],
+    "bounds" : [
+      0.099616662352138632,
+      0.048722257100190403,
+      0.28327539484464126,
+      0.074824255020635388
+    ],
+    "confidence" : 1,
+    "text" : "Handpieces"
+  },
+  {
+    "alternatives" : [
+      "CCONMED"
+    ],
+    "bounds" : [
+      0.51504879086399602,
+      0.045726289059042968,
+      0.70898379784526344,
+      0.076366734117350954
+    ],
+    "confidence" : 1,
+    "text" : "CCONMED"
+  },
+  {
+    "alternatives" : [
+      "XPmed"
+    ],
+    "bounds" : [
+      0.80649124826388074,
+      0.053678600388704978,
+      0.94910956818249603,
+      0.072774887858720216
+    ],
+    "confidence" : 1,
+    "text" : "XPmed"
+  },
+  {
+    "alternatives" : [
+      "Cat. No."
+    ],
+    "bounds" : [
+      0.8513238289645283,
+      0.1380813951413149,
+      0.89816700621877132,
+      0.15116279057816184
+    ],
+    "confidence" : 1,
+    "text" : "Cat. No."
+  },
+  {
+    "alternatives" : [
+      "D4240"
+    ],
+    "bounds" : [
+      0.85743380938771518,
+      0.15552325593346605,
+      0.89816700619273282,
+      0.168604651370313
+    ],
+    "confidence" : 1,
+    "text" : "D4240"
+  },
+  {
+    "alternatives" : [
+      "era"
+    ],
+    "bounds" : [
+      0.12016293266966525,
+      0.16715116274042596,
+      0.15682281005945903,
+      0.17877906958515544
+    ],
+    "confidence" : 1,
+    "text" : "era"
+  },
+  {
+    "alternatives" : [
+      "edo"
+    ],
+    "bounds" : [
+      0.12219959277091806,
+      0.25290697674790108,
+      0.16496945060993737,
+      0.26453488359263055
+    ],
+    "confidence" : 0.30000001192092896,
+    "text" : "edo"
+  },
+  {
+    "alternatives" : [
+      "THORNE"
+    ],
+    "bounds" : [
+      0.1995926675769259,
+      0.33866279080001904,
+      0.23421588658549766,
+      0.35029069764474841
+    ],
+    "confidence" : 1,
+    "text" : "THORNE"
+  },
+  {
+    "alternatives" : [
+      "Two-Button Ergo™ Shaver.."
+    ],
+    "bounds" : [
+      0.42769857688187407,
+      0.15550595230061026,
+      0.58452138630549844,
+      0.17013888880854677
+    ],
+    "confidence" : 1,
+    "text" : "Two-Button Ergo™ Shaver.."
+  },
+  {
+    "alternatives" : [
+      "Forward Speed 500-12,000rpm"
+    ],
+    "bounds" : [
+      0.43991853343522425,
+      0.17005813967356553,
+      0.59266802079084513,
+      0.18179563486129457
+    ],
+    "confidence" : 1,
+    "text" : "Forward Speed 500-12,000rpm"
+  },
+  {
+    "alternatives" : [
+      "Dscillate Speed 500-2,500cpm, Single-and multi-turn oscillate"
+    ],
+    "bounds" : [
+      0.44195519513076614,
+      0.18168604639494856,
+      0.73319755852067403,
+      0.19476744183179562
+    ],
+    "confidence" : 1,
+    "text" : "Dscillate Speed 500-2,500cpm, Single-and multi-turn oscillate"
+  },
+  {
+    "alternatives" : [
+      "For use with Large Hub Shaver Blades and Burs"
+    ],
+    "bounds" : [
+      0.43991853674576087,
+      0.19320436517404194,
+      0.66395111254140804,
+      0.20639534895388856
+    ],
+    "confidence" : 1,
+    "text" : "For use with Large Hub Shaver Blades and Burs"
+  },
+  {
+    "alternatives" : [
+      "For use with Advantage, E9000°"
+    ],
+    "bounds" : [
+      0.44195519440365438,
+      0.20634920619841213,
+      0.59266802603083302,
+      0.21949404746825341
+    ],
+    "confidence" : 1,
+    "text" : "For use with Advantage, E9000°"
+  },
+  {
+    "alternatives" : [
+      "Weight: 17.8 oz. (505g"
+    ],
+    "bounds" : [
+      0.44195519542243755,
+      0.21800595251863353,
+      0.55193482759181889,
+      0.23263888902657004
+    ],
+    "confidence" : 1,
+    "text" : "Weight: 17.8 oz. (505g"
+  },
+  {
+    "alternatives" : [
+      "No-Button Ergo Shaver .."
+    ],
+    "bounds" : [
+      0.42769857564613023,
+      0.24273255808099514,
+      0.56822810740885954,
+      0.25581395351784209
+    ],
+    "confidence" : 1,
+    "text" : "No-Button Ergo Shaver .."
+  },
+  {
+    "alternatives" : [
+      "Forward Speed 500-12,000rpm"
+    ],
+    "bounds" : [
+      0.44195519380962867,
+      0.25436046490875674,
+      0.5926680254368073,
+      0.26744186034560369
+    ],
+    "confidence" : 1,
+    "text" : "Forward Speed 500-12,000rpm"
+  },
+  {
+    "alternatives" : [
+      "Dscilate Speed 500-2,500cpm, Single- and multi-turn oscillate"
+    ],
+    "bounds" : [
+      0.44195519368691977,
+      0.26736111133680196,
+      0.73319755707682766,
+      0.28199404784473847
+    ],
+    "confidence" : 1,
+    "text" : "Dscilate Speed 500-2,500cpm, Single- and multi-turn oscillate"
+  },
+  {
+    "alternatives" : [
+      "For use with Large Hub Shaver Blades and Burs"
+    ],
+    "bounds" : [
+      0.43991853832417233,
+      0.28050595251863353,
+      0.66395111411981944,
+      0.29513888902657004
+    ],
+    "confidence" : 1,
+    "text" : "For use with Large Hub Shaver Blades and Burs"
+  },
+  {
+    "alternatives" : [
+      "For use with Advantage, E9000°"
+    ],
+    "bounds" : [
+      0.43991853741927189,
+      0.29215116258317531,
+      0.59470468050333503,
+      0.30530753971704438
+    ],
+    "confidence" : 1,
+    "text" : "For use with Advantage, E9000°"
+  },
+  {
+    "alternatives" : [
+      "Weight: 17.8 oz. (505g)"
+    ],
+    "bounds" : [
+      0.44399185082230042,
+      0.30668604673125222,
+      0.55193482726323939,
+      0.31696428586790271
+    ],
+    "confidence" : 1,
+    "text" : "Weight: 17.8 oz. (505g)"
+  },
+  {
+    "alternatives" : [
+      "Thorne 2\" Chuck.."
+    ],
+    "bounds" : [
+      0.42769857953417345,
+      0.32986111121062245,
+      0.53564154536399355,
+      0.3430232558034525
+    ],
+    "confidence" : 1,
+    "text" : "Thorne 2\" Chuck.."
+  },
+  {
+    "alternatives" : [
+      "10\" Ibs of Torque"
+    ],
+    "bounds" : [
+      0.44399185512980927,
+      0.34300595261247846,
+      0.52545824873984437,
+      0.35319767418807912
+    ],
+    "confidence" : 1,
+    "text" : "10\" Ibs of Torque"
+  },
+  {
+    "alternatives" : [
+      "5 to 1 gear Box"
+    ],
+    "bounds" : [
+      0.44390787212317961,
+      0.35578753914459482,
+      0.51739559030476323,
+      0.3665961820390975
+    ],
+    "confidence" : 1,
+    "text" : "5 to 1 gear Box"
+  },
+  {
+    "alternatives" : [
+      "Weight: 3.5 oz. (100g)"
+    ],
+    "bounds" : [
+      0.44399185435630206,
+      0.36773255826104867,
+      0.54786150872923756,
+      0.37797619027866869
+    ],
+    "confidence" : 1,
+    "text" : "Weight: 3.5 oz. (100g)"
+  },
+  {
+    "alternatives" : [
+      "....D4200"
+    ],
+    "bounds" : [
+      0.84725050999267471,
+      0.24273255822271023,
+      0.89816700400936189,
+      0.25581395365955717
+    ],
+    "confidence" : 1,
+    "text" : "....D4200"
+  },
+  {
+    "alternatives" : [
+      "... D9900"
+    ],
+    "bounds" : [
+      0.84725051099282023,
+      0.32986111131284823,
+      0.89816700500950741,
+      0.3415697673135607
+    ],
+    "confidence" : 1,
+    "text" : "... D9900"
+  },
+  {
+    "alternatives" : [
+      "All products may not be available in all markets."
+    ],
+    "bounds" : [
+      0.042769857104776723,
+      0.93303571414036546,
+      0.2118126221212927,
+      0.94196428556893685
+    ],
+    "confidence" : 1,
+    "text" : "All products may not be available in all markets."
+  },
+  {
+    "alternatives" : [
+      "88, RESECTION PRODUCTS"
+    ],
+    "bounds" : [
+      0.042769857035133925,
+      0.96354166687357812,
+      0.18533604452630545,
+      0.97247023830214951
+    ],
+    "confidence" : 1,
+    "text" : "88, RESECTION PRODUCTS"
+  },
+  {
+    "alternatives" : [
+      "Customer Service: (within U.S.) Phone: 800.237.0169 Fax 727.399.5256 Customer Service: (outside U.S.) Phone: 727.392.6464 Fax: 727.397.4540"
+    ],
+    "bounds" : [
+      0.4541751538869801,
+      0.96354166677848074,
+      0.95519348175120111,
+      0.97247023820705214
+    ],
+    "confidence" : 1,
+    "text" : "Customer Service: (within U.S.) Phone: 800.237.0169 Fax 727.399.5256 Customer Service: (outside U.S.) Phone: 727.392.6464 Fax: 727.397.4540"
+  }
+]

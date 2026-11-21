@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "slug": "uhn-universal-humeral-nail",
+  "brand": "double-medical",
+  "category": "trauma",
+  "subcategory": "",
+  "specialty": [
+    "traumatology",
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Универсальный штифт UHN",
+    "en": "UHN universal humeral nail"
+  },
+  "shortDescription": {
+    "ru": "Фиксация переломов плечевой кости",
+    "en": "Humeral fracture fixation"
+  },
+  "description": {
+    "ru": "Универсальный интрамедуллярный штифт UHN предназначен для фиксации переломов проксимального отдела и диафиза плечевой кости.\n\nВ исходном описании перечислены блокируемые винты для плечевого штифта диаметром 3.6 и 5.0 мм, торцевая заглушка и набор инструментов Universal Humeral Nail Instrument Set.",
+    "en": "The UHN Universal Humeral Nail is designed for fixation of proximal humeral fractures and humeral shaft fractures.\n\nThe original description lists 3.6 mm and 5.0 mm locking screws for the humeral nail, an end cap, and the Universal Humeral Nail Instrument Set."
+  },
+  "heroImage": "/images/products/double-medical/uhn-universal-humeral-nail/uhn.webp",
+  "imageType": "cutout",
+  "gallery": [
+    "/images/products/double-medical/uhn-universal-humeral-nail/uhn.webp"
+  ],
+  "features": [
+    {
+      "id": "legacy-anatomic-design",
+      "title": {
+        "ru": "Анатомическая форма",
+        "en": "Anatomic design"
+      },
+      "text": {
+        "ru": "Анатомическая форма соответствует физиологической кривизне костномозгового канала, облегчая введение штифта.",
+        "en": "The anatomic design corresponds to the physiological curvature of the medullary canal for easier insertion."
+      }
+    },
+    {
+      "id": "legacy-distal-cutting",
+      "title": {
+        "ru": "Режущий дистальный конец",
+        "en": "Distal cutting end"
+      },
+      "text": {
+        "ru": "Режущий дистальный конец облегчает введение штифта.",
+        "en": "The distal cutting end facilitates insertion."
+      }
+    }
+  ],
+  "hotspots": [],
+  "components": [
+    {
+      "id": "uhn",
+      "name": {
+        "ru": "Универсальный штифт UHN",
+        "en": "UHN universal humeral nail"
+      },
+      "image": "/images/products/double-medical/uhn-universal-humeral-nail/uhn.webp",
+      "refCodes": [],
+      "sizes": [],
+      "variants": [],
+      "legacyDocuments": [
+        {
+          "type": "product-page",
+          "ru": "https://xpmed.uz/product/double-medical/trauma/universalnyj-shtift-dlya-plechevoj-kosti-uhn/",
+          "en": "https://xpmed.uz/product/double-medical-en/trauma-en/humeral/uhn-universal-humeral-nail/"
+        }
+      ]
+    }
+  ],
+  "specTables": [
+    {
+      "id": "legacy-uhn-locking-screws",
+      "title": {
+        "ru": "Блокируемые винты для плечевого штифта",
+        "en": "Locking screws for the humeral nail"
+      },
+      "unit": "mm",
+      "columns": [
+        {
+          "ru": "Параметр",
+          "en": "Parameter"
+        },
+        {
+          "ru": "Значение",
+          "en": "Value"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Диаметр",
+            "en": "Diameter"
+          },
+          [
+            "3.6",
+            "5.0"
+          ]
+        ]
+      ],
+      "legend": null,
+      "headerType": "parameter-values"
+    }
+  ],
+  "refCodes": [],
+  "sourcePdf": null,
+  "sourcePages": [],
+  "catalogEdition": null,
+  "isNew": false,
+  "status": "published",
+  "legacyId": "uhn",
+  "legacyBrand": "double",
+  "review": {
+    "flags": [],
+    "notes": [
+      "Migrated existing catalog content; no additional dimensions or reference codes inferred.",
+      "Full descriptions and source-supported characteristics imported from original XPMED RU/EN pages on 2026-11-18. Medical terminology and grammar normalized; no dimensions or REF codes inferred."
+    ]
+  },
+  "imageDimensions": {
+    "/images/products/double-medical/uhn-universal-humeral-nail/uhn.webp": {
+      "width": 640,
+      "height": 640
+    }
+  },
+  "subcategories": [],
+  "legacySources": [
+    {
+      "productId": "uhn",
+      "language": "ru",
+      "url": "https://xpmed.uz/product/double-medical/trauma/universalnyj-shtift-dlya-plechevoj-kosti-uhn/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    },
+    {
+      "productId": "uhn",
+      "language": "en",
+      "url": "https://xpmed.uz/product/double-medical-en/trauma-en/humeral/uhn-universal-humeral-nail/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    }
+  ]
+}

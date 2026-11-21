@@ -1,0 +1,3157 @@
+{
+  "schemaVersion": 1,
+  "slug": "surgical-video-carts-and-accessories",
+  "brand": "conmed",
+  "category": "endoscopy-visualization",
+  "subcategory": "",
+  "subcategories": [],
+  "specialty": [],
+  "name": {
+    "ru": "Хирургические видеостойки и принадлежности",
+    "en": "Surgical Video Carts and Accessories"
+  },
+  "shortDescription": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "Видеостойка VP8500\nВидеостойка нового поколения VP8500 отличается современным дизайном, новыми функциями и повышенной гибкостью конфигурации. Видеостойка VP8500 служит платформой для оборудования High Definition или Enhanced Definition и по внешнему виду соответствует размещаемому на её полках современному оборудованию.",
+    "en": "VP8500 Video Cart\nThe next generation video cart is like nothing else on the market. The VP8500 Video Cart provides your OR with clean lines, new features and added flexibility. Providing a platform for High Definition or Enhanced Definition equipment, the VP8500 is designed to be as modern looking as the equipment on its shelves."
+  },
+  "heroImage": "/images/products/conmed/surgical-video-carts-and-accessories/page-007-photo-c94e2f07.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "methodVersion": 3,
+      "inputFingerprint": "30171ce427274a362056397675259dfff3a8cffbb8c346d31d9a393f3c456ed0",
+      "maskMethod": "rembg plus edge-connected white-background restoration; exact source pixels retained",
+      "src": "/images/products/conmed/surgical-video-carts-and-accessories/page-007-photo-c94e2f07.webp",
+      "imageType": "cutout",
+      "imageCaption": {
+        "ru": "Видеостойка VP8500",
+        "en": "VP8500 Video Cart"
+      },
+      "width": 1129,
+      "height": 1698,
+      "maskCoverage": 1.0,
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.064554,
+        0.265802,
+        0.390258,
+        0.613227
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    }
+  ],
+  "features": [],
+  "components": [
+    {
+      "id": "vp8500-item-1",
+      "groupId": "vp8500",
+      "name": {
+        "ru": "Видеостойка, исполнение US",
+        "en": "Video Cart, US"
+      },
+      "image": "/images/products/conmed/surgical-video-carts-and-accessories/page-007-photo-c94e2f07.webp",
+      "imageType": "cutout",
+      "refCodes": [
+        "VP8500"
+      ],
+      "codeEvidence": [
+        {
+          "value": "VP8500",
+          "pass1": "VP8500",
+          "pass2": "VP8500",
+          "confidence1": 90.789711,
+          "confidence2": 90.731613,
+          "flagged": false,
+          "reasons": [],
+          "printedCandidate": "VP8500",
+          "sourceBounds": [
+            0.8529929577464789,
+            0.2869401423189619,
+            0.8949530516431925,
+            0.2951025533696107
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "vp8500",
+          "componentId": "vp8500-item-1",
+          "tableId": "vp8500",
+          "row": 1,
+          "column": 2,
+          "path": "specTables.0.rows.0.1"
+        }
+      ],
+      "sourcePages": [
+        7
+      ],
+      "showInGrid": true,
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.425469,
+        0.284219,
+        0.900822,
+        0.297195
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "vp8500-item-2",
+      "groupId": "vp8500",
+      "name": {
+        "ru": "Видеостойка, стандартное исполнение INT",
+        "en": "Video Cart, Standard, INT"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "VP8501",
+          "pass2": "VP8501",
+          "confidence1": 91.120354,
+          "confidence2": 88.976242,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8501",
+          "sourceBounds": [
+            0.8535798122065728,
+            0.30493930514859774,
+            0.8928990610328639,
+            0.31310171619924654
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "vp8500",
+          "componentId": "vp8500-item-2",
+          "tableId": "vp8500",
+          "row": 2,
+          "column": 2,
+          "path": "specTables.0.rows.1.1"
+        }
+      ],
+      "sourcePages": [
+        7
+      ],
+      "showInGrid": false,
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.425469,
+        0.3018,
+        0.900822,
+        0.314776
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "video-cart-accessories-item-1",
+      "groupId": "video-cart-accessories",
+      "name": {
+        "ru": "Основной шарнирный кронштейн",
+        "en": "Primary Articulating Arm"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "VP8570",
+          "pass2": "VP8570",
+          "confidence1": 82.919937,
+          "confidence2": 86.826859,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8570",
+          "sourceBounds": [
+            0.8538732394366197,
+            0.34868145667643363,
+            0.8952464788732394,
+            0.3568438677270825
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-1",
+          "tableId": "video-cart-accessories",
+          "row": 1,
+          "column": 2,
+          "path": "specTables.1.rows.0.1"
+        }
+      ],
+      "sourcePages": [
+        7
+      ],
+      "showInGrid": false,
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.425469,
+        0.34617,
+        0.900822,
+        0.359146
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "video-cart-accessories-item-2",
+      "groupId": "video-cart-accessories",
+      "name": {
+        "ru": "Дополнительный шарнирный кронштейн с полкой для клавиатуры",
+        "en": "Secondary Articulating Arm with Keyboard Tray"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "VP8571",
+          "pass2": "VP8571",
+          "confidence1": 80.355667,
+          "confidence2": 88.711006,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8571",
+          "sourceBounds": [
+            0.8538732394366197,
+            0.3666806195060695,
+            0.8928990610328639,
+            0.3748430305567183
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-2",
+          "tableId": "video-cart-accessories",
+          "row": 2,
+          "column": 2,
+          "path": "specTables.1.rows.1.1"
+        }
+      ],
+      "sourcePages": [
+        7
+      ],
+      "showInGrid": false,
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.425469,
+        0.363751,
+        0.900822,
+        0.376727
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "video-cart-accessories-item-3",
+      "groupId": "video-cart-accessories",
+      "name": {
+        "ru": "Широкая полка 17\"",
+        "en": "17\" Wide shelf option"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "VP8540",
+          "pass2": "VP8540",
+          "confidence1": 84.23423,
+          "confidence2": 89.384933,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8540",
+          "sourceBounds": [
+            0.8532863849765259,
+            0.3846797823357053,
+            0.8952464788732394,
+            0.3926329007953118
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-3",
+          "tableId": "video-cart-accessories",
+          "row": 3,
+          "column": 2,
+          "path": "specTables.1.rows.2.1"
+        }
+      ],
+      "sourcePages": [
+        7
+      ],
+      "showInGrid": false,
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.425469,
+        0.38175,
+        0.900822,
+        0.394726
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "video-cart-accessories-item-4",
+      "groupId": "video-cart-accessories",
+      "name": {
+        "ru": "Держатель помпы 10K",
+        "en": "10K Pump Holder"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "VP8572",
+          "pass2": "VP8572",
+          "confidence1": 79.604324,
+          "confidence2": 86.790901,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8572",
+          "sourceBounds": [
+            0.8538732394366197,
+            0.4024696525742989,
+            0.8952464788732394,
+            0.4106320636249477
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-4",
+          "tableId": "video-cart-accessories",
+          "row": 4,
+          "column": 2,
+          "path": "specTables.1.rows.3.1"
+        }
+      ],
+      "sourcePages": [
+        7
+      ],
+      "showInGrid": false,
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.425469,
+        0.39933,
+        0.900822,
+        0.412306
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "video-cart-accessories-item-5",
+      "groupId": "video-cart-accessories",
+      "name": {
+        "ru": "Манометр для двух баллонов",
+        "en": "Dual Tank Gauge"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "VP8573",
+          "pass2": "VP8573",
+          "confidence1": 81.621948,
+          "confidence2": 86.436096,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8573",
+          "sourceBounds": [
+            0.8535798122065728,
+            0.4204688154039347,
+            0.8952464788732394,
+            0.4286312264545835
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-5",
+          "tableId": "video-cart-accessories",
+          "row": 5,
+          "column": 2,
+          "path": "specTables.1.rows.4.1"
+        }
+      ],
+      "sourcePages": [
+        7
+      ],
+      "showInGrid": false,
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.425469,
+        0.417329,
+        0.900822,
+        0.430306
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "video-cart-accessories-item-6",
+      "groupId": "video-cart-accessories",
+      "name": {
+        "ru": "Держатель CO₂ для двух баллонов",
+        "en": "CO₂ Holder, Dual Tank Holder"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "VP8574",
+          "pass2": "VP8574",
+          "confidence1": 76.574356,
+          "confidence2": 86.499817,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8574",
+          "sourceBounds": [
+            0.8547535211267606,
+            0.43825868564252823,
+            0.8952464788732394,
+            0.4464210966931771
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-6",
+          "tableId": "video-cart-accessories",
+          "row": 6,
+          "column": 2,
+          "path": "specTables.1.rows.5.1"
+        }
+      ],
+      "sourcePages": [
+        7
+      ],
+      "showInGrid": false,
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.425469,
+        0.435329,
+        0.900822,
+        0.448305
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "video-cart-accessories-item-7",
+      "groupId": "video-cart-accessories",
+      "name": {
+        "ru": "Держатель CO₂ для одного баллона",
+        "en": "CO₂ Holder, Single Tank Holder"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "VP8575",
+          "pass2": "VP8575",
+          "confidence1": 86.560814,
+          "confidence2": 86.794174,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8575",
+          "sourceBounds": [
+            0.8538732394366197,
+            0.4562578484721641,
+            0.8952464788732394,
+            0.4644202595228129
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-7",
+          "tableId": "video-cart-accessories",
+          "row": 7,
+          "column": 2,
+          "path": "specTables.1.rows.6.1"
+        }
+      ],
+      "sourcePages": [
+        7
+      ],
+      "showInGrid": false,
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.425469,
+        0.452909,
+        0.900822,
+        0.465885
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "video-cart-accessories-item-8",
+      "groupId": "video-cart-accessories",
+      "name": {
+        "ru": "Выдвижной ящик для хранения",
+        "en": "Storage Drawer"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "VP8576",
+          "pass2": "VP8576",
+          "confidence1": 80.085854,
+          "confidence2": 86.393417,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8576",
+          "sourceBounds": [
+            0.8538732394366197,
+            0.4742570113017999,
+            0.8952464788732394,
+            0.4824194223524487
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-8",
+          "tableId": "video-cart-accessories",
+          "row": 8,
+          "column": 2,
+          "path": "specTables.1.rows.7.1"
+        }
+      ],
+      "sourcePages": [
+        7
+      ],
+      "showInGrid": false,
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.425469,
+        0.470908,
+        0.900822,
+        0.483884
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "video-cart-accessories-item-9",
+      "groupId": "video-cart-accessories",
+      "name": {
+        "ru": "Держатель видеоголовки",
+        "en": "Camera Head Holder"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "VP8577",
+          "pass2": "VP8577",
+          "confidence1": 40.520973,
+          "confidence2": 81.77137,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8577",
+          "sourceBounds": [
+            0.8535798122065728,
+            0.49204688154039344,
+            0.8952464788732394,
+            0.5002092925910423
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-9",
+          "tableId": "video-cart-accessories",
+          "row": 9,
+          "column": 2,
+          "path": "specTables.1.rows.8.1"
+        }
+      ],
+      "sourcePages": [
+        7
+      ],
+      "showInGrid": false,
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.425469,
+        0.488907,
+        0.900822,
+        0.501884
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "video-cart-accessories-item-10",
+      "groupId": "video-cart-accessories",
+      "name": {
+        "ru": "Контейнер для ножного переключателя",
+        "en": "Footswitch Bin"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "VP8578",
+          "pass2": "VP8578",
+          "confidence1": 45.411549,
+          "confidence2": 86.983124,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8578",
+          "sourceBounds": [
+            0.8538732394366197,
+            0.5100460443700293,
+            0.8952464788732394,
+            0.5182084554206781
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-10",
+          "tableId": "video-cart-accessories",
+          "row": 10,
+          "column": 2,
+          "path": "specTables.1.rows.9.1"
+        }
+      ],
+      "sourcePages": [
+        7
+      ],
+      "showInGrid": false,
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.425469,
+        0.506488,
+        0.900822,
+        0.519464
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "video-cart-accessories-item-11",
+      "groupId": "video-cart-accessories",
+      "name": {
+        "ru": "Комплект коммутационной панели",
+        "en": "Patch Panel Kit"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "VP8579",
+          "pass2": "VP8579",
+          "confidence1": 89.571602,
+          "confidence2": 83.190399,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8579",
+          "sourceBounds": [
+            0.8541666666666666,
+            0.5280452071996651,
+            0.8952464788732394,
+            0.5362076182503139
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-11",
+          "tableId": "video-cart-accessories",
+          "row": 11,
+          "column": 2,
+          "path": "specTables.1.rows.10.1"
+        }
+      ],
+      "sourcePages": [
+        7
+      ],
+      "showInGrid": false,
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.425469,
+        0.524487,
+        0.900822,
+        0.537463
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "video-cart-accessories-item-12",
+      "groupId": "video-cart-accessories",
+      "name": {
+        "ru": "Баллонный ключ с магнитным основанием",
+        "en": "Tank Wrench with Magnetic Base"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "VP8580",
+          "pass2": "VP8580",
+          "confidence1": 85.901749,
+          "confidence2": 87.328468,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8580",
+          "sourceBounds": [
+            0.8538732394366197,
+            0.5458350774382587,
+            0.8952464788732394,
+            0.5539974884889075
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-12",
+          "tableId": "video-cart-accessories",
+          "row": 12,
+          "column": 2,
+          "path": "specTables.1.rows.11.1"
+        }
+      ],
+      "sourcePages": [
+        7
+      ],
+      "showInGrid": false,
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.425469,
+        0.542068,
+        0.900822,
+        0.555044
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "video-cart-accessories-item-13",
+      "groupId": "video-cart-accessories",
+      "name": {
+        "ru": "Усиленная панель и стойковое крепление плоского монитора",
+        "en": "Heavy Panel, Flat Panel Post Mount"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "VP8565",
+          "pass2": "VP8565",
+          "confidence1": 91.569389,
+          "confidence2": 87.203812,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8565",
+          "sourceBounds": [
+            0.8532863849765259,
+            0.5638342402678945,
+            0.8952464788732394,
+            0.5719966513185433
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-13",
+          "tableId": "video-cart-accessories",
+          "row": 13,
+          "column": 2,
+          "path": "specTables.1.rows.12.1"
+        }
+      ],
+      "sourcePages": [
+        7
+      ],
+      "showInGrid": false,
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.425469,
+        0.560486,
+        0.900822,
+        0.573462
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "video-cart-accessories-item-14",
+      "groupId": "video-cart-accessories",
+      "name": {
+        "ru": "Шарнирный кронштейн для монитора 26\"",
+        "en": "Articulating Arm 26\" monitor"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "VP8525",
+          "pass2": "VP8525",
+          "confidence1": 85.758072,
+          "confidence2": 86.792816,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8525",
+          "sourceBounds": [
+            0.8535798122065728,
+            0.5816241105064881,
+            0.8952464788732394,
+            0.5897865215571368
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-14",
+          "tableId": "video-cart-accessories",
+          "row": 14,
+          "column": 2,
+          "path": "specTables.1.rows.13.1"
+        }
+      ],
+      "sourcePages": [
+        7
+      ],
+      "showInGrid": false,
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.425469,
+        0.578485,
+        0.900822,
+        0.591461
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "video-cart-accessories-item-15",
+      "groupId": "video-cart-accessories",
+      "name": {
+        "ru": "Стойковое крепление монитора 26\"",
+        "en": "Post Mount 26\" monitor"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "VP8526",
+          "pass2": "VP8526",
+          "confidence1": 87.849739,
+          "confidence2": 81.587311,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8526",
+          "sourceBounds": [
+            0.8535798122065728,
+            0.5996232733361239,
+            0.8952464788732394,
+            0.6077856843867727
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-15",
+          "tableId": "video-cart-accessories",
+          "row": 15,
+          "column": 2,
+          "path": "specTables.1.rows.14.1"
+        }
+      ],
+      "sourcePages": [
+        7
+      ],
+      "showInGrid": false,
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.425469,
+        0.596484,
+        0.900822,
+        0.60946
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "video-cart-accessories-item-16",
+      "groupId": "video-cart-accessories",
+      "name": {
+        "ru": "Кронштейн для планшета Trinity",
+        "en": "Trinity Tablet Arm"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "VP8581",
+          "pass2": "VP8581",
+          "confidence1": 80.124573,
+          "confidence2": 88.592575,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8581",
+          "sourceBounds": [
+            0.8535798122065728,
+            0.6176224361657597,
+            0.8928990610328639,
+            0.6257848472164086
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-16",
+          "tableId": "video-cart-accessories",
+          "row": 16,
+          "column": 2,
+          "path": "specTables.1.rows.15.1"
+        }
+      ],
+      "sourcePages": [
+        7
+      ],
+      "showInGrid": false,
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.425469,
+        0.614483,
+        0.900822,
+        0.627459
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "video-cart-accessories-item-17",
+      "groupId": "video-cart-accessories",
+      "name": {
+        "ru": "Крепёжная скоба для монитора 32\": для крепления кронштейна монитора 32\" используются винты из нержавеющей стали M4 x 14 мм",
+        "en": "Monitor Yoke 32\" monitor M4 x 14mm stainless steel screws are used to mount 32\" monitor bracket"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "VP8532",
+          "pass2": "VP8532",
+          "confidence1": 88.140472,
+          "confidence2": 84.693939,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8532",
+          "sourceBounds": [
+            0.8535798122065728,
+            0.6477605692758477,
+            0.8949530516431925,
+            0.6559229803264964
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-17",
+          "tableId": "video-cart-accessories",
+          "row": 17,
+          "column": 2,
+          "path": "specTables.1.rows.16.1"
+        }
+      ],
+      "sourcePages": [
+        7
+      ],
+      "showInGrid": false,
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.425469,
+        0.64504,
+        0.900822,
+        0.658016
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    }
+  ],
+  "componentGroups": [
+    {
+      "id": "vp8500",
+      "name": {
+        "ru": "Видеостойка VP8500",
+        "en": "VP8500 Video Cart"
+      },
+      "description": {
+        "ru": "Видеостойка нового поколения VP8500 отличается современным дизайном, новыми функциями и повышенной гибкостью конфигурации. Видеостойка VP8500 служит платформой для оборудования High Definition или Enhanced Definition и по внешнему виду соответствует размещаемому на её полках современному оборудованию.",
+        "en": "The next generation video cart is like nothing else on the market. The VP8500 Video Cart provides your OR with clean lines, new features and added flexibility. Providing a platform for High Definition or Enhanced Definition equipment, the VP8500 is designed to be as modern looking as the equipment on its shelves."
+      },
+      "componentIds": [
+        "vp8500-item-1",
+        "vp8500-item-2"
+      ],
+      "subgroups": [],
+      "sourceNotes": [],
+      "images": [
+        {
+          "methodVersion": 3,
+          "inputFingerprint": "30171ce427274a362056397675259dfff3a8cffbb8c346d31d9a393f3c456ed0",
+          "maskMethod": "rembg plus edge-connected white-background restoration; exact source pixels retained",
+          "src": "/images/products/conmed/surgical-video-carts-and-accessories/page-007-photo-c94e2f07.webp",
+          "imageType": "cutout",
+          "imageCaption": {
+            "ru": "Видеостойка VP8500",
+            "en": "VP8500 Video Cart"
+          },
+          "width": 1129,
+          "height": 1698,
+          "maskCoverage": 1.0,
+          "pdfPage": 7,
+          "printedPage": 5,
+          "sourceBounds": [
+            0.064554,
+            0.265802,
+            0.390258,
+            0.613227
+          ],
+          "coordinateSpace": "normalized",
+          "path": null
+        }
+      ],
+      "tableId": "vp8500",
+      "sourcePages": [
+        7
+      ],
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.426056,
+        0.172457,
+        0.903756,
+        0.186689
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "video-cart-accessories",
+      "name": {
+        "ru": "Принадлежности",
+        "en": "Accessories"
+      },
+      "description": {
+        "ru": "",
+        "en": ""
+      },
+      "componentIds": [
+        "video-cart-accessories-item-1",
+        "video-cart-accessories-item-2",
+        "video-cart-accessories-item-3",
+        "video-cart-accessories-item-4",
+        "video-cart-accessories-item-5",
+        "video-cart-accessories-item-6",
+        "video-cart-accessories-item-7",
+        "video-cart-accessories-item-8",
+        "video-cart-accessories-item-9",
+        "video-cart-accessories-item-10",
+        "video-cart-accessories-item-11",
+        "video-cart-accessories-item-12",
+        "video-cart-accessories-item-13",
+        "video-cart-accessories-item-14",
+        "video-cart-accessories-item-15",
+        "video-cart-accessories-item-16",
+        "video-cart-accessories-item-17"
+      ],
+      "subgroups": [],
+      "sourceNotes": [],
+      "images": [],
+      "tableId": "video-cart-accessories",
+      "sourcePages": [
+        7
+      ],
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.426056,
+        0.327752,
+        0.903756,
+        0.341566
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    }
+  ],
+  "specTables": [
+    {
+      "id": "vp8500",
+      "title": {
+        "ru": "Видеостойка VP8500",
+        "en": "VP8500 Video Cart"
+      },
+      "unit": null,
+      "image": null,
+      "componentImage": "/images/products/conmed/surgical-video-carts-and-accessories/page-007-photo-c94e2f07.webp",
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "Cat. No.",
+          "en": "Cat. No."
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Видеостойка, исполнение US",
+            "en": "Video Cart, US"
+          },
+          "VP8500"
+        ],
+        [
+          {
+            "ru": "Видеостойка, стандартное исполнение INT",
+            "en": "Video Cart, Standard, INT"
+          },
+          null
+        ]
+      ],
+      "legend": null,
+      "sourcePages": [
+        7
+      ],
+      "headersVerified": true,
+      "rowSources": [
+        {
+          "pdfPage": 7,
+          "printedPage": 5,
+          "sourceBounds": [
+            0.425469,
+            0.284219,
+            0.900822,
+            0.297195
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": "VP8500",
+              "pass1": "VP8500",
+              "pass2": "VP8500",
+              "confidence1": 90.789711,
+              "confidence2": 90.731613,
+              "flagged": false,
+              "reasons": [],
+              "printedCandidate": "VP8500",
+              "sourceBounds": [
+                0.8529929577464789,
+                0.2869401423189619,
+                0.8949530516431925,
+                0.2951025533696107
+              ],
+              "pdfPage": 7,
+              "printedPage": 5,
+              "system": "surgical-video-carts-and-accessories",
+              "group": "vp8500",
+              "componentId": "vp8500-item-1",
+              "tableId": "vp8500",
+              "row": 1,
+              "column": 2,
+              "path": "specTables.0.rows.0.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 7,
+          "printedPage": 5,
+          "sourceBounds": [
+            0.425469,
+            0.3018,
+            0.900822,
+            0.314776
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "VP8501",
+              "pass2": "VP8501",
+              "confidence1": 91.120354,
+              "confidence2": 88.976242,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "VP8501",
+              "sourceBounds": [
+                0.8535798122065728,
+                0.30493930514859774,
+                0.8928990610328639,
+                0.31310171619924654
+              ],
+              "pdfPage": 7,
+              "printedPage": 5,
+              "system": "surgical-video-carts-and-accessories",
+              "group": "vp8500",
+              "componentId": "vp8500-item-2",
+              "tableId": "vp8500",
+              "row": 2,
+              "column": 2,
+              "path": "specTables.0.rows.1.1"
+            }
+          ]
+        }
+      ],
+      "groupId": "vp8500",
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.425469,
+        0.269569,
+        0.900822,
+        0.317288
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "video-cart-accessories",
+      "title": {
+        "ru": "Принадлежности",
+        "en": "Accessories"
+      },
+      "unit": null,
+      "image": null,
+      "componentImage": null,
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "Cat. No.",
+          "en": "Cat. No."
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Основной шарнирный кронштейн",
+            "en": "Primary Articulating Arm"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "Дополнительный шарнирный кронштейн с полкой для клавиатуры",
+            "en": "Secondary Articulating Arm with Keyboard Tray"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "Широкая полка 17\"",
+            "en": "17\" Wide shelf option"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "Держатель помпы 10K",
+            "en": "10K Pump Holder"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "Манометр для двух баллонов",
+            "en": "Dual Tank Gauge"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "Держатель CO₂ для двух баллонов",
+            "en": "CO₂ Holder, Dual Tank Holder"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "Держатель CO₂ для одного баллона",
+            "en": "CO₂ Holder, Single Tank Holder"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "Выдвижной ящик для хранения",
+            "en": "Storage Drawer"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "Держатель видеоголовки",
+            "en": "Camera Head Holder"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "Контейнер для ножного переключателя",
+            "en": "Footswitch Bin"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "Комплект коммутационной панели",
+            "en": "Patch Panel Kit"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "Баллонный ключ с магнитным основанием",
+            "en": "Tank Wrench with Magnetic Base"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "Усиленная панель и стойковое крепление плоского монитора",
+            "en": "Heavy Panel, Flat Panel Post Mount"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "Шарнирный кронштейн для монитора 26\"",
+            "en": "Articulating Arm 26\" monitor"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "Стойковое крепление монитора 26\"",
+            "en": "Post Mount 26\" monitor"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "Кронштейн для планшета Trinity",
+            "en": "Trinity Tablet Arm"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "Крепёжная скоба для монитора 32\": для крепления кронштейна монитора 32\" используются винты из нержавеющей стали M4 x 14 мм",
+            "en": "Monitor Yoke 32\" monitor M4 x 14mm stainless steel screws are used to mount 32\" monitor bracket"
+          },
+          null
+        ]
+      ],
+      "legend": null,
+      "sourcePages": [
+        7
+      ],
+      "headersVerified": true,
+      "rowSources": [
+        {
+          "pdfPage": 7,
+          "printedPage": 5,
+          "sourceBounds": [
+            0.425469,
+            0.34617,
+            0.900822,
+            0.359146
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "VP8570",
+              "pass2": "VP8570",
+              "confidence1": 82.919937,
+              "confidence2": 86.826859,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "VP8570",
+              "sourceBounds": [
+                0.8538732394366197,
+                0.34868145667643363,
+                0.8952464788732394,
+                0.3568438677270825
+              ],
+              "pdfPage": 7,
+              "printedPage": 5,
+              "system": "surgical-video-carts-and-accessories",
+              "group": "video-cart-accessories",
+              "componentId": "video-cart-accessories-item-1",
+              "tableId": "video-cart-accessories",
+              "row": 1,
+              "column": 2,
+              "path": "specTables.1.rows.0.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 7,
+          "printedPage": 5,
+          "sourceBounds": [
+            0.425469,
+            0.363751,
+            0.900822,
+            0.376727
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "VP8571",
+              "pass2": "VP8571",
+              "confidence1": 80.355667,
+              "confidence2": 88.711006,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "VP8571",
+              "sourceBounds": [
+                0.8538732394366197,
+                0.3666806195060695,
+                0.8928990610328639,
+                0.3748430305567183
+              ],
+              "pdfPage": 7,
+              "printedPage": 5,
+              "system": "surgical-video-carts-and-accessories",
+              "group": "video-cart-accessories",
+              "componentId": "video-cart-accessories-item-2",
+              "tableId": "video-cart-accessories",
+              "row": 2,
+              "column": 2,
+              "path": "specTables.1.rows.1.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 7,
+          "printedPage": 5,
+          "sourceBounds": [
+            0.425469,
+            0.38175,
+            0.900822,
+            0.394726
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "VP8540",
+              "pass2": "VP8540",
+              "confidence1": 84.23423,
+              "confidence2": 89.384933,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "VP8540",
+              "sourceBounds": [
+                0.8532863849765259,
+                0.3846797823357053,
+                0.8952464788732394,
+                0.3926329007953118
+              ],
+              "pdfPage": 7,
+              "printedPage": 5,
+              "system": "surgical-video-carts-and-accessories",
+              "group": "video-cart-accessories",
+              "componentId": "video-cart-accessories-item-3",
+              "tableId": "video-cart-accessories",
+              "row": 3,
+              "column": 2,
+              "path": "specTables.1.rows.2.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 7,
+          "printedPage": 5,
+          "sourceBounds": [
+            0.425469,
+            0.39933,
+            0.900822,
+            0.412306
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "VP8572",
+              "pass2": "VP8572",
+              "confidence1": 79.604324,
+              "confidence2": 86.790901,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "VP8572",
+              "sourceBounds": [
+                0.8538732394366197,
+                0.4024696525742989,
+                0.8952464788732394,
+                0.4106320636249477
+              ],
+              "pdfPage": 7,
+              "printedPage": 5,
+              "system": "surgical-video-carts-and-accessories",
+              "group": "video-cart-accessories",
+              "componentId": "video-cart-accessories-item-4",
+              "tableId": "video-cart-accessories",
+              "row": 4,
+              "column": 2,
+              "path": "specTables.1.rows.3.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 7,
+          "printedPage": 5,
+          "sourceBounds": [
+            0.425469,
+            0.417329,
+            0.900822,
+            0.430306
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "VP8573",
+              "pass2": "VP8573",
+              "confidence1": 81.621948,
+              "confidence2": 86.436096,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "VP8573",
+              "sourceBounds": [
+                0.8535798122065728,
+                0.4204688154039347,
+                0.8952464788732394,
+                0.4286312264545835
+              ],
+              "pdfPage": 7,
+              "printedPage": 5,
+              "system": "surgical-video-carts-and-accessories",
+              "group": "video-cart-accessories",
+              "componentId": "video-cart-accessories-item-5",
+              "tableId": "video-cart-accessories",
+              "row": 5,
+              "column": 2,
+              "path": "specTables.1.rows.4.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 7,
+          "printedPage": 5,
+          "sourceBounds": [
+            0.425469,
+            0.435329,
+            0.900822,
+            0.448305
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "VP8574",
+              "pass2": "VP8574",
+              "confidence1": 76.574356,
+              "confidence2": 86.499817,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "VP8574",
+              "sourceBounds": [
+                0.8547535211267606,
+                0.43825868564252823,
+                0.8952464788732394,
+                0.4464210966931771
+              ],
+              "pdfPage": 7,
+              "printedPage": 5,
+              "system": "surgical-video-carts-and-accessories",
+              "group": "video-cart-accessories",
+              "componentId": "video-cart-accessories-item-6",
+              "tableId": "video-cart-accessories",
+              "row": 6,
+              "column": 2,
+              "path": "specTables.1.rows.5.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 7,
+          "printedPage": 5,
+          "sourceBounds": [
+            0.425469,
+            0.452909,
+            0.900822,
+            0.465885
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "VP8575",
+              "pass2": "VP8575",
+              "confidence1": 86.560814,
+              "confidence2": 86.794174,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "VP8575",
+              "sourceBounds": [
+                0.8538732394366197,
+                0.4562578484721641,
+                0.8952464788732394,
+                0.4644202595228129
+              ],
+              "pdfPage": 7,
+              "printedPage": 5,
+              "system": "surgical-video-carts-and-accessories",
+              "group": "video-cart-accessories",
+              "componentId": "video-cart-accessories-item-7",
+              "tableId": "video-cart-accessories",
+              "row": 7,
+              "column": 2,
+              "path": "specTables.1.rows.6.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 7,
+          "printedPage": 5,
+          "sourceBounds": [
+            0.425469,
+            0.470908,
+            0.900822,
+            0.483884
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "VP8576",
+              "pass2": "VP8576",
+              "confidence1": 80.085854,
+              "confidence2": 86.393417,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "VP8576",
+              "sourceBounds": [
+                0.8538732394366197,
+                0.4742570113017999,
+                0.8952464788732394,
+                0.4824194223524487
+              ],
+              "pdfPage": 7,
+              "printedPage": 5,
+              "system": "surgical-video-carts-and-accessories",
+              "group": "video-cart-accessories",
+              "componentId": "video-cart-accessories-item-8",
+              "tableId": "video-cart-accessories",
+              "row": 8,
+              "column": 2,
+              "path": "specTables.1.rows.7.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 7,
+          "printedPage": 5,
+          "sourceBounds": [
+            0.425469,
+            0.488907,
+            0.900822,
+            0.501884
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "VP8577",
+              "pass2": "VP8577",
+              "confidence1": 40.520973,
+              "confidence2": 81.77137,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "VP8577",
+              "sourceBounds": [
+                0.8535798122065728,
+                0.49204688154039344,
+                0.8952464788732394,
+                0.5002092925910423
+              ],
+              "pdfPage": 7,
+              "printedPage": 5,
+              "system": "surgical-video-carts-and-accessories",
+              "group": "video-cart-accessories",
+              "componentId": "video-cart-accessories-item-9",
+              "tableId": "video-cart-accessories",
+              "row": 9,
+              "column": 2,
+              "path": "specTables.1.rows.8.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 7,
+          "printedPage": 5,
+          "sourceBounds": [
+            0.425469,
+            0.506488,
+            0.900822,
+            0.519464
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "VP8578",
+              "pass2": "VP8578",
+              "confidence1": 45.411549,
+              "confidence2": 86.983124,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "VP8578",
+              "sourceBounds": [
+                0.8538732394366197,
+                0.5100460443700293,
+                0.8952464788732394,
+                0.5182084554206781
+              ],
+              "pdfPage": 7,
+              "printedPage": 5,
+              "system": "surgical-video-carts-and-accessories",
+              "group": "video-cart-accessories",
+              "componentId": "video-cart-accessories-item-10",
+              "tableId": "video-cart-accessories",
+              "row": 10,
+              "column": 2,
+              "path": "specTables.1.rows.9.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 7,
+          "printedPage": 5,
+          "sourceBounds": [
+            0.425469,
+            0.524487,
+            0.900822,
+            0.537463
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "VP8579",
+              "pass2": "VP8579",
+              "confidence1": 89.571602,
+              "confidence2": 83.190399,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "VP8579",
+              "sourceBounds": [
+                0.8541666666666666,
+                0.5280452071996651,
+                0.8952464788732394,
+                0.5362076182503139
+              ],
+              "pdfPage": 7,
+              "printedPage": 5,
+              "system": "surgical-video-carts-and-accessories",
+              "group": "video-cart-accessories",
+              "componentId": "video-cart-accessories-item-11",
+              "tableId": "video-cart-accessories",
+              "row": 11,
+              "column": 2,
+              "path": "specTables.1.rows.10.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 7,
+          "printedPage": 5,
+          "sourceBounds": [
+            0.425469,
+            0.542068,
+            0.900822,
+            0.555044
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "VP8580",
+              "pass2": "VP8580",
+              "confidence1": 85.901749,
+              "confidence2": 87.328468,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "VP8580",
+              "sourceBounds": [
+                0.8538732394366197,
+                0.5458350774382587,
+                0.8952464788732394,
+                0.5539974884889075
+              ],
+              "pdfPage": 7,
+              "printedPage": 5,
+              "system": "surgical-video-carts-and-accessories",
+              "group": "video-cart-accessories",
+              "componentId": "video-cart-accessories-item-12",
+              "tableId": "video-cart-accessories",
+              "row": 12,
+              "column": 2,
+              "path": "specTables.1.rows.11.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 7,
+          "printedPage": 5,
+          "sourceBounds": [
+            0.425469,
+            0.560486,
+            0.900822,
+            0.573462
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "VP8565",
+              "pass2": "VP8565",
+              "confidence1": 91.569389,
+              "confidence2": 87.203812,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "VP8565",
+              "sourceBounds": [
+                0.8532863849765259,
+                0.5638342402678945,
+                0.8952464788732394,
+                0.5719966513185433
+              ],
+              "pdfPage": 7,
+              "printedPage": 5,
+              "system": "surgical-video-carts-and-accessories",
+              "group": "video-cart-accessories",
+              "componentId": "video-cart-accessories-item-13",
+              "tableId": "video-cart-accessories",
+              "row": 13,
+              "column": 2,
+              "path": "specTables.1.rows.12.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 7,
+          "printedPage": 5,
+          "sourceBounds": [
+            0.425469,
+            0.578485,
+            0.900822,
+            0.591461
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "VP8525",
+              "pass2": "VP8525",
+              "confidence1": 85.758072,
+              "confidence2": 86.792816,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "VP8525",
+              "sourceBounds": [
+                0.8535798122065728,
+                0.5816241105064881,
+                0.8952464788732394,
+                0.5897865215571368
+              ],
+              "pdfPage": 7,
+              "printedPage": 5,
+              "system": "surgical-video-carts-and-accessories",
+              "group": "video-cart-accessories",
+              "componentId": "video-cart-accessories-item-14",
+              "tableId": "video-cart-accessories",
+              "row": 14,
+              "column": 2,
+              "path": "specTables.1.rows.13.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 7,
+          "printedPage": 5,
+          "sourceBounds": [
+            0.425469,
+            0.596484,
+            0.900822,
+            0.60946
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "VP8526",
+              "pass2": "VP8526",
+              "confidence1": 87.849739,
+              "confidence2": 81.587311,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "VP8526",
+              "sourceBounds": [
+                0.8535798122065728,
+                0.5996232733361239,
+                0.8952464788732394,
+                0.6077856843867727
+              ],
+              "pdfPage": 7,
+              "printedPage": 5,
+              "system": "surgical-video-carts-and-accessories",
+              "group": "video-cart-accessories",
+              "componentId": "video-cart-accessories-item-15",
+              "tableId": "video-cart-accessories",
+              "row": 15,
+              "column": 2,
+              "path": "specTables.1.rows.14.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 7,
+          "printedPage": 5,
+          "sourceBounds": [
+            0.425469,
+            0.614483,
+            0.900822,
+            0.627459
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "VP8581",
+              "pass2": "VP8581",
+              "confidence1": 80.124573,
+              "confidence2": 88.592575,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "VP8581",
+              "sourceBounds": [
+                0.8535798122065728,
+                0.6176224361657597,
+                0.8928990610328639,
+                0.6257848472164086
+              ],
+              "pdfPage": 7,
+              "printedPage": 5,
+              "system": "surgical-video-carts-and-accessories",
+              "group": "video-cart-accessories",
+              "componentId": "video-cart-accessories-item-16",
+              "tableId": "video-cart-accessories",
+              "row": 16,
+              "column": 2,
+              "path": "specTables.1.rows.15.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 7,
+          "printedPage": 5,
+          "sourceBounds": [
+            0.425469,
+            0.64504,
+            0.900822,
+            0.658016
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "VP8532",
+              "pass2": "VP8532",
+              "confidence1": 88.140472,
+              "confidence2": 84.693939,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "VP8532",
+              "sourceBounds": [
+                0.8535798122065728,
+                0.6477605692758477,
+                0.8949530516431925,
+                0.6559229803264964
+              ],
+              "pdfPage": 7,
+              "printedPage": 5,
+              "system": "surgical-video-carts-and-accessories",
+              "group": "video-cart-accessories",
+              "componentId": "video-cart-accessories-item-17",
+              "tableId": "video-cart-accessories",
+              "row": 17,
+              "column": 2,
+              "path": "specTables.1.rows.16.1"
+            }
+          ]
+        }
+      ],
+      "groupId": "video-cart-accessories",
+      "pdfPage": 7,
+      "printedPage": 5,
+      "sourceBounds": [
+        0.425469,
+        0.345751,
+        0.900822,
+        0.660527
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    }
+  ],
+  "refCodes": [
+    "VP8500"
+  ],
+  "sourcePdf": "/catalogs/conmed/advanced-visualization-system/source.pdf",
+  "documentCover": "/catalogs/conmed/advanced-visualization-system/pages/001.webp",
+  "catalogPageCount": 20,
+  "sourcePages": [
+    7
+  ],
+  "sourcePageImages": [
+    "/catalogs/conmed/advanced-visualization-system/pages/007.webp"
+  ],
+  "sourcePageDimensions": {
+    "7": {
+      "width": 3408,
+      "height": 4778
+    }
+  },
+  "catalogEdition": null,
+  "isNew": false,
+  "status": "draft",
+  "manufacturerLinks": [],
+  "availabilityNote": {
+    "ru": "Не все изделия могут быть доступны на всех рынках.",
+    "en": "All products may not be available in all markets"
+  },
+  "imageDimensions": {
+    "/images/products/conmed/surgical-video-carts-and-accessories/page-007-photo-c94e2f07.webp": {
+      "width": 1129,
+      "height": 1698
+    }
+  },
+  "review": {
+    "flags": [
+      {
+        "path": "specTables.0.rows.1.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «VP8501», проход 2 «VP8501». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          7
+        ],
+        "pdfPage": 7,
+        "printedPage": 5,
+        "sourceBounds": [
+          0.8535798122065728,
+          0.30493930514859774,
+          0.8928990610328639,
+          0.31310171619924654
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "VP8501",
+          "pass2": "VP8501",
+          "confidence1": 91.120354,
+          "confidence2": 88.976242,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8501",
+          "sourceBounds": [
+            0.8535798122065728,
+            0.30493930514859774,
+            0.8928990610328639,
+            0.31310171619924654
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "vp8500",
+          "componentId": "vp8500-item-2",
+          "tableId": "vp8500",
+          "row": 2,
+          "column": 2,
+          "path": "specTables.0.rows.1.1"
+        }
+      },
+      {
+        "path": "specTables.1.rows.0.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «VP8570», проход 2 «VP8570». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          7
+        ],
+        "pdfPage": 7,
+        "printedPage": 5,
+        "sourceBounds": [
+          0.8538732394366197,
+          0.34868145667643363,
+          0.8952464788732394,
+          0.3568438677270825
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "VP8570",
+          "pass2": "VP8570",
+          "confidence1": 82.919937,
+          "confidence2": 86.826859,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8570",
+          "sourceBounds": [
+            0.8538732394366197,
+            0.34868145667643363,
+            0.8952464788732394,
+            0.3568438677270825
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-1",
+          "tableId": "video-cart-accessories",
+          "row": 1,
+          "column": 2,
+          "path": "specTables.1.rows.0.1"
+        }
+      },
+      {
+        "path": "specTables.1.rows.1.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «VP8571», проход 2 «VP8571». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          7
+        ],
+        "pdfPage": 7,
+        "printedPage": 5,
+        "sourceBounds": [
+          0.8538732394366197,
+          0.3666806195060695,
+          0.8928990610328639,
+          0.3748430305567183
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "VP8571",
+          "pass2": "VP8571",
+          "confidence1": 80.355667,
+          "confidence2": 88.711006,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8571",
+          "sourceBounds": [
+            0.8538732394366197,
+            0.3666806195060695,
+            0.8928990610328639,
+            0.3748430305567183
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-2",
+          "tableId": "video-cart-accessories",
+          "row": 2,
+          "column": 2,
+          "path": "specTables.1.rows.1.1"
+        }
+      },
+      {
+        "path": "specTables.1.rows.2.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «VP8540», проход 2 «VP8540». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          7
+        ],
+        "pdfPage": 7,
+        "printedPage": 5,
+        "sourceBounds": [
+          0.8532863849765259,
+          0.3846797823357053,
+          0.8952464788732394,
+          0.3926329007953118
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "VP8540",
+          "pass2": "VP8540",
+          "confidence1": 84.23423,
+          "confidence2": 89.384933,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8540",
+          "sourceBounds": [
+            0.8532863849765259,
+            0.3846797823357053,
+            0.8952464788732394,
+            0.3926329007953118
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-3",
+          "tableId": "video-cart-accessories",
+          "row": 3,
+          "column": 2,
+          "path": "specTables.1.rows.2.1"
+        }
+      },
+      {
+        "path": "specTables.1.rows.3.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «VP8572», проход 2 «VP8572». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          7
+        ],
+        "pdfPage": 7,
+        "printedPage": 5,
+        "sourceBounds": [
+          0.8538732394366197,
+          0.4024696525742989,
+          0.8952464788732394,
+          0.4106320636249477
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "VP8572",
+          "pass2": "VP8572",
+          "confidence1": 79.604324,
+          "confidence2": 86.790901,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8572",
+          "sourceBounds": [
+            0.8538732394366197,
+            0.4024696525742989,
+            0.8952464788732394,
+            0.4106320636249477
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-4",
+          "tableId": "video-cart-accessories",
+          "row": 4,
+          "column": 2,
+          "path": "specTables.1.rows.3.1"
+        }
+      },
+      {
+        "path": "specTables.1.rows.4.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «VP8573», проход 2 «VP8573». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          7
+        ],
+        "pdfPage": 7,
+        "printedPage": 5,
+        "sourceBounds": [
+          0.8535798122065728,
+          0.4204688154039347,
+          0.8952464788732394,
+          0.4286312264545835
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "VP8573",
+          "pass2": "VP8573",
+          "confidence1": 81.621948,
+          "confidence2": 86.436096,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8573",
+          "sourceBounds": [
+            0.8535798122065728,
+            0.4204688154039347,
+            0.8952464788732394,
+            0.4286312264545835
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-5",
+          "tableId": "video-cart-accessories",
+          "row": 5,
+          "column": 2,
+          "path": "specTables.1.rows.4.1"
+        }
+      },
+      {
+        "path": "specTables.1.rows.5.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «VP8574», проход 2 «VP8574». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          7
+        ],
+        "pdfPage": 7,
+        "printedPage": 5,
+        "sourceBounds": [
+          0.8547535211267606,
+          0.43825868564252823,
+          0.8952464788732394,
+          0.4464210966931771
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "VP8574",
+          "pass2": "VP8574",
+          "confidence1": 76.574356,
+          "confidence2": 86.499817,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8574",
+          "sourceBounds": [
+            0.8547535211267606,
+            0.43825868564252823,
+            0.8952464788732394,
+            0.4464210966931771
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-6",
+          "tableId": "video-cart-accessories",
+          "row": 6,
+          "column": 2,
+          "path": "specTables.1.rows.5.1"
+        }
+      },
+      {
+        "path": "specTables.1.rows.6.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «VP8575», проход 2 «VP8575». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          7
+        ],
+        "pdfPage": 7,
+        "printedPage": 5,
+        "sourceBounds": [
+          0.8538732394366197,
+          0.4562578484721641,
+          0.8952464788732394,
+          0.4644202595228129
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "VP8575",
+          "pass2": "VP8575",
+          "confidence1": 86.560814,
+          "confidence2": 86.794174,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8575",
+          "sourceBounds": [
+            0.8538732394366197,
+            0.4562578484721641,
+            0.8952464788732394,
+            0.4644202595228129
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-7",
+          "tableId": "video-cart-accessories",
+          "row": 7,
+          "column": 2,
+          "path": "specTables.1.rows.6.1"
+        }
+      },
+      {
+        "path": "specTables.1.rows.7.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «VP8576», проход 2 «VP8576». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          7
+        ],
+        "pdfPage": 7,
+        "printedPage": 5,
+        "sourceBounds": [
+          0.8538732394366197,
+          0.4742570113017999,
+          0.8952464788732394,
+          0.4824194223524487
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "VP8576",
+          "pass2": "VP8576",
+          "confidence1": 80.085854,
+          "confidence2": 86.393417,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8576",
+          "sourceBounds": [
+            0.8538732394366197,
+            0.4742570113017999,
+            0.8952464788732394,
+            0.4824194223524487
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-8",
+          "tableId": "video-cart-accessories",
+          "row": 8,
+          "column": 2,
+          "path": "specTables.1.rows.7.1"
+        }
+      },
+      {
+        "path": "specTables.1.rows.8.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «VP8577», проход 2 «VP8577». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          7
+        ],
+        "pdfPage": 7,
+        "printedPage": 5,
+        "sourceBounds": [
+          0.8535798122065728,
+          0.49204688154039344,
+          0.8952464788732394,
+          0.5002092925910423
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "VP8577",
+          "pass2": "VP8577",
+          "confidence1": 40.520973,
+          "confidence2": 81.77137,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8577",
+          "sourceBounds": [
+            0.8535798122065728,
+            0.49204688154039344,
+            0.8952464788732394,
+            0.5002092925910423
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-9",
+          "tableId": "video-cart-accessories",
+          "row": 9,
+          "column": 2,
+          "path": "specTables.1.rows.8.1"
+        }
+      },
+      {
+        "path": "specTables.1.rows.9.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «VP8578», проход 2 «VP8578». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          7
+        ],
+        "pdfPage": 7,
+        "printedPage": 5,
+        "sourceBounds": [
+          0.8538732394366197,
+          0.5100460443700293,
+          0.8952464788732394,
+          0.5182084554206781
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "VP8578",
+          "pass2": "VP8578",
+          "confidence1": 45.411549,
+          "confidence2": 86.983124,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8578",
+          "sourceBounds": [
+            0.8538732394366197,
+            0.5100460443700293,
+            0.8952464788732394,
+            0.5182084554206781
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-10",
+          "tableId": "video-cart-accessories",
+          "row": 10,
+          "column": 2,
+          "path": "specTables.1.rows.9.1"
+        }
+      },
+      {
+        "path": "specTables.1.rows.10.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «VP8579», проход 2 «VP8579». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          7
+        ],
+        "pdfPage": 7,
+        "printedPage": 5,
+        "sourceBounds": [
+          0.8541666666666666,
+          0.5280452071996651,
+          0.8952464788732394,
+          0.5362076182503139
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "VP8579",
+          "pass2": "VP8579",
+          "confidence1": 89.571602,
+          "confidence2": 83.190399,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8579",
+          "sourceBounds": [
+            0.8541666666666666,
+            0.5280452071996651,
+            0.8952464788732394,
+            0.5362076182503139
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-11",
+          "tableId": "video-cart-accessories",
+          "row": 11,
+          "column": 2,
+          "path": "specTables.1.rows.10.1"
+        }
+      },
+      {
+        "path": "specTables.1.rows.11.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «VP8580», проход 2 «VP8580». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          7
+        ],
+        "pdfPage": 7,
+        "printedPage": 5,
+        "sourceBounds": [
+          0.8538732394366197,
+          0.5458350774382587,
+          0.8952464788732394,
+          0.5539974884889075
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "VP8580",
+          "pass2": "VP8580",
+          "confidence1": 85.901749,
+          "confidence2": 87.328468,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8580",
+          "sourceBounds": [
+            0.8538732394366197,
+            0.5458350774382587,
+            0.8952464788732394,
+            0.5539974884889075
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-12",
+          "tableId": "video-cart-accessories",
+          "row": 12,
+          "column": 2,
+          "path": "specTables.1.rows.11.1"
+        }
+      },
+      {
+        "path": "specTables.1.rows.12.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «VP8565», проход 2 «VP8565». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          7
+        ],
+        "pdfPage": 7,
+        "printedPage": 5,
+        "sourceBounds": [
+          0.8532863849765259,
+          0.5638342402678945,
+          0.8952464788732394,
+          0.5719966513185433
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "VP8565",
+          "pass2": "VP8565",
+          "confidence1": 91.569389,
+          "confidence2": 87.203812,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8565",
+          "sourceBounds": [
+            0.8532863849765259,
+            0.5638342402678945,
+            0.8952464788732394,
+            0.5719966513185433
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-13",
+          "tableId": "video-cart-accessories",
+          "row": 13,
+          "column": 2,
+          "path": "specTables.1.rows.12.1"
+        }
+      },
+      {
+        "path": "specTables.1.rows.13.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «VP8525», проход 2 «VP8525». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          7
+        ],
+        "pdfPage": 7,
+        "printedPage": 5,
+        "sourceBounds": [
+          0.8535798122065728,
+          0.5816241105064881,
+          0.8952464788732394,
+          0.5897865215571368
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "VP8525",
+          "pass2": "VP8525",
+          "confidence1": 85.758072,
+          "confidence2": 86.792816,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8525",
+          "sourceBounds": [
+            0.8535798122065728,
+            0.5816241105064881,
+            0.8952464788732394,
+            0.5897865215571368
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-14",
+          "tableId": "video-cart-accessories",
+          "row": 14,
+          "column": 2,
+          "path": "specTables.1.rows.13.1"
+        }
+      },
+      {
+        "path": "specTables.1.rows.14.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «VP8526», проход 2 «VP8526». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          7
+        ],
+        "pdfPage": 7,
+        "printedPage": 5,
+        "sourceBounds": [
+          0.8535798122065728,
+          0.5996232733361239,
+          0.8952464788732394,
+          0.6077856843867727
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "VP8526",
+          "pass2": "VP8526",
+          "confidence1": 87.849739,
+          "confidence2": 81.587311,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8526",
+          "sourceBounds": [
+            0.8535798122065728,
+            0.5996232733361239,
+            0.8952464788732394,
+            0.6077856843867727
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-15",
+          "tableId": "video-cart-accessories",
+          "row": 15,
+          "column": 2,
+          "path": "specTables.1.rows.14.1"
+        }
+      },
+      {
+        "path": "specTables.1.rows.15.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «VP8581», проход 2 «VP8581». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          7
+        ],
+        "pdfPage": 7,
+        "printedPage": 5,
+        "sourceBounds": [
+          0.8535798122065728,
+          0.6176224361657597,
+          0.8928990610328639,
+          0.6257848472164086
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "VP8581",
+          "pass2": "VP8581",
+          "confidence1": 80.124573,
+          "confidence2": 88.592575,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8581",
+          "sourceBounds": [
+            0.8535798122065728,
+            0.6176224361657597,
+            0.8928990610328639,
+            0.6257848472164086
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-16",
+          "tableId": "video-cart-accessories",
+          "row": 16,
+          "column": 2,
+          "path": "specTables.1.rows.15.1"
+        }
+      },
+      {
+        "path": "specTables.1.rows.16.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «VP8532», проход 2 «VP8532». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          7
+        ],
+        "pdfPage": 7,
+        "printedPage": 5,
+        "sourceBounds": [
+          0.8535798122065728,
+          0.6477605692758477,
+          0.8949530516431925,
+          0.6559229803264964
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "VP8532",
+          "pass2": "VP8532",
+          "confidence1": 88.140472,
+          "confidence2": 84.693939,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "VP8532",
+          "sourceBounds": [
+            0.8535798122065728,
+            0.6477605692758477,
+            0.8949530516431925,
+            0.6559229803264964
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "system": "surgical-video-carts-and-accessories",
+          "group": "video-cart-accessories",
+          "componentId": "video-cart-accessories-item-17",
+          "tableId": "video-cart-accessories",
+          "row": 17,
+          "column": 2,
+          "path": "specTables.1.rows.16.1"
+        }
+      },
+      {
+        "path": "specialty",
+        "code": "specialty-review",
+        "message": {
+          "ru": "Клиническая специальность не назначена автоматически: проверьте область применения системы.",
+          "en": "Clinical specialty was not inferred; review the intended specialty."
+        },
+        "sourcePages": [
+          7
+        ],
+        "pdfPage": 7,
+        "printedPage": 5,
+        "sourceBounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "coordinateSpace": "normalized"
+      },
+      {
+        "path": "components",
+        "code": "source-association-review",
+        "message": {
+          "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+          "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+        },
+        "sourcePages": [
+          7
+        ],
+        "pdfPage": 7,
+        "printedPage": 5,
+        "sourceBounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "coordinateSpace": "normalized"
+      }
+    ],
+    "sourceSha256": "e95e65a12367e776350edfcee6a84d2d994556e67083a5c6280ab5490b11af21",
+    "importMethod": "400-DPI Tesseract PSM3 + PSM11; source-reviewed section layout; source-coordinate audit",
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "skipped": false,
+    "translatedFields": [
+      "name.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "components.0.name.ru",
+      "components.1.name.ru",
+      "components.2.name.ru",
+      "components.3.name.ru",
+      "components.4.name.ru",
+      "components.5.name.ru",
+      "components.6.name.ru",
+      "components.7.name.ru",
+      "components.8.name.ru",
+      "components.9.name.ru",
+      "components.10.name.ru",
+      "components.11.name.ru",
+      "components.12.name.ru",
+      "components.13.name.ru",
+      "components.14.name.ru",
+      "components.15.name.ru",
+      "components.16.name.ru",
+      "components.17.name.ru",
+      "components.18.name.ru",
+      "componentGroups.0.name.ru",
+      "componentGroups.0.description.ru",
+      "componentGroups.0.images.0.imageCaption.ru",
+      "componentGroups.1.name.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.1.title.ru",
+      "specTables.1.columns.0.ru",
+      "specTables.1.columns.1.ru",
+      "specTables.1.rows.0.0.ru",
+      "specTables.1.rows.1.0.ru",
+      "specTables.1.rows.2.0.ru",
+      "specTables.1.rows.3.0.ru",
+      "specTables.1.rows.4.0.ru",
+      "specTables.1.rows.5.0.ru",
+      "specTables.1.rows.6.0.ru",
+      "specTables.1.rows.7.0.ru",
+      "specTables.1.rows.8.0.ru",
+      "specTables.1.rows.9.0.ru",
+      "specTables.1.rows.10.0.ru",
+      "specTables.1.rows.11.0.ru",
+      "specTables.1.rows.12.0.ru",
+      "specTables.1.rows.13.0.ru",
+      "specTables.1.rows.14.0.ru",
+      "specTables.1.rows.15.0.ru",
+      "specTables.1.rows.16.0.ru",
+      "availabilityNote.ru"
+    ]
+  }
+}

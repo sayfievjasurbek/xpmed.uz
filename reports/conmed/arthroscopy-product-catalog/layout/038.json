@@ -1,0 +1,509 @@
+{
+  "pdfPage": 38,
+  "officialPage": 54,
+  "alignment": [
+    [
+      0.970115745530757,
+      5.640375428149186e-05,
+      0.014902578414608146
+    ],
+    [
+      -0.0004061467066794707,
+      0.9794077956468569,
+      0.011110699428515563
+    ]
+  ],
+  "alignmentMatches": 65,
+  "alignmentInliers": 64,
+  "category": "knee-arthroscopy",
+  "title": {
+    "en": "Cruciate Reconstruction Accessories",
+    "ru": "Принадлежности для реконструкции крестообразных связок"
+  },
+  "groups": [
+    {
+      "title": "Precision Probes",
+      "page": 38,
+      "officialPage": 54,
+      "headingBounds": [
+        0.42863591660481065,
+        0.14126537158820468,
+        0.5605282358509741,
+        0.15596310278314499
+      ],
+      "rows": [
+        {
+          "description": "4.0mm dia. Tip, Maxi-Probe, Straight, Green Handle",
+          "codes": [
+            {
+              "candidate": "21.1002",
+              "sourceBounds": [
+                0.851783629232393,
+                0.24608642125433708,
+                0.8946766519775263,
+                0.25865608120876177
+              ],
+              "officialBounds": [
+                527.9400024414062,
+                190.29689025878906,
+                554.9987182617188,
+                200.47589111328125
+              ],
+              "officialCode": "21.1002"
+            }
+          ],
+          "rowBounds": [
+            0.428641963414702,
+            0.24626357289301778,
+            0.8946766519775263,
+            0.25865608120876177
+          ],
+          "pdfPage": 38,
+          "officialPage": 54
+        },
+        {
+          "description": "3.5mm dia. Tip, Mini-Probe, Straight, Blue Handle",
+          "codes": [
+            {
+              "candidate": "21.1001",
+              "sourceBounds": [
+                0.8519844511178191,
+                0.2640162070351305,
+                0.8946748787945986,
+                0.27658595180759904
+              ],
+              "officialBounds": [
+                528.0660400390625,
+                204.79591369628906,
+                554.9969482421875,
+                214.97491455078125
+              ],
+              "officialCode": "21.1001"
+            }
+          ],
+          "rowBounds": [
+            0.42864299598964556,
+            0.2641934423172021,
+            0.8946748787945986,
+            0.27658595180759904
+          ],
+          "pdfPage": 38,
+          "officialPage": 54
+        },
+        {
+          "description": "Extended Length Depth Probe",
+          "codes": [
+            {
+              "candidate": "21.100EL",
+              "sourceBounds": [
+                0.8457653119928978,
+                0.2819486805838871,
+                0.8946841351426129,
+                0.29451581778883507
+              ],
+              "officialBounds": [
+                524.1420288085938,
+                219.29493713378906,
+                555.0021362304688,
+                229.47393798828125
+              ],
+              "officialCode": "21.100EL"
+            }
+          ],
+          "rowBounds": [
+            0.42864407693972484,
+            0.28212331172113375,
+            0.8946841351426129,
+            0.29451581778883507
+          ],
+          "pdfPage": 38,
+          "officialPage": 54
+        }
+      ],
+      "features": [],
+      "notes": [
+        "Unique handles give a firm grip and aid in instrument control. Shafts are hardened",
+        "to resist breakage and tapered for better visualization. All straight probes have",
+        "etched graduations in 5mm increments.",
+        "Probes available separately:"
+      ],
+      "keyParameters": []
+    },
+    {
+      "title": "Patellar Tendon Graft Guide System — Graft Guide Templates",
+      "page": 38,
+      "officialPage": 54,
+      "headingBounds": [
+        0.42866020874841265,
+        0.5630797546880191,
+        0.555261117184563,
+        0.5762153416914771
+      ],
+      "rows": [
+        {
+          "description": "Graft Guide Template, 9mm",
+          "codes": [
+            {
+              "candidate": "8720",
+              "sourceBounds": [
+                0.8670251328850858,
+                0.5812044690929019,
+                0.8946941134201056,
+                0.5937804838448
+              ],
+              "officialBounds": [
+                537.54296875,
+                461.2958984375,
+                554.99755859375,
+                471.4748840332031
+              ],
+              "officialCode": "8720"
+            }
+          ],
+          "rowBounds": [
+            0.42866126311352504,
+            0.5813879936288712,
+            0.8946941134201056,
+            0.5937804838448
+          ],
+          "pdfPage": 38,
+          "officialPage": 54
+        },
+        {
+          "description": "Graft Guide Template, 10mm",
+          "codes": [
+            {
+              "candidate": "8722",
+              "sourceBounds": [
+                0.8669690827977181,
+                0.5991343246763672,
+                0.8947065625249034,
+                0.6117103107505312
+              ],
+              "officialBounds": [
+                537.5069580078125,
+                475.7948913574219,
+                555.0047607421875,
+                485.973876953125
+              ],
+              "officialCode": "8722"
+            }
+          ],
+          "rowBounds": [
+            0.42866224731115954,
+            0.5993178253344774,
+            0.8947065625249034,
+            0.6117103107505312
+          ],
+          "pdfPage": 38,
+          "officialPage": 54
+        },
+        {
+          "description": "Graft Guide Template, 11mm",
+          "codes": [
+            {
+              "candidate": "8724",
+              "sourceBounds": [
+                0.8676263724615304,
+                0.617063881614447,
+                0.8947218173875724,
+                0.6296401364816095
+              ],
+              "officialBounds": [
+                537.9209594726562,
+                490.29388427734375,
+                555.0137329101562,
+                500.4728698730469
+              ],
+              "officialCode": "8724"
+            }
+          ],
+          "rowBounds": [
+            0.42867755054896417,
+            0.6172476510453031,
+            0.8947218173875724,
+            0.6296401364816095
+          ],
+          "pdfPage": 38,
+          "officialPage": 54
+        },
+        {
+          "description": "Graft Guide Template, 12mm",
+          "codes": [
+            {
+              "candidate": "8726",
+              "sourceBounds": [
+                0.8670282306033963,
+                0.6349939641489627,
+                0.8947058219125726,
+                0.6475699752958914
+              ],
+              "officialBounds": [
+                537.54296875,
+                504.7928771972656,
+                555.0029907226562,
+                514.9718627929688
+              ],
+              "officialCode": "8726"
+            }
+          ],
+          "rowBounds": [
+            0.42867858312173435,
+            0.6351774827306567,
+            0.8947058219125726,
+            0.6475699752958914
+          ],
+          "pdfPage": 38,
+          "officialPage": 54
+        }
+      ],
+      "features": [
+        {
+          "text": "Designed for systematic retrieval of patellar tendon grafts for ACL and PCL reconstruction procedures",
+          "bounds": [
+            0.43578724388375467,
+            0.45595898445312344,
+            0.8719424331694255,
+            0.4697626220290689
+          ],
+          "officialStartX": 265.5
+        },
+        {
+          "text": "Set of four templates accurately sizes graft sections from 9 to 12mm dia. to facilitate proper fit into bone tunnels",
+          "bounds": [
+            0.4357888106547069,
+            0.48316475655442503,
+            0.8778708248172971,
+            0.49696591281778907
+          ],
+          "officialStartX": 265.5
+        },
+        {
+          "text": "Precise cutting of both the tibial and patellar sections of graft is simplified",
+          "bounds": [
+            0.4357903774256592,
+            0.5103705286557266,
+            0.8621448609667528,
+            0.5241782693754254
+          ],
+          "officialStartX": 265.5
+        },
+        {
+          "text": "Concave bases on templates assure positive seating over the tibial tubercle",
+          "bounds": [
+            0.43579116081113534,
+            0.5239734147063775,
+            0.8702344507943003,
+            0.5377777689826415
+          ],
+          "officialStartX": 265.5
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Patellar Tendon Graft Guide System — Accessories",
+      "page": 38,
+      "officialPage": 54,
+      "headingBounds": [
+        0.42868076876521327,
+        0.6731295000922481,
+        0.4970604114943425,
+        0.6862894618936977
+      ],
+      "rows": [
+        {
+          "description": "Screw Drill Set (set includes:) One 2.4mm (.09375\") x 2.5\" Screw Drill One 2.4mm (.09375\") x 3.25\" Screw Drill",
+          "codes": [
+            {
+              "candidate": "8730",
+              "sourceBounds": [
+                0.8673324336460911,
+                0.7159841243763435,
+                0.8947247084070231,
+                0.7285602927121559
+              ],
+              "officialBounds": [
+                537.73193359375,
+                570.2858276367188,
+                555.011962890625,
+                580.46484375
+              ],
+              "officialCode": "8730"
+            }
+          ],
+          "rowBounds": [
+            0.44294823115283677,
+            0.6914317662874137,
+            0.8947247084070231,
+            0.7285602927121559
+          ],
+          "pdfPage": 38,
+          "officialPage": 54
+        },
+        {
+          "description": "Sawblade with Stop, Hall® (Non-sterile, Single-use, 1 per Box)",
+          "codes": [
+            {
+              "candidate": "8703",
+              "sourceBounds": [
+                0.8670254142131395,
+                0.7339289918686188,
+                0.8947156798100453,
+                0.7465050354481872
+              ],
+              "officialBounds": [
+                537.53759765625,
+                584.796875,
+                555.005615234375,
+                594.9758911132812
+              ],
+              "officialCode": "8703"
+            }
+          ],
+          "rowBounds": [
+            0.4286842315195739,
+            0.7340975623291414,
+            0.8947156798100453,
+            0.7465050354481872
+          ],
+          "pdfPage": 38,
+          "officialPage": 54
+        },
+        {
+          "description": "Sawblade with Stop, Hall (Sterile, Single-use, 5 per Box)",
+          "codes": [
+            {
+              "candidate": "C8902",
+              "sourceBounds": [
+                0.8586706096664404,
+                0.7518635671733769,
+                0.8946969753991668,
+                0.7644361207780302
+              ],
+              "officialBounds": [
+                532.2662963867188,
+                599.296875,
+                554.9931640625,
+                609.4758911132812
+              ],
+              "officialCode": "C8902"
+            }
+          ],
+          "rowBounds": [
+            0.42867679930642116,
+            0.7520423798744971,
+            0.8946969753991668,
+            0.7644361207780302
+          ],
+          "pdfPage": 38,
+          "officialPage": 54
+        },
+        {
+          "description": "Sawblade with Stop, Hall MicroChoice® (Sterile, Single-use, 5 per Box)",
+          "codes": [
+            {
+              "candidate": "C8904",
+              "sourceBounds": [
+                0.858552155725728,
+                0.7697946942641573,
+                0.894701200802615,
+                0.7823671965081231
+              ],
+              "officialBounds": [
+                532.19091796875,
+                613.796875,
+                554.9951782226562,
+                623.9758911132812
+              ],
+              "officialCode": "C8904"
+            }
+          ],
+          "rowBounds": [
+            0.4286678182978205,
+            0.76997346113356,
+            0.894701200802615,
+            0.7823671965081231
+          ],
+          "pdfPage": 38,
+          "officialPage": 54
+        },
+        {
+          "description": "Sawblade with Stop, Stryker 2000 (Sterile, Single-use, 5 per Box)",
+          "codes": [
+            {
+              "candidate": "C8905",
+              "sourceBounds": [
+                0.858667353620947,
+                0.7877245158921182,
+                0.8947093928976435,
+                0.8002970629349171
+              ],
+              "officialBounds": [
+                532.262939453125,
+                628.2958984375,
+                554.9996948242188,
+                638.4749145507812
+              ],
+              "officialCode": "C8905"
+            }
+          ],
+          "rowBounds": [
+            0.4286778003424181,
+            0.7879045344535891,
+            0.8947093928976435,
+            0.8002970629349171
+          ],
+          "pdfPage": 38,
+          "officialPage": 54
+        }
+      ],
+      "features": [
+        {
+          "text": "Designed for systematic retrieval of patellar tendon grafts for ACL and PCL reconstruction procedures",
+          "bounds": [
+            0.43578724388375467,
+            0.45595898445312344,
+            0.8719424331694255,
+            0.4697626220290689
+          ],
+          "officialStartX": 265.5
+        },
+        {
+          "text": "Set of four templates accurately sizes graft sections from 9 to 12mm dia. to facilitate proper fit into bone tunnels",
+          "bounds": [
+            0.4357888106547069,
+            0.48316475655442503,
+            0.8778708248172971,
+            0.49696591281778907
+          ],
+          "officialStartX": 265.5
+        },
+        {
+          "text": "Precise cutting of both the tibial and patellar sections of graft is simplified",
+          "bounds": [
+            0.4357903774256592,
+            0.5103705286557266,
+            0.8621448609667528,
+            0.5241782693754254
+          ],
+          "officialStartX": 265.5
+        },
+        {
+          "text": "Concave bases on templates assure positive seating over the tibial tubercle",
+          "bounds": [
+            0.43579116081113534,
+            0.5239734147063775,
+            0.8702344507943003,
+            0.5377777689826415
+          ],
+          "officialStartX": 265.5
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 12
+}

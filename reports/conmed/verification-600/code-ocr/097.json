@@ -1,0 +1,106 @@
+{
+  "id": 97,
+  "bounds": [
+    0.5130111524163569,
+    0.7831426179179458,
+    0.5840344355312072,
+    0.7980742394641362
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "T5101",
+      "confidence": 79.967545,
+      "words": [
+        {
+          "text": "T5101",
+          "confidence": 79.967545,
+          "pixelBounds": [
+            2721,
+            5639,
+            2879,
+            5697
+          ],
+          "lineId": "17.18.1",
+          "bounds": [
+            0.5323811387204069,
+            0.7869104102707228,
+            0.5632948542359617,
+            0.7950041864359475
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "T9101",
+      "confidence": 87.033119,
+      "words": [
+        {
+          "text": "T9101",
+          "confidence": 87.033119,
+          "pixelBounds": [
+            2721,
+            5639,
+            2879,
+            5697
+          ],
+          "lineId": "91.1.1",
+          "bounds": [
+            0.5323811387204069,
+            0.7869104102707228,
+            0.5632948542359617,
+            0.7950041864359475
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "wee T1017",
+      "confidence": 17.524595,
+      "words": [
+        {
+          "text": "wee",
+          "confidence": 41.300972,
+          "pixelBounds": [
+            0,
+            76,
+            91,
+            84
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "T1017",
+          "confidence": 17.524595,
+          "pixelBounds": [
+            119,
+            23,
+            257,
+            107
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "veeT5101",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "veeT5101",
+          "confidence": 0.0,
+          "pixelBounds": [
+            0,
+            27,
+            257,
+            85
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

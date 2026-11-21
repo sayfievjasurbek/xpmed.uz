@@ -1,0 +1,3745 @@
+{
+  "mergedIntoExisting": [
+    {
+      "slug": "cable",
+      "tablesAdded": 1,
+      "status": "published"
+    }
+  ],
+  "pdf": "catalogs-source/double-medical/trauma-catalogue.pdf",
+  "sha256": "3f2755d7646453cd1d8981369406a66062322971a7cb98258e022ae9b9769999",
+  "method": "600-DPI Tesseract PSM3/11 plus independent Apple Vision; source glyph reconciliation and Codex visual reading; Codex medical RU; native photo composites, original Real-ESRGAN weights exact 2x then rembg",
+  "systemsCreated": 138,
+  "systems": [
+    {
+      "slug": "mini-external-fixator-i",
+      "name": {
+        "ru": "Мини-аппарат внешней фиксации I",
+        "en": "Mini External Fixator I"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        530
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "mini-external-fixator-ii",
+      "name": {
+        "ru": "Мини-аппарат внешней фиксации II",
+        "en": "Mini External Fixator II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        530
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "mini-external-fixator-iii",
+      "name": {
+        "ru": "Мини-аппарат внешней фиксации III",
+        "en": "Mini External Fixator III"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        530
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "external-fixator-for-hand-i",
+      "name": {
+        "ru": "Аппарат внешней фиксации для кисти I",
+        "en": "External Fixator for Hand I"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        531
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "external-fixator-for-hand-ii",
+      "name": {
+        "ru": "Аппарат внешней фиксации для кисти II",
+        "en": "External Fixator for Hand II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        531
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "threaded-shaft",
+      "name": {
+        "ru": "Резьбовой стержень",
+        "en": "Threaded Shaft"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        531
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "threaded-shaft-with-ball-joint",
+      "name": {
+        "ru": "Резьбовой стержень с шаровым шарниром",
+        "en": "Threaded Shaft with Ball Joint"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        531
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "pin-clamp",
+      "name": {
+        "ru": "Зажим для стержня",
+        "en": "Pin Clamp"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        531,
+        532
+      ],
+      "tables": 2,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "l-pin-clamp",
+      "name": {
+        "ru": "L-образный зажим для стержня",
+        "en": "L-Pin Clamp"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        531
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "external-fixator-for-wrist-and-forearm-i",
+      "name": {
+        "ru": "Аппарат внешней фиксации для лучезапястного сустава и предплечья I",
+        "en": "External Fixator for Wrist and Forearm I"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        532
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "external-fixator-for-wrist-and-forearm-iii",
+      "name": {
+        "ru": "Аппарат внешней фиксации для лучезапястного сустава и предплечья III",
+        "en": "External Fixator for Wrist and Forearm III"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        532
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "external-fixator-for-wrist-and-forearm-iv",
+      "name": {
+        "ru": "Аппарат внешней фиксации для лучезапястного сустава и предплечья IV",
+        "en": "External Fixator for Wrist and Forearm IV"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        532
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "ulnar-clamp",
+      "name": {
+        "ru": "Локтевой зажим",
+        "en": "Ulnar Clamp"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        532
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "external-fixator-for-elbow",
+      "name": {
+        "ru": "Аппарат внешней фиксации для локтевого сустава",
+        "en": "External Fixator for Elbow"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        533
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "regulator",
+      "name": {
+        "ru": "Регулировочный узел",
+        "en": "Regulator"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        533,
+        544,
+        545
+      ],
+      "tables": 3,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "external-fixator-for-calcaneus",
+      "name": {
+        "ru": "Аппарат внешней фиксации для пяточной кости",
+        "en": "External Fixator for Calcaneus"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        534
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "drill-sleeve-for-calcaneus-external-fixator",
+      "name": {
+        "ru": "Сверлильная втулка для аппарата внешней фиксации пяточной кости",
+        "en": "Drill Sleeve for Calcaneus External Fixator"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        534
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "external-fixator-for-pelvis",
+      "name": {
+        "ru": "Аппарат внешней фиксации для таза",
+        "en": "External Fixator for Pelvis"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        535
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "post",
+      "name": {
+        "ru": "Опорная стойка",
+        "en": "Post"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        536,
+        537
+      ],
+      "tables": 2,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "post-to-pin-coupling",
+      "name": {
+        "ru": "Соединитель стойки и стержня",
+        "en": "Post to Pin Coupling"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        536,
+        538
+      ],
+      "tables": 2,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "rod-to-pin-coupling",
+      "name": {
+        "ru": "Соединитель штанги и стержня",
+        "en": "Rod to Pin Coupling"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        536,
+        538,
+        540
+      ],
+      "tables": 3,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "rod-clamp",
+      "name": {
+        "ru": "Зажим для штанги",
+        "en": "Rod Clamp"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        536,
+        538,
+        541
+      ],
+      "tables": 3,
+      "rows": 5,
+      "flags": []
+    },
+    {
+      "slug": "connecting-rod-for-elbow-joint",
+      "name": {
+        "ru": "Соединительная штанга для локтевого сустава",
+        "en": "Connecting Rod for Elbow Joint"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        536
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "circular-connecting-rod",
+      "name": {
+        "ru": "Дугообразная соединительная штанга",
+        "en": "Circular Connecting Rod"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        537
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "curved-rod",
+      "name": {
+        "ru": "Изогнутая штанга",
+        "en": "Curved Rod"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        537
+      ],
+      "tables": 1,
+      "rows": 7,
+      "flags": []
+    },
+    {
+      "slug": "post-0-11-0",
+      "name": {
+        "ru": "Опорная стойка, 0°, Ø11.0",
+        "en": "Post, 0°, Ø11.0"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        539
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "post-30-11-0",
+      "name": {
+        "ru": "Опорная стойка, 30°, Ø11.0",
+        "en": "Post, 30°, Ø11.0"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        539
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "post-to-pin-coupling-5-holes-11-0-6-0",
+      "name": {
+        "ru": "Соединитель стойки и стержня, 5 отверстий, Ø11.0–Ø6.0",
+        "en": "Post to Pin Coupling, 5 Holes, Ø11.0–Ø6.0"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        539
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "rod-to-pin-coupling-11-0-8-0-6-0-5-0",
+      "name": {
+        "ru": "Соединитель штанги и стержня, Ø11.0/Ø8.0–Ø6.0/Ø5.0",
+        "en": "Rod to Pin Coupling, Ø11.0/Ø8.0–Ø6.0/Ø5.0"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        539
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "pin-coupling",
+      "name": {
+        "ru": "Соединитель стержней",
+        "en": "Pin Coupling"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        540
+      ],
+      "tables": 2,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "carbon-fiber-rod",
+      "name": {
+        "ru": "Углепластиковая штанга",
+        "en": "Carbon Fiber Rod"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        541,
+        542
+      ],
+      "tables": 2,
+      "rows": 30,
+      "flags": []
+    },
+    {
+      "slug": "3-0mm-titanium-alloy-rod",
+      "name": {
+        "ru": "Штанга из титанового сплава 3.0 мм",
+        "en": "3.0mm Titanium Alloy Rod"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        541
+      ],
+      "tables": 1,
+      "rows": 7,
+      "flags": []
+    },
+    {
+      "slug": "rail",
+      "name": {
+        "ru": "Рейка",
+        "en": "Rail"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        543,
+        545,
+        546
+      ],
+      "tables": 3,
+      "rows": 10,
+      "flags": []
+    },
+    {
+      "slug": "bone-screw-clamp-i",
+      "name": {
+        "ru": "Зажим для костных винтов I",
+        "en": "Bone Screw Clamp I"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        543,
+        545,
+        546
+      ],
+      "tables": 3,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "bone-screw-clamp-ii",
+      "name": {
+        "ru": "Зажим для костных винтов II",
+        "en": "Bone Screw Clamp II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        543,
+        545,
+        546
+      ],
+      "tables": 3,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "bone-screw-clamp-iii",
+      "name": {
+        "ru": "Зажим для костных винтов III",
+        "en": "Bone Screw Clamp III"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        543,
+        545
+      ],
+      "tables": 2,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "bone-screw-spacer",
+      "name": {
+        "ru": "Проставка для костных винтов",
+        "en": "Bone Screw Spacer"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        543,
+        545
+      ],
+      "tables": 2,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "dynamic-clamp",
+      "name": {
+        "ru": "Динамический зажим",
+        "en": "Dynamic-Clamp"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        544
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "t-clamp",
+      "name": {
+        "ru": "T-образный зажим",
+        "en": "T-Clamp"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        544
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "multiplanar-clamp",
+      "name": {
+        "ru": "Многоплоскостной зажим",
+        "en": "Multiplanar-Clamp"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        544
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "t-clamp-ii",
+      "name": {
+        "ru": "T-образный зажим, II",
+        "en": "T-Clamp, II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        544
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "threaded-regulator",
+      "name": {
+        "ru": "Резьбовой регулировочный узел",
+        "en": "Threaded Regulator"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        546
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "horizontal-transport",
+      "name": {
+        "ru": "Узел поперечного перемещения",
+        "en": "Horizontal Transport"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        547
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "full-ring",
+      "name": {
+        "ru": "Полное кольцо",
+        "en": "Full Ring"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        548,
+        558
+      ],
+      "tables": 2,
+      "rows": 16,
+      "flags": []
+    },
+    {
+      "slug": "semi-ring",
+      "name": {
+        "ru": "Полукольцо",
+        "en": "Semi-Ring"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        548
+      ],
+      "tables": 1,
+      "rows": 8,
+      "flags": []
+    },
+    {
+      "slug": "c-ring",
+      "name": {
+        "ru": "C-образное кольцо",
+        "en": "C-Ring"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        548
+      ],
+      "tables": 1,
+      "rows": 8,
+      "flags": []
+    },
+    {
+      "slug": "u-ring",
+      "name": {
+        "ru": "U-образное кольцо",
+        "en": "U-Ring"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        549,
+        558
+      ],
+      "tables": 2,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "u-ring-long",
+      "name": {
+        "ru": "Удлинённое U-образное кольцо",
+        "en": "U-Ring, long"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        549
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "angulation-of-joint-device",
+      "name": {
+        "ru": "Шарнирное угловое устройство",
+        "en": "Angulation of Joint Device"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        549
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "threaded-rod",
+      "name": {
+        "ru": "Резьбовая штанга",
+        "en": "Threaded Rod"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        550
+      ],
+      "tables": 1,
+      "rows": 15,
+      "flags": []
+    },
+    {
+      "slug": "s-threaded-rod",
+      "name": {
+        "ru": "S-образная резьбовая штанга",
+        "en": "S-Threaded Rod"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        550
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "connector-plate",
+      "name": {
+        "ru": "Соединительная пластина",
+        "en": "Connector Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        550
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "angle-plate-of-round-external-fixator",
+      "name": {
+        "ru": "Угловая пластина для кольцевого аппарата внешней фиксации",
+        "en": "Angle Plate, of Round External Fixator"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        550
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "twisted-plate",
+      "name": {
+        "ru": "Изогнутая соединительная пластина",
+        "en": "Twisted Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        551
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "retangular-column-connector-with-internal-thread",
+      "name": {
+        "ru": "Прямоугольный соединитель с внутренней резьбой",
+        "en": "Retangular Column Connector with Internal Thread"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        551
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "universal-hinge",
+      "name": {
+        "ru": "Универсальный шарнир",
+        "en": "Universal Hinge"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        551
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "tube-hinge",
+      "name": {
+        "ru": "Трубчатый шарнир",
+        "en": "Tube Hinge"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        551
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "tube-screw-hinge",
+      "name": {
+        "ru": "Трубчато-винтовой шарнир",
+        "en": "Tube-Screw Hinge"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        552
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "tube-screw-hinge-and-shaft-of-round-external-fixator",
+      "name": {
+        "ru": "Трубчато-винтовой шарнир со стержнем для кольцевого аппарата внешней фиксации",
+        "en": "Tube-Screw Hinge and Shaft, of Round External Fixator"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        552
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "wire-clamp-of-round-external-fixator",
+      "name": {
+        "ru": "Спицефиксатор для кольцевого аппарата внешней фиксации",
+        "en": "Wire Clamp, of Round External Fixator"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        552
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "hexagonal-nut",
+      "name": {
+        "ru": "Шестигранная гайка",
+        "en": "Hexagonal Nut"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        553
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "hexagonal-screw",
+      "name": {
+        "ru": "Винт с шестигранной головкой",
+        "en": "Hexagonal Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        553
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "protection-sleeve",
+      "name": {
+        "ru": "Защитная втулка",
+        "en": "Protection Sleeve"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        553
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "spring",
+      "name": {
+        "ru": "Пружина",
+        "en": "Spring"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        553
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "oblique-buttress-device",
+      "name": {
+        "ru": "Косая опорная стойка",
+        "en": "Oblique Buttress Device"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        553
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "screw-clamp",
+      "name": {
+        "ru": "Винтовой зажим",
+        "en": "Screw Clamp"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        553
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "wire-clamp",
+      "name": {
+        "ru": "Спицефиксатор",
+        "en": "Wire Clamp"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        554
+      ],
+      "tables": 2,
+      "rows": 7,
+      "flags": []
+    },
+    {
+      "slug": "extender",
+      "name": {
+        "ru": "Удлинитель",
+        "en": "Extender"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        554
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "extension-plate",
+      "name": {
+        "ru": "Удлинительная пластина",
+        "en": "Extension Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        554
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "extension-plate-ii",
+      "name": {
+        "ru": "Удлинительная пластина II",
+        "en": "Extension Plate II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        555
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "washer",
+      "name": {
+        "ru": "Шайба",
+        "en": "Washer"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        555
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "variable-angle-washer-of-round-external-fixator",
+      "name": {
+        "ru": "Шайба с переменным углом для кольцевого аппарата внешней фиксации",
+        "en": "Variable Angle Washer, of Round External Fixator"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        555
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "compression-nut",
+      "name": {
+        "ru": "Компрессионная гайка",
+        "en": "Compression Nut"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        555
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "complex-hinge",
+      "name": {
+        "ru": "Комбинированный шарнир",
+        "en": "Complex Hinge"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        556
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "hinge-with-external-thread",
+      "name": {
+        "ru": "Шарнир с наружной резьбой",
+        "en": "Hinge with External Thread"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        556
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "connecting-bolt-i",
+      "name": {
+        "ru": "Соединительный болт I",
+        "en": "Connecting Bolt I"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        556
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "hinge-with-internal-thread",
+      "name": {
+        "ru": "Шарнир с внутренней резьбой",
+        "en": "Hinge with Internal Thread"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        557
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "retangular-column-connector-with-internal-thread-of-round-external-fixator",
+      "name": {
+        "ru": "Прямоугольный соединитель с внутренней резьбой для кольцевого аппарата внешней фиксации",
+        "en": "Retangular Column Connector with Internal Thread, of Round External Fixator"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        557
+      ],
+      "tables": 1,
+      "rows": 5,
+      "flags": []
+    },
+    {
+      "slug": "connecting-bolt-ii",
+      "name": {
+        "ru": "Соединительный болт II",
+        "en": "Connecting Bolt II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        557
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "square-nut",
+      "name": {
+        "ru": "Квадратная гайка",
+        "en": "Square Nut"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        557
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "silicone-cap",
+      "name": {
+        "ru": "Силиконовый колпачок",
+        "en": "Silicone Cap"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        557
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "g-ring",
+      "name": {
+        "ru": "G-образное кольцо",
+        "en": "G-Ring"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        558
+      ],
+      "tables": 1,
+      "rows": 8,
+      "flags": []
+    },
+    {
+      "slug": "buttress-shaft",
+      "name": {
+        "ru": "Опорный стержень",
+        "en": "Buttress Shaft"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        559
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "support-shaft",
+      "name": {
+        "ru": "Поддерживающий стержень",
+        "en": "Support Shaft"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        559
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "support-shaft-of-3-d-external-fixator",
+      "name": {
+        "ru": "Поддерживающий стержень для 3D-аппарата внешней фиксации",
+        "en": "Support Shaft, of 3-D External Fixator"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        559
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "buttress-shaft-of-3-d-external-fixator",
+      "name": {
+        "ru": "Опорный стержень для 3D-аппарата внешней фиксации",
+        "en": "Buttress Shaft, of 3-D External Fixator"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        559
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "numbered-ring",
+      "name": {
+        "ru": "Маркировочное кольцо с номером",
+        "en": "Numbered Ring"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        560
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "direction-indication-ring",
+      "name": {
+        "ru": "Кольцо-указатель направления",
+        "en": "Direction Indication Ring"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        560
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "2-5mm-cortex-bone-screw-i",
+      "name": {
+        "ru": "Кортикальный стержень-винт I 2.5 мм",
+        "en": "2.5mm Cortex Bone Screw I"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        560
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "2-5mm-cortex-bone-screw-ii",
+      "name": {
+        "ru": "Кортикальный стержень-винт II 2.5 мм",
+        "en": "2.5mm Cortex Bone Screw II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        560
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "4-0mm-cortex-bone-screw",
+      "name": {
+        "ru": "Кортикальный стержень-винт 4.0 мм",
+        "en": "4.0mm Cortex Bone Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        561
+      ],
+      "tables": 1,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "4-0mm-cancellous-bone-screw",
+      "name": {
+        "ru": "Спонгиозный стержень-винт 4.0 мм",
+        "en": "4.0mm Cancellous Bone Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        561
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "5-0mm-cortex-bone-screw",
+      "name": {
+        "ru": "Кортикальный стержень-винт 5.0 мм",
+        "en": "5.0mm Cortex Bone Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        562
+      ],
+      "tables": 1,
+      "rows": 15,
+      "flags": []
+    },
+    {
+      "slug": "5-0mm-cancellous-bone-screw",
+      "name": {
+        "ru": "Спонгиозный стержень-винт 5.0 мм",
+        "en": "5.0mm Cancellous Bone Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        562
+      ],
+      "tables": 1,
+      "rows": 8,
+      "flags": []
+    },
+    {
+      "slug": "6-0mm-cortex-bone-screw",
+      "name": {
+        "ru": "Кортикальный стержень-винт 6.0 мм",
+        "en": "6.0mm Cortex Bone Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        562
+      ],
+      "tables": 1,
+      "rows": 10,
+      "flags": []
+    },
+    {
+      "slug": "6-0mm-cancellous-bone-screw",
+      "name": {
+        "ru": "Спонгиозный стержень-винт 6.0 мм",
+        "en": "6.0mm Cancellous Bone Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        563
+      ],
+      "tables": 1,
+      "rows": 8,
+      "flags": []
+    },
+    {
+      "slug": "6-0mm-taper-bone-screw",
+      "name": {
+        "ru": "Конический стержень-винт 6.0 мм",
+        "en": "6.0mm Taper Bone Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        563,
+        564
+      ],
+      "tables": 3,
+      "rows": 31,
+      "flags": []
+    },
+    {
+      "slug": "6-0mm-reduction-bone-screw-thread",
+      "name": {
+        "ru": "Репозиционный стержень-винт с резьбой 6.0 мм",
+        "en": "6.0mm Reduction Bone Screw, Thread"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        564
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "4mm-threaded-bone-pin",
+      "name": {
+        "ru": "Резьбовая костная спица 4 мм",
+        "en": "4mm Threaded Bone Pin"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        564
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "3-0mm-calcaneus-bone-screw",
+      "name": {
+        "ru": "Стержень-винт для пяточной кости 3.0 мм",
+        "en": "3.0mm Calcaneus Bone Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        565
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "3-0mm-cortex-bone-screw-ii",
+      "name": {
+        "ru": "Кортикальный стержень-винт II 3.0 мм",
+        "en": "3.0mm Cortex Bone Screw II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        565
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "2-0mm-kirschner-wire-with-olive-head",
+      "name": {
+        "ru": "Спица Киршнера 2.0 мм с оливой",
+        "en": "2.0mm Kirschner Wire, with olive head"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        565
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "2-0mm-kirschner-wire",
+      "name": {
+        "ru": "Спица Киршнера 2.0 мм",
+        "en": "2.0mm Kirschner Wire"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        565
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "pediatric-hip-locking-plate-2-7-head-2-holes",
+      "name": {
+        "ru": "Детская блокируемая пластина для проксимального отдела бедренной кости 2.7 — 2 отверстия в головной части",
+        "en": "Pediatric Hip Locking Plate 2.7, head 2 holes"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        582
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "pediatric-hip-locking-plate-2-7-head-3-holes",
+      "name": {
+        "ru": "Детская блокируемая пластина для проксимального отдела бедренной кости 2.7 — 3 отверстия в головной части",
+        "en": "Pediatric Hip Locking Plate 2.7, head 3 holes"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        582
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "pediatric-hip-locking-plate-3-5",
+      "name": {
+        "ru": "Детская блокируемая пластина для проксимального отдела бедренной кости 3.5",
+        "en": "Pediatric Hip Locking Plate 3.5"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        583,
+        584
+      ],
+      "tables": 2,
+      "rows": 38,
+      "flags": []
+    },
+    {
+      "slug": "pediatric-hip-locking-plate-5-0",
+      "name": {
+        "ru": "Детская блокируемая пластина для проксимального отдела бедренной кости 5.0",
+        "en": "Pediatric Hip Locking Plate 5.0"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        585
+      ],
+      "tables": 1,
+      "rows": 33,
+      "flags": []
+    },
+    {
+      "slug": "4-5mm-epiphyseal-plate-arc-bridge-shape",
+      "name": {
+        "ru": "Дугообразная эпифизарная пластина 4.5 мм",
+        "en": "4.5mm Epiphyseal Plate, arc-bridge shape"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        586
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "4-5mm-epiphyseal-plate-terrace-shape",
+      "name": {
+        "ru": "Ступенчатая эпифизарная пластина 4.5 мм",
+        "en": "4.5mm Epiphyseal Plate, terrace shape"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        586
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "4-5mm-epiphyseal-hinge-plate",
+      "name": {
+        "ru": "Шарнирная эпифизарная пластина 4.5 мм",
+        "en": "4.5mm Epiphyseal Hinge Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        586
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "3-0mm-epiphyseal-plate-arc-bridge-shape",
+      "name": {
+        "ru": "Дугообразная эпифизарная пластина 3.0 мм",
+        "en": "3.0mm Epiphyseal Plate, arc-bridge shape"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        587
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "4-5mm-epiphyseal-plate-butterfly-shape",
+      "name": {
+        "ru": "Эпифизарная пластина в форме бабочки 4.5 мм",
+        "en": "4.5mm Epiphyseal Plate, butterfly shape"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        587
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "3-5mm-pediatric-femoral-sliding-barrel-locking-plate",
+      "name": {
+        "ru": "Детская скользящая углостабильная пластина с втулкой для бедренной кости 3.5 мм",
+        "en": "3.5mm Pediatric Femoral Sliding Barrel Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        588
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "3-5mm-pediatric-femoral-sliding-straight-locking-plate",
+      "name": {
+        "ru": "Детская скользящая прямая блокируемая пластина для бедренной кости 3.5 мм",
+        "en": "3.5mm Pediatric Femoral Sliding Straight Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        588
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "3-5mm-pediatric-tibia-sliding-barrel-locking-plate",
+      "name": {
+        "ru": "Детская скользящая углостабильная пластина с втулкой для большеберцовой кости 3.5 мм",
+        "en": "3.5mm Pediatric Tibia Sliding Barrel Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        589
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "3-5mm-pediatric-tibia-sliding-straight-locking-plate",
+      "name": {
+        "ru": "Детская скользящая прямая блокируемая пластина для большеберцовой кости 3.5 мм",
+        "en": "3.5mm Pediatric Tibia Sliding Straight Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        589
+      ],
+      "tables": 1,
+      "rows": 7,
+      "flags": []
+    },
+    {
+      "slug": "5-0mm-pediatric-femoral-sliding-barrel-locking-plate",
+      "name": {
+        "ru": "Детская скользящая углостабильная пластина с втулкой для бедренной кости 5.0 мм",
+        "en": "5.0mm Pediatric Femoral Sliding Barrel Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        590
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "5-0mm-pediatric-femoral-sliding-straight-locking-plate",
+      "name": {
+        "ru": "Детская скользящая прямая блокируемая пластина для бедренной кости 5.0 мм",
+        "en": "5.0mm Pediatric Femoral Sliding Straight Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        590
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "4-5mm-cannulated-screw-for-4-5mm-epiphyseal-plate-self-tapping",
+      "name": {
+        "ru": "Самонарезающий канюлированный винт 4.5 мм для эпифизарной пластины 4.5 мм",
+        "en": "4.5mm Cannulated Screw for 4.5mm Epiphyseal Plate, self-tapping"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        591
+      ],
+      "tables": 1,
+      "rows": 16,
+      "flags": []
+    },
+    {
+      "slug": "3-0mm-cannulated-screw-for-3-0mm-epiphyseal-plate-self-tapping",
+      "name": {
+        "ru": "Самонарезающий канюлированный винт 3.0 мм для эпифизарной пластины 3.0 мм",
+        "en": "3.0mm Cannulated Screw for 3.0mm Epiphyseal Plate, self-tapping"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        591
+      ],
+      "tables": 1,
+      "rows": 16,
+      "flags": []
+    },
+    {
+      "slug": "patella-pin",
+      "name": {
+        "ru": "Спица для фиксации надколенника",
+        "en": "Patella Pin"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        612
+      ],
+      "tables": 1,
+      "rows": 22,
+      "flags": []
+    },
+    {
+      "slug": "clasp",
+      "name": {
+        "ru": "Обжимной фиксатор",
+        "en": "Clasp"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        613
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "patella-locking-plate",
+      "name": {
+        "ru": "Блокируемая пластина для надколенника",
+        "en": "Patella Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        613
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "1-0-clasp",
+      "name": {
+        "ru": "Обжимной фиксатор Ø1.0",
+        "en": "Ø1.0 Clasp"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        613,
+        614
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "1-0-cable",
+      "name": {
+        "ru": "Серкляжный трос Ø1.0",
+        "en": "Ø1.0 Cable"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        615
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "external-fixator-for-wrist-and-forearm-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для аппарата внешней фиксации кисти и предплечья",
+        "en": "External Fixator for Wrist and Forearm Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        566,
+        567
+      ],
+      "tables": 2,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "mini-external-fixator-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для мини-аппарата внешней фиксации",
+        "en": "Mini External Fixator Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        568,
+        569
+      ],
+      "tables": 2,
+      "rows": 8,
+      "flags": []
+    },
+    {
+      "slug": "small-external-fixation-modular-rod-system-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для малой модульной стержневой системы внешней фиксации",
+        "en": "Small External Fixation Modular Rod System Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        570,
+        571,
+        572,
+        573
+      ],
+      "tables": 4,
+      "rows": 20,
+      "flags": []
+    },
+    {
+      "slug": "large-external-fixation-modular-rod-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для большой модульной стержневой системы внешней фиксации",
+        "en": "Large External Fixation Modular Rod Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        574,
+        575,
+        576,
+        577,
+        578
+      ],
+      "tables": 5,
+      "rows": 22,
+      "flags": []
+    },
+    {
+      "slug": "pediatric-hip-locking-plate-3-5-5-0-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для детских блокируемых пластин тазобедренного сустава 3.5/5.0",
+        "en": "Pediatric Hip Locking Plate 3.5/5.0 Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        592,
+        593,
+        594,
+        595,
+        596,
+        597
+      ],
+      "tables": 6,
+      "rows": 40,
+      "flags": []
+    },
+    {
+      "slug": "pediatric-hip-locking-plate-2-7-3-5-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для детских блокируемых пластин тазобедренного сустава 2.7/3.5",
+        "en": "Pediatric Hip Locking Plate 2.7/3.5 Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        598,
+        599,
+        600,
+        601,
+        602,
+        603
+      ],
+      "tables": 6,
+      "rows": 42,
+      "flags": []
+    },
+    {
+      "slug": "3-0-4-5-epiphyseal-plate-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для эпифизарных пластин 3.0/4.5",
+        "en": "3.0/4.5 Epiphyseal Plate Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        604,
+        605,
+        606,
+        607,
+        608
+      ],
+      "tables": 5,
+      "rows": 35,
+      "flags": []
+    },
+    {
+      "slug": "patella-pin-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для фиксации надколенника",
+        "en": "Patella Pin Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        616,
+        617
+      ],
+      "tables": 2,
+      "rows": 7,
+      "flags": []
+    },
+    {
+      "slug": "instrument-set-for-medium-distractors",
+      "name": {
+        "ru": "Набор инструментов для средних дистракторов",
+        "en": "Instrument Set for Medium Distractors"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        620,
+        621,
+        622,
+        623
+      ],
+      "tables": 4,
+      "rows": 19,
+      "flags": []
+    },
+    {
+      "slug": "instrument-set-for-removal-of-damaged-screws",
+      "name": {
+        "ru": "Набор инструментов для удаления повреждённых винтов",
+        "en": "Instrument Set for Removal of Damaged Screws"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        624,
+        625,
+        626,
+        627,
+        628
+      ],
+      "tables": 5,
+      "rows": 31,
+      "flags": []
+    },
+    {
+      "slug": "locking-plate-screw-case-set",
+      "name": {
+        "ru": "Контейнеры для блокируемых пластин и винтов",
+        "en": "Locking Plate/Screw Case Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        632,
+        633,
+        634
+      ],
+      "tables": 3,
+      "rows": 32,
+      "flags": []
+    },
+    {
+      "slug": "intramedullary-nail-reamer-case-set",
+      "name": {
+        "ru": "Контейнеры для интрамедуллярных штифтов и римеров",
+        "en": "Intramedullary Nail/Reamer Case Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        635,
+        636,
+        637,
+        638,
+        639,
+        640
+      ],
+      "tables": 6,
+      "rows": 44,
+      "flags": []
+    },
+    {
+      "slug": "other-accessories-and-optional-instruments",
+      "name": {
+        "ru": "Дополнительные принадлежности и инструменты",
+        "en": "Other Accessories and Optional Instruments"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        641,
+        642,
+        643
+      ],
+      "tables": 3,
+      "rows": 12,
+      "flags": []
+    }
+  ],
+  "nonProductPages": [
+    528,
+    529,
+    579,
+    580,
+    581,
+    609,
+    610,
+    611,
+    618,
+    619,
+    629,
+    630,
+    631,
+    644
+  ],
+  "tablesCreated": 203,
+  "imagesExtracted": 426,
+  "uncertainties": [],
+  "translationWorkflow": "Codex-authored medical Russian; retained English; every translated field marked for medical review; no external adapter",
+  "systemsNew": 138,
+  "systemsMerged": 1,
+  "systemsPublished": 138,
+  "systemsDraft": 0,
+  "implantSystems": 125,
+  "instrumentSets": 10,
+  "instrumentCollections": 3,
+  "codesFound": 946,
+  "codesVerified": 946,
+  "distinctCodes": 884,
+  "componentRefOccurrences": 936,
+  "setCodeOccurrences": 10,
+  "scope": [
+    {
+      "section": 9,
+      "indexPage": 529,
+      "physicalPages": [
+        530,
+        578
+      ],
+      "en": "External Fixator Set",
+      "ru": "Аппараты внешней фиксации",
+      "productPhysicalPages": [
+        530,
+        578
+      ]
+    },
+    {
+      "section": 10,
+      "indexPage": 581,
+      "physicalPages": [
+        582,
+        608
+      ],
+      "en": "Pediatric System",
+      "ru": "Детская травматология",
+      "productPhysicalPages": [
+        582,
+        608
+      ]
+    },
+    {
+      "section": 11,
+      "indexPage": 611,
+      "physicalPages": [
+        612,
+        617
+      ],
+      "en": "Patella Pin System",
+      "ru": "Фиксация надколенника",
+      "productPhysicalPages": [
+        612,
+        617
+      ]
+    },
+    {
+      "section": 12,
+      "indexPage": 619,
+      "physicalPages": [
+        620,
+        628
+      ],
+      "en": "General Instruments",
+      "ru": "Общие инструменты",
+      "productPhysicalPages": [
+        620,
+        628
+      ]
+    },
+    {
+      "section": 13,
+      "indexPage": 631,
+      "physicalPages": [
+        632,
+        643
+      ],
+      "en": "Implant Case and Optional Instrument",
+      "ru": "Контейнеры и дополнительные инструменты",
+      "productPhysicalPages": [
+        632,
+        643
+      ]
+    }
+  ],
+  "authorizedPhysicalPages": [
+    530,
+    531,
+    532,
+    533,
+    534,
+    535,
+    536,
+    537,
+    538,
+    539,
+    540,
+    541,
+    542,
+    543,
+    544,
+    545,
+    546,
+    547,
+    548,
+    549,
+    550,
+    551,
+    552,
+    553,
+    554,
+    555,
+    556,
+    557,
+    558,
+    559,
+    560,
+    561,
+    562,
+    563,
+    564,
+    565,
+    566,
+    567,
+    568,
+    569,
+    570,
+    571,
+    572,
+    573,
+    574,
+    575,
+    576,
+    577,
+    578,
+    582,
+    583,
+    584,
+    585,
+    586,
+    587,
+    588,
+    589,
+    590,
+    591,
+    592,
+    593,
+    594,
+    595,
+    596,
+    597,
+    598,
+    599,
+    600,
+    601,
+    602,
+    603,
+    604,
+    605,
+    606,
+    607,
+    608,
+    612,
+    613,
+    614,
+    615,
+    616,
+    617,
+    620,
+    621,
+    622,
+    623,
+    624,
+    625,
+    626,
+    627,
+    628,
+    632,
+    633,
+    634,
+    635,
+    636,
+    637,
+    638,
+    639,
+    640,
+    641,
+    642,
+    643
+  ],
+  "blankPages": [
+    528,
+    579,
+    580,
+    609,
+    610,
+    618,
+    629,
+    630
+  ],
+  "openRealFlags": [],
+  "randomSample": [
+    {
+      "system": {
+        "ru": "Самонарезающий канюлированный винт 3.0 мм для эпифизарной пластины 3.0 мм",
+        "en": "3.0mm Cannulated Screw for 3.0mm Epiphyseal Plate, self-tapping"
+      },
+      "slug": "3-0mm-cannulated-screw-for-3-0mm-epiphyseal-plate-self-tapping",
+      "pdfPage": 591,
+      "printedPage": "10/11",
+      "REF": "060980014",
+      "size": {
+        "ru": "Самонарезающий канюлированный винт 3.0 мм для эпифизарной пластины 3.0 мм · Длина: 14",
+        "en": "3.0mm Cannulated Screw for 3.0mm Epiphyseal Plate, self-tapping · Length: 14"
+      }
+    },
+    {
+      "system": {
+        "ru": "Шарнирное угловое устройство",
+        "en": "Angulation of Joint Device"
+      },
+      "slug": "angulation-of-joint-device",
+      "pdfPage": 549,
+      "printedPage": "9/21",
+      "REF": "108873100",
+      "size": {
+        "ru": "Шарнирное угловое устройство · Длина: 150",
+        "en": "Angulation of Joint Device · Length: 150"
+      }
+    },
+    {
+      "system": {
+        "ru": "Поддерживающий стержень для 3D-аппарата внешней фиксации",
+        "en": "Support Shaft, of 3-D External Fixator"
+      },
+      "slug": "support-shaft-of-3-d-external-fixator",
+      "pdfPage": 559,
+      "printedPage": "9/31",
+      "REF": "100155500",
+      "size": {
+        "ru": "Поддерживающий стержень для 3D-аппарата внешней фиксации · Длина: 130-185",
+        "en": "Support Shaft, of 3-D External Fixator · Length: 130-185"
+      }
+    },
+    {
+      "system": {
+        "ru": "Спонгиозный стержень-винт 6.0 мм",
+        "en": "6.0mm Cancellous Bone Screw"
+      },
+      "slug": "6-0mm-cancellous-bone-screw",
+      "pdfPage": 563,
+      "printedPage": "9/35",
+      "REF": "100240120 / 105220002S",
+      "size": {
+        "ru": "Спонгиозный стержень-винт 6.0 мм · Размер: Ø6.0/Ø5.0*120/50",
+        "en": "6.0mm Cancellous Bone Screw · Size: Ø6.0/Ø5.0*120/50"
+      }
+    },
+    {
+      "system": {
+        "ru": "Набор инструментов для удаления повреждённых винтов",
+        "en": "Instrument Set for Removal of Damaged Screws"
+      },
+      "slug": "instrument-set-for-removal-of-damaged-screws",
+      "pdfPage": 626,
+      "printedPage": "12/8",
+      "REF": "110392300",
+      "size": {
+        "ru": "Запасный центрирующий штифт для полого римера, Ø4.5",
+        "en": "Spare Centering Pin for Hollow Reamer, Ø4.5"
+      }
+    },
+    {
+      "system": {
+        "ru": "Набор инструментов для большой модульной стержневой системы внешней фиксации",
+        "en": "Large External Fixation Modular Rod Instrument Set"
+      },
+      "slug": "large-external-fixation-modular-rod-instrument-set",
+      "pdfPage": 574,
+      "printedPage": "9/46",
+      "REF": "111910600",
+      "size": {
+        "ru": "Направитель сверла, для кость винты, Ø5.0/pØ8.0, длинный",
+        "en": "Drill Guide, for Bone Screws, Ø5.0/pØ8.0, long"
+      }
+    },
+    {
+      "system": {
+        "ru": "Углепластиковая штанга",
+        "en": "Carbon Fiber Rod"
+      },
+      "slug": "carbon-fiber-rod",
+      "pdfPage": 542,
+      "printedPage": "9/14",
+      "REF": "100390125",
+      "size": {
+        "ru": "Углепластиковая штанга · Диаметр: 11, Длина: 125",
+        "en": "Carbon Fiber Rod · Diameter: 11, Length: 125"
+      }
+    },
+    {
+      "system": {
+        "ru": "Кортикальный стержень-винт 6.0 мм",
+        "en": "6.0mm Cortex Bone Screw"
+      },
+      "slug": "6-0mm-cortex-bone-screw",
+      "pdfPage": 562,
+      "printedPage": "9/34",
+      "REF": "100230100 / 105210001S",
+      "size": {
+        "ru": "Кортикальный стержень-винт 6.0 мм · Размер: Ø6.0/Ø5.0*100/40",
+        "en": "6.0mm Cortex Bone Screw · Size: Ø6.0/Ø5.0*100/40"
+      }
+    },
+    {
+      "system": {
+        "ru": "Углепластиковая штанга",
+        "en": "Carbon Fiber Rod"
+      },
+      "slug": "carbon-fiber-rod",
+      "pdfPage": 542,
+      "printedPage": "9/14",
+      "REF": "100380065",
+      "size": {
+        "ru": "Углепластиковая штанга · Диаметр: 8, Длина: 65",
+        "en": "Carbon Fiber Rod · Diameter: 8, Length: 65"
+      }
+    },
+    {
+      "system": {
+        "ru": "Аппарат внешней фиксации для кисти II",
+        "en": "External Fixator for Hand II"
+      },
+      "slug": "external-fixator-for-hand-ii",
+      "pdfPage": 531,
+      "printedPage": "9/3",
+      "REF": "101350100",
+      "size": {
+        "ru": "Аппарат внешней фиксации для кисти II",
+        "en": "External Fixator for Hand II"
+      }
+    },
+    {
+      "system": {
+        "ru": "Резьбовая штанга",
+        "en": "Threaded Rod"
+      },
+      "slug": "threaded-rod",
+      "pdfPage": 550,
+      "printedPage": "9/22",
+      "REF": "108870807",
+      "size": {
+        "ru": "Резьбовая штанга · Размер: M6*160",
+        "en": "Threaded Rod · Size: M6*160"
+      }
+    },
+    {
+      "system": {
+        "ru": "U-образное кольцо",
+        "en": "U-Ring"
+      },
+      "slug": "u-ring",
+      "pdfPage": 549,
+      "printedPage": "9/21",
+      "REF": "108870406",
+      "size": {
+        "ru": "U-образное кольцо · Диаметр: 180",
+        "en": "U-Ring · Diameter: 180"
+      }
+    },
+    {
+      "system": {
+        "ru": "Конический стержень-винт 6.0 мм",
+        "en": "6.0mm Taper Bone Screw"
+      },
+      "slug": "6-0mm-taper-bone-screw",
+      "pdfPage": 563,
+      "printedPage": "9/35",
+      "REF": "101210001",
+      "size": {
+        "ru": "Конический стержень-винт 6.0 мм · Размер: Ø6.0/Ø5.0*100/30",
+        "en": "6.0mm Taper Bone Screw · Size: Ø6.0/Ø5.0*100/30"
+      }
+    },
+    {
+      "system": {
+        "ru": "Спонгиозный стержень-винт 6.0 мм",
+        "en": "6.0mm Cancellous Bone Screw"
+      },
+      "slug": "6-0mm-cancellous-bone-screw",
+      "pdfPage": 563,
+      "printedPage": "9/35",
+      "REF": "100240200 / 105220004S",
+      "size": {
+        "ru": "Спонгиозный стержень-винт 6.0 мм · Размер: Ø6.0/Ø5.0*200/50",
+        "en": "6.0mm Cancellous Bone Screw · Size: Ø6.0/Ø5.0*200/50"
+      }
+    },
+    {
+      "system": {
+        "ru": "Удлинённое U-образное кольцо",
+        "en": "U-Ring, long"
+      },
+      "slug": "u-ring-long",
+      "pdfPage": 549,
+      "printedPage": "9/21",
+      "REF": "108870504",
+      "size": {
+        "ru": "Удлинённое U-образное кольцо · Диаметр: 140",
+        "en": "U-Ring, long · Diameter: 140"
+      }
+    },
+    {
+      "system": {
+        "ru": "U-образное кольцо",
+        "en": "U-Ring"
+      },
+      "slug": "u-ring",
+      "pdfPage": 558,
+      "printedPage": "9/30",
+      "REF": "100154704",
+      "size": {
+        "ru": "U-образное кольцо · Диаметр: 140",
+        "en": "U-Ring · Diameter: 140"
+      }
+    },
+    {
+      "system": {
+        "ru": "Набор инструментов для малой модульной стержневой системы внешней фиксации",
+        "en": "Small External Fixation Modular Rod System Instrument Set"
+      },
+      "slug": "small-external-fixation-modular-rod-system-instrument-set",
+      "pdfPage": 571,
+      "printedPage": "9/43",
+      "REF": "111910500",
+      "size": {
+        "ru": "Направитель сверла для кость винты, Ø4.0/Ø8.0",
+        "en": "Drill Guide for Bone Screws, Ø4.0/Ø8.0"
+      }
+    },
+    {
+      "system": {
+        "ru": "Конический стержень-винт 6.0 мм",
+        "en": "6.0mm Taper Bone Screw"
+      },
+      "slug": "6-0mm-taper-bone-screw",
+      "pdfPage": 563,
+      "printedPage": "9/35",
+      "REF": "101210003",
+      "size": {
+        "ru": "Конический стержень-винт 6.0 мм · Размер: Ø6.0/Ø5.0*130/35",
+        "en": "6.0mm Taper Bone Screw · Size: Ø6.0/Ø5.0*130/35"
+      }
+    },
+    {
+      "system": {
+        "ru": "Спица Киршнера 2.0 мм с оливой",
+        "en": "2.0mm Kirschner Wire, with olive head"
+      },
+      "slug": "2-0mm-kirschner-wire-with-olive-head",
+      "pdfPage": 565,
+      "printedPage": "9/37",
+      "REF": "102710200",
+      "size": {
+        "ru": "Спица Киршнера 2.0 мм с оливой · Размер: Ø2.0*350/200",
+        "en": "2.0mm Kirschner Wire, with olive head · Size: Ø2.0*350/200"
+      }
+    },
+    {
+      "system": {
+        "ru": "Конический стержень-винт 6.0 мм",
+        "en": "6.0mm Taper Bone Screw"
+      },
+      "slug": "6-0mm-taper-bone-screw",
+      "pdfPage": 563,
+      "printedPage": "9/35",
+      "REF": "100870001 / 105230001S",
+      "size": {
+        "ru": "Конический стержень-винт 6.0 мм · Размер: Ø6.0*130/40",
+        "en": "6.0mm Taper Bone Screw · Size: Ø6.0*130/40"
+      }
+    }
+  ],
+  "randomSampleSeed": 20261121,
+  "newNames": [
+    {
+      "ru": "Мини-аппарат внешней фиксации I",
+      "en": "Mini External Fixator I"
+    },
+    {
+      "ru": "Мини-аппарат внешней фиксации II",
+      "en": "Mini External Fixator II"
+    },
+    {
+      "ru": "Мини-аппарат внешней фиксации III",
+      "en": "Mini External Fixator III"
+    },
+    {
+      "ru": "Аппарат внешней фиксации для кисти I",
+      "en": "External Fixator for Hand I"
+    },
+    {
+      "ru": "Аппарат внешней фиксации для кисти II",
+      "en": "External Fixator for Hand II"
+    },
+    {
+      "ru": "Резьбовой стержень",
+      "en": "Threaded Shaft"
+    },
+    {
+      "ru": "Резьбовой стержень с шаровым шарниром",
+      "en": "Threaded Shaft with Ball Joint"
+    },
+    {
+      "ru": "Зажим для стержня",
+      "en": "Pin Clamp"
+    },
+    {
+      "ru": "L-образный зажим для стержня",
+      "en": "L-Pin Clamp"
+    },
+    {
+      "ru": "Аппарат внешней фиксации для лучезапястного сустава и предплечья I",
+      "en": "External Fixator for Wrist and Forearm I"
+    },
+    {
+      "ru": "Аппарат внешней фиксации для лучезапястного сустава и предплечья III",
+      "en": "External Fixator for Wrist and Forearm III"
+    },
+    {
+      "ru": "Аппарат внешней фиксации для лучезапястного сустава и предплечья IV",
+      "en": "External Fixator for Wrist and Forearm IV"
+    },
+    {
+      "ru": "Локтевой зажим",
+      "en": "Ulnar Clamp"
+    },
+    {
+      "ru": "Аппарат внешней фиксации для локтевого сустава",
+      "en": "External Fixator for Elbow"
+    },
+    {
+      "ru": "Регулировочный узел",
+      "en": "Regulator"
+    },
+    {
+      "ru": "Аппарат внешней фиксации для пяточной кости",
+      "en": "External Fixator for Calcaneus"
+    },
+    {
+      "ru": "Сверлильная втулка для аппарата внешней фиксации пяточной кости",
+      "en": "Drill Sleeve for Calcaneus External Fixator"
+    },
+    {
+      "ru": "Аппарат внешней фиксации для таза",
+      "en": "External Fixator for Pelvis"
+    },
+    {
+      "ru": "Опорная стойка",
+      "en": "Post"
+    },
+    {
+      "ru": "Соединитель стойки и стержня",
+      "en": "Post to Pin Coupling"
+    },
+    {
+      "ru": "Соединитель штанги и стержня",
+      "en": "Rod to Pin Coupling"
+    },
+    {
+      "ru": "Зажим для штанги",
+      "en": "Rod Clamp"
+    },
+    {
+      "ru": "Соединительная штанга для локтевого сустава",
+      "en": "Connecting Rod for Elbow Joint"
+    },
+    {
+      "ru": "Дугообразная соединительная штанга",
+      "en": "Circular Connecting Rod"
+    },
+    {
+      "ru": "Изогнутая штанга",
+      "en": "Curved Rod"
+    },
+    {
+      "ru": "Опорная стойка, 0°, Ø11.0",
+      "en": "Post, 0°, Ø11.0"
+    },
+    {
+      "ru": "Опорная стойка, 30°, Ø11.0",
+      "en": "Post, 30°, Ø11.0"
+    },
+    {
+      "ru": "Соединитель стойки и стержня, 5 отверстий, Ø11.0–Ø6.0",
+      "en": "Post to Pin Coupling, 5 Holes, Ø11.0–Ø6.0"
+    },
+    {
+      "ru": "Соединитель штанги и стержня, Ø11.0/Ø8.0–Ø6.0/Ø5.0",
+      "en": "Rod to Pin Coupling, Ø11.0/Ø8.0–Ø6.0/Ø5.0"
+    },
+    {
+      "ru": "Соединитель стержней",
+      "en": "Pin Coupling"
+    },
+    {
+      "ru": "Углепластиковая штанга",
+      "en": "Carbon Fiber Rod"
+    },
+    {
+      "ru": "Штанга из титанового сплава 3.0 мм",
+      "en": "3.0mm Titanium Alloy Rod"
+    },
+    {
+      "ru": "Рейка",
+      "en": "Rail"
+    },
+    {
+      "ru": "Зажим для костных винтов I",
+      "en": "Bone Screw Clamp I"
+    },
+    {
+      "ru": "Зажим для костных винтов II",
+      "en": "Bone Screw Clamp II"
+    },
+    {
+      "ru": "Зажим для костных винтов III",
+      "en": "Bone Screw Clamp III"
+    },
+    {
+      "ru": "Проставка для костных винтов",
+      "en": "Bone Screw Spacer"
+    },
+    {
+      "ru": "Динамический зажим",
+      "en": "Dynamic-Clamp"
+    },
+    {
+      "ru": "T-образный зажим",
+      "en": "T-Clamp"
+    },
+    {
+      "ru": "Многоплоскостной зажим",
+      "en": "Multiplanar-Clamp"
+    },
+    {
+      "ru": "T-образный зажим, II",
+      "en": "T-Clamp, II"
+    },
+    {
+      "ru": "Резьбовой регулировочный узел",
+      "en": "Threaded Regulator"
+    },
+    {
+      "ru": "Узел поперечного перемещения",
+      "en": "Horizontal Transport"
+    },
+    {
+      "ru": "Полное кольцо",
+      "en": "Full Ring"
+    },
+    {
+      "ru": "Полукольцо",
+      "en": "Semi-Ring"
+    },
+    {
+      "ru": "C-образное кольцо",
+      "en": "C-Ring"
+    },
+    {
+      "ru": "U-образное кольцо",
+      "en": "U-Ring"
+    },
+    {
+      "ru": "Удлинённое U-образное кольцо",
+      "en": "U-Ring, long"
+    },
+    {
+      "ru": "Шарнирное угловое устройство",
+      "en": "Angulation of Joint Device"
+    },
+    {
+      "ru": "Резьбовая штанга",
+      "en": "Threaded Rod"
+    },
+    {
+      "ru": "S-образная резьбовая штанга",
+      "en": "S-Threaded Rod"
+    },
+    {
+      "ru": "Соединительная пластина",
+      "en": "Connector Plate"
+    },
+    {
+      "ru": "Угловая пластина для кольцевого аппарата внешней фиксации",
+      "en": "Angle Plate, of Round External Fixator"
+    },
+    {
+      "ru": "Изогнутая соединительная пластина",
+      "en": "Twisted Plate"
+    },
+    {
+      "ru": "Прямоугольный соединитель с внутренней резьбой",
+      "en": "Retangular Column Connector with Internal Thread"
+    },
+    {
+      "ru": "Универсальный шарнир",
+      "en": "Universal Hinge"
+    },
+    {
+      "ru": "Трубчатый шарнир",
+      "en": "Tube Hinge"
+    },
+    {
+      "ru": "Трубчато-винтовой шарнир",
+      "en": "Tube-Screw Hinge"
+    },
+    {
+      "ru": "Трубчато-винтовой шарнир со стержнем для кольцевого аппарата внешней фиксации",
+      "en": "Tube-Screw Hinge and Shaft, of Round External Fixator"
+    },
+    {
+      "ru": "Спицефиксатор для кольцевого аппарата внешней фиксации",
+      "en": "Wire Clamp, of Round External Fixator"
+    },
+    {
+      "ru": "Шестигранная гайка",
+      "en": "Hexagonal Nut"
+    },
+    {
+      "ru": "Винт с шестигранной головкой",
+      "en": "Hexagonal Screw"
+    },
+    {
+      "ru": "Защитная втулка",
+      "en": "Protection Sleeve"
+    },
+    {
+      "ru": "Пружина",
+      "en": "Spring"
+    },
+    {
+      "ru": "Косая опорная стойка",
+      "en": "Oblique Buttress Device"
+    },
+    {
+      "ru": "Винтовой зажим",
+      "en": "Screw Clamp"
+    },
+    {
+      "ru": "Спицефиксатор",
+      "en": "Wire Clamp"
+    },
+    {
+      "ru": "Удлинитель",
+      "en": "Extender"
+    },
+    {
+      "ru": "Удлинительная пластина",
+      "en": "Extension Plate"
+    },
+    {
+      "ru": "Удлинительная пластина II",
+      "en": "Extension Plate II"
+    },
+    {
+      "ru": "Шайба",
+      "en": "Washer"
+    },
+    {
+      "ru": "Шайба с переменным углом для кольцевого аппарата внешней фиксации",
+      "en": "Variable Angle Washer, of Round External Fixator"
+    },
+    {
+      "ru": "Компрессионная гайка",
+      "en": "Compression Nut"
+    },
+    {
+      "ru": "Комбинированный шарнир",
+      "en": "Complex Hinge"
+    },
+    {
+      "ru": "Шарнир с наружной резьбой",
+      "en": "Hinge with External Thread"
+    },
+    {
+      "ru": "Соединительный болт I",
+      "en": "Connecting Bolt I"
+    },
+    {
+      "ru": "Шарнир с внутренней резьбой",
+      "en": "Hinge with Internal Thread"
+    },
+    {
+      "ru": "Прямоугольный соединитель с внутренней резьбой для кольцевого аппарата внешней фиксации",
+      "en": "Retangular Column Connector with Internal Thread, of Round External Fixator"
+    },
+    {
+      "ru": "Соединительный болт II",
+      "en": "Connecting Bolt II"
+    },
+    {
+      "ru": "Квадратная гайка",
+      "en": "Square Nut"
+    },
+    {
+      "ru": "Силиконовый колпачок",
+      "en": "Silicone Cap"
+    },
+    {
+      "ru": "G-образное кольцо",
+      "en": "G-Ring"
+    },
+    {
+      "ru": "Опорный стержень",
+      "en": "Buttress Shaft"
+    },
+    {
+      "ru": "Поддерживающий стержень",
+      "en": "Support Shaft"
+    },
+    {
+      "ru": "Поддерживающий стержень для 3D-аппарата внешней фиксации",
+      "en": "Support Shaft, of 3-D External Fixator"
+    },
+    {
+      "ru": "Опорный стержень для 3D-аппарата внешней фиксации",
+      "en": "Buttress Shaft, of 3-D External Fixator"
+    },
+    {
+      "ru": "Маркировочное кольцо с номером",
+      "en": "Numbered Ring"
+    },
+    {
+      "ru": "Кольцо-указатель направления",
+      "en": "Direction Indication Ring"
+    },
+    {
+      "ru": "Кортикальный стержень-винт I 2.5 мм",
+      "en": "2.5mm Cortex Bone Screw I"
+    },
+    {
+      "ru": "Кортикальный стержень-винт II 2.5 мм",
+      "en": "2.5mm Cortex Bone Screw II"
+    },
+    {
+      "ru": "Кортикальный стержень-винт 4.0 мм",
+      "en": "4.0mm Cortex Bone Screw"
+    },
+    {
+      "ru": "Спонгиозный стержень-винт 4.0 мм",
+      "en": "4.0mm Cancellous Bone Screw"
+    },
+    {
+      "ru": "Кортикальный стержень-винт 5.0 мм",
+      "en": "5.0mm Cortex Bone Screw"
+    },
+    {
+      "ru": "Спонгиозный стержень-винт 5.0 мм",
+      "en": "5.0mm Cancellous Bone Screw"
+    },
+    {
+      "ru": "Кортикальный стержень-винт 6.0 мм",
+      "en": "6.0mm Cortex Bone Screw"
+    },
+    {
+      "ru": "Спонгиозный стержень-винт 6.0 мм",
+      "en": "6.0mm Cancellous Bone Screw"
+    },
+    {
+      "ru": "Конический стержень-винт 6.0 мм",
+      "en": "6.0mm Taper Bone Screw"
+    },
+    {
+      "ru": "Репозиционный стержень-винт с резьбой 6.0 мм",
+      "en": "6.0mm Reduction Bone Screw, Thread"
+    },
+    {
+      "ru": "Резьбовая костная спица 4 мм",
+      "en": "4mm Threaded Bone Pin"
+    },
+    {
+      "ru": "Стержень-винт для пяточной кости 3.0 мм",
+      "en": "3.0mm Calcaneus Bone Screw"
+    },
+    {
+      "ru": "Кортикальный стержень-винт II 3.0 мм",
+      "en": "3.0mm Cortex Bone Screw II"
+    },
+    {
+      "ru": "Спица Киршнера 2.0 мм с оливой",
+      "en": "2.0mm Kirschner Wire, with olive head"
+    },
+    {
+      "ru": "Спица Киршнера 2.0 мм",
+      "en": "2.0mm Kirschner Wire"
+    },
+    {
+      "ru": "Детская блокируемая пластина для проксимального отдела бедренной кости 2.7 — 2 отверстия в головной части",
+      "en": "Pediatric Hip Locking Plate 2.7, head 2 holes"
+    },
+    {
+      "ru": "Детская блокируемая пластина для проксимального отдела бедренной кости 2.7 — 3 отверстия в головной части",
+      "en": "Pediatric Hip Locking Plate 2.7, head 3 holes"
+    },
+    {
+      "ru": "Детская блокируемая пластина для проксимального отдела бедренной кости 3.5",
+      "en": "Pediatric Hip Locking Plate 3.5"
+    },
+    {
+      "ru": "Детская блокируемая пластина для проксимального отдела бедренной кости 5.0",
+      "en": "Pediatric Hip Locking Plate 5.0"
+    },
+    {
+      "ru": "Дугообразная эпифизарная пластина 4.5 мм",
+      "en": "4.5mm Epiphyseal Plate, arc-bridge shape"
+    },
+    {
+      "ru": "Ступенчатая эпифизарная пластина 4.5 мм",
+      "en": "4.5mm Epiphyseal Plate, terrace shape"
+    },
+    {
+      "ru": "Шарнирная эпифизарная пластина 4.5 мм",
+      "en": "4.5mm Epiphyseal Hinge Plate"
+    },
+    {
+      "ru": "Дугообразная эпифизарная пластина 3.0 мм",
+      "en": "3.0mm Epiphyseal Plate, arc-bridge shape"
+    },
+    {
+      "ru": "Эпифизарная пластина в форме бабочки 4.5 мм",
+      "en": "4.5mm Epiphyseal Plate, butterfly shape"
+    },
+    {
+      "ru": "Детская скользящая углостабильная пластина с втулкой для бедренной кости 3.5 мм",
+      "en": "3.5mm Pediatric Femoral Sliding Barrel Locking Plate"
+    },
+    {
+      "ru": "Детская скользящая прямая блокируемая пластина для бедренной кости 3.5 мм",
+      "en": "3.5mm Pediatric Femoral Sliding Straight Locking Plate"
+    },
+    {
+      "ru": "Детская скользящая углостабильная пластина с втулкой для большеберцовой кости 3.5 мм",
+      "en": "3.5mm Pediatric Tibia Sliding Barrel Locking Plate"
+    },
+    {
+      "ru": "Детская скользящая прямая блокируемая пластина для большеберцовой кости 3.5 мм",
+      "en": "3.5mm Pediatric Tibia Sliding Straight Locking Plate"
+    },
+    {
+      "ru": "Детская скользящая углостабильная пластина с втулкой для бедренной кости 5.0 мм",
+      "en": "5.0mm Pediatric Femoral Sliding Barrel Locking Plate"
+    },
+    {
+      "ru": "Детская скользящая прямая блокируемая пластина для бедренной кости 5.0 мм",
+      "en": "5.0mm Pediatric Femoral Sliding Straight Locking Plate"
+    },
+    {
+      "ru": "Самонарезающий канюлированный винт 4.5 мм для эпифизарной пластины 4.5 мм",
+      "en": "4.5mm Cannulated Screw for 4.5mm Epiphyseal Plate, self-tapping"
+    },
+    {
+      "ru": "Самонарезающий канюлированный винт 3.0 мм для эпифизарной пластины 3.0 мм",
+      "en": "3.0mm Cannulated Screw for 3.0mm Epiphyseal Plate, self-tapping"
+    },
+    {
+      "ru": "Спица для фиксации надколенника",
+      "en": "Patella Pin"
+    },
+    {
+      "ru": "Обжимной фиксатор",
+      "en": "Clasp"
+    },
+    {
+      "ru": "Блокируемая пластина для надколенника",
+      "en": "Patella Locking Plate"
+    },
+    {
+      "ru": "Обжимной фиксатор Ø1.0",
+      "en": "Ø1.0 Clasp"
+    },
+    {
+      "ru": "Серкляжный трос Ø1.0",
+      "en": "Ø1.0 Cable"
+    },
+    {
+      "ru": "Набор инструментов для аппарата внешней фиксации кисти и предплечья",
+      "en": "External Fixator for Wrist and Forearm Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для мини-аппарата внешней фиксации",
+      "en": "Mini External Fixator Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для малой модульной стержневой системы внешней фиксации",
+      "en": "Small External Fixation Modular Rod System Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для большой модульной стержневой системы внешней фиксации",
+      "en": "Large External Fixation Modular Rod Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для детских блокируемых пластин тазобедренного сустава 3.5/5.0",
+      "en": "Pediatric Hip Locking Plate 3.5/5.0 Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для детских блокируемых пластин тазобедренного сустава 2.7/3.5",
+      "en": "Pediatric Hip Locking Plate 2.7/3.5 Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для эпифизарных пластин 3.0/4.5",
+      "en": "3.0/4.5 Epiphyseal Plate Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для фиксации надколенника",
+      "en": "Patella Pin Instrument Set"
+    },
+    {
+      "ru": "Набор инструментов для средних дистракторов",
+      "en": "Instrument Set for Medium Distractors"
+    },
+    {
+      "ru": "Набор инструментов для удаления повреждённых винтов",
+      "en": "Instrument Set for Removal of Damaged Screws"
+    },
+    {
+      "ru": "Контейнеры для блокируемых пластин и винтов",
+      "en": "Locking Plate/Screw Case Set"
+    },
+    {
+      "ru": "Контейнеры для интрамедуллярных штифтов и римеров",
+      "en": "Intramedullary Nail/Reamer Case Set"
+    },
+    {
+      "ru": "Дополнительные принадлежности и инструменты",
+      "en": "Other Accessories and Optional Instruments"
+    }
+  ],
+  "mergedNames": [
+    {
+      "ru": "Серкляжный трос",
+      "en": "Cable"
+    }
+  ],
+  "deduplication": {
+    "method": "Compare every family against all existing Double Medical names (normalized tokens) and all implant REF codes; shared tools alone do not merge instrument sets",
+    "overlaps": [],
+    "merged": [
+      {
+        "slug": "cable",
+        "name": {
+          "ru": "Серкляжный трос",
+          "en": "Cable"
+        },
+        "matchedBy": "name",
+        "sourcePages": [
+          612
+        ]
+      }
+    ]
+  },
+  "relatedExistingSets": [
+    {
+      "from": "locking-plate-screw-case-set",
+      "to": "2-4mm-2-7mm-3-5mm-small-fragment-instrument-set",
+      "sharedREF": [
+        "116290600"
+      ]
+    },
+    {
+      "from": "intramedullary-nail-reamer-case-set",
+      "to": "universal-femoral-nail-ii-instrument-set",
+      "sharedREF": [
+        "110532400"
+      ]
+    },
+    {
+      "from": "intramedullary-nail-reamer-case-set",
+      "to": "distal-femoral-nail-ii-instrument-set",
+      "sharedREF": [
+        "110532500"
+      ]
+    },
+    {
+      "from": "intramedullary-nail-reamer-case-set",
+      "to": "universal-femoral-nail-instrument-set",
+      "sharedREF": [
+        "110530701"
+      ]
+    },
+    {
+      "from": "intramedullary-nail-reamer-case-set",
+      "to": "universal-tibial-nail-instrument-set",
+      "sharedREF": [
+        "110530601"
+      ]
+    },
+    {
+      "from": "intramedullary-nail-reamer-case-set",
+      "to": "proximal-femoral-nail-anti-rotation-instrument-set",
+      "sharedREF": [
+        "110530901"
+      ]
+    },
+    {
+      "from": "intramedullary-nail-reamer-case-set",
+      "to": "universal-humeral-nail-instrument-set",
+      "sharedREF": [
+        "110810200"
+      ]
+    },
+    {
+      "from": "intramedullary-nail-reamer-case-set",
+      "to": "universal-tibial-nail-ii-instrument-set",
+      "sharedREF": [
+        "110532600"
+      ]
+    }
+  ],
+  "imageQA": {
+    "status": "reviewed",
+    "assetsReviewed": [
+      "page-530-art-01",
+      "page-530-art-02",
+      "page-530-art-03",
+      "page-531-art-01",
+      "page-531-art-02",
+      "page-531-art-03",
+      "page-531-art-04",
+      "page-531-art-05",
+      "page-531-art-06",
+      "page-532-art-01",
+      "page-532-art-02",
+      "page-532-art-03",
+      "page-532-art-04",
+      "page-532-art-05",
+      "page-533-art-01",
+      "page-533-art-02",
+      "page-534-art-01",
+      "page-534-art-02",
+      "page-535-art-01",
+      "page-536-art-01",
+      "page-536-art-02",
+      "page-536-art-03",
+      "page-536-art-04",
+      "page-536-art-05",
+      "page-536-art-06",
+      "page-537-art-01",
+      "page-537-art-02",
+      "page-537-art-03",
+      "page-537-art-04",
+      "page-538-art-01",
+      "page-538-art-02",
+      "page-538-art-03",
+      "page-539-art-01",
+      "page-539-art-02",
+      "page-539-art-03",
+      "page-539-art-04",
+      "page-540-art-01",
+      "page-540-art-02",
+      "page-540-art-03",
+      "page-541-art-01",
+      "page-541-art-02",
+      "page-541-art-03",
+      "page-542-art-01",
+      "page-543-art-01",
+      "page-543-art-02",
+      "page-543-art-03",
+      "page-543-art-04",
+      "page-543-art-05",
+      "page-544-art-01",
+      "page-544-art-02",
+      "page-544-art-03",
+      "page-544-art-04",
+      "page-544-art-05",
+      "page-545-art-01",
+      "page-545-art-02",
+      "page-545-art-03",
+      "page-545-art-04",
+      "page-545-art-05",
+      "page-545-art-06",
+      "page-546-art-01",
+      "page-546-art-02",
+      "page-546-art-03",
+      "page-546-art-04",
+      "page-547-art-01",
+      "page-548-art-01",
+      "page-548-art-02",
+      "page-548-art-03",
+      "page-549-art-01",
+      "page-549-art-02",
+      "page-549-art-03",
+      "page-550-art-01",
+      "page-550-art-02",
+      "page-550-art-03",
+      "page-550-art-04",
+      "page-551-art-01",
+      "page-551-art-02",
+      "page-551-art-03",
+      "page-551-art-04",
+      "page-552-art-01",
+      "page-552-art-02",
+      "page-552-art-03",
+      "page-553-art-01",
+      "page-553-art-02",
+      "page-553-art-03",
+      "page-553-art-04",
+      "page-553-art-05",
+      "page-553-art-06",
+      "page-553-art-07",
+      "page-554-art-01",
+      "page-554-art-02",
+      "page-554-art-03",
+      "page-554-art-04",
+      "page-555-art-01",
+      "page-555-art-02",
+      "page-555-art-03",
+      "page-555-art-04",
+      "page-555-art-05",
+      "page-556-art-01",
+      "page-556-art-02",
+      "page-556-art-03",
+      "page-556-art-04",
+      "page-556-art-05",
+      "page-556-art-06",
+      "page-557-art-01",
+      "page-557-art-02",
+      "page-557-art-03",
+      "page-557-art-04",
+      "page-557-art-05",
+      "page-558-art-01",
+      "page-558-art-02",
+      "page-558-art-03",
+      "page-559-art-01",
+      "page-559-art-02",
+      "page-559-art-03",
+      "page-559-art-04",
+      "page-560-art-01",
+      "page-560-art-02",
+      "page-560-art-03",
+      "page-560-art-04",
+      "page-560-art-05",
+      "page-560-art-06",
+      "page-560-art-07",
+      "page-560-art-08",
+      "page-560-art-09",
+      "page-561-art-01",
+      "page-561-art-02",
+      "page-562-art-01",
+      "page-562-art-02",
+      "page-562-art-03",
+      "page-563-art-01",
+      "page-563-art-02",
+      "page-563-art-03",
+      "page-564-art-01",
+      "page-564-art-02",
+      "page-564-art-03",
+      "page-565-art-01",
+      "page-565-art-02",
+      "page-565-art-03",
+      "page-566-art-01",
+      "page-566-art-02",
+      "page-566-art-03",
+      "page-566-art-04",
+      "page-566-art-05",
+      "page-566-art-06",
+      "page-566-art-07",
+      "page-567-art-01",
+      "page-567-art-02",
+      "page-567-art-03",
+      "page-567-art-04",
+      "page-567-art-05",
+      "page-568-art-01",
+      "page-568-art-02",
+      "page-568-art-03",
+      "page-568-art-04",
+      "page-568-art-05",
+      "page-568-art-06",
+      "page-569-art-01",
+      "page-569-art-02",
+      "page-570-art-01",
+      "page-570-art-02",
+      "page-570-art-03",
+      "page-570-art-04",
+      "page-571-art-01",
+      "page-571-art-02",
+      "page-571-art-03",
+      "page-571-art-04",
+      "page-571-art-05",
+      "page-572-art-01",
+      "page-572-art-02",
+      "page-572-art-03",
+      "page-572-art-04",
+      "page-572-art-05",
+      "page-572-art-06",
+      "page-573-art-01",
+      "page-573-art-02",
+      "page-573-art-03",
+      "page-573-art-04",
+      "page-573-art-05",
+      "page-574-art-01",
+      "page-574-art-02",
+      "page-574-art-03",
+      "page-575-art-01",
+      "page-575-art-02",
+      "page-575-art-03",
+      "page-575-art-04",
+      "page-575-art-05",
+      "page-575-art-06",
+      "page-576-art-01",
+      "page-576-art-02",
+      "page-576-art-03",
+      "page-576-art-04",
+      "page-576-art-05",
+      "page-576-art-06",
+      "page-577-art-01",
+      "page-577-art-02",
+      "page-577-art-03",
+      "page-577-art-04",
+      "page-577-art-05",
+      "page-577-art-06",
+      "page-578-art-01",
+      "page-582-art-01",
+      "page-582-art-02",
+      "page-583-art-01",
+      "page-584-art-01",
+      "page-585-art-01",
+      "page-586-art-01",
+      "page-586-art-02",
+      "page-586-art-03",
+      "page-587-art-01",
+      "page-587-art-02",
+      "page-588-art-01",
+      "page-588-art-02",
+      "page-589-art-01",
+      "page-589-art-02",
+      "page-590-art-01",
+      "page-590-art-02",
+      "page-591-art-01",
+      "page-591-art-02",
+      "page-592-art-01",
+      "page-592-art-02",
+      "page-592-art-03",
+      "page-592-art-04",
+      "page-592-art-05",
+      "page-592-art-06",
+      "page-592-art-07",
+      "page-592-art-08",
+      "page-593-art-01",
+      "page-593-art-02",
+      "page-593-art-03",
+      "page-593-art-04",
+      "page-593-art-05",
+      "page-593-art-06",
+      "page-593-art-07",
+      "page-593-art-08",
+      "page-594-art-01",
+      "page-594-art-02",
+      "page-594-art-03",
+      "page-594-art-04",
+      "page-594-art-05",
+      "page-594-art-06",
+      "page-594-art-07",
+      "page-594-art-08",
+      "page-595-art-01",
+      "page-595-art-02",
+      "page-595-art-03",
+      "page-595-art-04",
+      "page-595-art-05",
+      "page-595-art-06",
+      "page-595-art-07",
+      "page-595-art-08",
+      "page-596-art-01",
+      "page-596-art-02",
+      "page-596-art-03",
+      "page-596-art-04",
+      "page-596-art-05",
+      "page-596-art-06",
+      "page-596-art-07",
+      "page-597-art-01",
+      "page-597-art-02",
+      "page-598-art-01",
+      "page-598-art-02",
+      "page-598-art-03",
+      "page-598-art-04",
+      "page-598-art-05",
+      "page-598-art-06",
+      "page-599-art-01",
+      "page-599-art-02",
+      "page-599-art-03",
+      "page-599-art-04",
+      "page-599-art-05",
+      "page-599-art-06",
+      "page-599-art-07",
+      "page-599-art-08",
+      "page-600-art-01",
+      "page-600-art-02",
+      "page-600-art-03",
+      "page-600-art-04",
+      "page-600-art-05",
+      "page-600-art-06",
+      "page-600-art-07",
+      "page-600-art-08",
+      "page-601-art-01",
+      "page-601-art-02",
+      "page-601-art-03",
+      "page-601-art-04",
+      "page-601-art-05",
+      "page-601-art-06",
+      "page-601-art-07",
+      "page-602-art-01",
+      "page-602-art-02",
+      "page-602-art-03",
+      "page-602-art-04",
+      "page-602-art-05",
+      "page-602-art-06",
+      "page-602-art-07",
+      "page-603-art-01",
+      "page-603-art-02",
+      "page-604-art-01",
+      "page-604-art-02",
+      "page-604-art-03",
+      "page-604-art-04",
+      "page-604-art-05",
+      "page-604-art-06",
+      "page-604-art-07",
+      "page-605-art-01",
+      "page-605-art-02",
+      "page-605-art-03",
+      "page-605-art-04",
+      "page-605-art-05",
+      "page-605-art-06",
+      "page-605-art-07",
+      "page-605-art-08",
+      "page-605-art-09",
+      "page-605-art-10",
+      "page-606-art-01",
+      "page-606-art-02-item-606-02",
+      "page-606-art-02-item-606-03",
+      "page-606-art-02-item-606-04",
+      "page-606-art-03",
+      "page-606-art-04",
+      "page-606-art-05",
+      "page-607-art-01",
+      "page-607-art-02",
+      "page-607-art-03",
+      "page-608-art-01-item-608-01",
+      "page-608-art-01-item-608-02",
+      "page-608-art-02",
+      "page-612-art-01",
+      "page-612-art-02",
+      "page-613-art-01",
+      "page-613-art-02",
+      "page-613-art-03",
+      "page-614-art-01",
+      "page-615-art-01",
+      "page-616-art-01",
+      "page-616-art-02",
+      "page-616-art-03",
+      "page-616-art-04",
+      "page-617-art-01",
+      "page-617-art-02",
+      "page-617-art-03",
+      "page-617-art-04",
+      "page-620-art-01",
+      "page-620-art-02",
+      "page-620-art-03",
+      "page-620-art-04",
+      "page-620-art-05",
+      "page-620-art-06",
+      "page-620-art-07",
+      "page-621-art-01",
+      "page-621-art-02",
+      "page-621-art-03",
+      "page-621-art-04",
+      "page-621-art-05",
+      "page-621-art-06",
+      "page-622-art-01",
+      "page-622-art-02",
+      "page-622-art-03",
+      "page-622-art-04",
+      "page-622-art-05",
+      "page-623-art-01",
+      "page-624-art-01",
+      "page-624-art-02",
+      "page-624-art-03",
+      "page-624-art-04",
+      "page-624-art-05",
+      "page-624-art-06",
+      "page-624-art-07",
+      "page-625-art-01",
+      "page-625-art-02",
+      "page-625-art-03",
+      "page-625-art-04",
+      "page-625-art-05",
+      "page-625-art-06",
+      "page-625-art-07",
+      "page-625-art-08",
+      "page-625-art-09",
+      "page-626-art-01",
+      "page-626-art-02",
+      "page-626-art-03",
+      "page-626-art-04",
+      "page-626-art-05",
+      "page-626-art-06",
+      "page-626-art-07",
+      "page-626-art-08",
+      "page-627-art-01",
+      "page-627-art-02",
+      "page-627-art-03",
+      "page-627-art-04",
+      "page-627-art-05",
+      "page-628-art-01",
+      "page-628-art-02",
+      "page-628-art-03",
+      "page-632-art-01",
+      "page-632-art-02",
+      "page-633-art-01",
+      "page-633-art-02",
+      "page-634-art-01",
+      "page-634-art-02",
+      "page-634-art-03",
+      "page-634-art-04",
+      "page-634-art-05",
+      "page-634-art-06",
+      "page-635-art-01",
+      "page-635-art-02",
+      "page-636-art-01",
+      "page-636-art-02",
+      "page-637-art-01",
+      "page-637-art-02",
+      "page-638-art-01",
+      "page-639-art-01",
+      "page-640-art-01",
+      "page-640-art-02",
+      "page-640-art-03",
+      "page-641-art-01",
+      "page-642-art-01",
+      "page-642-art-02",
+      "page-642-art-03",
+      "page-642-art-04",
+      "page-642-art-05",
+      "page-643-art-01",
+      "page-643-art-02",
+      "page-643-art-03",
+      "page-643-art-04",
+      "page-643-art-05",
+      "page-643-art-06"
+    ],
+    "sourceComparison": "Codex visual review of all seven final contact sheets and source layouts; two QR tiles excluded; two multi-instrument composites split into five separate row photos; ambiguous 607 composite retained only as a general subgroup illustration",
+    "nativeLimits": "Every source photo has recorded final native dimensions; exact-2x Real-ESRGAN before rembg; cutouts have 32px transparent padding",
+    "sceneFallbacks": [
+      {
+        "asset": "page-558-art-01",
+        "pdfPage": 558,
+        "reason": "Original source scene retained after U2NetP and ISNet left background artifacts inside the ring"
+      },
+      {
+        "asset": "page-558-art-02",
+        "pdfPage": 558,
+        "reason": "Original source scene retained after U2NetP and ISNet left background artifacts inside the ring"
+      }
+    ]
+  },
+  "sourceCatalogCorrections": [
+    {
+      "pdfPage": 585,
+      "REF": "020940003",
+      "status": "resolved-by-owner-direction",
+      "issue": "Source prints REF 020940003 for 150° / 3 holes / 89 mm and again for 140° / 4 holes / 105 mm. Owner directed retention of one best-supported row. Retained the 150° row: it follows the 02091/02092/02093/02094 angle series; omitted the second row from the product table. Original evidence remains in the internal OCR audit. The manufacturer has not confirmed the omitted row’s REF."
+    },
+    {
+      "pdfPage": 611,
+      "status": "documented",
+      "issue": "Index places Patella Pin Instrument Set at 11/4; actual set pages are 11/6–11/7 (PDF 616–617). Actual source pages imported; no product values changed."
+    }
+  ],
+  "publicationDate": "2026-11-21T06:37:29.425430+00:00"
+}

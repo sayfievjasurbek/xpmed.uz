@@ -1,0 +1,30 @@
+[
+  {
+    "id": "p16-blue-suture",
+    "pdfPage": 16,
+    "printedCodes": [
+      "Y1802"
+    ],
+    "correctedCodes": [
+      "Y1802A"
+    ],
+    "internalNote": "p.16 Y1802 → Y1802A (blue suture), confirm with XPMED sales",
+    "verificationStatus": "confirmed in CONMED brochure",
+    "manufacturerUrl": "https://www.conmed.com/-/media/conmed/documents/literature/y-knotflex_productbrochure.ashx"
+  },
+  {
+    "id": "p94-missing-footnote",
+    "pdfPage": 94,
+    "printedCodes": [
+      "EL9299U*",
+      "EL9299D**"
+    ],
+    "correctedCodes": [
+      "EL9299U",
+      "EL9299D"
+    ],
+    "internalNote": "p.94 missing footnote: * / ** are footnote markers, not part of the catalog numbers. Add a legend for EL9299U (concave) and EL9299D (convex); no footnote was printed.",
+    "verificationStatus": "confirmed on conmed.com",
+    "manufacturerUrl": "https://www.conmed.com/en/products/resection-fluid-management-and-ablation/resection/conmed-arthroscopic-resection"
+  }
+]

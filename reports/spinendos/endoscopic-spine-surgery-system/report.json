@@ -1,0 +1,588 @@
+{
+  "systemsCreated": 6,
+  "published": 6,
+  "drafts": 0,
+  "catalogEntriesFound": 283,
+  "codesVerified": 283,
+  "requestableCatalogEntries": 281,
+  "unavailableCatalogEntries": 2,
+  "uniqueCodes": 281,
+  "confirmedOnSpinendosCom": 0,
+  "openRealFlags": [],
+  "sourceCatalogCorrections": [
+    {
+      "pdfPage": 5,
+      "printed": "Ø9..5mm",
+      "corrected": "9.5 mm",
+      "code": "SP082616.301",
+      "visibility": "internal-only",
+      "basis": "Codex visual reading of 600-DPI caption"
+    },
+    {
+      "id": "p18-duplicate-kerrison-codes",
+      "pdfPage": 18,
+      "printed": "SP082700.042 / SP082700.092",
+      "corrected": "— / —",
+      "code": "SP082700.042 / SP082700.092",
+      "internalNote": "p.18 duplicate codes SP082700.042/.092 for the Ø2.0 mm rotatable irrigation Kerrison, ask SPINENDOS for the correct codes",
+      "visibility": "internal-only",
+      "basis": "Explicit owner source-catalog review; page 17 BDsys assignments retained"
+    }
+  ],
+  "manufacturerChecks": {
+    "checkedAt": "2026-11-19T11:33:55.148678+00:00",
+    "attemptedUrls": [
+      "https://spinendos.com/",
+      "https://www.spinendos.com/",
+      "http://spinendos.com/",
+      "https://spinendos.de/"
+    ],
+    "result": "German website unavailable: TLS handshake failure; no codes marked confirmed on spinendos.com.",
+    "brandDescriptionSource": "https://en.spinendos.com.cn/about.html",
+    "confirmedOnSpinendosCom": 0
+  },
+  "imageFallbacks": [
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-004-xref-95.webp",
+      "pdfPage": 4,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-005-xref-133.webp",
+      "pdfPage": 5,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-005-xref-136.webp",
+      "pdfPage": 5,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-005-xref-139.webp",
+      "pdfPage": 5,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-005-xref-142.webp",
+      "pdfPage": 5,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-005-xref-145.webp",
+      "pdfPage": 5,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-005-xref-151.webp",
+      "pdfPage": 5,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-005-xref-154.webp",
+      "pdfPage": 5,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-007-xref-197.webp",
+      "pdfPage": 7,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-007-xref-200.webp",
+      "pdfPage": 7,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-007-xref-206.webp",
+      "pdfPage": 7,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-007-xref-215.webp",
+      "pdfPage": 7,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-008-xref-224.webp",
+      "pdfPage": 8,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-008-xref-248.webp",
+      "pdfPage": 8,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-008-xref-256.webp",
+      "pdfPage": 8,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-008-xref-264.webp",
+      "pdfPage": 8,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-008-xref-276.webp",
+      "pdfPage": 8,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-008-xref-280.webp",
+      "pdfPage": 8,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-009-xref-287.webp",
+      "pdfPage": 9,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-009-xref-290.webp",
+      "pdfPage": 9,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-009-xref-296.webp",
+      "pdfPage": 9,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-009-xref-299.webp",
+      "pdfPage": 9,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-009-xref-302.webp",
+      "pdfPage": 9,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-009-xref-311.webp",
+      "pdfPage": 9,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-010-xref-347.webp",
+      "pdfPage": 10,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-011-xref-365.webp",
+      "pdfPage": 11,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-011-xref-368.webp",
+      "pdfPage": 11,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-011-xref-371.webp",
+      "pdfPage": 11,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-011-xref-374.webp",
+      "pdfPage": 11,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-011-xref-383.webp",
+      "pdfPage": 11,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-011-xref-389.webp",
+      "pdfPage": 11,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-011-xref-392.webp",
+      "pdfPage": 11,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-013-xref-432.webp",
+      "pdfPage": 13,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-015-xref-482.webp",
+      "pdfPage": 15,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-015-xref-487.webp",
+      "pdfPage": 15,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-016-xref-519.webp",
+      "pdfPage": 16,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-017-xref-539.webp",
+      "pdfPage": 17,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-017-xref-548.webp",
+      "pdfPage": 17,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-017-xref-551.webp",
+      "pdfPage": 17,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-017-xref-554.webp",
+      "pdfPage": 17,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-017-xref-557.webp",
+      "pdfPage": 17,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-018-xref-562.webp",
+      "pdfPage": 18,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-018-xref-565.webp",
+      "pdfPage": 18,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-018-xref-571.webp",
+      "pdfPage": 18,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-018-xref-580.webp",
+      "pdfPage": 18,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-018-xref-583.webp",
+      "pdfPage": 18,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-019-xref-594.webp",
+      "pdfPage": 19,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-019-xref-602.webp",
+      "pdfPage": 19,
+      "reason": "rembg loses a thin shaft or retains the gray background; original photo retained after exact 2x enhancement"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-008-xref-236.webp",
+      "pdfPage": 8,
+      "reason": "Codex visual review: rembg lost shaft, handle or instrument body; original retained as scene"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-008-xref-244.webp",
+      "pdfPage": 8,
+      "reason": "Codex visual review: rembg lost shaft, handle or instrument body; original retained as scene"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-008-xref-252.webp",
+      "pdfPage": 8,
+      "reason": "Codex visual review: rembg lost shaft, handle or instrument body; original retained as scene"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-010-xref-361.webp",
+      "pdfPage": 10,
+      "reason": "Codex visual review: rembg lost shaft, handle or instrument body; original retained as scene"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-011-xref-380.webp",
+      "pdfPage": 11,
+      "reason": "Codex visual review: rembg lost shaft, handle or instrument body; original retained as scene"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-014-xref-446.webp",
+      "pdfPage": 14,
+      "reason": "Codex visual review: rembg lost shaft, handle or instrument body; original retained as scene"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-014-xref-449.webp",
+      "pdfPage": 14,
+      "reason": "Codex visual review: rembg lost shaft, handle or instrument body; original retained as scene"
+    },
+    {
+      "file": "/images/products/spinendos/endoscopic-spine-surgery/page-016-xref-523.webp",
+      "pdfPage": 16,
+      "reason": "Codex visual review: rembg lost shaft, handle or instrument body; original retained as scene"
+    }
+  ],
+  "random20Rows": [
+    {
+      "system": {
+        "ru": "Рабочие тубусы",
+        "en": "Working tubes"
+      },
+      "slug": "working-tubes",
+      "pdfPage": 12,
+      "description": {
+        "ru": "Прямой рабочий тубус внутренний диаметр 7.2 мм, наружный диаметр 8.0 мм, длина 178 мм",
+        "en": "Working tube, straight ID7.2 mm, OD8.0 mm, L178 mm"
+      },
+      "code": "SP082612.245"
+    },
+    {
+      "system": {
+        "ru": "Рабочие тубусы",
+        "en": "Working tubes"
+      },
+      "slug": "working-tubes",
+      "pdfPage": 13,
+      "description": {
+        "ru": "Рабочий тубус с косым окном внутренний диаметр 7.2 мм, наружный диаметр 8.0 мм, длина 130 мм",
+        "en": "Working tube with oblique window ID7.2 mm, OD8.0 mm, L130 mm"
+      },
+      "code": "SP082614.230"
+    },
+    {
+      "system": {
+        "ru": "Щипцы, выкусыватели и ножницы",
+        "en": "Forceps, punches and scissors"
+      },
+      "slug": "forceps-punches-and-scissors",
+      "pdfPage": 17,
+      "description": {
+        "ru": "Эндоскопические кусачки Kerrison BDsys Ø2.0 мм, 90°, рабочая длина 260 мм",
+        "en": "Endoscopic Kerrison BDsys Ø2.0 mm, 90°, WL260 mm"
+      },
+      "code": "SP082700.098"
+    },
+    {
+      "system": {
+        "ru": "Щипцы, выкусыватели и ножницы",
+        "en": "Forceps, punches and scissors"
+      },
+      "slug": "forceps-punches-and-scissors",
+      "pdfPage": 14,
+      "description": {
+        "ru": "Чашечные щипцы: Прямые бранши",
+        "en": "Cup forceps: Straight jaw"
+      },
+      "code": "SP082781.835"
+    },
+    {
+      "system": {
+        "ru": "Направляющие канюли, спицы и дилататоры",
+        "en": "Guiding cannulas, guide wires and dilators"
+      },
+      "slug": "guiding-cannulas-guide-wires-and-dilators",
+      "pdfPage": 5,
+      "description": {
+        "ru": "Спинальные направляющие канюли: 1.25 мм Ø, 150 мм рабочая длина",
+        "en": "Spinal guiding cannulas: 1.25 mm Ø, 150 mm working length"
+      },
+      "code": "SP082018.150"
+    },
+    {
+      "system": {
+        "ru": "Трепаны, рашпили, свёрла и защитные тубусы",
+        "en": "Trephines, reamers, drills and protection tubes"
+      },
+      "slug": "trephines-reamers-drills-and-protection-tubes",
+      "pdfPage": 8,
+      "description": {
+        "ru": "Защитные тубусы для трепанов: внутренний диаметр 7.2 мм, наружный диаметр 8.8 мм, 215 мм рабочая длина",
+        "en": "Trephine protection tubes: ID7.2 mm, OD8.8 mm, 215 mm working length"
+      },
+      "code": "SP082710.112"
+    },
+    {
+      "system": {
+        "ru": "Рукоятки, молоток и принадлежности",
+        "en": "Handles, hammer and accessories"
+      },
+      "slug": "handles-hammer-and-accessories",
+      "pdfPage": 8,
+      "description": {
+        "ru": "Зонд; рабочая длина 310 mmØ3.0 мм",
+        "en": "Probe; WL310 mmØ3.0 mm"
+      },
+      "code": "SP082628.352"
+    },
+    {
+      "system": {
+        "ru": "Щипцы, выкусыватели и ножницы",
+        "en": "Forceps, punches and scissors"
+      },
+      "slug": "forceps-punches-and-scissors",
+      "pdfPage": 15,
+      "description": {
+        "ru": "Ножницы-выкусыватели: Прямые бранши",
+        "en": "Scissors punch: Straight jaw"
+      },
+      "code": "SP082730.531"
+    },
+    {
+      "system": {
+        "ru": "Направляющие канюли, спицы и дилататоры",
+        "en": "Guiding cannulas, guide wires and dilators"
+      },
+      "slug": "guiding-cannulas-guide-wires-and-dilators",
+      "pdfPage": 5,
+      "description": {
+        "ru": "Направляющие спицы: 1.5 мм диаметр, 400 мм рабочая длина",
+        "en": "Guide wires: 1.5 mm diameter, 400 mm working length"
+      },
+      "code": "SP082617.400"
+    },
+    {
+      "system": {
+        "ru": "Щипцы, выкусыватели и ножницы",
+        "en": "Forceps, punches and scissors"
+      },
+      "slug": "forceps-punches-and-scissors",
+      "pdfPage": 15,
+      "description": {
+        "ru": "Ножницы-выкусыватели: Прямые бранши",
+        "en": "Scissors punch: Straight jaw"
+      },
+      "code": "SP082700.531"
+    },
+    {
+      "system": {
+        "ru": "Щипцы, выкусыватели и ножницы",
+        "en": "Forceps, punches and scissors"
+      },
+      "slug": "forceps-punches-and-scissors",
+      "pdfPage": 17,
+      "description": {
+        "ru": "Эндоскопические кусачки Kerrison BDsys Ø2.5 мм, 40°, рабочая длина 330 мм",
+        "en": "Endoscopic Kerrison BDsys Ø2.5 mm, 40°, WL330 mm"
+      },
+      "code": "SP082700.046"
+    },
+    {
+      "system": {
+        "ru": "Направляющие канюли, спицы и дилататоры",
+        "en": "Guiding cannulas, guide wires and dilators"
+      },
+      "slug": "guiding-cannulas-guide-wires-and-dilators",
+      "pdfPage": 5,
+      "description": {
+        "ru": "Дилататор с 2 каналами, длина 225 мм Ø6.3 мм",
+        "en": "Dilator 2-channels, L225 mm Ø6.3 mm"
+      },
+      "code": "SP082616.400"
+    },
+    {
+      "system": {
+        "ru": "Щипцы, выкусыватели и ножницы",
+        "en": "Forceps, punches and scissors"
+      },
+      "slug": "forceps-punches-and-scissors",
+      "pdfPage": 14,
+      "description": {
+        "ru": "Чашечные щипцы: Прямые бранши",
+        "en": "Cup forceps: Straight jaw"
+      },
+      "code": "SP082781.839"
+    },
+    {
+      "system": {
+        "ru": "Рабочие тубусы",
+        "en": "Working tubes"
+      },
+      "slug": "working-tubes",
+      "pdfPage": 12,
+      "description": {
+        "ru": "Рабочий тубус с двойным окном внутренний диаметр 6.5 мм, наружный диаметр 7.5 мм, длина 178 мм",
+        "en": "Working tube with dual window ID6.5 mm, OD7.5 mm, L178 mm"
+      },
+      "code": "SP082613.165"
+    },
+    {
+      "system": {
+        "ru": "Рабочие тубусы",
+        "en": "Working tubes"
+      },
+      "slug": "working-tubes",
+      "pdfPage": 12,
+      "description": {
+        "ru": "Рабочий тубус с удлинённым окном внутренний диаметр 6.5 мм, наружный диаметр 7.5 мм, длина 130 мм",
+        "en": "Working tube with long window ID6.5 mm, OD7.5 mm, L130 mm"
+      },
+      "code": "SP082619.130"
+    },
+    {
+      "system": {
+        "ru": "Рукоятки, молоток и принадлежности",
+        "en": "Handles, hammer and accessories"
+      },
+      "slug": "handles-hammer-and-accessories",
+      "pdfPage": 5,
+      "description": {
+        "ru": "Крючковидный зонд; рабочая длина 310 мм Ø3.0 мм",
+        "en": "Hook probe; WL310 mm Ø3.0 mm"
+      },
+      "code": "SP082630.352"
+    },
+    {
+      "system": {
+        "ru": "Направляющие канюли, спицы и дилататоры",
+        "en": "Guiding cannulas, guide wires and dilators"
+      },
+      "slug": "guiding-cannulas-guide-wires-and-dilators",
+      "pdfPage": 11,
+      "description": {
+        "ru": "Уплощённый дилататор длина 230 мм внутренний диаметр 1.5 мм наружный диаметр 4.0 мм",
+        "en": "Dilator, complanate L230 mm ID1.5 mm OD4.0 mm"
+      },
+      "code": "SP082230.401"
+    },
+    {
+      "system": {
+        "ru": "Рабочие тубусы",
+        "en": "Working tubes"
+      },
+      "slug": "working-tubes",
+      "pdfPage": 13,
+      "description": {
+        "ru": "Рабочий тубус внутренний диаметр 10.2 мм, наружный диаметр 11.2 мм, длина 95 мм",
+        "en": "Working tube ID10.2 mm, OD11.2 mm, L95 mm"
+      },
+      "code": "SP082950.110"
+    },
+    {
+      "system": {
+        "ru": "Щипцы, выкусыватели и ножницы",
+        "en": "Forceps, punches and scissors"
+      },
+      "slug": "forceps-punches-and-scissors",
+      "pdfPage": 15,
+      "description": {
+        "ru": "Ножницы-выкусыватели: Бранши, изогнутые вверх",
+        "en": "Scissors punch: Upward angled jaw"
+      },
+      "code": "SP082730.535"
+    },
+    {
+      "system": {
+        "ru": "Щипцы, выкусыватели и ножницы",
+        "en": "Forceps, punches and scissors"
+      },
+      "slug": "forceps-punches-and-scissors",
+      "pdfPage": 14,
+      "description": {
+        "ru": "Захватывающие щипцы: Прямые бранши",
+        "en": "Grasping forceps: Straight jaw"
+      },
+      "code": "SP082721.832"
+    }
+  ]
+}

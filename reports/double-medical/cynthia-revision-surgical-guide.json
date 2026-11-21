@@ -1,0 +1,73 @@
+{
+  "sourcePdf": "/catalogs/double-medical/cynthia-revision-surgical-guide/source.pdf",
+  "sourceSha256": "7c38f8e98475b4a1ba9017daa75c7437fce1592f973c345df8c60326aa146562",
+  "edition": "2025.09",
+  "method": "Direct positioned PDF text layer; no OCR; Codex-authored professional Russian",
+  "systemsCreated": 0,
+  "systemsUpdated": 1,
+  "system": "cynthia-knee-system",
+  "variant": "revision",
+  "chapters": 5,
+  "steps": 21,
+  "images": 82,
+  "tables": 2,
+  "notes": 7,
+  "viewOnly": true,
+  "existingProductDataUnchanged": true,
+  "comparison": [
+    {
+      "parameter": "Distal femoral augments",
+      "guide": "5 / 10 / 15 mm",
+      "existing": "5 / 10 / 15 mm",
+      "result": "match"
+    },
+    {
+      "parameter": "Offset connector",
+      "guide": "+2 / +4 / +6 mm; +0 denotes no offset connector",
+      "existing": "2 / 4 / 6 mm",
+      "result": "match"
+    },
+    {
+      "parameter": "Extension stem lengths",
+      "guide": "80 / 120 / 160 mm",
+      "existing": "80 / 120 / 160 mm",
+      "result": "match; reamer markers 120 / 160 / 220 mm are different measurements"
+    },
+    {
+      "parameter": "Valgus angle",
+      "guide": "6°",
+      "existing": "6°",
+      "result": "match"
+    },
+    {
+      "parameter": "Tibial posterior slope",
+      "guide": null,
+      "existing": "0°",
+      "result": "not specified in guide; no change"
+    },
+    {
+      "parameter": "Tibial platform keel",
+      "guide": "25 mm",
+      "existing": "25 mm",
+      "result": "match"
+    },
+    {
+      "parameter": "Femoral length table Platform Keel",
+      "guide": "55 mm",
+      "existing": null,
+      "result": "source femoral table retained exactly; distinct from tibial keel 25 mm"
+    },
+    {
+      "parameter": "Chapter 5.2 inventory",
+      "guide": "Distal augments 5 / 10 mm; posterior augments 5 mm",
+      "existing": "Distal 5 / 10 / 15 mm; posterior 5 / 10 mm",
+      "result": "inventory subset differs from available product range; both retained"
+    }
+  ],
+  "translationStatus": "Codex-translated fields recorded for medical review",
+  "sourceTextNotes": [
+    "Section 3.9 ends the word complications as complicatio in the source text layer; the Russian translation retains its intended medical meaning.",
+    "Section 3.6 names the tibial drill guide in the femoral preparation instructions. Wording retained without silently correcting the guide."
+  ],
+  "openFlags": []
+}

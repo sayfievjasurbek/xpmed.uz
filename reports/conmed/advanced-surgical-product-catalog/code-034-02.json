@@ -1,0 +1,45 @@
+{
+  "pdfPage": 34,
+  "pageRow": 2,
+  "visualReading": "T229",
+  "visualReader": "Codex independent inspection of 600-DPI source table images; source-line crops retained",
+  "ocrReadings": {
+    "600dpi-psm3": "1229",
+    "600dpi-psm11": "1229",
+    "600dpi-code-crop-psm7": "1229",
+    "isolated-psm7-scale0.5-thresholdNone": "1229",
+    "isolated-psm7-scale0.5-threshold175": "1229",
+    "isolated-psm7-scale0.75-threshold210": "1229",
+    "isolated-psm7-scale1-thresholdNone": "1229",
+    "isolated-psm13-scale0.5-thresholdNone": "TRG",
+    "isolated-psm13-scale0.5-threshold175": "TRG",
+    "isolated-psm13-scale0.75-threshold210": "T2209",
+    "isolated-psm13-scale1-thresholdNone": "7229",
+    "Apple-Vision-accurate": "T229"
+  },
+  "matchedReaders": [
+    "Apple-Vision-accurate"
+  ],
+  "value": "T229",
+  "verificationStatus": "verified (visual + OCR)",
+  "manufacturerStatus": "confirmed on conmed.com",
+  "officialEvidence": [
+    {
+      "url": "https://www.conmed.com/-/media/conmed/documents/catalog/advancedsurgical_catalog.ashx",
+      "code": "T229"
+    }
+  ],
+  "sourceBounds": [
+    0.885149677166895,
+    0.2636059168294725,
+    0.9144981412639405,
+    0.2725369801842032
+  ],
+  "rowBounds": [
+    0.5289452320766902,
+    0.22905525846702318,
+    0.934,
+    0.27629233511586454
+  ],
+  "lineCrop": "reports/conmed/advanced-surgical-product-catalog/line-crops/034-02.png"
+}

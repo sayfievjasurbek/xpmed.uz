@@ -1,0 +1,886 @@
+[
+  {
+    "alternatives" : [
+      "XPmed CONMED"
+    ],
+    "bounds" : [
+      0.10386964356731782,
+      0.046511628641947134,
+      0.49287169414483434,
+      0.075644841586764988
+    ],
+    "confidence" : 1,
+    "text" : "XPmed CONMED"
+  },
+  {
+    "alternatives" : [
+      "For Use with the Following Handpieces:"
+    ],
+    "bounds" : [
+      0.10183300549887418,
+      0.14236111133880336,
+      0.40122199180255119,
+      0.15406976733951594
+    ],
+    "confidence" : 1,
+    "text" : "For Use with the Following Handpieces:"
+  },
+  {
+    "alternatives" : [
+      "For use with Ergo® (D4240, D4200), Advantage® Turbo (D9924, D9920),"
+    ],
+    "bounds" : [
+      0.11405295714008337,
+      0.15843023266048406,
+      0.47657839835889848,
+      0.17013888866119664
+    ],
+    "confidence" : 1,
+    "text" : "For use with Ergo® (D4240, D4200), Advantage® Turbo (D9924, D9920),"
+  },
+  {
+    "alternatives" : [
+      "Advantage (D9824, D9820), and Apex® (C9820, C9824, C9828)"
+    ],
+    "bounds" : [
+      0.11405295888866976,
+      0.17151162816678256,
+      0.43584520064968768,
+      0.18313953501151203
+    ],
+    "confidence" : 1,
+    "text" : "Advantage (D9824, D9820), and Apex® (C9820, C9824, C9828)"
+  },
+  {
+    "alternatives" : [
+      "Cat. No."
+    ],
+    "bounds" : [
+      0.52336557372415882,
+      0.19025834825877608,
+      0.56828412213836521,
+      0.19927653574381998
+    ],
+    "confidence" : 1,
+    "text" : "Cat. No."
+  },
+  {
+    "alternatives" : [
+      "Merlin®"
+    ],
+    "bounds" : [
+      0.10175723896734963,
+      0.20041717750610877,
+      0.14467860766841964,
+      0.2109200315430152
+    ],
+    "confidence" : 1,
+    "text" : "Merlin®"
+  },
+  {
+    "alternatives" : [
+      "Bendable to 30° Max. 6,000rpm Max., 13.0cm Working Length, 6 per Box"
+    ],
+    "bounds" : [
+      0.10183299083423605,
+      0.21354166670200325,
+      0.51527495259753586,
+      0.22529069775376009
+    ],
+    "confidence" : 1,
+    "text" : "Bendable to 30° Max. 6,000rpm Max., 13.0cm Working Length, 6 per Box"
+  },
+  {
+    "alternatives" : [
+      "3.7mm, Large Hub, Merlin, Shaver, Cuda, Pre-Bent to 15°."
+    ],
+    "bounds" : [
+      0.10183298914396208,
+      0.23110465134327285,
+      0.39918534094143476,
+      0.241319444646929
+    ],
+    "confidence" : 1,
+    "text" : "3.7mm, Large Hub, Merlin, Shaver, Cuda, Pre-Bent to 15°."
+  },
+  {
+    "alternatives" : [
+      "4.2mm, Large Hub, Merlin, Shaver, Cuda ......................"
+    ],
+    "bounds" : [
+      0.10183300048846013,
+      0.24702380964260073,
+      0.38492871974236093,
+      0.25726744166022075
+    ],
+    "confidence" : 1,
+    "text" : "4.2mm, Large Hub, Merlin, Shaver, Cuda ......................"
+  },
+  {
+    "alternatives" : [
+      "4.2mm, Large Hub, Merlin, Shaver, Cuda, Pre-bent 15°."
+    ],
+    "bounds" : [
+      0.10183299930889467,
+      0.26162790706192074,
+      0.38492871856279548,
+      0.27182539704258812
+    ],
+    "confidence" : 1,
+    "text" : "4.2mm, Large Hub, Merlin, Shaver, Cuda, Pre-bent 15°."
+  },
+  {
+    "alternatives" : [
+      "4.8mm, Large Hub, Merlin, Shaver, Cuda, Bendable to 20° max.."
+    ],
+    "bounds" : [
+      0.10183300443369896,
+      0.27604166655665441,
+      0.42973523460228163,
+      0.28779069760841125
+    ],
+    "confidence" : 1,
+    "text" : "4.8mm, Large Hub, Merlin, Shaver, Cuda, Bendable to 20° max.."
+  },
+  {
+    "alternatives" : [
+      ".37CUD-ME-PB"
+    ],
+    "bounds" : [
+      0.48879837133927456,
+      0.23110465130147251,
+      0.56822810391530787,
+      0.24273255814620187
+    ],
+    "confidence" : 1,
+    "text" : ".37CUD-ME-PB"
+  },
+  {
+    "alternatives" : [
+      ".....P9356"
+    ],
+    "bounds" : [
+      0.51120163172307209,
+      0.24563953486251899,
+      0.57026476457020669,
+      0.25726744170724847
+    ],
+    "confidence" : 1,
+    "text" : ".....P9356"
+  },
+  {
+    "alternatives" : [
+      "....9256"
+    ],
+    "bounds" : [
+      0.51731160960296507,
+      0.26162790706355321,
+      0.57026476465365394,
+      0.27470930250040027
+    ],
+    "confidence" : 1,
+    "text" : "....9256"
+  },
+  {
+    "alternatives" : [
+      "....P9357"
+    ],
+    "bounds" : [
+      0.51731161037689577,
+      0.27616279055192527,
+      0.57026476542758464,
+      0.28924418598877233
+    ],
+    "confidence" : 1,
+    "text" : "....P9357"
+  },
+  {
+    "alternatives" : [
+      "ReAct®"
+    ],
+    "bounds" : [
+      0.099796334896880209,
+      0.29505813974824124,
+      0.14052953170189775,
+      0.30377906940873567
+    ],
+    "confidence" : 1,
+    "text" : "ReAct®"
+  },
+  {
+    "alternatives" : [
+      "6,000rpm Max., 13.0cm Working Length, 6 per Box"
+    ],
+    "bounds" : [
+      0.099796328725955924,
+      0.3066860466260849,
+      0.39103869211586373,
+      0.31831395347081437
+    ],
+    "confidence" : 1,
+    "text" : "6,000rpm Max., 13.0cm Working Length, 6 per Box"
+  },
+  {
+    "alternatives" : [
+      "4.2mm, Large Hub, ReAct, Shaver, Cuda......"
+    ],
+    "bounds" : [
+      0.09979634523591846,
+      0.32266865087288177,
+      0.32586557676000788,
+      0.33284883705750756
+    ],
+    "confidence" : 1,
+    "text" : "4.2mm, Large Hub, ReAct, Shaver, Cuda......"
+  },
+  {
+    "alternatives" : [
+      "......... 42CUD-RA-ZZ"
+    ],
+    "bounds" : [
+      0.45621181018612778,
+      0.32266865096978092,
+      0.57026476442351259,
+      0.33284883715440672
+    ],
+    "confidence" : 1,
+    "text" : "......... 42CUD-RA-ZZ"
+  },
+  {
+    "alternatives" : [
+      "Extended Length"
+    ],
+    "bounds" : [
+      0.097759675700894486,
+      0.34002976198548551,
+      0.19755600800582646,
+      0.35174418591821199
+    ],
+    "confidence" : 1,
+    "text" : "Extended Length"
+  },
+  {
+    "alternatives" : [
+      "6,000rpm Max., 19.0cm Working Length, 1 per Box"
+    ],
+    "bounds" : [
+      0.10183300061949006,
+      0.35168650779199107,
+      0.39103868705871769,
+      0.36483134906183223
+    ],
+    "confidence" : 1,
+    "text" : "6,000rpm Max., 19.0cm Working Length, 1 per Box"
+  },
+  {
+    "alternatives" : [
+      "4.2mm, Large Hub, Merlin, Shaver, Cuda Bendable to 30° max ."
+    ],
+    "bounds" : [
+      0.10183300232507557,
+      0.37053571415147712,
+      0.42769857676521594,
+      0.38081395328812762
+    ],
+    "confidence" : 1,
+    "text" : "4.2mm, Large Hub, Merlin, Shaver, Cuda Bendable to 30° max ."
+  },
+  {
+    "alternatives" : [
+      "...EL9356"
+    ],
+    "bounds" : [
+      0.51721105630312236,
+      0.37040240925218293,
+      0.57036531858587447,
+      0.38250456754885875
+    ],
+    "confidence" : 1,
+    "text" : "...EL9356"
+  },
+  {
+    "alternatives" : [
+      "Small Joint"
+    ],
+    "bounds" : [
+      0.099708705762634603,
+      0.38777857702795293,
+      0.16709373598649696,
+      0.39855863192644203
+    ],
+    "confidence" : 1,
+    "text" : "Small Joint"
+  },
+  {
+    "alternatives" : [
+      "6,000rpm Max., 8.0cm Working Length, 6 per Box"
+    ],
+    "bounds" : [
+      0.10183300048846013,
+      0.40104166645975514,
+      0.38492871974236093,
+      0.41279069751151198
+    ],
+    "confidence" : 1,
+    "text" : "6,000rpm Max., 8.0cm Working Length, 6 per Box"
+  },
+  {
+    "alternatives" : [
+      "2.0mm, Large Hub, Sterling, Shaver, Cuda."
+    ],
+    "bounds" : [
+      0.10183299878784868,
+      0.41860465131458557,
+      0.3217922631266113,
+      0.42881944461824173
+    ],
+    "confidence" : 1,
+    "text" : "2.0mm, Large Hub, Sterling, Shaver, Cuda."
+  },
+  {
+    "alternatives" : [
+      "2.9mm, Large Hub, Sterling, Shaver, Cuda."
+    ],
+    "bounds" : [
+      0.1018329966792253,
+      0.43452380959415104,
+      0.31975560528954561,
+      0.44476744161177106
+    ],
+    "confidence" : 1,
+    "text" : "2.9mm, Large Hub, Sterling, Shaver, Cuda."
+  },
+  {
+    "alternatives" : [
+      "C9951A"
+    ],
+    "bounds" : [
+      0.52138492859518515,
+      0.41860465114158885,
+      0.57026476688342997,
+      0.43023255798631821
+    ],
+    "confidence" : 1,
+    "text" : "C9951A"
+  },
+  {
+    "alternatives" : [
+      "C9952A"
+    ],
+    "bounds" : [
+      0.52138492769905476,
+      0.43313953502240277,
+      0.57026476598729958,
+      0.44476744186713213
+    ],
+    "confidence" : 1,
+    "text" : "C9952A"
+  },
+  {
+    "alternatives" : [
+      "Tiger®"
+    ],
+    "bounds" : [
+      0.099796334448234866,
+      0.51162790683099502,
+      0.14663951170247796,
+      0.52470930226784207
+    ],
+    "confidence" : 1,
+    "text" : "Tiger®"
+  },
+  {
+    "alternatives" : [
+      "Sterling®"
+    ],
+    "bounds" : [
+      0.10179423949786126,
+      0.53042780594632832,
+      0.15075158670453936,
+      0.54079312463067919
+    ],
+    "confidence" : 1,
+    "text" : "Sterling®"
+  },
+  {
+    "alternatives" : [
+      "6,000rpm Max., 13.0cm Working Length, 6 per Box"
+    ],
+    "bounds" : [
+      0.10183300560930664,
+      0.54215116278403064,
+      0.39103869204853431,
+      0.55381944467980437
+    ],
+    "confidence" : 1,
+    "text" : "6,000rpm Max., 13.0cm Working Length, 6 per Box"
+  },
+  {
+    "alternatives" : [
+      "3.5mm, Large Hub, Sterling®, Shaver, Tiger®...."
+    ],
+    "bounds" : [
+      0.10183300504571687,
+      0.55952380955681313,
+      0.33808553643425565,
+      0.57122093016655073
+    ],
+    "confidence" : 1,
+    "text" : "3.5mm, Large Hub, Sterling®, Shaver, Tiger®...."
+  },
+  {
+    "alternatives" : [
+      "4.2mm, Large Hub, Sterling, Shaver, Tiger.."
+    ],
+    "bounds" : [
+      0.10183299878784868,
+      0.57558139550063214,
+      0.3217922631266113,
+      0.58581349212727718
+    ],
+    "confidence" : 1,
+    "text" : "4.2mm, Large Hub, Sterling, Shaver, Tiger.."
+  },
+  {
+    "alternatives" : [
+      "Pre-Bent"
+    ],
+    "bounds" : [
+      0.10167508790525376,
+      0.59258822404586475,
+      0.15494405638394868,
+      0.60363270643595068
+    ],
+    "confidence" : 1,
+    "text" : "Pre-Bent"
+  },
+  {
+    "alternatives" : [
+      "Pre-Bent to 15°, 6,000rpm Max., 13.0cm Working Length, 6 per Box"
+    ],
+    "bounds" : [
+      0.10183301041955921,
+      0.60610465113189882,
+      0.48676170709571531,
+      0.61780753967365021
+    ],
+    "confidence" : 1,
+    "text" : "Pre-Bent to 15°, 6,000rpm Max., 13.0cm Working Length, 6 per Box"
+  },
+  {
+    "alternatives" : [
+      "4.2mm, Large Hub, Sterling, Shaver, Tiger...."
+    ],
+    "bounds" : [
+      0.10183300207162642,
+      0.62351190466672768,
+      0.3258655778672736,
+      0.63372093003837004
+    ],
+    "confidence" : 1,
+    "text" : "4.2mm, Large Hub, Sterling, Shaver, Tiger...."
+  },
+  {
+    "alternatives" : [
+      "Bendable to 30° Max. 6,000rpm Max., 13.0cm Working Length, 6 per Box"
+    ],
+    "bounds" : [
+      0.099796325877347172,
+      0.65401785706584847,
+      0.51527494336908919,
+      0.6656976743525973
+    ],
+    "confidence" : 1,
+    "text" : "Bendable to 30° Max. 6,000rpm Max., 13.0cm Working Length, 6 per Box"
+  },
+  {
+    "alternatives" : [
+      "3.7mm, Large Hub, Merlin, Shaver, Tiger, Pre-Bent to 15°"
+    ],
+    "bounds" : [
+      0.099796332807425392,
+      0.67151162805877151,
+      0.39511200765421783,
+      0.6817956351274358
+    ],
+    "confidence" : 1,
+    "text" : "3.7mm, Large Hub, Merlin, Shaver, Tiger, Pre-Bent to 15°"
+  },
+  {
+    "alternatives" : [
+      "ReAct®"
+    ],
+    "bounds" : [
+      0.099796333708828636,
+      0.69040697712711718,
+      0.1405295305138462,
+      0.6991279067876115
+    ],
+    "confidence" : 1,
+    "text" : "ReAct®"
+  },
+  {
+    "alternatives" : [
+      "6,000rpm Max., 13.0cm Working Length, 6 per Box"
+    ],
+    "bounds" : [
+      0.10183300488629243,
+      0.70203488369972833,
+      0.3910386913255201,
+      0.7136627905444578
+    ],
+    "confidence" : 1,
+    "text" : "6,000rpm Max., 13.0cm Working Length, 6 per Box"
+  },
+  {
+    "alternatives" : [
+      "3.5mm, Large Hub, ReAct, Shaver, Tiger .."
+    ],
+    "bounds" : [
+      0.10183300518172088,
+      0.71947674425205388,
+      0.31771893684136099,
+      0.7311507936067887
+    ],
+    "confidence" : 1,
+    "text" : "3.5mm, Large Hub, ReAct, Shaver, Tiger .."
+  },
+  {
+    "alternatives" : [
+      "4.2mm, Large Hub, ReAct, Shaver, Tiger"
+    ],
+    "bounds" : [
+      0.10183300178332633,
+      0.73834325393958444,
+      0.30549897785007485,
+      0.74854651137921291
+    ],
+    "confidence" : 1,
+    "text" : "4.2mm, Large Hub, ReAct, Shaver, Tiger"
+  },
+  {
+    "alternatives" : [
+      ".....9240"
+    ],
+    "bounds" : [
+      0.51731161028864059,
+      0.55959302312702219,
+      0.57026476533932946,
+      0.57267441856386925
+    ],
+    "confidence" : 1,
+    "text" : ".....9240"
+  },
+  {
+    "alternatives" : [
+      ".....C9242"
+    ],
+    "bounds" : [
+      0.51731161037689577,
+      0.5755813953276353,
+      0.57026476542758464,
+      0.58720930217236467
+    ],
+    "confidence" : 1,
+    "text" : ".....C9242"
+  },
+  {
+    "alternatives" : [
+      "..C9244M"
+    ],
+    "bounds" : [
+      0.51731160991629999,
+      0.62354651187660104,
+      0.56822810393298717,
+      0.63372093012921293
+    ],
+    "confidence" : 1,
+    "text" : "..C9244M"
+  },
+  {
+    "alternatives" : [
+      "..37TGR-ME-PB"
+    ],
+    "bounds" : [
+      0.48464872824192629,
+      0.67121916209130283,
+      0.57034109017174417,
+      0.68343200053669373
+    ],
+    "confidence" : 1,
+    "text" : "..37TGR-ME-PB"
+  },
+  {
+    "alternatives" : [
+      "....35TGR-RA-ZZ"
+    ],
+    "bounds" : [
+      0.4826469435178572,
+      0.7193197366138756,
+      0.56826955325720052,
+      0.73126165870328586
+    ],
+    "confidence" : 1,
+    "text" : "....35TGR-RA-ZZ"
+  },
+  {
+    "alternatives" : [
+      "...42TGR-RA-ZZ"
+    ],
+    "bounds" : [
+      0.4847250542333123,
+      0.73691860455265201,
+      0.57026476460579145,
+      0.74999999998949907
+    ],
+    "confidence" : 1,
+    "text" : "...42TGR-RA-ZZ"
+  },
+  {
+    "alternatives" : [
+      "End Cutter"
+    ],
+    "bounds" : [
+      0.10180001819346467,
+      0.81526756300535008,
+      0.18536902624738888,
+      0.82572080894790489
+    ],
+    "confidence" : 1,
+    "text" : "End Cutter"
+  },
+  {
+    "alternatives" : [
+      "Sterling®"
+    ],
+    "bounds" : [
+      0.10183299378866781,
+      0.83430232588459519,
+      0.15071283207691266,
+      0.84447674413720708
+    ],
+    "confidence" : 1,
+    "text" : "Sterling®"
+  },
+  {
+    "alternatives" : [
+      "6,000rpm Max., 13.0cm Working Length, 6 per Box"
+    ],
+    "bounds" : [
+      0.10183300560930664,
+      0.84593023255147248,
+      0.39103869204853431,
+      0.85763888902523777
+    ],
+    "confidence" : 1,
+    "text" : "6,000rpm Max., 13.0cm Working Length, 6 per Box"
+  },
+  {
+    "alternatives" : [
+      "3.5mm, Large Hub, Sterling, Shaver, End Cutter..."
+    ],
+    "bounds" : [
+      0.10183300280108956,
+      0.86334325390224653,
+      0.35641547819008468,
+      0.87499999993399258
+    ],
+    "confidence" : 1,
+    "text" : "3.5mm, Large Hub, Sterling, Shaver, End Cutter..."
+  },
+  {
+    "alternatives" : [
+      "4.2mm, Large Hub, Sterling, Shaver, End Cutter ."
+    ],
+    "bounds" : [
+      0.10183300286909153,
+      0.87936046521962441,
+      0.34623217839363735,
+      0.889632936424261
+    ],
+    "confidence" : 1,
+    "text" : "4.2mm, Large Hub, Sterling, Shaver, End Cutter ."
+  },
+  {
+    "alternatives" : [
+      "....C9283"
+    ],
+    "bounds" : [
+      0.51934827115187365,
+      0.86337209299236395,
+      0.57026476516856084,
+      0.87499999983709342
+    ],
+    "confidence" : 1,
+    "text" : "....C9283"
+  },
+  {
+    "alternatives" : [
+      "....C9284"
+    ],
+    "bounds" : [
+      0.51934827093972158,
+      0.87936046507327492,
+      0.57026476495640865,
+      0.8909883719180044
+    ],
+    "confidence" : 1,
+    "text" : "....C9284"
+  },
+  {
+    "alternatives" : [
+      "Large Hub"
+    ],
+    "bounds" : [
+      0.64354346947162622,
+      0.03329539189066455,
+      0.80248504346219474,
+      0.058274375860580041
+    ],
+    "confidence" : 1,
+    "text" : "Large Hub"
+  },
+  {
+    "alternatives" : [
+      "Shaver Blades"
+    ],
+    "bounds" : [
+      0.64358452076612294,
+      0.062500000024003688,
+      0.86150712937644325,
+      0.084325396849400547
+    ],
+    "confidence" : 1,
+    "text" : "Shaver Blades"
+  },
+  {
+    "alternatives" : [
+      "Cuda®"
+    ],
+    "bounds" : [
+      0.64358452125125898,
+      0.33720930268428773,
+      0.6843177180562765,
+      0.34593023234478204
+    ],
+    "confidence" : 1,
+    "text" : "Cuda®"
+  },
+  {
+    "alternatives" : [
+      "All purpose aggressive blade. Ideal for extensive"
+    ],
+    "bounds" : [
+      0.64358452663962629,
+      0.34883720940567076,
+      0.88594704643572986,
+      0.35912698393329623
+    ],
+    "confidence" : 1,
+    "text" : "All purpose aggressive blade. Ideal for extensive"
+  },
+  {
+    "alternatives" : [
+      "tissue removal."
+    ],
+    "bounds" : [
+      0.6414245262092253,
+      0.35995051251924548,
+      0.72110093016213028,
+      0.37115413789172347
+    ],
+    "confidence" : 1,
+    "text" : "tissue removal."
+  },
+  {
+    "alternatives" : [
+      "Tiger®"
+    ],
+    "bounds" : [
+      0.64358452298346691,
+      0.60174418614985692,
+      0.68228105875448264,
+      0.61191860440246881
+    ],
+    "confidence" : 1,
+    "text" : "Tiger®"
+  },
+  {
+    "alternatives" : [
+      "Excellent for all general soft tissue debridement,"
+    ],
+    "bounds" : [
+      0.64358451734419431,
+      0.61627906986251901,
+      0.89205702554786259,
+      0.6279761904722565
+    ],
+    "confidence" : 1,
+    "text" : "Excellent for all general soft tissue debridement,"
+  },
+  {
+    "alternatives" : [
+      "especially meniagctomy and chondroplasty."
+    ],
+    "bounds" : [
+      0.6435845286330657,
+      0.62936046523173672,
+      0.86761710442871287,
+      0.63963293643637331
+    ],
+    "confidence" : 1,
+    "text" : "especially meniagctomy and chondroplasty."
+  },
+  {
+    "alternatives" : [
+      "End Cutter"
+    ],
+    "bounds" : [
+      0.6435845235616946,
+      0.859011628144559,
+      0.71486761730728032,
+      0.86780753950207534
+    ],
+    "confidence" : 1,
+    "text" : "End Cutter"
+  },
+  {
+    "alternatives" : [
+      "Useful for all general debridement applications."
+    ],
+    "bounds" : [
+      0.6435845226885063,
+      0.87202380975061167,
+      0.88594704248460987,
+      0.88372093036034927
+    ],
+    "confidence" : 1,
+    "text" : "Useful for all general debridement applications."
+  },
+  {
+    "alternatives" : [
+      "All products may not be available in all markets."
+    ],
+    "bounds" : [
+      0.78615072017741883,
+      0.93303571423726472,
+      0.95723014092237713,
+      0.94196428566583612
+    ],
+    "confidence" : 1,
+    "text" : "All products may not be available in all markets."
+  },
+  {
+    "alternatives" : [
+      "RESECTION PRODUCTS, 95"
+    ],
+    "bounds" : [
+      0.81466395388481627,
+      0.96354166670400443,
+      0.95112016357954199,
+      0.97247023813257583
+    ],
+    "confidence" : 1,
+    "text" : "RESECTION PRODUCTS, 95"
+  }
+]

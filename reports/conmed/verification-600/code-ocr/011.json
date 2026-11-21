@@ -1,0 +1,95 @@
+{
+  "id": 11,
+  "bounds": [
+    0.4830757190373704,
+    0.23123081216857383,
+    0.5820778712580709,
+    0.2472788166341055
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "LMD-X310MD",
+      "confidence": 90.786995,
+      "words": [
+        {
+          "text": "LMD-X310MD",
+          "confidence": 90.786995,
+          "pixelBounds": [
+            2530,
+            1687,
+            2900,
+            1745
+          ],
+          "lineId": "6.2.2",
+          "bounds": [
+            0.49501076110350223,
+            0.23541724811610382,
+            0.5674036392095481,
+            0.2435110242813285
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "LMD-X310MD",
+      "confidence": 58.29451,
+      "words": [
+        {
+          "text": "LMD-X310MD",
+          "confidence": 58.29451,
+          "pixelBounds": [
+            2530,
+            1687,
+            2900,
+            1745
+          ],
+          "lineId": "13.1.1",
+          "bounds": [
+            0.49501076110350223,
+            0.23541724811610382,
+            0.5674036392095481,
+            0.2435110242813285
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "..LMD-X310MD",
+      "confidence": 56.645088,
+      "words": [
+        {
+          "text": "..LMD-X310MD",
+          "confidence": 56.645088,
+          "pixelBounds": [
+            7,
+            30,
+            431,
+            88
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "..LMD-X310MD",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "..LMD-X310MD",
+          "confidence": 0.0,
+          "pixelBounds": [
+            7,
+            30,
+            431,
+            88
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

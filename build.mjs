@@ -1,7 +1,17 @@
-import { copyFile, cp, mkdir, writeFile } from 'node:fs/promises';
+import {buildDiscovery} from './src/discovery-data.mjs';
+import {publicProductContent} from './src/public-product-content.mjs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { loadSystems, listing, legacyListing, systemRoute, prepareSystem } from './src/catalog-data.mjs';
+import { copyFile, cp, mkdir, readFile, writeFile, rm, stat } from 'node:fs/promises';
 import { render } from './src/render.mjs';
+import { renderCatalogTileArray,categoryImageProduct,categoryThumbnailPath } from './src/catalog.mjs';
+import {createCanvas,loadImage} from '@napi-rs/canvas';
+import { catalogSlugs, catalogRoute, homeRoute } from './src/navigation.mjs';
 import ru from './src/i18n/ru.mjs';
 import en from './src/i18n/en.mjs';
+import {areaKeys,clinicalAreas,parseTaxonomyScope} from './src/clinical-taxonomy.mjs';
+import {legacyCategoryAreas} from './src/catalog-engine.js';
 
 const source = new URL('./src/', import.meta.url);
 const output = new URL('./dist/', import.meta.url);
@@ -18,13 +28,126 @@ if (translationKeys(ru).join('\n') !== translationKeys(en).join('\n')) {
   throw new Error('Russian and English must define the same translation keys.');
 }
 
-await mkdir(new URL('en/', output), { recursive: true });
+const systems = (await loadSystems()).filter(s => s.status === 'published').map(publicProductContent);
+const index = systems.map(listing);
+const products = index.map(legacyListing);
+for(const item of index)if(!['unassigned','unspecified'].includes(item.brand)&&!Object.hasOwn(catalogSlugs,item.listingBrand))catalogSlugs[item.listingBrand]=item.brand+'/';
+// Recreate generated output so unpublishing cannot leave stale detail pages or assets.
+await rm(output, { recursive: true, force: true });
+await mkdir(output, { recursive: true });
+await writeFile(new URL('catalog-index.json', output), JSON.stringify(index));
+
+// Category cards use small derivatives so the catalog never downloads full-size source renders above the fold.
+const thumbs=new Map();
+const taxonomyScopes=areaKeys.flatMap(area=>[area,...clinicalAreas[area].subcategories.map(sub=>area+'/'+sub)]);
+const filterScope=(scope,product)=>{const taxonomy=parseTaxonomyScope(scope);return scope==='all'||(scope==='new'?product.isNew:taxonomy?product.area===taxonomy.area&&(!taxonomy.subcategory||product.taxonomySubcategory===taxonomy.subcategory):product.brand===scope);};
+for(const scope of ['all','new',...Object.keys(catalogSlugs),...taxonomyScopes]){
+  const scoped=products.filter(product=>filterScope(scope,product));
+  const taxonomy=parseTaxonomyScope(scope);
+  const facet=taxonomy?.area?'taxonomySubcategory':'area';
+  for(const category of new Set(scoped.map(product=>product[facet]))){
+    const matching=scoped.filter(product=>product[facet]===category);
+    if(matching.length) {const selected=categoryImageProduct(category,products,matching);thumbs.set(selected.image,categoryThumbnailPath(selected.image));}
+  }
+}
+await mkdir(new URL('assets/catalog/',output),{recursive:true});
+for(const [src,dest] of thumbs){
+  const image=await loadImage((src.startsWith('/assets/')?'src':'public')+src);
+  const scale=Math.min(1,800/Math.max(image.width,image.height));
+  const canvas=createCanvas(Math.round(image.width*scale),Math.round(image.height*scale));
+  canvas.getContext('2d').drawImage(image,0,0,canvas.width,canvas.height);
+  await writeFile(new URL('.'+dest,output),canvas.toBuffer('image/webp'));
+}
+
 const year = new Date().getUTCFullYear();
+const translations = { ru, en };
+
+const discovery = await buildDiscovery(systems, translations);
+await writeFile(new URL('catalog-library-index.json', output), JSON.stringify(discovery.catalogs));
+await writeFile(new URL('search-index.json', output), JSON.stringify(discovery.search));
+
+const pages = Object.entries(translations).flatMap(([lang, t]) => {
+  const alternate = lang === 'ru' ? 'en' : 'ru';
+  const otherLanguage = { lang: alternate, t: translations[alternate] };
+  return [null, ...Object.keys(catalogSlugs), ...taxonomyScopes, 'library', 'about-page', 'contacts-page', 'brands-page', 'not-found'].map(async (scope) => {
+    const route = scope === 'about-page' ? homeRoute(lang)+'about/' : scope === 'contacts-page' ? homeRoute(lang)+'contacts/' : scope === 'brands-page' ? homeRoute(lang)+'brands/' : scope === 'not-found' ? homeRoute(lang)+'404/' : scope === 'library' ? homeRoute(lang) + 'catalogs/' : scope ? catalogRoute(lang, scope) : homeRoute(lang);
+    const directory = new URL('.' + route, output);
+    await mkdir(directory, { recursive: true });
+    await writeFile(new URL('index.html', directory), render(lang, t, year, products, scope, otherLanguage, null, discovery));
+    if(scope && !['library','about-page','contacts-page','not-found'].includes(scope)){
+      const scoped=products.filter(product=>filterScope(scope,product));
+      await writeFile(new URL('catalog-products.html',directory),renderCatalogTileArray(lang,t,scoped,otherLanguage).slice(24).join(''));
+    }
+  });
+});
 
 await Promise.all([
-  writeFile(new URL('index.html', output), render('ru', ru, year)),
-  writeFile(new URL('en/index.html', output), render('en', en, year)),
-  copyFile(new URL('styles.css', source), new URL('styles.css', output)),
-  copyFile(new URL('client.js', source), new URL('client.js', output)),
+  ...pages,
+  ...['styles.css', 'homepage.css', 'catalog.css', 'home.js', 'catalog.js', 'client.js', 'system.css', 'system.js', 'catalog-selection.js', 'catalog-engine.js', 'discovery.css', 'discovery.js', 'pdf-viewer.js']
+    .map((file) => copyFile(new URL(file, source), new URL(file, output))),
+  cp(new URL('./public/images/brands/', import.meta.url), new URL('images/brands/', output), { recursive: true }),
   cp(new URL('assets/', source), new URL('assets/', output), { recursive: true }),
 ]);
+
+const copiedSystemAssets = new Set();
+for (const system of systems) {
+  await prepareSystem(system, systems);
+  for (const [lang, t] of Object.entries(translations)) {
+    system.relatedSystems = system.relatedSystems.map(candidate => ({ ...candidate, url: systemRoute(candidate, lang) }));
+    const alternate = lang === 'ru' ? 'en' : 'ru';
+    const directory = new URL('.' + systemRoute(system, lang), output);
+    await mkdir(directory, { recursive: true });
+    await writeFile(new URL('index.html', directory), render(lang, t, year, products, null, { lang: alternate, t: translations[alternate] }, system, discovery));
+  }
+  // Only assets referenced by published systems are copied. Draft PDFs and page scans stay local.
+  const assets = new Set();
+  const collect = value => { if (typeof value === 'string' && /^\/(images\/products|catalogs)\//.test(value)) assets.add(value); else if (Array.isArray(value)) value.forEach(collect); else if (value && typeof value === 'object') Object.values(value).forEach(collect); };
+  collect(system);
+  for (const asset of assets) {
+    if (copiedSystemAssets.has(asset)) continue;
+    const src = path.resolve('public', '.' + asset);
+    if (!src.startsWith(path.resolve('public') + path.sep)) throw Error('Invalid asset path');
+    const target = new URL('.' + asset, output);
+    await mkdir(new URL('.', target), { recursive: true });
+    await copyFile(src, target);
+    copiedSystemAssets.add(asset);
+  }
+}
+const routes = new Set();
+for (const lang of ['ru','en']) {
+  routes.add(homeRoute(lang));
+  for (const scope of Object.keys(catalogSlugs)) routes.add(catalogRoute(lang,scope));
+  for (const extra of ['catalogs/','about/','contacts/','brands/']) routes.add(homeRoute(lang)+extra);
+  for(const scope of taxonomyScopes)routes.add(catalogRoute(lang,scope));
+  for (const system of systems) routes.add(systemRoute(system,lang));
+}
+const xml = text => String(text).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;');
+await writeFile(new URL('sitemap.xml',output),'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+[...routes].sort().map(route=>`  <url><loc>${xml('https://www.xpmed.uz'+route)}</loc></url>`).join('\n')+'\n</urlset>\n');
+await writeFile(new URL('robots.txt',output),'User-agent: *\nAllow: /\nDisallow: /admin/\nSitemap: https://www.xpmed.uz/sitemap.xml\n');
+await copyFile(new URL('404/index.html',output),new URL('404.html',output));
+const oldRoutes = new Map([
+ ['/o-nas/','/about/'],['/about-us/','/en/about/'],['/kontakty/','/contacts/'],['/contacts/','/contacts/'],['/homepage/','/en/'],
+]);
+for(const system of systems)for(const source of system.legacySources||[]){
+ if(!source.url)continue;
+ try { const old=new URL(source.url); if(old.hostname==='xpmed.uz'||old.hostname==='www.xpmed.uz') oldRoutes.set(old.pathname,systemRoute(system,source.language==='en'?'en':'ru')); } catch {}
+}
+for(const [legacy,area] of Object.entries(legacyCategoryAreas)){
+ oldRoutes.set('/catalog/?category='+legacy,'/catalog/'+area+'/');
+ oldRoutes.set('/en/catalog/?category='+legacy,'/en/catalog/'+area+'/');
+ for(const brand of ['double-medical','conmed','synimed','biotechni','ge-healthcare','spinendos']){
+  oldRoutes.set('/catalog/'+brand+'/?category='+legacy,'/catalog/'+area+'/');
+  oldRoutes.set('/en/catalog/'+brand+'/?category='+legacy,'/en/catalog/'+area+'/');
+ }
+}
+await writeFile(new URL('_redirects',output),[...oldRoutes].filter(([from,to])=>from!==to).map(([from,to])=>`${from} ${to} 301`).join('\n')+'\n');
+console.log(`Built ${systems.length} published systems; drafts and admin excluded.`);
+
+await mkdir(new URL('vendor/pdfjs/',output),{recursive:true});
+for(const file of ['pdf.min.mjs','pdf.worker.min.mjs'])await copyFile('node_modules/pdfjs-dist/build/'+file,new URL('vendor/pdfjs/'+file,output));
+for(const dir of ['cmaps','standard_fonts','wasm'])await cp('node_modules/pdfjs-dist/'+dir,new URL('vendor/pdfjs/'+dir,output),{recursive:true});
+await copyFile('node_modules/fuse.js/dist/fuse.min.mjs',new URL('vendor/fuse.mjs',output));
+await copyFile('node_modules/pdfjs-dist/LICENSE',new URL('vendor/pdfjs/LICENSE',output));
+await copyFile('node_modules/fuse.js/LICENSE',new URL('vendor/FUSE-LICENSE',output));
+
+await copyFile(new URL('i18n/discovery.mjs',source),new URL('discovery-i18n.js',output));

@@ -1,0 +1,117 @@
+{
+  "id": 15,
+  "bounds": [
+    0.4830757190373704,
+    0.43720346078704997,
+    0.5820778712580709,
+    0.453111917387664
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "WIS1000",
+      "confidence": 88.925186,
+      "words": [
+        {
+          "text": "WIS1000",
+          "confidence": 88.925186,
+          "pixelBounds": [
+            2650,
+            3163,
+            2893,
+            3222
+          ],
+          "lineId": "6.4.5",
+          "bounds": [
+            0.5184895323811387,
+            0.44138989673457996,
+            0.5660340442183526,
+            0.4496232207647223
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "WIS1000",
+      "confidence": 92.580002,
+      "words": [
+        {
+          "text": "WIS1000",
+          "confidence": 92.580002,
+          "pixelBounds": [
+            2650,
+            3163,
+            2893,
+            3222
+          ],
+          "lineId": "27.1.1",
+          "bounds": [
+            0.5184895323811387,
+            0.44138989673457996,
+            0.5660340442183526,
+            0.4496232207647223
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "seve WISTO00",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "seve",
+          "confidence": 0.0,
+          "pixelBounds": [
+            3,
+            80,
+            148,
+            88
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "WISTO00",
+          "confidence": 79.545227,
+          "pixelBounds": [
+            200,
+            30,
+            423,
+            89
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "eae WIS1000",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "eae",
+          "confidence": 12.538347,
+          "pixelBounds": [
+            3,
+            80,
+            165,
+            88
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "WIS1000",
+          "confidence": 0.0,
+          "pixelBounds": [
+            190,
+            30,
+            424,
+            89
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

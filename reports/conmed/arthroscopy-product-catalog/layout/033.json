@@ -1,0 +1,848 @@
+{
+  "pdfPage": 33,
+  "officialPage": 45,
+  "alignment": [
+    [
+      0.9715321929740034,
+      -0.0008007359977039758,
+      0.01455545782699376
+    ],
+    [
+      0.0002902387710036957,
+      0.9726984901036998,
+      0.012497466158291877
+    ]
+  ],
+  "alignmentMatches": 29,
+  "alignmentInliers": 15,
+  "category": "knee-arthroscopy",
+  "title": {
+    "en": "Femoral Fixation Implants",
+    "ru": "Имплантаты для бедренной фиксации"
+  },
+  "groups": [
+    {
+      "title": "™ Button — Implants",
+      "page": 33,
+      "officialPage": 45,
+      "headingBounds": [
+        0.10007584047616509,
+        0.2591745023311297,
+        0.14974179576298036,
+        0.27228762286076336
+      ],
+      "rows": [
+        {
+          "description": "GraftMax ™ Button ALB",
+          "codes": [
+            {
+              "candidate": "KS-ALB",
+              "sourceBounds": [
+                0.5263449676587708,
+                0.27483305275568165,
+                0.5667589388852065,
+                0.28734651656049537
+              ],
+              "officialBounds": [
+                322.5289611816406,
+                213.4768829345703,
+                347.9935302734375,
+                223.6558837890625
+              ],
+              "officialCode": "KS-ALB"
+            }
+          ],
+          "rowBounds": [
+            0.14695456199939466,
+            0.2747185130291371,
+            0.5667589388852065,
+            0.28734651656049537
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "GraftMax ™ Button BTB",
+          "codes": [
+            {
+              "candidate": "KS-BTB",
+              "sourceBounds": [
+                0.5260896328861389,
+                0.28998844168074983,
+                0.566742199516627,
+                0.30250197676435114
+              ],
+              "officialBounds": [
+                322.3759765625,
+                225.81690979003906,
+                347.9908447265625,
+                235.99591064453125
+              ],
+              "officialCode": "KS-BTB"
+            }
+          ],
+          "rowBounds": [
+            0.14694208592004776,
+            0.28987389954599213,
+            0.566742199516627,
+            0.30250197676435114
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "GraftMax ™ Button Cradle",
+          "codes": [
+            {
+              "candidate": "KS-BCA",
+              "sourceBounds": [
+                0.5251342083916691,
+                0.30514354649804715,
+                0.5667354884835911,
+                0.31765736500347547
+              ],
+              "officialBounds": [
+                321.781982421875,
+                238.15687561035156,
+                347.9944763183594,
+                248.33587646484375
+              ],
+              "officialCode": "KS-BCA"
+            }
+          ],
+          "rowBounds": [
+            0.14692960977899244,
+            0.3050293610234588,
+            0.5667354884835911,
+            0.31765736500347547
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        }
+      ],
+      "features": [
+        {
+          "text": "Maximum fixation: reduces displacement by 70%",
+          "bounds": [
+            0.10726861684859458,
+            0.1994625260551328,
+            0.3963039355696833,
+            0.21343930304468575
+          ],
+          "officialStartX": 58.5
+        },
+        {
+          "text": "Maximum graft fill: loop is fully adjustable",
+          "bounds": [
+            0.10725749551529314,
+            0.21297222730657306,
+            0.352884898036817,
+            0.22693603647031366
+          ],
+          "officialStartX": 58.5
+        },
+        {
+          "text": "Maximum reproducibility: ease of use compared to competitive designs",
+          "bounds": [
+            0.10724637418199169,
+            0.2264819285580133,
+            0.520142429084622,
+            0.2404957081174296
+          ],
+          "officialStartX": 58.5
+        }
+      ],
+      "notes": [
+        "The GraftMax Button gives surgeons the benefits and ease of use of an adjustable",
+        "loop button, with the graft fixation of a fixed loop."
+      ],
+      "keyParameters": []
+    },
+    {
+      "title": "XO Button — Implants",
+      "page": 33,
+      "officialPage": 45,
+      "headingBounds": [
+        0.09990056826271725,
+        0.4720873948034346,
+        0.1495665235803867,
+        0.48520047785276244
+      ],
+      "rows": [
+        {
+          "description": "XO Button® w/15mm Continuous Loop",
+          "codes": [
+            {
+              "candidate": "T5015",
+              "sourceBounds": [
+                0.5328930474489503,
+                0.48774799126492646,
+                0.5665821163917772,
+                0.5002594273098219
+              ],
+              "officialBounds": [
+                326.76422119140625,
+                386.8369140625,
+                347.9925537109375,
+                397.0158996582031
+              ],
+              "officialCode": "T5015"
+            }
+          ],
+          "rowBounds": [
+            0.0998877837956796,
+            0.48761739697638473,
+            0.5665821163917772,
+            0.5002594273098219
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "XO Button w/20mm Continuous Loop",
+          "codes": [
+            {
+              "candidate": "T5020",
+              "sourceBounds": [
+                0.5318375834322985,
+                0.5029018668260035,
+                0.566558208098677,
+                0.5154136110412999
+              ],
+              "officialBounds": [
+                326.1072082519531,
+                399.1759033203125,
+                347.9853515625,
+                409.3548889160156
+              ],
+              "officialCode": "T5020"
+            }
+          ],
+          "rowBounds": [
+            0.09986295401481178,
+            0.5027728172829687,
+            0.566558208098677,
+            0.5154136110412999
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "XO Button w/25mm Continuous Loop",
+          "codes": [
+            {
+              "candidate": "T5025",
+              "sourceBounds": [
+                0.5319251488498024,
+                0.5180560838595101,
+                0.566545684560897,
+                0.5305677981738977
+              ],
+              "officialBounds": [
+                326.17022705078125,
+                411.514892578125,
+                347.9853210449219,
+                421.6938781738281
+              ],
+              "officialCode": "T5025"
+            }
+          ],
+          "rowBounds": [
+            0.09985047892279915,
+            0.5179270044300394,
+            0.566545684560897,
+            0.5305677981738977
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "XO Button w/30mm Continuous Loop",
+          "codes": [
+            {
+              "candidate": "T5030",
+              "sourceBounds": [
+                0.5316983496831647,
+                0.533210206978691,
+                0.5665574807983119,
+                0.5457219925718664
+              ],
+              "officialBounds": [
+                326.03521728515625,
+                423.8538818359375,
+                348.0006103515625,
+                434.0328674316406
+              ],
+              "officialCode": "T5030"
+            }
+          ],
+          "rowBounds": [
+            0.0998380038307865,
+            0.5330811915771101,
+            0.5665574807983119,
+            0.5457219925718664
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "XO Button w/35mm Continuous Loop",
+          "codes": [
+            {
+              "candidate": "T5035",
+              "sourceBounds": [
+                0.5316430485328407,
+                0.5483643813317621,
+                0.5665221393041241,
+                0.5608761728877517
+              ],
+              "officialBounds": [
+                326.00823974609375,
+                436.19287109375,
+                347.9862060546875,
+                446.3718566894531
+              ],
+              "officialCode": "T5035"
+            }
+          ],
+          "rowBounds": [
+            0.09982552873877386,
+            0.5482353787241808,
+            0.5665221393041241,
+            0.5608761728877517
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "XO Button w/40mm Continuous Loop",
+          "codes": [
+            {
+              "candidate": "T5040",
+              "sourceBounds": [
+                0.5315162414299521,
+                0.5635185343229061,
+                0.5665183360044619,
+                0.5760303626254626
+              ],
+              "officialBounds": [
+                325.93621826171875,
+                448.5318603515625,
+                347.9916687011719,
+                458.7108459472656
+              ],
+              "officialCode": "T5040"
+            }
+          ],
+          "rowBounds": [
+            0.09981305364676121,
+            0.5633895658712514,
+            0.5665183360044619,
+            0.5760303626254626
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "XO Button w/45mm Continuous Loop",
+          "codes": [
+            {
+              "candidate": "T5045",
+              "sourceBounds": [
+                0.53148947483658,
+                0.5786727172004861,
+                0.5665029057206427,
+                0.5911845488896895
+              ],
+              "officialBounds": [
+                325.9272155761719,
+                460.870849609375,
+                347.98980712890625,
+                471.0498352050781
+              ],
+              "officialCode": "T5045"
+            }
+          ],
+          "rowBounds": [
+            0.09980057855474857,
+            0.5785437530183222,
+            0.5665029057206427,
+            0.5911845488896895
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "XO Button w/50mm Continuous Loop",
+          "codes": [
+            {
+              "candidate": "T5050",
+              "sourceBounds": [
+                0.531648449315114,
+                0.593826955566974,
+                0.5664818557278143,
+                0.6063387334750656
+              ],
+              "officialBounds": [
+                326.03521728515625,
+                473.2098388671875,
+                347.9844055175781,
+                483.3888244628906
+              ],
+              "officialCode": "T5050"
+            }
+          ],
+          "rowBounds": [
+            0.09978810346273592,
+            0.5936979401653929,
+            0.5664818557278143,
+            0.6063387334750656
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "XO Button w/55mm Continuous Loop",
+          "codes": [
+            {
+              "candidate": "T5055",
+              "sourceBounds": [
+                0.5316359742231014,
+                0.6089811427140446,
+                0.5664693806358015,
+                0.6214929206221363
+              ],
+              "officialBounds": [
+                326.03521728515625,
+                485.548828125,
+                347.9844055175781,
+                495.7278137207031
+              ],
+              "officialCode": "T5055"
+            }
+          ],
+          "rowBounds": [
+            0.09977562837072329,
+            0.6088521273124635,
+            0.5664693806358015,
+            0.6214929206221363
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "XO Button w/60mm Continuous Loop",
+          "codes": [
+            {
+              "candidate": "T5060",
+              "sourceBounds": [
+                0.5314663410619016,
+                0.624135282911189,
+                0.5664582620252739,
+                0.6366471081744468
+              ],
+              "officialBounds": [
+                325.93621826171875,
+                497.8878173828125,
+                347.9852600097656,
+                508.0668029785156
+              ],
+              "officialCode": "T5060"
+            }
+          ],
+          "rowBounds": [
+            0.09976315327871065,
+            0.6240063144595343,
+            0.5664582620252739,
+            0.6366471081744468
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        }
+      ],
+      "features": [
+        {
+          "text": "Pre-stretched continuous loop",
+          "bounds": [
+            0.10710446596844818,
+            0.3988657172759974,
+            0.28699161625415465,
+            0.4128098869772967
+          ],
+          "officialStartX": 58.5
+        },
+        {
+          "text": "Pre-loaded with passing sutures",
+          "bounds": [
+            0.10709334463514673,
+            0.41237541852743764,
+            0.2993977022113758,
+            0.42632329778670053
+          ],
+          "officialStartX": 58.5
+        },
+        {
+          "text": "Integrated method to reposition graft and implant",
+          "bounds": [
+            0.10708222330184529,
+            0.42588511977887794,
+            0.3950808026022791,
+            0.439861587049435
+          ],
+          "officialStartX": 58.5
+        },
+        {
+          "text": "Unique drill bit designed to measure aperture to cortex length",
+          "bounds": [
+            0.10707109591282295,
+            0.4393948210285091,
+            0.4650232618886434,
+            0.45339218646710505
+          ],
+          "officialStartX": 58.499996185302734
+        }
+      ],
+      "notes": [
+        "The implant of choice for extracortical, soft tissue fixation in cruciate reconstructions."
+      ],
+      "keyParameters": []
+    },
+    {
+      "title": "XO Button — GraftMax Button and XO Button Instrumentation",
+      "page": 33,
+      "officialPage": 45,
+      "headingBounds": [
+        0.0997407144411285,
+        0.6512640167464521,
+        0.37318780628817444,
+        0.6644439529196494
+      ],
+      "rows": [
+        {
+          "description": "Flex Channel Reamer, 5mm",
+          "codes": [
+            {
+              "candidate": "KC8550",
+              "sourceBounds": [
+                0.523473125373496,
+                0.6669205724935277,
+                0.5664288037669651,
+                0.6794348143565839
+              ],
+              "officialBounds": [
+                320.9232177734375,
+                532.726806640625,
+                347.9888916015625,
+                542.9058227539062
+              ],
+              "officialCode": "KC8550"
+            }
+          ],
+          "rowBounds": [
+            0.09972793000494505,
+            0.6667939814390964,
+            0.5664288037669651,
+            0.6794348143565839
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "GraftMax Flex XACTPIN®",
+          "codes": [
+            {
+              "candidate": "KS-FGP24",
+              "sourceBounds": [
+                0.51217243614455,
+                0.6820850301964715,
+                0.5664336610287259,
+                0.6946026495162325
+              ],
+              "officialBounds": [
+                313.8124084472656,
+                545.076904296875,
+                347.99981689453125,
+                555.2559204101562
+              ],
+              "officialCode": "KS-FGP24"
+            }
+          ],
+          "rowBounds": [
+            0.0997154549129324,
+            0.6819481685861671,
+            0.5664336610287259,
+            0.6946026495162325
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "XO Button Drill Bit, 5mm",
+          "codes": [
+            {
+              "candidate": "C8590",
+              "sourceBounds": [
+                0.5302904503517962,
+                0.6972446337064482,
+                0.5664269509830243,
+                0.7097568383855725
+              ],
+              "officialBounds": [
+                325.2333984375,
+                557.4158935546875,
+                348.0034484863281,
+                567.5949096679688
+              ],
+              "officialCode": "C8590"
+            }
+          ],
+          "rowBounds": [
+            0.0997159520556342,
+            0.6971160024432592,
+            0.5664269509830243,
+            0.7097568383855725
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "XACTPIN® Graft Passing Guide Pin",
+          "codes": [
+            {
+              "candidate": "C8677S",
+              "sourceBounds": [
+                0.5234086540919891,
+                0.7123992423903671,
+                0.5664129720358477,
+                0.7249134987841651
+              ],
+              "officialBounds": [
+                320.90618896484375,
+                569.7568969726562,
+                348.00250244140625,
+                579.9359130859375
+              ],
+              "officialCode": "C8677S"
+            }
+          ],
+          "rowBounds": [
+            0.09970347696362156,
+            0.71227018959033,
+            0.5664129720358477,
+            0.7249134987841651
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "Suture Handle",
+          "codes": [
+            {
+              "candidate": "HDL-CLT",
+              "sourceBounds": [
+                0.5212960065408732,
+                0.7275528021249055,
+                0.5664005938353698,
+                0.7400676859601815
+              ],
+              "officialBounds": [
+                319.5832214355469,
+                582.0958862304688,
+                348.0025634765625,
+                592.27490234375
+              ],
+              "officialCode": "HDL-CLT"
+            }
+          ],
+          "rowBounds": [
+            0.09969385813550387,
+            0.727426851291479,
+            0.5664005938353698,
+            0.7400676859601815
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "XO Button Holder",
+          "codes": [
+            {
+              "candidate": "PS8834",
+              "sourceBounds": [
+                0.5234694529161208,
+                0.7427076423014535,
+                0.5663837586242985,
+                0.7552218718046957
+              ],
+              "officialBounds": [
+                320.960205078125,
+                594.4348754882812,
+                347.99981689453125,
+                604.6138916015625
+              ],
+              "officialCode": "PS8834"
+            }
+          ],
+          "rowBounds": [
+            0.09968138304349122,
+            0.7425810384385497,
+            0.5663837586242985,
+            0.7552218718046957
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "EL Depth Probe",
+          "codes": [
+            {
+              "candidate": "21.1001EL",
+              "sourceBounds": [
+                0.5114128271031273,
+                0.7578583062993557,
+                0.5663769516253538,
+                0.7703761356057014
+              ],
+              "officialBounds": [
+                313.3731994628906,
+                606.77392578125,
+                348.0033874511719,
+                616.9529418945312
+              ],
+              "officialCode": "21.1001EL"
+            }
+          ],
+          "rowBounds": [
+            0.09966890788977019,
+            0.757735300546232,
+            0.5663769516253538,
+            0.7703761356057014
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        }
+      ],
+      "features": [
+        {
+          "text": "Pre-stretched continuous loop",
+          "bounds": [
+            0.10710446596844818,
+            0.3988657172759974,
+            0.28699161625415465,
+            0.4128098869772967
+          ],
+          "officialStartX": 58.5
+        },
+        {
+          "text": "Pre-loaded with passing sutures",
+          "bounds": [
+            0.10709334463514673,
+            0.41237541852743764,
+            0.2993977022113758,
+            0.42632329778670053
+          ],
+          "officialStartX": 58.5
+        },
+        {
+          "text": "Integrated method to reposition graft and implant",
+          "bounds": [
+            0.10708222330184529,
+            0.42588511977887794,
+            0.3950808026022791,
+            0.439861587049435
+          ],
+          "officialStartX": 58.5
+        },
+        {
+          "text": "Unique drill bit designed to measure aperture to cortex length",
+          "bounds": [
+            0.10707109591282295,
+            0.4393948210285091,
+            0.4650232618886434,
+            0.45339218646710505
+          ],
+          "officialStartX": 58.499996185302734
+        }
+      ],
+      "notes": [
+        "The implant of choice for extracortical, soft tissue fixation in cruciate reconstructions."
+      ],
+      "keyParameters": []
+    },
+    {
+      "title": "™ Hi-FI® Suture",
+      "page": 33,
+      "officialPage": 45,
+      "headingBounds": [
+        0.1894450692903896,
+        0.8076202346177697,
+        0.29792351273888107,
+        0.8223045215227058
+      ],
+      "rows": [
+        {
+          "description": "#2 Hi-Fi Suture, 60mm Straight Needle, 20\" Loop (12 per Box)",
+          "codes": [
+            {
+              "candidate": "HL200",
+              "sourceBounds": [
+                0.530797132692114,
+                0.8272584506529774,
+                0.5663092642741178,
+                0.8397704688060074
+              ],
+              "officialBounds": [
+                325.6199951171875,
+                663.27685546875,
+                347.9967346191406,
+                673.4558715820312
+              ],
+              "officialCode": "HL200"
+            }
+          ],
+          "rowBounds": [
+            0.0996082936205629,
+            0.8271296358595741,
+            0.5663092642741178,
+            0.8397704688060074
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        },
+        {
+          "description": "#2 Hi-Fi Suture, 48mm Curved Needle, 20\" Loop (12 per Box)",
+          "codes": [
+            {
+              "candidate": "HL201",
+              "sourceBounds": [
+                0.5311110813798301,
+                0.8450655920112532,
+                0.5662917470218282,
+                0.8575775111410415
+              ],
+              "officialBounds": [
+                325.8269958496094,
+                677.77587890625,
+                347.99493408203125,
+                687.9548950195312
+              ],
+              "officialCode": "HL201"
+            }
+          ],
+          "rowBounds": [
+            0.09959363466854526,
+            0.8449366790485064,
+            0.5662917470218282,
+            0.8575775111410415
+          ],
+          "pdfPage": 33,
+          "officialPage": 45
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 22
+}

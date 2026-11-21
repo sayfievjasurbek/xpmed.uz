@@ -1,0 +1,1296 @@
+{
+  "slug": "distal-lateral-radius-locking-plate-variable-angle",
+  "brand": "double-medical",
+  "category": "trauma-implants",
+  "subcategory": "trauma-small-fragment",
+  "subcategories": [
+    "trauma-small-fragment"
+  ],
+  "specialty": [
+    "traumatology",
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Латеральная блокируемая пластина для дистального отдела лучевой кости, с переменным углом",
+    "en": "Distal Lateral Radius Locking Plate, variable angle"
+  },
+  "shortDescription": {
+    "ru": "Импланты для остеосинтеза",
+    "en": "Implants for fracture fixation"
+  },
+  "description": {
+    "ru": "Латеральная блокируемая пластина для дистального отдела лучевой кости, с переменным углом. Характеристики и каталожные номера приведены по Trauma Catalogue Double Medical.",
+    "en": "Distal Lateral Radius Locking Plate, variable angle. Specifications and reference numbers are listed according to the Double Medical Trauma Catalogue."
+  },
+  "heroImage": "/images/products/double-medical/distal-lateral-radius-locking-plate-variable-angle/page-039-art-01.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "width": 411,
+      "height": 142,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          195,
+          106
+        ],
+        "enhancedSize": [
+          390,
+          212
+        ]
+      },
+      "src": "/images/products/double-medical/distal-lateral-radius-locking-plate-variable-angle/page-039-art-01.webp",
+      "imageCaption": {
+        "ru": "Латеральная блокируемая пластина для дистального отдела лучевой кости, с переменным углом",
+        "en": "Distal Lateral Radius Locking Plate, variable angle"
+      },
+      "sourcePages": [
+        39
+      ]
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [
+    {
+      "id": "trauma-p39-1",
+      "groupId": "trauma-p39-1",
+      "title": {
+        "ru": "Латеральная блокируемая пластина для дистального отдела лучевой кости, с переменным углом",
+        "en": "Distal Lateral Radius Locking Plate, variable angle"
+      },
+      "unit": "mm",
+      "sourcePage": 39,
+      "sourcePages": [
+        39
+      ],
+      "printedPage": "1/35",
+      "hideDescriptionColumn": true,
+      "columns": [
+        {
+          "ru": "Позиция",
+          "en": "Item"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Отверстия",
+          "en": "Holes"
+        },
+        {
+          "ru": "Длина",
+          "en": "Length"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Латеральная блокируемая пластина для дистального отдела лучевой кости, с переменным углом · Отверстия: 5, Длина: 45",
+            "en": "Distal Lateral Radius Locking Plate, variable angle · Holes: 5, Length: 45"
+          },
+          "021620005",
+          {
+            "ru": "5",
+            "en": "5"
+          },
+          {
+            "ru": "45",
+            "en": "45"
+          }
+        ],
+        [
+          {
+            "ru": "Латеральная блокируемая пластина для дистального отдела лучевой кости, с переменным углом · Отверстия: 6, Длина: 54",
+            "en": "Distal Lateral Radius Locking Plate, variable angle · Holes: 6, Length: 54"
+          },
+          "021620006",
+          {
+            "ru": "6",
+            "en": "6"
+          },
+          {
+            "ru": "54",
+            "en": "54"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 39,
+          "printedPage": "1/35",
+          "sourceBounds": [
+            0.08,
+            0.30926765799256506,
+            0.55,
+            0.32505047935824694
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p39-1",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 39,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "021620005"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "021620005"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "021620005"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "021620005",
+                "PSM11": "021620005",
+                "Vision": "021620005"
+              },
+              "value": "021620005",
+              "bounds": [
+                0.1346312037290924,
+                0.31226765799256506,
+                0.2221003564573622,
+                0.32205047935824693
+              ],
+              "verifiedValue": "021620005"
+            },
+            {
+              "readings": {
+                "PSM3": "5",
+                "PSM11": "3)",
+                "Vision": "5"
+              },
+              "value": "5",
+              "glyphReading": {
+                "text": "5",
+                "scores": [
+                  {
+                    "character": "5",
+                    "distance": 0.006096813725490196,
+                    "margin": 0.1808581745198079
+                  }
+                ],
+                "sourceRect": [
+                  112.54199981689453,
+                  191.61099243164062,
+                  116.2239990234375,
+                  197.54998779296875
+                ]
+              },
+              "verifiedValue": "5"
+            },
+            {
+              "readings": {
+                "PSM3": "45",
+                "PSM11": "45",
+                "Vision": "45"
+              },
+              "value": "45",
+              "glyphReading": {
+                "text": "45",
+                "scores": [
+                  {
+                    "character": "4",
+                    "distance": 0.0019122753267973858,
+                    "margin": 0.4340641464919301
+                  },
+                  {
+                    "character": "5",
+                    "distance": 0.001353145424836601,
+                    "margin": 0.1857626884086968
+                  }
+                ],
+                "sourceRect": [
+                  149.0290069580078,
+                  191.53201293945312,
+                  157.2469940185547,
+                  197.54998779296875
+                ]
+              },
+              "verifiedValue": "45"
+            }
+          ]
+        },
+        {
+          "pdfPage": 39,
+          "printedPage": "1/35",
+          "sourceBounds": [
+            0.08,
+            0.32394189004108787,
+            0.55,
+            0.33972471140676974
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p39-1",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 39,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "021620006"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "021620006"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "021620006"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "021620006",
+                "PSM11": "021620006",
+                "Vision": "021620006"
+              },
+              "value": "021620006",
+              "bounds": [
+                0.1346312037290924,
+                0.32694189004108787,
+                0.2221003564573622,
+                0.33672471140676974
+              ],
+              "verifiedValue": "021620006"
+            },
+            {
+              "readings": {
+                "PSM3": "6",
+                "PSM11": "6",
+                "Vision": ""
+              },
+              "value": "6",
+              "glyphReading": {
+                "text": "6",
+                "scores": [
+                  {
+                    "character": "6",
+                    "distance": 0.008683108660130718,
+                    "margin": 0.1487106821895425
+                  }
+                ],
+                "sourceRect": [
+                  112.51300048828125,
+                  200.5260009765625,
+                  116.1780014038086,
+                  206.57000732421875
+                ]
+              },
+              "verifiedValue": "6"
+            },
+            {
+              "readings": {
+                "PSM3": "54",
+                "PSM11": "54",
+                "Vision": ""
+              },
+              "value": "54",
+              "glyphReading": {
+                "text": "54",
+                "scores": [
+                  {
+                    "character": "5",
+                    "distance": 0.0027369281045751636,
+                    "margin": 0.18978382811457917
+                  },
+                  {
+                    "character": "4",
+                    "distance": 0.0012765522875816994,
+                    "margin": 0.44427145858343337
+                  }
+                ],
+                "sourceRect": [
+                  149.25100708007812,
+                  200.552001953125,
+                  157.18099975585938,
+                  206.57000732421875
+                ]
+              },
+              "verifiedValue": "54"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "width": 411,
+          "height": 142,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              195,
+              106
+            ],
+            "enhancedSize": [
+              390,
+              212
+            ]
+          },
+          "src": "/images/products/double-medical/distal-lateral-radius-locking-plate-variable-angle/page-039-art-01.webp",
+          "imageCaption": {
+            "ru": "Латеральная блокируемая пластина для дистального отдела лучевой кости, с переменным углом",
+            "en": "Distal Lateral Radius Locking Plate, variable angle"
+          },
+          "sourcePages": [
+            39
+          ]
+        }
+      ],
+      "keyParameters": [
+        {
+          "parameter": {
+            "ru": "Толщина",
+            "en": "Thickness"
+          },
+          "value": {
+            "ru": "2.0 мм",
+            "en": "2.0mm"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Ширина",
+            "en": "Width"
+          },
+          "value": {
+            "ru": "6.2 мм",
+            "en": "6.2mm"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Материал",
+            "en": "Material"
+          },
+          "value": {
+            "ru": "титановый сплав",
+            "en": "Titanium Alloy"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Совместимые винты",
+            "en": "Screws"
+          },
+          "value": {
+            "ru": "2.4 мм Блокируемый винт, с переменным углом; 2.4 мм Кортикальный винт",
+            "en": "2.4mm Locking Screw, variable angle; 2.4mm Cortex Screw"
+          }
+        }
+      ]
+    }
+  ],
+  "refCodes": [
+    "021620005",
+    "021620006"
+  ],
+  "sourcePages": [
+    39
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Trauma Catalogue — каталог продукции",
+    "en": "Double Medical Trauma Catalogue — product catalog"
+  },
+  "documentCover": "/catalogs/double-medical/trauma-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "catalogType": "list",
+  "importPartition": "trauma-part1",
+  "availabilityNote": {
+    "ru": "Изображения приведены для справки",
+    "en": "Images for reference only"
+  },
+  "imageDimensions": {
+    "/images/products/double-medical/distal-lateral-radius-locking-plate-variable-angle/page-039-art-01.webp": {
+      "width": 411,
+      "height": 142
+    }
+  },
+  "relatedSystemSlugs": [
+    "2-4mm-2-7mm-3-5mm-small-fragment-instrument-set",
+    "small-locking-instrument-set",
+    "locking-system-2-4-instrument-set"
+  ],
+  "sourcePdf": "/catalogs/double-medical/trauma-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/trauma-catalogue/pages/039.webp"
+  ],
+  "sourcePageDimensions": {
+    "6": {
+      "width": 3647,
+      "height": 5111
+    },
+    "7": {
+      "width": 3647,
+      "height": 5111
+    },
+    "8": {
+      "width": 3647,
+      "height": 5111
+    },
+    "9": {
+      "width": 3647,
+      "height": 5111
+    },
+    "10": {
+      "width": 3647,
+      "height": 5111
+    },
+    "11": {
+      "width": 3647,
+      "height": 5111
+    },
+    "12": {
+      "width": 3647,
+      "height": 5111
+    },
+    "13": {
+      "width": 3647,
+      "height": 5111
+    },
+    "14": {
+      "width": 3647,
+      "height": 5111
+    },
+    "15": {
+      "width": 3647,
+      "height": 5111
+    },
+    "16": {
+      "width": 3647,
+      "height": 5111
+    },
+    "17": {
+      "width": 3647,
+      "height": 5111
+    },
+    "18": {
+      "width": 3647,
+      "height": 5111
+    },
+    "19": {
+      "width": 3647,
+      "height": 5111
+    },
+    "20": {
+      "width": 3647,
+      "height": 5111
+    },
+    "21": {
+      "width": 3647,
+      "height": 5111
+    },
+    "22": {
+      "width": 3647,
+      "height": 5111
+    },
+    "23": {
+      "width": 3647,
+      "height": 5111
+    },
+    "24": {
+      "width": 3647,
+      "height": 5111
+    },
+    "25": {
+      "width": 3647,
+      "height": 5111
+    },
+    "26": {
+      "width": 3647,
+      "height": 5111
+    },
+    "27": {
+      "width": 3647,
+      "height": 5111
+    },
+    "28": {
+      "width": 3647,
+      "height": 5111
+    },
+    "29": {
+      "width": 3647,
+      "height": 5111
+    },
+    "30": {
+      "width": 3647,
+      "height": 5111
+    },
+    "31": {
+      "width": 3647,
+      "height": 5111
+    },
+    "32": {
+      "width": 3647,
+      "height": 5111
+    },
+    "33": {
+      "width": 3647,
+      "height": 5111
+    },
+    "34": {
+      "width": 3647,
+      "height": 5111
+    },
+    "35": {
+      "width": 3647,
+      "height": 5111
+    },
+    "36": {
+      "width": 3647,
+      "height": 5111
+    },
+    "37": {
+      "width": 3647,
+      "height": 5111
+    },
+    "38": {
+      "width": 3647,
+      "height": 5111
+    },
+    "39": {
+      "width": 3647,
+      "height": 5111
+    },
+    "40": {
+      "width": 3647,
+      "height": 5111
+    },
+    "41": {
+      "width": 3647,
+      "height": 5111
+    },
+    "42": {
+      "width": 3647,
+      "height": 5111
+    },
+    "43": {
+      "width": 3647,
+      "height": 5111
+    },
+    "44": {
+      "width": 3647,
+      "height": 5111
+    },
+    "45": {
+      "width": 3647,
+      "height": 5111
+    },
+    "46": {
+      "width": 3647,
+      "height": 5111
+    },
+    "47": {
+      "width": 3647,
+      "height": 5111
+    },
+    "48": {
+      "width": 3647,
+      "height": 5111
+    },
+    "49": {
+      "width": 3647,
+      "height": 5111
+    },
+    "50": {
+      "width": 3647,
+      "height": 5111
+    },
+    "51": {
+      "width": 3647,
+      "height": 5111
+    },
+    "52": {
+      "width": 3647,
+      "height": 5111
+    },
+    "53": {
+      "width": 3647,
+      "height": 5111
+    },
+    "54": {
+      "width": 3647,
+      "height": 5111
+    },
+    "55": {
+      "width": 3647,
+      "height": 5111
+    },
+    "56": {
+      "width": 3647,
+      "height": 5111
+    },
+    "57": {
+      "width": 3647,
+      "height": 5111
+    },
+    "58": {
+      "width": 3647,
+      "height": 5111
+    },
+    "59": {
+      "width": 3647,
+      "height": 5111
+    },
+    "60": {
+      "width": 3647,
+      "height": 5111
+    },
+    "61": {
+      "width": 3647,
+      "height": 5111
+    },
+    "62": {
+      "width": 3647,
+      "height": 5111
+    },
+    "63": {
+      "width": 3647,
+      "height": 5111
+    },
+    "64": {
+      "width": 3647,
+      "height": 5111
+    },
+    "65": {
+      "width": 3647,
+      "height": 5111
+    },
+    "66": {
+      "width": 3647,
+      "height": 5111
+    },
+    "67": {
+      "width": 3647,
+      "height": 5111
+    },
+    "68": {
+      "width": 3647,
+      "height": 5111
+    },
+    "69": {
+      "width": 3647,
+      "height": 5111
+    },
+    "70": {
+      "width": 3647,
+      "height": 5111
+    },
+    "71": {
+      "width": 3647,
+      "height": 5111
+    },
+    "72": {
+      "width": 3647,
+      "height": 5111
+    },
+    "73": {
+      "width": 3647,
+      "height": 5111
+    },
+    "74": {
+      "width": 3647,
+      "height": 5111
+    },
+    "75": {
+      "width": 3647,
+      "height": 5111
+    },
+    "76": {
+      "width": 3647,
+      "height": 5111
+    },
+    "77": {
+      "width": 3647,
+      "height": 5111
+    },
+    "80": {
+      "width": 3647,
+      "height": 5111
+    },
+    "81": {
+      "width": 3647,
+      "height": 5111
+    },
+    "82": {
+      "width": 3647,
+      "height": 5111
+    },
+    "83": {
+      "width": 3647,
+      "height": 5111
+    },
+    "84": {
+      "width": 3647,
+      "height": 5111
+    },
+    "85": {
+      "width": 3647,
+      "height": 5111
+    },
+    "86": {
+      "width": 3647,
+      "height": 5111
+    },
+    "87": {
+      "width": 3647,
+      "height": 5111
+    },
+    "88": {
+      "width": 3647,
+      "height": 5111
+    },
+    "89": {
+      "width": 3647,
+      "height": 5111
+    },
+    "90": {
+      "width": 3647,
+      "height": 5111
+    },
+    "91": {
+      "width": 3647,
+      "height": 5111
+    },
+    "92": {
+      "width": 3647,
+      "height": 5111
+    },
+    "93": {
+      "width": 3647,
+      "height": 5111
+    },
+    "94": {
+      "width": 3647,
+      "height": 5111
+    },
+    "95": {
+      "width": 3647,
+      "height": 5111
+    },
+    "96": {
+      "width": 3647,
+      "height": 5111
+    },
+    "97": {
+      "width": 3647,
+      "height": 5111
+    },
+    "98": {
+      "width": 3647,
+      "height": 5111
+    },
+    "99": {
+      "width": 3647,
+      "height": 5111
+    },
+    "100": {
+      "width": 3647,
+      "height": 5111
+    },
+    "101": {
+      "width": 3647,
+      "height": 5111
+    },
+    "102": {
+      "width": 3647,
+      "height": 5111
+    },
+    "103": {
+      "width": 3647,
+      "height": 5111
+    },
+    "104": {
+      "width": 3647,
+      "height": 5111
+    },
+    "105": {
+      "width": 3647,
+      "height": 5111
+    },
+    "106": {
+      "width": 3647,
+      "height": 5111
+    },
+    "107": {
+      "width": 3647,
+      "height": 5111
+    },
+    "108": {
+      "width": 3647,
+      "height": 5111
+    },
+    "109": {
+      "width": 3647,
+      "height": 5111
+    },
+    "110": {
+      "width": 3647,
+      "height": 5111
+    },
+    "111": {
+      "width": 3647,
+      "height": 5111
+    },
+    "112": {
+      "width": 3647,
+      "height": 5111
+    },
+    "113": {
+      "width": 3647,
+      "height": 5111
+    },
+    "114": {
+      "width": 3647,
+      "height": 5111
+    },
+    "115": {
+      "width": 3647,
+      "height": 5111
+    },
+    "116": {
+      "width": 3647,
+      "height": 5111
+    },
+    "117": {
+      "width": 3647,
+      "height": 5111
+    },
+    "118": {
+      "width": 3647,
+      "height": 5111
+    },
+    "119": {
+      "width": 3647,
+      "height": 5111
+    },
+    "120": {
+      "width": 3647,
+      "height": 5111
+    },
+    "121": {
+      "width": 3647,
+      "height": 5111
+    },
+    "122": {
+      "width": 3647,
+      "height": 5111
+    },
+    "123": {
+      "width": 3647,
+      "height": 5111
+    },
+    "124": {
+      "width": 3647,
+      "height": 5111
+    },
+    "125": {
+      "width": 3647,
+      "height": 5111
+    },
+    "126": {
+      "width": 3647,
+      "height": 5111
+    },
+    "127": {
+      "width": 3647,
+      "height": 5111
+    },
+    "128": {
+      "width": 3647,
+      "height": 5111
+    },
+    "129": {
+      "width": 3647,
+      "height": 5111
+    },
+    "130": {
+      "width": 3647,
+      "height": 5111
+    },
+    "131": {
+      "width": 3647,
+      "height": 5111
+    },
+    "132": {
+      "width": 3647,
+      "height": 5111
+    },
+    "133": {
+      "width": 3647,
+      "height": 5111
+    },
+    "134": {
+      "width": 3647,
+      "height": 5111
+    },
+    "135": {
+      "width": 3647,
+      "height": 5111
+    },
+    "136": {
+      "width": 3647,
+      "height": 5111
+    },
+    "137": {
+      "width": 3647,
+      "height": 5111
+    },
+    "138": {
+      "width": 3647,
+      "height": 5111
+    },
+    "139": {
+      "width": 3647,
+      "height": 5111
+    },
+    "140": {
+      "width": 3647,
+      "height": 5111
+    },
+    "143": {
+      "width": 3647,
+      "height": 5111
+    },
+    "144": {
+      "width": 3647,
+      "height": 5111
+    },
+    "145": {
+      "width": 3647,
+      "height": 5111
+    },
+    "146": {
+      "width": 3647,
+      "height": 5111
+    },
+    "147": {
+      "width": 3647,
+      "height": 5111
+    },
+    "148": {
+      "width": 3647,
+      "height": 5111
+    },
+    "149": {
+      "width": 3647,
+      "height": 5111
+    },
+    "150": {
+      "width": 3647,
+      "height": 5111
+    },
+    "151": {
+      "width": 3647,
+      "height": 5111
+    },
+    "152": {
+      "width": 3647,
+      "height": 5111
+    },
+    "153": {
+      "width": 3647,
+      "height": 5111
+    },
+    "154": {
+      "width": 3647,
+      "height": 5111
+    },
+    "155": {
+      "width": 3647,
+      "height": 5111
+    },
+    "156": {
+      "width": 3647,
+      "height": 5111
+    },
+    "157": {
+      "width": 3647,
+      "height": 5111
+    },
+    "158": {
+      "width": 3647,
+      "height": 5111
+    },
+    "159": {
+      "width": 3647,
+      "height": 5111
+    },
+    "160": {
+      "width": 3647,
+      "height": 5111
+    },
+    "161": {
+      "width": 3647,
+      "height": 5111
+    },
+    "162": {
+      "width": 3647,
+      "height": 5111
+    },
+    "163": {
+      "width": 3647,
+      "height": 5111
+    },
+    "164": {
+      "width": 3647,
+      "height": 5111
+    },
+    "165": {
+      "width": 3647,
+      "height": 5111
+    },
+    "166": {
+      "width": 3647,
+      "height": 5111
+    },
+    "167": {
+      "width": 3647,
+      "height": 5111
+    },
+    "168": {
+      "width": 3647,
+      "height": 5111
+    },
+    "169": {
+      "width": 3647,
+      "height": 5111
+    },
+    "170": {
+      "width": 3647,
+      "height": 5111
+    },
+    "171": {
+      "width": 3647,
+      "height": 5111
+    },
+    "172": {
+      "width": 3647,
+      "height": 5111
+    },
+    "173": {
+      "width": 3647,
+      "height": 5111
+    },
+    "174": {
+      "width": 3647,
+      "height": 5111
+    },
+    "175": {
+      "width": 3647,
+      "height": 5111
+    },
+    "176": {
+      "width": 3647,
+      "height": 5111
+    },
+    "177": {
+      "width": 3647,
+      "height": 5111
+    },
+    "178": {
+      "width": 3647,
+      "height": 5111
+    },
+    "179": {
+      "width": 3647,
+      "height": 5111
+    },
+    "180": {
+      "width": 3647,
+      "height": 5111
+    },
+    "181": {
+      "width": 3647,
+      "height": 5111
+    },
+    "182": {
+      "width": 3647,
+      "height": 5111
+    },
+    "183": {
+      "width": 3647,
+      "height": 5111
+    },
+    "184": {
+      "width": 3647,
+      "height": 5111
+    },
+    "185": {
+      "width": 3647,
+      "height": 5111
+    },
+    "186": {
+      "width": 3647,
+      "height": 5111
+    },
+    "187": {
+      "width": 3647,
+      "height": 5111
+    },
+    "188": {
+      "width": 3647,
+      "height": 5111
+    },
+    "189": {
+      "width": 3647,
+      "height": 5111
+    },
+    "190": {
+      "width": 3647,
+      "height": 5111
+    },
+    "193": {
+      "width": 3647,
+      "height": 5111
+    },
+    "194": {
+      "width": 3647,
+      "height": 5111
+    },
+    "195": {
+      "width": 3647,
+      "height": 5111
+    },
+    "196": {
+      "width": 3647,
+      "height": 5111
+    },
+    "197": {
+      "width": 3647,
+      "height": 5111
+    },
+    "198": {
+      "width": 3647,
+      "height": 5111
+    },
+    "199": {
+      "width": 3647,
+      "height": 5111
+    },
+    "200": {
+      "width": 3647,
+      "height": 5111
+    },
+    "201": {
+      "width": 3647,
+      "height": 5111
+    },
+    "202": {
+      "width": 3647,
+      "height": 5111
+    },
+    "203": {
+      "width": 3647,
+      "height": 5111
+    },
+    "204": {
+      "width": 3647,
+      "height": 5111
+    },
+    "205": {
+      "width": 3647,
+      "height": 5111
+    },
+    "206": {
+      "width": 3647,
+      "height": 5111
+    },
+    "207": {
+      "width": 3647,
+      "height": 5111
+    },
+    "208": {
+      "width": 3647,
+      "height": 5111
+    },
+    "209": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "3f2755d7646453cd1d8981369406a66062322971a7cb98258e022ae9b9769999",
+    "importMethod": "600-DPI Tesseract PSM3/11 plus independent Apple Vision; source glyph reconciliation and Codex visual reading; Codex medical RU; native photo composites, original Real-ESRGAN weights exact 2x then rembg",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      79,
+      142,
+      192,
+      78,
+      141,
+      191,
+      210
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.columns.2.ru",
+      "specTables.0.columns.3.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.0.2.ru",
+      "specTables.0.rows.0.3.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.1.2.ru",
+      "specTables.0.rows.1.3.ru",
+      "specTables.0.images.0.imageCaption.ru",
+      "specTables.0.keyParameters.0.parameter.ru",
+      "specTables.0.keyParameters.0.value.ru",
+      "specTables.0.keyParameters.1.parameter.ru",
+      "specTables.0.keyParameters.1.value.ru",
+      "specTables.0.keyParameters.2.parameter.ru",
+      "specTables.0.keyParameters.2.value.ru",
+      "specTables.0.keyParameters.3.parameter.ru",
+      "specTables.0.keyParameters.3.value.ru",
+      "catalogTitle.ru",
+      "availabilityNote.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Owner authorized automatic publication: exact source REF verification, Codex-authored RU/EN, complete image QA, zero open real flags",
+    "imageQA": "All source photos checked visually; native resolution corrected for rotations; Real-ESRGAN exact 2x, rembg, source-white aperture cleanup; originals retained."
+  },
+  "publishedAt": "2026-11-20T18:40:53.285059+00:00"
+}

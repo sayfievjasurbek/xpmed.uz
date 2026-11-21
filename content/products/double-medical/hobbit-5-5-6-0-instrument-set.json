@@ -1,0 +1,3229 @@
+{
+  "slug": "hobbit-5-5-6-0-instrument-set",
+  "brand": "double-medical",
+  "category": "spine-instrument-sets",
+  "subcategory": "thoracolumbar",
+  "specialty": [
+    "spine",
+    "traumatology"
+  ],
+  "name": {
+    "ru": "Набор инструментов HOBBIT 5.5/6.0",
+    "en": "HOBBIT 5.5/6.0 Instrument Set"
+  },
+  "setCode": "113905700",
+  "setCodeEvidence": [
+    {
+      "cy": 0.12032870279788692,
+      "bounds": [
+        0.2621332602138744,
+        0.1144590099784778,
+        0.362763915547025,
+        0.12619839561729604
+      ],
+      "readings": {
+        "PSM3": "113905700",
+        "PSM11": "113905700",
+        "Vision": "113905700"
+      },
+      "value": "113905700",
+      "pdfPage": 250
+    }
+  ],
+  "catalogType": "list",
+  "importPartition": "spine-instruments",
+  "shortDescription": {
+    "ru": "Инструменты для хирургии позвоночника",
+    "en": "Spine surgery instruments"
+  },
+  "description": {
+    "ru": "Набор инструментов HOBBIT 5.5/6.0. Комплектация и каталожные номера приведены по Spine Catalogue Double Medical.",
+    "en": "HOBBIT 5.5/6.0 Instrument Set. Contents and catalog numbers are listed according to the Double Medical Spine Catalogue."
+  },
+  "heroImage": "/images/products/double-medical/spine-instruments/art-252-03.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "src": "/images/products/double-medical/spine-instruments/art-252-03.webp",
+      "width": 1890,
+      "height": 917,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          921,
+          429
+        ],
+        "enhancedSize": [
+          1842,
+          858
+        ]
+      },
+      "imageCaption": {
+        "ru": "Контейнер инструментов — HOBBIT 5.5/6.0",
+        "en": "HOBBIT 5.5/6.0 Instrument Case"
+      },
+      "sourcePages": [
+        252
+      ]
+    },
+    {
+      "src": "/images/products/double-medical/spine-instruments/art-250-01.webp",
+      "width": 621,
+      "height": 90,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          279,
+          15
+        ],
+        "enhancedSize": [
+          558,
+          30
+        ]
+      },
+      "imageCaption": {
+        "ru": "Метчик, Ø4.0, с кортикальной и губчатой резьбой",
+        "en": "Tap, Ø4.0, Cortex and Cancellous Thread"
+      },
+      "sourcePages": [
+        250
+      ]
+    },
+    {
+      "src": "/images/products/double-medical/spine-instruments/art-250-02.webp",
+      "width": 654,
+      "height": 98,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          295,
+          17
+        ],
+        "enhancedSize": [
+          590,
+          34
+        ]
+      },
+      "imageCaption": {
+        "ru": "Метчик, Ø4.5, с кортикальной и губчатой резьбой",
+        "en": "Tap, Ø4.5, Cortex and Cancellous Thread"
+      },
+      "sourcePages": [
+        250
+      ]
+    },
+    {
+      "src": "/images/products/double-medical/spine-instruments/art-250-03.webp",
+      "width": 646,
+      "height": 91,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          291,
+          16
+        ],
+        "enhancedSize": [
+          582,
+          32
+        ]
+      },
+      "imageCaption": {
+        "ru": "Метчик, Ø5.0, с кортикальной и губчатой резьбой",
+        "en": "Tap, Ø5.0, Cortex and Cancellous Thread"
+      },
+      "sourcePages": [
+        250
+      ]
+    },
+    {
+      "src": "/images/products/double-medical/spine-instruments/art-250-04.webp",
+      "width": 658,
+      "height": 100,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          297,
+          20
+        ],
+        "enhancedSize": [
+          594,
+          40
+        ]
+      },
+      "imageCaption": {
+        "ru": "Метчик, Ø5.5, с кортикальной и губчатой резьбой",
+        "en": "Tap, Ø5.5, Cortex and Cancellous Thread"
+      },
+      "sourcePages": [
+        250
+      ]
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [
+    {
+      "id": "spine-set-113905700-p250",
+      "groupId": "spine-set-113905700-p250",
+      "title": {
+        "ru": "Инструменты · стр. 248",
+        "en": "Instruments · p. 248"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Метчик, Ø4.0, с кортикальной и губчатой резьбой",
+            "en": "Tap, Ø4.0, Cortex and Cancellous Thread"
+          },
+          "113900200"
+        ],
+        [
+          {
+            "ru": "Метчик, Ø4.5, с кортикальной и губчатой резьбой",
+            "en": "Tap, Ø4.5, Cortex and Cancellous Thread"
+          },
+          "113900300"
+        ],
+        [
+          {
+            "ru": "Метчик, Ø5.0, с кортикальной и губчатой резьбой",
+            "en": "Tap, Ø5.0, Cortex and Cancellous Thread"
+          },
+          "113900400"
+        ],
+        [
+          {
+            "ru": "Метчик, Ø5.5, с кортикальной и губчатой резьбой",
+            "en": "Tap, Ø5.5, Cortex and Cancellous Thread"
+          },
+          "113900500"
+        ],
+        [
+          {
+            "ru": "Метчик, Ø6.0, с кортикальной и губчатой резьбой",
+            "en": "Tap, Ø6.0, Cortex and Cancellous Thread"
+          },
+          "113900600"
+        ],
+        [
+          {
+            "ru": "Ключ-контропора HOBBIT, 5.5/6.0",
+            "en": "HOBBIT Anti Torque Wrench, 5.5/6.0"
+          },
+          "113903900"
+        ],
+        [
+          {
+            "ru": "Стержень отвёртки HOBBIT, T27",
+            "en": "HOBBIT Screwdriver Shaft, T27"
+          },
+          "113900800"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 250,
+          "printedPage": 248,
+          "bounds": [
+            0.11571154373457636,
+            0.15059029544120525,
+            0.56,
+            0.21375464684014872
+          ],
+          "sourceBounds": [
+            0.11571154373457636,
+            0.15059029544120525,
+            0.56,
+            0.21375464684014872
+          ],
+          "codeBounds": [
+            0.11571154373457636,
+            0.15359029544120525,
+            0.20126131066630107,
+            0.16356877323420074
+          ],
+          "sourceRowId": "250-01",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113905700-p250",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 250,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113900200",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.15359029544120525,
+                    0.20126131066630107,
+                    0.16356877323420074
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113900200",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.15359029544120525,
+                    0.20126131066630107,
+                    0.16356877323420074
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113900200",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.15359029544120525,
+                    0.20126131066630107,
+                    0.16356877323420074
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Tap, 04.0, Cortex and Cancellous Thread",
+            "PSM11": "Tap, 04.0, Cortex and Cancellous Thread",
+            "Vision": "Tap, $4.0, Cortex and Cancellous Thread"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 250,
+          "printedPage": 248,
+          "bounds": [
+            0.11571154373457636,
+            0.26094052044609667,
+            0.56,
+            0.3240559577382117
+          ],
+          "sourceBounds": [
+            0.11571154373457636,
+            0.26094052044609667,
+            0.56,
+            0.3240559577382117
+          ],
+          "codeBounds": [
+            0.11571154373457636,
+            0.26394052044609667,
+            0.20126131066630107,
+            0.27391899823909216
+          ],
+          "sourceRowId": "250-02",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113905700-p250",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 250,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113900300",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.26394052044609667,
+                    0.20126131066630107,
+                    0.27391899823909216
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113900300",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.26394052044609667,
+                    0.20126131066630107,
+                    0.27391899823909216
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113900300",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.26394052044609667,
+                    0.20126131066630107,
+                    0.27391899823909216
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Tap, 04.5, Cortex and Cancellous Thread",
+            "PSM11": "Tap, 04.5, Cortex and Cancellous Thread",
+            "Vision": "Tap, $4.5, Cortex and Cancellous Thread"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 250,
+          "printedPage": 248,
+          "bounds": [
+            0.11571154373457636,
+            0.37129074545098806,
+            0.56,
+            0.43430835452944627
+          ],
+          "sourceBounds": [
+            0.11571154373457636,
+            0.37129074545098806,
+            0.56,
+            0.43430835452944627
+          ],
+          "codeBounds": [
+            0.11571154373457636,
+            0.37429074545098806,
+            0.20126131066630107,
+            0.38407356681666993
+          ],
+          "sourceRowId": "250-03",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113905700-p250",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 250,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113900400",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.37429074545098806,
+                    0.20126131066630107,
+                    0.38407356681666993
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113900400",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.37429074545098806,
+                    0.20126131066630107,
+                    0.38407356681666993
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113900400",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.37429074545098806,
+                    0.20126131066630107,
+                    0.38407356681666993
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Tap, 05.0, Cortex and Cancellous Thread",
+            "PSM11": "Tap, 05.0, Cortex and Cancellous Thread",
+            "Vision": "Tap, Ф5.0, Cortex and Cancellous Thread"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 250,
+          "printedPage": 248,
+          "bounds": [
+            0.11571154373457636,
+            0.48144531402856583,
+            0.56,
+            0.5446096654275092
+          ],
+          "sourceBounds": [
+            0.11571154373457636,
+            0.48144531402856583,
+            0.56,
+            0.5446096654275092
+          ],
+          "codeBounds": [
+            0.11571154373457636,
+            0.48444531402856583,
+            0.20126131066630107,
+            0.4944237918215613
+          ],
+          "sourceRowId": "250-04",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113905700-p250",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 250,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113900500",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.48444531402856583,
+                    0.20126131066630107,
+                    0.4944237918215613
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113900500",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.48444531402856583,
+                    0.20126131066630107,
+                    0.4944237918215613
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113900500",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.48444531402856583,
+                    0.20126131066630107,
+                    0.4944237918215613
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Tap, 05.5, Cortex and Cancellous Thread",
+            "PSM11": "Tap, 05.5, Cortex and Cancellous Thread",
+            "Vision": "Tap, $5.5, Cortex and Cancellous Thread"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 250,
+          "printedPage": 248,
+          "bounds": [
+            0.11571154373457636,
+            0.5917955390334573,
+            0.56,
+            0.6549598904324007
+          ],
+          "sourceBounds": [
+            0.11571154373457636,
+            0.5917955390334573,
+            0.56,
+            0.6549598904324007
+          ],
+          "codeBounds": [
+            0.11571154373457636,
+            0.5947955390334573,
+            0.20126131066630107,
+            0.6047740168264527
+          ],
+          "sourceRowId": "250-05",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113905700-p250",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 250,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113900600",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.5947955390334573,
+                    0.20126131066630107,
+                    0.6047740168264527
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113900600",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.5947955390334573,
+                    0.20126131066630107,
+                    0.6047740168264527
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113900600",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.5947955390334573,
+                    0.20126131066630107,
+                    0.6047740168264527
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Tap, 06.0, Cortex and Cancellous Thread",
+            "PSM11": "Tap, 06.0, Cortex and Cancellous Thread",
+            "Vision": "Tap, $6.0, Cortex and Cancellous Thread"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 250,
+          "printedPage": 248,
+          "bounds": [
+            0.11571154373457636,
+            0.7021457640383486,
+            0.56,
+            0.7652612013304636
+          ],
+          "sourceBounds": [
+            0.11571154373457636,
+            0.7021457640383486,
+            0.56,
+            0.7652612013304636
+          ],
+          "codeBounds": [
+            0.11571154373457636,
+            0.7051457640383486,
+            0.20126131066630107,
+            0.7151242418313442
+          ],
+          "sourceRowId": "250-06",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113905700-p250",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 250,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113903900",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.7051457640383486,
+                    0.20126131066630107,
+                    0.7151242418313442
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113903900",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.7051457640383486,
+                    0.20126131066630107,
+                    0.7151242418313442
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113903900",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.7051457640383486,
+                    0.20126131066630107,
+                    0.7151242418313442
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "HOBBIT Anti Torque Wrench, 5.5/6.0 EE",
+            "PSM11": "HOBBIT Anti Torque Wrench, 5.5/6.0 —",
+            "Vision": "HOBBIT Anti Torque Wrench, 5.5/6.0"
+          },
+          "descriptionVerification": "Codex visual source crop"
+        },
+        {
+          "pdfPage": 250,
+          "printedPage": 248,
+          "bounds": [
+            0.11571154373457636,
+            0.81249598904324,
+            0.56,
+            0.880278810408922
+          ],
+          "sourceBounds": [
+            0.11571154373457636,
+            0.81249598904324,
+            0.56,
+            0.880278810408922
+          ],
+          "codeBounds": [
+            0.11571154373457636,
+            0.81549598904324,
+            0.20126131066630107,
+            0.8252788104089219
+          ],
+          "sourceRowId": "250-07",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113905700-p250",
+              "row": 7,
+              "column": 2,
+              "pdfPage": 250,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113900800",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.81549598904324,
+                    0.20126131066630107,
+                    0.8252788104089219
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113900800",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.81549598904324,
+                    0.20126131066630107,
+                    0.8252788104089219
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113900800",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.81549598904324,
+                    0.20126131066630107,
+                    0.8252788104089219
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "HOBBIT Screwdriver Shaft, T27",
+            "PSM11": "HOBBIT Screwdriver Shaft, T27",
+            "Vision": "HOBBIT Screwdriver Shaft, T27"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        }
+      ],
+      "rowImages": [
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-250-01.webp",
+          "width": 621,
+          "height": 90,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              279,
+              15
+            ],
+            "enhancedSize": [
+              558,
+              30
+            ]
+          },
+          "imageCaption": {
+            "ru": "Метчик, Ø4.0, с кортикальной и губчатой резьбой",
+            "en": "Tap, Ø4.0, Cortex and Cancellous Thread"
+          },
+          "sourcePages": [
+            250
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-250-02.webp",
+          "width": 654,
+          "height": 98,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              295,
+              17
+            ],
+            "enhancedSize": [
+              590,
+              34
+            ]
+          },
+          "imageCaption": {
+            "ru": "Метчик, Ø4.5, с кортикальной и губчатой резьбой",
+            "en": "Tap, Ø4.5, Cortex and Cancellous Thread"
+          },
+          "sourcePages": [
+            250
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-250-03.webp",
+          "width": 646,
+          "height": 91,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              291,
+              16
+            ],
+            "enhancedSize": [
+              582,
+              32
+            ]
+          },
+          "imageCaption": {
+            "ru": "Метчик, Ø5.0, с кортикальной и губчатой резьбой",
+            "en": "Tap, Ø5.0, Cortex and Cancellous Thread"
+          },
+          "sourcePages": [
+            250
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-250-04.webp",
+          "width": 658,
+          "height": 100,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              297,
+              20
+            ],
+            "enhancedSize": [
+              594,
+              40
+            ]
+          },
+          "imageCaption": {
+            "ru": "Метчик, Ø5.5, с кортикальной и губчатой резьбой",
+            "en": "Tap, Ø5.5, Cortex and Cancellous Thread"
+          },
+          "sourcePages": [
+            250
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-250-05.webp",
+          "width": 650,
+          "height": 95,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              293,
+              18
+            ],
+            "enhancedSize": [
+              586,
+              36
+            ]
+          },
+          "imageCaption": {
+            "ru": "Метчик, Ø6.0, с кортикальной и губчатой резьбой",
+            "en": "Tap, Ø6.0, Cortex and Cancellous Thread"
+          },
+          "sourcePages": [
+            250
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-250-06.webp",
+          "width": 658,
+          "height": 100,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              297,
+              20
+            ],
+            "enhancedSize": [
+              594,
+              40
+            ]
+          },
+          "imageCaption": {
+            "ru": "Ключ-контропора HOBBIT, 5.5/6.0",
+            "en": "HOBBIT Anti Torque Wrench, 5.5/6.0"
+          },
+          "sourcePages": [
+            250
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-250-07.webp",
+          "width": 644,
+          "height": 90,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              290,
+              16
+            ],
+            "enhancedSize": [
+              580,
+              32
+            ]
+          },
+          "imageCaption": {
+            "ru": "Стержень отвёртки HOBBIT, T27",
+            "en": "HOBBIT Screwdriver Shaft, T27"
+          },
+          "sourcePages": [
+            250
+          ]
+        }
+      ],
+      "sourcePage": 250,
+      "sourcePages": [
+        250
+      ],
+      "printedPage": 248,
+      "catalogNumberTable": true
+    },
+    {
+      "id": "spine-set-113905700-p251",
+      "groupId": "spine-set-113905700-p251",
+      "title": {
+        "ru": "Инструменты · стр. 249",
+        "en": "Instruments · p. 249"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Поворотные щипцы HOBBIT, 5.5/6.0",
+            "en": "HOBBIT Swing Plier, 5.5/6.0"
+          },
+          "113901000"
+        ],
+        [
+          {
+            "ru": "Защитная втулка HOBBIT для кусачек для винтов, 5.5/6.0",
+            "en": "HOBBIT Protection Sleeve for Screw Cutter, 5.5/6.0"
+          },
+          "113901100"
+        ],
+        [
+          {
+            "ru": "Набор для обрезки винтов, для редукционного транспедикулярного винта HOBBIT, 5.5/6.0",
+            "en": "Screw Cutter Set, for HOBBIT Reduction Pedicle Screw, 5.5/6.0"
+          },
+          "113903800"
+        ],
+        [
+          {
+            "ru": "Отвёртка HOBBIT для гайки со срывной головкой, 5.5/6.0",
+            "en": "HOBBIT Screwdriver for Snap-off Screw Nut, 5.5/6.0"
+          },
+          "113901400"
+        ],
+        [
+          {
+            "ru": "Отвёртка HOBBIT для гайки со срывной головкой, T27",
+            "en": "HOBBIT Screwdriver for Snap-off Screw Nut, T27"
+          },
+          "113901500"
+        ],
+        [
+          {
+            "ru": "Отвёртка HOBBIT, 5.5/6.0",
+            "en": "HOBBIT Screwdriver, 5.5/6.0"
+          },
+          "113901600"
+        ],
+        [
+          {
+            "ru": "Держатель HOBBIT для гайки, T27",
+            "en": "HOBBIT Holder for Screw Nut, T27"
+          },
+          "113901700"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 251,
+          "printedPage": 249,
+          "bounds": [
+            0.1343570057581574,
+            0.15059029544120525,
+            0.56,
+            0.21375464684014872
+          ],
+          "sourceBounds": [
+            0.1343570057581574,
+            0.15059029544120525,
+            0.56,
+            0.21375464684014872
+          ],
+          "codeBounds": [
+            0.1343570057581574,
+            0.15359029544120525,
+            0.2199067726898821,
+            0.16356877323420074
+          ],
+          "sourceRowId": "251-01",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113905700-p251",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 251,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113901000",
+                  "bounds": [
+                    0.1343570057581574,
+                    0.15359029544120525,
+                    0.2199067726898821,
+                    0.16356877323420074
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113901000",
+                  "bounds": [
+                    0.1343570057581574,
+                    0.15359029544120525,
+                    0.2199067726898821,
+                    0.16356877323420074
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113901000",
+                  "bounds": [
+                    0.1343570057581574,
+                    0.15359029544120525,
+                    0.2199067726898821,
+                    0.16356877323420074
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "HOBBIT Swing Plier, 5.5/6.0",
+            "PSM11": "HOBBIT Swing Plier, 5.5/6.0",
+            "Vision": "HOBBIT Swing Plier, 5.5/6.0"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 251,
+          "printedPage": 249,
+          "bounds": [
+            0.1343570057581574,
+            0.26094052044609667,
+            0.56,
+            0.3240559577382117
+          ],
+          "sourceBounds": [
+            0.1343570057581574,
+            0.26094052044609667,
+            0.56,
+            0.3240559577382117
+          ],
+          "codeBounds": [
+            0.1343570057581574,
+            0.26394052044609667,
+            0.21908417877707706,
+            0.27391899823909216
+          ],
+          "sourceRowId": "251-02",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113905700-p251",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 251,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113901100",
+                  "bounds": [
+                    0.1343570057581574,
+                    0.26394052044609667,
+                    0.21908417877707706,
+                    0.27391899823909216
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113901100",
+                  "bounds": [
+                    0.1343570057581574,
+                    0.26394052044609667,
+                    0.21908417877707706,
+                    0.27391899823909216
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113901100",
+                  "bounds": [
+                    0.1343570057581574,
+                    0.26394052044609667,
+                    0.21908417877707706,
+                    0.27391899823909216
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "HOBBIT Protection Sleeve for Screw Cutter, 5.5/6.0",
+            "PSM11": "HOBBIT Protection Sleeve for Screw Cutter, 5.5/6.0",
+            "Vision": "HOBBIT Protection Sleeve for Screw Cutter, 5.5/6.0"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 251,
+          "printedPage": 249,
+          "bounds": [
+            0.1343570057581574,
+            0.37129074545098806,
+            0.56,
+            0.43435726863627466
+          ],
+          "sourceBounds": [
+            0.1343570057581574,
+            0.37129074545098806,
+            0.56,
+            0.43435726863627466
+          ],
+          "codeBounds": [
+            0.1343570057581574,
+            0.37429074545098806,
+            0.2199067726898821,
+            0.38407356681666993
+          ],
+          "sourceRowId": "251-03",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113905700-p251",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 251,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113903800",
+                  "bounds": [
+                    0.1343570057581574,
+                    0.37429074545098806,
+                    0.2199067726898821,
+                    0.38407356681666993
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113903800",
+                  "bounds": [
+                    0.1343570057581574,
+                    0.37429074545098806,
+                    0.2199067726898821,
+                    0.38407356681666993
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113903800",
+                  "bounds": [
+                    0.1343570057581574,
+                    0.37429074545098806,
+                    0.2199067726898821,
+                    0.38407356681666993
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Screw Cutter Set, for HOBBIT Reduction Pedicle Screw, 5.5/6.0 =",
+            "PSM11": "Screw Cutter Set, for HOBBIT Reduction Pedicle Screw, 5.5/6.0 SS",
+            "Vision": "Screw Cutter Set, for HOBBIT Reduction Pedicle Screw, 5.5/6.0"
+          },
+          "descriptionVerification": "Codex visual source crop"
+        },
+        {
+          "pdfPage": 251,
+          "printedPage": 249,
+          "bounds": [
+            0.1343570057581574,
+            0.48164097045587945,
+            0.56,
+            0.5446585795343377
+          ],
+          "sourceBounds": [
+            0.1343570057581574,
+            0.48164097045587945,
+            0.56,
+            0.5446585795343377
+          ],
+          "codeBounds": [
+            0.1343570057581574,
+            0.48464097045587945,
+            0.2199067726898821,
+            0.4944237918215613
+          ],
+          "sourceRowId": "251-04",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113905700-p251",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 251,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113901400",
+                  "bounds": [
+                    0.1343570057581574,
+                    0.48464097045587945,
+                    0.2199067726898821,
+                    0.4944237918215613
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113901400",
+                  "bounds": [
+                    0.1343570057581574,
+                    0.48464097045587945,
+                    0.2199067726898821,
+                    0.4944237918215613
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113901400",
+                  "bounds": [
+                    0.1343570057581574,
+                    0.48464097045587945,
+                    0.2199067726898821,
+                    0.4944237918215613
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "HOBBIT Screwdriver for Snap-off Screw Nut, 5.5/6.0",
+            "PSM11": "HOBBIT Screwdriver for Snap-off Screw Nut, 5.5/6.0",
+            "Vision": "HOBBIT Screwdriver for Snap-off Screw Nut, 5.5/6.0"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 251,
+          "printedPage": 249,
+          "bounds": [
+            0.1343570057581574,
+            0.5917955390334573,
+            0.56,
+            0.6549598904324007
+          ],
+          "sourceBounds": [
+            0.1343570057581574,
+            0.5917955390334573,
+            0.56,
+            0.6549598904324007
+          ],
+          "codeBounds": [
+            0.1343570057581574,
+            0.5947955390334573,
+            0.2199067726898821,
+            0.6047740168264527
+          ],
+          "sourceRowId": "251-05",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113905700-p251",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 251,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113901500",
+                  "bounds": [
+                    0.1343570057581574,
+                    0.5947955390334573,
+                    0.2199067726898821,
+                    0.6047740168264527
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113901500",
+                  "bounds": [
+                    0.1343570057581574,
+                    0.5947955390334573,
+                    0.2199067726898821,
+                    0.6047740168264527
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113901500",
+                  "bounds": [
+                    0.1343570057581574,
+                    0.5947955390334573,
+                    0.2199067726898821,
+                    0.6047740168264527
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "HOBBIT Screwdriver for Snap-off Screw Nut, T27",
+            "PSM11": "HOBBIT Screwdriver for Snap-off Screw Nut, T27",
+            "Vision": "HOBBIT Screwdriver for Snap-off Screw Nut, T27"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 251,
+          "printedPage": 249,
+          "bounds": [
+            0.1343570057581574,
+            0.7021457640383486,
+            0.56,
+            0.7652612013304636
+          ],
+          "sourceBounds": [
+            0.1343570057581574,
+            0.7021457640383486,
+            0.56,
+            0.7652612013304636
+          ],
+          "codeBounds": [
+            0.1343570057581574,
+            0.7051457640383486,
+            0.2199067726898821,
+            0.7151242418313442
+          ],
+          "sourceRowId": "251-06",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113905700-p251",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 251,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113901600",
+                  "bounds": [
+                    0.1343570057581574,
+                    0.7051457640383486,
+                    0.2199067726898821,
+                    0.7151242418313442
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113901600",
+                  "bounds": [
+                    0.1343570057581574,
+                    0.7051457640383486,
+                    0.2199067726898821,
+                    0.7151242418313442
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113901600",
+                  "bounds": [
+                    0.1343570057581574,
+                    0.7051457640383486,
+                    0.2199067726898821,
+                    0.7151242418313442
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "HOBBIT Screwdriver, 5.5/6.0",
+            "PSM11": "HOBBIT Screwdriver, 5.5/6.0",
+            "Vision": "HOBBIT Screwdriver, 5.5/6.0"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 251,
+          "printedPage": 249,
+          "bounds": [
+            0.1343570057581574,
+            0.81249598904324,
+            0.56,
+            0.880278810408922
+          ],
+          "sourceBounds": [
+            0.1343570057581574,
+            0.81249598904324,
+            0.56,
+            0.880278810408922
+          ],
+          "codeBounds": [
+            0.1343570057581574,
+            0.81549598904324,
+            0.2199067726898821,
+            0.8252788104089219
+          ],
+          "sourceRowId": "251-07",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113905700-p251",
+              "row": 7,
+              "column": 2,
+              "pdfPage": 251,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113901700",
+                  "bounds": [
+                    0.1343570057581574,
+                    0.81549598904324,
+                    0.2199067726898821,
+                    0.8252788104089219
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113901700",
+                  "bounds": [
+                    0.1343570057581574,
+                    0.81549598904324,
+                    0.2199067726898821,
+                    0.8252788104089219
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113901700",
+                  "bounds": [
+                    0.1343570057581574,
+                    0.81549598904324,
+                    0.2199067726898821,
+                    0.8252788104089219
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "HOBBIT Holder for Screw Nut, T27 ——————— <i",
+            "PSM11": "HOBBIT Holder for Screw Nut, T27 a SSS",
+            "Vision": "HOBBIT Holder for Screw Nut, T27"
+          },
+          "descriptionVerification": "Codex visual source crop"
+        }
+      ],
+      "rowImages": [
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-251-01.webp",
+          "width": 2252,
+          "height": 870,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              1094,
+              403
+            ],
+            "enhancedSize": [
+              2188,
+              806
+            ]
+          },
+          "imageCaption": {
+            "ru": "Поворотные щипцы HOBBIT, 5.5/6.0",
+            "en": "HOBBIT Swing Plier, 5.5/6.0"
+          },
+          "sourcePages": [
+            251
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-251-02.webp",
+          "width": 1468,
+          "height": 1535,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              721,
+              742
+            ],
+            "enhancedSize": [
+              1442,
+              1484
+            ]
+          },
+          "imageCaption": {
+            "ru": "Защитная втулка HOBBIT для кусачек для винтов, 5.5/6.0",
+            "en": "HOBBIT Protection Sleeve for Screw Cutter, 5.5/6.0"
+          },
+          "sourcePages": [
+            251
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-251-03.webp",
+          "width": 1984,
+          "height": 648,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              960,
+              292
+            ],
+            "enhancedSize": [
+              1920,
+              584
+            ]
+          },
+          "imageCaption": {
+            "ru": "Набор для обрезки винтов, для редукционного транспедикулярного винта HOBBIT, 5.5/6.0",
+            "en": "Screw Cutter Set, for HOBBIT Reduction Pedicle Screw, 5.5/6.0"
+          },
+          "sourcePages": [
+            251
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-251-04.webp",
+          "width": 1950,
+          "height": 734,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              943,
+              336
+            ],
+            "enhancedSize": [
+              1886,
+              672
+            ]
+          },
+          "imageCaption": {
+            "ru": "Отвёртка HOBBIT для гайки со срывной головкой, 5.5/6.0",
+            "en": "HOBBIT Screwdriver for Snap-off Screw Nut, 5.5/6.0"
+          },
+          "sourcePages": [
+            251
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-251-05.webp",
+          "width": 1984,
+          "height": 693,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              960,
+              317
+            ],
+            "enhancedSize": [
+              1920,
+              634
+            ]
+          },
+          "imageCaption": {
+            "ru": "Отвёртка HOBBIT для гайки со срывной головкой, T27",
+            "en": "HOBBIT Screwdriver for Snap-off Screw Nut, T27"
+          },
+          "sourcePages": [
+            251
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-251-06.webp",
+          "width": 2244,
+          "height": 367,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              1093,
+              163
+            ],
+            "enhancedSize": [
+              2186,
+              326
+            ]
+          },
+          "imageCaption": {
+            "ru": "Отвёртка HOBBIT, 5.5/6.0",
+            "en": "HOBBIT Screwdriver, 5.5/6.0"
+          },
+          "sourcePages": [
+            251
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-251-07.webp",
+          "width": 2270,
+          "height": 270,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              1103,
+              107
+            ],
+            "enhancedSize": [
+              2206,
+              214
+            ]
+          },
+          "imageCaption": {
+            "ru": "Держатель HOBBIT для гайки, T27",
+            "en": "HOBBIT Holder for Screw Nut, T27"
+          },
+          "sourcePages": [
+            251
+          ]
+        }
+      ],
+      "sourcePage": 251,
+      "sourcePages": [
+        251
+      ],
+      "printedPage": 249,
+      "catalogNumberTable": true
+    },
+    {
+      "id": "spine-set-113905700-p252",
+      "groupId": "spine-set-113905700-p252",
+      "title": {
+        "ru": "Инструменты · стр. 250",
+        "en": "Instruments · p. 250"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Репозиционные щипцы с регулировочной рукояткой HOBBIT, 5.5/6.0",
+            "en": "HOBBIT Reduction Forceps with Knob, 5.5/6.0"
+          },
+          "113909800"
+        ],
+        [
+          {
+            "ru": "Выравнивающая втулка HOBBIT, 5.5/6.0",
+            "en": "HOBBIT Alignment Sleeve, 5.5/6.0"
+          },
+          "113901900"
+        ],
+        [
+          {
+            "ru": "Контейнер инструментов — HOBBIT 5.5/6.0",
+            "en": "HOBBIT 5.5/6.0 Instrument Case"
+          },
+          "113905800"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 252,
+          "printedPage": 250,
+          "bounds": [
+            0.11571154373457636,
+            0.15000332615926432,
+            0.56,
+            0.21306984934455098
+          ],
+          "sourceBounds": [
+            0.11571154373457636,
+            0.15000332615926432,
+            0.56,
+            0.21306984934455098
+          ],
+          "codeBounds": [
+            0.11571154373457636,
+            0.15300332615926432,
+            0.20126131066630107,
+            0.16298180395225983
+          ],
+          "sourceRowId": "252-01",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113905700-p252",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 252,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113909800",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.15300332615926432,
+                    0.20126131066630107,
+                    0.16298180395225983
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113909800",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.15300332615926432,
+                    0.20126131066630107,
+                    0.16298180395225983
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113909800",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.15300332615926432,
+                    0.20126131066630107,
+                    0.16298180395225983
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "HOBBIT Reduction Forceps with Knob, 5.5/6.0",
+            "PSM11": "HOBBIT Reduction Forceps with Knob, 5.5/6.0",
+            "Vision": "HOBBIT Reduction Forceps with Knob, 5.5/6.0"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 252,
+          "printedPage": 250,
+          "bounds": [
+            0.11571154373457636,
+            0.2601578947368421,
+            0.56,
+            0.3233222461357856
+          ],
+          "sourceBounds": [
+            0.11571154373457636,
+            0.2601578947368421,
+            0.56,
+            0.3233222461357856
+          ],
+          "codeBounds": [
+            0.11571154373457636,
+            0.2631578947368421,
+            0.20126131066630107,
+            0.2731363725298376
+          ],
+          "sourceRowId": "252-02",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113905700-p252",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 252,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113901900",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.2631578947368421,
+                    0.20126131066630107,
+                    0.2731363725298376
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113901900",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.2631578947368421,
+                    0.20126131066630107,
+                    0.2731363725298376
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113901900",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.2631578947368421,
+                    0.20126131066630107,
+                    0.2731363725298376
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "HOBBIT Alignment Sleeve, 5.5/6.0 J",
+            "PSM11": "HOBBIT Alignment Sleeve, 5.5/6.0 “ri?",
+            "Vision": "HOBBIT Alignment Sleeve, 5.5/6.0"
+          },
+          "descriptionVerification": "Codex visual source crop"
+        },
+        {
+          "pdfPage": 252,
+          "printedPage": 250,
+          "bounds": [
+            0.11571154373457636,
+            0.37050811974173353,
+            0.56,
+            0.438486597534729
+          ],
+          "sourceBounds": [
+            0.11571154373457636,
+            0.37050811974173353,
+            0.56,
+            0.438486597534729
+          ],
+          "codeBounds": [
+            0.11571154373457636,
+            0.37350811974173354,
+            0.20126131066630107,
+            0.383486597534729
+          ],
+          "sourceRowId": "252-03",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113905700-p252",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 252,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113905800",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.37350811974173354,
+                    0.20126131066630107,
+                    0.383486597534729
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113905800",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.37350811974173354,
+                    0.20126131066630107,
+                    0.383486597534729
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113905800",
+                  "bounds": [
+                    0.11571154373457636,
+                    0.37350811974173354,
+                    0.20126131066630107,
+                    0.383486597534729
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "HOBBIT 5.5/6.0 Instrument Case",
+            "PSM11": "HOBBIT 5.5/6.0 Instrument Case Cel",
+            "Vision": "HOBBIT 5.5/6.0 Instrument Case"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        }
+      ],
+      "rowImages": [
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-252-01.webp",
+          "width": 1769,
+          "height": 1098,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              855,
+              519
+            ],
+            "enhancedSize": [
+              1710,
+              1038
+            ]
+          },
+          "imageCaption": {
+            "ru": "Репозиционные щипцы с регулировочной рукояткой HOBBIT, 5.5/6.0",
+            "en": "HOBBIT Reduction Forceps with Knob, 5.5/6.0"
+          },
+          "sourcePages": [
+            252
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-252-02.webp",
+          "width": 1306,
+          "height": 261,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              621,
+              100
+            ],
+            "enhancedSize": [
+              1242,
+              200
+            ]
+          },
+          "imageCaption": {
+            "ru": "Выравнивающая втулка HOBBIT, 5.5/6.0",
+            "en": "HOBBIT Alignment Sleeve, 5.5/6.0"
+          },
+          "sourcePages": [
+            252
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-252-03.webp",
+          "width": 1890,
+          "height": 917,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              921,
+              429
+            ],
+            "enhancedSize": [
+              1842,
+              858
+            ]
+          },
+          "imageCaption": {
+            "ru": "Контейнер инструментов — HOBBIT 5.5/6.0",
+            "en": "HOBBIT 5.5/6.0 Instrument Case"
+          },
+          "sourcePages": [
+            252
+          ]
+        }
+      ],
+      "sourcePage": 252,
+      "sourcePages": [
+        252
+      ],
+      "printedPage": 250,
+      "catalogNumberTable": true
+    }
+  ],
+  "referenceTables": [],
+  "refCodes": [
+    "113905700",
+    "113900200",
+    "113900300",
+    "113900400",
+    "113900500",
+    "113900600",
+    "113903900",
+    "113900800",
+    "113901000",
+    "113901100",
+    "113903800",
+    "113901400",
+    "113901500",
+    "113901600",
+    "113901700",
+    "113909800",
+    "113901900",
+    "113905800"
+  ],
+  "sourcePages": [
+    250,
+    251,
+    252
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Spine Catalogue — каталог продукции",
+    "en": "Double Medical Spine Catalogue — product catalog"
+  },
+  "documentCover": "/catalogs/double-medical/spine-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "relatedSystemSlugs": [
+    "hobbit-spine-system"
+  ],
+  "relatedRelationship": "Clinical family/context; no additional compatibility claim",
+  "imageDimensions": {
+    "/images/products/double-medical/spine-instruments/art-250-01.webp": {
+      "width": 621,
+      "height": 90
+    },
+    "/images/products/double-medical/spine-instruments/art-250-02.webp": {
+      "width": 654,
+      "height": 98
+    },
+    "/images/products/double-medical/spine-instruments/art-250-03.webp": {
+      "width": 646,
+      "height": 91
+    },
+    "/images/products/double-medical/spine-instruments/art-250-04.webp": {
+      "width": 658,
+      "height": 100
+    },
+    "/images/products/double-medical/spine-instruments/art-250-05.webp": {
+      "width": 650,
+      "height": 95
+    },
+    "/images/products/double-medical/spine-instruments/art-250-06.webp": {
+      "width": 658,
+      "height": 100
+    },
+    "/images/products/double-medical/spine-instruments/art-250-07.webp": {
+      "width": 644,
+      "height": 90
+    },
+    "/images/products/double-medical/spine-instruments/art-251-01.webp": {
+      "width": 2252,
+      "height": 870
+    },
+    "/images/products/double-medical/spine-instruments/art-251-02.webp": {
+      "width": 1468,
+      "height": 1535
+    },
+    "/images/products/double-medical/spine-instruments/art-251-03.webp": {
+      "width": 1984,
+      "height": 648
+    },
+    "/images/products/double-medical/spine-instruments/art-251-04.webp": {
+      "width": 1950,
+      "height": 734
+    },
+    "/images/products/double-medical/spine-instruments/art-251-05.webp": {
+      "width": 1984,
+      "height": 693
+    },
+    "/images/products/double-medical/spine-instruments/art-251-06.webp": {
+      "width": 2244,
+      "height": 367
+    },
+    "/images/products/double-medical/spine-instruments/art-251-07.webp": {
+      "width": 2270,
+      "height": 270
+    },
+    "/images/products/double-medical/spine-instruments/art-252-01.webp": {
+      "width": 1769,
+      "height": 1098
+    },
+    "/images/products/double-medical/spine-instruments/art-252-02.webp": {
+      "width": 1306,
+      "height": 261
+    },
+    "/images/products/double-medical/spine-instruments/art-252-03.webp": {
+      "width": 1890,
+      "height": 917
+    }
+  },
+  "sourcePdf": "/catalogs/double-medical/spine-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/spine-catalogue/pages/250.webp",
+    "/catalogs/double-medical/spine-catalogue/pages/251.webp",
+    "/catalogs/double-medical/spine-catalogue/pages/252.webp"
+  ],
+  "sourcePageDimensions": {
+    "210": {
+      "width": 3647,
+      "height": 5111
+    },
+    "211": {
+      "width": 3647,
+      "height": 5111
+    },
+    "212": {
+      "width": 3647,
+      "height": 5111
+    },
+    "213": {
+      "width": 3647,
+      "height": 5111
+    },
+    "214": {
+      "width": 3647,
+      "height": 5111
+    },
+    "215": {
+      "width": 3647,
+      "height": 5111
+    },
+    "216": {
+      "width": 3647,
+      "height": 5111
+    },
+    "217": {
+      "width": 3647,
+      "height": 5111
+    },
+    "218": {
+      "width": 3647,
+      "height": 5111
+    },
+    "219": {
+      "width": 3647,
+      "height": 5111
+    },
+    "220": {
+      "width": 3647,
+      "height": 5111
+    },
+    "221": {
+      "width": 3647,
+      "height": 5111
+    },
+    "222": {
+      "width": 3647,
+      "height": 5111
+    },
+    "223": {
+      "width": 3647,
+      "height": 5111
+    },
+    "224": {
+      "width": 3647,
+      "height": 5111
+    },
+    "225": {
+      "width": 3647,
+      "height": 5111
+    },
+    "226": {
+      "width": 3647,
+      "height": 5111
+    },
+    "227": {
+      "width": 3647,
+      "height": 5111
+    },
+    "228": {
+      "width": 3647,
+      "height": 5111
+    },
+    "229": {
+      "width": 3647,
+      "height": 5111
+    },
+    "230": {
+      "width": 3647,
+      "height": 5111
+    },
+    "231": {
+      "width": 3647,
+      "height": 5111
+    },
+    "232": {
+      "width": 3647,
+      "height": 5111
+    },
+    "233": {
+      "width": 3647,
+      "height": 5111
+    },
+    "234": {
+      "width": 3647,
+      "height": 5111
+    },
+    "235": {
+      "width": 3647,
+      "height": 5111
+    },
+    "236": {
+      "width": 3647,
+      "height": 5111
+    },
+    "237": {
+      "width": 3647,
+      "height": 5111
+    },
+    "238": {
+      "width": 3647,
+      "height": 5111
+    },
+    "239": {
+      "width": 3647,
+      "height": 5111
+    },
+    "240": {
+      "width": 3647,
+      "height": 5111
+    },
+    "241": {
+      "width": 3647,
+      "height": 5111
+    },
+    "242": {
+      "width": 3647,
+      "height": 5111
+    },
+    "243": {
+      "width": 3647,
+      "height": 5111
+    },
+    "244": {
+      "width": 3647,
+      "height": 5111
+    },
+    "245": {
+      "width": 3647,
+      "height": 5111
+    },
+    "246": {
+      "width": 3647,
+      "height": 5111
+    },
+    "247": {
+      "width": 3647,
+      "height": 5111
+    },
+    "248": {
+      "width": 3647,
+      "height": 5111
+    },
+    "249": {
+      "width": 3647,
+      "height": 5111
+    },
+    "250": {
+      "width": 3647,
+      "height": 5111
+    },
+    "251": {
+      "width": 3647,
+      "height": 5111
+    },
+    "252": {
+      "width": 3647,
+      "height": 5111
+    },
+    "253": {
+      "width": 3647,
+      "height": 5111
+    },
+    "254": {
+      "width": 3647,
+      "height": 5111
+    },
+    "255": {
+      "width": 3647,
+      "height": 5111
+    },
+    "256": {
+      "width": 3647,
+      "height": 5111
+    },
+    "257": {
+      "width": 3647,
+      "height": 5111
+    },
+    "258": {
+      "width": 3647,
+      "height": 5111
+    },
+    "259": {
+      "width": 3647,
+      "height": 5111
+    },
+    "260": {
+      "width": 3647,
+      "height": 5111
+    },
+    "261": {
+      "width": 3647,
+      "height": 5111
+    },
+    "262": {
+      "width": 3647,
+      "height": 5111
+    },
+    "263": {
+      "width": 3647,
+      "height": 5111
+    },
+    "264": {
+      "width": 3647,
+      "height": 5111
+    },
+    "265": {
+      "width": 3647,
+      "height": 5111
+    },
+    "266": {
+      "width": 3647,
+      "height": 5111
+    },
+    "267": {
+      "width": 3647,
+      "height": 5111
+    },
+    "268": {
+      "width": 3647,
+      "height": 5111
+    },
+    "269": {
+      "width": 3647,
+      "height": 5111
+    },
+    "270": {
+      "width": 3647,
+      "height": 5111
+    },
+    "271": {
+      "width": 3647,
+      "height": 5111
+    },
+    "272": {
+      "width": 3647,
+      "height": 5111
+    },
+    "273": {
+      "width": 3647,
+      "height": 5111
+    },
+    "274": {
+      "width": 3647,
+      "height": 5111
+    },
+    "275": {
+      "width": 3647,
+      "height": 5111
+    },
+    "276": {
+      "width": 3647,
+      "height": 5111
+    },
+    "277": {
+      "width": 3647,
+      "height": 5111
+    },
+    "278": {
+      "width": 3647,
+      "height": 5111
+    },
+    "279": {
+      "width": 3647,
+      "height": 5111
+    },
+    "280": {
+      "width": 3647,
+      "height": 5111
+    },
+    "281": {
+      "width": 3647,
+      "height": 5111
+    },
+    "282": {
+      "width": 3647,
+      "height": 5111
+    },
+    "283": {
+      "width": 3647,
+      "height": 5111
+    },
+    "284": {
+      "width": 3647,
+      "height": 5111
+    },
+    "285": {
+      "width": 3647,
+      "height": 5111
+    },
+    "286": {
+      "width": 3647,
+      "height": 5111
+    },
+    "287": {
+      "width": 3647,
+      "height": 5111
+    },
+    "288": {
+      "width": 3647,
+      "height": 5111
+    },
+    "289": {
+      "width": 3647,
+      "height": 5111
+    },
+    "290": {
+      "width": 3647,
+      "height": 5111
+    },
+    "291": {
+      "width": 3647,
+      "height": 5111
+    },
+    "292": {
+      "width": 3647,
+      "height": 5111
+    },
+    "293": {
+      "width": 3647,
+      "height": 5111
+    },
+    "294": {
+      "width": 3647,
+      "height": 5111
+    },
+    "295": {
+      "width": 3647,
+      "height": 5111
+    },
+    "296": {
+      "width": 3647,
+      "height": 5111
+    },
+    "297": {
+      "width": 3647,
+      "height": 5111
+    },
+    "298": {
+      "width": 3647,
+      "height": 5111
+    },
+    "299": {
+      "width": 3647,
+      "height": 5111
+    },
+    "300": {
+      "width": 3647,
+      "height": 5111
+    },
+    "301": {
+      "width": 3647,
+      "height": 5111
+    },
+    "302": {
+      "width": 3647,
+      "height": 5111
+    },
+    "303": {
+      "width": 3647,
+      "height": 5111
+    },
+    "304": {
+      "width": 3647,
+      "height": 5111
+    },
+    "305": {
+      "width": 3647,
+      "height": 5111
+    },
+    "306": {
+      "width": 3647,
+      "height": 5111
+    },
+    "307": {
+      "width": 3647,
+      "height": 5111
+    },
+    "308": {
+      "width": 3647,
+      "height": 5111
+    },
+    "309": {
+      "width": 3647,
+      "height": 5111
+    },
+    "310": {
+      "width": 3647,
+      "height": 5111
+    },
+    "311": {
+      "width": 3647,
+      "height": 5111
+    },
+    "312": {
+      "width": 3647,
+      "height": 5111
+    },
+    "313": {
+      "width": 3647,
+      "height": 5111
+    },
+    "314": {
+      "width": 3647,
+      "height": 5111
+    },
+    "315": {
+      "width": 3647,
+      "height": 5111
+    },
+    "316": {
+      "width": 3647,
+      "height": 5111
+    },
+    "317": {
+      "width": 3647,
+      "height": 5111
+    },
+    "318": {
+      "width": 3647,
+      "height": 5111
+    },
+    "319": {
+      "width": 3647,
+      "height": 5111
+    },
+    "320": {
+      "width": 3647,
+      "height": 5111
+    },
+    "321": {
+      "width": 3647,
+      "height": 5111
+    },
+    "322": {
+      "width": 3647,
+      "height": 5111
+    },
+    "323": {
+      "width": 3647,
+      "height": 5111
+    },
+    "324": {
+      "width": 3647,
+      "height": 5111
+    },
+    "325": {
+      "width": 3647,
+      "height": 5111
+    },
+    "326": {
+      "width": 3647,
+      "height": 5111
+    },
+    "327": {
+      "width": 3647,
+      "height": 5111
+    },
+    "328": {
+      "width": 3647,
+      "height": 5111
+    },
+    "329": {
+      "width": 3647,
+      "height": 5111
+    },
+    "330": {
+      "width": 3647,
+      "height": 5111
+    },
+    "331": {
+      "width": 3647,
+      "height": 5111
+    },
+    "332": {
+      "width": 3647,
+      "height": 5111
+    },
+    "333": {
+      "width": 3647,
+      "height": 5111
+    },
+    "334": {
+      "width": 3647,
+      "height": 5111
+    },
+    "335": {
+      "width": 3647,
+      "height": 5111
+    },
+    "336": {
+      "width": 3647,
+      "height": 5111
+    },
+    "337": {
+      "width": 3647,
+      "height": 5111
+    },
+    "338": {
+      "width": 3647,
+      "height": 5111
+    },
+    "339": {
+      "width": 3647,
+      "height": 5111
+    },
+    "340": {
+      "width": 3647,
+      "height": 5111
+    },
+    "341": {
+      "width": 3647,
+      "height": 5111
+    },
+    "342": {
+      "width": 3647,
+      "height": 5111
+    },
+    "343": {
+      "width": 3647,
+      "height": 5111
+    },
+    "344": {
+      "width": 3647,
+      "height": 5111
+    },
+    "345": {
+      "width": 3647,
+      "height": 5111
+    },
+    "346": {
+      "width": 3647,
+      "height": 5111
+    },
+    "347": {
+      "width": 3647,
+      "height": 5111
+    },
+    "348": {
+      "width": 3647,
+      "height": 5111
+    },
+    "349": {
+      "width": 3647,
+      "height": 5111
+    },
+    "350": {
+      "width": 3647,
+      "height": 5111
+    },
+    "351": {
+      "width": 3647,
+      "height": 5111
+    },
+    "352": {
+      "width": 3647,
+      "height": 5111
+    },
+    "353": {
+      "width": 3647,
+      "height": 5111
+    },
+    "354": {
+      "width": 3647,
+      "height": 5111
+    },
+    "355": {
+      "width": 3647,
+      "height": 5111
+    },
+    "356": {
+      "width": 3647,
+      "height": 5111
+    },
+    "357": {
+      "width": 3647,
+      "height": 5111
+    },
+    "358": {
+      "width": 3647,
+      "height": 5111
+    },
+    "359": {
+      "width": 3647,
+      "height": 5111
+    },
+    "360": {
+      "width": 3647,
+      "height": 5111
+    },
+    "361": {
+      "width": 3647,
+      "height": 5111
+    },
+    "362": {
+      "width": 3647,
+      "height": 5111
+    },
+    "363": {
+      "width": 3647,
+      "height": 5111
+    },
+    "364": {
+      "width": 3647,
+      "height": 5111
+    },
+    "365": {
+      "width": 3647,
+      "height": 5111
+    },
+    "366": {
+      "width": 3647,
+      "height": 5111
+    },
+    "367": {
+      "width": 3647,
+      "height": 5111
+    },
+    "368": {
+      "width": 3647,
+      "height": 5111
+    },
+    "369": {
+      "width": 3647,
+      "height": 5111
+    },
+    "370": {
+      "width": 3647,
+      "height": 5111
+    },
+    "371": {
+      "width": 3647,
+      "height": 5111
+    },
+    "372": {
+      "width": 3647,
+      "height": 5111
+    },
+    "373": {
+      "width": 3647,
+      "height": 5111
+    },
+    "374": {
+      "width": 3647,
+      "height": 5111
+    },
+    "375": {
+      "width": 3647,
+      "height": 5111
+    },
+    "376": {
+      "width": 3647,
+      "height": 5111
+    },
+    "377": {
+      "width": 3647,
+      "height": 5111
+    },
+    "378": {
+      "width": 3647,
+      "height": 5111
+    },
+    "379": {
+      "width": 3647,
+      "height": 5111
+    },
+    "380": {
+      "width": 3647,
+      "height": 5111
+    },
+    "381": {
+      "width": 3647,
+      "height": 5111
+    },
+    "382": {
+      "width": 3647,
+      "height": 5111
+    },
+    "383": {
+      "width": 3647,
+      "height": 5111
+    },
+    "384": {
+      "width": 3647,
+      "height": 5111
+    },
+    "385": {
+      "width": 3647,
+      "height": 5111
+    },
+    "386": {
+      "width": 3647,
+      "height": 5111
+    },
+    "387": {
+      "width": 3647,
+      "height": 5111
+    },
+    "388": {
+      "width": 3647,
+      "height": 5111
+    },
+    "389": {
+      "width": 3647,
+      "height": 5111
+    },
+    "390": {
+      "width": 3647,
+      "height": 5111
+    },
+    "391": {
+      "width": 3647,
+      "height": 5111
+    },
+    "392": {
+      "width": 3647,
+      "height": 5111
+    },
+    "393": {
+      "width": 3647,
+      "height": 5111
+    },
+    "394": {
+      "width": 3647,
+      "height": 5111
+    },
+    "395": {
+      "width": 3647,
+      "height": 5111
+    },
+    "396": {
+      "width": 3647,
+      "height": 5111
+    },
+    "397": {
+      "width": 3647,
+      "height": 5111
+    },
+    "398": {
+      "width": 3647,
+      "height": 5111
+    },
+    "399": {
+      "width": 3647,
+      "height": 5111
+    },
+    "400": {
+      "width": 3647,
+      "height": 5111
+    },
+    "401": {
+      "width": 3647,
+      "height": 5111
+    },
+    "402": {
+      "width": 3647,
+      "height": 5111
+    },
+    "403": {
+      "width": 3647,
+      "height": 5111
+    },
+    "404": {
+      "width": 3647,
+      "height": 5111
+    },
+    "405": {
+      "width": 3647,
+      "height": 5111
+    },
+    "406": {
+      "width": 3647,
+      "height": 5111
+    },
+    "407": {
+      "width": 3647,
+      "height": 5111
+    },
+    "408": {
+      "width": 3647,
+      "height": 5111
+    },
+    "409": {
+      "width": 3647,
+      "height": 5111
+    },
+    "410": {
+      "width": 3647,
+      "height": 5111
+    },
+    "411": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "d32e99d5106ebd5f18a76a32ff19d64da74f9ef96cc60ca536c0a533e630cb9c",
+    "importMethod": "600-DPI Tesseract PSM3 + PSM11 + independent Apple Vision accurate; exact REF agreement; Codex-authored RU medical terminology; native photo composites, Real-ESRGAN 2x before rembg",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      412
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "gallery.1.imageCaption.ru",
+      "gallery.2.imageCaption.ru",
+      "gallery.3.imageCaption.ru",
+      "gallery.4.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.rows.3.0.ru",
+      "specTables.0.rows.4.0.ru",
+      "specTables.0.rows.5.0.ru",
+      "specTables.0.rows.6.0.ru",
+      "specTables.0.rowImages.0.imageCaption.ru",
+      "specTables.0.rowImages.1.imageCaption.ru",
+      "specTables.0.rowImages.2.imageCaption.ru",
+      "specTables.0.rowImages.3.imageCaption.ru",
+      "specTables.0.rowImages.4.imageCaption.ru",
+      "specTables.0.rowImages.5.imageCaption.ru",
+      "specTables.0.rowImages.6.imageCaption.ru",
+      "specTables.1.title.ru",
+      "specTables.1.columns.0.ru",
+      "specTables.1.columns.1.ru",
+      "specTables.1.rows.0.0.ru",
+      "specTables.1.rows.1.0.ru",
+      "specTables.1.rows.2.0.ru",
+      "specTables.1.rows.3.0.ru",
+      "specTables.1.rows.4.0.ru",
+      "specTables.1.rows.5.0.ru",
+      "specTables.1.rows.6.0.ru",
+      "specTables.1.rowImages.0.imageCaption.ru",
+      "specTables.1.rowImages.1.imageCaption.ru",
+      "specTables.1.rowImages.2.imageCaption.ru",
+      "specTables.1.rowImages.3.imageCaption.ru",
+      "specTables.1.rowImages.4.imageCaption.ru",
+      "specTables.1.rowImages.5.imageCaption.ru",
+      "specTables.1.rowImages.6.imageCaption.ru",
+      "specTables.2.title.ru",
+      "specTables.2.columns.0.ru",
+      "specTables.2.columns.1.ru",
+      "specTables.2.rows.0.0.ru",
+      "specTables.2.rows.1.0.ru",
+      "specTables.2.rows.2.0.ru",
+      "specTables.2.rowImages.0.imageCaption.ru",
+      "specTables.2.rowImages.1.imageCaption.ru",
+      "specTables.2.rowImages.2.imageCaption.ru",
+      "catalogTitle.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Published automatically under owner instruction: no open real source flags"
+  },
+  "publishedAt": "2026-11-19T23:41:29.943407+00:00"
+}

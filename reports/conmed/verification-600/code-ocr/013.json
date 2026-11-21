@@ -1,0 +1,117 @@
+{
+  "id": 13,
+  "bounds": [
+    0.4830757190373704,
+    0.3584984649734859,
+    0.5820778712580709,
+    0.37440692157409994
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "VP4826",
+      "confidence": 65.139832,
+      "words": [
+        {
+          "text": "VP4826",
+          "confidence": 65.139832,
+          "pixelBounds": [
+            2683,
+            2599,
+            2893,
+            2657
+          ],
+          "lineId": "6.4.2",
+          "bounds": [
+            0.5249461944824888,
+            0.3626849009210159,
+            0.5660340442183526,
+            0.37077867708624057
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "VP4826",
+      "confidence": 79.712692,
+      "words": [
+        {
+          "text": "VP4826",
+          "confidence": 79.712692,
+          "pixelBounds": [
+            2683,
+            2599,
+            2893,
+            2657
+          ],
+          "lineId": "20.1.1",
+          "bounds": [
+            0.5249461944824888,
+            0.3626849009210159,
+            0.5660340442183526,
+            0.37077867708624057
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "essere VP4826",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "essere",
+          "confidence": 0.0,
+          "pixelBounds": [
+            12,
+            26,
+            192,
+            111
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "VP4826",
+          "confidence": 74.964615,
+          "pixelBounds": [
+            234,
+            30,
+            424,
+            88
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "csesseuees VP4826",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "csesseuees",
+          "confidence": 0.0,
+          "pixelBounds": [
+            12,
+            79,
+            192,
+            87
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "VP4826",
+          "confidence": 36.440887,
+          "pixelBounds": [
+            228,
+            30,
+            424,
+            88
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "pdfPage": 77,
+  "officialPage": 103,
+  "alignment": [
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      0.0
+    ]
+  ],
+  "alignmentMatches": 0,
+  "alignmentInliers": 0,
+  "category": "arthroscopy-manual-instruments",
+  "title": {
+    "en": "Concept",
+    "ru": "Ручные инструменты Concept"
+  },
+  "groups": [
+    {
+      "title": "Linear Punch — 3.3mm dia., 130mm",
+      "page": 77,
+      "officialPage": 103,
+      "headingBounds": [
+        0.08820424672045739,
+        0.14778474364617858,
+        0.20439545625175526,
+        0.16125065389305654
+      ],
+      "rows": [
+        {
+          "description": "1.3mm Tip, Straight",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6858",
+              "sourceBounds": [
+                0.5173116102048269,
+                0.1947674419254718,
+                0.568228104221514,
+                0.20784883736231885
+              ],
+              "officialCode": "C6858",
+              "officialBounds": [
+                325.1689758300781,
+                147.8515167236328,
+                347.982177734375,
+                158.030517578125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.1883081396438953,
+            0.578228104221514,
+            0.21030813964389533
+          ],
+          "pdfPage": 77,
+          "officialPage": 103
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Linear Punch — 3.3mm dia., 130mm",
+      "page": 77,
+      "officialPage": 103,
+      "headingBounds": [
+        0.08820424672045739,
+        0.34917361326891966,
+        0.20439545625175526,
+        0.3626394946165759
+      ],
+      "rows": [
+        {
+          "description": "Narrow, Straight",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6806",
+              "sourceBounds": [
+                0.5171492758870292,
+                0.37179897511789006,
+                0.5683904383104934,
+                0.38692195547032204
+              ],
+              "officialCode": "C6806",
+              "officialBounds": [
+                325.1419982910156,
+                291.3504943847656,
+                347.9831237792969,
+                301.52947998046875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.36636046529410604,
+            0.5783904383104934,
+            0.38836046529410606
+          ],
+          "pdfPage": 77,
+          "officialPage": 103
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Linear Punch — 3.3mm dia., 130mm",
+      "page": 77,
+      "officialPage": 103,
+      "headingBounds": [
+        0.08820424672045739,
+        0.542986744582051,
+        0.20439545625175526,
+        0.5564526259297072
+      ],
+      "rows": [
+        {
+          "description": "15° Up",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6859",
+              "sourceBounds": [
+                0.5173116108497692,
+                0.5624999998712082,
+                0.5682281048664563,
+                0.5755813953080553
+              ],
+              "officialCode": "C6859",
+              "officialBounds": [
+                325.23199462890625,
+                444.8504943847656,
+                347.9741516113281,
+                455.02947998046875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5560406975896318,
+            0.5782281048664563,
+            0.5780406975896318
+          ],
+          "pdfPage": 77,
+          "officialPage": 103
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Linear Punch, Scissor — 3.3mm dia., 130mm",
+      "page": 77,
+      "officialPage": 103,
+      "headingBounds": [
+        0.08820424672045739,
+        0.7355372881648516,
+        0.20439545625175526,
+        0.7490031695125079
+      ],
+      "rows": [
+        {
+          "description": "15° Up",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6860",
+              "sourceBounds": [
+                0.5173116107891542,
+                0.7500000002359791,
+                0.5682281048058414,
+                0.7646329367439156
+              ],
+              "officialCode": "C6860",
+              "officialBounds": [
+                325.1600036621094,
+                597.3504638671875,
+                347.9786071777344,
+                607.5294799804688
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.7443164684899474,
+            0.5782281048058414,
+            0.7663164684899474
+          ],
+          "pdfPage": 77,
+          "officialPage": 103
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 4
+}

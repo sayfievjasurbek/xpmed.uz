@@ -1,0 +1,95 @@
+{
+  "id": 183,
+  "bounds": [
+    0.5030326746233614,
+    0.27644432040189787,
+    0.5840344355312072,
+    0.29151548981300585
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "UHD5530XL",
+      "confidence": 54.388481,
+      "words": [
+        {
+          "text": "UHD5530XL",
+          "confidence": 54.388481,
+          "pixelBounds": [
+            2580,
+            2009,
+            2895,
+            2067
+          ],
+          "lineId": "10.3.5",
+          "bounds": [
+            0.5047935824691842,
+            0.28035166061959255,
+            0.5664253570729798,
+            0.2884454367848172
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "UHDS930XL",
+      "confidence": 9.451981,
+      "words": [
+        {
+          "text": "UHDS930XL",
+          "confidence": 9.451981,
+          "pixelBounds": [
+            2580,
+            2009,
+            2895,
+            2067
+          ],
+          "lineId": "23.1.1",
+          "bounds": [
+            0.5047935824691842,
+            0.28035166061959255,
+            0.5664253570729798,
+            0.2884454367848172
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "URDS530XL",
+      "confidence": 9.869871,
+      "words": [
+        {
+          "text": "URDS530XL",
+          "confidence": 9.869871,
+          "pixelBounds": [
+            9,
+            28,
+            324,
+            86
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "UHD5530XL",
+      "confidence": 48.464466,
+      "words": [
+        {
+          "text": "UHD5530XL",
+          "confidence": 48.464466,
+          "pixelBounds": [
+            9,
+            28,
+            324,
+            86
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

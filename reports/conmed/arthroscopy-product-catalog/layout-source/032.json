@@ -1,0 +1,330 @@
+{
+  "pdfPage": 32,
+  "officialPage": 40,
+  "alignment": [
+    [
+      0.9708885120834417,
+      -0.0016491026085970948,
+      0.01494927230802672
+    ],
+    [
+      -0.0004892786427645469,
+      0.9808222651000615,
+      0.010555352782158222
+    ]
+  ],
+  "alignmentMatches": 14,
+  "alignmentInliers": 14,
+  "category": "knee-arthroscopy",
+  "title": {
+    "en": "Bioabsorbable Interference Screws",
+    "ru": "Биорезорбируемые интерференционные винты"
+  },
+  "groups": [
+    {
+      "title": "Drivers",
+      "page": 32,
+      "officialPage": 40,
+      "headingBounds": [
+        0.4286892894043463,
+        0.20264345602846398,
+        0.4690874621192864,
+        0.21583076024250922
+      ],
+      "rows": [
+        {
+          "description": "Fixed Tri-Lobe Driver for 7.0 – 11.0mm Interference Screws",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "DFS70",
+              "sourceBounds": [
+                0.8472505086294867,
+                0.22238372102683968,
+                0.8961303469177315,
+                0.23412698414658262
+              ],
+              "officialCode": "DFS70",
+              "officialBounds": [
+                532.9310302734375,
+                170.08192443847656,
+                555.0098266601562,
+                180.26092529296875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.21525535258671114,
+            0.9061303469177315,
+            0.23725535258671115
+          ],
+          "pdfPage": 32,
+          "officialPage": 40
+        },
+        {
+          "description": "Short Modular Tri-Lobe Driver for 7.0 – 11.0mm Interference Screws",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "DMS70",
+              "sourceBounds": [
+                0.8248472503098276,
+                0.23982558160670508,
+                0.8961303440554134,
+                0.2514880950974122
+              ],
+              "officialCode": "DMS70",
+              "officialBounds": [
+                530.572998046875,
+                184.58094787597656,
+                555.0087890625,
+                194.75994873046875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.23265683835205864,
+            0.9061303440554134,
+            0.25465683835205866
+          ],
+          "pdfPage": 32,
+          "officialPage": 40
+        },
+        {
+          "description": "Extended Length Modular Tri-Lobe Driver for 7.0 – 11.0mm Interference Screws",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C8716",
+              "sourceBounds": [
+                0.8553971486443344,
+                0.270348837362519,
+                0.8961303454493519,
+                0.2819767442072485
+              ],
+              "officialCode": "C8716",
+              "officialBounds": [
+                533.0570068359375,
+                209.07899475097656,
+                555.008056640625,
+                219.25799560546875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.26316279078488375,
+            0.9061303454493519,
+            0.28516279078488377
+          ],
+          "pdfPage": 32,
+          "officialPage": 40
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Instrumentation Accessories for the BioScrew Interference Screws",
+      "page": 32,
+      "officialPage": 40,
+      "headingBounds": [
+        0.42851544004323233,
+        0.3060423126339086,
+        0.8083533753315585,
+        0.3190585563973818
+      ],
+      "rows": [
+        {
+          "description": "Universal Driver, Modular Ratcheting Handle",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "D8640",
+              "sourceBounds": [
+                0.8513238290181887,
+                0.32703488374959977,
+                0.89613034523843,
+                0.3401162791864467
+              ],
+              "officialCode": "D8640",
+              "officialBounds": [
+                532.093994140625,
+                255.57301330566406,
+                555.0107421875,
+                265.75201416015625
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.32057558146802323,
+            0.9061303452384301,
+            0.34257558146802325
+          ],
+          "pdfPage": 32,
+          "officialPage": 40
+        },
+        {
+          "description": "Guardsman Graft Protector, 7mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C8507",
+              "sourceBounds": [
+                0.8553971493062489,
+                0.3444767440784515,
+                0.8961303461112664,
+                0.35755813951529847
+              ],
+              "officialCode": "C8507",
+              "officialBounds": [
+                532.4359741210938,
+                270.0720520019531,
+                555.0089111328125,
+                280.25103759765625
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.338017441796875,
+            0.9061303461112664,
+            0.360017441796875
+          ],
+          "pdfPage": 32,
+          "officialPage": 40
+        },
+        {
+          "description": "Guardsman Graft Protector, 8 and 9mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C8509",
+              "sourceBounds": [
+                0.853295711159626,
+                0.36326371476236874,
+                0.8961951228027908,
+                0.3765618667474161
+              ],
+              "officialCode": "C8509",
+              "officialBounds": [
+                532.219970703125,
+                284.571044921875,
+                555.0079956054688,
+                294.7500305175781
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3569127907548924,
+            0.9061951228027908,
+            0.3789127907548924
+          ],
+          "pdfPage": 32,
+          "officialPage": 40
+        },
+        {
+          "description": "BioScrew Guidewire, 14 x .045\" dia. (5 per Box) SST",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C8016D",
+              "sourceBounds": [
+                0.849140263102788,
+                0.3791056611860608,
+                0.8983139126638782,
+                0.39415015262848385
+              ],
+              "officialCode": "C8016D",
+              "officialBounds": [
+                527.9089965820312,
+                299.0700378417969,
+                555.0152587890625,
+                309.2490234375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3736279069072723,
+            0.9083139126638782,
+            0.39562790690727234
+          ],
+          "pdfPage": 32,
+          "officialPage": 40
+        },
+        {
+          "description": "BioScrew HyperFlex® Guidewire, 14 x .045\" dia. (5 per Box) Nitinol",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C8026D",
+              "sourceBounds": [
+                0.8470244118749379,
+                0.3964292976035102,
+                0.8983931040316062,
+                0.4131637254794529
+              ],
+              "officialCode": "C8026D",
+              "officialBounds": [
+                527.3024291992188,
+                313.5829162597656,
+                555.0045166015625,
+                323.76190185546875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.39179651154148154,
+            0.9083931040316062,
+            0.41379651154148156
+          ],
+          "pdfPage": 32,
+          "officialPage": 40
+        },
+        {
+          "description": "BioScrew HyperFlex Guidewire, 18.5\" x .045\" dia. (5 per Box) Nitinol",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C8027D",
+              "sourceBounds": [
+                0.8472505108531635,
+                0.41418650756833275,
+                0.8981670048698506,
+                0.4303075393143645
+              ],
+              "officialCode": "C8027D",
+              "officialBounds": [
+                527.4644775390625,
+                328.0819091796875,
+                555.0017700195312,
+                338.2608947753906
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.4092470234413486,
+            0.9081670048698506,
+            0.43124702344134863
+          ],
+          "pdfPage": 32,
+          "officialPage": 40
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 9
+}

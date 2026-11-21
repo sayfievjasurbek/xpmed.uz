@@ -1,0 +1,649 @@
+{
+  "images": [
+    {
+      "file": "augments.webp",
+      "originalSize": [
+        241,
+        176
+      ],
+      "finalSize": [
+        482,
+        352
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/augments.webp"
+    },
+    {
+      "file": "extension-stems-and-augments.webp",
+      "originalSize": [
+        602,
+        595
+      ],
+      "finalSize": [
+        1204,
+        1190
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/extension-stems-and-augments.webp"
+    },
+    {
+      "file": "extension-stems.webp",
+      "originalSize": [
+        388,
+        263
+      ],
+      "finalSize": [
+        776,
+        526
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/extension-stems.webp"
+    },
+    {
+      "file": "feature-01.webp",
+      "originalSize": [
+        162,
+        162
+      ],
+      "finalSize": [
+        324,
+        324
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/feature-01.webp"
+    },
+    {
+      "file": "feature-02.webp",
+      "originalSize": [
+        118,
+        122
+      ],
+      "finalSize": [
+        236,
+        244
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/feature-02.webp"
+    },
+    {
+      "file": "feature-03.webp",
+      "originalSize": [
+        178,
+        163
+      ],
+      "finalSize": [
+        356,
+        326
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/feature-03.webp"
+    },
+    {
+      "file": "feature-04.webp",
+      "originalSize": [
+        138,
+        214
+      ],
+      "finalSize": [
+        276,
+        428
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/feature-04.webp"
+    },
+    {
+      "file": "feature-05.webp",
+      "originalSize": [
+        119,
+        111
+      ],
+      "finalSize": [
+        238,
+        222
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/feature-05.webp"
+    },
+    {
+      "file": "feature-06.webp",
+      "originalSize": [
+        117,
+        110
+      ],
+      "finalSize": [
+        234,
+        220
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/feature-06.webp"
+    },
+    {
+      "file": "feature-07.webp",
+      "originalSize": [
+        135,
+        123
+      ],
+      "finalSize": [
+        270,
+        246
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/feature-07.webp"
+    },
+    {
+      "file": "feature-08.webp",
+      "originalSize": [
+        144,
+        116
+      ],
+      "finalSize": [
+        288,
+        232
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/feature-08.webp"
+    },
+    {
+      "file": "feature-09.webp",
+      "originalSize": [
+        125,
+        134
+      ],
+      "finalSize": [
+        250,
+        268
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/feature-09.webp"
+    },
+    {
+      "file": "feature-10.webp",
+      "originalSize": [
+        105,
+        181
+      ],
+      "finalSize": [
+        210,
+        362
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/feature-10.webp"
+    },
+    {
+      "file": "feature-11.webp",
+      "originalSize": [
+        129,
+        182
+      ],
+      "finalSize": [
+        258,
+        364
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/feature-11.webp"
+    },
+    {
+      "file": "feature-12.webp",
+      "originalSize": [
+        127,
+        105
+      ],
+      "finalSize": [
+        254,
+        210
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/feature-12.webp"
+    },
+    {
+      "file": "feature-13.webp",
+      "originalSize": [
+        151,
+        98
+      ],
+      "finalSize": [
+        302,
+        196
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/feature-13.webp"
+    },
+    {
+      "file": "feature-14.webp",
+      "originalSize": [
+        233,
+        239
+      ],
+      "finalSize": [
+        466,
+        478
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/feature-14.webp"
+    },
+    {
+      "file": "feature-15.webp",
+      "originalSize": [
+        194,
+        237
+      ],
+      "finalSize": [
+        388,
+        474
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/feature-15.webp"
+    },
+    {
+      "file": "femoral-component-cr.webp",
+      "originalSize": [
+        101,
+        84
+      ],
+      "finalSize": [
+        202,
+        168
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/femoral-component-cr.webp"
+    },
+    {
+      "file": "femoral-component.webp",
+      "originalSize": [
+        100,
+        83
+      ],
+      "finalSize": [
+        200,
+        166
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/femoral-component.webp"
+    },
+    {
+      "file": "insert-cr-alternative.webp",
+      "originalSize": [
+        107,
+        51
+      ],
+      "finalSize": [
+        214,
+        102
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/insert-cr-alternative.webp"
+    },
+    {
+      "file": "insert-cr-specification.webp",
+      "originalSize": [
+        107,
+        41
+      ],
+      "finalSize": [
+        214,
+        82
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/insert-cr-specification.webp"
+    },
+    {
+      "file": "insert-cr.webp",
+      "originalSize": [
+        186,
+        63
+      ],
+      "finalSize": [
+        372,
+        126
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/insert-cr.webp"
+    },
+    {
+      "file": "insert-ps-alternative.webp",
+      "originalSize": [
+        103,
+        66
+      ],
+      "finalSize": [
+        206,
+        132
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/insert-ps-alternative.webp"
+    },
+    {
+      "file": "insert-ps-specification.webp",
+      "originalSize": [
+        107,
+        59
+      ],
+      "finalSize": [
+        214,
+        118
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/insert-ps-specification.webp"
+    },
+    {
+      "file": "insert-ps.webp",
+      "originalSize": [
+        183,
+        95
+      ],
+      "finalSize": [
+        366,
+        190
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/insert-ps.webp"
+    },
+    {
+      "file": "offset-connector.webp",
+      "originalSize": [
+        109,
+        193
+      ],
+      "finalSize": [
+        218,
+        386
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/offset-connector.webp"
+    },
+    {
+      "file": "patella-coated.webp",
+      "originalSize": [
+        120,
+        62
+      ],
+      "finalSize": [
+        240,
+        124
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/patella-coated.webp"
+    },
+    {
+      "file": "patella.webp",
+      "originalSize": [
+        124,
+        59
+      ],
+      "finalSize": [
+        248,
+        118
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/patella.webp"
+    },
+    {
+      "file": "primary-cr-coated-alt.webp",
+      "originalSize": [
+        234,
+        325
+      ],
+      "finalSize": [
+        468,
+        650
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/primary-cr-coated-alt.webp"
+    },
+    {
+      "file": "primary-cr-coated.webp",
+      "originalSize": [
+        236,
+        326
+      ],
+      "finalSize": [
+        472,
+        652
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/primary-cr-coated.webp"
+    },
+    {
+      "file": "primary-cr-display-alt.webp",
+      "originalSize": [
+        243,
+        340
+      ],
+      "finalSize": [
+        486,
+        680
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/primary-cr-display-alt.webp"
+    },
+    {
+      "file": "primary-cr.webp",
+      "originalSize": [
+        243,
+        340
+      ],
+      "finalSize": [
+        486,
+        680
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/primary-cr.webp"
+    },
+    {
+      "file": "primary-ps-anterior.webp",
+      "originalSize": [
+        285,
+        441
+      ],
+      "finalSize": [
+        570,
+        882
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/primary-ps-anterior.webp"
+    },
+    {
+      "file": "primary-ps-display-alt.webp",
+      "originalSize": [
+        254,
+        341
+      ],
+      "finalSize": [
+        508,
+        682
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/primary-ps-display-alt.webp"
+    },
+    {
+      "file": "primary-ps-display.webp",
+      "originalSize": [
+        254,
+        341
+      ],
+      "finalSize": [
+        508,
+        682
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/primary-ps-display.webp"
+    },
+    {
+      "file": "primary-ps.webp",
+      "originalSize": [
+        485,
+        717
+      ],
+      "finalSize": [
+        970,
+        1434
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/primary-ps.webp"
+    },
+    {
+      "file": "revision-components-specification.webp",
+      "originalSize": [
+        173,
+        171
+      ],
+      "finalSize": [
+        346,
+        342
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/revision-components-specification.webp"
+    },
+    {
+      "file": "revision-exploded.webp",
+      "originalSize": [
+        558,
+        1415
+      ],
+      "finalSize": [
+        1116,
+        2830
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/revision-exploded.webp"
+    },
+    {
+      "file": "revision-full-specification.webp",
+      "originalSize": [
+        116,
+        343
+      ],
+      "finalSize": [
+        232,
+        686
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/revision-full-specification.webp"
+    },
+    {
+      "file": "revision-full.webp",
+      "originalSize": [
+        400,
+        1196
+      ],
+      "finalSize": [
+        800,
+        2392
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/revision-full.webp"
+    },
+    {
+      "file": "tibial-tray-specification.webp",
+      "originalSize": [
+        111,
+        92
+      ],
+      "finalSize": [
+        222,
+        184
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/tibial-tray-specification.webp"
+    },
+    {
+      "file": "tibial-tray.webp",
+      "originalSize": [
+        144,
+        116
+      ],
+      "finalSize": [
+        288,
+        232
+      ],
+      "scale": 2,
+      "model": "RealESRGAN_x4plus",
+      "pipeline": "general model 4x inference, downsampled to exact 2x; manufacturer alpha resampled 2x",
+      "original": "_originals/tibial-tray.webp"
+    }
+  ]
+}

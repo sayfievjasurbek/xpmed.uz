@@ -1,0 +1,651 @@
+{
+  "sourcePdf": "catalogs-source/double-medical/sports-medicine-catalogue.pdf",
+  "sourceSha256": "0564b2ce17c049fc1e77ab714414dcbe4f74e00e785b2ae3e0895b169868e09e",
+  "systemsNew": 16,
+  "systemsMerged": 1,
+  "systemsPublished": 16,
+  "systemsDraft": 0,
+  "implantSystems": 8,
+  "instrumentPages": 8,
+  "instrumentSets": 6,
+  "instrumentCollections": 2,
+  "codesFound": 198,
+  "codesVerified": 198,
+  "distinctCodes": 196,
+  "newSystems": [
+    {
+      "name": {
+        "ru": "Металлические шовные якоря Merit",
+        "en": "Metal Suture Anchor"
+      },
+      "slug": "metal-suture-anchor",
+      "status": "published",
+      "sourcePages": [
+        4,
+        5
+      ]
+    },
+    {
+      "name": {
+        "ru": "Шовные якоря из PEEK",
+        "en": "PEEK Suture Anchor"
+      },
+      "slug": "peek-suture-anchor",
+      "status": "published",
+      "sourcePages": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": {
+        "ru": "Интерферентный винт G-Max",
+        "en": "G-Max Interference Screw"
+      },
+      "slug": "g-max-interference-screw",
+      "status": "published",
+      "sourcePages": [
+        9
+      ]
+    },
+    {
+      "name": {
+        "ru": "Система реконструкции акромиально-ключичного сустава",
+        "en": "AC Joint Repair System"
+      },
+      "slug": "ac-joint-repair-system",
+      "status": "published",
+      "sourcePages": [
+        11,
+        12
+      ]
+    },
+    {
+      "name": {
+        "ru": "Система восстановления и реконструкции связок коленного сустава",
+        "en": "Knee Repair and Reconstruction System"
+      },
+      "slug": "knee-repair-and-reconstruction-system",
+      "status": "published",
+      "sourcePages": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "name": {
+        "ru": "Бесузловая система CFLoop для фиксации синдесмоза",
+        "en": "Knotless Syndesmosis CFLoop Button"
+      },
+      "slug": "knotless-syndesmosis-cfloop-button",
+      "status": "published",
+      "sourcePages": [
+        16
+      ]
+    },
+    {
+      "name": {
+        "ru": "Мини-пуговица CFLoop с регулируемой петлёй",
+        "en": "Mini CFLoop Adjustable Button"
+      },
+      "slug": "mini-cfloop-adjustable-button",
+      "status": "published",
+      "sourcePages": [
+        17
+      ]
+    },
+    {
+      "name": {
+        "ru": "Нерассасывающийся хирургический шовный материал UPE",
+        "en": "Non-absorbable Surgical Suture (UPE)"
+      },
+      "slug": "non-absorbable-surgical-suture-upe",
+      "status": "published",
+      "sourcePages": [
+        18
+      ]
+    },
+    {
+      "name": {
+        "ru": "Набор инструментов для шовных якорей Merit MPT",
+        "en": "Merit MPT Suture Anchor Instrument Set"
+      },
+      "slug": "merit-mpt-suture-anchor-instrument-set",
+      "status": "published",
+      "sourcePages": [
+        19
+      ]
+    },
+    {
+      "name": {
+        "ru": "Инструменты для шовных якорей из PEEK",
+        "en": "PEEK Suture Anchor Instruments"
+      },
+      "slug": "peek-suture-anchor-instruments",
+      "status": "published",
+      "sourcePages": [
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "name": {
+        "ru": "Набор инструментов для реконструкции плечевого сустава",
+        "en": "Shoulder Repair and Reconstruction Instrument Set"
+      },
+      "slug": "shoulder-repair-and-reconstruction-instrument-set",
+      "status": "published",
+      "sourcePages": [
+        23,
+        24
+      ]
+    },
+    {
+      "name": {
+        "ru": "Артроскопические канюли",
+        "en": "Arthroscopic Cannula"
+      },
+      "slug": "arthroscopic-cannula",
+      "status": "published",
+      "sourcePages": [
+        25
+      ]
+    },
+    {
+      "name": {
+        "ru": "Набор инструментов для артроскопической реконструкции АКС",
+        "en": "AC Joint Reconstruction Instrument Set (Arthroscopy)"
+      },
+      "slug": "ac-joint-reconstruction-instrument-set",
+      "status": "published",
+      "sourcePages": [
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "name": {
+        "ru": "Набор инструментов для реконструкции связок коленного сустава",
+        "en": "Knee Repair and Reconstruction Instrument Set"
+      },
+      "slug": "knee-repair-and-reconstruction-instrument-set",
+      "status": "published",
+      "sourcePages": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "name": {
+        "ru": "Набор инструментов для фиксации межберцового синдесмоза",
+        "en": "Tibiofibular Syndesmosis Instrument Set"
+      },
+      "slug": "tibiofibular-syndesmosis-instrument-set",
+      "status": "published",
+      "sourcePages": [
+        36
+      ]
+    },
+    {
+      "name": {
+        "ru": "Набор инструментов для мини-пуговицы CFLoop",
+        "en": "Mini CFLoop Adjustable Button Instrument Set"
+      },
+      "slug": "mini-cfloop-adjustable-button-instrument-set",
+      "status": "published",
+      "sourcePages": [
+        37
+      ]
+    }
+  ],
+  "mergedSystems": [
+    {
+      "name": {
+        "ru": "Система менискового шва M-Link All-Inside",
+        "en": "M-Link All-Inside Meniscal Repair System"
+      },
+      "slug": "m-link-all-inside-meniscal-repair-system",
+      "newRefCodes": [
+        "114302000",
+        "114301200"
+      ],
+      "sourcePages": [
+        10,
+        38
+      ]
+    }
+  ],
+  "otherOverlaps": [
+    {
+      "system": "peek-suture-anchor-instruments",
+      "REF": "110302400",
+      "existingSystems": [
+        "double-medical/universal-femoral-nail-instrument-set",
+        "double-medical/universal-tibial-nail-instrument-set"
+      ]
+    },
+    {
+      "system": "knee-repair-and-reconstruction-instrument-set",
+      "REF": "115012500",
+      "existingSystems": [
+        "double-medical/m-link-all-inside-meniscal-repair-system"
+      ]
+    },
+    {
+      "system": "mini-cfloop-adjustable-button-instrument-set",
+      "REF": "112550600",
+      "existingSystems": [
+        "double-medical/3-5mm-headless-compression-screw-instrument-set"
+      ]
+    }
+  ],
+  "openRealFlags": [],
+  "randomSample": [
+    {
+      "system": {
+        "ru": "Набор инструментов для реконструкции связок коленного сустава",
+        "en": "Knee Repair and Reconstruction Instrument Set"
+      },
+      "pdfPage": 29,
+      "REF": "115012000",
+      "size": {
+        "ru": "Канюлированное сверло, Ø7 мм",
+        "en": "Cannulated Drill Bit, Ø7 mm"
+      }
+    },
+    {
+      "system": {
+        "ru": "Система восстановления и реконструкции связок коленного сустава",
+        "en": "Knee Repair and Reconstruction System"
+      },
+      "pdfPage": 13,
+      "REF": "150110035S",
+      "size": {
+        "ru": "35",
+        "en": "35"
+      }
+    },
+    {
+      "system": {
+        "ru": "Инструменты для шовных якорей из PEEK",
+        "en": "PEEK Suture Anchor Instruments"
+      },
+      "pdfPage": 20,
+      "REF": "115080900",
+      "size": {
+        "ru": "Сверло для SwirlFix",
+        "en": "Drill, for SwirlFix"
+      }
+    },
+    {
+      "system": {
+        "ru": "Набор инструментов для реконструкции плечевого сустава",
+        "en": "Shoulder Repair and Reconstruction Instrument Set"
+      },
+      "pdfPage": 23,
+      "REF": "115080100",
+      "size": {
+        "ru": "Многоразовый обтуратор для канюль Ø7 и Ø8 мм",
+        "en": "Reusable Obturator for 7 mm and 8 mm Cannula"
+      }
+    },
+    {
+      "system": {
+        "ru": "Набор инструментов для реконструкции связок коленного сустава",
+        "en": "Knee Repair and Reconstruction Instrument Set"
+      },
+      "pdfPage": 29,
+      "REF": "115014400",
+      "size": {
+        "ru": "Фреза FlipCutter, Ø10 мм, длина 265 мм",
+        "en": "FlipCutter Reamer, Ø10 mm, length 265 mm"
+      }
+    },
+    {
+      "system": {
+        "ru": "Шовные якоря из PEEK",
+        "en": "PEEK Suture Anchor"
+      },
+      "pdfPage": 6,
+      "REF": "152460550S",
+      "size": {
+        "ru": "5.5×19",
+        "en": "5.5×19"
+      }
+    },
+    {
+      "system": {
+        "ru": "Инструменты для шовных якорей из PEEK",
+        "en": "PEEK Suture Anchor Instruments"
+      },
+      "pdfPage": 20,
+      "REF": "115430800",
+      "size": {
+        "ru": "Канюлированное сверло для тенодезного шовного якоря из PEEK",
+        "en": "Cannulated Drill Bit for PEEK Tenodesis Suture Anchor"
+      }
+    },
+    {
+      "system": {
+        "ru": "Шовные якоря из PEEK",
+        "en": "PEEK Suture Anchor"
+      },
+      "pdfPage": 6,
+      "REF": "152450500S",
+      "size": {
+        "ru": "5.0×19",
+        "en": "5.0×19"
+      }
+    },
+    {
+      "system": {
+        "ru": "Металлические шовные якоря Merit",
+        "en": "Metal Suture Anchor"
+      },
+      "pdfPage": 4,
+      "REF": "151602809S",
+      "size": {
+        "ru": "2.8×9",
+        "en": "2.8×9"
+      }
+    },
+    {
+      "system": {
+        "ru": "Система восстановления и реконструкции связок коленного сустава",
+        "en": "Knee Repair and Reconstruction System"
+      },
+      "pdfPage": 13,
+      "REF": "150110045S",
+      "size": {
+        "ru": "45",
+        "en": "45"
+      }
+    },
+    {
+      "system": {
+        "ru": "Система восстановления и реконструкции связок коленного сустава",
+        "en": "Knee Repair and Reconstruction System"
+      },
+      "pdfPage": 13,
+      "REF": "150110020S",
+      "size": {
+        "ru": "20",
+        "en": "20"
+      }
+    },
+    {
+      "system": {
+        "ru": "Набор инструментов для реконструкции плечевого сустава",
+        "en": "Shoulder Repair and Reconstruction Instrument Set"
+      },
+      "pdfPage": 23,
+      "REF": "115080700",
+      "size": {
+        "ru": "Инструмент для продвижения узла, с закрытым концом",
+        "en": "Knot Pusher, closed end"
+      }
+    },
+    {
+      "system": {
+        "ru": "Система восстановления и реконструкции связок коленного сустава",
+        "en": "Knee Repair and Reconstruction System"
+      },
+      "pdfPage": 13,
+      "REF": "150110030S",
+      "size": {
+        "ru": "30",
+        "en": "30"
+      }
+    },
+    {
+      "system": {
+        "ru": "Система восстановления и реконструкции связок коленного сустава",
+        "en": "Knee Repair and Reconstruction System"
+      },
+      "pdfPage": 13,
+      "REF": "150110025S",
+      "size": {
+        "ru": "25",
+        "en": "25"
+      }
+    },
+    {
+      "system": {
+        "ru": "Набор инструментов для реконструкции связок коленного сустава",
+        "en": "Knee Repair and Reconstruction Instrument Set"
+      },
+      "pdfPage": 29,
+      "REF": "115014100",
+      "size": {
+        "ru": "Фреза FlipCutter, Ø7 мм, длина 265 мм",
+        "en": "FlipCutter Reamer, Ø7 mm, length 265 mm"
+      }
+    },
+    {
+      "system": {
+        "ru": "Набор инструментов для реконструкции плечевого сустава",
+        "en": "Shoulder Repair and Reconstruction Instrument Set"
+      },
+      "pdfPage": 23,
+      "REF": "115081900",
+      "size": {
+        "ru": "Крючок",
+        "en": "Crochet Hook"
+      }
+    },
+    {
+      "system": {
+        "ru": "Набор инструментов для реконструкции плечевого сустава",
+        "en": "Shoulder Repair and Reconstruction Instrument Set"
+      },
+      "pdfPage": 23,
+      "REF": "115081200",
+      "size": {
+        "ru": "Удлинённый Переключающий стержень, 4 мм x 12 дюймов",
+        "en": "Extra Long Switching Stick, 4 mm x 12 in"
+      }
+    },
+    {
+      "system": {
+        "ru": "Инструменты для шовных якорей из PEEK",
+        "en": "PEEK Suture Anchor Instruments"
+      },
+      "pdfPage": 20,
+      "REF": "110302400",
+      "size": {
+        "ru": "Молоток",
+        "en": "Hammer"
+      }
+    },
+    {
+      "system": {
+        "ru": "Набор инструментов для реконструкции связок коленного сустава",
+        "en": "Knee Repair and Reconstruction Instrument Set"
+      },
+      "pdfPage": 29,
+      "REF": "115014300",
+      "size": {
+        "ru": "Фреза FlipCutter, Ø9 мм, длина 265 мм",
+        "en": "FlipCutter Reamer, Ø9 mm, length 265 mm"
+      }
+    },
+    {
+      "system": {
+        "ru": "Шовные якоря из PEEK",
+        "en": "PEEK Suture Anchor"
+      },
+      "pdfPage": 8,
+      "REF": "152480550S",
+      "size": {
+        "ru": "5.5×15",
+        "en": "5.5×15"
+      }
+    }
+  ],
+  "randomSampleSeed": 20261121,
+  "publicationDate": "2026-11-21T08:30:13.573579+00:00",
+  "acceptedSourceLimitations": [
+    {
+      "system": {
+        "ru": "Набор инструментов для реконструкции связок коленного сустава",
+        "en": "Knee Repair and Reconstruction Instrument Set"
+      },
+      "slug": "knee-repair-and-reconstruction-instrument-set",
+      "code": "source-incomplete-instrument-specification",
+      "pdfPage": 35,
+      "sourcePages": [
+        35
+      ],
+      "message": {
+        "ru": "Some printed instrument dimensions/descriptions are incomplete; no dimensions were inferred.",
+        "en": "Some printed instrument dimensions/descriptions are incomplete; no dimensions were inferred."
+      },
+      "path": "specTables"
+    },
+    {
+      "system": {
+        "ru": "Металлические шовные якоря Merit",
+        "en": "Metal Suture Anchor"
+      },
+      "slug": "metal-suture-anchor",
+      "code": "source-incomplete-suture-specification",
+      "pdfPage": 4,
+      "sourcePages": [
+        4
+      ],
+      "message": {
+        "ru": "The source prints an incomplete suture amount/diameter (\"/ #\") for some anchor rows.",
+        "en": "The source prints an incomplete suture amount/diameter (\"/ #\") for some anchor rows."
+      },
+      "path": "specTables"
+    },
+    {
+      "system": {
+        "ru": "Металлические шовные якоря Merit",
+        "en": "Metal Suture Anchor"
+      },
+      "slug": "metal-suture-anchor",
+      "code": "source-incomplete-suture-specification",
+      "pdfPage": 5,
+      "sourcePages": [
+        5
+      ],
+      "message": {
+        "ru": "The source prints an incomplete suture amount/diameter (\"/ #\") for some anchor rows.",
+        "en": "The source prints an incomplete suture amount/diameter (\"/ #\") for some anchor rows."
+      },
+      "path": "specTables"
+    },
+    {
+      "system": {
+        "ru": "Шовные якоря из PEEK",
+        "en": "PEEK Suture Anchor"
+      },
+      "slug": "peek-suture-anchor",
+      "code": "source-incomplete-suture-specification",
+      "pdfPage": 6,
+      "sourcePages": [
+        6
+      ],
+      "message": {
+        "ru": "The source omits numeric suture amount/specification values.",
+        "en": "The source omits numeric suture amount/specification values."
+      },
+      "path": "specTables"
+    },
+    {
+      "system": {
+        "ru": "Шовные якоря из PEEK",
+        "en": "PEEK Suture Anchor"
+      },
+      "slug": "peek-suture-anchor",
+      "code": "source-incomplete-suture-specification",
+      "pdfPage": 7,
+      "sourcePages": [
+        7
+      ],
+      "message": {
+        "ru": "The source omits numeric suture amount/specification values.",
+        "en": "The source omits numeric suture amount/specification values."
+      },
+      "path": "specTables"
+    },
+    {
+      "system": {
+        "ru": "Инструменты для шовных якорей из PEEK",
+        "en": "PEEK Suture Anchor Instruments"
+      },
+      "slug": "peek-suture-anchor-instruments",
+      "code": "source-incomplete-instrument-specification",
+      "pdfPage": 20,
+      "sourcePages": [
+        20
+      ],
+      "message": {
+        "ru": "Some printed instrument dimensions/descriptions are incomplete; no dimensions were inferred.",
+        "en": "Some printed instrument dimensions/descriptions are incomplete; no dimensions were inferred."
+      },
+      "path": "specTables"
+    },
+    {
+      "system": {
+        "ru": "Инструменты для шовных якорей из PEEK",
+        "en": "PEEK Suture Anchor Instruments"
+      },
+      "slug": "peek-suture-anchor-instruments",
+      "code": "source-incomplete-instrument-specification",
+      "pdfPage": 21,
+      "sourcePages": [
+        21
+      ],
+      "message": {
+        "ru": "Some printed instrument dimensions/descriptions are incomplete; no dimensions were inferred.",
+        "en": "Some printed instrument dimensions/descriptions are incomplete; no dimensions were inferred."
+      },
+      "path": "specTables"
+    },
+    {
+      "system": {
+        "ru": "Инструменты для шовных якорей из PEEK",
+        "en": "PEEK Suture Anchor Instruments"
+      },
+      "slug": "peek-suture-anchor-instruments",
+      "code": "unreadable-source-description",
+      "pdfPage": 21,
+      "sourcePages": [
+        21
+      ],
+      "message": {
+        "ru": "Instrument description for 111036800 is unreadable in the source.",
+        "en": "Instrument description for 111036800 is unreadable in the source."
+      },
+      "path": "specTables"
+    },
+    {
+      "system": {
+        "ru": "Набор инструментов для фиксации межберцового синдесмоза",
+        "en": "Tibiofibular Syndesmosis Instrument Set"
+      },
+      "slug": "tibiofibular-syndesmosis-instrument-set",
+      "code": "source-incomplete-instrument-specification",
+      "pdfPage": 36,
+      "sourcePages": [
+        36
+      ],
+      "message": {
+        "ru": "Some printed instrument dimensions/descriptions are incomplete; no dimensions were inferred.",
+        "en": "Some printed instrument dimensions/descriptions are incomplete; no dimensions were inferred."
+      },
+      "path": "specTables"
+    }
+  ]
+}

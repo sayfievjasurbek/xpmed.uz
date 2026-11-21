@@ -1,0 +1,1879 @@
+{
+  "slug": "m-link-all-inside-meniscal-repair-system",
+  "brand": "double-medical",
+  "category": "sports-medicine",
+  "subcategory": "sports-medicine-meniscus",
+  "specialty": [
+    "sports",
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Система менискового шва M-Link All-Inside",
+    "en": "M-Link All-Inside Meniscal Repair System"
+  },
+  "shortDescription": {
+    "ru": "Менисковый шов All-Inside с контролем глубины введения.",
+    "en": "All-inside meniscal repair with controlled insertion depth."
+  },
+  "description": {
+    "ru": "M-Link All-Inside — система для шва мениска. Предназначена для чрескожных или эндоскопических вмешательств на мягких тканях, например восстановления мениска. Позволяет накладывать горизонтальные или вертикальные матрацные швы с бедренной или тибиальной стороны мениска. Глубину введения иглы контролируют встроенным ограничителем.",
+    "en": "M-Link All-Inside is a meniscal repair system indicated for percutaneous or endoscopic soft tissue surgery, such as meniscus repair. It supports horizontal or vertical mattress sutures on the femoral or tibial surface of the meniscus, with an internal limiter to control insertion depth."
+  },
+  "indications": {
+    "ru": "Показания: чрескожные или эндоскопические вмешательства на мягких тканях, например шов мениска.",
+    "en": "Indications: percutaneous or endoscopic soft tissue surgery, e.g. meniscus repair."
+  },
+  "catalogType": "system",
+  "heroImage": "/images/products/double-medical/m-link-all-inside/implant-device.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "name": "implant-device",
+      "pdfPage": 11,
+      "xref": 139,
+      "nativeSize": [
+        54,
+        462
+      ],
+      "sourceMask": true,
+      "src": "/images/products/double-medical/m-link-all-inside/implant-device.webp",
+      "width": 172,
+      "height": 988,
+      "imageType": "cutout",
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          54,
+          462
+        ],
+        "enhancedSize": [
+          108,
+          924
+        ]
+      },
+      "imageCaption": {
+        "ru": "Устройство для шва мениска M-Link",
+        "en": "M-Link meniscal repair device"
+      }
+    },
+    {
+      "name": "needle-detail",
+      "pdfPage": 11,
+      "xref": 154,
+      "nativeSize": [
+        184,
+        155
+      ],
+      "sourceMask": true,
+      "src": "/images/products/double-medical/m-link-all-inside/needle-detail.webp",
+      "width": 432,
+      "height": 374,
+      "imageType": "cutout",
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          184,
+          155
+        ],
+        "enhancedSize": [
+          368,
+          310
+        ]
+      },
+      "imageCaption": {
+        "ru": "Деталь иглы из каталога производителя",
+        "en": "Needle detail from the manufacturer catalog"
+      }
+    },
+    {
+      "src": "/images/products/double-medical/sports-medicine-catalogue/page-038-image-02.webp",
+      "width": 906,
+      "height": 130,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x",
+        "scale": 2,
+        "originalSize": [
+          421,
+          33
+        ],
+        "enhancedSize": [
+          842,
+          66
+        ]
+      },
+      "imageCaption": {
+        "ru": "Инструмент для продвижения узла и обрезания нити",
+        "en": "Knot Pusher/Suture Cutter"
+      },
+      "sourcePages": [
+        38
+      ]
+    }
+  ],
+  "components": [],
+  "features": [
+    {
+      "id": "application",
+      "title": {
+        "ru": "Различные варианты наложения шва",
+        "en": "Diversity of application"
+      },
+      "text": {
+        "ru": "Позволяет накладывать горизонтальные или вертикальные матрацные швы с бедренной или тибиальной стороны мениска.",
+        "en": "It can be applied to horizontal or vertical mattress sutures on the femoral or tibial surface of the meniscus."
+      },
+      "sourcePages": [
+        4
+      ],
+      "pdfPage": 4
+    },
+    {
+      "id": "controlled-implantation",
+      "title": {
+        "ru": "Контролируемая глубина введения",
+        "en": "Controlled implantation"
+      },
+      "text": {
+        "ru": "Встроенный ограничитель позволяет контролировать глубину введения иглы.",
+        "en": "An internal depth limiter helps control the depth of insertion."
+      },
+      "sourcePages": [
+        4
+      ],
+      "pdfPage": 4
+    },
+    {
+      "id": "less-damage",
+      "title": {
+        "ru": "Минимизация повреждения мениска",
+        "en": "Less damage"
+      },
+      "text": {
+        "ru": "Небольшая точка вкола минимизирует повреждение мениска.",
+        "en": "A smaller insertion point minimizes disruption to the meniscus."
+      },
+      "sourcePages": [
+        4
+      ],
+      "pdfPage": 4
+    },
+    {
+      "id": "safety",
+      "title": {
+        "ru": "Активный пусковой механизм",
+        "en": "Safety"
+      },
+      "text": {
+        "ru": "Активный пусковой механизм предотвращает непреднамеренное высвобождение импланта при некорректном срабатывании.",
+        "en": "The active trigger mechanism prevents unintended release in case of unsatisfactory deployment."
+      },
+      "sourcePages": [
+        4
+      ],
+      "pdfPage": 4
+    }
+  ],
+  "hotspots": [],
+  "variants": [],
+  "specTables": [],
+  "referenceTables": [
+    {
+      "id": "m-link-implants",
+      "title": {
+        "ru": "Импланты",
+        "en": "Implants"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Система менискового шва с прямой иглой",
+            "en": "Meniscal Repair System with Straight Needle"
+          },
+          "151250000S"
+        ],
+        [
+          {
+            "ru": "Система менискового шва с изогнутой иглой, 20°",
+            "en": "Meniscal Repair System with Curved Needle, 20°"
+          },
+          "151260000S"
+        ],
+        [
+          {
+            "ru": "Система менискового шва с изогнутой иглой, 27°",
+            "en": "Meniscal Repair System with Curved Needle, 27°"
+          },
+          "152910270S"
+        ]
+      ],
+      "rowImages": [
+        {
+          "name": "implant-device",
+          "pdfPage": 11,
+          "xref": 139,
+          "nativeSize": [
+            54,
+            462
+          ],
+          "sourceMask": true,
+          "src": "/images/products/double-medical/m-link-all-inside/implant-device.webp",
+          "width": 172,
+          "height": 988,
+          "imageType": "cutout",
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              54,
+              462
+            ],
+            "enhancedSize": [
+              108,
+              924
+            ]
+          },
+          "imageCaption": {
+            "ru": "Система менискового шва с прямой иглой",
+            "en": "Meniscal Repair System with Straight Needle"
+          }
+        },
+        {
+          "name": "implant-device",
+          "pdfPage": 11,
+          "xref": 139,
+          "nativeSize": [
+            54,
+            462
+          ],
+          "sourceMask": true,
+          "src": "/images/products/double-medical/m-link-all-inside/implant-device.webp",
+          "width": 172,
+          "height": 988,
+          "imageType": "cutout",
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              54,
+              462
+            ],
+            "enhancedSize": [
+              108,
+              924
+            ]
+          },
+          "imageCaption": {
+            "ru": "Система менискового шва с изогнутой иглой, 20°",
+            "en": "Meniscal Repair System with Curved Needle, 20°"
+          }
+        },
+        {
+          "name": "implant-device",
+          "pdfPage": 11,
+          "xref": 139,
+          "nativeSize": [
+            54,
+            462
+          ],
+          "sourceMask": true,
+          "src": "/images/products/double-medical/m-link-all-inside/implant-device.webp",
+          "width": 172,
+          "height": 988,
+          "imageType": "cutout",
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              54,
+              462
+            ],
+            "enhancedSize": [
+              108,
+              924
+            ]
+          },
+          "imageCaption": {
+            "ru": "Система менискового шва с изогнутой иглой, 27°",
+            "en": "Meniscal Repair System with Curved Needle, 27°"
+          }
+        }
+      ],
+      "rowImageLabel": {
+        "ru": "Изделие",
+        "en": "Product"
+      },
+      "rowSources": [
+        {
+          "pdfPage": 11,
+          "sourceBounds": [
+            0.10721972216787322,
+            0.23611498744069215,
+            0.59,
+            0.24504605079542283
+          ],
+          "bounds": [
+            0.10721972216787322,
+            0.23611498744069215,
+            0.59,
+            0.24504605079542283
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "tableId": "m-link-implants",
+              "row": 1,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "value": "151250000S",
+                  "pdfPage": 11,
+                  "sourceBounds": [
+                    0.10721972216787322,
+                    0.23611498744069215,
+                    0.1964390530228918,
+                    0.24504605079542283
+                  ],
+                  "confidence": 59.380646
+                },
+                {
+                  "reader": "PSM11",
+                  "value": "151250000S",
+                  "pdfPage": 11,
+                  "sourceBounds": [
+                    0.10721972216787322,
+                    0.23611498744069215,
+                    0.1964390530228918,
+                    0.24504605079542283
+                  ],
+                  "confidence": 88.241493
+                },
+                {
+                  "reader": "Vision",
+                  "value": "151250000S",
+                  "pdfPage": 11,
+                  "sourceBounds": [
+                    0.10386965361357273,
+                    0.23546511633089673,
+                    0.1975560081220589,
+                    0.2470930231756262
+                  ],
+                  "confidence": 1
+                },
+                {
+                  "reader": "Codex visual 600-DPI crop",
+                  "value": "151250000S",
+                  "pdfPage": 11
+                }
+              ],
+              "verificationStatus": "verified (visual + three independent OCR readings)"
+            }
+          ]
+        },
+        {
+          "pdfPage": 11,
+          "sourceBounds": [
+            0.10721972216787322,
+            0.2548144013396595,
+            0.59,
+            0.2636059168294725
+          ],
+          "bounds": [
+            0.10721972216787322,
+            0.2548144013396595,
+            0.59,
+            0.2636059168294725
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "tableId": "m-link-implants",
+              "row": 2,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "value": "151260000S",
+                  "pdfPage": 11,
+                  "sourceBounds": [
+                    0.10721972216787322,
+                    0.2548144013396595,
+                    0.1964390530228918,
+                    0.2636059168294725
+                  ],
+                  "confidence": 43.727486
+                },
+                {
+                  "reader": "PSM11",
+                  "value": "151260000S",
+                  "pdfPage": 11,
+                  "sourceBounds": [
+                    0.10721972216787322,
+                    0.2548144013396595,
+                    0.1964390530228918,
+                    0.2636059168294725
+                  ],
+                  "confidence": 90.245163
+                },
+                {
+                  "reader": "Vision",
+                  "value": "151260000S",
+                  "pdfPage": 11,
+                  "sourceBounds": [
+                    0.10386965697420376,
+                    0.25436046514594923,
+                    0.19959266721113222,
+                    0.2659883719906787
+                  ],
+                  "confidence": 1
+                },
+                {
+                  "reader": "Codex visual 600-DPI crop",
+                  "value": "151260000S",
+                  "pdfPage": 11
+                }
+              ],
+              "verificationStatus": "verified (visual + three independent OCR readings)"
+            }
+          ]
+        },
+        {
+          "pdfPage": 11,
+          "sourceBounds": [
+            0.10721972216787322,
+            0.2733742673737092,
+            0.59,
+            0.28230533072843983
+          ],
+          "bounds": [
+            0.10721972216787322,
+            0.2733742673737092,
+            0.59,
+            0.28230533072843983
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "tableId": "m-link-implants",
+              "row": 3,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "value": "152910270S",
+                  "pdfPage": 11,
+                  "sourceBounds": [
+                    0.10721972216787322,
+                    0.2733742673737092,
+                    0.1964390530228918,
+                    0.28230533072843983
+                  ],
+                  "confidence": 67.98764
+                },
+                {
+                  "reader": "PSM11",
+                  "value": "152910270S",
+                  "pdfPage": 11,
+                  "sourceBounds": [
+                    0.10721972216787322,
+                    0.2733742673737092,
+                    0.1964390530228918,
+                    0.28230533072843983
+                  ],
+                  "confidence": 90.344643
+                },
+                {
+                  "reader": "Vision",
+                  "value": "152910270S",
+                  "pdfPage": 11,
+                  "sourceBounds": [
+                    0.10386965303379883,
+                    0.273255814081788,
+                    0.197556007542285,
+                    0.2848837209265176
+                  ],
+                  "confidence": 1
+                },
+                {
+                  "reader": "Codex visual 600-DPI crop",
+                  "value": "152910270S",
+                  "pdfPage": 11
+                }
+              ],
+              "verificationStatus": "verified (visual + three independent OCR readings)"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        11
+      ]
+    },
+    {
+      "id": "m-link-instruments",
+      "title": {
+        "ru": "Многоразовые инструменты",
+        "en": "Reusable instruments"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Менисковый глубиномер-зонд, многоразовый",
+            "en": "Meniscal Depth Probe, reusable"
+          },
+          "114301400"
+        ],
+        [
+          {
+            "ru": "Канюля с продольным пазом, многоразовая",
+            "en": "Slotted Cannula, reusable"
+          },
+          "114301300"
+        ],
+        [
+          {
+            "ru": "Менисковый алмазный рашпиль 40°, многоразовый",
+            "en": "40° Diamond Rasp, reusable"
+          },
+          "115012500"
+        ],
+        [
+          {
+            "ru": "Инструмент для продвижения узла и обрезания нити, многоразовый",
+            "en": "Knot Pusher/Suture Cutter, reusable"
+          },
+          "114302600"
+        ]
+      ],
+      "rowImages": [
+        {
+          "name": "depth-probe",
+          "pdfPage": 12,
+          "xref": 171,
+          "nativeSize": [
+            473,
+            266
+          ],
+          "sourceMask": true,
+          "src": "/images/products/double-medical/m-link-all-inside/depth-probe.webp",
+          "width": 960,
+          "height": 138,
+          "imageType": "cutout",
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              473,
+              266
+            ],
+            "enhancedSize": [
+              946,
+              532
+            ]
+          },
+          "imageCaption": {
+            "ru": "Менисковый глубиномер-зонд, многоразовый",
+            "en": "Meniscal Depth Probe, reusable"
+          }
+        },
+        {
+          "name": "slotted-cannula",
+          "pdfPage": 12,
+          "xref": 162,
+          "nativeSize": [
+            473,
+            266
+          ],
+          "sourceMask": true,
+          "src": "/images/products/double-medical/m-link-all-inside/slotted-cannula.webp",
+          "width": 749,
+          "height": 307,
+          "imageType": "cutout",
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              473,
+              266
+            ],
+            "enhancedSize": [
+              946,
+              532
+            ]
+          },
+          "imageCaption": {
+            "ru": "Канюля с продольным пазом, многоразовая",
+            "en": "Slotted Cannula, reusable"
+          }
+        },
+        {
+          "name": "diamond-rasp",
+          "pdfPage": 12,
+          "xref": 166,
+          "nativeSize": [
+            473,
+            266
+          ],
+          "sourceMask": true,
+          "src": "/images/products/double-medical/m-link-all-inside/diamond-rasp.webp",
+          "width": 987,
+          "height": 154,
+          "imageType": "cutout",
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              473,
+              266
+            ],
+            "enhancedSize": [
+              946,
+              532
+            ]
+          },
+          "imageCaption": {
+            "ru": "Менисковый алмазный рашпиль 40°, многоразовый",
+            "en": "40° Diamond Rasp, reusable"
+          }
+        },
+        {
+          "name": "knot-pusher-cutter",
+          "pdfPage": 12,
+          "xref": 164,
+          "nativeSize": [
+            473,
+            266
+          ],
+          "sourceMask": true,
+          "src": "/images/products/double-medical/m-link-all-inside/knot-pusher-cutter.webp",
+          "width": 959,
+          "height": 142,
+          "imageType": "cutout",
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              473,
+              266
+            ],
+            "enhancedSize": [
+              946,
+              532
+            ]
+          },
+          "imageCaption": {
+            "ru": "Инструмент для продвижения узла и обрезания нити, многоразовый",
+            "en": "Knot Pusher/Suture Cutter, reusable"
+          }
+        }
+      ],
+      "rowImageLabel": {
+        "ru": "Изделие",
+        "en": "Product"
+      },
+      "rowSources": [
+        {
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.08863236157307768,
+            0.21183365894501816,
+            0.59,
+            0.22048562656991347
+          ],
+          "bounds": [
+            0.08863236157307768,
+            0.21183365894501816,
+            0.59,
+            0.22048562656991347
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "tableId": "m-link-instruments",
+              "row": 1,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "value": "114301400",
+                  "pdfPage": 12,
+                  "sourceBounds": [
+                    0.08863236157307768,
+                    0.21183365894501816,
+                    0.17667775386421444,
+                    0.22048562656991347
+                  ],
+                  "confidence": 95.290497
+                },
+                {
+                  "reader": "PSM11",
+                  "value": "114301400",
+                  "pdfPage": 12,
+                  "sourceBounds": [
+                    0.08863236157307768,
+                    0.21183365894501816,
+                    0.1768734102915281,
+                    0.22048562656991347
+                  ],
+                  "confidence": 96.587662
+                },
+                {
+                  "reader": "Vision",
+                  "value": "114301400",
+                  "pdfPage": 12,
+                  "sourceBounds": [
+                    0.08551609473663924,
+                    0.20922456014223378,
+                    0.17924968994672918,
+                    0.2239149744498432
+                  ],
+                  "confidence": 1
+                },
+                {
+                  "reader": "Codex visual 600-DPI crop",
+                  "value": "114301400",
+                  "pdfPage": 12
+                }
+              ],
+              "verificationStatus": "verified (visual + three independent OCR readings)"
+            }
+          ]
+        },
+        {
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.08863236157307768,
+            0.3397990510745186,
+            0.59,
+            0.3483114708344962
+          ],
+          "bounds": [
+            0.08863236157307768,
+            0.3397990510745186,
+            0.59,
+            0.3483114708344962
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "tableId": "m-link-instruments",
+              "row": 2,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "value": "114301300",
+                  "pdfPage": 12,
+                  "sourceBounds": [
+                    0.08863236157307768,
+                    0.3397990510745186,
+                    0.1768734102915281,
+                    0.3483114708344962
+                  ],
+                  "confidence": 95.925529
+                },
+                {
+                  "reader": "PSM11",
+                  "value": "114301300",
+                  "pdfPage": 12,
+                  "sourceBounds": [
+                    0.08863236157307768,
+                    0.3397990510745186,
+                    0.1768734102915281,
+                    0.3483114708344962
+                  ],
+                  "confidence": 96.040665
+                },
+                {
+                  "reader": "Vision",
+                  "value": "114301300",
+                  "pdfPage": 12,
+                  "sourceBounds": [
+                    0.08545998552850338,
+                    0.33550961333233675,
+                    0.18134245966114204,
+                    0.3519903865466466
+                  ],
+                  "confidence": 1
+                },
+                {
+                  "reader": "Codex visual 600-DPI crop",
+                  "value": "114301300",
+                  "pdfPage": 12
+                }
+              ],
+              "verificationStatus": "verified (visual + three independent OCR readings)"
+            }
+          ]
+        },
+        {
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.08863236157307768,
+            0.467764443204019,
+            0.59,
+            0.47627686296399663
+          ],
+          "bounds": [
+            0.08863236157307768,
+            0.467764443204019,
+            0.59,
+            0.47627686296399663
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "tableId": "m-link-instruments",
+              "row": 3,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "value": "115012500",
+                  "pdfPage": 12,
+                  "sourceBounds": [
+                    0.08863236157307768,
+                    0.467764443204019,
+                    0.1768734102915281,
+                    0.47627686296399663
+                  ],
+                  "confidence": 96.549637
+                },
+                {
+                  "reader": "PSM11",
+                  "value": "115012500",
+                  "pdfPage": 12,
+                  "sourceBounds": [
+                    0.08863236157307768,
+                    0.467764443204019,
+                    0.1768734102915281,
+                    0.47627686296399663
+                  ],
+                  "confidence": 95.974815
+                },
+                {
+                  "reader": "Vision",
+                  "value": "115012500",
+                  "pdfPage": 12,
+                  "sourceBounds": [
+                    0.08550228475016343,
+                    0.46499264652259,
+                    0.17926350070290267,
+                    0.4797747952168252
+                  ],
+                  "confidence": 1
+                },
+                {
+                  "reader": "Codex visual 600-DPI crop",
+                  "value": "115012500",
+                  "pdfPage": 12
+                }
+              ],
+              "verificationStatus": "verified (visual + three independent OCR readings)"
+            }
+          ]
+        },
+        {
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.08863236157307768,
+            0.5955902874686018,
+            0.59,
+            0.604242255093497
+          ],
+          "bounds": [
+            0.08863236157307768,
+            0.5955902874686018,
+            0.59,
+            0.604242255093497
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "tableId": "m-link-instruments",
+              "row": 4,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "value": "114302600",
+                  "pdfPage": 12,
+                  "sourceBounds": [
+                    0.08863236157307768,
+                    0.5955902874686018,
+                    0.1768734102915281,
+                    0.604242255093497
+                  ],
+                  "confidence": 96.555084
+                },
+                {
+                  "reader": "PSM11",
+                  "value": "114302600",
+                  "pdfPage": 12,
+                  "sourceBounds": [
+                    0.08863236157307768,
+                    0.5955902874686018,
+                    0.1768734102915281,
+                    0.604242255093497
+                  ],
+                  "confidence": 95.492424
+                },
+                {
+                  "reader": "Vision",
+                  "value": "114302600",
+                  "pdfPage": 12,
+                  "sourceBounds": [
+                    0.08537385306995769,
+                    0.5924589850402266,
+                    0.17939193237932835,
+                    0.6081224101678919
+                  ],
+                  "confidence": 1
+                },
+                {
+                  "reader": "Codex visual 600-DPI crop",
+                  "value": "114302600",
+                  "pdfPage": 12
+                }
+              ],
+              "verificationStatus": "verified (visual + three independent OCR readings)"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        12
+      ]
+    },
+    {
+      "id": "sports-medicine-m-link-added-instrument",
+      "title": {
+        "ru": "Дополнение к набору инструментов M-Link",
+        "en": "M-Link instrument-set supplement"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Набор инструментов для шва мениска",
+            "en": "Meniscal Repair System Instrument Set"
+          },
+          "114302000"
+        ],
+        [
+          {
+            "ru": "Инструмент для продвижения узла и обрезания нити, многоразовый",
+            "en": "Knot Pusher/Suture Cutter, reusable"
+          },
+          "114301200"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 38,
+          "sourceBounds": [
+            0.08,
+            0.13065862230198388,
+            0.8,
+            0.15265862230198388
+          ],
+          "codeEvidence": [
+            {
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "text": "114302000",
+                  "bounds": [
+                    0.2768603534454698,
+                    0.1346586223019839,
+                    0.3789441246643121,
+                    0.14877161046364618
+                  ]
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "114302000",
+                  "bounds": [
+                    0.281549598904324,
+                    0.13578007256488975,
+                    0.3774212482880063,
+                    0.1465252581635501
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "114302000",
+                  "bounds": [
+                    0.281549598904324,
+                    0.13578007256488975,
+                    0.3774212482880063,
+                    0.1465252581635501
+                  ]
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)",
+              "verifiedValue": "114302000"
+            }
+          ]
+        },
+        {
+          "pdfPage": 38,
+          "sourceBounds": [
+            0.08,
+            0.2619883723757216,
+            0.8,
+            0.2839883723757216
+          ],
+          "codeEvidence": [
+            {
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "text": "114301200",
+                  "bounds": [
+                    0.09368635714299171,
+                    0.2659883723757216,
+                    0.18126272854947262,
+                    0.2805232554585806
+                  ]
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "114301200",
+                  "bounds": [
+                    0.09724124437487772,
+                    0.26849009210159086,
+                    0.4664449227157112,
+                    0.27909572983533354
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "114301200",
+                  "bounds": [
+                    0.09724124437487772,
+                    0.26849009210159086,
+                    0.1780473488554099,
+                    0.27756070332123917
+                  ]
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)",
+              "verifiedValue": "114301200"
+            }
+          ]
+        }
+      ],
+      "rowImages": [
+        null,
+        {
+          "src": "/images/products/double-medical/sports-medicine-catalogue/page-038-image-02.webp",
+          "width": 906,
+          "height": 130,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x",
+            "scale": 2,
+            "originalSize": [
+              421,
+              33
+            ],
+            "enhancedSize": [
+              842,
+              66
+            ]
+          },
+          "imageCaption": {
+            "ru": "Инструмент для продвижения узла и обрезания нити",
+            "en": "Knot Pusher/Suture Cutter"
+          },
+          "sourcePages": [
+            38
+          ]
+        }
+      ],
+      "sourcePages": [
+        38
+      ],
+      "sourcePdf": "/catalogs/double-medical/sports-medicine-catalogue/source.pdf"
+    }
+  ],
+  "refCodes": [
+    "151250000S",
+    "151260000S",
+    "152910270S",
+    "114301400",
+    "114301300",
+    "115012500",
+    "114302600",
+    "114302000",
+    "114301200"
+  ],
+  "surgicalTechnique": {
+    "steps": [
+      {
+        "id": "patient-position",
+        "title": {
+          "ru": "Положение пациента",
+          "en": "Patient position"
+        },
+        "text": {
+          "ru": "Пациент лежит на спине; нижняя конечность фиксирована в держателе для ноги.",
+          "en": "The patient is supine and the lower limb is fixed with a leg holder."
+        },
+        "notes": [],
+        "sourcePages": [
+          5
+        ],
+        "images": [
+          {
+            "src": "/images/products/double-medical/m-link-all-inside/technique/step-01-01.webp",
+            "width": 1739,
+            "height": 1435,
+            "imageType": "scene",
+            "step": 1,
+            "pdfPage": 5,
+            "sourceBounds": [
+              0.575,
+              0.217,
+              0.915,
+              0.417
+            ],
+            "sourceMethod": "600-DPI source illustration crop; original inset diagrams retained; no rembg"
+          }
+        ],
+        "pdfPage": 5,
+        "sourceBounds": [
+          0.09,
+          0.17,
+          0.52,
+          0.91
+        ]
+      },
+      {
+        "id": "approach",
+        "title": {
+          "ru": "Артроскопические доступы",
+          "en": "Approach"
+        },
+        "text": {
+          "ru": "Используют стандартные переднелатеральный и переднемедиальный доступы.",
+          "en": "Conventional anterolateral and anteromedial approaches."
+        },
+        "notes": [],
+        "sourcePages": [
+          5
+        ],
+        "images": [],
+        "pdfPage": 5,
+        "sourceBounds": [
+          0.09,
+          0.17,
+          0.52,
+          0.91
+        ]
+      },
+      {
+        "id": "probing",
+        "title": {
+          "ru": "Зондирование и подготовка зоны разрыва",
+          "en": "Probing"
+        },
+        "text": {
+          "ru": "Артроскопию выполняют в стандартной последовательности. С помощью менискового глубиномера-зонда определяют локализацию и тип повреждения. Менисковым рашпилем обрабатывают обе стороны разрыва и прилежащую перименисковую синовиальную оболочку, создавая шероховатую поверхность.",
+          "en": "Arthroscopy is performed in the usual sequence, using the Meniscal Depth Probe to determine the site and type of injury. The Meniscal Rasp is used to abrade and excoriate both sides of the tear and the perimeniscal synovium."
+        },
+        "notes": [],
+        "sourcePages": [
+          5
+        ],
+        "images": [
+          {
+            "src": "/images/products/double-medical/m-link-all-inside/technique/step-03-01.webp",
+            "width": 449,
+            "height": 370,
+            "imageType": "scene",
+            "step": 3,
+            "pdfPage": 5,
+            "sourceBounds": [
+              0.563,
+              0.699,
+              0.914,
+              0.905
+            ],
+            "sourceMethod": "Full native source illustration xref 55; no rembg; excludes overlapping text outside the bitmap"
+          }
+        ],
+        "pdfPage": 5,
+        "sourceBounds": [
+          0.09,
+          0.17,
+          0.52,
+          0.91
+        ]
+      },
+      {
+        "id": "determine-depth",
+        "title": {
+          "ru": "Определение глубины введения",
+          "en": "Determine depth"
+        },
+        "text": {
+          "ru": "После выбора оптимального расположения артроскопических портов и подготовки зоны разрыва мениска восстановление выполняют следующим образом.\n\nМенисковым глубиномером-зондом определяют требуемую предельную глубину введения. Кончик зонда устанавливают в области менискосиновиального перехода и определяют ширину мениска в предполагаемой точке введения доставляющей иглы. Для коленного сустава среднего размера обычно достаточно глубины 14 мм.\n\nНажав кнопку ограничителя глубины, устанавливают требуемую длину. Регулировку можно выполнять вне сустава или внутри него. Лазерные метки на конце иглы также могут служить ориентиром.",
+          "en": "Once the optimal portal placement is determined and the meniscal tear site is prepared, perform the repair as follows:\n\nUse the Meniscal Depth Probe to determine the desired depth limit. Place the tip of the probe at the meniscosynovial junction and determine the width of the meniscus at the desired entry point for the delivery needle. In the average size knee, a depth of 14 mm is usually adequate.\n\nAdjust the depth limiter to the desired length by pressing the depth limiter button. This length can be adjusted outside or inside of the joint. The laser marks on the tip of the needle can also be used as a reference."
+        },
+        "notes": [],
+        "sourcePages": [
+          6
+        ],
+        "images": [
+          {
+            "src": "/images/products/double-medical/m-link-all-inside/technique/step-04-01.webp",
+            "width": 1892,
+            "height": 1564,
+            "imageType": "scene",
+            "step": 4,
+            "pdfPage": 6,
+            "sourceBounds": [
+              0.523,
+              0.223,
+              0.893,
+              0.441
+            ],
+            "sourceMethod": "600-DPI source illustration crop; original inset diagrams retained; no rembg"
+          },
+          {
+            "src": "/images/products/double-medical/m-link-all-inside/technique/step-04-02.webp",
+            "width": 1892,
+            "height": 1563,
+            "imageType": "scene",
+            "step": 4,
+            "pdfPage": 6,
+            "sourceBounds": [
+              0.523,
+              0.468,
+              0.893,
+              0.686
+            ],
+            "sourceMethod": "600-DPI source illustration crop; original inset diagrams retained; no rembg"
+          }
+        ],
+        "pdfPage": 6,
+        "sourceBounds": [
+          0.09,
+          0.17,
+          0.52,
+          0.91
+        ]
+      },
+      {
+        "id": "insert-into-joint",
+        "title": {
+          "ru": "Введение в сустав",
+          "en": "Insert into joint"
+        },
+        "text": {
+          "ru": "Доставляющую иглу вводят в сустав через соответствующий артроскопический порт. Для облегчения введения используют канюлю с продольным пазом. Кончик иглы должен быть направлен вниз. После введения иглы в сустав канюлю при необходимости можно удалить.",
+          "en": "Insert the delivery needle into the joint through the appropriate arthroscopic portal. Insertion is facilitated through the use of the Slotted Cannula. Ensure that the tip of the needle is pointing down. Once the needle is inside the joint, the Slotted Cannula may be removed if desired."
+        },
+        "notes": [
+          {
+            "text": {
+              "ru": "Не перемещайте ползунок установки импланта вперёд во время введения доставляющей иглы в сустав: это приведёт к преждевременной установке импланта.",
+              "en": "Do not advance the deployment slider while introducing the delivery needle into the joint or the implant will deploy prematurely."
+            }
+          }
+        ],
+        "sourcePages": [
+          7
+        ],
+        "images": [
+          {
+            "src": "/images/products/double-medical/m-link-all-inside/technique/step-05-01.webp",
+            "width": 1892,
+            "height": 1563,
+            "imageType": "scene",
+            "step": 5,
+            "pdfPage": 7,
+            "sourceBounds": [
+              0.545,
+              0.19,
+              0.915,
+              0.408
+            ],
+            "sourceMethod": "600-DPI source illustration crop; original inset diagrams retained; no rembg"
+          },
+          {
+            "src": "/images/products/double-medical/m-link-all-inside/technique/step-05-02.webp",
+            "width": 1892,
+            "height": 1564,
+            "imageType": "scene",
+            "step": 5,
+            "pdfPage": 7,
+            "sourceBounds": [
+              0.575,
+              0.434,
+              0.945,
+              0.652
+            ],
+            "sourceMethod": "600-DPI source illustration crop; original inset diagrams retained; no rembg"
+          }
+        ],
+        "pdfPage": 7,
+        "sourceBounds": [
+          0.09,
+          0.17,
+          0.52,
+          0.91
+        ]
+      },
+      {
+        "id": "deploy-t1",
+        "title": {
+          "ru": "Установка первого импланта (T1)",
+          "en": "Deploy the first implant (T1)"
+        },
+        "text": {
+          "ru": "a. При наложении вертикального матрацного шва первый имплант (T1) располагают с капсулярной стороны разрыва, приблизительно на 5 мм выше него. Доставляющую иглу вводят в капсулу на предварительно установленную глубину.\n\nb. Удерживая доставляющую иглу неподвижно, перемещают ползунок установки импланта вперёд до упора для установки T1. Правильная установка сопровождается щелчком. Сразу после установки T1 отпускают ползунок, чтобы он вернулся в исходное положение заподлицо с рукояткой.",
+          "en": "a. For a vertical mattress suture repair, place the first implant (T1) on the capsular side of the tear (about 5 mm above), and insert the delivery needle into the capsule to the preset depth.\n\nb. Keeping the delivery needle in position, push the deployment slider all the way forward to deploy T1. Proper deployment of the implant is accompanied by a clicking sound. Release the slider right after deployment of T1 to allow the slider to return to its original position flush with the handle."
+        },
+        "notes": [
+          {
+            "text": {
+              "ru": "Сразу после установки T1 отпустите ползунок, чтобы он под действием пружины вернулся в исходное положение заподлицо с рукояткой и захватил имплант T2.\n\nЕсли ползунок не возвращается автоматически, его можно вручную вернуть в исходное положение.",
+              "en": "Release the slider right after deployment of T1 to allow it to spring back to its original position flush with the handle to pick up the T2 implant.\n\nIf the slider does not spring back, users can manually return the slider to its original position."
+            }
+          }
+        ],
+        "sourcePages": [
+          8
+        ],
+        "images": [
+          {
+            "src": "/images/products/double-medical/m-link-all-inside/technique/step-06-01.webp",
+            "width": 1892,
+            "height": 1563,
+            "imageType": "scene",
+            "step": 6,
+            "pdfPage": 8,
+            "sourceBounds": [
+              0.524,
+              0.19,
+              0.894,
+              0.408
+            ],
+            "sourceMethod": "600-DPI source illustration crop; original inset diagrams retained; no rembg"
+          },
+          {
+            "src": "/images/products/double-medical/m-link-all-inside/technique/step-06-02.webp",
+            "width": 1892,
+            "height": 1564,
+            "imageType": "scene",
+            "step": 6,
+            "pdfPage": 8,
+            "sourceBounds": [
+              0.524,
+              0.434,
+              0.894,
+              0.652
+            ],
+            "sourceMethod": "600-DPI source illustration crop; original inset diagrams retained; no rembg"
+          }
+        ],
+        "pdfPage": 8,
+        "sourceBounds": [
+          0.09,
+          0.17,
+          0.52,
+          0.91
+        ]
+      },
+      {
+        "id": "deploy-t2",
+        "title": {
+          "ru": "Установка второго импланта (T2)",
+          "en": "Deploy the second implant (T2)"
+        },
+        "text": {
+          "ru": "a. Медленно вращая иглу в обе стороны, выводят её из мениска, сохраняя кончик в поле зрения артроскопа. Точку введения второго импланта (T2) выбирают приблизительно на расстоянии 8–10 мм от T1. Доставляющую иглу продвигают до соприкосновения ограничителя глубины с поверхностью мениска. Удерживая иглу неподвижно, перемещают ползунок вперёд до упора для установки T2.\n\nb. Как и при установке T1, правильная установка T2 сопровождается щелчком. После установки T2 медленно извлекают доставляющую иглу из сустава.",
+          "en": "a. Slowly rotate the needle back and forth to withdraw it from the meniscus, keeping the needle in the arthroscopic field of view. The entry point for the second implant (T2) should be approximately 8–10 mm away from T1. Advance the delivery needle until the depth penetration limiter contacts the surface of the meniscus. Keeping the delivery needle in position, push the deployment slider all the way forward to deploy T2.\n\nb. As with T1, proper deployment of T2 is accompanied by a clicking sound. Slowly withdraw the delivery needle from the joint after deployment of T2."
+        },
+        "notes": [
+          {
+            "text": {
+              "ru": "Не нажимайте на ползунок установки импланта, пока игла полностью не пройдёт через мениск до предварительно установленного ограничения глубины: иначе имплант T2 будет установлен преждевременно.",
+              "en": "Do not push the deployment slider until the needle has fully penetrated through the meniscus to the preset depth limit or T2 will deploy prematurely."
+            }
+          }
+        ],
+        "sourcePages": [
+          9
+        ],
+        "images": [
+          {
+            "src": "/images/products/double-medical/m-link-all-inside/technique/step-07-01.webp",
+            "width": 1892,
+            "height": 1563,
+            "imageType": "scene",
+            "step": 7,
+            "pdfPage": 9,
+            "sourceBounds": [
+              0.545,
+              0.19,
+              0.915,
+              0.408
+            ],
+            "sourceMethod": "600-DPI source illustration crop; original inset diagrams retained; no rembg"
+          },
+          {
+            "src": "/images/products/double-medical/m-link-all-inside/technique/step-07-02.webp",
+            "width": 1892,
+            "height": 1564,
+            "imageType": "scene",
+            "step": 7,
+            "pdfPage": 9,
+            "sourceBounds": [
+              0.545,
+              0.434,
+              0.915,
+              0.652
+            ],
+            "sourceMethod": "600-DPI source illustration crop; original inset diagrams retained; no rembg"
+          },
+          {
+            "src": "/images/products/double-medical/m-link-all-inside/technique/step-07-03.webp",
+            "width": 1892,
+            "height": 1563,
+            "imageType": "scene",
+            "step": 7,
+            "pdfPage": 9,
+            "sourceBounds": [
+              0.545,
+              0.679,
+              0.915,
+              0.897
+            ],
+            "sourceMethod": "600-DPI source illustration crop; original inset diagrams retained; no rembg"
+          }
+        ],
+        "pdfPage": 9,
+        "sourceBounds": [
+          0.09,
+          0.17,
+          0.52,
+          0.91
+        ]
+      },
+      {
+        "id": "knot-and-suture",
+        "title": {
+          "ru": "Затягивание узла и завершение шва",
+          "en": "Knot and suture"
+        },
+        "text": {
+          "ru": "Доставляющую иглу извлекают из коленного сустава, выводя свободный конец нити наружу. Натяжением свободного конца нити продвигают скользящий узел и сближают края разрыва мениска.\n\nДля дополнительного затягивания узла и компрессии зоны разрыва свободный конец нити проводят через инструмент для продвижения узла и обрезания нити. Удерживая нить натянутой, осторожно продвигают инструмент к узлу. Рекомендуется сочетать натяжение нити с продвижением инструмента; узел затягивают до достижения необходимой компрессии в зоне разрыва. Оставшиеся концы нити обрезают.\n\nВ зависимости от размера разрыва устанавливают дополнительные импланты.",
+          "en": "Remove the delivery needle from the knee, pulling the free end of the suture out of the joint. The free end of the suture is pulled to advance the sliding knot and reduce the meniscal tear.\n\nTo further tighten the knot and further compress the tear site, thread the free end of the suture through the Knot Pusher/Suture Cutter. While holding the suture taut, gently slide the Knot Pusher/Suture Cutter to the knot. A manual suture pull/push maneuver is suggested, and the knot should be tightened until the desired amount of compression is generated at the tear site. Cut off the remaining sutures.\n\nAdd additional implants, depending on the size of the tear."
+        },
+        "notes": [
+          {
+            "text": {
+              "ru": "Накладывайте швы как с тибиальной, так и с бедренной стороны разрыва, чтобы уменьшить складчатую деформацию мениска.",
+              "en": "Place sutures on the tibial side of the tear as well as the femoral side of the tear to reduce puckering of the meniscus."
+            }
+          }
+        ],
+        "sourcePages": [
+          10
+        ],
+        "images": [
+          {
+            "src": "/images/products/double-medical/m-link-all-inside/technique/step-08-01.webp",
+            "width": 1892,
+            "height": 1563,
+            "imageType": "scene",
+            "step": 8,
+            "pdfPage": 10,
+            "sourceBounds": [
+              0.524,
+              0.19,
+              0.894,
+              0.408
+            ],
+            "sourceMethod": "600-DPI source illustration crop; original inset diagrams retained; no rembg"
+          },
+          {
+            "src": "/images/products/double-medical/m-link-all-inside/technique/step-08-02.webp",
+            "width": 1892,
+            "height": 1564,
+            "imageType": "scene",
+            "step": 8,
+            "pdfPage": 10,
+            "sourceBounds": [
+              0.524,
+              0.434,
+              0.894,
+              0.652
+            ],
+            "sourceMethod": "600-DPI source illustration crop; original inset diagrams retained; no rembg"
+          },
+          {
+            "src": "/images/products/double-medical/m-link-all-inside/technique/step-08-03.webp",
+            "width": 2127,
+            "height": 1756,
+            "imageType": "scene",
+            "step": 8,
+            "pdfPage": 10,
+            "sourceBounds": [
+              0.478,
+              0.652,
+              0.894,
+              0.897
+            ],
+            "sourceMethod": "600-DPI source illustration crop; original inset diagrams retained; no rembg"
+          }
+        ],
+        "pdfPage": 10,
+        "sourceBounds": [
+          0.09,
+          0.17,
+          0.52,
+          0.91
+        ]
+      }
+    ],
+    "footerNote": {
+      "ru": "Информация для медицинских специалистов. Не заменяет инструкцию по применению.",
+      "en": "For medical professionals. Does not replace the instructions for use."
+    }
+  },
+  "sourcePages": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "documentCover": "/catalogs/double-medical/m-link-all-inside/pages/001.webp",
+  "catalogTitle": {
+    "ru": "Double Medical M-Link All-Inside — каталог продукции",
+    "en": "Double Medical M-Link All-Inside Meniscal Repair System — Product Catalog"
+  },
+  "catalogEdition": null,
+  "isNew": true,
+  "status": "published",
+  "relatedSystemSlugs": [
+    "conmed/sequent-continuous-meniscus-suture-instrument-curved-4-and-7-charged-implants",
+    "conmed/knee-arthroscopy-meniscal-fixation-systems",
+    "conmed/knee-arthroscopy-meniscal-fixation-implants",
+    "knee-repair-and-reconstruction-system"
+  ],
+  "imageDimensions": {
+    "/images/products/double-medical/m-link-all-inside/technique/step-01-01.webp": {
+      "width": 1739,
+      "height": 1435
+    },
+    "/images/products/double-medical/m-link-all-inside/technique/step-03-01.webp": {
+      "width": 449,
+      "height": 370
+    },
+    "/images/products/double-medical/m-link-all-inside/technique/step-04-01.webp": {
+      "width": 1892,
+      "height": 1564
+    },
+    "/images/products/double-medical/m-link-all-inside/technique/step-04-02.webp": {
+      "width": 1892,
+      "height": 1563
+    },
+    "/images/products/double-medical/m-link-all-inside/technique/step-05-01.webp": {
+      "width": 1892,
+      "height": 1563
+    },
+    "/images/products/double-medical/m-link-all-inside/technique/step-05-02.webp": {
+      "width": 1892,
+      "height": 1564
+    },
+    "/images/products/double-medical/m-link-all-inside/technique/step-06-01.webp": {
+      "width": 1892,
+      "height": 1563
+    },
+    "/images/products/double-medical/m-link-all-inside/technique/step-06-02.webp": {
+      "width": 1892,
+      "height": 1564
+    },
+    "/images/products/double-medical/m-link-all-inside/technique/step-07-01.webp": {
+      "width": 1892,
+      "height": 1563
+    },
+    "/images/products/double-medical/m-link-all-inside/technique/step-07-02.webp": {
+      "width": 1892,
+      "height": 1564
+    },
+    "/images/products/double-medical/m-link-all-inside/technique/step-07-03.webp": {
+      "width": 1892,
+      "height": 1563
+    },
+    "/images/products/double-medical/m-link-all-inside/technique/step-08-01.webp": {
+      "width": 1892,
+      "height": 1563
+    },
+    "/images/products/double-medical/m-link-all-inside/technique/step-08-02.webp": {
+      "width": 1892,
+      "height": 1564
+    },
+    "/images/products/double-medical/m-link-all-inside/technique/step-08-03.webp": {
+      "width": 2127,
+      "height": 1756
+    },
+    "/images/products/double-medical/m-link-all-inside/implant-device.webp": {
+      "width": 172,
+      "height": 988
+    },
+    "/images/products/double-medical/m-link-all-inside/needle-detail.webp": {
+      "width": 432,
+      "height": 374
+    },
+    "/images/products/double-medical/m-link-all-inside/depth-probe.webp": {
+      "width": 960,
+      "height": 138
+    },
+    "/images/products/double-medical/m-link-all-inside/slotted-cannula.webp": {
+      "width": 749,
+      "height": 307
+    },
+    "/images/products/double-medical/m-link-all-inside/diamond-rasp.webp": {
+      "width": 987,
+      "height": 154
+    },
+    "/images/products/double-medical/m-link-all-inside/knot-pusher-cutter.webp": {
+      "width": 959,
+      "height": 142
+    },
+    "/images/products/double-medical/sports-medicine-catalogue/page-038-image-02.webp": {
+      "width": 906,
+      "height": 130
+    }
+  },
+  "sourcePdf": "/catalogs/double-medical/m-link-all-inside/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/m-link-all-inside/pages/004.webp",
+    "/catalogs/double-medical/m-link-all-inside/pages/005.webp",
+    "/catalogs/double-medical/m-link-all-inside/pages/006.webp",
+    "/catalogs/double-medical/m-link-all-inside/pages/007.webp",
+    "/catalogs/double-medical/m-link-all-inside/pages/008.webp",
+    "/catalogs/double-medical/m-link-all-inside/pages/009.webp",
+    "/catalogs/double-medical/m-link-all-inside/pages/010.webp",
+    "/catalogs/double-medical/m-link-all-inside/pages/011.webp",
+    "/catalogs/double-medical/m-link-all-inside/pages/012.webp"
+  ],
+  "sourcePageDimensions": {
+    "1": {
+      "width": 5111,
+      "height": 7166
+    },
+    "2": {
+      "width": 5111,
+      "height": 7166
+    },
+    "3": {
+      "width": 5111,
+      "height": 7166
+    },
+    "4": {
+      "width": 5111,
+      "height": 7166
+    },
+    "5": {
+      "width": 5111,
+      "height": 7166
+    },
+    "6": {
+      "width": 5111,
+      "height": 7166
+    },
+    "7": {
+      "width": 5111,
+      "height": 7166
+    },
+    "8": {
+      "width": 5111,
+      "height": 7166
+    },
+    "9": {
+      "width": 5111,
+      "height": 7166
+    },
+    "10": {
+      "width": 5111,
+      "height": 7166
+    },
+    "11": {
+      "width": 5111,
+      "height": 7166
+    },
+    "12": {
+      "width": 5111,
+      "height": 7166
+    },
+    "13": {
+      "width": 5111,
+      "height": 7166
+    },
+    "14": {
+      "width": 5111,
+      "height": 7166
+    },
+    "15": {
+      "width": 5111,
+      "height": 7166
+    },
+    "16": {
+      "width": 5111,
+      "height": 7166
+    }
+  },
+  "review": {
+    "sourceSha256": "6b24cb9ee730c706b5f8abc75bb1343ba97bc979333c3edb7c0b3e307d1bf4f0",
+    "importMethod": "600-DPI PSM3/PSM11 + independent Apple Vision + Codex visual source reading; professional RU translated by Codex",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      13,
+      14,
+      15,
+      16
+    ],
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "indications.ru",
+      "gallery.0.imageCaption.ru",
+      "gallery.1.imageCaption.ru",
+      "gallery.2.imageCaption.ru",
+      "features.0.title.ru",
+      "features.0.text.ru",
+      "features.1.title.ru",
+      "features.1.text.ru",
+      "features.2.title.ru",
+      "features.2.text.ru",
+      "features.3.title.ru",
+      "features.3.text.ru",
+      "referenceTables.0.title.ru",
+      "referenceTables.0.columns.0.ru",
+      "referenceTables.0.columns.1.ru",
+      "referenceTables.0.rows.0.0.ru",
+      "referenceTables.0.rows.1.0.ru",
+      "referenceTables.0.rows.2.0.ru",
+      "referenceTables.0.rowImages.0.imageCaption.ru",
+      "referenceTables.0.rowImages.1.imageCaption.ru",
+      "referenceTables.0.rowImages.2.imageCaption.ru",
+      "referenceTables.0.rowImageLabel.ru",
+      "referenceTables.1.title.ru",
+      "referenceTables.1.columns.0.ru",
+      "referenceTables.1.columns.1.ru",
+      "referenceTables.1.rows.0.0.ru",
+      "referenceTables.1.rows.1.0.ru",
+      "referenceTables.1.rows.2.0.ru",
+      "referenceTables.1.rows.3.0.ru",
+      "referenceTables.1.rowImages.0.imageCaption.ru",
+      "referenceTables.1.rowImages.1.imageCaption.ru",
+      "referenceTables.1.rowImages.2.imageCaption.ru",
+      "referenceTables.1.rowImages.3.imageCaption.ru",
+      "referenceTables.1.rowImageLabel.ru",
+      "referenceTables.2.title.ru",
+      "referenceTables.2.columns.0.ru",
+      "referenceTables.2.columns.1.ru",
+      "referenceTables.2.rows.0.0.ru",
+      "referenceTables.2.rows.1.0.ru",
+      "referenceTables.2.rowImages.1.imageCaption.ru",
+      "surgicalTechnique.steps.0.title.ru",
+      "surgicalTechnique.steps.0.text.ru",
+      "surgicalTechnique.steps.1.title.ru",
+      "surgicalTechnique.steps.1.text.ru",
+      "surgicalTechnique.steps.2.title.ru",
+      "surgicalTechnique.steps.2.text.ru",
+      "surgicalTechnique.steps.3.title.ru",
+      "surgicalTechnique.steps.3.text.ru",
+      "surgicalTechnique.steps.4.title.ru",
+      "surgicalTechnique.steps.4.text.ru",
+      "surgicalTechnique.steps.4.notes.0.text.ru",
+      "surgicalTechnique.steps.5.title.ru",
+      "surgicalTechnique.steps.5.text.ru",
+      "surgicalTechnique.steps.5.notes.0.text.ru",
+      "surgicalTechnique.steps.6.title.ru",
+      "surgicalTechnique.steps.6.text.ru",
+      "surgicalTechnique.steps.6.notes.0.text.ru",
+      "surgicalTechnique.steps.7.title.ru",
+      "surgicalTechnique.steps.7.text.ru",
+      "surgicalTechnique.steps.7.notes.0.text.ru",
+      "surgicalTechnique.footerNote.ru",
+      "catalogTitle.ru",
+      "catalogImports.0.catalogTitle.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Owner-authorized publication after 600-DPI source review, seven triple-verified REF codes and complete Codex RU/EN translations."
+  },
+  "publishedAt": "2026-11-19T18:15:17.734826+00:00",
+  "catalogImports": [
+    {
+      "sourceSha256": "0564b2ce17c049fc1e77ab714414dcbe4f74e00e785b2ae3e0895b169868e09e",
+      "sourcePdf": "/catalogs/double-medical/sports-medicine-catalogue/source.pdf",
+      "catalogTitle": {
+        "ru": "Double Medical — каталог спортивной медицины",
+        "en": "Double Medical — Sports Medicine Catalogue"
+      },
+      "sourcePages": [
+        10,
+        38
+      ],
+      "documentCover": "/catalogs/double-medical/sports-medicine-catalogue/pages/001.webp",
+      "review": {
+        "flags": [],
+        "status": "verified"
+      }
+    }
+  ]
+}

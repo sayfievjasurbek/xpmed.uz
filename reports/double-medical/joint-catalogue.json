@@ -1,0 +1,1328 @@
+{
+  "mergedIntoExisting": [
+    {
+      "slug": "pbg-proximal-bone-growth-cementless-stem",
+      "tablesAdded": 2,
+      "status": "published"
+    },
+    {
+      "slug": "anty-f-series",
+      "tablesAdded": 1,
+      "status": "published"
+    },
+    {
+      "slug": "cynthia-knee-system",
+      "tablesAdded": 10,
+      "status": "published"
+    },
+    {
+      "slug": "angel-shoulder-system",
+      "tablesAdded": 13,
+      "status": "published"
+    }
+  ],
+  "pdf": "catalogs-source/double-medical/joint-catalogue.pdf",
+  "sha256": "049dc47f4db1409b0ab7b002cc1e8beaaf86705c6ae23efac7eff3832b23e1e5",
+  "method": "600-DPI PSM3/PSM11 + independent Vision + Codex visual row checks; additive REF merges",
+  "systemsCreated": 44,
+  "systems": [
+    {
+      "slug": "tbg-cementless-hip-stem",
+      "name": {
+        "ru": "Бесцементная бедренная ножка TBG",
+        "en": "TBG Cementless Hip Stem"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        5
+      ],
+      "tables": 2,
+      "rows": 18,
+      "flags": []
+    },
+    {
+      "slug": "tbg-cemented-hip-stem",
+      "name": {
+        "ru": "Цементная бедренная ножка TBG",
+        "en": "TBG Cemented Hip Stem"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        6
+      ],
+      "tables": 1,
+      "rows": 7,
+      "flags": []
+    },
+    {
+      "slug": "centralizer",
+      "name": {
+        "ru": "Центратор бедренной ножки",
+        "en": "Centralizer"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        6
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "alter-cementless-hip-stem",
+      "name": {
+        "ru": "Бесцементная бедренная ножка Alter",
+        "en": "Alter Cementless Hip Stem"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        6
+      ],
+      "tables": 1,
+      "rows": 10,
+      "flags": []
+    },
+    {
+      "slug": "cpt-cemented-hip-stem",
+      "name": {
+        "ru": "Цементная бедренная ножка CPT",
+        "en": "CPT Cemented Hip Stem"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        7
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "cement-restrictor",
+      "name": {
+        "ru": "Ограничитель костного цемента",
+        "en": "Cement Restrictor"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        7
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "ddh-femoral-stem",
+      "name": {
+        "ru": "Бедренная ножка DDH",
+        "en": "DDH Femoral Stem"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        8
+      ],
+      "tables": 1,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "apollo-acetabular-cup",
+      "name": {
+        "ru": "Ацетабулярная чашка Apollo",
+        "en": "Apollo Acetabular Cup"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        9
+      ],
+      "tables": 2,
+      "rows": 20,
+      "flags": []
+    },
+    {
+      "slug": "anty-a-revision-acetabular-cup",
+      "name": {
+        "ru": "Ревизионная ацетабулярная чашка Anty A с множественными отверстиями",
+        "en": "Anty A Series Revision Acetabular Cup, Multi Screw Holes"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        10
+      ],
+      "tables": 1,
+      "rows": 11,
+      "flags": []
+    },
+    {
+      "slug": "apollo-acetabular-liner",
+      "name": {
+        "ru": "Ацетабулярный вкладыш Apollo",
+        "en": "Apollo Acetabular Liner"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        11
+      ],
+      "tables": 1,
+      "rows": 14,
+      "flags": []
+    },
+    {
+      "slug": "ceramic-acetabular-liner",
+      "name": {
+        "ru": "Керамический ацетабулярный вкладыш",
+        "en": "Ceramic Acetabular Liner"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        12
+      ],
+      "tables": 1,
+      "rows": 10,
+      "flags": []
+    },
+    {
+      "slug": "dmc-liner",
+      "name": {
+        "ru": "Металлический вкладыш DMC",
+        "en": "DMC Liner"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        12
+      ],
+      "tables": 1,
+      "rows": 7,
+      "flags": []
+    },
+    {
+      "slug": "dmc-insert",
+      "name": {
+        "ru": "Полиэтиленовый вкладыш DMC",
+        "en": "DMC Insert"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        12
+      ],
+      "tables": 1,
+      "rows": 7,
+      "flags": []
+    },
+    {
+      "slug": "amity-a-ve-acetabular-liner",
+      "name": {
+        "ru": "Ацетабулярный вкладыш Amity A с витамином E, 10°",
+        "en": "Amity A Series Acetabular Liner, 10 Degree, VE"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        13
+      ],
+      "tables": 1,
+      "rows": 35,
+      "flags": []
+    },
+    {
+      "slug": "femoral-head",
+      "name": {
+        "ru": "Металлическая головка бедренного компонента",
+        "en": "Femoral Head"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        14
+      ],
+      "tables": 1,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "ceramic-femoral-head",
+      "name": {
+        "ru": "Керамическая головка бедренного компонента",
+        "en": "Ceramic Femoral Head"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        14
+      ],
+      "tables": 1,
+      "rows": 11,
+      "flags": []
+    },
+    {
+      "slug": "bipolar-acetabular-cup",
+      "name": {
+        "ru": "Биполярная чашка",
+        "en": "Bipolar Acetabular Cup"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        15
+      ],
+      "tables": 1,
+      "rows": 11,
+      "flags": []
+    },
+    {
+      "slug": "bipolar-acetabular-liner",
+      "name": {
+        "ru": "Вкладыш биполярной чашки",
+        "en": "Bipolar Acetabular Liner"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        15
+      ],
+      "tables": 1,
+      "rows": 11,
+      "flags": []
+    },
+    {
+      "slug": "acetabular-bone-screw",
+      "name": {
+        "ru": "Костный винт для ацетабулярной чашки",
+        "en": "Acetabular Bone Screw"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        16
+      ],
+      "tables": 1,
+      "rows": 25,
+      "flags": []
+    },
+    {
+      "slug": "meniscal-bearing-component",
+      "name": {
+        "ru": "Мобильный менисковый вкладыш",
+        "en": "Meniscal Bearing Component"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        26,
+        27
+      ],
+      "tables": 2,
+      "rows": 70,
+      "flags": []
+    },
+    {
+      "slug": "hxlpe-meniscal-bearing",
+      "name": {
+        "ru": "Менисковый вкладыш из HXLPE",
+        "en": "HXLPE Meniscal Bearing"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        28,
+        29
+      ],
+      "tables": 2,
+      "rows": 70,
+      "flags": []
+    },
+    {
+      "slug": "medial-femoral-component",
+      "name": {
+        "ru": "Медиальный бедренный компонент",
+        "en": "Femoral Component, Medial"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        30
+      ],
+      "tables": 1,
+      "rows": 5,
+      "flags": []
+    },
+    {
+      "slug": "unicompartmental-tibial-component",
+      "name": {
+        "ru": "Тибиальный компонент для одномыщелкового эндопротезирования",
+        "en": "Tibial Component"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        31
+      ],
+      "tables": 1,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "radial-head",
+      "name": {
+        "ru": "Головка эндопротеза лучевой кости",
+        "en": "Radial Head"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        32
+      ],
+      "tables": 1,
+      "rows": 18,
+      "flags": []
+    },
+    {
+      "slug": "radial-stem",
+      "name": {
+        "ru": "Ножка эндопротеза лучевой кости",
+        "en": "Radial Stem"
+      },
+      "category": "joint-replacement",
+      "status": "published",
+      "sourcePages": [
+        33
+      ],
+      "tables": 1,
+      "rows": 18,
+      "flags": []
+    },
+    {
+      "slug": "hip-stem-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для бедренной ножки",
+        "en": "Hip Stem Instrument Set"
+      },
+      "category": "arthroplasty-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        40,
+        41,
+        42,
+        43
+      ],
+      "tables": 4,
+      "rows": 44,
+      "flags": []
+    },
+    {
+      "slug": "apollo-acetabular-cup-universal-instrument-set",
+      "name": {
+        "ru": "Универсальный набор инструментов для чашки Apollo",
+        "en": "Apollo Acetabular Cup Universal Instrument Set"
+      },
+      "category": "arthroplasty-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        44,
+        45,
+        46
+      ],
+      "tables": 3,
+      "rows": 51,
+      "flags": []
+    },
+    {
+      "slug": "apollo-ceramic-trial-liner-instrument-set",
+      "name": {
+        "ru": "Набор пробных керамических вкладышей Apollo",
+        "en": "Apollo Ceramic Trial Liner Instrument Set"
+      },
+      "category": "arthroplasty-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        47
+      ],
+      "tables": 1,
+      "rows": 10,
+      "flags": []
+    },
+    {
+      "slug": "apollo-trial-liner-instrument-set",
+      "name": {
+        "ru": "Набор пробных вкладышей Apollo",
+        "en": "Apollo Trial Liner Instrument Set"
+      },
+      "category": "arthroplasty-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        48
+      ],
+      "tables": 1,
+      "rows": 10,
+      "flags": []
+    },
+    {
+      "slug": "apollo-10-degree-trial-liner-instrument-set",
+      "name": {
+        "ru": "Набор пробных вкладышей Apollo 10°",
+        "en": "Apollo 10° Trial Liner Instrument Set"
+      },
+      "category": "arthroplasty-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        49
+      ],
+      "tables": 1,
+      "rows": 14,
+      "flags": []
+    },
+    {
+      "slug": "dual-mobility-cup-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для системы двойной мобильности",
+        "en": "Dual Mobility Cup System Instrument Set"
+      },
+      "category": "arthroplasty-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        50,
+        51
+      ],
+      "tables": 2,
+      "rows": 24,
+      "flags": []
+    },
+    {
+      "slug": "tbg-hip-stem-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для бедренной ножки TBG",
+        "en": "TBG Hip Stem Instrument Set"
+      },
+      "category": "arthroplasty-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        52
+      ],
+      "tables": 1,
+      "rows": 15,
+      "flags": []
+    },
+    {
+      "slug": "pbg-hip-stem-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для бедренной ножки PBG",
+        "en": "PBG Hip Stem Instrument Set"
+      },
+      "category": "arthroplasty-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        53
+      ],
+      "tables": 1,
+      "rows": 19,
+      "flags": []
+    },
+    {
+      "slug": "cemented-hip-stem-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для цементной бедренной ножки",
+        "en": "Cemented Hip Stem Instrument Set"
+      },
+      "category": "arthroplasty-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        54,
+        55
+      ],
+      "tables": 2,
+      "rows": 20,
+      "flags": []
+    },
+    {
+      "slug": "acetabular-trial-bipolar-cup-instrument-set",
+      "name": {
+        "ru": "Набор пробных биполярных чашек",
+        "en": "Acetabular Trial Bipolar Cup Instrument Set"
+      },
+      "category": "arthroplasty-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        56
+      ],
+      "tables": 1,
+      "rows": 14,
+      "flags": []
+    },
+    {
+      "slug": "accurate-ps-knee-instrument-set",
+      "name": {
+        "ru": "Набор инструментов Accurate PS для коленного сустава",
+        "en": "Accurate PS Knee Instrument Set"
+      },
+      "category": "arthroplasty-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66
+      ],
+      "tables": 10,
+      "rows": 124,
+      "flags": []
+    },
+    {
+      "slug": "accurate-cr-knee-instrument-set",
+      "name": {
+        "ru": "Набор инструментов Accurate CR для коленного сустава",
+        "en": "Accurate CR Knee Instrument Set"
+      },
+      "category": "arthroplasty-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        67,
+        68
+      ],
+      "tables": 2,
+      "rows": 38,
+      "flags": []
+    },
+    {
+      "slug": "accurate-patella-instrument-set",
+      "name": {
+        "ru": "Набор инструментов Accurate для надколенника",
+        "en": "Accurate Patella Instrument Set"
+      },
+      "category": "arthroplasty-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        69
+      ],
+      "tables": 1,
+      "rows": 15,
+      "flags": []
+    },
+    {
+      "slug": "accurate-unicompartmental-knee-instrument-set",
+      "name": {
+        "ru": "Набор инструментов Accurate для одномыщелкового эндопротезирования",
+        "en": "Accurate Unicompartmental Knee Instrument Set"
+      },
+      "category": "arthroplasty-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        70,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ],
+      "tables": 10,
+      "rows": 171,
+      "flags": []
+    },
+    {
+      "slug": "apollo-62-72-cup-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для чашки Apollo 62–72 мм",
+        "en": "Apollo Acetabular Cup (62–72 mm) Instrument Set"
+      },
+      "category": "arthroplasty-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        82,
+        83
+      ],
+      "tables": 2,
+      "rows": 17,
+      "flags": []
+    },
+    {
+      "slug": "universal-acetabular-cup-revision-instrument-set",
+      "name": {
+        "ru": "Универсальный набор для ревизии ацетабулярной чашки",
+        "en": "Universal Acetabular Cup Revision Instrument Set"
+      },
+      "category": "arthroplasty-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        84,
+        85
+      ],
+      "tables": 2,
+      "rows": 42,
+      "flags": []
+    },
+    {
+      "slug": "anty-f-revision-hip-stem-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для ревизионной ножки Anty F",
+        "en": "Anty F Revision Hip Stem Instrument Set"
+      },
+      "category": "arthroplasty-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        86,
+        87
+      ],
+      "tables": 2,
+      "rows": 41,
+      "flags": []
+    },
+    {
+      "slug": "hip-stem-revision-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для ревизии бедренной ножки",
+        "en": "Hip Stem Revision Instrument Set"
+      },
+      "category": "arthroplasty-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        88,
+        89,
+        90,
+        91
+      ],
+      "tables": 4,
+      "rows": 38,
+      "flags": []
+    },
+    {
+      "slug": "ddh-hip-stem-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для бедренной ножки DDH",
+        "en": "DDH Hip Stem Instrument Set"
+      },
+      "category": "arthroplasty-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        92,
+        93
+      ],
+      "tables": 2,
+      "rows": 26,
+      "flags": []
+    }
+  ],
+  "nonProductPages": [
+    1,
+    2,
+    3,
+    71,
+    81,
+    94,
+    95,
+    96
+  ],
+  "tablesCreated": 107,
+  "imagesExtracted": 300,
+  "uncertainties": [],
+  "translationWorkflow": "Codex-authored medical Russian; retained English; every translated field marked for medical review; no external adapter",
+  "newImplantSystems": 25,
+  "instrumentSets": 19,
+  "newSystemsPublished": 44,
+  "newSystemsDraft": 0,
+  "publishedSystems": [
+    "tbg-cementless-hip-stem",
+    "tbg-cemented-hip-stem",
+    "centralizer",
+    "alter-cementless-hip-stem",
+    "cpt-cemented-hip-stem",
+    "cement-restrictor",
+    "ddh-femoral-stem",
+    "apollo-acetabular-cup",
+    "anty-a-revision-acetabular-cup",
+    "apollo-acetabular-liner",
+    "ceramic-acetabular-liner",
+    "dmc-liner",
+    "dmc-insert",
+    "amity-a-ve-acetabular-liner",
+    "femoral-head",
+    "ceramic-femoral-head",
+    "bipolar-acetabular-cup",
+    "bipolar-acetabular-liner",
+    "acetabular-bone-screw",
+    "meniscal-bearing-component",
+    "hxlpe-meniscal-bearing",
+    "medial-femoral-component",
+    "unicompartmental-tibial-component",
+    "radial-head",
+    "radial-stem",
+    "hip-stem-instrument-set",
+    "apollo-acetabular-cup-universal-instrument-set",
+    "apollo-ceramic-trial-liner-instrument-set",
+    "apollo-trial-liner-instrument-set",
+    "apollo-10-degree-trial-liner-instrument-set",
+    "dual-mobility-cup-instrument-set",
+    "tbg-hip-stem-instrument-set",
+    "pbg-hip-stem-instrument-set",
+    "cemented-hip-stem-instrument-set",
+    "acetabular-trial-bipolar-cup-instrument-set",
+    "accurate-ps-knee-instrument-set",
+    "accurate-cr-knee-instrument-set",
+    "accurate-patella-instrument-set",
+    "accurate-unicompartmental-knee-instrument-set",
+    "apollo-62-72-cup-instrument-set",
+    "universal-acetabular-cup-revision-instrument-set",
+    "anty-f-revision-hip-stem-instrument-set",
+    "hip-stem-revision-instrument-set",
+    "ddh-hip-stem-instrument-set"
+  ],
+  "draftSystems": [],
+  "codesFound": 1580,
+  "codesVerified": 1580,
+  "uniqueCodes": 1578,
+  "orderingRows": 1555,
+  "sourcePatternExceptions": [
+    {
+      "system": "hxlpe-meniscal-bearing",
+      "sourcePages": [
+        28
+      ],
+      "codes": [
+        "13G601003S",
+        "13G601004S",
+        "13G601005S",
+        "13G601006S",
+        "13G601007S",
+        "13G601008S",
+        "13G601009S",
+        "13G602003S",
+        "13G602004S",
+        "13G602005S",
+        "13G602006S",
+        "13G602007S",
+        "13G602008S",
+        "13G602009S",
+        "13G611003S",
+        "13G611004S",
+        "13G611005S",
+        "13G611006S",
+        "13G611007S",
+        "13G611008S",
+        "13G611009S",
+        "13G612003S",
+        "13G612004S",
+        "13G612005S",
+        "13G612006S",
+        "13G612007S",
+        "13G612008S",
+        "13G612009S",
+        "13G621003S",
+        "13G621004S",
+        "13G621005S",
+        "13G621006S",
+        "13G621007S",
+        "13G621008S",
+        "13G621009S",
+        "13G622003S",
+        "13G622004S",
+        "13G622005S",
+        "13G622006S",
+        "13G622007S",
+        "13G622008S",
+        "13G622009S",
+        "13G631003S",
+        "13G631004S",
+        "13G631005S"
+      ],
+      "status": "resolved: letter prefix visually confirmed in source; table pattern consistent"
+    },
+    {
+      "system": "hxlpe-meniscal-bearing",
+      "sourcePages": [
+        29
+      ],
+      "codes": [
+        "13G631006S",
+        "13G631007S",
+        "13G631008S",
+        "13G631009S",
+        "13G632003S",
+        "13G632004S",
+        "13G632005S",
+        "13G632006S",
+        "13G632007S",
+        "13G632008S",
+        "13G632009S",
+        "13G641003S",
+        "13G641004S",
+        "13G641005S",
+        "13G641006S",
+        "13G641007S",
+        "13G641008S",
+        "13G641009S",
+        "13G642003S",
+        "13G642004S",
+        "13G642005S",
+        "13G642006S",
+        "13G642007S",
+        "13G642008S",
+        "13G642009S"
+      ],
+      "status": "resolved: letter prefix visually confirmed in source; table pattern consistent"
+    },
+    {
+      "system": "radial-head",
+      "sourcePages": [
+        32
+      ],
+      "codes": [
+        "13W051885S",
+        "13W070000S",
+        "13W080000S",
+        "13W090000S",
+        "13W032011S",
+        "13W100000S",
+        "13W110000S",
+        "13W120000S",
+        "13W130000S",
+        "13W140000S",
+        "13W150000S",
+        "13W160000S",
+        "13W170000S",
+        "13W180000S",
+        "13W190000S",
+        "13W200000S",
+        "13W210000S",
+        "13W012815S"
+      ],
+      "status": "resolved: letter prefix visually confirmed in source; table pattern consistent"
+    },
+    {
+      "system": "radial-stem",
+      "sourcePages": [
+        33
+      ],
+      "codes": [
+        "13W064520S",
+        "13W044520S",
+        "13W220000S",
+        "13W230000S",
+        "13W240000S",
+        "13W250000S",
+        "13W260000S",
+        "13W270000S",
+        "13W280000S",
+        "13W290000S",
+        "13W300000S",
+        "13W310000S",
+        "13W320000S",
+        "13W330000S",
+        "13W340000S",
+        "13W350000S",
+        "13W360000S",
+        "13W029525S"
+      ],
+      "status": "resolved: letter prefix visually confirmed in source; table pattern consistent"
+    },
+    {
+      "system": "angel-shoulder-system",
+      "sourcePages": [
+        34
+      ],
+      "codes": [
+        "13Y010001S",
+        "13Y010002S",
+        "13Y010003S",
+        "13Y010004S",
+        "13Y010005S",
+        "13Y010006S"
+      ],
+      "status": "resolved: letter prefix visually confirmed in source; table pattern consistent"
+    },
+    {
+      "system": "angel-shoulder-system",
+      "sourcePages": [
+        34
+      ],
+      "codes": [
+        "13Y130001S",
+        "13Y130002S",
+        "13Y130003S",
+        "13Y130004S",
+        "13Y130005S",
+        "13Y130006S"
+      ],
+      "status": "resolved: letter prefix visually confirmed in source; table pattern consistent"
+    },
+    {
+      "system": "angel-shoulder-system",
+      "sourcePages": [
+        35
+      ],
+      "codes": [
+        "13Y101001S",
+        "13Y101002S",
+        "13Y101003S"
+      ],
+      "status": "resolved: letter prefix visually confirmed in source; table pattern consistent"
+    },
+    {
+      "system": "angel-shoulder-system",
+      "sourcePages": [
+        35
+      ],
+      "codes": [
+        "13Y111001S"
+      ],
+      "status": "resolved: letter prefix visually confirmed in source; table pattern consistent"
+    },
+    {
+      "system": "angel-shoulder-system",
+      "sourcePages": [
+        36
+      ],
+      "codes": [
+        "13Y081000S",
+        "13Y081005S",
+        "13Y081010S",
+        "13Y081015S"
+      ],
+      "status": "resolved: letter prefix visually confirmed in source; table pattern consistent"
+    },
+    {
+      "system": "angel-shoulder-system",
+      "sourcePages": [
+        36
+      ],
+      "codes": [
+        "13Y100024S"
+      ],
+      "status": "resolved: letter prefix visually confirmed in source; table pattern consistent"
+    },
+    {
+      "system": "angel-shoulder-system",
+      "sourcePages": [
+        37
+      ],
+      "codes": [
+        "13Y081100S"
+      ],
+      "status": "resolved: letter prefix visually confirmed in source; table pattern consistent"
+    },
+    {
+      "system": "angel-shoulder-system",
+      "sourcePages": [
+        37
+      ],
+      "codes": [
+        "13Y051100S"
+      ],
+      "status": "resolved: letter prefix visually confirmed in source; table pattern consistent"
+    },
+    {
+      "system": "angel-shoulder-system",
+      "sourcePages": [
+        38
+      ],
+      "codes": [
+        "13Y051000S",
+        "13Y051015S",
+        "13Y051045S"
+      ],
+      "status": "resolved: letter prefix visually confirmed in source; table pattern consistent"
+    },
+    {
+      "system": "angel-shoulder-system",
+      "sourcePages": [
+        38
+      ],
+      "codes": [
+        "13Y061138S",
+        "13Y061141S",
+        "13Y061144S",
+        "13Y061147S",
+        "13Y061150S",
+        "13Y061153S",
+        "13Y061238S",
+        "13Y061241S",
+        "13Y061244S",
+        "13Y061247S",
+        "13Y061250S",
+        "13Y061253S",
+        "13Y061347S",
+        "13Y061350S",
+        "13Y061353S"
+      ],
+      "status": "resolved: letter prefix visually confirmed in source; table pattern consistent"
+    },
+    {
+      "system": "angel-shoulder-system",
+      "sourcePages": [
+        39
+      ],
+      "codes": [
+        "13Y110018S",
+        "13Y110022S",
+        "13Y110026S",
+        "13Y110030S",
+        "13Y110034S",
+        "13Y110038S",
+        "13Y110042S",
+        "13Y110046S"
+      ],
+      "status": "resolved: letter prefix visually confirmed in source; table pattern consistent"
+    },
+    {
+      "system": "angel-shoulder-system",
+      "sourcePages": [
+        39
+      ],
+      "codes": [
+        "13Y181001S",
+        "13Y181002S",
+        "13Y181003S",
+        "13Y181004S",
+        "13Y181005S",
+        "13Y181006S",
+        "13Y181007S"
+      ],
+      "status": "resolved: letter prefix visually confirmed in source; table pattern consistent"
+    },
+    {
+      "system": "angel-shoulder-system",
+      "sourcePages": [
+        39
+      ],
+      "codes": [
+        "13Y220080S",
+        "13Y220100S",
+        "13Y220120S",
+        "13Y220140S"
+      ],
+      "status": "resolved: letter prefix visually confirmed in source; table pattern consistent"
+    }
+  ],
+  "sourceCatalogCorrections": [
+    {
+      "system": "amity-a-ve-acetabular-liner",
+      "pages": [
+        13
+      ],
+      "correction": "p.13 Amity A Series Acetabular Liner: remove copied REF(Ti coating) header; material is UHMWPE.",
+      "resolution": "owner-confirmed"
+    },
+    {
+      "system": "accurate-ps-knee-instrument-set",
+      "pages": [
+        59
+      ],
+      "correction": "p.59 REF 11516140 has 8 digits, probably 115161400, confirm with Double Medical",
+      "resolution": "owner-confirmed: code withheld; excluded from request-by-code"
+    },
+    {
+      "system": "apollo-62-72-cup-instrument-set",
+      "pages": [
+        82
+      ],
+      "correction": "p.82 merge each two-line Apollo 10° Trial Liner item into one size row, retaining both printed REF codes in order; six sizes Ø62/36, Ø64/36, Ø66/36, Ø68/36, Ø70/36, Ø72/36. Two catalog numbers per size; confirm with sales.",
+      "resolution": "owner-confirmed",
+      "printedPairs": [
+        {
+          "size": "62/36",
+          "REFs": [
+            "113099200",
+            "113099300"
+          ]
+        },
+        {
+          "size": "64/36",
+          "REFs": [
+            "113099400",
+            "113099500"
+          ]
+        },
+        {
+          "size": "66/36",
+          "REFs": [
+            "113099600",
+            "113099700"
+          ]
+        },
+        {
+          "size": "68/36",
+          "REFs": [
+            "115091300",
+            "115662500"
+          ]
+        },
+        {
+          "size": "70/36",
+          "REFs": [
+            "115662600",
+            "115662700"
+          ]
+        },
+        {
+          "size": "72/36",
+          "REFs": [
+            "115662800",
+            "115662900"
+          ]
+        }
+      ]
+    },
+    {
+      "system": "angel-shoulder-system",
+      "pages": [
+        34
+      ],
+      "correction": "p.34 REF 13Y010001S: 107mm×6.7m → 107 mm × 6.7 mm",
+      "resolution": "owner-confirmed; matches Angel brochure"
+    },
+    {
+      "system": "angel-shoulder-system",
+      "pages": [
+        36
+      ],
+      "correction": "p.36 REF 13Y081015S: Reverse Humeral Stem Adapter Tray fourth row 5 → 15 mm",
+      "resolution": "owner-confirmed; matches Angel brochure"
+    }
+  ],
+  "brochureSizeMatches": 319,
+  "publicationNote": "All Joint Catalogue systems published after owner-confirmed source corrections; uncertain REF 11516140 is withheld from ordering. Original brochure tables remain unchanged.",
+  "randomSample": [
+    {
+      "system": "hxlpe-meniscal-bearing",
+      "pdfPage": 28,
+      "REF": "13G602008S",
+      "sizeDescription": "(RM) 0# 8mm"
+    },
+    {
+      "system": "cynthia-knee-system",
+      "pdfPage": 24,
+      "REF": "136200006S",
+      "sizeDescription": "16# 6mm"
+    },
+    {
+      "system": "accurate-cr-knee-instrument-set",
+      "pdfPage": 67,
+      "REF": "115152200",
+      "sizeDescription": "Cynthia CR Tibial Insert Trial, 13#"
+    },
+    {
+      "system": "radial-head",
+      "pdfPage": 32,
+      "REF": "13W080000S",
+      "sizeDescription": "18mm+4"
+    },
+    {
+      "system": "accurate-ps-knee-instrument-set",
+      "pdfPage": 64,
+      "REF": "115161700",
+      "sizeDescription": "Accurate Reference Guide"
+    },
+    {
+      "system": "amity-a-ve-acetabular-liner",
+      "pdfPage": 13,
+      "REF": "131233660S",
+      "sizeDescription": "60mm/36mm,10°"
+    },
+    {
+      "system": "accurate-ps-knee-instrument-set",
+      "pdfPage": 58,
+      "REF": "113922200",
+      "sizeDescription": "Cynthia A/P Chamfer Block, 12#"
+    },
+    {
+      "system": "hxlpe-meniscal-bearing",
+      "pdfPage": 28,
+      "REF": "13G601008S",
+      "sizeDescription": "(LM) 0# 8mm"
+    },
+    {
+      "system": "tbg-cementless-hip-stem",
+      "pdfPage": 5,
+      "REF": "130510006S",
+      "sizeDescription": "6 / 135"
+    },
+    {
+      "system": "bipolar-acetabular-cup",
+      "pdfPage": 15,
+      "REF": "130020050S",
+      "sizeDescription": "50"
+    },
+    {
+      "system": "accurate-ps-knee-instrument-set",
+      "pdfPage": 57,
+      "REF": "113921000",
+      "sizeDescription": "Cynthia PS Femoral Trial, 13#, left"
+    },
+    {
+      "system": "cynthia-knee-system",
+      "pdfPage": 23,
+      "REF": "136150014S",
+      "sizeDescription": "11# 14mm"
+    },
+    {
+      "system": "cynthia-knee-system",
+      "pdfPage": 24,
+      "REF": "136200009S",
+      "sizeDescription": "16# 9mm"
+    },
+    {
+      "system": "ddh-hip-stem-instrument-set",
+      "pdfPage": 92,
+      "REF": "116240600",
+      "sizeDescription": "Reamer, 6#"
+    },
+    {
+      "system": "tbg-cementless-hip-stem",
+      "pdfPage": 5,
+      "REF": "130520007S",
+      "sizeDescription": "7 / 140"
+    },
+    {
+      "system": "cynthia-knee-system",
+      "pdfPage": 21,
+      "REF": "136360009S",
+      "sizeDescription": "10 / 9"
+    },
+    {
+      "system": "apollo-acetabular-cup-universal-instrument-set",
+      "pdfPage": 45,
+      "REF": "111524205",
+      "sizeDescription": "Acetabular Reamer, 48"
+    },
+    {
+      "system": "apollo-acetabular-cup-universal-instrument-set",
+      "pdfPage": 44,
+      "REF": "111525800",
+      "sizeDescription": "Depth Gauge"
+    },
+    {
+      "system": "hip-stem-instrument-set",
+      "pdfPage": 40,
+      "REF": "115092900",
+      "sizeDescription": "Trial Head, 32+13"
+    },
+    {
+      "system": "cynthia-knee-system",
+      "pdfPage": 23,
+      "REF": "136180014S",
+      "sizeDescription": "14# 14mm"
+    }
+  ],
+  "withheldSourceCodes": [
+    "11516140"
+  ]
+}

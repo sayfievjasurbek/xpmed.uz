@@ -1,0 +1,62 @@
+{
+  "resolved": [
+    {
+      "code": "source-specification-conflict",
+      "path": "specTables.13.rows.4",
+      "pdfPage": 18,
+      "sourcePages": [
+        17,
+        18
+      ],
+      "readings": [
+        "SP082700.042 p17: Ø3.5 mm, WL300 mm",
+        "SP082700.042 p18: Ø2.0 mm, WL260 mm"
+      ],
+      "message": {
+        "ru": "SP082700.042: на стр. 17 указаны Ø3.5 мм / рабочая длина 300 мм; на стр. 18 — Ø2.0 мм / 260 мм. Подтвердите у производителя.",
+        "en": "SP082700.042: page 17 gives Ø3.5 mm / WL300 mm; page 18 gives Ø2.0 mm / WL260 mm. Manufacturer confirmation is required."
+      },
+      "sourceBounds": [
+        0.10741537859518685,
+        0.23709182249511582,
+        0.20289571512424184,
+        0.24546469439017582
+      ],
+      "coordinateSpace": "normalized"
+    },
+    {
+      "code": "source-specification-conflict",
+      "path": "specTables.13.rows.5",
+      "pdfPage": 18,
+      "sourcePages": [
+        17,
+        18
+      ],
+      "readings": [
+        "SP082700.092 p17: Ø3.5 mm, WL300 mm",
+        "SP082700.092 p18: Ø2.0 mm, WL260 mm"
+      ],
+      "message": {
+        "ru": "SP082700.092: на стр. 17 указаны Ø3.5 мм / рабочая длина 300 мм; на стр. 18 — Ø2.0 мм / 260 мм. Подтвердите у производителя.",
+        "en": "SP082700.092: page 17 gives Ø3.5 mm / WL300 mm; page 18 gives Ø2.0 mm / WL260 mm. Manufacturer confirmation is required."
+      },
+      "sourceBounds": [
+        0.3187243200939151,
+        0.23709182249511582,
+        0.41420465662297007,
+        0.2456042422550935
+      ],
+      "coordinateSpace": "normalized"
+    }
+  ],
+  "resolution": {
+    "id": "p18-duplicate-kerrison-codes",
+    "pdfPage": 18,
+    "printed": "SP082700.042 / SP082700.092",
+    "corrected": "— / —",
+    "code": "SP082700.042 / SP082700.092",
+    "internalNote": "p.18 duplicate codes SP082700.042/.092 for the Ø2.0 mm rotatable irrigation Kerrison, ask SPINENDOS for the correct codes",
+    "visibility": "internal-only",
+    "basis": "Explicit owner source-catalog review; page 17 BDsys assignments retained"
+  }
+}

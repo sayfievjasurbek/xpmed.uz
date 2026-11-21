@@ -1,0 +1,40 @@
+{
+  "pdfPage": 10,
+  "pageRow": 3,
+  "visualReading": "VC120NF",
+  "visualReader": "Codex independent inspection of 600-DPI source table images; source-line crops retained",
+  "ocrReadings": {
+    "600dpi-psm3": "VC120NF",
+    "600dpi-psm11": "VC120NF",
+    "600dpi-code-crop-psm7": "VC120NF",
+    "Apple-Vision-accurate": "VC120NF"
+  },
+  "matchedReaders": [
+    "600dpi-psm3",
+    "600dpi-psm11",
+    "600dpi-code-crop-psm7",
+    "Apple-Vision-accurate"
+  ],
+  "value": "VC120NF",
+  "verificationStatus": "verified (visual + OCR)",
+  "manufacturerStatus": "confirmed on conmed.com",
+  "officialEvidence": [
+    {
+      "url": "https://www.conmed.com/-/media/conmed/documents/catalog/advancedsurgical_catalog.ashx",
+      "code": "VC120NF"
+    }
+  ],
+  "sourceBounds": [
+    0.862453531598513,
+    0.21643873848730114,
+    0.9148894541185678,
+    0.22564889757186715
+  ],
+  "rowBounds": [
+    0.5289452320766902,
+    0.21122994652406418,
+    0.934,
+    0.22994652406417113
+  ],
+  "lineCrop": "reports/conmed/advanced-surgical-product-catalog/line-crops/010-03.png"
+}

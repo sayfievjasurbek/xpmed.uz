@@ -1,0 +1,1291 @@
+{
+  "schemaVersion": 1,
+  "slug": "arthroscopy-resection-consoles",
+  "brand": "conmed",
+  "category": "arthroscopy-resection",
+  "subcategory": "",
+  "subcategories": [],
+  "specialty": [
+    "orthopedics",
+    "sports"
+  ],
+  "name": {
+    "en": "Consoles",
+    "ru": "Консоли"
+  },
+  "shortDescription": {
+    "ru": "Решения CONMED: консоли.",
+    "en": "CONMED solutions for consoles."
+  },
+  "description": {
+    "ru": "Система CONMED «Консоли». В разделах ниже представлены изделия и принадлежности из каталога производителя; выберите позиции по наименованию и каталожному номеру.",
+    "en": "The CONMED Consoles range brings together the products and accessories listed in the manufacturer’s catalog. Browse the sections below and select items by description and catalog number."
+  },
+  "heroImage": "/images/products/conmed/arthroscopy/page-088-xref-1657.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "name": "page-088-xref-1657",
+      "pdfPage": 88,
+      "sourcePages": [
+        88
+      ],
+      "sourceBounds": [
+        0.08404454023989456,
+        0.14390410065331585,
+        0.37398740176319184,
+        0.23296351234963025
+      ],
+      "originalSize": [
+        762,
+        301
+      ],
+      "sourceRotation": 0.0,
+      "pdfImageXref": 1657,
+      "nativeSourceSize": [
+        762,
+        301
+      ],
+      "pdfAlphaMask": 0,
+      "sourceMethod": "Original embedded PDF image; vector captions excluded",
+      "src": "/images/products/conmed/arthroscopy/page-088-xref-1657.webp",
+      "width": 1423,
+      "height": 611,
+      "imageType": "cutout",
+      "captionFree": true,
+      "maskMethod": "rembg combined with source ink and manufacturer alpha where available",
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exactly 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          762,
+          301
+        ],
+        "enhancedSize": [
+          1524,
+          602
+        ]
+      }
+    },
+    {
+      "name": "page-088-xref-1660",
+      "pdfPage": 88,
+      "sourcePages": [
+        88
+      ],
+      "sourceBounds": [
+        0.08879329953460988,
+        0.2702092311440062,
+        0.37010057510444455,
+        0.36396284669741247
+      ],
+      "originalSize": [
+        739,
+        316
+      ],
+      "sourceRotation": 0.0,
+      "pdfImageXref": 1660,
+      "nativeSourceSize": [
+        739,
+        316
+      ],
+      "pdfAlphaMask": 0,
+      "sourceMethod": "Original embedded PDF image; vector captions excluded",
+      "src": "/images/products/conmed/arthroscopy/page-088-xref-1660.webp",
+      "width": 1385,
+      "height": 688,
+      "imageType": "cutout",
+      "captionFree": true,
+      "maskMethod": "rembg combined with source ink and manufacturer alpha where available",
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exactly 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          739,
+          316
+        ],
+        "enhancedSize": [
+          1478,
+          632
+        ]
+      }
+    }
+  ],
+  "features": [],
+  "components": [
+    {
+      "id": "page-088-group-01-row-1",
+      "name": {
+        "ru": "D4000 консоль",
+        "en": "D4000 Console"
+      },
+      "refCodes": [
+        "D4000"
+      ],
+      "image": "",
+      "showInGrid": false,
+      "groupId": "page-088-group-01-item-1",
+      "pdfPage": 88,
+      "sourceBounds": [
+        0.095,
+        0.15051744178779064,
+        0.9081670057534503,
+        0.17251744178779066
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "088-01-01-1",
+          "tableId": "page-088-group-01",
+          "row": 1,
+          "column": 2,
+          "pdfPage": 88,
+          "bounds": [
+            0.8452138507027614,
+            0.1584302326614847,
+            0.8981670057534503,
+            0.1686046509140966
+          ],
+          "coordinateSpace": "normalized",
+          "readings": [
+            {
+              "reader": "Tesseract-600dpi-PSM3",
+              "text": "(re D4000",
+              "confidence": 5.527859
+            },
+            {
+              "reader": "Tesseract-600dpi-PSM11",
+              "text": "D4000",
+              "confidence": 92.786484
+            },
+            {
+              "reader": "Apple-Vision-accurate",
+              "text": "....D4000",
+              "confidence": 1
+            }
+          ],
+          "candidate": "D4000",
+          "value": "D4000",
+          "verificationStatus": "verified (independent OCR readers)",
+          "officialEvidence": [
+            {
+              "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=114",
+              "code": "D4000",
+              "officialPdfPage": 114
+            }
+          ],
+          "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/088-01-01-1.png"
+        }
+      ]
+    },
+    {
+      "id": "page-088-group-01-row-2",
+      "name": {
+        "ru": "D4000A консоль с ирригация помпа",
+        "en": "D4000A Console with Irrigation Pump"
+      },
+      "refCodes": [
+        "D4000A"
+      ],
+      "image": "",
+      "showInGrid": false,
+      "groupId": "page-088-group-01-item-2",
+      "pdfPage": 88,
+      "sourceBounds": [
+        0.095,
+        0.28641860475688175,
+        0.9082232196164196,
+        0.30841860475688176
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "088-01-02-1",
+          "tableId": "page-088-group-01",
+          "row": 2,
+          "column": 2,
+          "pdfPage": 88,
+          "bounds": [
+            0.8451576344548045,
+            0.2934731904521485,
+            0.8982232196164196,
+            0.30536401906161503
+          ],
+          "coordinateSpace": "normalized",
+          "readings": [
+            {
+              "reader": "Tesseract-600dpi-PSM3",
+              "text": ".............c ceteteteeereterren D4000A",
+              "confidence": 0.0
+            },
+            {
+              "reader": "Tesseract-600dpi-PSM11",
+              "text": "eee D4000A",
+              "confidence": 20.68243
+            },
+            {
+              "reader": "Apple-Vision-accurate",
+              "text": "..D4000A",
+              "confidence": 1
+            }
+          ],
+          "candidate": "D4000A",
+          "value": "D4000A",
+          "verificationStatus": "verified (independent OCR readers)",
+          "officialEvidence": [
+            {
+              "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=114",
+              "code": "D4000A",
+              "officialPdfPage": 114
+            }
+          ],
+          "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/088-01-02-1.png"
+        }
+      ]
+    }
+  ],
+  "componentGroups": [
+    {
+      "id": "page-088-group-01-item-1",
+      "title": {
+        "ru": "D4000 консоль",
+        "en": "D4000 Console"
+      },
+      "name": {
+        "ru": "D4000 консоль",
+        "en": "D4000 Console"
+      },
+      "sourcePages": [
+        88
+      ],
+      "images": [],
+      "keyParameters": [
+        {
+          "parameter": {
+            "ru": "Высота",
+            "en": "Height"
+          },
+          "value": {
+            "ru": "5.6″ (14.2 см)",
+            "en": "5.6″ (14.2 cm)"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Ширина",
+            "en": "Width"
+          },
+          "value": {
+            "ru": "14″ (35.6 см)",
+            "en": "14″ (35.6 cm)"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Глубина",
+            "en": "Depth"
+          },
+          "value": {
+            "ru": "16.5″ (41.9 см)",
+            "en": "16.5″ (41.9 cm)"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Масса",
+            "en": "Weight"
+          },
+          "value": {
+            "ru": "14.5 фунта (6.35 кг)",
+            "en": "14.5 lbs (6.35 kg)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "page-088-group-01-item-2",
+      "title": {
+        "ru": "D4000A консоль с ирригация помпа",
+        "en": "D4000A Console with Irrigation Pump"
+      },
+      "name": {
+        "ru": "D4000A консоль с ирригация помпа",
+        "en": "D4000A Console with Irrigation Pump"
+      },
+      "sourcePages": [
+        88
+      ],
+      "images": [],
+      "keyParameters": [
+        {
+          "parameter": {
+            "ru": "Высота",
+            "en": "Height"
+          },
+          "value": {
+            "ru": "5.6″ (14.2 см)",
+            "en": "5.6″ (14.2 cm)"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Ширина",
+            "en": "Width"
+          },
+          "value": {
+            "ru": "14″ (35.6 см)",
+            "en": "14″ (35.6 cm)"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Глубина",
+            "en": "Depth"
+          },
+          "value": {
+            "ru": "16.5″ (41.9 см)",
+            "en": "16.5″ (41.9 cm)"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Масса",
+            "en": "Weight"
+          },
+          "value": {
+            "ru": "14.5 фунта (6.35 кг)",
+            "en": "14.5 lbs (6.35 kg)"
+          }
+        }
+      ]
+    }
+  ],
+  "specTables": [
+    {
+      "id": "page-088-group-01-item-1",
+      "groupId": "page-088-group-01-item-1",
+      "title": {
+        "ru": "D4000 консоль",
+        "en": "D4000 Console"
+      },
+      "unit": null,
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "Кат. №",
+          "en": "Cat. No."
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "D4000 консоль",
+            "en": "D4000 Console"
+          },
+          "D4000"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 88,
+          "bounds": [
+            0.095,
+            0.15051744178779064,
+            0.9081670057534503,
+            0.17251744178779066
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "088-01-01-1",
+              "tableId": "page-088-group-01",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 88,
+              "bounds": [
+                0.8452138507027614,
+                0.1584302326614847,
+                0.8981670057534503,
+                0.1686046509140966
+              ],
+              "coordinateSpace": "normalized",
+              "readings": [
+                {
+                  "reader": "Tesseract-600dpi-PSM3",
+                  "text": "(re D4000",
+                  "confidence": 5.527859
+                },
+                {
+                  "reader": "Tesseract-600dpi-PSM11",
+                  "text": "D4000",
+                  "confidence": 92.786484
+                },
+                {
+                  "reader": "Apple-Vision-accurate",
+                  "text": "....D4000",
+                  "confidence": 1
+                }
+              ],
+              "candidate": "D4000",
+              "value": "D4000",
+              "verificationStatus": "verified (independent OCR readers)",
+              "officialEvidence": [
+                {
+                  "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=114",
+                  "code": "D4000",
+                  "officialPdfPage": 114
+                }
+              ],
+              "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/088-01-01-1.png"
+            }
+          ]
+        }
+      ],
+      "cellNotes": [],
+      "sourcePages": [
+        88
+      ],
+      "images": [],
+      "keyParameters": [
+        {
+          "parameter": {
+            "ru": "Высота",
+            "en": "Height"
+          },
+          "value": {
+            "ru": "5.6″ (14.2 см)",
+            "en": "5.6″ (14.2 cm)"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Ширина",
+            "en": "Width"
+          },
+          "value": {
+            "ru": "14″ (35.6 см)",
+            "en": "14″ (35.6 cm)"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Глубина",
+            "en": "Depth"
+          },
+          "value": {
+            "ru": "16.5″ (41.9 см)",
+            "en": "16.5″ (41.9 cm)"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Масса",
+            "en": "Weight"
+          },
+          "value": {
+            "ru": "14.5 фунта (6.35 кг)",
+            "en": "14.5 lbs (6.35 kg)"
+          }
+        }
+      ],
+      "description": {
+        "ru": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "page-088-group-01-item-2",
+      "groupId": "page-088-group-01-item-2",
+      "title": {
+        "ru": "D4000A консоль с ирригация помпа",
+        "en": "D4000A Console with Irrigation Pump"
+      },
+      "unit": null,
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "Кат. №",
+          "en": "Cat. No."
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "D4000A консоль с ирригация помпа",
+            "en": "D4000A Console with Irrigation Pump"
+          },
+          "D4000A"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 88,
+          "bounds": [
+            0.095,
+            0.28641860475688175,
+            0.9082232196164196,
+            0.30841860475688176
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "088-01-02-1",
+              "tableId": "page-088-group-01",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 88,
+              "bounds": [
+                0.8451576344548045,
+                0.2934731904521485,
+                0.8982232196164196,
+                0.30536401906161503
+              ],
+              "coordinateSpace": "normalized",
+              "readings": [
+                {
+                  "reader": "Tesseract-600dpi-PSM3",
+                  "text": ".............c ceteteteeereterren D4000A",
+                  "confidence": 0.0
+                },
+                {
+                  "reader": "Tesseract-600dpi-PSM11",
+                  "text": "eee D4000A",
+                  "confidence": 20.68243
+                },
+                {
+                  "reader": "Apple-Vision-accurate",
+                  "text": "..D4000A",
+                  "confidence": 1
+                }
+              ],
+              "candidate": "D4000A",
+              "value": "D4000A",
+              "verificationStatus": "verified (independent OCR readers)",
+              "officialEvidence": [
+                {
+                  "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=114",
+                  "code": "D4000A",
+                  "officialPdfPage": 114
+                }
+              ],
+              "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/088-01-02-1.png"
+            }
+          ]
+        }
+      ],
+      "cellNotes": [],
+      "sourcePages": [
+        88
+      ],
+      "images": [],
+      "keyParameters": [
+        {
+          "parameter": {
+            "ru": "Высота",
+            "en": "Height"
+          },
+          "value": {
+            "ru": "5.6″ (14.2 см)",
+            "en": "5.6″ (14.2 cm)"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Ширина",
+            "en": "Width"
+          },
+          "value": {
+            "ru": "14″ (35.6 см)",
+            "en": "14″ (35.6 cm)"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Глубина",
+            "en": "Depth"
+          },
+          "value": {
+            "ru": "16.5″ (41.9 см)",
+            "en": "16.5″ (41.9 cm)"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Масса",
+            "en": "Weight"
+          },
+          "value": {
+            "ru": "14.5 фунта (6.35 кг)",
+            "en": "14.5 lbs (6.35 kg)"
+          }
+        }
+      ],
+      "description": {
+        "ru": "",
+        "en": ""
+      }
+    }
+  ],
+  "refCodes": [
+    "D4000",
+    "D4000A"
+  ],
+  "sourcePages": [
+    88
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "CONMED Arthroscopy Product Catalog — каталог продукции",
+    "en": "CONMED Arthroscopy Product Catalog"
+  },
+  "isNew": false,
+  "status": "published",
+  "catalogType": "list",
+  "layout": "list",
+  "availabilityNote": {
+    "ru": "Не вся продукция может быть доступна на всех рынках.",
+    "en": "All products may not be available in all markets."
+  },
+  "imageDimensions": {
+    "/images/products/conmed/arthroscopy/page-088-xref-1657.webp": {
+      "width": 1423,
+      "height": 611
+    },
+    "/images/products/conmed/arthroscopy/page-088-xref-1660.webp": {
+      "width": 1385,
+      "height": 688
+    }
+  },
+  "heroImageMeta": {
+    "name": "page-088-xref-1657",
+    "pdfPage": 88,
+    "sourcePages": [
+      88
+    ],
+    "sourceBounds": [
+      0.08404454023989456,
+      0.14390410065331585,
+      0.37398740176319184,
+      0.23296351234963025
+    ],
+    "originalSize": [
+      762,
+      301
+    ],
+    "sourceRotation": 0.0,
+    "pdfImageXref": 1657,
+    "nativeSourceSize": [
+      762,
+      301
+    ],
+    "pdfAlphaMask": 0,
+    "sourceMethod": "Original embedded PDF image; vector captions excluded",
+    "src": "/images/products/conmed/arthroscopy/page-088-xref-1657.webp",
+    "width": 1423,
+    "height": 611,
+    "imageType": "cutout",
+    "captionFree": true,
+    "maskMethod": "rembg combined with source ink and manufacturer alpha where available",
+    "imageEnhancement": {
+      "method": "Real-ESRGAN x4plus downsampled to exactly 2x before rembg",
+      "scale": 2,
+      "originalSize": [
+        762,
+        301
+      ],
+      "enhancedSize": [
+        1524,
+        602
+      ]
+    }
+  },
+  "relatedSystemSlugs": [],
+  "imageAssignmentReview": [
+    {
+      "asset": "page-088-xref-1657",
+      "sourcePages": [
+        88
+      ],
+      "captionFromSource": null,
+      "groupId": "page-088-group-01",
+      "unassignedPlacement": null
+    },
+    {
+      "asset": "page-088-xref-1660",
+      "sourcePages": [
+        88
+      ],
+      "captionFromSource": null,
+      "groupId": "page-088-group-01",
+      "unassignedPlacement": null
+    }
+  ],
+  "sourcePdf": "/catalogs/conmed/arthroscopy-product-catalog/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/conmed/arthroscopy-product-catalog/pages/088.webp"
+  ],
+  "sourcePageDimensions": {
+    "1": {
+      "width": 5111,
+      "height": 7166
+    },
+    "2": {
+      "width": 5111,
+      "height": 7166
+    },
+    "3": {
+      "width": 5111,
+      "height": 7166
+    },
+    "4": {
+      "width": 5111,
+      "height": 7166
+    },
+    "5": {
+      "width": 5111,
+      "height": 7166
+    },
+    "6": {
+      "width": 5111,
+      "height": 7166
+    },
+    "7": {
+      "width": 5111,
+      "height": 7166
+    },
+    "8": {
+      "width": 5111,
+      "height": 7166
+    },
+    "9": {
+      "width": 5111,
+      "height": 7166
+    },
+    "10": {
+      "width": 5111,
+      "height": 7166
+    },
+    "11": {
+      "width": 5111,
+      "height": 7166
+    },
+    "12": {
+      "width": 5111,
+      "height": 7166
+    },
+    "13": {
+      "width": 5111,
+      "height": 7166
+    },
+    "14": {
+      "width": 5111,
+      "height": 7166
+    },
+    "15": {
+      "width": 5111,
+      "height": 7166
+    },
+    "16": {
+      "width": 5111,
+      "height": 7166
+    },
+    "17": {
+      "width": 5111,
+      "height": 7166
+    },
+    "18": {
+      "width": 5111,
+      "height": 7166
+    },
+    "19": {
+      "width": 5111,
+      "height": 7166
+    },
+    "20": {
+      "width": 5111,
+      "height": 7166
+    },
+    "21": {
+      "width": 5111,
+      "height": 7166
+    },
+    "22": {
+      "width": 5111,
+      "height": 7166
+    },
+    "23": {
+      "width": 5111,
+      "height": 7166
+    },
+    "24": {
+      "width": 5111,
+      "height": 7166
+    },
+    "25": {
+      "width": 5111,
+      "height": 7166
+    },
+    "26": {
+      "width": 5111,
+      "height": 7166
+    },
+    "27": {
+      "width": 5111,
+      "height": 7166
+    },
+    "28": {
+      "width": 5111,
+      "height": 7166
+    },
+    "29": {
+      "width": 5111,
+      "height": 7166
+    },
+    "30": {
+      "width": 5111,
+      "height": 7166
+    },
+    "31": {
+      "width": 5111,
+      "height": 7166
+    },
+    "32": {
+      "width": 5111,
+      "height": 7166
+    },
+    "33": {
+      "width": 5111,
+      "height": 7166
+    },
+    "34": {
+      "width": 5111,
+      "height": 7166
+    },
+    "35": {
+      "width": 5111,
+      "height": 7166
+    },
+    "36": {
+      "width": 5111,
+      "height": 7166
+    },
+    "37": {
+      "width": 5111,
+      "height": 7166
+    },
+    "38": {
+      "width": 5111,
+      "height": 7166
+    },
+    "39": {
+      "width": 5111,
+      "height": 7166
+    },
+    "40": {
+      "width": 5111,
+      "height": 7166
+    },
+    "41": {
+      "width": 5111,
+      "height": 7166
+    },
+    "42": {
+      "width": 5111,
+      "height": 7166
+    },
+    "43": {
+      "width": 5111,
+      "height": 7166
+    },
+    "44": {
+      "width": 5111,
+      "height": 7166
+    },
+    "45": {
+      "width": 5111,
+      "height": 7166
+    },
+    "46": {
+      "width": 5111,
+      "height": 7166
+    },
+    "47": {
+      "width": 5111,
+      "height": 7166
+    },
+    "48": {
+      "width": 5111,
+      "height": 7166
+    },
+    "49": {
+      "width": 5111,
+      "height": 7166
+    },
+    "50": {
+      "width": 5111,
+      "height": 7166
+    },
+    "51": {
+      "width": 5111,
+      "height": 7166
+    },
+    "52": {
+      "width": 5111,
+      "height": 7166
+    },
+    "53": {
+      "width": 5111,
+      "height": 7166
+    },
+    "54": {
+      "width": 5111,
+      "height": 7166
+    },
+    "55": {
+      "width": 5111,
+      "height": 7166
+    },
+    "56": {
+      "width": 5111,
+      "height": 7166
+    },
+    "57": {
+      "width": 5111,
+      "height": 7166
+    },
+    "58": {
+      "width": 5111,
+      "height": 7166
+    },
+    "59": {
+      "width": 5111,
+      "height": 7166
+    },
+    "60": {
+      "width": 5111,
+      "height": 7166
+    },
+    "61": {
+      "width": 5111,
+      "height": 7166
+    },
+    "62": {
+      "width": 5111,
+      "height": 7166
+    },
+    "63": {
+      "width": 5111,
+      "height": 7166
+    },
+    "64": {
+      "width": 5111,
+      "height": 7166
+    },
+    "65": {
+      "width": 5111,
+      "height": 7166
+    },
+    "66": {
+      "width": 5111,
+      "height": 7166
+    },
+    "67": {
+      "width": 5111,
+      "height": 7166
+    },
+    "68": {
+      "width": 5111,
+      "height": 7166
+    },
+    "69": {
+      "width": 5111,
+      "height": 7166
+    },
+    "70": {
+      "width": 5111,
+      "height": 7166
+    },
+    "71": {
+      "width": 5111,
+      "height": 7166
+    },
+    "72": {
+      "width": 5111,
+      "height": 7166
+    },
+    "73": {
+      "width": 5111,
+      "height": 7166
+    },
+    "74": {
+      "width": 5111,
+      "height": 7166
+    },
+    "75": {
+      "width": 5111,
+      "height": 7166
+    },
+    "76": {
+      "width": 5111,
+      "height": 7166
+    },
+    "77": {
+      "width": 5111,
+      "height": 7166
+    },
+    "78": {
+      "width": 5111,
+      "height": 7166
+    },
+    "79": {
+      "width": 5111,
+      "height": 7166
+    },
+    "80": {
+      "width": 5111,
+      "height": 7166
+    },
+    "81": {
+      "width": 5111,
+      "height": 7166
+    },
+    "82": {
+      "width": 5111,
+      "height": 7166
+    },
+    "83": {
+      "width": 5111,
+      "height": 7166
+    },
+    "84": {
+      "width": 5111,
+      "height": 7166
+    },
+    "85": {
+      "width": 5111,
+      "height": 7166
+    },
+    "86": {
+      "width": 5111,
+      "height": 7166
+    },
+    "87": {
+      "width": 5111,
+      "height": 7166
+    },
+    "88": {
+      "width": 5111,
+      "height": 7166
+    },
+    "89": {
+      "width": 5111,
+      "height": 7166
+    },
+    "90": {
+      "width": 5111,
+      "height": 7166
+    },
+    "91": {
+      "width": 5111,
+      "height": 7166
+    },
+    "92": {
+      "width": 5111,
+      "height": 7166
+    },
+    "93": {
+      "width": 5111,
+      "height": 7166
+    },
+    "94": {
+      "width": 5111,
+      "height": 7166
+    },
+    "95": {
+      "width": 5111,
+      "height": 7166
+    },
+    "96": {
+      "width": 5111,
+      "height": 7166
+    },
+    "97": {
+      "width": 5111,
+      "height": 7166
+    },
+    "98": {
+      "width": 5111,
+      "height": 7166
+    },
+    "99": {
+      "width": 5111,
+      "height": 7166
+    },
+    "100": {
+      "width": 5111,
+      "height": 7166
+    },
+    "101": {
+      "width": 5111,
+      "height": 7166
+    },
+    "102": {
+      "width": 5111,
+      "height": 7166
+    },
+    "103": {
+      "width": 5111,
+      "height": 7166
+    },
+    "104": {
+      "width": 5111,
+      "height": 7166
+    },
+    "105": {
+      "width": 5111,
+      "height": 7166
+    },
+    "106": {
+      "width": 5111,
+      "height": 7166
+    },
+    "107": {
+      "width": 5111,
+      "height": 7166
+    },
+    "108": {
+      "width": 5111,
+      "height": 7166
+    },
+    "109": {
+      "width": 5111,
+      "height": 7166
+    },
+    "110": {
+      "width": 5111,
+      "height": 7166
+    },
+    "111": {
+      "width": 5111,
+      "height": 7166
+    },
+    "112": {
+      "width": 5111,
+      "height": 7166
+    },
+    "113": {
+      "width": 5111,
+      "height": 7166
+    },
+    "114": {
+      "width": 5111,
+      "height": 7166
+    },
+    "115": {
+      "width": 5111,
+      "height": 7166
+    },
+    "116": {
+      "width": 5111,
+      "height": 7166
+    }
+  },
+  "review": {
+    "sourceSha256": "8d03674812d7683eeb3b6b544a19febc832db2440e56e7f933677f4cee80ffe6",
+    "importMethod": "600-DPI dual Tesseract + independent Apple Vision, supplied-source visual crops, official CONMED exact-code corroboration; Codex medical RU; native images enhanced with Real-ESRGAN 2x before rembg",
+    "flags": [],
+    "status": "published-source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      28,
+      51,
+      60,
+      68,
+      87,
+      105,
+      110,
+      113,
+      114,
+      115,
+      116
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "components.0.name.ru",
+      "components.1.name.ru",
+      "componentGroups.0.title.ru",
+      "componentGroups.0.name.ru",
+      "componentGroups.0.keyParameters.0.parameter.ru",
+      "componentGroups.0.keyParameters.0.value.ru",
+      "componentGroups.0.keyParameters.1.parameter.ru",
+      "componentGroups.0.keyParameters.1.value.ru",
+      "componentGroups.0.keyParameters.2.parameter.ru",
+      "componentGroups.0.keyParameters.2.value.ru",
+      "componentGroups.0.keyParameters.3.parameter.ru",
+      "componentGroups.0.keyParameters.3.value.ru",
+      "componentGroups.1.title.ru",
+      "componentGroups.1.name.ru",
+      "componentGroups.1.keyParameters.0.parameter.ru",
+      "componentGroups.1.keyParameters.0.value.ru",
+      "componentGroups.1.keyParameters.1.parameter.ru",
+      "componentGroups.1.keyParameters.1.value.ru",
+      "componentGroups.1.keyParameters.2.parameter.ru",
+      "componentGroups.1.keyParameters.2.value.ru",
+      "componentGroups.1.keyParameters.3.parameter.ru",
+      "componentGroups.1.keyParameters.3.value.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.keyParameters.0.parameter.ru",
+      "specTables.0.keyParameters.0.value.ru",
+      "specTables.0.keyParameters.1.parameter.ru",
+      "specTables.0.keyParameters.1.value.ru",
+      "specTables.0.keyParameters.2.parameter.ru",
+      "specTables.0.keyParameters.2.value.ru",
+      "specTables.0.keyParameters.3.parameter.ru",
+      "specTables.0.keyParameters.3.value.ru",
+      "specTables.1.title.ru",
+      "specTables.1.columns.0.ru",
+      "specTables.1.columns.1.ru",
+      "specTables.1.rows.0.0.ru",
+      "specTables.1.keyParameters.0.parameter.ru",
+      "specTables.1.keyParameters.0.value.ru",
+      "specTables.1.keyParameters.1.parameter.ru",
+      "specTables.1.keyParameters.1.value.ru",
+      "specTables.1.keyParameters.2.parameter.ru",
+      "specTables.1.keyParameters.2.value.ru",
+      "specTables.1.keyParameters.3.parameter.ru",
+      "specTables.1.keyParameters.3.value.ru",
+      "catalogTitle.ru",
+      "availabilityNote.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publishedAt": "2026-11-19T07:00:30.578029+00:00",
+    "publicationReason": "User authorized automatic publication of systems with zero real flags."
+  },
+  "documentCover": "/catalogs/conmed/arthroscopy-product-catalog/pages/001.webp"
+}

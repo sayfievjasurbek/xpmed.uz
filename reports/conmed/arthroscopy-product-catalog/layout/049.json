@@ -1,0 +1,409 @@
+{
+  "pdfPage": 49,
+  "officialPage": 69,
+  "alignment": [
+    [
+      0.9702768086188055,
+      0.0009452594370706731,
+      0.014602381581167783
+    ],
+    [
+      0.00022534975639224836,
+      0.9783207466414116,
+      0.010978625775722407
+    ]
+  ],
+  "alignmentMatches": 25,
+  "alignmentInliers": 24,
+  "category": "knee-arthroscopy",
+  "title": {
+    "en": "Sterilization Trays",
+    "ru": "Лотки для стерилизации"
+  },
+  "groups": [
+    {
+      "title": "Sterilization Container",
+      "page": 49,
+      "officialPage": 69,
+      "headingBounds": [
+        0.10159213191862415,
+        0.2548253240472075,
+        0.27023162662422073,
+        0.26960105260444145
+      ],
+      "rows": [
+        {
+          "description": "CONMED Sterilization Container, ¾ size, 8 inch height",
+          "codes": [
+            {
+              "candidate": "INST-C348",
+              "sourceBounds": [
+                0.5123497903885811,
+                0.2869224253183985,
+                0.5677534080597383,
+                0.299508936262573
+              ],
+              "officialBounds": [
+                313.7850036621094,
+                223.29689025878906,
+                348.7230529785156,
+                233.47589111328125
+              ],
+              "officialCode": "INST-C348"
+            }
+          ],
+          "rowBounds": [
+            0.10162305216362896,
+            0.2868270327772385,
+            0.5677534080597383,
+            0.299508936262573
+          ],
+          "pdfPage": 49,
+          "officialPage": 69
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Sterilization Trays",
+      "page": 49,
+      "officialPage": 69,
+      "headingBounds": [
+        0.1016553879163069,
+        0.32029375785023123,
+        0.23625589721223872,
+        0.3350615807489956
+      ],
+      "rows": [
+        {
+          "description": "ACL Femoral Instruments Insert Tray",
+          "codes": [
+            {
+              "candidate": "INST-ACL01",
+              "sourceBounds": [
+                0.5060372249491359,
+                0.34003686525800714,
+                0.5678047289635186,
+                0.35262483538578104
+              ],
+              "officialBounds": [
+                309.77099609375,
+                266.2969055175781,
+                348.7230529785156,
+                276.47589111328125
+              ],
+              "officialCode": "INST-ACL01"
+            }
+          ],
+          "rowBounds": [
+            0.10167437308562083,
+            0.3399429507489185,
+            0.5678047289635186,
+            0.35262483538578104
+          ],
+          "pdfPage": 49,
+          "officialPage": 69
+        },
+        {
+          "description": "ACL Tibial Instruments Insert Tray",
+          "codes": [
+            {
+              "candidate": "INST-ACL02",
+              "sourceBounds": [
+                0.506054529633335,
+                0.35794679654458106,
+                0.5678220336477176,
+                0.3705347666723549
+              ],
+              "officialBounds": [
+                309.77099609375,
+                280.7958984375,
+                348.7230529785156,
+                290.9748840332031
+              ],
+              "officialCode": "INST-ACL02"
+            }
+          ],
+          "rowBounds": [
+            0.1016916535782362,
+            0.35785288202987386,
+            0.5678220336477176,
+            0.3705347666723549
+          ],
+          "pdfPage": 49,
+          "officialPage": 69
+        },
+        {
+          "description": "ACL Accessories Instruments Insert Tray",
+          "codes": [
+            {
+              "candidate": "INST-ACL03",
+              "sourceBounds": [
+                0.5060718343175339,
+                0.3758567278311549,
+                0.5678393383319166,
+                0.3884446979589287
+              ],
+              "officialBounds": [
+                309.77099609375,
+                295.2948913574219,
+                348.7230529785156,
+                305.473876953125
+              ],
+              "officialCode": "INST-ACL03"
+            }
+          ],
+          "rowBounds": [
+            0.10170895826243516,
+            0.37576281331644773,
+            0.5678393383319166,
+            0.3884446979589287
+          ],
+          "pdfPage": 49,
+          "officialPage": 69
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Accessories",
+      "page": 49,
+      "officialPage": 69,
+      "headingBounds": [
+        0.10174430436587985,
+        0.4123201412148589,
+        0.19450559080684382,
+        0.4270782468261501
+      ],
+      "rows": [
+        {
+          "description": "Aesculap Single Use Filter (US Only), qty 1000",
+          "codes": [
+            {
+              "candidate": "US994",
+              "sourceBounds": [
+                0.5333509625016407,
+                0.4320695716706031,
+                0.5678935970299243,
+                0.44465121873917157
+              ],
+              "officialBounds": [
+                326.9429931640625,
+                340.7969055175781,
+                348.7230224609375,
+                350.97589111328125
+              ],
+              "officialCode": "US994"
+            }
+          ],
+          "rowBounds": [
+            0.10176328953519376,
+            0.43196933411354627,
+            0.5678935970299243,
+            0.44465121873917157
+          ],
+          "pdfPage": 49,
+          "officialPage": 69
+        },
+        {
+          "description": "Aesculap Process Indicator Card (US Only), qty 250",
+          "codes": [
+            {
+              "candidate": "MD346",
+              "sourceBounds": [
+                0.5299009842767182,
+                0.4499786976701167,
+                0.5679109500972905,
+                0.4625611500369826
+              ],
+              "officialBounds": [
+                324.7560119628906,
+                355.2958984375,
+                348.7230529785156,
+                365.4748840332031
+              ],
+              "officialCode": "MD346"
+            }
+          ],
+          "rowBounds": [
+            0.10178059421939273,
+            0.4498792654001202,
+            0.5679109500972905,
+            0.4625611500369826
+          ],
+          "pdfPage": 49,
+          "officialPage": 69
+        },
+        {
+          "description": "Aesculap Tamper Evident Lock, blue, qty 1000",
+          "codes": [
+            {
+              "candidate": "US900",
+              "sourceBounds": [
+                0.5333855718700387,
+                0.4678894342437509,
+                0.5679282063983222,
+                0.48047108131231936
+              ],
+              "officialBounds": [
+                326.9429931640625,
+                369.7948913574219,
+                348.7230224609375,
+                379.973876953125
+              ],
+              "officialCode": "US900"
+            }
+          ],
+          "rowBounds": [
+            0.10179789890359169,
+            0.467789196686694,
+            0.5679282063983222,
+            0.48047108131231936
+          ],
+          "pdfPage": 49,
+          "officialPage": 69
+        },
+        {
+          "description": "Aesculap Filter Retainer Replacement Part",
+          "codes": [
+            {
+              "candidate": "JK100",
+              "sourceBounds": [
+                0.5347298816802926,
+                0.48579967373132393,
+                0.5679455110825212,
+                0.4983810125988932
+              ],
+              "officialBounds": [
+                327.7799987792969,
+                384.29388427734375,
+                348.7230224609375,
+                394.4728698730469
+              ],
+              "officialCode": "JK100"
+            }
+          ],
+          "rowBounds": [
+            0.10181520358779064,
+            0.48569912797326786,
+            0.5679455110825212,
+            0.4983810125988932
+          ],
+          "pdfPage": 49,
+          "officialPage": 69
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Instrument Trays",
+      "page": 49,
+      "officialPage": 69,
+      "headingBounds": [
+        0.10197703869697679,
+        0.6531945674712671,
+        0.22926873837658213,
+        0.6679606928766441
+      ],
+      "rows": [
+        {
+          "description": "Tunnel Dilator Tray",
+          "codes": [
+            {
+              "candidate": "TD8504",
+              "sourceBounds": [
+                0.5267395439167285,
+                0.6927064217071939,
+                0.5681454758944323,
+                0.7052897004945221
+              ],
+              "officialBounds": [
+                322.614013671875,
+                551.796875,
+                348.7230529785156,
+                561.9758911132812
+              ],
+              "officialCode": "TD8504"
+            }
+          ],
+          "rowBounds": [
+            0.10201511998011155,
+            0.6926077781607155,
+            0.5681454758944323,
+            0.7052897004945221
+          ],
+          "pdfPage": 49,
+          "officialPage": 69
+        },
+        {
+          "description": "Grafix ® Graft Tray",
+          "codes": [
+            {
+              "candidate": "PS8831",
+              "sourceBounds": [
+                0.5270558577760164,
+                0.710617666438443,
+                0.5681621527994176,
+                0.7232008756341722
+              ],
+              "officialBounds": [
+                322.8026123046875,
+                566.296875,
+                348.72265625,
+                576.4758911132812
+              ],
+              "officialCode": "PS8831"
+            }
+          ],
+          "rowBounds": [
+            0.1310831781496087,
+            0.7105244942705737,
+            0.5681621527994176,
+            0.7232008756341722
+          ],
+          "pdfPage": 49,
+          "officialPage": 69
+        },
+        {
+          "description": "Anatomic Ligament Reconstruction Tray",
+          "codes": [
+            {
+              "candidate": "DBSBACL",
+              "sourceBounds": [
+                0.518768724066225,
+                0.7285257066907366,
+                0.5681794091368725,
+                0.7411108446064532
+              ],
+              "officialBounds": [
+                317.5646057128906,
+                580.7958984375,
+                348.7226257324219,
+                590.9749145507812
+              ],
+              "officialCode": "DBSBACL"
+            }
+          ],
+          "rowBounds": [
+            0.10204910160571877,
+            0.7284289222838837,
+            0.5681794091368725,
+            0.7411108446064532
+          ],
+          "pdfPage": 49,
+          "officialPage": 69
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 11
+}

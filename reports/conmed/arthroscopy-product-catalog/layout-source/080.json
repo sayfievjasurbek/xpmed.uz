@@ -1,0 +1,304 @@
+{
+  "pdfPage": 80,
+  "officialPage": 106,
+  "alignment": [
+    [
+      0.9705000282014763,
+      6.530884291201988e-05,
+      0.014802382878718219
+    ],
+    [
+      -0.0023389833814531683,
+      0.9787031913720098,
+      0.012694041889742663
+    ]
+  ],
+  "alignmentMatches": 4,
+  "alignmentInliers": 3,
+  "category": "arthroscopy-manual-instruments",
+  "title": {
+    "en": "Concept",
+    "ru": "Ручные инструменты Concept"
+  },
+  "groups": [
+    {
+      "title": "Rotary Scissors — 3.3mm dia., 130mm",
+      "page": 80,
+      "officialPage": 106,
+      "headingBounds": [
+        0.4287004822397173,
+        0.1612314789101414,
+        0.5414649640566881,
+        0.1741388482903491
+      ],
+      "rows": [
+        {
+          "description": "20° Left",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6810",
+              "sourceBounds": [
+                0.843177189955986,
+                0.1991279068489531,
+                0.896130345006675,
+                0.2108134920677157
+              ],
+              "officialCode": "C6810",
+              "officialBounds": [
+                532.9249877929688,
+                151.8147735595703,
+                554.9984130859375,
+                161.9937744140625
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.1919706994583344,
+            0.906130345006675,
+            0.2139706994583344
+          ],
+          "pdfPage": 80,
+          "officialPage": 106
+        },
+        {
+          "description": "20° Right",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6811",
+              "sourceBounds": [
+                0.8472505090432504,
+                0.21802325591729865,
+                0.8961303473314952,
+                0.22819767416991055
+              ],
+              "officialCode": "C6811",
+              "officialBounds": [
+                533.1500244140625,
+                166.3137969970703,
+                554.9984130859375,
+                176.4927978515625
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.2101104650436046,
+            0.9061303473314952,
+            0.2321104650436046
+          ],
+          "pdfPage": 80,
+          "officialPage": 106
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Linear Grasper — 3.3mm dia., 130mm",
+      "page": 80,
+      "officialPage": 106,
+      "headingBounds": [
+        0.428714047022102,
+        0.3645101655037932,
+        0.5414785288365562,
+        0.3774174971723202
+      ],
+      "rows": [
+        {
+          "description": "Large Body",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6812",
+              "sourceBounds": [
+                0.8553971481171503,
+                0.3808139538800821,
+                0.8981670059561696,
+                0.3953488369629412
+              ],
+              "officialCode": "C6812",
+              "officialBounds": [
+                533.032958984375,
+                300.3138122558594,
+                554.9984130859375,
+                310.4927978515625
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.37508139542151164,
+            0.9081670059561696,
+            0.39708139542151166
+          ],
+          "pdfPage": 80,
+          "officialPage": 106
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Linear Wide Bite Punch — 3.3mm dia., 130mm",
+      "page": 80,
+      "officialPage": 106,
+      "headingBounds": [
+        0.4287268481628658,
+        0.5585207732342582,
+        0.54149132997732,
+        0.5714281049027853
+      ],
+      "rows": [
+        {
+          "description": "15° Up, left",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6804",
+              "sourceBounds": [
+                0.8492871684248133,
+                0.5770348837677683,
+                0.8961303456790564,
+                0.5901162792046154
+              ],
+              "officialCode": "C6804",
+              "officialBounds": [
+                532.1779174804688,
+                457.3138122558594,
+                554.999267578125,
+                467.4927978515625
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5705755814861918,
+            0.9061303456790564,
+            0.5925755814861918
+          ],
+          "pdfPage": 80,
+          "officialPage": 106
+        },
+        {
+          "description": "15° Up, right",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6805",
+              "sourceBounds": [
+                0.8533604893875321,
+                0.5944767442328847,
+                0.8961303445737716,
+                0.6076388888257147
+              ],
+              "officialCode": "C6805",
+              "officialBounds": [
+                532.2498779296875,
+                471.81280517578125,
+                554.9973754882812,
+                481.9917907714844
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5880578165292997,
+            0.9061303445737716,
+            0.6100578165292997
+          ],
+          "pdfPage": 80,
+          "officialPage": 106
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Linear Wide Bite Oblique Punch — 3.3mm dia., 130mm",
+      "page": 80,
+      "officialPage": 106,
+      "headingBounds": [
+        0.4287399809022647,
+        0.7531492861529703,
+        0.541504462716719,
+        0.7660566178214973
+      ],
+      "rows": [
+        {
+          "description": "25° Left",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6868",
+              "sourceBounds": [
+                0.8513238289061725,
+                0.7718023256282335,
+                0.8961303451264139,
+                0.7849702381530774
+              ],
+              "officialCode": "C6868",
+              "officialBounds": [
+                532.177978515625,
+                614.8137817382812,
+                555.0010986328125,
+                624.9927978515625
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.7653862818906555,
+            0.9061303451264139,
+            0.7873862818906555
+          ],
+          "pdfPage": 80,
+          "officialPage": 106
+        },
+        {
+          "description": "25° Right",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6869",
+              "sourceBounds": [
+                0.8513238290181887,
+                0.789186507701148,
+                0.89613034523843,
+                0.8023313489709892
+              ],
+              "officialCode": "C6869",
+              "officialBounds": [
+                532.240966796875,
+                629.312744140625,
+                554.99658203125,
+                639.4917602539062
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.7827589283360686,
+            0.9061303452384301,
+            0.8047589283360687
+          ],
+          "pdfPage": 80,
+          "officialPage": 106
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 7
+}

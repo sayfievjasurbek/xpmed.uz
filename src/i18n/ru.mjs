@@ -1,4 +1,13 @@
+import catalog from './catalog-ru.mjs';
+import homepage from './home-ru.mjs';
+import info from './info-ru.mjs';
+
 export default {
+  homepage,
+  info,
+  catalog,
+  utilityPartners: 'Партнерам',
+  utilitySales: 'Связаться с отделом продаж',
   title: 'XPMED — медицинское оборудование, импланты и расходные материалы',
   description: 'Эксклюзивный дистрибьютор медицинского оборудования, имплантов и расходных материалов в Узбекистане и Центральной Азии.',
   home: 'Главная',
@@ -16,7 +25,7 @@ export default {
   privacyNotice: 'Политика конфиденциальности готовится. По вопросам обработки персональных данных можно написать нам.',
   socials: 'XPMED в социальных сетях',
   platforms: { telegram: 'Telegram', instagram: 'Instagram', facebook: 'Facebook', youtube: 'YouTube' },
-  address: ['Ташкент, Шайхантахурский район', 'просп. Бунёдкор, 8В'],
+  address: ['г. Ташкент, Яккасарайский район', 'ул. Солар, 12'],
   copyright: (year) => `© ${year} XPMED. Все права защищены.`,
   disclaimer: 'Информация на сайте не является медицинской рекомендацией.',
   labels: {
@@ -28,6 +37,7 @@ export default {
     conmed: 'CONMED',
     synimed: 'Synimed',
     catalog: 'Вся продукция',
+    brands: 'Бренды',
     trauma: 'Импланты для травматологии',
     hip: 'Эндопротезы тазобедренного сустава',
     spineSystems: 'Спинальные системы',
@@ -36,8 +46,10 @@ export default {
     shoulder: 'Хирургия плечевого сустава',
     cement: 'Костные цементы Synicem',
     needles: 'Иглы и канюли',
+    'pediatric-orthopedics': 'Детская ортопедия',
     orthopedics: 'Ортопедия',
     traumatology: 'Травматология',
+    cardiothoracic: 'Кардиоторакальная хирургия', ent: 'Оториноларингология (ЛОР)', neurosurgery: 'Нейрохирургия',
     spine: 'Хирургия позвоночника',
     sports: 'Спортивная медицина',
     surgery: 'Общая хирургия',

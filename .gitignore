@@ -1,0 +1,25 @@
+# Build output — recreated in full by `node build.mjs`
+dist/
+
+# Dependencies and environments
+node_modules/
+.venv-catalog/
+.venv*/
+__pycache__/
+*.pyc
+
+# rembg segmentation weights — downloaded on demand (~170 MB)
+.rembg-models/
+
+# Large regenerable catalog intermediates.
+# 600-DPI page renders, OCR TSV/JSON evidence and reference page scans are
+# reproduced from the source PDFs by `scripts/import-catalog.py --ocr`.
+public/catalogs/*/*/ocr/
+public/catalogs/*/*/pages/
+
+# Pre-enhancement image backups kept by scripts/enhance-catalog-images.py.
+# Re-extractable from the source PDFs; never shipped in the public build.
+**/_originals/
+
+# macOS
+.DS_Store

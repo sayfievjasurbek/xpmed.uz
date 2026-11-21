@@ -1,0 +1,1033 @@
+{
+  "pdfPage": 34,
+  "officialPage": 50,
+  "alignment": [
+    [
+      0.9713202169977987,
+      -0.00014347656099295285,
+      0.01457960002039158
+    ],
+    [
+      0.001223165276692354,
+      0.9797452685361645,
+      0.009961952563788522
+    ]
+  ],
+  "alignmentMatches": 24,
+  "alignmentInliers": 24,
+  "category": "knee-arthroscopy",
+  "title": {
+    "en": "Cruciate Reconstruction System",
+    "ru": "Система реконструкции крестообразных связок"
+  },
+  "groups": [
+    {
+      "title": "Femoral Instrumentation — ™ Curved Reaming, Medial Portal Approach",
+      "page": 34,
+      "officialPage": 50,
+      "headingBounds": [
+        0.48085026232253797,
+        0.23951628199849392,
+        0.7231712195795964,
+        0.2530146059432581
+      ],
+      "rows": [
+        {
+          "description": "GraftMax ™ Curved Guide",
+          "codes": [
+            {
+              "candidate": "KS-CDG",
+              "sourceBounds": [
+                0.8541708901214633,
+                0.2558527792446026,
+                0.8953931141809381,
+                0.26849664638953186
+              ],
+              "officialBounds": [
+                529.0241088867188,
+                197.91688537597656,
+                554.9981689453125,
+                208.09588623046875
+              ],
+              "officialCode": "KS-CDG"
+            }
+          ],
+          "rowBounds": [
+            0.47456322998804457,
+            0.255373538400493,
+            0.8953931141809381,
+            0.26849664638953186
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "GraftMax Indicator Arm",
+          "codes": [
+            {
+              "candidate": "KS-IND",
+              "sourceBounds": [
+                0.8589537290761217,
+                0.2713454380148144,
+                0.8953907494059038,
+                0.28398327924270667
+              ],
+              "officialBounds": [
+                532.0390625,
+                210.4358673095703,
+                554.9981079101562,
+                220.6148681640625
+              ],
+              "officialCode": "KS-IND"
+            }
+          ],
+          "rowBounds": [
+            0.42877323270867557,
+            0.27080371980833734,
+            0.8953907494059038,
+            0.28398327924270667
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "GraftMax Indicator Pin",
+          "codes": [
+            {
+              "candidate": "KS-ACP",
+              "sourceBounds": [
+                0.8555089779749536,
+                0.28682773593564725,
+                0.8953884815012637,
+                0.2994699122178685
+              ],
+              "officialBounds": [
+                529.8700561523438,
+                222.95484924316406,
+                554.9981079101562,
+                233.13385009765625
+              ],
+              "officialCode": "KS-ACP"
+            }
+          ],
+          "rowBounds": [
+            0.4287709163688384,
+            0.2862903527225057,
+            0.8953884815012637,
+            0.2994699122178685
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "GraftMax Flex XACTPIN™",
+          "codes": [
+            {
+              "candidate": "KS-FGP24",
+              "sourceBounds": [
+                0.8425923360523919,
+                0.3023018812666822,
+                0.8953846631174693,
+                0.3149603184246685
+              ],
+              "officialBounds": [
+                521.7330932617188,
+                235.4768829345703,
+                554.9971313476562,
+                245.6558837890625
+              ],
+              "officialCode": "KS-FGP24"
+            }
+          ],
+          "rowBounds": [
+            0.42876864846419827,
+            0.3017769856976676,
+            0.8953846631174693,
+            0.3149603184246685
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "GraftMax Flex Channel Reamer, 4.5mm",
+          "codes": [
+            {
+              "candidate": "KC8545",
+              "sourceBounds": [
+                0.853688147642652,
+                0.3222559235522993,
+                0.8953817430400087,
+                0.3349003842862869
+              ],
+              "officialBounds": [
+                528.72607421875,
+                251.5959014892578,
+                554.9971313476562,
+                261.77490234375
+              ],
+              "officialCode": "KC8545"
+            }
+          ],
+          "rowBounds": [
+            0.42876417790758337,
+            0.3217208247909241,
+            0.8953817430400087,
+            0.3349003842862869
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "GraftMax Flex Channel Reamer, 5.0mm",
+          "codes": [
+            {
+              "candidate": "KC8550",
+              "sourceBounds": [
+                0.8536858797352477,
+                0.3377425754033783,
+                0.8953794751353686,
+                0.3503870172614487
+              ],
+              "officialBounds": [
+                528.72607421875,
+                264.1148986816406,
+                554.9971313476562,
+                274.29388427734375
+              ],
+              "officialCode": "KC8550"
+            }
+          ],
+          "rowBounds": [
+            0.42876186156498186,
+            0.3372074765810096,
+            0.8953794751353686,
+            0.3503870172614487
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "GraftMax Flex Sentinel™ Reamer, 5.5mm",
+          "codes": [
+            {
+              "candidate": "KS8555",
+              "sourceBounds": [
+                0.8542394114481158,
+                0.36013641888840964,
+                0.8953759052115416,
+                0.37278015919886925
+              ],
+              "officialBounds": [
+                529.076904296875,
+                282.2169189453125,
+                554.9969482421875,
+                292.3959045410156
+              ],
+              "officialCode": "KS8555"
+            }
+          ],
+          "rowBounds": [
+            0.428758582799657,
+            0.3595968814527944,
+            0.8953759052115416,
+            0.37278015919886925
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "GraftMax Flex Sentinel Reamer, 6.0mm",
+          "codes": [
+            {
+              "candidate": "KS8560",
+              "sourceBounds": [
+                0.8542358840459121,
+                0.37562429608827197,
+                0.8953723778093379,
+                0.38826803639873153
+              ],
+              "officialBounds": [
+                529.0761108398438,
+                294.7369079589844,
+                554.9961547851562,
+                304.9158935546875
+              ],
+              "officialCode": "KS8560"
+            }
+          ],
+          "rowBounds": [
+            0.42875602373098637,
+            0.3750872892454262,
+            0.8953723778093379,
+            0.38826803639873153
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "GraftMax Flex Sentinel Reamer, 6.5mm",
+          "codes": [
+            {
+              "candidate": "KS8565",
+              "sourceBounds": [
+                0.8542336159533036,
+                0.3911122126258004,
+                0.8953701097167294,
+                0.40375595293626004
+              ],
+              "officialBounds": [
+                529.0761108398438,
+                307.2569274902344,
+                554.9961547851562,
+                317.4359130859375
+              ],
+              "officialCode": "KS8565"
+            }
+          ],
+          "rowBounds": [
+            0.4287524963287826,
+            0.3905751664452886,
+            0.8953701097167294,
+            0.40375595293626004
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "GraftMax Flex Sentinel Reamer, 7.0mm",
+          "codes": [
+            {
+              "candidate": "KS8570",
+              "sourceBounds": [
+                0.8542313478662236,
+                0.4066000914114946,
+                0.8953678416296494,
+                0.41924383172195423
+              ],
+              "officialBounds": [
+                529.0761108398438,
+                319.77691650390625,
+                554.9961547851562,
+                329.9559020996094
+              ],
+              "officialCode": "KS8570"
+            }
+          ],
+          "rowBounds": [
+            0.4287502282361741,
+            0.40606308298281707,
+            0.8953678416296494,
+            0.41924383172195423
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "GraftMax Flex Sentinel Reamer, 7.5mm",
+          "codes": [
+            {
+              "candidate": "KS8575",
+              "sourceBounds": [
+                0.8542290797791436,
+                0.4220879701971888,
+                0.8953655735425694,
+                0.43473171050764836
+              ],
+              "officialBounds": [
+                529.0761108398438,
+                332.2969055175781,
+                554.9961547851562,
+                342.47589111328125
+              ],
+              "officialCode": "KS8575"
+            }
+          ],
+          "rowBounds": [
+            0.4287479601490941,
+            0.4215509617685112,
+            0.8953655735425694,
+            0.43473171050764836
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "GraftMax Flex Sentinel Reamer, 8.0mm",
+          "codes": [
+            {
+              "candidate": "KS8580",
+              "sourceBounds": [
+                0.8542268116865351,
+                0.43757588673471726,
+                0.8953633054499609,
+                0.4502196270451769
+              ],
+              "officialBounds": [
+                529.0761108398438,
+                344.8169250488281,
+                554.9961547851562,
+                354.99591064453125
+              ],
+              "officialCode": "KS8580"
+            }
+          ],
+          "rowBounds": [
+            0.4287456920620141,
+            0.4370388405542054,
+            0.8953633054499609,
+            0.4502196270451769
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "GraftMax Flex Sentinel Reamer, 8.5mm",
+          "codes": [
+            {
+              "candidate": "KS8585",
+              "sourceBounds": [
+                0.8542245435994552,
+                0.45306376552041144,
+                0.895361037362881,
+                0.465707505830871
+              ],
+              "officialBounds": [
+                529.0761108398438,
+                357.3369140625,
+                554.9961547851562,
+                367.5158996582031
+              ],
+              "officialCode": "KS8585"
+            }
+          ],
+          "rowBounds": [
+            0.4287434239694057,
+            0.45252675709173384,
+            0.895361037362881,
+            0.465707505830871
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "GraftMax Flex Sentinel Reamer, 9.0mm",
+          "codes": [
+            {
+              "candidate": "KS8590",
+              "sourceBounds": [
+                0.8542222755123752,
+                0.46855164430610563,
+                0.8953587692758009,
+                0.4811953846165652
+              ],
+              "officialBounds": [
+                529.0761108398438,
+                369.8569030761719,
+                554.9961547851562,
+                380.035888671875
+              ],
+              "officialCode": "KS8590"
+            }
+          ],
+          "rowBounds": [
+            0.4287411558823257,
+            0.46801463587742803,
+            0.8953587692758009,
+            0.4811953846165652
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "GraftMax Flex Sentinel Reamer, 9.5mm",
+          "codes": [
+            {
+              "candidate": "KS8595",
+              "sourceBounds": [
+                0.8542200074197667,
+                0.4840395608436341,
+                0.8953565011831925,
+                0.4966833011540937
+              ],
+              "officialBounds": [
+                529.0761108398438,
+                382.3769226074219,
+                554.9961547851562,
+                392.555908203125
+              ],
+              "officialCode": "KS8595"
+            }
+          ],
+          "rowBounds": [
+            0.4287388877952457,
+            0.4835025146631222,
+            0.8953565011831925,
+            0.4966833011540937
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "GraftMax Flex Sentinel Reamer, 10.0mm",
+          "codes": [
+            {
+              "candidate": "KS8510",
+              "sourceBounds": [
+                0.8542177393326867,
+                0.4995274396293283,
+                0.8953542330961125,
+                0.5121711799397878
+              ],
+              "officialBounds": [
+                529.0761108398438,
+                394.89691162109375,
+                554.9961547851562,
+                405.0758972167969
+              ],
+              "officialCode": "KS8510"
+            }
+          ],
+          "rowBounds": [
+            0.4287366197026372,
+            0.4989904312006507,
+            0.8953542330961125,
+            0.5121711799397878
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "GraftMax Flex Sentinel Reamer, 10.5mm",
+          "codes": [
+            {
+              "candidate": "KS85105",
+              "sourceBounds": [
+                0.8473588878780337,
+                0.5150066840485743,
+                0.8953517712682442,
+                0.5276590584815078
+              ],
+              "officialBounds": [
+                524.7559814453125,
+                407.4169006347656,
+                554.9960327148438,
+                417.59588623046875
+              ],
+              "officialCode": "KS85105"
+            }
+          ],
+          "rowBounds": [
+            0.42873435161555723,
+            0.5144783099863449,
+            0.8953517712682442,
+            0.5276590584815078
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "GraftMax Flex Sentinel Reamer, 11.0mm",
+          "codes": [
+            {
+              "candidate": "KS8511",
+              "sourceBounds": [
+                0.85421300941221,
+                0.5305032347085767,
+                0.8953495031756358,
+                0.5431469750190364
+              ],
+              "officialBounds": [
+                529.0759887695312,
+                419.9369201660156,
+                554.9960327148438,
+                430.11590576171875
+              ],
+              "officialCode": "KS8511"
+            }
+          ],
+          "rowBounds": [
+            0.428731889787689,
+            0.5299661885280649,
+            0.8953495031756358,
+            0.5431469750190364
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "GraftMax Flex Sentinel Reamer, 12.0mm",
+          "codes": [
+            {
+              "candidate": "KS8510",
+              "sourceBounds": [
+                0.85421074132513,
+                0.545991113494271,
+                0.8953472350885557,
+                0.5586348538047304
+              ],
+              "officialBounds": [
+                529.0759887695312,
+                432.4569091796875,
+                554.9960327148438,
+                442.6358947753906
+              ],
+              "officialCode": "KS8510"
+            }
+          ],
+          "rowBounds": [
+            0.4287296216950805,
+            0.5454541050655933,
+            0.8953472350885557,
+            0.5586348538047304
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "GraftMax Flex Sentinel Reamer, 13.0mm",
+          "codes": [
+            {
+              "candidate": "KS8513",
+              "sourceBounds": [
+                0.8542084732380499,
+                0.561478992279965,
+                0.8953449670014758,
+                0.5741227325904247
+              ],
+              "officialBounds": [
+                529.0759887695312,
+                444.9768981933594,
+                554.9960327148438,
+                455.1558837890625
+              ],
+              "officialCode": "KS8513"
+            }
+          ],
+          "rowBounds": [
+            0.4287273536080005,
+            0.5609419838512876,
+            0.8953449670014758,
+            0.5741227325904247
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        }
+      ],
+      "features": [
+        {
+          "text": "The GraftMax ™ Curved Reaming System facilitates predictable anatomic tunnel placement in femoral ACL reconstruction allowing surgeons to achieve longer tunnels without the need for hyperflexing.",
+          "bounds": [
+            0.42879414269082466,
+            0.18093684705347904,
+            0.5125287030339879,
+            0.19503335129727808
+          ],
+          "officialStartX": 261.0
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Femoral Instrumentation — Transtibial Approach",
+      "page": 34,
+      "officialPage": 50,
+      "headingBounds": [
+        0.42872301291091097,
+        0.6666542690502529,
+        0.5463938109309002,
+        0.6799955856425799
+      ],
+      "rows": [
+        {
+          "description": "Bullseye ® Femoral Off-Set Guide, 5mm",
+          "codes": [
+            {
+              "candidate": "C8650",
+              "sourceBounds": [
+                0.8605001284828586,
+                0.683064417203566,
+                0.8953373342506663,
+                0.6957002626909969
+              ],
+              "officialBounds": [
+                533.0513916015625,
+                543.2568969726562,
+                555.00244140625,
+                553.4359130859375
+              ],
+              "officialCode": "C8650"
+            }
+          ],
+          "rowBounds": [
+            0.4704723622389188,
+            0.682571979012173,
+            0.8953373342506663,
+            0.6957002626909969
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "Bullseye Femoral Off-Set Guide, 6mm",
+          "codes": [
+            {
+              "candidate": "C8660",
+              "sourceBounds": [
+                0.8604978605782185,
+                0.698551050178728,
+                0.8953350663460262,
+                0.7111868956661588
+              ],
+              "officialBounds": [
+                533.0513916015625,
+                555.77587890625,
+                555.00244140625,
+                565.9548950195312
+              ],
+              "officialCode": "C8660"
+            }
+          ],
+          "rowBounds": [
+            0.42871745278116785,
+            0.6980073172338853,
+            0.8953350663460262,
+            0.7111868956661588
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "Bullseye Femoral Off-Set Guide, 7mm",
+          "codes": [
+            {
+              "candidate": "C8670",
+              "sourceBounds": [
+                0.8604955926735783,
+                0.7140376831538898,
+                0.895332798441386,
+                0.7266735286413206
+              ],
+              "officialBounds": [
+                533.0513916015625,
+                568.2948608398438,
+                555.00244140625,
+                578.473876953125
+              ],
+              "officialCode": "C8670"
+            }
+          ],
+          "rowBounds": [
+            0.42871518487652777,
+            0.7134939502090472,
+            0.895332798441386,
+            0.7266735286413206
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "Bullseye Femoral Off-Set Guide, 8mm",
+          "codes": [
+            {
+              "candidate": "8680A",
+              "sourceBounds": [
+                0.8607647556133166,
+                0.7295246579368079,
+                0.8953305305367459,
+                0.7421601616164826
+              ],
+              "officialBounds": [
+                533.222412109375,
+                580.8138427734375,
+                555.00244140625,
+                590.9928588867188
+              ],
+              "officialCode": "8680A"
+            }
+          ],
+          "rowBounds": [
+            0.4287129169718876,
+            0.728980583184209,
+            0.8953305305367459,
+            0.7421601616164826
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        }
+      ],
+      "features": [
+        {
+          "text": "This instrumentation permits multiple surgical approaches to tunnel placement and graft fixation for ACL and PCL reconstruction procedures",
+          "bounds": [
+            0.4358715299603507,
+            0.6225734618970414,
+            0.8822479666546832,
+            0.6371266342336742
+          ],
+          "officialStartX": 265.5
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Femoral Instrumentation — Medial Portal Approach",
+      "page": 34,
+      "officialPage": 50,
+      "headingBounds": [
+        0.4287094159783743,
+        0.7532182424212372,
+        0.5619784301682631,
+        0.7665792015537517
+      ],
+      "rows": [
+        {
+          "description": "Bullseye Femoral Footprint Guide, 6mm",
+          "codes": [
+            {
+              "candidate": "SB6000",
+              "sourceBounds": [
+                0.8539025900950222,
+                0.7696188159783303,
+                0.8953247546452363,
+                0.7822629537804788
+              ],
+              "officialBounds": [
+                528.9024658203125,
+                613.2318725585938,
+                555.0025024414062,
+                623.410888671875
+              ],
+              "officialCode": "SB6000"
+            }
+          ],
+          "rowBounds": [
+            0.42870709264518103,
+            0.7690833752872118,
+            0.8953247546452363,
+            0.7822629537804788
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "Bullseye Femoral Footprint Guide, 7mm",
+          "codes": [
+            {
+              "candidate": "SB7000",
+              "sourceBounds": [
+                0.8539003221903821,
+                0.7851054489534921,
+                0.8953224867405962,
+                0.7977495867556408
+              ],
+              "officialBounds": [
+                528.9024658203125,
+                625.7508544921875,
+                555.0025024414062,
+                635.9298706054688
+              ],
+              "officialCode": "SB7000"
+            }
+          ],
+          "rowBounds": [
+            0.428704873175738,
+            0.7845700083233672,
+            0.8953224867405962,
+            0.7977495867556408
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "Bullseye Femoral Footprint Guide, 8mm",
+          "codes": [
+            {
+              "candidate": "SB8000",
+              "sourceBounds": [
+                0.853898054274685,
+                0.8005921574323226,
+                0.8953202188248991,
+                0.8132362952344712
+              ],
+              "officialBounds": [
+                528.9024658203125,
+                638.2698974609375,
+                555.0025024414062,
+                648.4489135742188
+              ],
+              "officialCode": "SB8000"
+            }
+          ],
+          "rowBounds": [
+            0.42870260526004095,
+            0.8000567168021977,
+            0.8953202188248991,
+            0.8132362952344712
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "Bullseye Femoral Footprint Guide, 9mm",
+          "codes": [
+            {
+              "candidate": "SB9000",
+              "sourceBounds": [
+                0.8538957863700449,
+                0.8160787904074844,
+                0.895317950920259,
+                0.828722928209633
+              ],
+              "officialBounds": [
+                528.9024658203125,
+                650.7888793945312,
+                555.0025024414062,
+                660.9678955078125
+              ],
+              "officialCode": "SB9000"
+            }
+          ],
+          "rowBounds": [
+            0.42870033735540086,
+            0.8155433497773595,
+            0.895317950920259,
+            0.828722928209633
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "Bullseye Femoral Footprint Guide, 10mm",
+          "codes": [
+            {
+              "candidate": "SB10000",
+              "sourceBounds": [
+                0.8470371288386201,
+                0.8315567892601724,
+                0.8953156830156189,
+                0.8442095611847948
+              ],
+              "officialBounds": [
+                524.5824584960938,
+                663.307861328125,
+                555.0025024414062,
+                673.4868774414062
+              ],
+              "officialCode": "SB10000"
+            }
+          ],
+          "rowBounds": [
+            0.4286980694507607,
+            0.8310299827525214,
+            0.8953156830156189,
+            0.8442095611847948
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        },
+        {
+          "description": "Bullseye Femoral Footprint Guide, 11mm",
+          "codes": [
+            {
+              "candidate": "SB11000",
+              "sourceBounds": [
+                0.84703486093398,
+                0.8470434222353342,
+                0.8953134151109787,
+                0.8596961941599568
+              ],
+              "officialBounds": [
+                524.5824584960938,
+                675.8268432617188,
+                555.0025024414062,
+                686.005859375
+              ],
+              "officialCode": "SB11000"
+            }
+          ],
+          "rowBounds": [
+            0.42869580154612064,
+            0.8465166157276833,
+            0.8953134151109787,
+            0.8596961941599568
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        }
+      ],
+      "features": [
+        {
+          "text": "This instrumentation permits multiple surgical approaches to tunnel placement and graft fixation for ACL and PCL reconstruction procedures",
+          "bounds": [
+            0.4358715299603507,
+            0.6225734618970414,
+            0.8822479666546832,
+            0.6371266342336742
+          ],
+          "officialStartX": 265.5
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Femoral Instrumentation — Outside-In Approach",
+      "page": 34,
+      "officialPage": 50,
+      "headingBounds": [
+        0.4286922521284671,
+        0.8707541994000493,
+        0.5458772451218479,
+        0.8840949042272452
+      ],
+      "rows": [
+        {
+          "description": "Femoral Guide Introducer",
+          "codes": [
+            {
+              "candidate": "8207",
+              "sourceBounds": [
+                0.867883730974353,
+                0.887172476262633,
+                0.895307445478681,
+                0.899798986079979
+              ],
+              "officialBounds": [
+                537.722412109375,
+                708.244873046875,
+                555.00244140625,
+                718.4238891601562
+              ],
+              "officialCode": "8207"
+            }
+          ],
+          "rowBounds": [
+            0.4286899287842169,
+            0.8866194077696926,
+            0.895307445478681,
+            0.899798986079979
+          ],
+          "pdfPage": 34,
+          "officialPage": 50
+        }
+      ],
+      "features": [
+        {
+          "text": "This instrumentation permits multiple surgical approaches to tunnel placement and graft fixation for ACL and PCL reconstruction procedures",
+          "bounds": [
+            0.4358715299603507,
+            0.6225734618970414,
+            0.8822479666546832,
+            0.6371266342336742
+          ],
+          "officialStartX": 265.5
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 31
+}

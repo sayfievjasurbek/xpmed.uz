@@ -1,0 +1,106 @@
+{
+  "id": 101,
+  "bounds": [
+    0.5130111524163569,
+    0.8438459391571309,
+    0.5840344355312072,
+    0.8589171085682389
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "T5105",
+      "confidence": 90.695557,
+      "words": [
+        {
+          "text": "T5105",
+          "confidence": 90.695557,
+          "pixelBounds": [
+            2721,
+            6075,
+            2890,
+            6133
+          ],
+          "lineId": "17.21.2",
+          "bounds": [
+            0.5323811387204069,
+            0.8477532793748256,
+            0.5654470749364117,
+            0.8558470555400502
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "T9105",
+      "confidence": 91.510101,
+      "words": [
+        {
+          "text": "T9105",
+          "confidence": 91.510101,
+          "pixelBounds": [
+            2721,
+            6075,
+            2890,
+            6133
+          ],
+          "lineId": "101.1.1",
+          "bounds": [
+            0.5323811387204069,
+            0.8477532793748256,
+            0.5654470749364117,
+            0.8558470555400502
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "we TO105",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "we",
+          "confidence": 36.048119,
+          "pixelBounds": [
+            1,
+            77,
+            93,
+            85
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "TO105",
+          "confidence": 0.0,
+          "pixelBounds": [
+            112,
+            28,
+            268,
+            86
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "weT5105",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "weT5105",
+          "confidence": 0.0,
+          "pixelBounds": [
+            1,
+            28,
+            268,
+            86
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

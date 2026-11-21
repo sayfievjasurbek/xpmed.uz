@@ -1,0 +1,171 @@
+{
+  "pdfPage": 89,
+  "officialPage": 115,
+  "alignment": [
+    [
+      0.969619093838507,
+      -0.001968861805797809,
+      0.016559468730318227
+    ],
+    [
+      -0.0006419032704974325,
+      0.9755056143821857,
+      -0.185878565075486
+    ]
+  ],
+  "alignmentMatches": 11,
+  "alignmentInliers": 9,
+  "category": "arthroscopy-resection",
+  "title": {
+    "en": "Footswitches and Accessories",
+    "ru": "Педали и принадлежности"
+  },
+  "groups": [
+    {
+      "title": "Footswitches and Accessories",
+      "page": 89,
+      "officialPage": 115,
+      "headingBounds": [
+        0.08,
+        0.12,
+        0.92,
+        0.15
+      ],
+      "rows": [
+        {
+          "description": "3-Pedal Footswitch",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C9863",
+              "sourceBounds": [
+                0.5173116100945078,
+                0.1743551588458374,
+                0.568228104111195,
+                0.18898809535377392
+              ],
+              "officialCode": "C9863",
+              "officialBounds": [
+                325.20501708984375,
+                238.65492248535156,
+                347.983154296875,
+                248.83392333984375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.16867162709980565,
+            0.578228104111195,
+            0.19067162709980567
+          ],
+          "pdfPage": 89,
+          "officialPage": 115
+        },
+        {
+          "description": "Universal Handpiece Cord",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "MC5057",
+              "sourceBounds": [
+                0.5152749493076494,
+                0.36918604677849054,
+                0.5682281043583383,
+                0.37936046503110243
+              ],
+              "officialCode": "MC5057",
+              "officialBounds": [
+                319.0579833984375,
+                449.6549072265625,
+                347.9794921875,
+                459.8338928222656
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3612732559047965,
+            0.5782281043583383,
+            0.3832732559047965
+          ],
+          "pdfPage": 89,
+          "officialPage": 115
+        },
+        {
+          "description": "Merlin® Blade Bender",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "P9305",
+              "sourceBounds": [
+                0.5193482678721709,
+                0.48401162811833287,
+                0.5682281061604157,
+                0.49563953496306234
+              ],
+              "officialCode": "P9305",
+              "officialBounds": [
+                325.634521484375,
+                542.1549072265625,
+                347.9878234863281,
+                552.3339233398438
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.4768255815406976,
+            0.5782281061604158,
+            0.4988255815406976
+          ],
+          "pdfPage": 89,
+          "officialPage": 115
+        },
+        {
+          "description": "Shaver Blade and Bur De-Clogger",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "E9315",
+              "sourceBounds": [
+                0.5193482687173847,
+                0.6380813953276353,
+                0.5682281070056295,
+                0.6497093021723647
+              ],
+              "officialCode": "E9315",
+              "officialBounds": [
+                326.78900146484375,
+                667.6549072265625,
+                347.9786376953125,
+                677.8339233398438
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.63089534875,
+            0.5782281070056295,
+            0.65289534875
+          ],
+          "pdfPage": 89,
+          "officialPage": 115
+        }
+      ],
+      "features": [],
+      "notes": [
+        "(For use with Advantage, E9000, and PowerPro Consoles)",
+        "(For use with Zen Wireless Footswitch)",
+        "For use with Advantage, E9000 and PowerPro Consoles",
+        "For use with Advantage, E9000 and PowerPro Consoles",
+        "For use with Advantage®, E9000® and PowerPro® Consoles 12' (3.6m)",
+        "Operates: MicroChoice®, PowerPro, E9000 and MC Shaver Handpieces",
+        "For use with all Merlin Bendable Shaver Blades"
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 4
+}

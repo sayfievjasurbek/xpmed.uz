@@ -1,0 +1,840 @@
+{
+  "schemaVersion": 1,
+  "slug": "hall-batteries-and-accessories",
+  "brand": "conmed",
+  "brandName": {
+    "ru": "CONMED",
+    "en": "CONMED"
+  },
+  "category": "hall-powered-instruments",
+  "subcategory": "",
+  "specialty": [
+    "orthopedics",
+    "traumatology"
+  ],
+  "catalogType": "list",
+  "name": {
+    "ru": "Аккумуляторы и принадлежности",
+    "en": "Batteries & Accessories"
+  },
+  "shortDescription": {
+    "ru": "Аккумуляторы и принадлежности",
+    "en": "Batteries & Accessories"
+  },
+  "description": {
+    "ru": "В каталоге HALL представлены аккумуляторы и принадлежности HALL. ",
+    "en": "The HALL catalog presents Batteries & Accessories. "
+  },
+  "indications": null,
+  "heroImage": "/images/products/conmed/hall/page-009-xref-126.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "name": "page-009-xref-126",
+      "pdfPage": 9,
+      "pdfImageXref": 126,
+      "bounds": [
+        0.14024608557782234,
+        0.15112435491410897,
+        0.3079990688608085,
+        0.32838390696936226
+      ],
+      "originalSize": [
+        428,
+        635
+      ],
+      "src": "/images/products/conmed/hall/page-009-xref-126.webp",
+      "width": 920,
+      "height": 1334,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          428,
+          635
+        ],
+        "enhancedSize": [
+          856,
+          1270
+        ]
+      },
+      "maskReview": "Embedded source-PDF opacity mask retained; rembg mask rejected where it lost instrument parts",
+      "imageCaption": {
+        "ru": "Зарядное устройство HALL для литиевых аккумуляторов",
+        "en": "HALL Lithium Charger"
+      }
+    },
+    {
+      "name": "page-009-xref-128",
+      "pdfPage": 9,
+      "pdfImageXref": 128,
+      "bounds": [
+        0.07696360918746561,
+        0.38991004961942544,
+        0.34569793987941966,
+        0.49834697738584716
+      ],
+      "originalSize": [
+        686,
+        388
+      ],
+      "src": "/images/products/conmed/hall/page-009-xref-128.webp",
+      "width": 1436,
+      "height": 840,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          686,
+          388
+        ],
+        "enhancedSize": [
+          1372,
+          776
+        ]
+      },
+      "maskReview": "Embedded source-PDF opacity mask retained; rembg mask rejected where it lost instrument parts",
+      "imageCaption": {
+        "ru": "Большой литиевый аккумулятор HALL, 13.2 В",
+        "en": "HALL Large Lithium Battery, 13.2 Volt"
+      }
+    }
+  ],
+  "features": [],
+  "hotspots": [],
+  "variants": [],
+  "components": [],
+  "componentGroups": [
+    {
+      "id": "page-009",
+      "name": {
+        "ru": "Аккумуляторы и принадлежности",
+        "en": "Batteries & Accessories"
+      },
+      "images": [
+        {
+          "name": "page-009-xref-126",
+          "pdfPage": 9,
+          "pdfImageXref": 126,
+          "bounds": [
+            0.14024608557782234,
+            0.15112435491410897,
+            0.3079990688608085,
+            0.32838390696936226
+          ],
+          "originalSize": [
+            428,
+            635
+          ],
+          "src": "/images/products/conmed/hall/page-009-xref-126.webp",
+          "width": 920,
+          "height": 1334,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              428,
+              635
+            ],
+            "enhancedSize": [
+              856,
+              1270
+            ]
+          },
+          "maskReview": "Embedded source-PDF opacity mask retained; rembg mask rejected where it lost instrument parts",
+          "imageCaption": {
+            "ru": "Зарядное устройство HALL для литиевых аккумуляторов",
+            "en": "HALL Lithium Charger"
+          }
+        },
+        {
+          "name": "page-009-xref-128",
+          "pdfPage": 9,
+          "pdfImageXref": 128,
+          "bounds": [
+            0.07696360918746561,
+            0.38991004961942544,
+            0.34569793987941966,
+            0.49834697738584716
+          ],
+          "originalSize": [
+            686,
+            388
+          ],
+          "src": "/images/products/conmed/hall/page-009-xref-128.webp",
+          "width": 1436,
+          "height": 840,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              686,
+              388
+            ],
+            "enhancedSize": [
+              1372,
+              776
+            ]
+          },
+          "maskReview": "Embedded source-PDF opacity mask retained; rembg mask rejected where it lost instrument parts",
+          "imageCaption": {
+            "ru": "Большой литиевый аккумулятор HALL, 13.2 В",
+            "en": "HALL Large Lithium Battery, 13.2 Volt"
+          }
+        }
+      ]
+    }
+  ],
+  "specTables": [
+    {
+      "id": "page-009",
+      "groupId": "page-009",
+      "title": {
+        "ru": "Аккумуляторы и принадлежности",
+        "en": "Batteries & Accessories"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "Кат. №",
+          "en": "Cat. No."
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Зарядное устройство HALL для литиевых аккумуляторов",
+            "en": "HALL Lithium Charger"
+          },
+          "L3000"
+        ],
+        [
+          {
+            "ru": "Большой литиевый аккумулятор HALL, 13.2 В",
+            "en": "HALL Large Lithium Battery, 13.2 Volt"
+          },
+          "L3000LG"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 9,
+          "bounds": [
+            0.10624144003130503,
+            0.32849567401618757,
+            0.14282919193895519,
+            0.33575216299190624
+          ],
+          "codeEvidence": [
+            {
+              "id": "009-list-001",
+              "pdfPage": 9,
+              "sourceBounds": [
+                0.10624144003130503,
+                0.32849567401618757,
+                0.14282919193895519,
+                0.33575216299190624
+              ],
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "L3000"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "L3000"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "L3000"
+                }
+              ],
+              "matchedReaders": [
+                "PSM3",
+                "PSM11",
+                "Vision"
+              ],
+              "verificationStatus": "verified (three-reader comparison)",
+              "officialEvidence": [
+                {
+                  "url": "https://www.conmed.com/-/media/conmed/documents/catalog/hallpoweredinstruments_catalog.ashx",
+                  "logicalPages": [
+                    10,
+                    45
+                  ],
+                  "code": "L3000",
+                  "verificationStatus": "confirmed in official CONMED document"
+                }
+              ],
+              "tableId": "page-009",
+              "row": 1,
+              "column": 2,
+              "value": "L3000"
+            }
+          ]
+        },
+        {
+          "pdfPage": 9,
+          "bounds": [
+            0.8481706124046174,
+            0.41459670667038795,
+            0.8957151242418313,
+            0.42283003070053027
+          ],
+          "codeEvidence": [
+            {
+              "id": "009-list-002",
+              "pdfPage": 9,
+              "sourceBounds": [
+                0.8481706124046174,
+                0.41459670667038795,
+                0.8957151242418313,
+                0.42283003070053027
+              ],
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "L3000LG"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "L3000LG ee"
+                },
+                {
+                  "reader": "Vision",
+                  "text": ". L3000LG"
+                }
+              ],
+              "matchedReaders": [
+                "PSM3",
+                "PSM11",
+                "Vision"
+              ],
+              "verificationStatus": "verified (three-reader comparison)",
+              "officialEvidence": [
+                {
+                  "url": "https://www.conmed.com/-/media/conmed/documents/catalog/hallpoweredinstruments_catalog.ashx",
+                  "logicalPages": [
+                    10,
+                    45
+                  ],
+                  "code": "L3000LG",
+                  "verificationStatus": "confirmed in official CONMED document"
+                }
+              ],
+              "tableId": "page-009",
+              "row": 2,
+              "column": 2,
+              "value": "L3000LG"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        9
+      ],
+      "unit": null,
+      "images": [
+        {
+          "name": "page-009-xref-126",
+          "pdfPage": 9,
+          "pdfImageXref": 126,
+          "bounds": [
+            0.14024608557782234,
+            0.15112435491410897,
+            0.3079990688608085,
+            0.32838390696936226
+          ],
+          "originalSize": [
+            428,
+            635
+          ],
+          "src": "/images/products/conmed/hall/page-009-xref-126.webp",
+          "width": 920,
+          "height": 1334,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              428,
+              635
+            ],
+            "enhancedSize": [
+              856,
+              1270
+            ]
+          },
+          "maskReview": "Embedded source-PDF opacity mask retained; rembg mask rejected where it lost instrument parts",
+          "imageCaption": {
+            "ru": "Зарядное устройство HALL для литиевых аккумуляторов",
+            "en": "HALL Lithium Charger"
+          }
+        },
+        {
+          "name": "page-009-xref-128",
+          "pdfPage": 9,
+          "pdfImageXref": 128,
+          "bounds": [
+            0.07696360918746561,
+            0.38991004961942544,
+            0.34569793987941966,
+            0.49834697738584716
+          ],
+          "originalSize": [
+            686,
+            388
+          ],
+          "src": "/images/products/conmed/hall/page-009-xref-128.webp",
+          "width": 1436,
+          "height": 840,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              686,
+              388
+            ],
+            "enhancedSize": [
+              1372,
+              776
+            ]
+          },
+          "maskReview": "Embedded source-PDF opacity mask retained; rembg mask rejected where it lost instrument parts",
+          "imageCaption": {
+            "ru": "Большой литиевый аккумулятор HALL, 13.2 В",
+            "en": "HALL Large Lithium Battery, 13.2 Volt"
+          }
+        }
+      ],
+      "rowDimensions": [],
+      "rowImages": [],
+      "codeLinks": []
+    }
+  ],
+  "refCodes": [
+    "L3000",
+    "L3000LG"
+  ],
+  "sourcePages": [
+    9
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "CONMED HALL Powered Instruments System — каталог продукции",
+    "en": "CONMED HALL Powered Instruments System — Product Catalog"
+  },
+  "isNew": true,
+  "status": "published",
+  "relatedSystemSlugs": [],
+  "imageDimensions": {
+    "/images/products/conmed/hall/page-009-xref-126.webp": {
+      "width": 920,
+      "height": 1334
+    },
+    "/images/products/conmed/hall/page-009-xref-117.webp": {
+      "width": 788,
+      "height": 1836
+    },
+    "/images/products/conmed/hall/page-009-xref-128.webp": {
+      "width": 1436,
+      "height": 840
+    }
+  },
+  "availabilityNote": {
+    "ru": "Не вся продукция доступна на всех рынках.",
+    "en": "All products may not be available in all markets."
+  },
+  "sourceDocumentNotes": {
+    "correctionsVisibility": "internal-only"
+  },
+  "sourcePdf": "/catalogs/conmed/hall-powered-instruments/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/conmed/hall-powered-instruments/pages/009.webp"
+  ],
+  "sourcePageDimensions": {
+    "1": {
+      "width": 5111,
+      "height": 7166
+    },
+    "2": {
+      "width": 5111,
+      "height": 7166
+    },
+    "3": {
+      "width": 5111,
+      "height": 7166
+    },
+    "4": {
+      "width": 5111,
+      "height": 7166
+    },
+    "5": {
+      "width": 5111,
+      "height": 7166
+    },
+    "6": {
+      "width": 5111,
+      "height": 7166
+    },
+    "7": {
+      "width": 5111,
+      "height": 7166
+    },
+    "8": {
+      "width": 5111,
+      "height": 7166
+    },
+    "9": {
+      "width": 5111,
+      "height": 7166
+    },
+    "10": {
+      "width": 5111,
+      "height": 7166
+    },
+    "11": {
+      "width": 5111,
+      "height": 7166
+    },
+    "12": {
+      "width": 5111,
+      "height": 7166
+    },
+    "13": {
+      "width": 5111,
+      "height": 7166
+    },
+    "14": {
+      "width": 5111,
+      "height": 7166
+    },
+    "15": {
+      "width": 5111,
+      "height": 7166
+    },
+    "16": {
+      "width": 5111,
+      "height": 7166
+    },
+    "17": {
+      "width": 5111,
+      "height": 7166
+    },
+    "18": {
+      "width": 5111,
+      "height": 7166
+    },
+    "19": {
+      "width": 5111,
+      "height": 7166
+    },
+    "20": {
+      "width": 5111,
+      "height": 7166
+    },
+    "21": {
+      "width": 5111,
+      "height": 7166
+    },
+    "22": {
+      "width": 5111,
+      "height": 7166
+    },
+    "23": {
+      "width": 5111,
+      "height": 7166
+    },
+    "24": {
+      "width": 5111,
+      "height": 7166
+    },
+    "25": {
+      "width": 5111,
+      "height": 7166
+    },
+    "26": {
+      "width": 5111,
+      "height": 7166
+    },
+    "27": {
+      "width": 5111,
+      "height": 7166
+    },
+    "28": {
+      "width": 5111,
+      "height": 7166
+    },
+    "29": {
+      "width": 5111,
+      "height": 7166
+    },
+    "30": {
+      "width": 5111,
+      "height": 7166
+    },
+    "31": {
+      "width": 5111,
+      "height": 7166
+    },
+    "32": {
+      "width": 5111,
+      "height": 7166
+    },
+    "33": {
+      "width": 5111,
+      "height": 7166
+    },
+    "34": {
+      "width": 5111,
+      "height": 7166
+    },
+    "35": {
+      "width": 5111,
+      "height": 7166
+    },
+    "36": {
+      "width": 5111,
+      "height": 7166
+    },
+    "37": {
+      "width": 5111,
+      "height": 7166
+    },
+    "38": {
+      "width": 5111,
+      "height": 7166
+    },
+    "39": {
+      "width": 5111,
+      "height": 7166
+    },
+    "40": {
+      "width": 5111,
+      "height": 7166
+    },
+    "41": {
+      "width": 5111,
+      "height": 7166
+    },
+    "42": {
+      "width": 5111,
+      "height": 7166
+    },
+    "43": {
+      "width": 5111,
+      "height": 7166
+    },
+    "44": {
+      "width": 5111,
+      "height": 7166
+    },
+    "45": {
+      "width": 5111,
+      "height": 7166
+    },
+    "46": {
+      "width": 5111,
+      "height": 7166
+    },
+    "47": {
+      "width": 5111,
+      "height": 7166
+    },
+    "48": {
+      "width": 5111,
+      "height": 7166
+    },
+    "49": {
+      "width": 5111,
+      "height": 7166
+    },
+    "50": {
+      "width": 5111,
+      "height": 7166
+    },
+    "51": {
+      "width": 5111,
+      "height": 7166
+    },
+    "52": {
+      "width": 5111,
+      "height": 7166
+    },
+    "53": {
+      "width": 5111,
+      "height": 7166
+    },
+    "54": {
+      "width": 5111,
+      "height": 7166
+    },
+    "55": {
+      "width": 5111,
+      "height": 7166
+    },
+    "56": {
+      "width": 5111,
+      "height": 7166
+    },
+    "57": {
+      "width": 5111,
+      "height": 7166
+    },
+    "58": {
+      "width": 5111,
+      "height": 7166
+    },
+    "59": {
+      "width": 5111,
+      "height": 7166
+    },
+    "60": {
+      "width": 5111,
+      "height": 7166
+    },
+    "61": {
+      "width": 5111,
+      "height": 7166
+    },
+    "62": {
+      "width": 5111,
+      "height": 7166
+    },
+    "63": {
+      "width": 5111,
+      "height": 7166
+    },
+    "64": {
+      "width": 5111,
+      "height": 7166
+    },
+    "65": {
+      "width": 5111,
+      "height": 7166
+    },
+    "66": {
+      "width": 5111,
+      "height": 7166
+    },
+    "67": {
+      "width": 5111,
+      "height": 7166
+    },
+    "68": {
+      "width": 5111,
+      "height": 7166
+    },
+    "69": {
+      "width": 5111,
+      "height": 7166
+    },
+    "70": {
+      "width": 5111,
+      "height": 7166
+    },
+    "71": {
+      "width": 5111,
+      "height": 7166
+    },
+    "72": {
+      "width": 5111,
+      "height": 7166
+    },
+    "73": {
+      "width": 5111,
+      "height": 7166
+    },
+    "74": {
+      "width": 5111,
+      "height": 7166
+    },
+    "75": {
+      "width": 5111,
+      "height": 7166
+    },
+    "76": {
+      "width": 5111,
+      "height": 7166
+    },
+    "77": {
+      "width": 5111,
+      "height": 7166
+    },
+    "78": {
+      "width": 5111,
+      "height": 7166
+    },
+    "79": {
+      "width": 5111,
+      "height": 7166
+    },
+    "80": {
+      "width": 5111,
+      "height": 7166
+    }
+  },
+  "review": {
+    "sourceSha256": "252384b1278a2b70a7472ba18d19a27dab06ff5971c6ade3644b8e1a244e6c5b",
+    "importMethod": "600-DPI Tesseract PSM3/11, isolated PSM7/13, independent Apple Vision and Codex visual readings of disagreements; official CONMED catalog corroboration; source-positioned tables and white vector drawings; Codex-authored professional Russian.",
+    "flags": [],
+    "status": "published-source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      79,
+      80
+    ],
+    "translatedFields": [
+      "brandName.ru",
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "gallery.1.imageCaption.ru",
+      "componentGroups.0.name.ru",
+      "componentGroups.0.images.0.imageCaption.ru",
+      "componentGroups.0.images.1.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.images.0.imageCaption.ru",
+      "specTables.0.images.1.imageCaption.ru",
+      "catalogTitle.ru",
+      "availabilityNote.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publishedAt": "2026-11-19T16:31:18.650870+00:00",
+    "publicationReason": "Owner authorized automatic publication of systems with zero real flags."
+  },
+  "documentCover": "/catalogs/conmed/hall-powered-instruments/pages/001.webp"
+}

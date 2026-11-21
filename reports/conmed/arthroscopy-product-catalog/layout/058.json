@@ -1,0 +1,850 @@
+{
+  "pdfPage": 58,
+  "officialPage": 78,
+  "alignment": [
+    [
+      0.9701940339118255,
+      0.0010201964732054565,
+      0.014671110258939163
+    ],
+    [
+      -0.0006945343405461124,
+      0.9778106977606437,
+      0.011792702970848973
+    ]
+  ],
+  "alignmentMatches": 22,
+  "alignmentInliers": 22,
+  "category": "hip-arthroscopy",
+  "title": {
+    "en": "Anchors",
+    "ru": "Якорные фиксаторы"
+  },
+  "groups": [
+    {
+      "title": "Poplok® Knotless Suture Anchor",
+      "page": 58,
+      "officialPage": 78,
+      "headingBounds": [
+        0.4257163034539182,
+        0.14516958761855725,
+        0.6736850855881984,
+        0.15972097613110672
+      ],
+      "rows": [
+        {
+          "description": "Poplok 2.8mm w/One Strand of #2 Hi-Fi® Suture",
+          "codes": [
+            {
+              "candidate": "GKP-2801",
+              "sourceBounds": [
+                0.837331343482154,
+                0.23212114566049097,
+                0.8918851461517282,
+                0.2446491923479468
+              ],
+              "officialBounds": [
+                518.7900390625,
+                178.93690490722656,
+                553.1943969726562,
+                189.11590576171875
+              ],
+              "officialCode": "GKP-2801"
+            }
+          ],
+          "rowBounds": [
+            0.42580733152433314,
+            0.23241574400708315,
+            0.8918851461517282,
+            0.2446491923479468
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        },
+        {
+          "description": "Poplok 2.8mm w/Two Strand of #0 Hi-Fi Suture",
+          "codes": [
+            {
+              "candidate": "GKP-2802",
+              "sourceBounds": [
+                0.8371503113882802,
+                0.2500219202225572,
+                0.8919067254756385,
+                0.2625498218662563
+              ],
+              "officialBounds": [
+                518.6640625,
+                193.43592834472656,
+                553.1962280273438,
+                203.61492919921875
+              ],
+              "officialCode": "GKP-2802"
+            }
+          ],
+          "rowBounds": [
+            0.42581652581410956,
+            0.2503163823914866,
+            0.8919067254756385,
+            0.2625498218662563
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        },
+        {
+          "description": "Poplok 3.3mm w/One Strand of #2 Hi-Fi Suture",
+          "codes": [
+            {
+              "candidate": "GKP-3301",
+              "sourceBounds": [
+                0.8368551047609848,
+                0.2679227765189276,
+                0.8919322718807949,
+                0.28045044854464496
+              ],
+              "officialBounds": [
+                518.466064453125,
+                207.93495178222656,
+                553.2005615234375,
+                218.11395263671875
+              ],
+              "officialCode": "GKP-3301"
+            }
+          ],
+          "rowBounds": [
+            0.4258352507746843,
+            0.26821701395315367,
+            0.8919322718807949,
+            0.28045044854464496
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        },
+        {
+          "description": "Poplok 3.3mm w/Two Strand of #0 Hi-Fi Suture",
+          "codes": [
+            {
+              "candidate": "GKP-3302",
+              "sourceBounds": [
+                0.8366597524713939,
+                0.28582356133241493,
+                0.8919395310089879,
+                0.29835108831437573
+              ],
+              "officialBounds": [
+                518.3310546875,
+                222.43397521972656,
+                553.193359375,
+                232.61297607421875
+              ],
+              "officialCode": "GKP-3302"
+            }
+          ],
+          "rowBounds": [
+            0.4258539273562195,
+            0.28611764554945396,
+            0.8919395310089879,
+            0.29835108831437573
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        },
+        {
+          "description": "Poplok 2.8/3.3mm Drill Bit",
+          "codes": [
+            {
+              "candidate": "BKL-00M",
+              "sourceBounds": [
+                0.843170122100667,
+                0.3037195457101256,
+                0.8919611103328983,
+                0.31625171783268513
+              ],
+              "officialBounds": [
+                522.426025390625,
+                236.93299865722656,
+                553.1951904296875,
+                247.11199951171875
+              ],
+              "officialCode": "BKL-00M"
+            }
+          ],
+          "rowBounds": [
+            0.4258726039377547,
+            0.30401827714575413,
+            0.8919611103328983,
+            0.31625171783268513
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        },
+        {
+          "description": "Poplok Guide",
+          "codes": [
+            {
+              "candidate": "BGU-00M",
+              "sourceBounds": [
+                0.8397217631893484,
+                0.3216226592586183,
+                0.8919782387851666,
+                0.3341523505372471
+              ],
+              "officialBounds": [
+                520.239013671875,
+                251.43202209472656,
+                553.1942138671875,
+                261.61102294921875
+              ],
+              "officialCode": "BGU-00M"
+            }
+          ],
+          "rowBounds": [
+            0.42589123214025026,
+            0.3219189087766876,
+            0.8919782387851666,
+            0.3341523505372471
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        },
+        {
+          "description": "Poplok Cannulated Obturator",
+          "codes": [
+            {
+              "candidate": "BTR-HIP",
+              "sourceBounds": [
+                0.847944363807286,
+                0.33951743673747725,
+                0.8920099777073899,
+                0.35205297278258885
+              ],
+              "officialBounds": [
+                525.4140625,
+                265.9310607910156,
+                553.2024536132812,
+                276.11004638671875
+              ],
+              "officialCode": "BTR-HIP"
+            }
+          ],
+          "rowBounds": [
+            0.42590990874144063,
+            0.3398195592116333,
+            0.8920099777073899,
+            0.35205297278258885
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        }
+      ],
+      "features": [
+        {
+          "text": "Unique suture locking mechanism traps suture within the anchor, resulting in dependable fixation independent of bone quality",
+          "bounds": [
+            0.4328756923461785,
+            0.1628934777744433,
+            0.8187027002486765,
+            0.17658070624897457
+          ],
+          "officialStartX": 263.7044982910156
+        },
+        {
+          "text": "Ability to tension suture after anchor is seated",
+          "bounds": [
+            0.43290774093892004,
+            0.1936105579192003,
+            0.7031864926004862,
+            0.20738051352636858
+          ],
+          "officialStartX": 263.7044982910156
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "PressFT™ Anchor",
+      "page": 58,
+      "officialPage": 78,
+      "headingBounds": [
+        0.42597168749778247,
+        0.38994327257683725,
+        0.5557840509683827,
+        0.4045792364927311
+      ],
+      "rows": [
+        {
+          "description": "PressFT 2.1 w/One Strand of #2(5 metric) Hi-Fi Suture",
+          "codes": [
+            {
+              "candidate": "NP211H",
+              "sourceBounds": [
+                0.8502723248757603,
+                0.428414952269756,
+                0.8920895712901687,
+                0.44095209785726264
+              ],
+              "officialBounds": [
+                526.8240356445312,
+                337.9369201660156,
+                553.1941528320312,
+                348.11590576171875
+              ],
+              "officialCode": "NP211H"
+            }
+          ],
+          "rowBounds": [
+            0.4260121437147456,
+            0.428718668077979,
+            0.8920895712901687,
+            0.44095209785726264
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        },
+        {
+          "description": "PressFT 2.6 w/One Strand of #2(5 metric) Hi-Fi Suture",
+          "codes": [
+            {
+              "candidate": "NP261H",
+              "sourceBounds": [
+                0.849192410187078,
+                0.44631633263901094,
+                0.8921010877345347,
+                0.4588526969019827
+              ],
+              "officialBounds": [
+                526.1310424804688,
+                352.4359130859375,
+                553.1896362304688,
+                362.6148986816406
+              ],
+              "officialCode": "NP261H"
+            }
+          ],
+          "rowBounds": [
+            0.426016596819332,
+            0.4466192721791433,
+            0.8921010877345347,
+            0.4588526969019827
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        },
+        {
+          "description": "PressFT Drill Bit 2.1",
+          "codes": [
+            {
+              "candidate": "NDB21H",
+              "sourceBounds": [
+                0.8481694860070272,
+                0.46421767221038,
+                0.8921238281160846,
+                0.47675328791180493
+              ],
+              "officialBounds": [
+                525.4739990234375,
+                366.9349060058594,
+                553.1921997070312,
+                377.1138916015625
+              ],
+              "officialCode": "NDB21H"
+            }
+          ],
+          "rowBounds": [
+            0.42603527336155667,
+            0.46451986609815266,
+            0.8921238281160846,
+            0.47675328791180493
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        },
+        {
+          "description": "PressFT Drill Bit 2.6",
+          "codes": [
+            {
+              "candidate": "NDB26H",
+              "sourceBounds": [
+                0.8471752022184111,
+                0.4821189912789067,
+                0.8921366991735591,
+                0.49465388598679594
+              ],
+              "officialBounds": [
+                524.8350219726562,
+                381.43389892578125,
+                553.1885375976562,
+                391.6128845214844
+              ],
+              "officialCode": "NDB26H"
+            }
+          ],
+          "rowBounds": [
+            0.42605390152474176,
+            0.4824204600517952,
+            0.8921366991735591,
+            0.49465388598679594
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        },
+        {
+          "description": "PressFT Drill Guide",
+          "codes": [
+            {
+              "candidate": "NDGH",
+              "sourceBounds": [
+                0.8607908078361347,
+                0.5000098515427513,
+                0.8921568270869713,
+                0.51255447886681
+              ],
+              "officialBounds": [
+                533.4119873046875,
+                395.9328918457031,
+                553.189453125,
+                406.11187744140625
+              ],
+              "officialCode": "NDGH"
+            }
+          ],
+          "rowBounds": [
+            0.4260725780669664,
+            0.5003210539708046,
+            0.8921568270869713,
+            0.51255447886681
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        },
+        {
+          "description": "PressFT Drill Guide, Offset",
+          "codes": [
+            {
+              "candidate": "NDGHB",
+              "sourceBounds": [
+                0.8532905108040634,
+                0.517915828081289,
+                0.892175503629196,
+                0.5304550727858193
+              ],
+              "officialBounds": [
+                528.6690063476562,
+                410.431884765625,
+                553.189453125,
+                420.6108703613281
+              ],
+              "officialCode": "NDGHB"
+            }
+          ],
+          "rowBounds": [
+            0.4260769827925134,
+            0.518221658106602,
+            0.892175503629196,
+            0.5304550727858193
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        },
+        {
+          "description": "PressFT Cannulated Obturator",
+          "codes": [
+            {
+              "candidate": "NCOH",
+              "sourceBounds": [
+                0.8608852481872948,
+                0.5358109985136181,
+                0.8921743447651905,
+                0.5483556809044324
+              ],
+              "officialBounds": [
+                533.447998046875,
+                424.9308776855469,
+                553.1769409179688,
+                435.10986328125
+              ],
+              "officialCode": "NCOH"
+            }
+          ],
+          "rowBounds": [
+            0.42609565933473814,
+            0.5361222520256115,
+            0.8921743447651905,
+            0.5483556809044324
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        }
+      ],
+      "features": [
+        {
+          "text": "Smallest press-fit PEEK anchor for use in hip arthroscopy",
+          "bounds": [
+            0.4331200040603269,
+            0.40966724288023304,
+            0.767171425154996,
+            0.4233915454454722
+          ],
+          "officialStartX": 263.6961975097656
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Bio Mini Revo® Hip Instability Repair System",
+      "page": 58,
+      "officialPage": 78,
+      "headingBounds": [
+        0.42617630615238133,
+        0.5862461779476205,
+        0.7661738260540735,
+        0.6007316762824945
+      ],
+      "rows": [
+        {
+          "description": "Bio Mini Revo, Pre-threaded with #2 Hi-Fi Suture, Disposable Driver, 3.1mm O.D. x 11mm L",
+          "codes": [
+            {
+              "candidate": "C6170HP",
+              "sourceBounds": [
+                0.8433575713379697,
+                0.7343303819965329,
+                0.8924226752281476,
+                0.7468623767261415
+              ],
+              "officialBounds": [
+                522.2608642578125,
+                585.7158813476562,
+                553.2029418945312,
+                595.8948974609375
+              ],
+              "officialCode": "C6170HP"
+            }
+          ],
+          "rowBounds": [
+            0.44058580032404393,
+            0.7222738920013476,
+            0.8924226752281476,
+            0.7468623767261415
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        }
+      ],
+      "features": [
+        {
+          "text": "3.1mm diameter thread-in style implant",
+          "bounds": [
+            0.4333303249810754,
+            0.6039700813671122,
+            0.6660091773510447,
+            0.6177669536737719
+          ],
+          "officialStartX": 263.70098876953125
+        },
+        {
+          "text": "Manufactured from patented Self-Reinforced 96L/4D PLA",
+          "bounds": [
+            0.4333482041881833,
+            0.6211064667956273,
+            0.7708460513048427,
+            0.6348283021624085
+          ],
+          "officialStartX": 263.70098876953125
+        },
+        {
+          "text": "High pull-out strength and ideal bioabsorbable characteristics",
+          "bounds": [
+            0.43336608339529126,
+            0.6382428522241426,
+            0.7905944509448652,
+            0.651950525394675
+          ],
+          "officialStartX": 263.70098876953125
+        },
+        {
+          "text": "Low profile instrument set, including self-drilling tap, provide precise placement for the pilot hole and the implant for a reproducible technique",
+          "bounds": [
+            0.43338396256308875,
+            0.6553791999753669,
+            0.8369691258827789,
+            0.6690537253103677
+          ],
+          "officialStartX": 263.70098876953125
+        },
+        {
+          "text": "Proven screw-in design ensures optimal purchase in bone",
+          "bounds": [
+            0.433416011165658,
+            0.6860962895394466,
+            0.7704827526605712,
+            0.6998184335224924
+          ],
+          "officialStartX": 263.70098876953125
+        },
+        {
+          "text": "Pre-threaded with #2 Hi-Fi Suture",
+          "bounds": [
+            0.4334338903727659,
+            0.7032326749679618,
+            0.6362711965133035,
+            0.7170509099896114
+          ],
+          "officialStartX": 263.70098876953125
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Bio Mini Revo® Hip Instability Repair System — Bio Instability Instrument Set",
+      "page": 58,
+      "officialPage": 78,
+      "headingBounds": [
+        0.4263609480722762,
+        0.7632632083424798,
+        0.592349237571313,
+        0.776311474713677
+      ],
+      "rows": [
+        {
+          "description": "Extended Length Bio Instability Drill Guide, Fishmouth",
+          "codes": [
+            {
+              "candidate": "C6171EL",
+              "sourceBounds": [
+                0.8457749618261067,
+                0.7812413595344302,
+                0.8924715246962587,
+                0.7937750498352523
+              ],
+              "officialBounds": [
+                523.7548828125,
+                623.7138671875,
+                553.202880859375,
+                633.8928833007812
+              ],
+              "officialCode": "C6171EL"
+            }
+          ],
+          "rowBounds": [
+            0.4263800187810056,
+            0.781541592456933,
+            0.8924715246962587,
+            0.7937750498352523
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        },
+        {
+          "description": "Extended Length Bio Instability Drill Guide, Serrated",
+          "codes": [
+            {
+              "candidate": "C6172EL",
+              "sourceBounds": [
+                0.8449518431188545,
+                0.7991425937480579,
+                0.8924831379380145,
+                0.8116756864879967
+              ],
+              "officialBounds": [
+                523.223876953125,
+                638.212890625,
+                553.1984252929688,
+                648.3919067382812
+              ],
+              "officialCode": "C6172EL"
+            }
+          ],
+          "rowBounds": [
+            0.4263987437415804,
+            0.7994422240186001,
+            0.8924831379380145,
+            0.8116756864879967
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        },
+        {
+          "description": "Blunt Obturator",
+          "codes": [
+            {
+              "candidate": "C6173",
+              "sourceBounds": [
+                0.8578615017516363,
+                0.8170339217019703,
+                0.8925134254104291,
+                0.8295762344177521
+              ],
+              "officialBounds": [
+                531.3555297851562,
+                652.7118530273438,
+                553.2057495117188,
+                662.890869140625
+              ],
+              "officialCode": "C6173"
+            }
+          ],
+          "rowBounds": [
+            0.4264173718654549,
+            0.8173427802949518,
+            0.8925134254104291,
+            0.8295762344177521
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        },
+        {
+          "description": "Sharp Trocar",
+          "codes": [
+            {
+              "candidate": "C6174",
+              "sourceBounds": [
+                0.8589570957543443,
+                0.8349337823636896,
+                0.8925232970067596,
+                0.8474768723172911
+              ],
+              "officialBounds": [
+                532.0348510742188,
+                667.2108764648438,
+                553.2001953125,
+                677.389892578125
+              ],
+              "officialCode": "C6174"
+            }
+          ],
+          "rowBounds": [
+            0.4264360484469901,
+            0.8352434118912521,
+            0.8925232970067596,
+            0.8474768723172911
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        },
+        {
+          "description": "Bio Instability Twist Drill Bit, 2.1mm",
+          "codes": [
+            {
+              "candidate": "C6179",
+              "sourceBounds": [
+                0.8579057246597067,
+                0.8528351046220776,
+                0.8925377161541903,
+                0.8653774316067294
+              ],
+              "officialBounds": [
+                531.35986328125,
+                681.7098388671875,
+                553.197509765625,
+                691.8888549804688
+              ],
+              "officialCode": "C6179"
+            }
+          ],
+          "rowBounds": [
+            0.4264547249499042,
+            0.8531439681329706,
+            0.8925377161541903,
+            0.8653774316067294
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        },
+        {
+          "description": "Bio Instability Bone Punch, 2.1mm",
+          "codes": [
+            {
+              "candidate": "C6176",
+              "sourceBounds": [
+                0.8580385757746636,
+                0.8707356544840736,
+                0.8925621014623965,
+                0.8832780591163144
+              ],
+              "officialBounds": [
+                531.431884765625,
+                696.2088623046875,
+                553.2011108398438,
+                706.3878784179688
+              ],
+              "officialCode": "C6176"
+            }
+          ],
+          "rowBounds": [
+            0.4264734015314394,
+            0.8710445997292708,
+            0.8925621014623965,
+            0.8832780591163144
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        },
+        {
+          "description": "Bio Instability Self-drilling Bone Tap, 2.4mm",
+          "codes": [
+            {
+              "candidate": "C6177",
+              "sourceBounds": [
+                0.8577006020763748,
+                0.8886365413961749,
+                0.8925836807863069,
+                0.9011786886346239
+              ],
+              "officialBounds": [
+                531.2069091796875,
+                710.7078857421875,
+                553.2029418945312,
+                720.8869018554688
+              ],
+              "officialCode": "C6177"
+            }
+          ],
+          "rowBounds": [
+            0.4264921264920142,
+            0.8889452312909378,
+            0.8925836807863069,
+            0.9011786886346239
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        },
+        {
+          "description": "Bio Instability Surgical Instrument Tray",
+          "codes": [
+            {
+              "candidate": "C6178",
+              "sourceBounds": [
+                0.8580047149128431,
+                0.906536893302133,
+                0.8926039054184878,
+                0.9190792437680807
+              ],
+              "officialBounds": [
+                531.386962890625,
+                725.2068481445312,
+                553.2039184570312,
+                735.3858642578125
+              ],
+              "officialCode": "C6178"
+            }
+          ],
+          "rowBounds": [
+            0.42651085137396794,
+            0.9068457874980232,
+            0.8926039054184878,
+            0.9190792437680807
+          ],
+          "pdfPage": 58,
+          "officialPage": 78
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 23
+}

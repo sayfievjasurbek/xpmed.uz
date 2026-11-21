@@ -1,0 +1,38 @@
+{
+  "pdfPage": 8,
+  "pageRow": 9,
+  "visualReading": "iFS-ORING",
+  "visualReader": "Codex independent inspection of 600-DPI source table images; source-line crops retained",
+  "ocrReadings": {
+    "600dpi-psm3": "IFS-ORING",
+    "600dpi-psm11": "IFS-DRING",
+    "600dpi-code-crop-psm7": "IFS-DRING",
+    "isolated-psm7-scale0.5-thresholdNone": "iFS-ORING",
+    "Apple-Vision-accurate": "IFS-ORING"
+  },
+  "matchedReaders": [
+    "isolated-psm7-scale0.5-thresholdNone"
+  ],
+  "value": "iFS-ORING",
+  "verificationStatus": "verified (visual + OCR)",
+  "manufacturerStatus": "confirmed on conmed.com",
+  "officialEvidence": [
+    {
+      "url": "https://www.conmed.com/-/media/conmed/documents/catalog/advancedsurgical_catalog.ashx",
+      "code": "iFS-ORING"
+    }
+  ],
+  "sourceBounds": [
+    0.8567794952064175,
+    0.5810773095171644,
+    0.9143024848366269,
+    0.5901479207368128
+  ],
+  "rowBounds": [
+    0.5289452320766902,
+    0.5757575757575758,
+    0.934,
+    0.5944741532976827
+  ],
+  "lineCrop": "reports/conmed/advanced-surgical-product-catalog/line-crops/008-09.png"
+}

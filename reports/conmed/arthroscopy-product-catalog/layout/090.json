@@ -1,0 +1,313 @@
+{
+  "pdfPage": 90,
+  "officialPage": 116,
+  "alignment": [
+    [
+      0.9709893623519777,
+      0.004638173366483809,
+      0.011997741076945423
+    ],
+    [
+      -0.0029803495396574686,
+      0.9801914769947311,
+      -0.1600177189739231
+    ]
+  ],
+  "alignmentMatches": 7,
+  "alignmentInliers": 4,
+  "category": "arthroscopy-resection",
+  "title": {
+    "en": "Handpieces",
+    "ru": "Наконечники"
+  },
+  "groups": [
+    {
+      "title": "Handpieces",
+      "page": 90,
+      "officialPage": 116,
+      "headingBounds": [
+        0.08,
+        0.12,
+        0.92,
+        0.15
+      ],
+      "rows": [
+        {
+          "description": "Two-Button Ergo™ Shaver",
+          "codes": [
+            {
+              "candidate": "D4240",
+              "sourceBounds": [
+                0.8604447984262728,
+                -0.017627083816689232,
+                0.8955885987201068,
+                -0.0051370817940440405
+              ],
+              "officialBounds": [
+                534.3309936523438,
+                117.15492248535156,
+                556.4440307617188,
+                127.33392333984375
+              ],
+              "officialCode": "D4240"
+            }
+          ],
+          "rowBounds": [
+            0.42906725519209193,
+            -0.01657033951845252,
+            0.8955892312083014,
+            -0.005003417204842819
+          ],
+          "pdfPage": 90,
+          "officialPage": 116
+        },
+        {
+          "description": "No-Button Ergo Shaver",
+          "codes": [
+            {
+              "candidate": "D4200",
+              "sourceBounds": [
+                0.8608547379914923,
+                0.06900600127122894,
+                0.8959985382853263,
+                0.08149600329387413
+              ],
+              "officialBounds": [
+                534.3309936523438,
+                187.15492248535156,
+                556.4440307617188,
+                197.33392333984375
+              ],
+              "officialCode": "D4200"
+            }
+          ],
+          "rowBounds": [
+            0.42947719471263157,
+            0.07006273612720867,
+            0.8959991707735209,
+            0.0816296678830753
+          ],
+          "pdfPage": 90,
+          "officialPage": 116
+        },
+        {
+          "description": "Two-Button Advantage® Turbo Shaver",
+          "codes": [
+            {
+              "candidate": "D9924",
+              "sourceBounds": [
+                0.8612632250851047,
+                0.1556391097021438,
+                0.8964070252895789,
+                0.16812909284027508
+              ],
+              "officialBounds": [
+                534.330078125,
+                257.1549377441406,
+                556.443115234375,
+                267.33392333984375
+              ],
+              "officialCode": "D9924"
+            }
+          ],
+          "rowBounds": [
+            0.4298871343672108,
+            0.1566958400996407,
+            0.8964076577777735,
+            0.1682627574294763
+          ],
+          "pdfPage": 90,
+          "officialPage": 116
+        },
+        {
+          "description": "No-Button Advantage Turbo Shaver (Footswitch Only)",
+          "codes": [
+            {
+              "candidate": "D9920",
+              "sourceBounds": [
+                0.8616746170325716,
+                0.24227215256255133,
+                0.8968184172370458,
+                0.2547621357006826
+              ],
+              "officialBounds": [
+                534.3309936523438,
+                327.1549072265625,
+                556.4440307617188,
+                337.3338928222656
+              ],
+              "officialCode": "D9920"
+            }
+          ],
+          "rowBounds": [
+            0.4302970737537109,
+            0.24332888741853112,
+            0.8968190497252405,
+            0.2548958002898839
+          ],
+          "pdfPage": 90,
+          "officialPage": 116
+        },
+        {
+          "description": "Thorne 5⁄32\" Chuck",
+          "codes": [
+            {
+              "candidate": "D9900",
+              "sourceBounds": [
+                0.8620834913864155,
+                0.3289052409200235,
+                0.8972272915908897,
+                0.3413952240581549
+              ],
+              "officialBounds": [
+                534.330322265625,
+                397.1549072265625,
+                556.443359375,
+                407.3338928222656
+              ],
+              "officialCode": "D9900"
+            }
+          ],
+          "rowBounds": [
+            0.4307070133189304,
+            0.3299619725064493,
+            0.9006549027495186,
+            0.34151836989741
+          ],
+          "pdfPage": 90,
+          "officialPage": 116
+        },
+        {
+          "description": "Advantage® Shaver, No-Button",
+          "codes": [
+            {
+              "candidate": "D9820",
+              "sourceBounds": [
+                0.8626840505476802,
+                0.45576082890706426,
+                0.8978278507521544,
+                0.4682508120451956
+              ],
+              "officialBounds": [
+                534.3305053710938,
+                499.6549072265625,
+                556.4435424804688,
+                509.8338928222656
+              ],
+              "officialCode": "D9820"
+            }
+          ],
+          "rowBounds": [
+            0.4313072819680019,
+            0.4568175613851865,
+            0.8978284832403491,
+            0.46838447663439686
+          ],
+          "pdfPage": 90,
+          "officialPage": 116
+        },
+        {
+          "description": "Advantage Shaver, Two-Button",
+          "codes": [
+            {
+              "candidate": "D9824",
+              "sourceBounds": [
+                0.8630625552748149,
+                0.535587026360217,
+                0.8982063556580085,
+                0.548077047267376
+              ],
+              "officialBounds": [
+                534.3309936523438,
+                564.1549072265625,
+                556.4440307617188,
+                574.3339233398438
+              ],
+              "officialCode": "D9824"
+            }
+          ],
+          "rowBounds": [
+            0.43168501199595416,
+            0.5366437612161968,
+            0.8982069879674838,
+            0.5482106740875496
+          ],
+          "pdfPage": 90,
+          "officialPage": 116
+        },
+        {
+          "description": "MicroChoice® Micro Shaver",
+          "codes": [
+            {
+              "candidate": "MC9840",
+              "sourceBounds": [
+                0.8539533505476724,
+                0.626704779758257,
+                0.8986357314507013,
+                0.6391655229975407
+              ],
+              "officialBounds": [
+                528.3179321289062,
+                637.7548828125,
+                556.4429931640625,
+                647.9338989257812
+              ],
+              "officialCode": "MC9840"
+            }
+          ],
+          "rowBounds": [
+            0.4321160340244094,
+            0.6277322318934143,
+            0.8986363637601765,
+            0.6392991498177143
+          ],
+          "pdfPage": 90,
+          "officialPage": 116
+        }
+      ],
+      "features": [],
+      "notes": [
+        "Forward Speed 500-12,000rpm",
+        "Oscillate Speed 500-2,500cpm, Single- and multi-turn oscillate",
+        "For use with Large Hub Shaver Blades and Burs",
+        "For use with Advantage, E9000®",
+        "Weight: 17.8 oz. (505g",
+        "Forward Speed 500-12,000rpm",
+        "Oscillate Speed 500-2,500cpm, Single- and multi-turn oscillate",
+        "For use with Large Hub Shaver Blades and Burs",
+        "For use with Advantage, E9000®",
+        "Weight: 17.8 oz. (505g)",
+        "Forward Speed 500-12,000rpm",
+        "Oscillate Speed 500-2,500cpm, Single- and multi-turn oscillate",
+        "For use with Large Hub Shaver Blades and Burs",
+        "For use with Advantage, E9000®",
+        "Weight: 17.8 oz. (505g)",
+        "Forward Speed 500-12,000rpm",
+        "Oscillate Speed 500-2,500cpm, Single- and Multi-turn Oscillate",
+        "For use with Large Hub Shaver Blades and Burs",
+        "For use with Advantage, E9000",
+        "Weight: 17.8 oz. (505g)",
+        "10\" lbs of Torque",
+        "5 to 1 gear Box",
+        "Weight: 3.5 oz. (100g)",
+        "Forward Speed 500-10,000rpm",
+        "Oscillate Speed 500-2,500cpm, Single- and Multi-turn Oscillate",
+        "For use with Large Hub Shaver Blades and Burs",
+        "For use with Advantage, E9000 and PowerPro® Consoles",
+        "Weight: 15.8 oz. (450g)",
+        "Forward Speed 500-10,000rpm",
+        "Oscillate Speed 500-2,500cpm, Single- and Multi-turn Oscillate",
+        "For use with Large Hub Shaver Blades and Burs",
+        "For use with Advantage, E9000 and PowerPro Consoles",
+        "Weight: 15.8 oz. (450g)",
+        "Forward Speed 300-6,000rpm",
+        "Oscillate Speed 300-2,500cpm, Single- and Multi-turn Oscillate",
+        "For use with Micro Hub Small Joint Blades and Burs",
+        "For use with Advantage, E9000 and PowerPro Consoles",
+        "Weight: 8.4 oz. (237g)"
+      ],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 8
+}

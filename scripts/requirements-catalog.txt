@@ -1,0 +1,9 @@
+PyMuPDF>=1.24,<3
+pdfplumber>=0.11,<1
+rembg[cpu]>=2,<3
+Pillow>=10,<14
+jsonschema>=4,<5
+
+# OCR executable: Tesseract 5+ with English traineddata (e.g. brew install tesseract).
+opencv-python-headless>=4.10,<6
+zxing-cpp>=2.3,<4

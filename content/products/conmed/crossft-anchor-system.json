@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "slug": "crossft-anchor-system",
+  "brand": "conmed",
+  "category": "arthroscopy",
+  "subcategory": "shoulder",
+  "specialty": [
+    "sports",
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Анкерная система CrossFT",
+    "en": "CrossFT anchor system"
+  },
+  "shortDescription": {
+    "ru": "Фиксация мягких тканей",
+    "en": "Soft tissue fixation"
+  },
+  "description": {
+    "ru": "Система CrossFT включает безузловой анкер 4.75 мм и анкер CrossFT 4.5 мм с двумя нитями #2 Hi-Fi.\n\nНа исходной странице безузлового анкера описана система двухрядного шва ротаторной манжеты CUFF LINK: анкер с голубой лентой и анкер с ушком, через которое проводится лента из медиального ряда швов. В исходном описании эта техника охарактеризована как применяемая редко и требующая дорогостоящих анкеров, инструментария и навыка выполнения шва ротаторной манжеты плечевого сустава. Наименование CUFF LINK сохранено из источника и требует проверки соответствия изделию CrossFT.\n\nАнкер CrossFT 4.5 мм из PEEK ввинчивается в кость и предназначен для шва ротаторной манжеты. Для формирования отверстия требуется шило.",
+    "en": "The CrossFT system includes a 4.75 mm knotless anchor and a 4.5 mm CrossFT anchor with two #2 Hi-Fi sutures.\n\nThe original knotless-anchor page describes the CUFF LINK double-row rotator cuff suture system: an anchor with blue tape and an eyelet anchor through which tape from the medial suture row is passed. The source describes these as infrequent procedures requiring costly anchors and instruments and expertise in rotator cuff suturing. The CUFF LINK name is preserved from the source and requires verification against the CrossFT product.\n\nThe 4.5 mm CrossFT PEEK anchor screws into bone and is intended for rotator cuff suturing. An awl is required to create the hole."
+  },
+  "heroImage": "/images/products/conmed/crossft-anchor-system/anchor.webp",
+  "imageType": "cutout",
+  "gallery": [
+    "/images/products/conmed/crossft-anchor-system/anchor.webp",
+    "/images/products/conmed/crossft-anchor-system/crossft.webp"
+  ],
+  "features": [],
+  "hotspots": [],
+  "components": [
+    {
+      "id": "anchor",
+      "name": {
+        "ru": "Безузловой анкер CrossFT",
+        "en": "CrossFT knotless anchor"
+      },
+      "image": "/images/products/conmed/crossft-anchor-system/anchor.webp",
+      "refCodes": [],
+      "sizes": [],
+      "variants": [],
+      "legacyDocuments": [
+        {
+          "type": "product-page",
+          "ru": "https://xpmed.uz/product/conmed/implant/yakor-crossft-4-75-mm-bezuzlovoj/",
+          "en": "https://xpmed.uz/product/conmed-en/implant-en/anchor-crossft-4-75-mm-knotless/"
+        }
+      ]
+    },
+    {
+      "id": "crossft",
+      "name": {
+        "ru": "Анкер CrossFT 4,5 мм",
+        "en": "CrossFT 4.5 mm anchor"
+      },
+      "image": "/images/products/conmed/crossft-anchor-system/crossft.webp",
+      "refCodes": [],
+      "sizes": [],
+      "variants": [],
+      "legacyDocuments": [
+        {
+          "type": "product-page",
+          "ru": "https://xpmed.uz/product/conmed/plechevoj-sustav/yakor-crossft-4-5-mm-na-otvertke-s-2-mya-nityami-2-hi-fi/",
+          "en": "https://xpmed.uz/product/conmed-en/shoulder-joint/anchor-crossft-4-5-mm-on-a-screwdriver-with-2-threads-2-hi-fi/"
+        }
+      ]
+    }
+  ],
+  "specTables": [
+    {
+      "id": "legacy-crossft-characteristics",
+      "title": {
+        "ru": "Характеристики анкеров CrossFT",
+        "en": "CrossFT anchor characteristics"
+      },
+      "unit": null,
+      "columns": [
+        {
+          "ru": "Изделие",
+          "en": "Product"
+        },
+        {
+          "ru": "Диаметр",
+          "en": "Diameter"
+        },
+        {
+          "ru": "Характеристики из источника",
+          "en": "Source characteristics"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Безузловой анкер CrossFT",
+            "en": "CrossFT knotless anchor"
+          },
+          {
+            "ru": "4.75 мм",
+            "en": "4.75 mm"
+          },
+          {
+            "ru": "Анкер с голубой лентой; в исходном описании указана система CUFF LINK",
+            "en": "Anchor with blue tape; the original description identifies CUFF LINK"
+          }
+        ],
+        [
+          {
+            "ru": "Анкер CrossFT на отвёртке",
+            "en": "CrossFT anchor on a screwdriver"
+          },
+          {
+            "ru": "4.5 мм",
+            "en": "4.5 mm"
+          },
+          {
+            "ru": "PEEK; 2 нити #2 Hi-Fi; требуется шило",
+            "en": "PEEK; two #2 Hi-Fi sutures; awl required"
+          }
+        ]
+      ],
+      "legend": null,
+      "headersVerified": true
+    }
+  ],
+  "refCodes": [],
+  "sourcePdf": null,
+  "sourcePages": [],
+  "catalogEdition": null,
+  "isNew": false,
+  "status": "published",
+  "legacyId": "anchor",
+  "legacyBrand": "conmed",
+  "review": {
+    "flags": [
+      {
+        "field": "description",
+        "message": "Legacy knotless CrossFT page describes CUFF LINK. Product attribution requires verification; source terminology has been retained.",
+        "severity": "warning"
+      }
+    ],
+    "notes": [
+      "Migrated existing catalog content; no additional dimensions or reference codes inferred.",
+      "Full descriptions and source-supported characteristics imported from original XPMED RU/EN pages on 2026-11-18. Medical terminology and grammar normalized; no dimensions or REF codes inferred."
+    ]
+  },
+  "imageDimensions": {
+    "/images/products/conmed/crossft-anchor-system/anchor.webp": {
+      "width": 640,
+      "height": 640
+    },
+    "/images/products/conmed/crossft-anchor-system/crossft.webp": {
+      "width": 640,
+      "height": 640
+    }
+  },
+  "subcategories": [
+    "shoulder"
+  ],
+  "legacySources": [
+    {
+      "productId": "anchor",
+      "language": "ru",
+      "url": "https://xpmed.uz/product/conmed/implant/yakor-crossft-4-75-mm-bezuzlovoj/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    },
+    {
+      "productId": "anchor",
+      "language": "en",
+      "url": "https://xpmed.uz/product/conmed-en/implant-en/anchor-crossft-4-75-mm-knotless/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    },
+    {
+      "productId": "crossft",
+      "language": "ru",
+      "url": "https://xpmed.uz/product/conmed/plechevoj-sustav/yakor-crossft-4-5-mm-na-otvertke-s-2-mya-nityami-2-hi-fi/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    },
+    {
+      "productId": "crossft",
+      "language": "en",
+      "url": "https://xpmed.uz/product/conmed-en/shoulder-joint/anchor-crossft-4-5-mm-on-a-screwdriver-with-2-threads-2-hi-fi/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    }
+  ]
+}

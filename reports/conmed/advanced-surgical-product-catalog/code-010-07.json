@@ -1,0 +1,43 @@
+{
+  "pdfPage": 10,
+  "pageRow": 7,
+  "visualReading": "VV220NF",
+  "visualReader": "Codex independent inspection of 600-DPI source table images; source-line crops retained",
+  "ocrReadings": {
+    "600dpi-psm3": "W220NF",
+    "600dpi-psm11": "W220NF",
+    "600dpi-code-crop-psm7": "W220NF",
+    "isolated-psm7-scale0.5-thresholdNone": "W220NF",
+    "isolated-psm7-scale0.5-threshold175": "W220NF",
+    "isolated-psm7-scale0.75-threshold210": "W220NF",
+    "isolated-psm7-scale1-thresholdNone": "W220NF",
+    "isolated-psm13-scale0.5-thresholdNone": "WR 20NF",
+    "isolated-psm13-scale0.5-threshold175": "WR 20NF",
+    "isolated-psm13-scale0.75-threshold210": "— W220NF",
+    "isolated-psm13-scale1-thresholdNone": "— WW220NF",
+    "Apple-Vision-accurate": "W220NF"
+  },
+  "matchedReaders": [],
+  "value": null,
+  "verificationStatus": "unresolved",
+  "manufacturerStatus": "confirmed on conmed.com",
+  "officialEvidence": [
+    {
+      "url": "https://www.conmed.com/-/media/conmed/documents/catalog/advancedsurgical_catalog.ashx",
+      "code": "VV220NF"
+    }
+  ],
+  "sourceBounds": [
+    0.8622578751711993,
+    0.3568238905944739,
+    0.9146937976912541,
+    0.3657549539492046
+  ],
+  "rowBounds": [
+    0.5289452320766902,
+    0.33689839572192515,
+    0.934,
+    0.3698752228163993
+  ],
+  "lineCrop": "reports/conmed/advanced-surgical-product-catalog/line-crops/010-07.png"
+}

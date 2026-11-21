@@ -1,0 +1,1081 @@
+{
+  "slug": "buttress-shaft",
+  "brand": "double-medical",
+  "category": "trauma-implants",
+  "subcategory": "trauma-external-fixation",
+  "subcategories": [
+    "trauma-external-fixation"
+  ],
+  "specialty": [
+    "traumatology",
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Опорный стержень",
+    "en": "Buttress Shaft"
+  },
+  "shortDescription": {
+    "ru": "Импланты для остеосинтеза",
+    "en": "Implants for fracture fixation"
+  },
+  "description": {
+    "ru": "Опорный стержень. Характеристики и каталожные номера приведены по Trauma Catalogue Double Medical.",
+    "en": "Buttress Shaft. Specifications and reference numbers are listed according to the Double Medical Trauma Catalogue."
+  },
+  "heroImage": "/images/products/double-medical/buttress-shaft/page-559-art-01.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "width": 500,
+      "height": 142,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          218,
+          40
+        ],
+        "enhancedSize": [
+          436,
+          80
+        ]
+      },
+      "src": "/images/products/double-medical/buttress-shaft/page-559-art-01.webp",
+      "imageCaption": {
+        "ru": "Опорный стержень",
+        "en": "Buttress Shaft"
+      },
+      "sourcePages": [
+        559
+      ]
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [
+    {
+      "id": "trauma-p559-1",
+      "groupId": "trauma-p559-1",
+      "title": {
+        "ru": "Опорный стержень",
+        "en": "Buttress Shaft"
+      },
+      "unit": "mm",
+      "sourcePage": 559,
+      "sourcePages": [
+        559
+      ],
+      "printedPage": "9/31",
+      "hideDescriptionColumn": true,
+      "columns": [
+        {
+          "ru": "Позиция",
+          "en": "Item"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Размер",
+          "en": "Size"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Опорный стержень · Размер: 170-275",
+            "en": "Buttress Shaft · Size: 170-275"
+          },
+          "100153100",
+          {
+            "ru": "170-275",
+            "en": "170-275"
+          }
+        ],
+        [
+          {
+            "ru": "Опорный стержень · Размер: 120-175",
+            "en": "Buttress Shaft · Size: 120-175"
+          },
+          "100153200",
+          {
+            "ru": "120-175",
+            "en": "120-175"
+          }
+        ],
+        [
+          {
+            "ru": "Опорный стержень · Размер: 90-124",
+            "en": "Buttress Shaft · Size: 90-124"
+          },
+          "100153300",
+          {
+            "ru": "90-124",
+            "en": "90-124"
+          }
+        ],
+        [
+          {
+            "ru": "Опорный стержень · Размер: 75-90",
+            "en": "Buttress Shaft · Size: 75-90"
+          },
+          "100155200",
+          {
+            "ru": "75-90",
+            "en": "75-90"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 559,
+          "printedPage": "9/31",
+          "sourceBounds": [
+            0.08,
+            0.20478712580708275,
+            0.55,
+            0.22056994717276462
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p559-1",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 559,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "100153100"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "100153100"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "100153100"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "100153100",
+                "PSM11": "100153100",
+                "Vision": "100153100"
+              },
+              "value": "100153100",
+              "bounds": [
+                0.13408280778722237,
+                0.20778712580708275,
+                0.22072936660268713,
+                0.21756994717276462
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "100153100"
+            },
+            {
+              "readings": {
+                "PSM3": "170-275",
+                "PSM11": "170-275",
+                "Vision": "170-275"
+              },
+              "value": "170-275",
+              "glyphReading": {
+                "text": "170-275",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.0,
+                    "margin": 0.4019149013772175
+                  },
+                  {
+                    "character": "7",
+                    "distance": 0.0,
+                    "margin": 0.2026843954248366
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.010260927287581698,
+                    "margin": 0.15154215686274514
+                  },
+                  {
+                    "character": "-",
+                    "distance": 0.0,
+                    "margin": 0.24
+                  },
+                  {
+                    "character": "2",
+                    "distance": 0.0,
+                    "margin": 0.2950130568894224
+                  },
+                  {
+                    "character": "7",
+                    "distance": 0.0,
+                    "margin": 0.21095908905228755
+                  },
+                  {
+                    "character": "5",
+                    "distance": 0.0,
+                    "margin": 0.18808090736294522
+                  }
+                ],
+                "sourceRect": [
+                  156.3509979248047,
+                  127.41400146484375,
+                  183.66099548339844,
+                  133.45901489257812
+                ]
+              },
+              "verifiedValue": "170-275"
+            }
+          ]
+        },
+        {
+          "pdfPage": 559,
+          "printedPage": "9/31",
+          "sourceBounds": [
+            0.08,
+            0.21946135785560555,
+            0.55,
+            0.23524417922128743
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p559-1",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 559,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "100153200"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "100153200"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "100153200"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "100153200",
+                "PSM11": "100153200",
+                "Vision": "100153200"
+              },
+              "value": "100153200",
+              "bounds": [
+                0.13408280778722237,
+                0.22246135785560556,
+                0.22072936660268713,
+                0.23224417922128743
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "100153200"
+            },
+            {
+              "readings": {
+                "PSM3": "120-175",
+                "PSM11": "120-175",
+                "Vision": "120-175"
+              },
+              "value": "120-175",
+              "glyphReading": {
+                "text": "120-175",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.002387152777777778,
+                    "margin": 0.39919329190009334
+                  },
+                  {
+                    "character": "2",
+                    "distance": 0.00813674428104575,
+                    "margin": 0.2901641702514339
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.002101205065359477,
+                    "margin": 0.15871638071895428
+                  },
+                  {
+                    "character": "-",
+                    "distance": 0.0,
+                    "margin": 0.24
+                  },
+                  {
+                    "character": "1",
+                    "distance": 0.002387152777777778,
+                    "margin": 0.4203106680172069
+                  },
+                  {
+                    "character": "7",
+                    "distance": 0.0,
+                    "margin": 0.2097233864379085
+                  },
+                  {
+                    "character": "5",
+                    "distance": 0.0,
+                    "margin": 0.1895719204348406
+                  }
+                ],
+                "sourceRect": [
+                  156.3509979248047,
+                  136.43399047851562,
+                  183.66099548339844,
+                  142.47900390625
+                ]
+              },
+              "verifiedValue": "120-175"
+            }
+          ]
+        },
+        {
+          "pdfPage": 559,
+          "printedPage": "9/31",
+          "sourceBounds": [
+            0.08,
+            0.23413558990412836,
+            0.55,
+            0.25011406769712385
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p559-1",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 559,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "100153300"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "100153300"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "100153300"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "100153300",
+                "PSM11": "100153300",
+                "Vision": "100153300"
+              },
+              "value": "100153300",
+              "bounds": [
+                0.13408280778722237,
+                0.23713558990412836,
+                0.22072936660268713,
+                0.24711406769712385
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "100153300"
+            },
+            {
+              "readings": {
+                "PSM3": "90-124",
+                "PSM11": "90-124",
+                "Vision": "90-124"
+              },
+              "value": "90-124",
+              "glyphReading": {
+                "text": "90-124",
+                "scores": [
+                  {
+                    "character": "9",
+                    "distance": 0.0,
+                    "margin": 0.16383527369281045
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.004871323529411765,
+                    "margin": 0.1528391339869281
+                  },
+                  {
+                    "character": "-",
+                    "distance": 0.0,
+                    "margin": 0.2
+                  },
+                  {
+                    "character": "1",
+                    "distance": 0.00482281454248366,
+                    "margin": 0.421531052004135
+                  },
+                  {
+                    "character": "2",
+                    "distance": 0.0006587009803921568,
+                    "margin": 0.28993237878484723
+                  },
+                  {
+                    "character": "4",
+                    "distance": 0.0,
+                    "margin": 0.41826930772308923
+                  }
+                ],
+                "sourceRect": [
+                  155.82699584960938,
+                  145.45498657226562,
+                  179.281005859375,
+                  151.49899291992188
+                ]
+              },
+              "verifiedValue": "90-124"
+            }
+          ]
+        },
+        {
+          "pdfPage": 559,
+          "printedPage": "9/31",
+          "sourceBounds": [
+            0.08,
+            0.24880982195265117,
+            0.55,
+            0.26478829974564666
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p559-1",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 559,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "100155200"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "100155200"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "100155200"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "100155200",
+                "PSM11": "100155200",
+                "Vision": "100155200"
+              },
+              "value": "100155200",
+              "bounds": [
+                0.13408280778722237,
+                0.25180982195265117,
+                0.22072936660268713,
+                0.26178829974564666
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "100155200"
+            },
+            {
+              "readings": {
+                "PSM3": "75-90",
+                "PSM11": "75-90",
+                "Vision": "75-90"
+              },
+              "value": "75-90",
+              "glyphReading": {
+                "text": "75-90",
+                "scores": [
+                  {
+                    "character": "7",
+                    "distance": 0.0,
+                    "margin": 0.21361038040216088
+                  },
+                  {
+                    "character": "5",
+                    "distance": 0.0,
+                    "margin": 0.18722937091503267
+                  },
+                  {
+                    "character": "-",
+                    "distance": 0.0,
+                    "margin": 0.2
+                  },
+                  {
+                    "character": "9",
+                    "distance": 0.0,
+                    "margin": 0.15088337418300654
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.0066584967320261436,
+                    "margin": 0.1467984068627451
+                  }
+                ],
+                "sourceRect": [
+                  155.8730010986328,
+                  154.4739990234375,
+                  174.9720001220703,
+                  160.51901245117188
+                ]
+              },
+              "verifiedValue": "75-90"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "width": 500,
+          "height": 142,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              218,
+              40
+            ],
+            "enhancedSize": [
+              436,
+              80
+            ]
+          },
+          "src": "/images/products/double-medical/buttress-shaft/page-559-art-01.webp",
+          "imageCaption": {
+            "ru": "Опорный стержень",
+            "en": "Buttress Shaft"
+          },
+          "sourcePages": [
+            559
+          ]
+        }
+      ],
+      "keyParameters": []
+    }
+  ],
+  "refCodes": [
+    "100153100",
+    "100153200",
+    "100153300",
+    "100155200"
+  ],
+  "sourcePages": [
+    559
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Trauma Catalogue — каталог продукции",
+    "en": "Double Medical Trauma Catalogue — product catalog"
+  },
+  "documentCover": "/catalogs/double-medical/trauma-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "catalogType": "list",
+  "importPartition": "trauma-part3",
+  "availabilityNote": {
+    "ru": "Изображения приведены для справки",
+    "en": "Images for reference only"
+  },
+  "imageDimensions": {
+    "/images/products/double-medical/buttress-shaft/page-559-art-01.webp": {
+      "width": 500,
+      "height": 142
+    }
+  },
+  "relatedSystemSlugs": [],
+  "sourcePdf": "/catalogs/double-medical/trauma-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/trauma-catalogue/pages/559.webp"
+  ],
+  "sourcePageDimensions": {
+    "530": {
+      "width": 3647,
+      "height": 5111
+    },
+    "531": {
+      "width": 3647,
+      "height": 5111
+    },
+    "532": {
+      "width": 3647,
+      "height": 5111
+    },
+    "533": {
+      "width": 3647,
+      "height": 5111
+    },
+    "534": {
+      "width": 3647,
+      "height": 5111
+    },
+    "535": {
+      "width": 3647,
+      "height": 5111
+    },
+    "536": {
+      "width": 3647,
+      "height": 5111
+    },
+    "537": {
+      "width": 3647,
+      "height": 5111
+    },
+    "538": {
+      "width": 3647,
+      "height": 5111
+    },
+    "539": {
+      "width": 3647,
+      "height": 5111
+    },
+    "540": {
+      "width": 3647,
+      "height": 5111
+    },
+    "541": {
+      "width": 3647,
+      "height": 5111
+    },
+    "542": {
+      "width": 3647,
+      "height": 5111
+    },
+    "543": {
+      "width": 3647,
+      "height": 5111
+    },
+    "544": {
+      "width": 3647,
+      "height": 5111
+    },
+    "545": {
+      "width": 3647,
+      "height": 5111
+    },
+    "546": {
+      "width": 3647,
+      "height": 5111
+    },
+    "547": {
+      "width": 3647,
+      "height": 5111
+    },
+    "548": {
+      "width": 3647,
+      "height": 5111
+    },
+    "549": {
+      "width": 3647,
+      "height": 5111
+    },
+    "550": {
+      "width": 3647,
+      "height": 5111
+    },
+    "551": {
+      "width": 3647,
+      "height": 5111
+    },
+    "552": {
+      "width": 3647,
+      "height": 5111
+    },
+    "553": {
+      "width": 3647,
+      "height": 5111
+    },
+    "554": {
+      "width": 3647,
+      "height": 5111
+    },
+    "555": {
+      "width": 3647,
+      "height": 5111
+    },
+    "556": {
+      "width": 3647,
+      "height": 5111
+    },
+    "557": {
+      "width": 3647,
+      "height": 5111
+    },
+    "558": {
+      "width": 3647,
+      "height": 5111
+    },
+    "559": {
+      "width": 3647,
+      "height": 5111
+    },
+    "560": {
+      "width": 3647,
+      "height": 5111
+    },
+    "561": {
+      "width": 3647,
+      "height": 5111
+    },
+    "562": {
+      "width": 3647,
+      "height": 5111
+    },
+    "563": {
+      "width": 3647,
+      "height": 5111
+    },
+    "564": {
+      "width": 3647,
+      "height": 5111
+    },
+    "565": {
+      "width": 3647,
+      "height": 5111
+    },
+    "566": {
+      "width": 3647,
+      "height": 5111
+    },
+    "567": {
+      "width": 3647,
+      "height": 5111
+    },
+    "568": {
+      "width": 3647,
+      "height": 5111
+    },
+    "569": {
+      "width": 3647,
+      "height": 5111
+    },
+    "570": {
+      "width": 3647,
+      "height": 5111
+    },
+    "571": {
+      "width": 3647,
+      "height": 5111
+    },
+    "572": {
+      "width": 3647,
+      "height": 5111
+    },
+    "573": {
+      "width": 3647,
+      "height": 5111
+    },
+    "574": {
+      "width": 3647,
+      "height": 5111
+    },
+    "575": {
+      "width": 3647,
+      "height": 5111
+    },
+    "576": {
+      "width": 3647,
+      "height": 5111
+    },
+    "577": {
+      "width": 3647,
+      "height": 5111
+    },
+    "578": {
+      "width": 3647,
+      "height": 5111
+    },
+    "582": {
+      "width": 3647,
+      "height": 5111
+    },
+    "583": {
+      "width": 3647,
+      "height": 5111
+    },
+    "584": {
+      "width": 3647,
+      "height": 5111
+    },
+    "585": {
+      "width": 3647,
+      "height": 5111
+    },
+    "586": {
+      "width": 3647,
+      "height": 5111
+    },
+    "587": {
+      "width": 3647,
+      "height": 5111
+    },
+    "588": {
+      "width": 3647,
+      "height": 5111
+    },
+    "589": {
+      "width": 3647,
+      "height": 5111
+    },
+    "590": {
+      "width": 3647,
+      "height": 5111
+    },
+    "591": {
+      "width": 3647,
+      "height": 5111
+    },
+    "592": {
+      "width": 3647,
+      "height": 5111
+    },
+    "593": {
+      "width": 3647,
+      "height": 5111
+    },
+    "594": {
+      "width": 3647,
+      "height": 5111
+    },
+    "595": {
+      "width": 3647,
+      "height": 5111
+    },
+    "596": {
+      "width": 3647,
+      "height": 5111
+    },
+    "597": {
+      "width": 3647,
+      "height": 5111
+    },
+    "598": {
+      "width": 3647,
+      "height": 5111
+    },
+    "599": {
+      "width": 3647,
+      "height": 5111
+    },
+    "600": {
+      "width": 3647,
+      "height": 5111
+    },
+    "601": {
+      "width": 3647,
+      "height": 5111
+    },
+    "602": {
+      "width": 3647,
+      "height": 5111
+    },
+    "603": {
+      "width": 3647,
+      "height": 5111
+    },
+    "604": {
+      "width": 3647,
+      "height": 5111
+    },
+    "605": {
+      "width": 3647,
+      "height": 5111
+    },
+    "606": {
+      "width": 3647,
+      "height": 5111
+    },
+    "607": {
+      "width": 3647,
+      "height": 5111
+    },
+    "608": {
+      "width": 3647,
+      "height": 5111
+    },
+    "612": {
+      "width": 3647,
+      "height": 5111
+    },
+    "613": {
+      "width": 3647,
+      "height": 5111
+    },
+    "614": {
+      "width": 3647,
+      "height": 5111
+    },
+    "615": {
+      "width": 3647,
+      "height": 5111
+    },
+    "616": {
+      "width": 3647,
+      "height": 5111
+    },
+    "617": {
+      "width": 3647,
+      "height": 5111
+    },
+    "620": {
+      "width": 3647,
+      "height": 5111
+    },
+    "621": {
+      "width": 3647,
+      "height": 5111
+    },
+    "622": {
+      "width": 3647,
+      "height": 5111
+    },
+    "623": {
+      "width": 3647,
+      "height": 5111
+    },
+    "624": {
+      "width": 3647,
+      "height": 5111
+    },
+    "625": {
+      "width": 3647,
+      "height": 5111
+    },
+    "626": {
+      "width": 3647,
+      "height": 5111
+    },
+    "627": {
+      "width": 3647,
+      "height": 5111
+    },
+    "628": {
+      "width": 3647,
+      "height": 5111
+    },
+    "632": {
+      "width": 3647,
+      "height": 5111
+    },
+    "633": {
+      "width": 3647,
+      "height": 5111
+    },
+    "634": {
+      "width": 3647,
+      "height": 5111
+    },
+    "635": {
+      "width": 3647,
+      "height": 5111
+    },
+    "636": {
+      "width": 3647,
+      "height": 5111
+    },
+    "637": {
+      "width": 3647,
+      "height": 5111
+    },
+    "638": {
+      "width": 3647,
+      "height": 5111
+    },
+    "639": {
+      "width": 3647,
+      "height": 5111
+    },
+    "640": {
+      "width": 3647,
+      "height": 5111
+    },
+    "641": {
+      "width": 3647,
+      "height": 5111
+    },
+    "642": {
+      "width": 3647,
+      "height": 5111
+    },
+    "643": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "3f2755d7646453cd1d8981369406a66062322971a7cb98258e022ae9b9769999",
+    "importMethod": "600-DPI Tesseract PSM3/11 plus independent Apple Vision; source glyph reconciliation and Codex visual reading; Codex medical RU; native photo composites, original Real-ESRGAN weights exact 2x then rembg",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      528,
+      529,
+      579,
+      580,
+      581,
+      609,
+      610,
+      611,
+      618,
+      619,
+      629,
+      630,
+      631,
+      644
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.columns.2.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.0.2.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.1.2.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.rows.2.2.ru",
+      "specTables.0.rows.3.0.ru",
+      "specTables.0.rows.3.2.ru",
+      "specTables.0.images.0.imageCaption.ru",
+      "catalogTitle.ru",
+      "availabilityNote.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Owner authorized automatic publication after source review with zero real open flags; no REF inferred.",
+    "imageQA": "Codex visual review of all seven final contact sheets and source layouts; two QR tiles excluded; two multi-instrument composites split into five separate row photos; ambiguous 607 composite retained only as a general subgroup illustration"
+  },
+  "publishedAt": "2026-11-21T06:37:29.425430+00:00"
+}

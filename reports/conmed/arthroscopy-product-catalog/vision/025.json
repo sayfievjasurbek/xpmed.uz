@@ -1,0 +1,665 @@
+[
+  {
+    "alternatives" : [
+      "Cannula Systems"
+    ],
+    "bounds" : [
+      0.099796336906105287,
+      0.049355159016665984,
+      0.36252545643110745,
+      0.074156746318253308
+    ],
+    "confidence" : 1,
+    "text" : "Cannula Systems"
+  },
+  {
+    "alternatives" : [
+      "CCONMED"
+    ],
+    "bounds" : [
+      0.51518274562870492,
+      0.046196441023733659,
+      0.70884984307850496,
+      0.075896582128174517
+    ],
+    "confidence" : 1,
+    "text" : "CCONMED"
+  },
+  {
+    "alternatives" : [
+      "X"
+    ],
+    "bounds" : [
+      0.76782077321840292,
+      0.040697674953109497,
+      0.81670061150664786,
+      0.081395347963557185
+    ],
+    "confidence" : 1,
+    "text" : "X"
+  },
+  {
+    "alternatives" : [
+      "XPmed"
+    ],
+    "bounds" : [
+      0.82267061429939448,
+      0.053328103310243957,
+      0.9492234772811563,
+      0.074578873515787181
+    ],
+    "confidence" : 1,
+    "text" : "XPmed"
+  },
+  {
+    "alternatives" : [
+      "Cannulated Obturator,"
+    ],
+    "bounds" : [
+      0.099586061571647885,
+      0.1772258024212463,
+      0.24260366728555716,
+      0.18922906809729056
+    ],
+    "confidence" : 1,
+    "text" : "Cannulated Obturator,"
+  },
+  {
+    "alternatives" : [
+      "Green"
+    ],
+    "bounds" : [
+      0.09979633392946681,
+      0.19040697692120634,
+      0.14052953073448435,
+      0.19912790658170065
+    ],
+    "confidence" : 1,
+    "text" : "Green"
+  },
+  {
+    "alternatives" : [
+      "Cannulated Obturator,"
+    ],
+    "bounds" : [
+      0.099487572421741208,
+      0.23797871759565048,
+      0.2427422941998999,
+      0.25162817368037116
+    ],
+    "confidence" : 1,
+    "text" : "Cannulated Obturator,"
+  },
+  {
+    "alternatives" : [
+      "Blue"
+    ],
+    "bounds" : [
+      0.099796334930937883,
+      0.25290697697207842,
+      0.1303462318715061,
+      0.26162790663257274
+    ],
+    "confidence" : 1,
+    "text" : "Blue"
+  },
+  {
+    "alternatives" : [
+      "Cannulated Obturator,"
+    ],
+    "bounds" : [
+      0.099796337415310327,
+      0.3023255815277639,
+      0.24236252490648189,
+      0.31249999978037568
+    ],
+    "confidence" : 1,
+    "text" : "Cannulated Obturator,"
+  },
+  {
+    "alternatives" : [
+      "Red"
+    ],
+    "bounds" : [
+      0.099796334081862753,
+      0.31395348851277616,
+      0.12627291160720719,
+      0.32267441817327047
+    ],
+    "confidence" : 1,
+    "text" : "Red"
+  },
+  {
+    "alternatives" : [
+      "Cannulated Obturator,"
+    ],
+    "bounds" : [
+      0.099796338297862872,
+      0.36036706367263838,
+      0.24236252578903444,
+      0.37063953487727486
+    ],
+    "confidence" : 1,
+    "text" : "Cannulated Obturator,"
+  },
+  {
+    "alternatives" : [
+      "Yellow"
+    ],
+    "bounds" : [
+      0.099796335670627651,
+      0.37209302350550866,
+      0.14256619085686723,
+      0.38081395316600297
+    ],
+    "confidence" : 1,
+    "text" : "Yellow"
+  },
+  {
+    "alternatives" : [
+      "Universal"
+    ],
+    "bounds" : [
+      0.09979633428821659,
+      0.55523255814598083,
+      0.16089612816935306,
+      0.56540697639859272
+    ],
+    "confidence" : 1,
+    "text" : "Universal"
+  },
+  {
+    "alternatives" : [
+      "Cannula Set"
+    ],
+    "bounds" : [
+      0.099796334348439569,
+      0.56820436503102612,
+      0.1792260669244729,
+      0.57713293645959751
+    ],
+    "confidence" : 1,
+    "text" : "Cannula Set"
+  },
+  {
+    "alternatives" : [
+      "Reusable Obturators"
+    ],
+    "bounds" : [
+      0.4256619157946388,
+      0.14236111122779049,
+      0.58452138094670547,
+      0.156994047735727
+    ],
+    "confidence" : 1,
+    "text" : "Reusable Obturators"
+  },
+  {
+    "alternatives" : [
+      "For use with Dry-Doc and Hex Flex cannulae."
+    ],
+    "bounds" : [
+      0.42362525606823165,
+      0.15988372132194262,
+      0.67820773145722679,
+      0.17441860440480161
+    ],
+    "confidence" : 1,
+    "text" : "For use with Dry-Doc and Hex Flex cannulae."
+  },
+  {
+    "alternatives" : [
+      "Cannulated Obturator (5.0mm x 85mm), Green for use with"
+    ],
+    "bounds" : [
+      0.42566191755815741,
+      0.19186046501776832,
+      0.72708758081251457,
+      0.20494186045461538
+    ],
+    "confidence" : 1,
+    "text" : "Cannulated Obturator (5.0mm x 85mm), Green for use with"
+  },
+  {
+    "alternatives" : [
+      "Green Dry-Doc (C7350)and Green Hex Flex (C7 450)..."
+    ],
+    "bounds" : [
+      0.43991853703405742,
+      0.20634920630136766,
+      0.71079430069506666,
+      0.21949404757120883
+    ],
+    "confidence" : 1,
+    "text" : "Green Dry-Doc (C7350)and Green Hex Flex (C7 450)..."
+  },
+  {
+    "alternatives" : [
+      "Cannulated Obturator (6.0mm x 85mm), Gray for use with"
+    ],
+    "bounds" : [
+      0.4256619185467313,
+      0.22238372092356551,
+      0.71894093766508138,
+      0.23412698404330845
+    ],
+    "confidence" : 1,
+    "text" : "Cannulated Obturator (6.0mm x 85mm), Gray for use with"
+  },
+  {
+    "alternatives" : [
+      "Gray Dry-Doc (C7359) and Gray Hex Flex (C7455)....."
+    ],
+    "bounds" : [
+      0.4419552065430023,
+      0.23685515888417585,
+      0.71079429325333132,
+      0.24854651156189966
+    ],
+    "confidence" : 1,
+    "text" : "Gray Dry-Doc (C7359) and Gray Hex Flex (C7455)....."
+  },
+  {
+    "alternatives" : [
+      "Cannulated Obturator (7.0mm x 85mm), Blue for use with"
+    ],
+    "bounds" : [
+      0.42769857424122909,
+      0.25145348836542603,
+      0.71690428190269473,
+      0.26314484104314972
+    ],
+    "confidence" : 1,
+    "text" : "Cannulated Obturator (7.0mm x 85mm), Blue for use with"
+  },
+  {
+    "alternatives" : [
+      "Blue Dry-Doc (C7360) and Blue Hex Flex (C7465)...."
+    ],
+    "bounds" : [
+      0.4419551970222903,
+      0.26587301588401713,
+      0.70264766081885022,
+      0.27761627900376007
+    ],
+    "confidence" : 1,
+    "text" : "Blue Dry-Doc (C7360) and Blue Hex Flex (C7465)...."
+  },
+  {
+    "alternatives" : [
+      "Cannulated Obturator (7.0mm x 95mm), Black for use with"
+    ],
+    "bounds" : [
+      0.42769858149208234,
+      0.28050595241162313,
+      0.72301425633887473,
+      0.29216269844336917
+    ],
+    "confidence" : 1,
+    "text" : "Cannulated Obturator (7.0mm x 95mm), Black for use with"
+  },
+  {
+    "alternatives" : [
+      "Blue-Black Dry-Doc (C7369)..."
+    ],
+    "bounds" : [
+      0.44602851752381878,
+      0.29651162792453456,
+      0.59877800487943966,
+      0.30813953476926392
+    ],
+    "confidence" : 1,
+    "text" : "Blue-Black Dry-Doc (C7369)..."
+  },
+  {
+    "alternatives" : [
+      "Cannulated Dbturator (8.0mm x 75mm), Red for use with"
+    ],
+    "bounds" : [
+      0.42566192592498892,
+      0.3095238097563362,
+      0.7148676123642167,
+      0.32267441848513867
+    ],
+    "confidence" : 1,
+    "text" : "Cannulated Dbturator (8.0mm x 75mm), Red for use with"
+  },
+  {
+    "alternatives" : [
+      "Red Dry-Doc (C7367)....."
+    ],
+    "bounds" : [
+      0.43991853537468889,
+      0.32558139528666374,
+      0.57026476727296882,
+      0.33866279072351069
+    ],
+    "confidence" : 1,
+    "text" : "Red Dry-Doc (C7367)....."
+  },
+  {
+    "alternatives" : [
+      "Cannulated Obturator (8.0mm x 85mm), Yellow for use with"
+    ],
+    "bounds" : [
+      0.42566191594337716,
+      0.33854166686778453,
+      0.72708757919773437,
+      0.35174418603860624
+    ],
+    "confidence" : 1,
+    "text" : "Cannulated Obturator (8.0mm x 85mm), Yellow for use with"
+  },
+  {
+    "alternatives" : [
+      "Yellow Dry-Doc (C7368) and Yellow Hex Flex (C7480)."
+    ],
+    "bounds" : [
+      0.4378818827642047,
+      0.35168650808699153,
+      0.71486761361054063,
+      0.3648313493568327
+    ],
+    "confidence" : 1,
+    "text" : "Yellow Dry-Doc (C7368) and Yellow Hex Flex (C7480)."
+  },
+  {
+    "alternatives" : [
+      "Universal Cannula Set"
+    ],
+    "bounds" : [
+      0.42566191681693022,
+      0.38219246008210039,
+      0.59674133756188852,
+      0.39682539659003679
+    ],
+    "confidence" : 1,
+    "text" : "Universal Cannula Set"
+  },
+  {
+    "alternatives" : [
+      "Smooth 5.5mm gray plastic cannula"
+    ],
+    "bounds" : [
+      0.42566191324979596,
+      0.40252976211811942,
+      0.6313645662672247,
+      0.41865079386415116
+    ],
+    "confidence" : 1,
+    "text" : "Smooth 5.5mm gray plastic cannula"
+  },
+  {
+    "alternatives" : [
+      "»5.5mm internal diameter"
+    ],
+    "bounds" : [
+      0.43177189456047876,
+      0.42286706326992718,
+      0.58452138191609959,
+      0.43749999977786369
+    ],
+    "confidence" : 1,
+    "text" : "»5.5mm internal diameter"
+  },
+  {
+    "alternatives" : [
+      "»70mm working length"
+    ],
+    "bounds" : [
+      0.43158688191599803,
+      0.43860990689075763,
+      0.57267056875522249,
+      0.45592656996676484
+    ],
+    "confidence" : 1,
+    "text" : "»70mm working length"
+  },
+  {
+    "alternatives" : [
+      "»Non-conductive material for electrosurgical procedures"
+    ],
+    "bounds" : [
+      0.43177189254095866,
+      0.44912790728133445,
+      0.75356415552421441,
+      0.46802325519444077
+    ],
+    "confidence" : 1,
+    "text" : "»Non-conductive material for electrosurgical procedures"
+  },
+  {
+    "alternatives" : [
+      "»Connector allows postive connection to some CONMED blades and burs"
+    ],
+    "bounds" : [
+      0.43177188872867078,
+      0.46651785731060869,
+      0.84725050622041276,
+      0.48263888905664043
+    ],
+    "confidence" : 1,
+    "text" : "»Connector allows postive connection to some CONMED blades and burs"
+  },
+  {
+    "alternatives" : [
+      "» Integral double seal prevents backwash of flids"
+    ],
+    "bounds" : [
+      0.43177189892272322,
+      0.47965116314473821,
+      0.70672097404061696,
+      0.49709302246572684
+    ],
+    "confidence" : 1,
+    "text" : "» Integral double seal prevents backwash of flids"
+  },
+  {
+    "alternatives" : [
+      "» Sharp and blunt trocars included"
+    ],
+    "bounds" : [
+      0.43177189461733395,
+      0.49553571448190381,
+      0.62932790349875567,
+      0.51165674622793555
+    ],
+    "confidence" : 1,
+    "text" : "» Sharp and blunt trocars included"
+  },
+  {
+    "alternatives" : [
+      "» Packaged sterile, single-use, ten per box"
+    ],
+    "bounds" : [
+      0.43177189934838406,
+      0.51016865083805596,
+      0.67413441914448757,
+      0.52616279091809925
+    ],
+    "confidence" : 1,
+    "text" : "» Packaged sterile, single-use, ten per box"
+  },
+  {
+    "alternatives" : [
+      "70mm Universal Cannula Set, with Fenestrations, 10\/Box...."
+    ],
+    "bounds" : [
+      0.42566191965829459,
+      0.54067460300958481,
+      0.7291242386410941,
+      0.55530753951752132
+    ],
+    "confidence" : 1,
+    "text" : "70mm Universal Cannula Set, with Fenestrations, 10\/Box...."
+  },
+  {
+    "alternatives" : [
+      "70mm Shoulder Cannula Set, without Fenestrations, 10\/Box."
+    ],
+    "bounds" : [
+      0.42566192099468458,
+      0.55952380940319624,
+      0.73116089570592635,
+      0.57267441860505142
+    ],
+    "confidence" : 1,
+    "text" : "70mm Shoulder Cannula Set, without Fenestrations, 10\/Box."
+  },
+  {
+    "alternatives" : [
+      "Cat. No."
+    ],
+    "bounds" : [
+      0.84928716929039372,
+      0.17877906990479142,
+      0.89613034654463686,
+      0.19331395298765053
+    ],
+    "confidence" : 1,
+    "text" : "Cat. No."
+  },
+  {
+    "alternatives" : [
+      ".. C7380"
+    ],
+    "bounds" : [
+      0.85132382961900366,
+      0.20634920624786246,
+      0.89613034583924489,
+      0.21802325560259728
+    ],
+    "confidence" : 1,
+    "text" : ".. C7380"
+  },
+  {
+    "alternatives" : [
+      ".. C7382"
+    ],
+    "bounds" : [
+      0.84725050880903441,
+      0.23536706346439462,
+      0.89613034709727923,
+      0.24999999997233113
+    ],
+    "confidence" : 1,
+    "text" : ".. C7382"
+  },
+  {
+    "alternatives" : [
+      "C7385"
+    ],
+    "bounds" : [
+      0.85743380994035767,
+      0.2659883722125358,
+      0.89613034571137351,
+      0.27906976764938274
+    ],
+    "confidence" : 1,
+    "text" : "C7385"
+  },
+  {
+    "alternatives" : [
+      "...C7388"
+    ],
+    "bounds" : [
+      0.84725050875811792,
+      0.29505813932736147,
+      0.89613034704636274,
+      0.30813953476420841
+    ],
+    "confidence" : 1,
+    "text" : "...C7388"
+  },
+  {
+    "alternatives" : [
+      "..C7390R"
+    ],
+    "bounds" : [
+      0.85132382974629472,
+      0.32412790686914916,
+      0.89613034596653607,
+      0.33720930230599611
+    ],
+    "confidence" : 1,
+    "text" : "..C7390R"
+  },
+  {
+    "alternatives" : [
+      ".. C7395"
+    ],
+    "bounds" : [
+      0.84725050794345402,
+      0.35168650813686297,
+      0.89613034623169885,
+      0.36631944464479949
+    ],
+    "confidence" : 1,
+    "text" : ".. C7395"
+  },
+  {
+    "alternatives" : [
+      ".9704"
+    ],
+    "bounds" : [
+      0.86150712874674762,
+      0.54069767447634387,
+      0.89613034510253964,
+      0.55377906991319092
+    ],
+    "confidence" : 1,
+    "text" : ".9704"
+  },
+  {
+    "alternatives" : [
+      ".9718"
+    ],
+    "bounds" : [
+      0.86150712874674762,
+      0.55959302328448357,
+      0.89613034510253964,
+      0.57267441872133051
+    ],
+    "confidence" : 1,
+    "text" : ".9718"
+  },
+  {
+    "alternatives" : [
+      "All products may not be available in all markets."
+    ],
+    "bounds" : [
+      0.097759675778233773,
+      0.93303571433416388,
+      0.26883909652319204,
+      0.94196428576273528
+    ],
+    "confidence" : 1,
+    "text" : "All products may not be available in all markets."
+  },
+  {
+    "alternatives" : [
+      "23, SHOULDER ARTHROSCOPY PRODUCTS"
+    ],
+    "bounds" : [
+      0.040733200501814608,
+      0.96220930268428773,
+      0.25458247643301241,
+      0.97098214278680139
+    ],
+    "confidence" : 1,
+    "text" : "23, SHOULDER ARTHROSCOPY PRODUCTS"
+  },
+  {
+    "alternatives" : [
+      "Customer Service: (within U.S.) Phone: 800.237.0169 Fax 727.399.5256 Customer Service: (outside U.S.) Phone: 727.392.6464 Fax: 727.39744540"
+    ],
+    "bounds" : [
+      0.45417514877664711,
+      0.96354166683481846,
+      0.95519347664086818,
+      0.97247023826338985
+    ],
+    "confidence" : 1,
+    "text" : "Customer Service: (within U.S.) Phone: 800.237.0169 Fax 727.399.5256 Customer Service: (outside U.S.) Phone: 727.392.6464 Fax: 727.39744540"
+  }
+]

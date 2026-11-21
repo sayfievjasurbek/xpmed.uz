@@ -1,0 +1,117 @@
+{
+  "id": 201,
+  "bounds": [
+    0.7309724124437488,
+    0.4324588333798493,
+    0.8039522598317355,
+    0.4475300027909573
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "HD5544XL",
+      "confidence": 83.915367,
+      "words": [
+        {
+          "text": "HD5544XL",
+          "confidence": 83.915367,
+          "pixelBounds": [
+            3744,
+            3130,
+            4033,
+            3189
+          ],
+          "lineId": "19.1.4",
+          "bounds": [
+            0.7325376638622578,
+            0.43678481719229695,
+            0.7890823713558991,
+            0.4450181412224393
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "HD5944XL",
+      "confidence": 32.482548,
+      "words": [
+        {
+          "text": "HD5944XL",
+          "confidence": 32.482548,
+          "pixelBounds": [
+            3744,
+            3130,
+            4033,
+            3189
+          ],
+          "lineId": "48.1.1",
+          "bounds": [
+            0.7325376638622578,
+            0.43678481719229695,
+            0.7890823713558991,
+            0.4450181412224393
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "HDSS44XL ...",
+      "confidence": 15.697632,
+      "words": [
+        {
+          "text": "HDSS44XL",
+          "confidence": 15.697632,
+          "pixelBounds": [
+            8,
+            31,
+            297,
+            89
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "...",
+          "confidence": 70.383087,
+          "pixelBounds": [
+            322,
+            80,
+            362,
+            88
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "HD5544XL ...",
+      "confidence": 61.799919,
+      "words": [
+        {
+          "text": "HD5544XL",
+          "confidence": 61.799919,
+          "pixelBounds": [
+            8,
+            31,
+            362,
+            89
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "...",
+          "confidence": 77.856804,
+          "pixelBounds": [
+            297,
+            0,
+            369,
+            108
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

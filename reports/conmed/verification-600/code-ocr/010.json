@@ -1,0 +1,117 @@
+{
+  "id": 10,
+  "bounds": [
+    0.8370181960477402,
+    0.9046888082612337,
+    0.9090197612991586,
+    0.9207368127267653
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "7513",
+      "confidence": 82.314667,
+      "words": [
+        {
+          "text": "7513",
+          "confidence": 82.314667,
+          "pixelBounds": [
+            4442,
+            6504,
+            4571,
+            6562
+          ],
+          "lineId": "27.1.19",
+          "bounds": [
+            0.8691058501271767,
+            0.9076193134245046,
+            0.8943455292506359,
+            0.9157130895897293
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "7913",
+      "confidence": 72.673035,
+      "words": [
+        {
+          "text": "7913",
+          "confidence": 72.673035,
+          "pixelBounds": [
+            4442,
+            6504,
+            4571,
+            6562
+          ],
+          "lineId": "128.1.1",
+          "bounds": [
+            0.8691058501271767,
+            0.9076193134245046,
+            0.8943455292506359,
+            0.9157130895897293
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "sees L018",
+      "confidence": 18.612728,
+      "words": [
+        {
+          "text": "sees",
+          "confidence": 18.612728,
+          "pixelBounds": [
+            8,
+            70,
+            135,
+            78
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "L018",
+          "confidence": 41.613327,
+          "pixelBounds": [
+            164,
+            21,
+            293,
+            79
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "seve TB",
+      "confidence": 8.635769,
+      "words": [
+        {
+          "text": "seve",
+          "confidence": 8.635769,
+          "pixelBounds": [
+            8,
+            70,
+            135,
+            78
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "TB",
+          "confidence": 38.415302,
+          "pixelBounds": [
+            182,
+            21,
+            293,
+            79
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

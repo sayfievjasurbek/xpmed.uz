@@ -1,0 +1,704 @@
+{
+  "pdfPage": 12,
+  "officialPage": 12,
+  "alignment": [
+    [
+      0.9713669421942789,
+      -0.0003620078340349618,
+      0.014292664176333394
+    ],
+    [
+      -0.00036081366114451384,
+      0.9778819813636332,
+      0.011446020035085849
+    ]
+  ],
+  "alignmentMatches": 34,
+  "alignmentInliers": 33,
+  "category": "shoulder-arthroscopy",
+  "title": {
+    "en": "Rotator Cuff Repair",
+    "ru": "Восстановление вращательной манжеты"
+  },
+  "groups": [
+    {
+      "title": "CrossFT™ Knotless DT Suture Anchor — Implants",
+      "page": 12,
+      "officialPage": 12,
+      "headingBounds": [
+        0.4307548859764002,
+        0.2563678892807118,
+        0.4804182873690799,
+        0.2695175204427672
+      ],
+      "rows": [
+        {
+          "description": "4.0 CrossFT™ Knotless DT Anchor",
+          "codes": [
+            {
+              "candidate": "CFK-40DT",
+              "sourceBounds": [
+                0.6720044276138578,
+                0.2869062278598404,
+                0.726256247462247,
+                0.2994540813006817
+              ],
+              "officialBounds": [
+                414.4490051269531,
+                223.29689025878906,
+                448.63275146484375,
+                233.47589111328125
+              ],
+              "officialCode": "CFK-40DT"
+            }
+          ],
+          "rowBounds": [
+            0.4307436929477659,
+            0.2869958440133082,
+            0.7296846071883772,
+            0.2994528078385421
+          ],
+          "pdfPage": 12,
+          "officialPage": 12
+        },
+        {
+          "description": "4.75 CrossFT™ Knotless DT Anchor",
+          "codes": [
+            {
+              "candidate": "CFK-475DT",
+              "sourceBounds": [
+                0.6719947483809758,
+                0.3048093713289136,
+                0.7323920310346186,
+                0.3173549420413257
+              ],
+              "officialBounds": [
+                414.44708251953125,
+                237.79689025878906,
+                452.5027160644531,
+                247.97589111328125
+              ],
+              "officialCode": "CFK-475DT"
+            },
+            {
+              "candidate": "CFK-475SDT",
+              "sourceBounds": [
+                0.8295847894690461,
+                0.3047508346037946,
+                0.8973814371903412,
+                0.3172936568265431
+              ],
+              "officialBounds": [
+                513.735107421875,
+                237.79689025878906,
+                556.45263671875,
+                247.97589111328125
+              ],
+              "officialCode": "CFK-475SDT"
+            }
+          ],
+          "rowBounds": [
+            0.43074166729052343,
+            0.30489777887842867,
+            0.8973814371903412,
+            0.3172936568265431
+          ],
+          "pdfPage": 12,
+          "officialPage": 12
+        },
+        {
+          "description": "5.5 CrossFT™ Knotless DT Anchor",
+          "codes": [
+            {
+              "candidate": "CFK-55DT",
+              "sourceBounds": [
+                0.6719797410201198,
+                0.3227125167771167,
+                0.7259531419631022,
+                0.33526047363649153
+              ],
+              "officialBounds": [
+                414.4418029785156,
+                252.29689025878906,
+                448.45013427734375,
+                262.47589111328125
+              ],
+              "officialCode": "CFK-55DT"
+            },
+            {
+              "candidate": "CFK-55SDT",
+              "sourceBounds": [
+                0.835983637250754,
+                0.32265159762939766,
+                0.8973565001364427,
+                0.3351968059631247
+              ],
+              "officialBounds": [
+                517.7708129882812,
+                252.29689025878906,
+                556.4411010742188,
+                262.47589111328125
+              ],
+              "officialCode": "CFK-55SDT"
+            }
+          ],
+          "rowBounds": [
+            0.4307463255656443,
+            0.32280091702184327,
+            0.8973565001364427,
+            0.3351968059631247
+          ],
+          "pdfPage": 12,
+          "officialPage": 12
+        },
+        {
+          "description": "6.5 CrossFT™ Knotless DT Anchor",
+          "codes": [
+            {
+              "candidate": "CFK-65DT",
+              "sourceBounds": [
+                0.6719787805351299,
+                0.3406156758476325,
+                0.726182162863457,
+                0.35316352844054516
+              ],
+              "officialBounds": [
+                414.44537353515625,
+                266.7969055175781,
+                448.5986022949219,
+                276.97589111328125
+              ],
+              "officialCode": "CFK-65DT"
+            },
+            {
+              "candidate": "CFK-65SDT",
+              "sourceBounds": [
+                0.8357398594427291,
+                0.34055484689426074,
+                0.8973426068387086,
+                0.35309995099750974
+              ],
+              "officialBounds": [
+                517.6213989257812,
+                266.7969055175781,
+                556.4365234375,
+                276.97589111328125
+              ],
+              "officialCode": "CFK-65SDT"
+            }
+          ],
+          "rowBounds": [
+            0.43071698068981096,
+            0.3407040866357238,
+            0.8973426068387086,
+            0.35309995099750974
+          ],
+          "pdfPage": 12,
+          "officialPage": 12
+        }
+      ],
+      "features": [
+        {
+          "text": "Knotless twist-in anchor for medial row, lateral row, or primary fixation",
+          "bounds": [
+            0.4379370042214858,
+            0.15929193440033756,
+            0.8458806311019841,
+            0.17310484065481557
+          ],
+          "officialStartX": 266.9473876953125
+        },
+        {
+          "text": "PEEK Material",
+          "bounds": [
+            0.4379315192577907,
+            0.1741083186373529,
+            0.5314060784180326,
+            0.18803804365618887
+          ],
+          "officialStartX": 266.9473876953125
+        },
+        {
+          "text": "Controlled tensioning mechanism to help keep set tension on tendon",
+          "bounds": [
+            0.4379260342906084,
+            0.18892471229437763,
+            0.8355307678966912,
+            0.20274146834449577
+          ],
+          "officialStartX": 266.9473876953125
+        },
+        {
+          "text": "Deep Thread pattern designed for strong cancellous bone fixation",
+          "bounds": [
+            0.437920549323426,
+            0.20374110595140238,
+            0.8223547318280158,
+            0.21756275419473378
+          ],
+          "officialStartX": 266.9473876953125
+        },
+        {
+          "text": "Multiple sizes available: 4.0mm, 4.75mm, 5.5mm, 6.5mm",
+          "bounds": [
+            0.43791506435624367,
+            0.21855749960842713,
+            0.781280084874489,
+            0.23239440296705305
+          ],
+          "officialStartX": 266.9473876953125
+        }
+      ],
+      "notes": [
+        "No Suture",
+        "Hi-Fi® Suture"
+      ],
+      "keyParameters": []
+    },
+    {
+      "title": "CrossFT™ Knotless DT Suture Anchor — Instruments",
+      "page": 12,
+      "officialPage": 12,
+      "headingBounds": [
+        0.4306952922509854,
+        0.3761312756333754,
+        0.4991432025801869,
+        0.3892738916209545
+      ],
+      "rows": [
+        {
+          "description": "4.0/4.75 CrossFT™ Knotless DT Broaching Punch, Disposable, Sterile",
+          "codes": [
+            {
+              "candidate": "CFK-DBP40475",
+              "sourceBounds": [
+                0.8135940047114938,
+                0.3942724925797443,
+                0.8961952919533663,
+                0.40680979678811174
+              ],
+              "officialBounds": [
+                503.68115234375,
+                310.2969055175781,
+                555.7261962890625,
+                320.47589111328125
+              ],
+              "officialCode": "CFK-DBP40475"
+            }
+          ],
+          "rowBounds": [
+            0.430688525176072,
+            0.39441099226452064,
+            0.8961952919533663,
+            0.40680979678811174
+          ],
+          "pdfPage": 12,
+          "officialPage": 12
+        },
+        {
+          "description": "4.0/475 CrossFT™ Knotless DT Broaching Punch, Reusable, Non-sterile",
+          "codes": [
+            {
+              "candidate": "CFK-BP40475",
+              "sourceBounds": [
+                0.8242781689476649,
+                0.4121716638271512,
+                0.8989257720624773,
+                0.42471192242666045
+              ],
+              "officialBounds": [
+                510.4167785644531,
+                324.7969055175781,
+                557.45068359375,
+                334.97589111328125
+              ],
+              "officialCode": "CFK-BP40475"
+            }
+          ],
+          "rowBounds": [
+            0.4306972997203574,
+            0.4123166157610878,
+            0.9023540833510804,
+            0.424710648982513
+          ],
+          "pdfPage": 12,
+          "officialPage": 12
+        },
+        {
+          "description": "4.0 CrossFT™ Knotless DT Tap, Reusable, Non-sterile",
+          "codes": [
+            {
+              "candidate": "CFK-T40DT",
+              "sourceBounds": [
+                0.8398264296488607,
+                0.43006902830887817,
+                0.8989010287586868,
+                0.44261507149127366
+              ],
+              "officialBounds": [
+                520.2169799804688,
+                339.2969055175781,
+                557.4392700195312,
+                349.47589111328125
+              ],
+              "officialCode": "CFK-T40DT"
+            }
+          ],
+          "rowBounds": [
+            0.4306965329924502,
+            0.43021975591961653,
+            0.9023293400472899,
+            0.4426137980471262
+          ],
+          "pdfPage": 12,
+          "officialPage": 12
+        },
+        {
+          "description": "4.75 CrossFT™ Knotless DT Tap, Reusable, Non-sterile",
+          "codes": [
+            {
+              "candidate": "CFK-T475DT",
+              "sourceBounds": [
+                0.8336743391749285,
+                0.447974453372879,
+                0.8989026354696044,
+                0.46051821076818994
+              ],
+              "officialBounds": [
+                516.3450927734375,
+                353.7969055175781,
+                557.4444580078125,
+                363.97589111328125
+              ],
+              "officialCode": "CFK-T475DT"
+            }
+          ],
+          "rowBounds": [
+            0.43067430844006566,
+            0.4481229040486411,
+            0.9023309467582075,
+            0.4605169373240425
+          ],
+          "pdfPage": 12,
+          "officialPage": 12
+        },
+        {
+          "description": "5.5 CrossFT™ Knotless DT Tap, Reusable, Non-sterile",
+          "codes": [
+            {
+              "candidate": "CFK-T55DT",
+              "sourceBounds": [
+                0.8391589770713457,
+                0.4658755559811892,
+                0.8988892265471407,
+                0.47842135562265414
+              ],
+              "officialBounds": [
+                519.8048095703125,
+                368.2969055175781,
+                557.440185546875,
+                378.47589111328125
+              ],
+              "officialCode": "CFK-T55DT"
+            }
+          ],
+          "rowBounds": [
+            0.4306790151527136,
+            0.46602604217406357,
+            0.9023175378357435,
+            0.4784200821785067
+          ],
+          "pdfPage": 12,
+          "officialPage": 12
+        },
+        {
+          "description": "4.75mm/5.5mm disposable, sterile punch",
+          "codes": [
+            {
+              "candidate": "CFK-DBP4755",
+              "sourceBounds": [
+                0.8239372991827988,
+                0.48378310649686157,
+                0.8992734901819648,
+                0.4963231093208191
+              ],
+              "officialBounds": [
+                510.2187194824219,
+                382.7958984375,
+                557.6864624023438,
+                392.9748840332031
+              ],
+              "officialCode": "CFK-DBP4755"
+            }
+          ],
+          "rowBounds": [
+            0.4306639593543306,
+            0.48392918764025883,
+            0.8992734901819648,
+            0.4963231093208191
+          ],
+          "pdfPage": 12,
+          "officialPage": 12
+        },
+        {
+          "description": "4.75mm reusable, non-sterile punch",
+          "codes": [
+            {
+              "candidate": "CFK-BP475",
+              "sourceBounds": [
+                0.8386599911334979,
+                0.5016795341945307,
+                0.8988816877586072,
+                0.5142251512882504
+              ],
+              "officialBounds": [
+                519.498779296875,
+                397.2948913574219,
+                557.4437866210938,
+                407.473876953125
+              ],
+              "officialCode": "CFK-BP475"
+            }
+          ],
+          "rowBounds": [
+            0.4306573321459687,
+            0.5018310865345903,
+            0.8988816877586072,
+            0.5142251512882504
+          ],
+          "pdfPage": 12,
+          "officialPage": 12
+        },
+        {
+          "description": "5.5mm reusable, non-sterile punch",
+          "codes": [
+            {
+              "candidate": "CFK-BP55",
+              "sourceBounds": [
+                0.8445387172102023,
+                0.5195792469779564,
+                0.8988647917945134,
+                0.532127053996905
+              ],
+              "officialBounds": [
+                523.206787109375,
+                411.79388427734375,
+                557.4373168945312,
+                421.9728698730469
+              ],
+              "officialCode": "CFK-BP55"
+            }
+          ],
+          "rowBounds": [
+            0.43065065650007966,
+            0.5197329854469138,
+            0.8988647917945134,
+            0.532127053996905
+          ],
+          "pdfPage": 12,
+          "officialPage": 12
+        },
+        {
+          "description": "4.0mm disposable, sterile drill bit",
+          "codes": [
+            {
+              "candidate": "CFK-40D",
+              "sourceBounds": [
+                0.8509744748478288,
+                0.5374787528523467,
+                0.8988627177136931,
+                0.55002895119998
+              ],
+              "officialBounds": [
+                527.2657470703125,
+                426.2928771972656,
+                557.440185546875,
+                436.47186279296875
+              ],
+              "officialCode": "CFK-40D"
+            }
+          ],
+          "rowBounds": [
+            0.43064402929171774,
+            0.5376348843412452,
+            0.8988627177136931,
+            0.55002895119998
+          ],
+          "pdfPage": 12,
+          "officialPage": 12
+        },
+        {
+          "description": "4.75mm disposable, sterile drill bit",
+          "codes": [
+            {
+              "candidate": "CFK-475D",
+              "sourceBounds": [
+                0.8448253879608898,
+                0.5553829333595979,
+                0.89885725300598,
+                0.5679308496625012
+              ],
+              "officialBounds": [
+                523.395751953125,
+                440.7918701171875,
+                557.44091796875,
+                450.9708557128906
+              ],
+              "officialCode": "CFK-475D"
+            }
+          ],
+          "rowBounds": [
+            0.4306374020833559,
+            0.5555367832355766,
+            0.89885725300598,
+            0.5679308496625012
+          ],
+          "pdfPage": 12,
+          "officialPage": 12
+        },
+        {
+          "description": "5.5mm disposable, sterile drill bit",
+          "codes": [
+            {
+              "candidate": "CFK-55D",
+              "sourceBounds": [
+                0.8512469049655673,
+                0.5732824445236627,
+                0.8988549851750512,
+                0.5858327469375445
+              ],
+              "officialBounds": [
+                527.4457397460938,
+                455.2908630371094,
+                557.4436645507812,
+                465.4698486328125
+              ],
+              "officialCode": "CFK-55D"
+            }
+          ],
+          "rowBounds": [
+            0.43063072643746697,
+            0.5734386821479003,
+            0.8988549851750512,
+            0.5858327469375445
+          ],
+          "pdfPage": 12,
+          "officialPage": 12
+        },
+        {
+          "description": "In-line Drill Guide (can be used with 4.0mm, 4.75mm, and 5.5mm drill bits)",
+          "codes": [
+            {
+              "candidate": "Y-DGRCA",
+              "sourceBounds": [
+                0.8498632957386063,
+                0.5911848548971291,
+                0.8988540735948798,
+                0.6037346437088094
+              ],
+              "officialBounds": [
+                526.5781860351562,
+                469.78985595703125,
+                557.447265625,
+                479.9688415527344
+              ],
+              "officialCode": "Y-DGRCA"
+            }
+          ],
+          "rowBounds": [
+            0.43063838829958084,
+            0.591340575734565,
+            0.8988540735948798,
+            0.6037346437088094
+          ],
+          "pdfPage": 12,
+          "officialPage": 12
+        },
+        {
+          "description": "In-line Drill Guide Obturator",
+          "codes": [
+            {
+              "candidate": "Y-OBRC",
+              "sourceBounds": [
+                0.857519000932179,
+                0.6090839076227402,
+                0.8988447338850037,
+                0.6216365436106978
+              ],
+              "officialBounds": [
+                531.40576171875,
+                484.2888488769531,
+                557.445556640625,
+                494.46783447265625
+              ],
+              "officialCode": "Y-OBRC"
+            }
+          ],
+          "rowBounds": [
+            0.430631809528746,
+            0.6092424746109044,
+            0.8988447338850037,
+            0.6216365436106978
+          ],
+          "pdfPage": 12,
+          "officialPage": 12
+        }
+      ],
+      "features": [
+        {
+          "text": "Knotless twist-in anchor for medial row, lateral row, or primary fixation",
+          "bounds": [
+            0.4379370042214858,
+            0.15929193440033756,
+            0.8458806311019841,
+            0.17310484065481557
+          ],
+          "officialStartX": 266.9473876953125
+        },
+        {
+          "text": "PEEK Material",
+          "bounds": [
+            0.4379315192577907,
+            0.1741083186373529,
+            0.5314060784180326,
+            0.18803804365618887
+          ],
+          "officialStartX": 266.9473876953125
+        },
+        {
+          "text": "Controlled tensioning mechanism to help keep set tension on tendon",
+          "bounds": [
+            0.4379260342906084,
+            0.18892471229437763,
+            0.8355307678966912,
+            0.20274146834449577
+          ],
+          "officialStartX": 266.9473876953125
+        },
+        {
+          "text": "Deep Thread pattern designed for strong cancellous bone fixation",
+          "bounds": [
+            0.437920549323426,
+            0.20374110595140238,
+            0.8223547318280158,
+            0.21756275419473378
+          ],
+          "officialStartX": 266.9473876953125
+        },
+        {
+          "text": "Multiple sizes available: 4.0mm, 4.75mm, 5.5mm, 6.5mm",
+          "bounds": [
+            0.43791506435624367,
+            0.21855749960842713,
+            0.781280084874489,
+            0.23239440296705305
+          ],
+          "officialStartX": 266.9473876953125
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 17
+}

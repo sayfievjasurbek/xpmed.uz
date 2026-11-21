@@ -1,0 +1,95 @@
+{
+  "id": 60,
+  "bounds": [
+    0.8370181960477402,
+    0.481998325425621,
+    0.9090197612991586,
+    0.497906782026235
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "UQL6111-R",
+      "confidence": 90.9823,
+      "words": [
+        {
+          "text": "UQL6111-R",
+          "confidence": 90.9823,
+          "pixelBounds": [
+            4271,
+            3456,
+            4569,
+            3517
+          ],
+          "lineId": "13.14.3",
+          "bounds": [
+            0.8356486010565447,
+            0.4822774211554563,
+            0.8939542163960086,
+            0.490789840915434
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "UQL6111-R",
+      "confidence": 89.938118,
+      "words": [
+        {
+          "text": "UQL6111-R",
+          "confidence": 89.938118,
+          "pixelBounds": [
+            4271,
+            3456,
+            4569,
+            3517
+          ],
+          "lineId": "75.1.1",
+          "bounds": [
+            0.8356486010565447,
+            0.4822774211554563,
+            0.8939542163960086,
+            0.490789840915434
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "JQLOTT-R",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "JQLOTT-R",
+          "confidence": 0.0,
+          "pixelBounds": [
+            0,
+            2,
+            290,
+            114
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "JQLOTII-R",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "JQLOTII-R",
+          "confidence": 0.0,
+          "pixelBounds": [
+            0,
+            2,
+            290,
+            114
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

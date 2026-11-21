@@ -1,0 +1,379 @@
+[
+  {
+    "alternatives" : [
+      "XPmed"
+    ],
+    "bounds" : [
+      0.11990690719884324,
+      0.05299514881380929,
+      0.23854523366069891,
+      0.074911827787416008
+    ],
+    "confidence" : 1,
+    "text" : "XPmed"
+  },
+  {
+    "alternatives" : [
+      "CCONMED"
+    ],
+    "bounds" : [
+      0.29735234117639553,
+      0.046511628787295978,
+      0.49287169432937494,
+      0.075581394953014192
+    ],
+    "confidence" : 1,
+    "text" : "CCONMED"
+  },
+  {
+    "alternatives" : [
+      "Small Joint"
+    ],
+    "bounds" : [
+      0.62118126046401789,
+      0.023255814495481753,
+      0.77596741415920001,
+      0.042162698272615762
+    ],
+    "confidence" : 1,
+    "text" : "Small Joint"
+  },
+  {
+    "alternatives" : [
+      "Arthroscopy Knives,"
+    ],
+    "bounds" : [
+      0.62118126451309252,
+      0.049355158917035791,
+      0.90224032803855114,
+      0.075644841456718348
+    ],
+    "confidence" : 1,
+    "text" : "Arthroscopy Knives,"
+  },
+  {
+    "alternatives" : [
+      "Tubing and Cannula Set"
+    ],
+    "bounds" : [
+      0.62118126674579299,
+      0.077034884019057892,
+      0.94908349691437566,
+      0.10029069770851684
+    ],
+    "confidence" : 1,
+    "text" : "Tubing and Cannula Set"
+  },
+  {
+    "alternatives" : [
+      "Small Joint Arthroscopy Knives"
+    ],
+    "bounds" : [
+      0.1018330012397637,
+      0.1438492063350717,
+      0.34623217676430951,
+      0.15552325568980663
+    ],
+    "confidence" : 1,
+    "text" : "Small Joint Arthroscopy Knives"
+  },
+  {
+    "alternatives" : [
+      "» Hexagonal handle for positive grip and control"
+    ],
+    "bounds" : [
+      0.10794297418035602,
+      0.16269841263320584,
+      0.37678208211292297,
+      0.17441860449794611
+    ],
+    "confidence" : 1,
+    "text" : "» Hexagonal handle for positive grip and control"
+  },
+  {
+    "alternatives" : [
+      "» Three blade designs for proper tissue dissection:"
+    ],
+    "bounds" : [
+      0.10794297596334465,
+      0.17732558153403066,
+      0.39511200667413005,
+      0.18898809502473779
+    ],
+    "confidence" : 1,
+    "text" : "» Three blade designs for proper tissue dissection:"
+  },
+  {
+    "alternatives" : [
+      "1. Versatile banana blade"
+    ],
+    "bounds" : [
+      0.13034623767736211,
+      0.19320436524871765,
+      0.27494908089697595,
+      0.20348837184432922
+    ],
+    "confidence" : 1,
+    "text" : "1. Versatile banana blade"
+  },
+  {
+    "alternatives" : [
+      "2. Retrograde blade for cutting loose tissue"
+    ],
+    "bounds" : [
+      0.13034624326692063,
+      0.20783730178743554,
+      0.37678207451990875,
+      0.21949404781918147
+    ],
+    "confidence" : 1,
+    "text" : "2. Retrograde blade for cutting loose tissue"
+  },
+  {
+    "alternatives" : [
+      "3. Smillie blade for cutting along edge of bony surfaces"
+    ],
+    "bounds" : [
+      0.13034623595994652,
+      0.22238372092356551,
+      0.44399185480719527,
+      0.23412698404330845
+    ],
+    "confidence" : 1,
+    "text" : "3. Smillie blade for cutting along edge of bony surfaces"
+  },
+  {
+    "alternatives" : [
+      "» Indexed for proper orientation"
+    ],
+    "bounds" : [
+      0.10794297560432391,
+      0.23685515855647199,
+      0.28716904048528924,
+      0.2485465117072484
+    ],
+    "confidence" : 1,
+    "text" : "» Indexed for proper orientation"
+  },
+  {
+    "alternatives" : [
+      "» Packaged sterile, single-use, four per box"
+    ],
+    "bounds" : [
+      0.10794297884465494,
+      0.25145348824430191,
+      0.3564154658260853,
+      0.26314484139507832
+    ],
+    "confidence" : 1,
+    "text" : "» Packaged sterile, single-use, four per box"
+  },
+  {
+    "alternatives" : [
+      "» Small joint knives are available in a 65mm length"
+    ],
+    "bounds" : [
+      0.10590631970083837,
+      0.26736111109588623,
+      0.3991853388191885,
+      0.27906976756965152
+    ],
+    "confidence" : 1,
+    "text" : "» Small joint knives are available in a 65mm length"
+  },
+  {
+    "alternatives" : [
+      "Banana Blade"
+    ],
+    "bounds" : [
+      0.73727087595898477,
+      0.14533730159396863,
+      0.82688390839946735,
+      0.15552325571060832
+    ],
+    "confidence" : 1,
+    "text" : "Banana Blade"
+  },
+  {
+    "alternatives" : [
+      "Retrograde"
+    ],
+    "bounds" : [
+      0.84521384817772682,
+      0.18604651173025155,
+      0.92057026399131614,
+      0.19767441857498103
+    ],
+    "confidence" : 1,
+    "text" : "Retrograde"
+  },
+  {
+    "alternatives" : [
+      "Blade"
+    ],
+    "bounds" : [
+      0.84928716888147782,
+      0.19767441885334525,
+      0.88594704627127163,
+      0.20784883710595714
+    ],
+    "confidence" : 1,
+    "text" : "Blade"
+  },
+  {
+    "alternatives" : [
+      "Smillie"
+    ],
+    "bounds" : [
+      0.67006109917837742,
+      0.2194767444529091,
+      0.71690427643262056,
+      0.22965116270552111
+    ],
+    "confidence" : 1,
+    "text" : "Smillie"
+  },
+  {
+    "alternatives" : [
+      "Blade"
+    ],
+    "bounds" : [
+      0.67413442012384028,
+      0.23255813976277606,
+      0.7107942975136341,
+      0.24127906942327049
+    ],
+    "confidence" : 1,
+    "text" : "Blade"
+  },
+  {
+    "alternatives" : [
+      "Banana Blade..."
+    ],
+    "bounds" : [
+      0.099678395512527732,
+      0.30907548296548537,
+      0.1834173247198958,
+      0.32028498223379009
+    ],
+    "confidence" : 1,
+    "text" : "Banana Blade..."
+  },
+  {
+    "alternatives" : [
+      "Retrograde Blade...."
+    ],
+    "bounds" : [
+      0.099796335440823419,
+      0.32703488392117475,
+      0.20366598981375891,
+      0.33730158719379744
+    ],
+    "confidence" : 1,
+    "text" : "Retrograde Blade...."
+  },
+  {
+    "alternatives" : [
+      "Smillie Blade ..."
+    ],
+    "bounds" : [
+      0.099765856226065763,
+      0.3443543864536468,
+      0.17925654968051641,
+      0.35477352056338618
+    ],
+    "confidence" : 1,
+    "text" : "Smillie Blade ..."
+  },
+  {
+    "alternatives" : [
+      "Cat. No."
+    ],
+    "bounds" : [
+      0.52131146712811038,
+      0.29194611463904485,
+      0.56830156593545456,
+      0.30107714128549246
+    ],
+    "confidence" : 1,
+    "text" : "Cat. No."
+  },
+  {
+    "alternatives" : [
+      ".....9973"
+    ],
+    "bounds" : [
+      0.52138492790376778,
+      0.30813953509507708,
+      0.56822810515801092,
+      0.31976744193980666
+    ],
+    "confidence" : 1,
+    "text" : ".....9973"
+  },
+  {
+    "alternatives" : [
+      ".....9974"
+    ],
+    "bounds" : [
+      0.51915275611873313,
+      0.32514930803397069,
+      0.56842361944616271,
+      0.33764138950960698
+    ],
+    "confidence" : 1,
+    "text" : ".....9974"
+  },
+  {
+    "alternatives" : [
+      ".....9975"
+    ],
+    "bounds" : [
+      0.51934827115187365,
+      0.34447674410670492,
+      0.57026476516856084,
+      0.35610465095143451
+    ],
+    "confidence" : 1,
+    "text" : ".....9975"
+  },
+  {
+    "alternatives" : [
+      "Customer Service: (within U.S.) Phone: 800.237.0169 Fax 727.399.5256 Customer Service: (outside U.S.) Phone: 727.392.6464 Fax: 727.397.4540"
+    ],
+    "bounds" : [
+      0.05498982400067947,
+      0.96354166670400443,
+      0.5560081518649006,
+      0.97247023813257583
+    ],
+    "confidence" : 1,
+    "text" : "Customer Service: (within U.S.) Phone: 800.237.0169 Fax 727.399.5256 Customer Service: (outside U.S.) Phone: 727.392.6464 Fax: 727.397.4540"
+  },
+  {
+    "alternatives" : [
+      "All products may not be available in all markets."
+    ],
+    "bounds" : [
+      0.78615072017741883,
+      0.93303571423726472,
+      0.95723014092237713,
+      0.94196428566583612
+    ],
+    "confidence" : 1,
+    "text" : "All products may not be available in all markets."
+  },
+  {
+    "alternatives" : [
+      "SMALL JOINT ARTHROSCOPY PRODUCTS,63"
+    ],
+    "bounds" : [
+      0.73930753769631563,
+      0.96354166682512854,
+      0.95315681362751337,
+      0.97247023825369994
+    ],
+    "confidence" : 1,
+    "text" : "SMALL JOINT ARTHROSCOPY PRODUCTS,63"
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "id": "013-02-03-1",
+    "pdfPage": 13,
+    "groupIndex": 1,
+    "rowIndex": 2,
+    "columnIndex": 0,
+    "expectedOfficialCode": "CFK-T40",
+    "candidate": "CFK-T40",
+    "value": null,
+    "sourceDescription": "4.0mm reusable, non-sterile tap",
+    "sourceDescriptionOCR": "4.0mm reusable, non-sterile tap....",
+    "sourceBounds": [
+      0.5173116091663836,
+      0.6090116281775626,
+      0.574338086285076,
+      0.6235465112604217
+    ],
+    "rowBounds": [
+      0.095,
+      0.6032790697189921,
+      0.584338086285076,
+      0.6252790697189922
+    ],
+    "readings": [
+      {
+        "reader": "Tesseract-600dpi-PSM3",
+        "text": "csecscsecsecsesecsecseessessstesserssteeseraseeen CFK-140",
+        "confidence": 0.0
+      },
+      {
+        "reader": "Tesseract-600dpi-PSM11",
+        "text": "csecscsecsecsesecsecseessessstesserssteeseraseeen CFK-140",
+        "confidence": 0.0
+      },
+      {
+        "reader": "Apple-Vision-accurate",
+        "text": "….CFK-T40",
+        "confidence": 1
+      }
+    ],
+    "matchedReaders": [],
+    "verificationStatus": "requires visual source reading",
+    "officialEvidence": [
+      {
+        "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=13",
+        "code": "CFK-T40",
+        "officialPdfPage": 13
+      }
+    ],
+    "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/013-02-03-1.png"
+  },
+  {
+    "id": "016-01-02-1",
+    "pdfPage": 16,
+    "groupIndex": 0,
+    "rowIndex": 1,
+    "columnIndex": 0,
+    "expectedOfficialCode": "Y1802A",
+    "candidate": "Y1802A",
+    "value": null,
+    "sourceDescription": "Y-Knot® Flex All-Suture Anchor w/ blue suture, 1.8mm – Double Loaded with two strands of #2 Hi-Fi",
+    "sourceDescriptionOCR": "with two strands of #2 Hi-Fi....",
+    "sourceBounds": [
+      0.5173116108497692,
+      0.28924418591771994,
+      0.5682281048664563,
+      0.3023255813545669
+    ],
+    "rowBounds": [
+      0.095,
+      0.2827848836361434,
+      0.5782281048664563,
+      0.3047848836361434
+    ],
+    "readings": [
+      {
+        "reader": "Tesseract-600dpi-PSM3",
+        "text": "ccccccssssscsscecscscssesssescsrsssssssssrsseseseeeeeeen Y1802",
+        "confidence": 0.0
+      },
+      {
+        "reader": "Tesseract-600dpi-PSM11",
+        "text": "Pee Y1802",
+        "confidence": 25.129227
+      },
+      {
+        "reader": "Apple-Vision-accurate",
+        "text": "....·1802",
+        "confidence": 1
+      }
+    ],
+    "matchedReaders": [],
+    "verificationStatus": "requires visual source reading",
+    "officialEvidence": [
+      {
+        "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=19",
+        "code": "Y1802A",
+        "officialPdfPage": 19
+      }
+    ],
+    "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/016-01-02-1.png"
+  },
+  {
+    "id": "095-05-01-1",
+    "pdfPage": 95,
+    "groupIndex": 4,
+    "rowIndex": 0,
+    "columnIndex": 0,
+    "expectedOfficialCode": "35FRR-RA-ZZ",
+    "candidate": "35FRR-RA-ZZ",
+    "value": null,
+    "sourceDescription": "3.5mm, Large Hub, ReAct, Shaver, Full-Radius Resector",
+    "sourceDescriptionOCR": "3.5mm, Large Hub, ReAct, Shaver, Full-Radius Resector...",
+    "sourceBounds": [
+      0.4805843980511286,
+      0.6988948261920419,
+      0.5682954404738729,
+      0.712442382932939
+    ],
+    "rowBounds": [
+      0.095,
+      0.6926686045624905,
+      0.5782954404738729,
+      0.7146686045624905
+    ],
+    "readings": [
+      {
+        "reader": "Tesseract-600dpi-PSM3",
+        "text": "cece SOFRR-RA-ZZ",
+        "confidence": 0.0
+      },
+      {
+        "reader": "Tesseract-600dpi-PSM11",
+        "text": "eee SOFRR-RA-ZZ",
+        "confidence": 9.048672
+      },
+      {
+        "reader": "Apple-Vision-accurate",
+        "text": "…..35FRR-RA-ZZ",
+        "confidence": 1
+      }
+    ],
+    "matchedReaders": [
+      "Apple-Vision-accurate"
+    ],
+    "verificationStatus": "requires visual source reading",
+    "officialEvidence": [
+      {
+        "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=121",
+        "code": "35FRR-RA-ZZ",
+        "officialPdfPage": 121
+      }
+    ],
+    "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/095-05-01-1.png"
+  },
+  {
+    "id": "104-02-01-1",
+    "pdfPage": 104,
+    "groupIndex": 1,
+    "rowIndex": 0,
+    "columnIndex": 0,
+    "expectedOfficialCode": "MH9102",
+    "candidate": "MH9102",
+    "value": null,
+    "sourceDescription": "6.0mm, Micro Hub, Sterling, Bur, Oval",
+    "sourceDescriptionOCR": "6.0mm, Micro Hub, Sterling, Bur, Oval ......",
+    "sourceBounds": [
+      0.8491183913675624,
+      0.4661410296984694,
+      0.8983357852665594,
+      0.47717292415524204
+    ],
+    "rowBounds": [
+      0.095,
+      0.4586569769268557,
+      0.9083357852665594,
+      0.4806569769268557
+    ],
+    "readings": [
+      {
+        "reader": "Tesseract-600dpi-PSM3",
+        "text": "ccccseccsecscsecscecsrseerseersseraseaees MH9102",
+        "confidence": 0.0
+      },
+      {
+        "reader": "Tesseract-600dpi-PSM11",
+        "text": "Pee Mn9102",
+        "confidence": 18.489265
+      },
+      {
+        "reader": "Apple-Vision-accurate",
+        "text": ".МH9102",
+        "confidence": 1
+      }
+    ],
+    "matchedReaders": [
+      "Tesseract-600dpi-PSM3"
+    ],
+    "verificationStatus": "requires visual source reading",
+    "officialEvidence": [
+      {
+        "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=130",
+        "code": "MH9102",
+        "officialPdfPage": 130
+      }
+    ],
+    "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/104-02-01-1.png"
+  }
+]

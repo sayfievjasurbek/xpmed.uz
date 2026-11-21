@@ -1,0 +1,117 @@
+{
+  "id": 8,
+  "bounds": [
+    0.8370181960477402,
+    0.8171922969578566,
+    0.9090197612991586,
+    0.8332403014233882
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "7455",
+      "confidence": 96.676491,
+      "words": [
+        {
+          "text": "7455",
+          "confidence": 96.676491,
+          "pixelBounds": [
+            4436,
+            5884,
+            4569,
+            5942
+          ],
+          "lineId": "27.1.14",
+          "bounds": [
+            0.8679319115632949,
+            0.8210996371755512,
+            0.8939542163960086,
+            0.8291934133407759
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "7499",
+      "confidence": 88.425583,
+      "words": [
+        {
+          "text": "7499",
+          "confidence": 88.425583,
+          "pixelBounds": [
+            4436,
+            5884,
+            4569,
+            5942
+          ],
+          "lineId": "107.1.1",
+          "bounds": [
+            0.8679319115632949,
+            0.8210996371755512,
+            0.8939542163960086,
+            0.8291934133407759
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "vere 459",
+      "confidence": 22.267746,
+      "words": [
+        {
+          "text": "vere",
+          "confidence": 22.267746,
+          "pixelBounds": [
+            12,
+            76,
+            140,
+            85
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "459",
+          "confidence": 56.319305,
+          "pixelBounds": [
+            185,
+            28,
+            291,
+            86
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "veseeee TA55",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "veseeee",
+          "confidence": 0.0,
+          "pixelBounds": [
+            12,
+            76,
+            140,
+            85
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "TA55",
+          "confidence": 14.301243,
+          "pixelBounds": [
+            172,
+            28,
+            288,
+            86
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

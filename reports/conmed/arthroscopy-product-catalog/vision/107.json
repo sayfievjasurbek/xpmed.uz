@@ -1,0 +1,561 @@
+[
+  {
+    "alternatives" : [
+      "XPmed"
+    ],
+    "bounds" : [
+      0.12200060086210866,
+      0.051743055209778732,
+      0.2364515357271556,
+      0.073256944916102795
+    ],
+    "confidence" : 1,
+    "text" : "XPmed"
+  },
+  {
+    "alternatives" : [
+      "CCONMED"
+    ],
+    "bounds" : [
+      0.29500328294090111,
+      0.044036008207473332,
+      0.49522075145728667,
+      0.078057014897604637
+    ],
+    "confidence" : 1,
+    "text" : "CCONMED"
+  },
+  {
+    "alternatives" : [
+      "10k100D Arthroscopic Inflow-Only"
+    ],
+    "bounds" : [
+      0.097759685222227444,
+      0.14236111109588623,
+      0.33401221661076624,
+      0.15406976756965163
+    ],
+    "confidence" : 1,
+    "text" : "10k100D Arthroscopic Inflow-Only"
+  },
+  {
+    "alternatives" : [
+      "Tube Set with Colder Adapter"
+    ],
+    "bounds" : [
+      0.099796342414690875,
+      0.15697674430756026,
+      0.3034623184814394,
+      0.16716269842419995
+    ],
+    "confidence" : 1,
+    "text" : "Tube Set with Colder Adapter"
+  },
+  {
+    "alternatives" : [
+      "Cat. No."
+    ],
+    "bounds" : [
+      0.51922438851962904,
+      0.17702776326194347,
+      0.566315324790437,
+      0.18779781829863962
+    ],
+    "confidence" : 1,
+    "text" : "Cat. No."
+  },
+  {
+    "alternatives" : [
+      "Arthroscopic indw-only tube set with a Colder adapter can be fitted to a"
+    ],
+    "bounds" : [
+      0.097759667141546269,
+      0.19469246039396859,
+      0.47046842944704875,
+      0.2049418603436024
+    ],
+    "confidence" : 1,
+    "text" : "Arthroscopic indw-only tube set with a Colder adapter can be fitted to a"
+  },
+  {
+    "alternatives" : [
+      "Dyonics scope sheath or cannula. This tube set can be used with the"
+    ],
+    "bounds" : [
+      0.099796337231846458,
+      0.20634920611395691,
+      0.45213847858621231,
+      0.21802325594174454
+    ],
+    "confidence" : 1,
+    "text" : "Dyonics scope sheath or cannula. This tube set can be used with the"
+  },
+  {
+    "alternatives" : [
+      "24k® Pump or 10k® Pump ..."
+    ],
+    "bounds" : [
+      0.099796338365751538,
+      0.21947674438629095,
+      0.24236252585692308,
+      0.22966269850293064
+    ],
+    "confidence" : 1,
+    "text" : "24k® Pump or 10k® Pump ..."
+  },
+  {
+    "alternatives" : [
+      "...10K100D"
+    ],
+    "bounds" : [
+      0.50916497199292965,
+      0.21947674417937946,
+      0.56822810484006425,
+      0.23110465102410893
+    ],
+    "confidence" : 1,
+    "text" : "...10K100D"
+  },
+  {
+    "alternatives" : [
+      "24k° and 10k° Laparoscopic Tubing"
+    ],
+    "bounds" : [
+      0.09550143723554623,
+      0.31896365420990258,
+      0.36486078710841652,
+      0.33734309459320821
+    ],
+    "confidence" : 1,
+    "text" : "24k° and 10k° Laparoscopic Tubing"
+  },
+  {
+    "alternatives" : [
+      "10k500 Laparoscopic Tube Set with-out Cannula"
+    ],
+    "bounds" : [
+      0.097759672585653434,
+      0.34300595251863353,
+      0.43177189116180087,
+      0.35763888902657004
+    ],
+    "confidence" : 1,
+    "text" : "10k500 Laparoscopic Tube Set with-out Cannula"
+  },
+  {
+    "alternatives" : [
+      "Laparoscopic suction\/irrigation handpiece and tube set interfaces"
+    ],
+    "bounds" : [
+      0.095723021785927939,
+      0.36036706362527893,
+      0.43380855181895994,
+      0.37354651154109786
+    ],
+    "confidence" : 1,
+    "text" : "Laparoscopic suction\/irrigation handpiece and tube set interfaces"
+  },
+  {
+    "alternatives" : [
+      "with selected CONMED Endoscopy cannulas. This tube set can be"
+    ],
+    "bounds" : [
+      0.097759681792716782,
+      0.3735119048773623,
+      0.43584521182574876,
+      0.38665674614720358
+    ],
+    "confidence" : 1,
+    "text" : "with selected CONMED Endoscopy cannulas. This tube set can be"
+  },
+  {
+    "alternatives" : [
+      "used with the 24k Pump or the 10k Pump."
+    ],
+    "bounds" : [
+      0.095723022438225225,
+      0.38662790700641436,
+      0.3197555982338724,
+      0.39831349222517698
+    ],
+    "confidence" : 1,
+    "text" : "used with the 24k Pump or the 10k Pump."
+  },
+  {
+    "alternatives" : [
+      ".. 10k500"
+    ],
+    "bounds" : [
+      0.51731161084976918,
+      0.3866279069700771,
+      0.56822810486645625,
+      0.39831349218883971
+    ],
+    "confidence" : 1,
+    "text" : ".. 10k500"
+  },
+  {
+    "alternatives" : [
+      "10k505 Laparoscopic Tube Set with Fixed Cannula"
+    ],
+    "bounds" : [
+      0.095723015377125062,
+      0.42286706335571456,
+      0.44399184527460639,
+      0.43604651174458631
+    ],
+    "confidence" : 1,
+    "text" : "10k505 Laparoscopic Tube Set with Fixed Cannula"
+  },
+  {
+    "alternatives" : [
+      "Laparoscopic suction\/irrigation handpiece and tube set with a fixed"
+    ],
+    "bounds" : [
+      0.095723015817720844,
+      0.44040697724490774,
+      0.44195518998675987,
+      0.45494186032776684
+    ],
+    "confidence" : 1,
+    "text" : "Laparoscopic suction\/irrigation handpiece and tube set with a fixed"
+  },
+  {
+    "alternatives" : [
+      "5mm x 33mm cannula. This tube set can be used with the 24k"
+    ],
+    "bounds" : [
+      0.095723018540963267,
+      0.45203488354611143,
+      0.42362524870954593,
+      0.46511627898295838
+    ],
+    "confidence" : 1,
+    "text" : "5mm x 33mm cannula. This tube set can be used with the 24k"
+  },
+  {
+    "alternatives" : [
+      "Pump or the 10k Pump."
+    ],
+    "bounds" : [
+      0.097759674243816694,
+      0.46651785700355619,
+      0.22199592834565082,
+      0.47819767429030491
+    ],
+    "confidence" : 1,
+    "text" : "Pump or the 10k Pump."
+  },
+  {
+    "alternatives" : [
+      "..10k505"
+    ],
+    "bounds" : [
+      0.51720327924383125,
+      0.46489881699569557,
+      0.56833643639297504,
+      0.47841513617220299
+    ],
+    "confidence" : 1,
+    "text" : "..10k505"
+  },
+  {
+    "alternatives" : [
+      "EcoFlow® Day-Use Tubing System"
+    ],
+    "bounds" : [
+      0.097759677022290256,
+      0.51736111109697647,
+      0.35845214081885013,
+      0.53199404760491298
+    ],
+    "confidence" : 1,
+    "text" : "EcoFlow® Day-Use Tubing System"
+  },
+  {
+    "alternatives" : [
+      "10k600 Arthroscopic Day-Use Pump Inflow Tube Set"
+    ],
+    "bounds" : [
+      0.095723020289100541,
+      0.53769841257306505,
+      0.46028511723635801,
+      0.55233134908100157
+    ],
+    "confidence" : 1,
+    "text" : "10k600 Arthroscopic Day-Use Pump Inflow Tube Set"
+  },
+  {
+    "alternatives" : [
+      "This arthroscopic infw tube set will stay on the face of the"
+    ],
+    "bounds" : [
+      0.097759682251305255,
+      0.5566860465049609,
+      0.40529531269098934,
+      0.56831395334969026
+    ],
+    "confidence" : 1,
+    "text" : "This arthroscopic infw tube set will stay on the face of the"
+  },
+  {
+    "alternatives" : [
+      "10k pump or 24k pump for one surgical day. Must be used"
+    ],
+    "bounds" : [
+      0.095723017247910908,
+      0.56969246027790021,
+      0.4032586476875949,
+      0.58139534881965171
+    ],
+    "confidence" : 1,
+    "text" : "10k pump or 24k pump for one surgical day. Must be used"
+  },
+  {
+    "alternatives" : [
+      "with the 10k605"
+    ],
+    "bounds" : [
+      0.095723016213567214,
+      0.57986111110161087,
+      0.18533604865404985,
+      0.59302325569444092
+    ],
+    "confidence" : 1,
+    "text" : "with the 10k605"
+  },
+  {
+    "alternatives" : [
+      "..10k600"
+    ],
+    "bounds" : [
+      0.51731161078915422,
+      0.58139534884092414,
+      0.56822810480584141,
+      0.59302325568565362
+    ],
+    "confidence" : 1,
+    "text" : "..10k600"
+  },
+  {
+    "alternatives" : [
+      "10k605 Arthroscopic Single-Use Patient Inflow Tube Set"
+    ],
+    "bounds" : [
+      0.095723023657512368,
+      0.63368055557322378,
+      0.48472503179055304,
+      0.64831349208116029
+    ],
+    "confidence" : 1,
+    "text" : "10k605 Arthroscopic Single-Use Patient Inflow Tube Set"
+  },
+  {
+    "alternatives" : [
+      "This arthroscopic inflw tube set is a single-use only tube"
+    ],
+    "bounds" : [
+      0.097759682404168075,
+      0.65252976187720357,
+      0.39511201297940279,
+      0.66569767440204752
+    ],
+    "confidence" : 1,
+    "text" : "This arthroscopic inflw tube set is a single-use only tube"
+  },
+  {
+    "alternatives" : [
+      "set for the 10k pump or 24k pump. Must be used with the 10k600."
+    ],
+    "bounds" : [
+      0.095723015377125062,
+      0.66567460328774886,
+      0.44399184527460639,
+      0.6773313493194949
+    ],
+    "confidence" : 1,
+    "text" : "set for the 10k pump or 24k pump. Must be used with the 10k600."
+  },
+  {
+    "alternatives" : [
+      ".......................10k605"
+    ],
+    "bounds" : [
+      0.44195519604209194,
+      0.66569767452194983,
+      0.56822810587236838,
+      0.67587209277456173
+    ],
+    "confidence" : 1,
+    "text" : ".......................10k605"
+  },
+  {
+    "alternatives" : [
+      "Customer Service: (within U.S.) Phone: 800.237.0169 Fax 727.399.5256 Customer Service: (outside U.S.) Phone: 727.392.6464 Fax: 727.397.4540"
+    ],
+    "bounds" : [
+      0.05498982400067947,
+      0.96354166670400443,
+      0.5560081518649006,
+      0.97247023813257583
+    ],
+    "confidence" : 1,
+    "text" : "Customer Service: (within U.S.) Phone: 800.237.0169 Fax 727.399.5256 Customer Service: (outside U.S.) Phone: 727.392.6464 Fax: 727.397.4540"
+  },
+  {
+    "alternatives" : [
+      "24k° Pump System"
+    ],
+    "bounds" : [
+      0.6211812620100684,
+      0.049355158767496632,
+      0.90020366980708466,
+      0.074156746069083845
+    ],
+    "confidence" : 1,
+    "text" : "24k° Pump System"
+  },
+  {
+    "alternatives" : [
+      "10k100D Arthroscopic Inflow-Only"
+    ],
+    "bounds" : [
+      0.61303462112895557,
+      0.21800595251963417,
+      0.82077392987482656,
+      0.23115079378947545
+    ],
+    "confidence" : 1,
+    "text" : "10k100D Arthroscopic Inflow-Only"
+  },
+  {
+    "alternatives" : [
+      "Tube Set with Colder Adapter"
+    ],
+    "bounds" : [
+      0.6130346289858597,
+      0.23110465115612366,
+      0.79429734959526732,
+      0.24280753969787505
+    ],
+    "confidence" : 1,
+    "text" : "Tube Set with Colder Adapter"
+  },
+  {
+    "alternatives" : [
+      "10k500 Laparoscopic Tube Set with-out Cannula"
+    ],
+    "bounds" : [
+      0.61303462312106627,
+      0.37202380948413882,
+      0.90224033078253185,
+      0.38372093009387642
+    ],
+    "confidence" : 1,
+    "text" : "10k500 Laparoscopic Tube Set with-out Cannula"
+  },
+  {
+    "alternatives" : [
+      "10k505 Laparoscopic Tube Set with Fixed"
+    ],
+    "bounds" : [
+      0.6130346304317752,
+      0.47093023244146015,
+      0.86761710582077034,
+      0.48412698415332067
+    ],
+    "confidence" : 1,
+    "text" : "10k505 Laparoscopic Tube Set with Fixed"
+  },
+  {
+    "alternatives" : [
+      "Cannula"
+    ],
+    "bounds" : [
+      0.61507128436002068,
+      0.48255813941820436,
+      0.66802443941070955,
+      0.49563953485505141
+    ],
+    "confidence" : 1,
+    "text" : "Cannula"
+  },
+  {
+    "alternatives" : [
+      "10k600 Arthroscopic Day-Use Pump Inflow"
+    ],
+    "bounds" : [
+      0.61507128652489229,
+      0.70058139547035103,
+      0.88594705018590159,
+      0.71081349209699607
+    ],
+    "confidence" : 1,
+    "text" : "10k600 Arthroscopic Day-Use Pump Inflow"
+  },
+  {
+    "alternatives" : [
+      "Tube Set"
+    ],
+    "bounds" : [
+      0.61502242266411744,
+      0.71206316171613759,
+      0.67418327861130167,
+      0.72252986080546033
+    ],
+    "confidence" : 1,
+    "text" : "Tube Set"
+  },
+  {
+    "alternatives" : [
+      "10k605 Arthroscopic Single-Use"
+    ],
+    "bounds" : [
+      0.6150712875986708,
+      0.87936046523073608,
+      0.82077391939386168,
+      0.89098837207546544
+    ],
+    "confidence" : 1,
+    "text" : "10k605 Arthroscopic Single-Use"
+  },
+  {
+    "alternatives" : [
+      "Patient Inflow Tube Set"
+    ],
+    "bounds" : [
+      0.61507128247561638,
+      0.89087301564319088,
+      0.76578411410279501,
+      0.9040697673550514
+    ],
+    "confidence" : 1,
+    "text" : "Patient Inflow Tube Set"
+  },
+  {
+    "alternatives" : [
+      "All products may not be available in all markets."
+    ],
+    "bounds" : [
+      0.78615072017741883,
+      0.93303571423726472,
+      0.95723014092237713,
+      0.94196428566583612
+    ],
+    "confidence" : 1,
+    "text" : "All products may not be available in all markets."
+  },
+  {
+    "alternatives" : [
+      "FLUID MANAGEMENT PRODUCTS, 105"
+    ],
+    "bounds" : [
+      0.76578411789205836,
+      0.96354166671853947,
+      0.95519348263747306,
+      0.97247023814711087
+    ],
+    "confidence" : 1,
+    "text" : "FLUID MANAGEMENT PRODUCTS, 105"
+  }
+]

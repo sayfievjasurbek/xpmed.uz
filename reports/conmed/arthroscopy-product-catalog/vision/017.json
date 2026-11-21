@@ -1,0 +1,951 @@
+[
+  {
+    "alternatives" : [
+      "Instability Repair"
+    ],
+    "bounds" : [
+      0.095723009876328202,
+      0.049355158854705872,
+      0.35437881794444581,
+      0.074156746156293196
+    ],
+    "confidence" : 1,
+    "text" : "Instability Repair"
+  },
+  {
+    "alternatives" : [
+      "CCONMED"
+    ],
+    "bounds" : [
+      0.5150431564942981,
+      0.04570614173829235,
+      0.70898943248389956,
+      0.076386881428679443
+    ],
+    "confidence" : 1,
+    "text" : "CCONMED"
+  },
+  {
+    "alternatives" : [
+      "X xPmed"
+    ],
+    "bounds" : [
+      0.76968521881084317,
+      0.040294160297903447,
+      0.9492557206132054,
+      0.080345374576593853
+    ],
+    "confidence" : 1,
+    "text" : "X xPmed"
+  },
+  {
+    "alternatives" : [
+      "PressFT™ Suture Anchor"
+    ],
+    "bounds" : [
+      0.061099799601211938,
+      0.20203488394882263,
+      0.21384928695683281,
+      0.21081349198335009
+    ],
+    "confidence" : 1,
+    "text" : "PressFT™ Suture Anchor"
+  },
+  {
+    "alternatives" : [
+      "Drill Guide, Fishmouth"
+    ],
+    "bounds" : [
+      0.06109980068754383,
+      0.28197674428939168,
+      0.20366598817871537,
+      0.29216269840603137
+    ],
+    "confidence" : 1,
+    "text" : "Drill Guide, Fishmouth"
+  },
+  {
+    "alternatives" : [
+      "Drill Guide, Offset"
+    ],
+    "bounds" : [
+      0.061099799319530426,
+      0.35610465115612366,
+      0.17718940928535754,
+      0.36780753969787505
+    ],
+    "confidence" : 1,
+    "text" : "Drill Guide, Offset"
+  },
+  {
+    "alternatives" : [
+      "PressFT™ Suture Anchors"
+    ],
+    "bounds" : [
+      0.42566191816349974,
+      0.1438492063350717,
+      0.62525458277336365,
+      0.15552325568980663
+    ],
+    "confidence" : 1,
+    "text" : "PressFT™ Suture Anchors"
+  },
+  {
+    "alternatives" : [
+      "» Available in 2.1 & 2.6 sizes"
+    ],
+    "bounds" : [
+      0.43177189820457296,
+      0.16418650815339908,
+      0.6008146632210889,
+      0.17587209289910888
+    ],
+    "confidence" : 1,
+    "text" : "» Available in 2.1 & 2.6 sizes"
+  },
+  {
+    "alternatives" : [
+      "» Single or doubled loaded with Hi-Fi Suture"
+    ],
+    "bounds" : [
+      0.43177189254163867,
+      0.17877906985425085,
+      0.69246435633819858,
+      0.19196428570208368
+    ],
+    "confidence" : 1,
+    "text" : "» Single or doubled loaded with Hi-Fi Suture"
+  },
+  {
+    "alternatives" : [
+      "»Radiolucent and revisable with excellent pull-out strength*"
+    ],
+    "bounds" : [
+      0.43177189884996631,
+      0.19320436497418725,
+      0.77596741729056307,
+      0.20639534875403398
+    ],
+    "confidence" : 1,
+    "text" : "»Radiolucent and revisable with excellent pull-out strength*"
+  },
+  {
+    "alternatives" : [
+      "»GENESYS\" biocomposite anchor incorporates microTCP technology"
+    ],
+    "bounds" : [
+      0.43177189829780427,
+      0.20930232582775654,
+      0.82688391606064759,
+      0.22395833311764302
+    ],
+    "confidence" : 1,
+    "text" : "»GENESYS\" biocomposite anchor incorporates microTCP technology"
+  },
+  {
+    "alternatives" : [
+      "PEEK Implants"
+    ],
+    "bounds" : [
+      0.42546882851961282,
+      0.24204043429056532,
+      0.51343137568391439,
+      0.2565060775905158
+    ],
+    "confidence" : 1,
+    "text" : "PEEK Implants"
+  },
+  {
+    "alternatives" : [
+      "2.1 PressFT w\/One Strand of #2 (5 metric) Hi-Fi Suture ...."
+    ],
+    "bounds" : [
+      0.42769858930301691,
+      0.26162790712853901,
+      0.72912423133513626,
+      0.27182539663615357
+    ],
+    "confidence" : 1,
+    "text" : "2.1 PressFT w\/One Strand of #2 (5 metric) Hi-Fi Suture ...."
+  },
+  {
+    "alternatives" : [
+      "2.1 PressFT w\/Two Strands of #0 (3.5 metric) Hi-Fi Suture .."
+    ],
+    "bounds" : [
+      0.42769858923501497,
+      0.27901785720008565,
+      0.73930753113158343,
+      0.28924418589471679
+    ],
+    "confidence" : 1,
+    "text" : "2.1 PressFT w\/Two Strands of #0 (3.5 metric) Hi-Fi Suture .."
+  },
+  {
+    "alternatives" : [
+      "2.6 PressFT w\/One Strand of #2 (5 metric) Hi-Fi Suture..."
+    ],
+    "bounds" : [
+      0.42769858719439352,
+      0.29651162802143372,
+      0.72708757349807052,
+      0.30813953486616319
+    ],
+    "confidence" : 1,
+    "text" : "2.6 PressFT w\/One Strand of #2 (5 metric) Hi-Fi Suture..."
+  },
+  {
+    "alternatives" : [
+      "2.6 PressFT w\/Two Strands of #1 (4 metric) Hi-Fi Suture"
+    ],
+    "bounds" : [
+      0.42769857489839608,
+      0.31395348824430191,
+      0.72301424974518858,
+      0.32564484139507832
+    ],
+    "confidence" : 1,
+    "text" : "2.6 PressFT w\/Two Strands of #1 (4 metric) Hi-Fi Suture"
+  },
+  {
+    "alternatives" : [
+      "Biocomposite Implants"
+    ],
+    "bounds" : [
+      0.42362525393573286,
+      0.34300595250146548,
+      0.56008146363045863,
+      0.35615079377130687
+    ],
+    "confidence" : 1,
+    "text" : "Biocomposite Implants"
+  },
+  {
+    "alternatives" : [
+      "2.1 GENESYS PressFT w\/Dne Strand of #2 (5 metric) Hi-Fi Sutu....."
+    ],
+    "bounds" : [
+      0.42566192330640729,
+      0.35901162766111594,
+      0.78411405306833803,
+      0.37500000028219804
+    ],
+    "confidence" : 1,
+    "text" : "2.1 GENESYS PressFT w\/Dne Strand of #2 (5 metric) Hi-Fi Sutu....."
+  },
+  {
+    "alternatives" : [
+      "2.1 GENESYS PressFT w\/Two Strands of #0 (3.5 metric) Hi-Fi Suture..."
+    ],
+    "bounds" : [
+      0.4256619146849932,
+      0.37645348812623225,
+      0.79633402126205333,
+      0.39244186074731435
+    ],
+    "confidence" : 1,
+    "text" : "2.1 GENESYS PressFT w\/Two Strands of #0 (3.5 metric) Hi-Fi Suture..."
+  },
+  {
+    "alternatives" : [
+      "2.6 GENESYS PressFT w\/One Strand of #2 (5 metric) Hi-Fi Suture ...."
+    ],
+    "bounds" : [
+      0.42566192241027695,
+      0.39680232552285555,
+      0.78411405217220753,
+      0.4099702380476995
+    ],
+    "confidence" : 1,
+    "text" : "2.6 GENESYS PressFT w\/One Strand of #2 (5 metric) Hi-Fi Suture ...."
+  },
+  {
+    "alternatives" : [
+      "2.6 GENESYS PressFT w\/Two Strands of #1 (4 metric) Hi-Fi Suture."
+    ],
+    "bounds" : [
+      0.42566191981432938,
+      0.41269841279175745,
+      0.775967405440253,
+      0.42733134929969396
+    ],
+    "confidence" : 1,
+    "text" : "2.6 GENESYS PressFT w\/Two Strands of #1 (4 metric) Hi-Fi Suture."
+  },
+  {
+    "alternatives" : [
+      "Instruments"
+    ],
+    "bounds" : [
+      0.42766952279633447,
+      0.44466295265834666,
+      0.49901072302933769,
+      0.45504634952606837
+    ],
+    "confidence" : 1,
+    "text" : "Instruments"
+  },
+  {
+    "alternatives" : [
+      "PressFT Drill Bit, 2.1..."
+    ],
+    "bounds" : [
+      0.4256097760477951,
+      0.4619907411126285,
+      0.54384032781918989,
+      0.47696274763037172
+    ],
+    "confidence" : 1,
+    "text" : "PressFT Drill Bit, 2.1..."
+  },
+  {
+    "alternatives" : [
+      "PressFT Drill Bit, 2.6 .."
+    ],
+    "bounds" : [
+      0.42769857699264646,
+      0.47965116266290653,
+      0.54378818695847353,
+      0.49131944455868037
+    ],
+    "confidence" : 1,
+    "text" : "PressFT Drill Bit, 2.6 .."
+  },
+  {
+    "alternatives" : [
+      "Drill Guide, Fishmouth."
+    ],
+    "bounds" : [
+      0.4256619119200436,
+      0.49851190463717632,
+      0.54378818822543196,
+      0.51017441860093615
+    ],
+    "confidence" : 1,
+    "text" : "Drill Guide, Fishmouth."
+  },
+  {
+    "alternatives" : [
+      "Drill Guide, Offset..."
+    ],
+    "bounds" : [
+      0.42769857896362506,
+      0.51587301588401713,
+      0.52953156699699933,
+      0.52761627900376007
+    ],
+    "confidence" : 1,
+    "text" : "Drill Guide, Offset..."
+  },
+  {
+    "alternatives" : [
+      "Blunt Obturator..."
+    ],
+    "bounds" : [
+      0.42769857654961607,
+      0.53488372108808357,
+      0.51731160899009876,
+      0.54513888896973128
+    ],
+    "confidence" : 1,
+    "text" : "Blunt Obturator..."
+  },
+  {
+    "alternatives" : [
+      "Sharp Trocar ..."
+    ],
+    "bounds" : [
+      0.4275500796871663,
+      0.55169892624960015,
+      0.5072768068717326,
+      0.56312665515232607
+    ],
+    "confidence" : 1,
+    "text" : "Sharp Trocar ..."
+  },
+  {
+    "alternatives" : [
+      "Instrument Tray"
+    ],
+    "bounds" : [
+      0.42762656849589059,
+      0.5695053559035288,
+      0.50923697621243214,
+      0.58165743450936225
+    ],
+    "confidence" : 1,
+    "text" : "Instrument Tray"
+  },
+  {
+    "alternatives" : [
+      "Percutaneous Kit."
+    ],
+    "bounds" : [
+      0.42769857824242147,
+      0.58720930237442071,
+      0.51934826641134635,
+      0.59747023818808231
+    ],
+    "confidence" : 1,
+    "text" : "Percutaneous Kit."
+  },
+  {
+    "alternatives" : [
+      "Cat. No."
+    ],
+    "bounds" : [
+      0.85127171635501586,
+      0.23096653944037238,
+      0.89618246029122828,
+      0.23996369310854893
+    ],
+    "confidence" : 1,
+    "text" : "Cat. No."
+  },
+  {
+    "alternatives" : [
+      "... NP211"
+    ],
+    "bounds" : [
+      0.84725051079989988,
+      0.26016865101789888,
+      0.89613034378258516,
+      0.27182539704964492
+    ],
+    "confidence" : 1,
+    "text" : "... NP211"
+  },
+  {
+    "alternatives" : [
+      ". NP212"
+    ],
+    "bounds" : [
+      0.85336048938753206,
+      0.2790178571385229,
+      0.89613034457377161,
+      0.29069767442527161
+    ],
+    "confidence" : 1,
+    "text" : ". NP212"
+  },
+  {
+    "alternatives" : [
+      "... NP261"
+    ],
+    "bounds" : [
+      0.84725050952291237,
+      0.29651162802243425,
+      0.89409368677715539,
+      0.30679563509109864
+    ],
+    "confidence" : 1,
+    "text" : "... NP261"
+  },
+  {
+    "alternatives" : [
+      ".. NP262"
+    ],
+    "bounds" : [
+      0.84928716892995837,
+      0.31540697653421534,
+      0.89613034618420151,
+      0.32415674585477905
+    ],
+    "confidence" : 1,
+    "text" : ".. NP262"
+  },
+  {
+    "alternatives" : [
+      "NB211"
+    ],
+    "bounds" : [
+      0.85539714820625423,
+      0.35901162829868682,
+      0.89816700604527355,
+      0.37354651138154582
+    ],
+    "confidence" : 1,
+    "text" : "NB211"
+  },
+  {
+    "alternatives" : [
+      "..NB212"
+    ],
+    "bounds" : [
+      0.84928716842481333,
+      0.3779069771722332,
+      0.89613034567905636,
+      0.39244186025509231
+    ],
+    "confidence" : 1,
+    "text" : "..NB212"
+  },
+  {
+    "alternatives" : [
+      "..NB261"
+    ],
+    "bounds" : [
+      0.8513238290181887,
+      0.3968023256100649,
+      0.89613034523843005,
+      0.40988372104691195
+    ],
+    "confidence" : 1,
+    "text" : "..NB261"
+  },
+  {
+    "alternatives" : [
+      ". NB262"
+    ],
+    "bounds" : [
+      0.85336048823934985,
+      0.41418650816208835,
+      0.89613034607836917,
+      0.42733134943192963
+    ],
+    "confidence" : 1,
+    "text" : ". NB262"
+  },
+  {
+    "alternatives" : [
+      "...NDB21"
+    ],
+    "bounds" : [
+      0.84713222932175791,
+      0.46055125982614142,
+      0.89624862659050675,
+      0.47549525216084043
+    ],
+    "confidence" : 1,
+    "text" : "...NDB21"
+  },
+  {
+    "alternatives" : [
+      "...NDB26"
+    ],
+    "bounds" : [
+      0.84701896353604023,
+      0.47919780805329293,
+      0.89636189227787733,
+      0.49318591313088511
+    ],
+    "confidence" : 1,
+    "text" : "...NDB26"
+  },
+  {
+    "alternatives" : [
+      ".. C6171A"
+    ],
+    "bounds" : [
+      0.84725050794345402,
+      0.49702380953764402,
+      0.89613034623169885,
+      0.51017441873949898
+    ],
+    "confidence" : 1,
+    "text" : ".. C6171A"
+  },
+  {
+    "alternatives" : [
+      ". C6172A"
+    ],
+    "bounds" : [
+      0.84725051060876455,
+      0.51453488418531468,
+      0.89816700462545174,
+      0.52906976726817379
+    ],
+    "confidence" : 1,
+    "text" : ". C6172A"
+  },
+  {
+    "alternatives" : [
+      "..C6173"
+    ],
+    "bounds" : [
+      0.85332938687191018,
+      0.53337838176889985,
+      0.89616144709026502,
+      0.54656347888049583
+    ],
+    "confidence" : 1,
+    "text" : "..C6173"
+  },
+  {
+    "alternatives" : [
+      ".C6174"
+    ],
+    "bounds" : [
+      0.85539714811715029,
+      0.54941860504287288,
+      0.89816700595616961,
+      0.56395348812573198
+    ],
+    "confidence" : 1,
+    "text" : ".C6174"
+  },
+  {
+    "alternatives" : [
+      "...C6178"
+    ],
+    "bounds" : [
+      0.85132382941533746,
+      0.56831395336260848,
+      0.89613034563557881,
+      0.58139534879945542
+    ],
+    "confidence" : 1,
+    "text" : "...C6178"
+  },
+  {
+    "alternatives" : [
+      "..N-PERC"
+    ],
+    "bounds" : [
+      0.84516675493387072,
+      0.58566816290242563,
+      0.89821409958199583,
+      0.60037834892220199
+    ],
+    "confidence" : 1,
+    "text" : "..N-PERC"
+  },
+  {
+    "alternatives" : [
+      "Instability PopLok® Anchors"
+    ],
+    "bounds" : [
+      0.079429737557139668,
+      0.70058139547035103,
+      0.25661914670966268,
+      0.71081349209699607
+    ],
+    "confidence" : 1,
+    "text" : "Instability PopLok® Anchors"
+  },
+  {
+    "alternatives" : [
+      "Instability PopLok® Anchors"
+    ],
+    "bounds" : [
+      0.42362525306483467,
+      0.62936046490675535,
+      0.64358451740359734,
+      0.64534883752783745
+    ],
+    "confidence" : 1,
+    "text" : "Instability PopLok® Anchors"
+  },
+  {
+    "alternatives" : [
+      "2.8mm & 3.3mm PEEK Knotless Anchors"
+    ],
+    "bounds" : [
+      0.42362525568239634,
+      0.64970930268614535,
+      0.66598777547849985,
+      0.66424418576900446
+    ],
+    "confidence" : 1,
+    "text" : "2.8mm & 3.3mm PEEK Knotless Anchors"
+  },
+  {
+    "alternatives" : [
+      "»Ability to tension suture after anchor is seated for precise control over the repair"
+    ],
+    "bounds" : [
+      0.43177190103469543,
+      0.66269841258344708,
+      0.90020365235488842,
+      0.67733134909138359
+    ],
+    "confidence" : 1,
+    "text" : "»Ability to tension suture after anchor is seated for precise control over the repair"
+  },
+  {
+    "alternatives" : [
+      "» Suture locks within the anchor for secure suture retention independent"
+    ],
+    "bounds" : [
+      0.43177188872867078,
+      0.67732558142401833,
+      0.84725050622041276,
+      0.6904761906258734
+    ],
+    "confidence" : 1,
+    "text" : "» Suture locks within the anchor for secure suture retention independent"
+  },
+  {
+    "alternatives" : [
+      "of bone quality"
+    ],
+    "bounds" : [
+      0.44190065783168597,
+      0.6916678725706471,
+      0.53162276196394431,
+      0.70513445309024758
+    ],
+    "confidence" : 1,
+    "text" : "of bone quality"
+  },
+  {
+    "alternatives" : [
+      "» Press fit ribbed design with sub-cortical wings for additional fixation"
+    ],
+    "bounds" : [
+      0.4317718989339242,
+      0.70337301618691672,
+      0.83095722815365225,
+      0.71949404793294847
+    ],
+    "confidence" : 1,
+    "text" : "» Press fit ribbed design with sub-cortical wings for additional fixation"
+  },
+  {
+    "alternatives" : [
+      "»Tactile and audible POP confirms fixation"
+    ],
+    "bounds" : [
+      0.43177189445541836,
+      0.71651785727042705,
+      0.69042770252353602,
+      0.73115079377836356
+    ],
+    "confidence" : 1,
+    "text" : "»Tactile and audible POP confirms fixation"
+  },
+  {
+    "alternatives" : [
+      "Implants"
+    ],
+    "bounds" : [
+      0.42158859372171281,
+      0.74127906990612347,
+      0.47861507084040522,
+      0.75290697675085294
+    ],
+    "confidence" : 1,
+    "text" : "Implants"
+  },
+  {
+    "alternatives" : [
+      "2.8mm Poplok Suture Anchor with One #2 Hi-Fi® Suture"
+    ],
+    "bounds" : [
+      0.42362526409120133,
+      0.75868055555605585,
+      0.72097759466643596,
+      0.77182539682589713
+    ],
+    "confidence" : 1,
+    "text" : "2.8mm Poplok Suture Anchor with One #2 Hi-Fi® Suture"
+  },
+  {
+    "alternatives" : [
+      "2.8mm Poplok Suture Anchor with Two #0 Hi-Fi Sutures .."
+    ],
+    "bounds" : [
+      0.42566191665422143,
+      0.77604166675617747,
+      0.72912423563702089,
+      0.78924418592699908
+    ],
+    "confidence" : 1,
+    "text" : "2.8mm Poplok Suture Anchor with Two #0 Hi-Fi Sutures .."
+  },
+  {
+    "alternatives" : [
+      "3.3mm Poplok Suture Anchor with One #2 Hi-Fi Suture .."
+    ],
+    "bounds" : [
+      0.42566191755815741,
+      0.79505813960089111,
+      0.72708758081251457,
+      0.80679563478862026
+    ],
+    "confidence" : 1,
+    "text" : "3.3mm Poplok Suture Anchor with One #2 Hi-Fi Suture .."
+  },
+  {
+    "alternatives" : [
+      "3.3mm Poplok Suture Anchor with Two #0 Hi-Fi Sutures ."
+    ],
+    "bounds" : [
+      0.42566191755815741,
+      0.8124999999378264,
+      0.72708758081251457,
+      0.82564484120766768
+    ],
+    "confidence" : 1,
+    "text" : "3.3mm Poplok Suture Anchor with Two #0 Hi-Fi Sutures ."
+  },
+  {
+    "alternatives" : [
+      "..GKP-2801"
+    ],
+    "bounds" : [
+      0.83084154303251456,
+      0.75696817819274842,
+      0.89624603443054729,
+      0.77064810076589851
+    ],
+    "confidence" : 1,
+    "text" : "..GKP-2801"
+  },
+  {
+    "alternatives" : [
+      "..GKP-2802"
+    ],
+    "bounds" : [
+      0.83065317064929955,
+      0.77534543292715263,
+      0.89643440452039869,
+      0.79006154345939861
+    ],
+    "confidence" : 1,
+    "text" : "..GKP-2802"
+  },
+  {
+    "alternatives" : [
+      ".... GKP-3301"
+    ],
+    "bounds" : [
+      0.82685554105187131,
+      0.79497165650145907,
+      0.89615871672208647,
+      0.80677252940258837
+    ],
+    "confidence" : 1,
+    "text" : ".... GKP-3301"
+  },
+  {
+    "alternatives" : [
+      "..GKP-3302"
+    ],
+    "bounds" : [
+      0.83095723012150413,
+      0.81250000004595924,
+      0.89613034607064412,
+      0.82412790689068871
+    ],
+    "confidence" : 1,
+    "text" : "..GKP-3302"
+  },
+  {
+    "alternatives" : [
+      "Instruments"
+    ],
+    "bounds" : [
+      0.42566191548189669,
+      0.83720930244103908,
+      0.49898167026148421,
+      0.84738372069365098
+    ],
+    "confidence" : 1,
+    "text" : "Instruments"
+  },
+  {
+    "alternatives" : [
+      "2.8\/3.3mm PopLok Drill Bit"
+    ],
+    "bounds" : [
+      0.42769857983622162,
+      0.85465116289404297,
+      0.57230142305583542,
+      0.86483134907866877
+    ],
+    "confidence" : 1,
+    "text" : "2.8\/3.3mm PopLok Drill Bit"
+  },
+  {
+    "alternatives" : [
+      "Instability PopLok Guide...."
+    ],
+    "bounds" : [
+      0.42362525272861501,
+      0.87202380950130676,
+      0.56415478449134426,
+      0.88517441870316182
+    ],
+    "confidence" : 1,
+    "text" : "Instability PopLok Guide...."
+  },
+  {
+    "alternatives" : [
+      "... BKL-OOM"
+    ],
+    "bounds" : [
+      0.83093125996438244,
+      0.85313160066003668,
+      0.8961563173408249,
+      0.86634514337877266
+    ],
+    "confidence" : 1,
+    "text" : "... BKL-OOM"
+  },
+  {
+    "alternatives" : [
+      "..BGU-OOM"
+    ],
+    "bounds" : [
+      0.8308736275050278,
+      0.87042457288773267,
+      0.89621394816115829,
+      0.88393589189681721
+    ],
+    "confidence" : 1,
+    "text" : "..BGU-OOM"
+  },
+  {
+    "alternatives" : [
+      "*Data on file"
+    ],
+    "bounds" : [
+      0.42564849744839245,
+      0.92437439015295364,
+      0.47251851022248187,
+      0.93173026086154032
+    ],
+    "confidence" : 1,
+    "text" : "*Data on file"
+  },
+  {
+    "alternatives" : [
+      "All products may not be available in all markets."
+    ],
+    "bounds" : [
+      0.099796334370560791,
+      0.93303571417670261,
+      0.26883909938707679,
+      0.94196428560527401
+    ],
+    "confidence" : 1,
+    "text" : "All products may not be available in all markets."
+  },
+  {
+    "alternatives" : [
+      "15, SHOULDER ARTHROSCOPY PRODUCTS"
+    ],
+    "bounds" : [
+      0.040733200501814608,
+      0.96220930268428773,
+      0.25458247643301241,
+      0.97098214278680139
+    ],
+    "confidence" : 1,
+    "text" : "15, SHOULDER ARTHROSCOPY PRODUCTS"
+  },
+  {
+    "alternatives" : [
+      "Customer Service: (within U.S.) Phone: 800.237.0169 Fax 727.399.5256 Customer Service: (outside U.S.) Phone: 727.392.6464 Fax: 727.397.4540"
+    ],
+    "bounds" : [
+      0.45417515368499733,
+      0.96354166677490649,
+      0.95519348154921846,
+      0.97247023820347789
+    ],
+    "confidence" : 1,
+    "text" : "Customer Service: (within U.S.) Phone: 800.237.0169 Fax 727.399.5256 Customer Service: (outside U.S.) Phone: 727.392.6464 Fax: 727.397.4540"
+  }
+]

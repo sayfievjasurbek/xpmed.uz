@@ -1,0 +1,670 @@
+{
+  "pdfPage": 99,
+  "officialPage": 125,
+  "alignment": [
+    [
+      0.9702743263967666,
+      -0.00040474806495580194,
+      0.015002518835539576
+    ],
+    [
+      -0.0005312945535511128,
+      0.9783740396881512,
+      0.011542831240197752
+    ]
+  ],
+  "alignmentMatches": 32,
+  "alignmentInliers": 32,
+  "category": "arthroscopy-resection",
+  "title": {
+    "en": "Large Hub Burs and Routers",
+    "ru": "Боры и фрезы с большим разъёмом"
+  },
+  "groups": [
+    {
+      "title": "Spherical Bur — 12,000rpm Max., 13.0cm Working Length, 6 per Box",
+      "page": 99,
+      "officialPage": 125,
+      "headingBounds": [
+        0.100477262959948,
+        0.2523722676422458,
+        0.39440518180090184,
+        0.265386024541941
+      ],
+      "rows": [
+        {
+          "description": "3.5mm, Large Hub, Sterling®, Bur, Spherical",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "H9110",
+              "sourceBounds": [
+                0.5173116108497692,
+                0.2718023255747284,
+                0.5682281048664563,
+                0.28343023241945775
+              ],
+              "officialCode": "H9110",
+              "officialBounds": [
+                326.02618408203125,
+                209.79689025878906,
+                347.9772033691406,
+                219.97589111328125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.26461627899709306,
+            0.5782281048664563,
+            0.2866162789970931
+          ],
+          "pdfPage": 99,
+          "officialPage": 125
+        },
+        {
+          "description": "4.5mm, Large Hub, Sterling, Bur, Spherical",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "H9111",
+              "sourceBounds": [
+                0.5173116079943705,
+                0.2863372090948032,
+                0.5661914462826153,
+                0.29941860453165026
+              ],
+              "officialCode": "H9111",
+              "officialBounds": [
+                326.02618408203125,
+                222.09986877441406,
+                347.9772033691406,
+                232.27886962890625
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.2798779068132267,
+            0.5761914462826153,
+            0.30187790681322674
+          ],
+          "pdfPage": 99,
+          "officialPage": 125
+        },
+        {
+          "description": "5.5mm, Large Hub, Sterling, Bur, Spherical",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "H9112",
+              "sourceBounds": [
+                0.5193063786719039,
+                0.30222233158724277,
+                0.5682699970498866,
+                0.3126032496586262
+              ],
+              "officialCode": "H9112",
+              "officialBounds": [
+                326.02618408203125,
+                234.40284729003906,
+                347.9772033691406,
+                244.58184814453125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.29441279062293446,
+            0.5782699970498866,
+            0.3164127906229345
+          ],
+          "pdfPage": 99,
+          "officialPage": 125
+        },
+        {
+          "description": "5.5mm, Large Hub, Sterling, Bur, Spherical, 20° Reduced Hood",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "H9112RH",
+              "sourceBounds": [
+                0.5071283113079043,
+                0.3168604651096121,
+                0.5682281051890408,
+                0.32848837195434155
+              ],
+              "officialCode": "H9112RH",
+              "officialBounds": [
+                316.8551940917969,
+                246.70582580566406,
+                347.9772033691406,
+                256.88482666015625
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3096744185319768,
+            0.5782281051890408,
+            0.3316744185319768
+          ],
+          "pdfPage": 99,
+          "officialPage": 125
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Spherical Bur — 12,000rpm Max., 19.0cm Working Length, 1 per Box",
+      "page": 99,
+      "officialPage": 125,
+      "headingBounds": [
+        0.10043333488235184,
+        0.3517006647540204,
+        0.394361259786782,
+        0.36471438395140626
+      ],
+      "rows": [
+        {
+          "description": "4.5mm, Large Hub, Sterling, Bur, Spherical, 20° Reduced Hood",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "EL9111RH",
+              "sourceBounds": [
+                0.49676859407626167,
+                0.36996872919055335,
+                0.5684045234439001,
+                0.38148475906314494
+              ],
+              "officialCode": "EL9111RH",
+              "officialBounds": [
+                313.69622802734375,
+                290.2028503417969,
+                347.9772644042969,
+                300.3818359375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.36272674412684913,
+            0.5784045234439001,
+            0.38472674412684915
+          ],
+          "pdfPage": 99,
+          "officialPage": 125
+        },
+        {
+          "description": "5.5mm, Large Hub, Sterling, Bur, Spherical 20° Reduced Hood",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "55SPH-EL-RH",
+              "sourceBounds": [
+                0.49075910194066386,
+                0.3863653780571279,
+                0.5683040345116718,
+                0.3985183426907365
+              ],
+              "officialCode": "55SPH-EL-RH",
+              "officialBounds": [
+                303.03125,
+                302.505859375,
+                347.977294921875,
+                312.6848449707031
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3794418603739322,
+            0.5783040345116718,
+            0.4014418603739322
+          ],
+          "pdfPage": 99,
+          "officialPage": 125
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Spherical Bur — 6,000rpm Max., 8.0cm Working Length, 6 per Box",
+      "page": 99,
+      "officialPage": 125,
+      "headingBounds": [
+        0.10040486693069352,
+        0.4206315478986843,
+        0.38063622961225746,
+        0.4336527669429829
+      ],
+      "rows": [
+        {
+          "description": "2.9mm, Large Hub, Sterling, Bur, Spherical",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C9911A",
+              "sourceBounds": [
+                0.5193087360155462,
+                0.4403095929354741,
+                0.5682676377511517,
+                0.45067877929899713
+              ],
+              "officialCode": "C9911A",
+              "officialBounds": [
+                321.5262451171875,
+                346.0028381347656,
+                347.9772644042969,
+                356.18182373046875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.4324941861172356,
+            0.5782676377511518,
+            0.45449418611723563
+          ],
+          "pdfPage": 99,
+          "officialPage": 125
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Tapered Bur — 12,000rpm Max., 13.0cm Working Length, 6 per Box",
+      "page": 99,
+      "officialPage": 125,
+      "headingBounds": [
+        0.10036829986528006,
+        0.5157624412773517,
+        0.3942962187218298,
+        0.5287761604780491
+      ],
+      "rows": [
+        {
+          "description": "4.0mm, Large Hub, Sterling, Bur, Tapered",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "H9121",
+              "sourceBounds": [
+                0.5173116080452869,
+                0.5348837210497451,
+                0.5661914463335317,
+                0.5479651164865922
+              ],
+              "officialCode": "H9121",
+              "officialBounds": [
+                326.02801513671875,
+                423.01190185546875,
+                347.9790344238281,
+                433.1908874511719
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5284244187681687,
+            0.5761914463335317,
+            0.5504244187681687
+          ],
+          "pdfPage": 99,
+          "officialPage": 125
+        },
+        {
+          "description": "4.0mm, Large Hub, Sterling, Bur, Tapered, 20° Reduced Hood,",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "H9121RH",
+              "sourceBounds": [
+                0.5132382899719113,
+                0.5508720931387134,
+                0.568228106056602,
+                0.5610465113913253
+              ],
+              "officialCode": "H9121RH",
+              "officialBounds": [
+                316.8570251464844,
+                435.3149108886719,
+                347.9790344238281,
+                445.493896484375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5429593022650193,
+            0.578228106056602,
+            0.5649593022650193
+          ],
+          "pdfPage": 99,
+          "officialPage": 125
+        },
+        {
+          "description": "6.0mm, Large Hub, Sterling, Bur, Tapered",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "H9122",
+              "sourceBounds": [
+                0.5173116108497692,
+                0.5654069766153943,
+                0.5682281048664563,
+                0.5784883720522414
+              ],
+              "officialCode": "H9122",
+              "officialBounds": [
+                326.0280456542969,
+                447.617919921875,
+                347.97906494140625,
+                457.7969055175781
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5589476743338179,
+            0.5782281048664563,
+            0.5809476743338179
+          ],
+          "pdfPage": 99,
+          "officialPage": 125
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Oval Bur — 12,000rpm Max., 13.0cm Working Length, 6 per Box",
+      "page": 99,
+      "officialPage": 125,
+      "headingBounds": [
+        0.10030359742670973,
+        0.6721638961147975,
+        0.3942315162832595,
+        0.685177615315495
+      ],
+      "rows": [
+        {
+          "description": "4.0mm, Large Hub, Sterling, Bur, Oval",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "H9101",
+              "sourceBounds": [
+                0.51731160814712,
+                0.6918604651812857,
+                0.5661914464353648,
+                0.7049418606181328
+              ],
+              "officialCode": "H9101",
+              "officialBounds": [
+                326.02801513671875,
+                549.619873046875,
+                347.9790344238281,
+                559.7988891601562
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.6854011628997093,
+            0.5761914464353648,
+            0.7074011628997093
+          ],
+          "pdfPage": 99,
+          "officialPage": 125
+        },
+        {
+          "description": "4.0mm, Large Hub, Sterling, Bur, Oval, Fully Hooded",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "40VAL-ST-FH",
+              "sourceBounds": [
+                0.49490835132711053,
+                0.7063953488305421,
+                0.568228106106698,
+                0.7180232556752716
+              ],
+              "officialCode": "40VAL-ST-FH",
+              "officialBounds": [
+                304.8600158691406,
+                561.9228515625,
+                347.97906494140625,
+                572.1018676757812
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.6992093022529068,
+            0.5782281061066981,
+            0.7212093022529068
+          ],
+          "pdfPage": 99,
+          "officialPage": 125
+        },
+        {
+          "description": "4.0mm, Large Hub, Sterling, Bur, Oval, 20° Reduced Hood,",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "H9101RH",
+              "sourceBounds": [
+                0.5010183299911175,
+                0.7223837209235655,
+                0.5682281069742593,
+                0.734011627768295
+              ],
+              "officialCode": "H9101RH",
+              "officialBounds": [
+                316.8570251464844,
+                574.225830078125,
+                347.9790344238281,
+                584.4048461914062
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.7151976743459302,
+            0.5782281069742593,
+            0.7371976743459302
+          ],
+          "pdfPage": 99,
+          "officialPage": 125
+        },
+        {
+          "description": "4.0mm, Large Hub, Sterling, Bur, Oval, Left Helix",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "H9101LH",
+              "sourceBounds": [
+                0.5131465117500609,
+                0.73669403893798,
+                0.5683198842760573,
+                0.7487710771882522
+              ],
+              "officialCode": "H9101LH",
+              "officialBounds": [
+                317.5230407714844,
+                586.5288696289062,
+                347.97906494140625,
+                596.7078857421875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.7297325580631161,
+            0.5783198842760573,
+            0.7517325580631161
+          ],
+          "pdfPage": 99,
+          "officialPage": 125
+        },
+        {
+          "description": "5.0mm, Large Hub, Sterling, Bur, Oval, 20º Reduced Hood",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "H9103RH",
+              "sourceBounds": [
+                0.5132382899719113,
+                0.7529069768596437,
+                0.568228106056602,
+                0.7630813951122557
+              ],
+              "officialCode": "H9103RH",
+              "officialBounds": [
+                316.8570556640625,
+                598.8318481445312,
+                347.97906494140625,
+                609.0108642578125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.7449941859859497,
+            0.578228106056602,
+            0.7669941859859497
+          ],
+          "pdfPage": 99,
+          "officialPage": 125
+        },
+        {
+          "description": "6.0mm, Large Hub, Sterling, Bur, Oval",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "H9102",
+              "sourceBounds": [
+                0.5173116108497692,
+                0.7674418603363247,
+                0.5682281048664563,
+                0.7805232557731716
+              ],
+              "officialCode": "H9102",
+              "officialBounds": [
+                326.028076171875,
+                611.1348266601562,
+                347.9790954589844,
+                621.3138427734375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.7609825580547481,
+            0.5782281048664563,
+            0.7829825580547481
+          ],
+          "pdfPage": 99,
+          "officialPage": 125
+        },
+        {
+          "description": "6.0mm, Large Hub, Sterling, Bur, Oval, Left Helix",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "H9201LH",
+              "sourceBounds": [
+                0.5152749504990954,
+                0.783430232786032,
+                0.5682281055497843,
+                0.7921511624465264
+              ],
+              "officialCode": "H9201LH",
+              "officialBounds": [
+                317.5230712890625,
+                623.4378662109375,
+                347.9790954589844,
+                633.6168823242188
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.7747906976162792,
+            0.5782281055497843,
+            0.7967906976162792
+          ],
+          "pdfPage": 99,
+          "officialPage": 125
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Oval Bur — 12,000rpm Max., 19.0cm Working Length, 1 per Box",
+      "page": 99,
+      "officialPage": 125,
+      "headingBounds": [
+        0.10024375905926029,
+        0.817085478298608,
+        0.39417168396369046,
+        0.8300991974959939
+      ],
+      "rows": [
+        {
+          "description": "4.0mm, Large Hub, Sterling, Bur, Oval",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "EL9101",
+              "sourceBounds": [
+                0.5173116088395843,
+                0.8372093025534738,
+                0.5661914471278291,
+                0.8459302322139681
+              ],
+              "officialCode": "EL9101",
+              "officialBounds": [
+                322.86907958984375,
+                666.934814453125,
+                347.9791259765625,
+                677.1138305664062
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.828569767383721,
+            0.5761914471278291,
+            0.850569767383721
+          ],
+          "pdfPage": 99,
+          "officialPage": 125
+        }
+      ],
+      "features": [],
+      "notes": [
+        "High speed bur operates at 12,000rpm with D9920 and D9924 shaver handpieces."
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 18
+}

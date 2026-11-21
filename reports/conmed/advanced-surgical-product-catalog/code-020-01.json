@@ -1,0 +1,45 @@
+{
+  "pdfPage": 20,
+  "pageRow": 1,
+  "visualReading": "EZLINK01",
+  "visualReader": "Codex independent inspection of 600-DPI source table images; source-line crops retained",
+  "ocrReadings": {
+    "600dpi-psm3": "EZLINKO'",
+    "600dpi-psm11": "EZLINKO1",
+    "600dpi-code-crop-psm7": "EZLINKO1",
+    "isolated-psm7-scale0.5-thresholdNone": "EZLINKO1",
+    "isolated-psm7-scale0.5-threshold175": "EZLINKO1",
+    "isolated-psm7-scale0.75-threshold210": "EZLINKO1",
+    "isolated-psm7-scale1-thresholdNone": "EZLINKO1",
+    "isolated-psm13-scale0.5-thresholdNone": "—EZLINKOT",
+    "isolated-psm13-scale0.5-threshold175": "— EZLINKOT",
+    "isolated-psm13-scale0.75-threshold210": "— EZLINKOL",
+    "isolated-psm13-scale1-thresholdNone": "— EZLINKOL",
+    "Apple-Vision-accurate": "EZLINK01"
+  },
+  "matchedReaders": [
+    "Apple-Vision-accurate"
+  ],
+  "value": "EZLINK01",
+  "verificationStatus": "verified (visual + OCR)",
+  "manufacturerStatus": "confirmed on conmed.com",
+  "officialEvidence": [
+    {
+      "url": "https://www.conmed.com/-/media/conmed/documents/catalog/advancedsurgical_catalog.ashx",
+      "code": "EZLINK01"
+    }
+  ],
+  "sourceBounds": [
+    0.8604969673253766,
+    0.16438738487301144,
+    0.9119546077088633,
+    0.17331844822774212
+  ],
+  "rowBounds": [
+    0.529,
+    0.1594253839709935,
+    0.934,
+    0.19332716467990693
+  ],
+  "lineCrop": "reports/conmed/advanced-surgical-product-catalog/line-crops/020-01.png"
+}

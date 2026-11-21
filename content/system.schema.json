@@ -1,0 +1,411 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "XPMED product system",
+  "type": "object",
+  "required": [
+    "slug",
+    "brand",
+    "name",
+    "heroImage",
+    "status"
+  ],
+  "properties": {
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*$"
+    },
+    "brand": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*$"
+    },
+    "category": {
+      "type": "string"
+    },
+    "subcategory": {
+      "type": "string"
+    },
+    "specialty": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "name": {
+      "$ref": "#/$defs/bilingual"
+    },
+    "shortDescription": {
+      "$ref": "#/$defs/bilingual"
+    },
+    "description": {
+      "$ref": "#/$defs/bilingual"
+    },
+    "heroImage": {
+      "type": "string"
+    },
+    "imageType": {
+      "enum": [
+        "cutout",
+        "scene"
+      ]
+    },
+    "gallery": {
+      "type": "array"
+    },
+    "variants": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "name"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "name": {
+            "$ref": "#/$defs/bilingual"
+          },
+          "features": {
+            "type": "array",
+            "items": {
+              "$ref": "#/$defs/feature"
+            }
+          },
+          "specTables": {
+            "type": "array",
+            "items": {
+              "$ref": "#/$defs/table"
+            }
+          },
+          "hotspots": {
+            "type": "array"
+          },
+          "surgicalTechnique": {
+            "$ref": "#/$defs/surgicalTechnique"
+          }
+        }
+      }
+    },
+    "features": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/feature"
+      }
+    },
+    "hotspots": {
+      "type": "array"
+    },
+    "components": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "name",
+          "image",
+          "refCodes"
+        ],
+        "properties": {
+          "name": {
+            "$ref": "#/$defs/bilingual"
+          },
+          "image": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "refCodes": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "sizes": {
+            "type": "array"
+          },
+          "variants": {
+            "type": "array"
+          }
+        }
+      }
+    },
+    "specTables": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/table"
+      }
+    },
+    "refCodes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "sourcePdf": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "sourcePages": {
+      "type": "array",
+      "items": {
+        "type": "integer",
+        "minimum": 1
+      }
+    },
+    "catalogEdition": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "isNew": {
+      "type": "boolean"
+    },
+    "status": {
+      "enum": [
+        "draft",
+        "published"
+      ]
+    },
+    "surgicalTechnique": {
+      "$ref": "#/$defs/surgicalTechnique"
+    }
+  },
+  "$defs": {
+    "bilingual": {
+      "type": "object",
+      "required": [
+        "ru",
+        "en"
+      ],
+      "properties": {
+        "ru": {
+          "type": "string"
+        },
+        "en": {
+          "type": "string"
+        }
+      }
+    },
+    "feature": {
+      "type": "object",
+      "required": [
+        "title",
+        "text",
+        "image"
+      ],
+      "properties": {
+        "title": {
+          "$ref": "#/$defs/bilingual"
+        },
+        "text": {
+          "$ref": "#/$defs/bilingual"
+        },
+        "image": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "table": {
+      "type": "object",
+      "required": [
+        "title",
+        "unit",
+        "image",
+        "columns",
+        "rows",
+        "legend"
+      ],
+      "properties": {
+        "title": {
+          "$ref": "#/$defs/bilingual"
+        },
+        "unit": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "image": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "columns": {
+          "type": "array"
+        },
+        "rows": {
+          "type": "array",
+          "items": {
+            "type": "array"
+          }
+        },
+        "legend": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/bilingual"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      }
+    },
+    "surgicalTechnique": {
+      "type": "object",
+      "properties": {
+        "footerNote": {
+          "$ref": "#/$defs/bilingual"
+        },
+        "steps": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "title",
+              "text"
+            ],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "title": {
+                "$ref": "#/$defs/bilingual"
+              },
+              "text": {
+                "$ref": "#/$defs/bilingual"
+              },
+              "images": {
+                "type": "array"
+              },
+              "notes": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": [
+                    "text"
+                  ],
+                  "properties": {
+                    "text": {
+                      "$ref": "#/$defs/bilingual"
+                    }
+                  }
+                }
+              },
+              "sourcePages": {
+                "type": "array",
+                "items": {
+                  "type": "integer",
+                  "minimum": 1
+                }
+              },
+              "number": {
+                "type": "string"
+              },
+              "checklist": {
+                "type": "array"
+              },
+              "tables": {
+                "type": "array"
+              }
+            }
+          }
+        },
+        "chapters": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": [
+              "number",
+              "title",
+              "steps"
+            ],
+            "properties": {
+              "number": {
+                "type": "string"
+              },
+              "title": {
+                "$ref": "#/$defs/bilingual"
+              },
+              "steps": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": [
+                    "title",
+                    "text"
+                  ],
+                  "properties": {
+                    "id": {
+                      "type": "string"
+                    },
+                    "title": {
+                      "$ref": "#/$defs/bilingual"
+                    },
+                    "text": {
+                      "$ref": "#/$defs/bilingual"
+                    },
+                    "images": {
+                      "type": "array"
+                    },
+                    "notes": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "required": [
+                          "text"
+                        ],
+                        "properties": {
+                          "text": {
+                            "$ref": "#/$defs/bilingual"
+                          }
+                        }
+                      }
+                    },
+                    "sourcePages": {
+                      "type": "array",
+                      "items": {
+                        "type": "integer",
+                        "minimum": 1
+                      }
+                    },
+                    "number": {
+                      "type": "string"
+                    },
+                    "checklist": {
+                      "type": "array"
+                    },
+                    "tables": {
+                      "type": "array"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "anyOf": [
+        {
+          "required": [
+            "steps"
+          ]
+        },
+        {
+          "required": [
+            "chapters"
+          ]
+        }
+      ]
+    }
+  }
+}

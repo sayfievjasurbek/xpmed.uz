@@ -1,0 +1,5249 @@
+{
+  "slug": "tina-mis-instrument-set",
+  "brand": "double-medical",
+  "category": "spine-instrument-sets",
+  "subcategory": "spine-mis",
+  "specialty": [
+    "spine",
+    "traumatology"
+  ],
+  "name": {
+    "ru": "Набор инструментов TINA MIS",
+    "en": "TINA MIS Instrument Set"
+  },
+  "setCode": "112516500",
+  "setCodeEvidence": [
+    {
+      "cy": 0.11964390530228917,
+      "bounds": [
+        0.273101179051275,
+        0.11367638426922325,
+        0.37373183438442553,
+        0.1256114263353551
+      ],
+      "readings": {
+        "PSM3": "112516500",
+        "PSM11": "112516500",
+        "Vision": "112516500"
+      },
+      "value": "112516500",
+      "pdfPage": 301
+    }
+  ],
+  "catalogType": "list",
+  "importPartition": "spine-instruments",
+  "shortDescription": {
+    "ru": "Инструменты для хирургии позвоночника",
+    "en": "Spine surgery instruments"
+  },
+  "description": {
+    "ru": "Набор инструментов TINA MIS. Комплектация и каталожные номера приведены по Spine Catalogue Double Medical.",
+    "en": "TINA MIS Instrument Set. Contents and catalog numbers are listed according to the Double Medical Spine Catalogue."
+  },
+  "heroImage": "/images/products/double-medical/spine-instruments/art-305-02.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "src": "/images/products/double-medical/spine-instruments/art-305-02.webp",
+      "width": 491,
+      "height": 301,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          214,
+          119
+        ],
+        "enhancedSize": [
+          428,
+          238
+        ]
+      },
+      "imageCaption": {
+        "ru": "Контейнер стержней и гаек — TINA MIS",
+        "en": "TINA MIS Rods & Nuts Case"
+      },
+      "sourcePages": [
+        305
+      ]
+    },
+    {
+      "src": "/images/products/double-medical/spine-instruments/art-301-01.webp",
+      "width": 328,
+      "height": 230,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          132,
+          83
+        ],
+        "enhancedSize": [
+          264,
+          166
+        ]
+      },
+      "imageCaption": {
+        "ru": "Позиционирующая пластина, гибкий",
+        "en": "Positioning Plate, flexible"
+      },
+      "sourcePages": [
+        301
+      ]
+    },
+    {
+      "src": "/images/products/double-medical/spine-instruments/art-301-02.webp",
+      "width": 566,
+      "height": 296,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          254,
+          117
+        ],
+        "enhancedSize": [
+          508,
+          234
+        ]
+      },
+      "imageCaption": {
+        "ru": "Шило TINA",
+        "en": "TINA Awl"
+      },
+      "sourcePages": [
+        301
+      ]
+    },
+    {
+      "src": "/images/products/double-medical/spine-instruments/art-301-03.webp",
+      "width": 654,
+      "height": 271,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          295,
+          104
+        ],
+        "enhancedSize": [
+          590,
+          208
+        ]
+      },
+      "imageCaption": {
+        "ru": "Шило TINA, длинное",
+        "en": "TINA Awl, long"
+      },
+      "sourcePages": [
+        301
+      ]
+    },
+    {
+      "src": "/images/products/double-medical/spine-instruments/art-301-04.webp",
+      "width": 678,
+      "height": 196,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          307,
+          66
+        ],
+        "enhancedSize": [
+          614,
+          132
+        ]
+      },
+      "imageCaption": {
+        "ru": "Спица-проводник, Ø1.5, длина 550 мм, с круглой головкой",
+        "en": "Guide Wire, Ø1.5, length 550mm, round head"
+      },
+      "sourcePages": [
+        301
+      ]
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [
+    {
+      "id": "spine-set-112516500-p301",
+      "groupId": "spine-set-112516500-p301",
+      "title": {
+        "ru": "Инструменты · стр. 299",
+        "en": "Instruments · p. 299"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Позиционирующая пластина, гибкий",
+            "en": "Positioning Plate, flexible"
+          },
+          "112515200"
+        ],
+        [
+          {
+            "ru": "Шило TINA",
+            "en": "TINA Awl"
+          },
+          "112514800"
+        ],
+        [
+          {
+            "ru": "Шило TINA, длинное",
+            "en": "TINA Awl, long"
+          },
+          "112514900"
+        ],
+        [
+          {
+            "ru": "Спица-проводник, Ø1.5, длина 550 мм, с круглой головкой",
+            "en": "Guide Wire, Ø1.5, length 550mm, round head"
+          },
+          "112513800"
+        ],
+        [
+          {
+            "ru": "Спица-проводник, Ø1.5, длина 550 мм, с резьбовой головкой",
+            "en": "Guide Wire, Ø1.5, length 550mm, threaded head"
+          },
+          "112513900"
+        ],
+        [
+          {
+            "ru": "Дилататор TINA, 1#",
+            "en": "TINA Dilator, 1#"
+          },
+          "112510200"
+        ],
+        [
+          {
+            "ru": "Дилататор TINA, 2#",
+            "en": "TINA Dilator, 2#"
+          },
+          "112510300"
+        ],
+        [
+          {
+            "ru": "Дилататор TINA, 3#",
+            "en": "TINA Dilator, 3#"
+          },
+          "112510400"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 301,
+          "printedPage": 299,
+          "bounds": [
+            0.13161502604880723,
+            0.14687282332224613,
+            0.56,
+            0.19883584425748385
+          ],
+          "sourceBounds": [
+            0.13161502604880723,
+            0.14687282332224613,
+            0.56,
+            0.19883584425748385
+          ],
+          "codeBounds": [
+            0.13161502604880723,
+            0.14987282332224613,
+            0.21716479298053196,
+            0.159655644687928
+          ],
+          "sourceRowId": "301-01",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p301",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 301,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112515200",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.14987282332224613,
+                    0.21716479298053196,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112515200",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.14987282332224613,
+                    0.21716479298053196,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112515200",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.14987282332224613,
+                    0.21716479298053196,
+                    0.159655644687928
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "—_— Positioning Plate, flexible",
+            "PSM11": "Positioning Plate, flexible",
+            "Vision": "Positioning Plate, flexible"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 301,
+          "printedPage": 299,
+          "bounds": [
+            0.13161502604880723,
+            0.23491821561338289,
+            0.56,
+            0.2870279788691058
+          ],
+          "sourceBounds": [
+            0.13161502604880723,
+            0.23491821561338289,
+            0.56,
+            0.2870279788691058
+          ],
+          "codeBounds": [
+            0.13161502604880723,
+            0.2379182156133829,
+            0.21716479298053196,
+            0.2478966934063784
+          ],
+          "sourceRowId": "301-02",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p301",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 301,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112514800",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.2379182156133829,
+                    0.21716479298053196,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112514800",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.2379182156133829,
+                    0.21716479298053196,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112514800",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.2379182156133829,
+                    0.21716479298053196,
+                    0.2478966934063784
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "TINA Awl",
+            "PSM11": "TINA Awl",
+            "Vision": "TINA Awl"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 301,
+          "printedPage": 299,
+          "bounds": [
+            0.13161502604880723,
+            0.3231592643318333,
+            0.56,
+            0.3752690275875562
+          ],
+          "sourceBounds": [
+            0.13161502604880723,
+            0.3231592643318333,
+            0.56,
+            0.3752690275875562
+          ],
+          "codeBounds": [
+            0.13161502604880723,
+            0.3261592643318333,
+            0.21716479298053196,
+            0.3361377421248288
+          ],
+          "sourceRowId": "301-03",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p301",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 301,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112514900",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.3261592643318333,
+                    0.21716479298053196,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112514900",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.3261592643318333,
+                    0.21716479298053196,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112514900",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.3261592643318333,
+                    0.21716479298053196,
+                    0.3361377421248288
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "TINAAwl, long",
+            "PSM11": "TINA Awl, long",
+            "Vision": "TINA Awl, long"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 301,
+          "printedPage": 299,
+          "bounds": [
+            0.13161502604880723,
+            0.4114003130502837,
+            0.56,
+            0.4635100763060066
+          ],
+          "sourceBounds": [
+            0.13161502604880723,
+            0.4114003130502837,
+            0.56,
+            0.4635100763060066
+          ],
+          "codeBounds": [
+            0.13161502604880723,
+            0.4144003130502837,
+            0.21716479298053196,
+            0.4243787908432792
+          ],
+          "sourceRowId": "301-04",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p301",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 301,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112513800",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.4144003130502837,
+                    0.21716479298053196,
+                    0.4243787908432792
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112513800",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.4144003130502837,
+                    0.21716479298053196,
+                    0.4243787908432792
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112513800",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.4144003130502837,
+                    0.21716479298053196,
+                    0.4243787908432792
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Guide Wire, 01.5, length 550mm, round head",
+            "PSM11": "Guide Wire, 01.5, length 550mm, round head",
+            "Vision": "Guide Wire, $1.5, length 550mm, round head"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 301,
+          "printedPage": 299,
+          "bounds": [
+            0.13161502604880723,
+            0.4996413617687341,
+            0.56,
+            0.551751125024457
+          ],
+          "sourceBounds": [
+            0.13161502604880723,
+            0.4996413617687341,
+            0.56,
+            0.551751125024457
+          ],
+          "codeBounds": [
+            0.13161502604880723,
+            0.5026413617687341,
+            0.21716479298053196,
+            0.5126198395617296
+          ],
+          "sourceRowId": "301-05",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p301",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 301,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112513900",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.5026413617687341,
+                    0.21716479298053196,
+                    0.5126198395617296
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112513900",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.5026413617687341,
+                    0.21716479298053196,
+                    0.5126198395617296
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112513900",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.5026413617687341,
+                    0.21716479298053196,
+                    0.5126198395617296
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Guide Wire, 01.5, length 550mm, threaded head",
+            "PSM11": "Guide Wire, 01.5, length 550mm, threaded head",
+            "Vision": "Guide Wire, $1.5, length 550mm, threaded head"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 301,
+          "printedPage": 299,
+          "bounds": [
+            0.13161502604880723,
+            0.5878824104871845,
+            0.56,
+            0.6399921737429074
+          ],
+          "sourceBounds": [
+            0.13161502604880723,
+            0.5878824104871845,
+            0.56,
+            0.6399921737429074
+          ],
+          "codeBounds": [
+            0.13161502604880723,
+            0.5908824104871845,
+            0.21716479298053196,
+            0.60086088828018
+          ],
+          "sourceRowId": "301-06",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p301",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 301,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112510200",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.5908824104871845,
+                    0.21716479298053196,
+                    0.60086088828018
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112510200",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.5908824104871845,
+                    0.21716479298053196,
+                    0.60086088828018
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112510200",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.5908824104871845,
+                    0.21716479298053196,
+                    0.60086088828018
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "TINA Dilator, 1#",
+            "PSM11": "TINA Dilator, 1#",
+            "Vision": "TINA Dilator, 1#"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 301,
+          "printedPage": 299,
+          "bounds": [
+            0.13161502604880723,
+            0.6761234592056349,
+            0.56,
+            0.7282332224613578
+          ],
+          "sourceBounds": [
+            0.13161502604880723,
+            0.6761234592056349,
+            0.56,
+            0.7282332224613578
+          ],
+          "codeBounds": [
+            0.13161502604880723,
+            0.6791234592056349,
+            0.21716479298053196,
+            0.6891019369986304
+          ],
+          "sourceRowId": "301-07",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p301",
+              "row": 7,
+              "column": 2,
+              "pdfPage": 301,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112510300",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.6791234592056349,
+                    0.21716479298053196,
+                    0.6891019369986304
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112510300",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.6791234592056349,
+                    0.21716479298053196,
+                    0.6891019369986304
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112510300",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.6791234592056349,
+                    0.21716479298053196,
+                    0.6891019369986304
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "TINA Dilator, 2#",
+            "PSM11": "TINA Dilator, 2#",
+            "Vision": "TINA Dilator, 2#"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 301,
+          "printedPage": 299,
+          "bounds": [
+            0.13161502604880723,
+            0.7643645079240853,
+            0.56,
+            0.8323429857170809
+          ],
+          "sourceBounds": [
+            0.13161502604880723,
+            0.7643645079240853,
+            0.56,
+            0.8323429857170809
+          ],
+          "codeBounds": [
+            0.13161502604880723,
+            0.7673645079240853,
+            0.21716479298053196,
+            0.7773429857170808
+          ],
+          "sourceRowId": "301-08",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p301",
+              "row": 8,
+              "column": 2,
+              "pdfPage": 301,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112510400",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.7673645079240853,
+                    0.21716479298053196,
+                    0.7773429857170808
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112510400",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.7673645079240853,
+                    0.21716479298053196,
+                    0.7773429857170808
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112510400",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.7673645079240853,
+                    0.21716479298053196,
+                    0.7773429857170808
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "TINA Dilator, 3#",
+            "PSM11": "TINA Dilator, 3#",
+            "Vision": "TINA Dilator, 3#"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        }
+      ],
+      "rowImages": [
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-301-01.webp",
+          "width": 328,
+          "height": 230,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              132,
+              83
+            ],
+            "enhancedSize": [
+              264,
+              166
+            ]
+          },
+          "imageCaption": {
+            "ru": "Позиционирующая пластина, гибкий",
+            "en": "Positioning Plate, flexible"
+          },
+          "sourcePages": [
+            301
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-301-02.webp",
+          "width": 566,
+          "height": 296,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              254,
+              117
+            ],
+            "enhancedSize": [
+              508,
+              234
+            ]
+          },
+          "imageCaption": {
+            "ru": "Шило TINA",
+            "en": "TINA Awl"
+          },
+          "sourcePages": [
+            301
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-301-03.webp",
+          "width": 654,
+          "height": 271,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              295,
+              104
+            ],
+            "enhancedSize": [
+              590,
+              208
+            ]
+          },
+          "imageCaption": {
+            "ru": "Шило TINA, длинное",
+            "en": "TINA Awl, long"
+          },
+          "sourcePages": [
+            301
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-301-04.webp",
+          "width": 678,
+          "height": 196,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              307,
+              66
+            ],
+            "enhancedSize": [
+              614,
+              132
+            ]
+          },
+          "imageCaption": {
+            "ru": "Спица-проводник, Ø1.5, длина 550 мм, с круглой головкой",
+            "en": "Guide Wire, Ø1.5, length 550mm, round head"
+          },
+          "sourcePages": [
+            301
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-301-05.webp",
+          "width": 350,
+          "height": 74,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              143,
+              5
+            ],
+            "enhancedSize": [
+              286,
+              10
+            ]
+          },
+          "imageCaption": {
+            "ru": "Спица-проводник, Ø1.5, длина 550 мм, с резьбовой головкой",
+            "en": "Guide Wire, Ø1.5, length 550mm, threaded head"
+          },
+          "sourcePages": [
+            301
+          ]
+        },
+        null,
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-301-07.webp",
+          "width": 690,
+          "height": 116,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              313,
+              27
+            ],
+            "enhancedSize": [
+              626,
+              54
+            ]
+          },
+          "imageCaption": {
+            "ru": "Дилататор TINA, 2#",
+            "en": "TINA Dilator, 2#"
+          },
+          "sourcePages": [
+            301
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-301-08.webp",
+          "width": 690,
+          "height": 129,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              313,
+              33
+            ],
+            "enhancedSize": [
+              626,
+              66
+            ]
+          },
+          "imageCaption": {
+            "ru": "Дилататор TINA, 3#",
+            "en": "TINA Dilator, 3#"
+          },
+          "sourcePages": [
+            301
+          ]
+        }
+      ],
+      "sourcePage": 301,
+      "sourcePages": [
+        301
+      ],
+      "printedPage": 299,
+      "catalogNumberTable": true
+    },
+    {
+      "id": "spine-set-112516500-p302",
+      "groupId": "spine-set-112516500-p302",
+      "title": {
+        "ru": "Инструменты · стр. 300",
+        "en": "Instruments · p. 300"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Дилататор TINA, 4#",
+            "en": "TINA Dilator, 4#"
+          },
+          "112510500"
+        ],
+        [
+          {
+            "ru": "Метчик TINA, канюлированный, с двухзаходной резьбой, Ø5.0",
+            "en": "TINA Tap, cannulated, double-lead thread, Ø5.0"
+          },
+          "112510600"
+        ],
+        [
+          {
+            "ru": "Метчик TINA, канюлированный, с двухзаходной резьбой, Ø5.5",
+            "en": "TINA Tap, cannulated, double-lead thread, Ø5.5"
+          },
+          "112510700"
+        ],
+        [
+          {
+            "ru": "Метчик TINA, канюлированный, с двухзаходной резьбой, Ø6.0",
+            "en": "TINA Tap, cannulated, double-lead thread, Ø6.0"
+          },
+          "112510800"
+        ],
+        [
+          {
+            "ru": "Метчик TINA, канюлированный, с двухзаходной резьбой, Ø6.5",
+            "en": "TINA Tap, cannulated, double-lead thread, Ø6.5"
+          },
+          "112510900"
+        ],
+        [
+          {
+            "ru": "Отвёртка для моноаксиального винта TINA, канюлированная",
+            "en": "TINA Screwdriver for Monoaxial Screw, cannulated"
+          },
+          "112511100"
+        ],
+        [
+          {
+            "ru": "Отвёртка для полиаксиального винта TINA, канюлированная",
+            "en": "TINA Screwdriver for Polyaxial Screw, cannulated"
+          },
+          "112511200"
+        ],
+        [
+          {
+            "ru": "Гибочные щипцы MIS",
+            "en": "MIS Bending Pliers"
+          },
+          "113900900"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 302,
+          "printedPage": 300,
+          "bounds": [
+            0.11132437619961612,
+            0.14687282332224613,
+            0.56,
+            0.19883584425748385
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.14687282332224613,
+            0.56,
+            0.19883584425748385
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.14987282332224613,
+            0.19687414313134083,
+            0.159655644687928
+          ],
+          "sourceRowId": "302-01",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p302",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 302,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112510500",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.14987282332224613,
+                    0.19687414313134083,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112510500",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.14987282332224613,
+                    0.19687414313134083,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112510500",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.14987282332224613,
+                    0.19687414313134083,
+                    0.159655644687928
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "TINA Dilator, 4#",
+            "PSM11": "TINA Dilator, 4#",
+            "Vision": "TINA Dilator, 4#"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 302,
+          "printedPage": 300,
+          "bounds": [
+            0.11132437619961612,
+            0.23491821561338289,
+            0.56,
+            0.2870279788691058
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.23491821561338289,
+            0.56,
+            0.2870279788691058
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.2379182156133829,
+            0.19687414313134083,
+            0.2478966934063784
+          ],
+          "sourceRowId": "302-02",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p302",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 302,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112510600",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.2379182156133829,
+                    0.19687414313134083,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112510600",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.2379182156133829,
+                    0.19687414313134083,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112510600",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.2379182156133829,
+                    0.19687414313134083,
+                    0.2478966934063784
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "TINA Tap, cannulated, double-lead thread, 05.0",
+            "PSM11": "TINA Tap, cannulated, double-lead thread, 05.0 se $$$",
+            "Vision": "TINA Tap, cannulated, double-lead thread, $5.0"
+          },
+          "descriptionVerification": "Codex visual source crop"
+        },
+        {
+          "pdfPage": 302,
+          "printedPage": 300,
+          "bounds": [
+            0.11132437619961612,
+            0.3231592643318333,
+            0.56,
+            0.3752690275875562
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.3231592643318333,
+            0.56,
+            0.3752690275875562
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.3261592643318333,
+            0.19687414313134083,
+            0.3361377421248288
+          ],
+          "sourceRowId": "302-03",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p302",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 302,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112510700",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.3261592643318333,
+                    0.19687414313134083,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112510700",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.3261592643318333,
+                    0.19687414313134083,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112510700",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.3261592643318333,
+                    0.19687414313134083,
+                    0.3361377421248288
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "TINA Tap, cannulated, double-lead thread, 05.5",
+            "PSM11": "TINA Tap, cannulated, double-lead thread, 05.5 Se",
+            "Vision": "TINA Tap, cannulated, double-lead thread, $5.5"
+          },
+          "descriptionVerification": "Codex visual source crop"
+        },
+        {
+          "pdfPage": 302,
+          "printedPage": 300,
+          "bounds": [
+            0.11132437619961612,
+            0.4114003130502837,
+            0.56,
+            0.4635100763060066
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.4114003130502837,
+            0.56,
+            0.4635100763060066
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.4144003130502837,
+            0.19687414313134083,
+            0.4243787908432792
+          ],
+          "sourceRowId": "302-04",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p302",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 302,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112510800",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.4144003130502837,
+                    0.19687414313134083,
+                    0.4243787908432792
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112510800",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.4144003130502837,
+                    0.19687414313134083,
+                    0.4243787908432792
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112510800",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.4144003130502837,
+                    0.19687414313134083,
+                    0.4243787908432792
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "TINA Tap, cannulated, double-lead thread, 06.0",
+            "PSM11": "TINA Tap, cannulated, double-lead thread, 06.0",
+            "Vision": "TINA Tap, cannulated, double-lead thread, $6.0"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 302,
+          "printedPage": 300,
+          "bounds": [
+            0.11132437619961612,
+            0.4996413617687341,
+            0.56,
+            0.551751125024457
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.4996413617687341,
+            0.56,
+            0.551751125024457
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.5026413617687341,
+            0.19687414313134083,
+            0.5126198395617296
+          ],
+          "sourceRowId": "302-05",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p302",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 302,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112510900",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5026413617687341,
+                    0.19687414313134083,
+                    0.5126198395617296
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112510900",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5026413617687341,
+                    0.19687414313134083,
+                    0.5126198395617296
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112510900",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5026413617687341,
+                    0.19687414313134083,
+                    0.5126198395617296
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "TINA Tap, cannulated, double-lead thread, 06.5",
+            "PSM11": "TINA Tap, cannulated, double-lead thread, 06.5 SS",
+            "Vision": "TINA Tap, cannulated, double-lead thread, $6.5"
+          },
+          "descriptionVerification": "Codex visual source crop"
+        },
+        {
+          "pdfPage": 302,
+          "printedPage": 300,
+          "bounds": [
+            0.11132437619961612,
+            0.5878824104871845,
+            0.56,
+            0.6399921737429074
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.5878824104871845,
+            0.56,
+            0.6399921737429074
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.5908824104871845,
+            0.19495475733479573,
+            0.60086088828018
+          ],
+          "sourceRowId": "302-06",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p302",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 302,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112511100",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5908824104871845,
+                    0.19495475733479573,
+                    0.60086088828018
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112511100",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5908824104871845,
+                    0.19495475733479573,
+                    0.60086088828018
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112511100",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5908824104871845,
+                    0.19495475733479573,
+                    0.60086088828018
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "TINA Screwdriver for Monoaxial Screw, cannulated",
+            "PSM11": "TINA Screwdriver for Monoaxial Screw, cannulated ——— a",
+            "Vision": "TINA Screwdriver for Monoaxial Screw, cannulated"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 302,
+          "printedPage": 300,
+          "bounds": [
+            0.11132437619961612,
+            0.6761234592056349,
+            0.56,
+            0.7282332224613578
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.6761234592056349,
+            0.56,
+            0.7282332224613578
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.6791234592056349,
+            0.19577735124760076,
+            0.6891019369986304
+          ],
+          "sourceRowId": "302-07",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p302",
+              "row": 7,
+              "column": 2,
+              "pdfPage": 302,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112511200",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.6791234592056349,
+                    0.19577735124760076,
+                    0.6891019369986304
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112511200",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.6791234592056349,
+                    0.19577735124760076,
+                    0.6891019369986304
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112511200",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.6791234592056349,
+                    0.19577735124760076,
+                    0.6891019369986304
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "TINA Screwdriver for Polyaxial Screw, cannulated —— Ee",
+            "PSM11": "TINA Screwdriver for Polyaxial Screw, cannulated",
+            "Vision": "TINA Screwdriver for Polyaxial Screw, cannulated"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 302,
+          "printedPage": 300,
+          "bounds": [
+            0.11132437619961612,
+            0.7643645079240853,
+            0.56,
+            0.8323429857170809
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.7643645079240853,
+            0.56,
+            0.8323429857170809
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.7673645079240853,
+            0.19687414313134083,
+            0.7773429857170808
+          ],
+          "sourceRowId": "302-08",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p302",
+              "row": 8,
+              "column": 2,
+              "pdfPage": 302,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113900900",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.7673645079240853,
+                    0.19687414313134083,
+                    0.7773429857170808
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113900900",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.7673645079240853,
+                    0.19687414313134083,
+                    0.7773429857170808
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113900900",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.7673645079240853,
+                    0.19687414313134083,
+                    0.7773429857170808
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "MIS Bending Pliers",
+            "PSM11": "MIS Bending Pliers",
+            "Vision": "MIS Bending Pliers"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        }
+      ],
+      "rowImages": [
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-302-01.webp",
+          "width": 475,
+          "height": 432,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              207,
+              188
+            ],
+            "enhancedSize": [
+              414,
+              376
+            ]
+          },
+          "imageCaption": {
+            "ru": "Дилататор TINA, 4#",
+            "en": "TINA Dilator, 4#"
+          },
+          "sourcePages": [
+            302
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-302-02.webp",
+          "width": 666,
+          "height": 94,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              301,
+              15
+            ],
+            "enhancedSize": [
+              602,
+              30
+            ]
+          },
+          "imageCaption": {
+            "ru": "Метчик TINA, канюлированный, с двухзаходной резьбой, Ø5.0",
+            "en": "TINA Tap, cannulated, double-lead thread, Ø5.0"
+          },
+          "sourcePages": [
+            302
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-302-03.webp",
+          "width": 666,
+          "height": 94,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              301,
+              15
+            ],
+            "enhancedSize": [
+              602,
+              30
+            ]
+          },
+          "imageCaption": {
+            "ru": "Метчик TINA, канюлированный, с двухзаходной резьбой, Ø5.5",
+            "en": "TINA Tap, cannulated, double-lead thread, Ø5.5"
+          },
+          "sourcePages": [
+            302
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-302-04.webp",
+          "width": 666,
+          "height": 98,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              301,
+              17
+            ],
+            "enhancedSize": [
+              602,
+              34
+            ]
+          },
+          "imageCaption": {
+            "ru": "Метчик TINA, канюлированный, с двухзаходной резьбой, Ø6.0",
+            "en": "TINA Tap, cannulated, double-lead thread, Ø6.0"
+          },
+          "sourcePages": [
+            302
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-302-05.webp",
+          "width": 666,
+          "height": 98,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              301,
+              17
+            ],
+            "enhancedSize": [
+              602,
+              34
+            ]
+          },
+          "imageCaption": {
+            "ru": "Метчик TINA, канюлированный, с двухзаходной резьбой, Ø6.5",
+            "en": "TINA Tap, cannulated, double-lead thread, Ø6.5"
+          },
+          "sourcePages": [
+            302
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-302-06.webp",
+          "width": 664,
+          "height": 116,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              302,
+              27
+            ],
+            "enhancedSize": [
+              604,
+              54
+            ]
+          },
+          "imageCaption": {
+            "ru": "Отвёртка для моноаксиального винта TINA, канюлированная",
+            "en": "TINA Screwdriver for Monoaxial Screw, cannulated"
+          },
+          "sourcePages": [
+            302
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-302-07.webp",
+          "width": 664,
+          "height": 110,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              302,
+              24
+            ],
+            "enhancedSize": [
+              604,
+              48
+            ]
+          },
+          "imageCaption": {
+            "ru": "Отвёртка для полиаксиального винта TINA, канюлированная",
+            "en": "TINA Screwdriver for Polyaxial Screw, cannulated"
+          },
+          "sourcePages": [
+            302
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-302-08.webp",
+          "width": 666,
+          "height": 218,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              301,
+              77
+            ],
+            "enhancedSize": [
+              602,
+              154
+            ]
+          },
+          "imageCaption": {
+            "ru": "Гибочные щипцы MIS",
+            "en": "MIS Bending Pliers"
+          },
+          "sourcePages": [
+            302
+          ]
+        }
+      ],
+      "sourcePage": 302,
+      "sourcePages": [
+        302
+      ],
+      "printedPage": 300,
+      "catalogNumberTable": true
+    },
+    {
+      "id": "spine-set-112516500-p303",
+      "groupId": "spine-set-112516500-p303",
+      "title": {
+        "ru": "Инструменты · стр. 301",
+        "en": "Instruments · p. 301"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Держатель стержня MIS",
+            "en": "MIS Rod Holder"
+          },
+          "113905900"
+        ],
+        [
+          {
+            "ru": "Отвёртка, для одноступенчатой гайки, T30",
+            "en": "Screwdriver, for One-step Nut, T30"
+          },
+          "112113300"
+        ],
+        [
+          {
+            "ru": "Стержень отвёртки, для одноступенчатой гайки, T30",
+            "en": "Screwdriver Shaft, for One-step Nut, T30"
+          },
+          "112113400"
+        ],
+        [
+          {
+            "ru": "Отвёртка для срывной гайки TINA, T30",
+            "en": "TINA Snap-off Screwdriver, T30"
+          },
+          "112516100"
+        ],
+        [
+          {
+            "ru": "Отвёртка для срывной гайки TINA, Ø10.2",
+            "en": "TINA Snap-off Screwdriver, Ø10.2"
+          },
+          "112516200"
+        ],
+        [
+          {
+            "ru": "Ключ-контропора TINA",
+            "en": "TINA Anti Torque Wrench"
+          },
+          "112517000"
+        ],
+        [
+          {
+            "ru": "Отвёртка для компрессионно-дистракционного инструмента, T30",
+            "en": "Screwdriver for Compression Distractor, T30"
+          },
+          "113907600"
+        ],
+        [
+          {
+            "ru": "Компрессионно-дистракционный инструмент TINA MIS",
+            "en": "TINA MIS Compression Distractor"
+          },
+          "112515700"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 303,
+          "printedPage": 301,
+          "bounds": [
+            0.13161502604880723,
+            0.14687282332224613,
+            0.56,
+            0.19883584425748385
+          ],
+          "sourceBounds": [
+            0.13161502604880723,
+            0.14687282332224613,
+            0.56,
+            0.19883584425748385
+          ],
+          "codeBounds": [
+            0.13161502604880723,
+            0.14987282332224613,
+            0.21716479298053196,
+            0.159655644687928
+          ],
+          "sourceRowId": "303-01",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p303",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 303,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113905900",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.14987282332224613,
+                    0.21716479298053196,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113905900",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.14987282332224613,
+                    0.21716479298053196,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113905900",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.14987282332224613,
+                    0.21716479298053196,
+                    0.159655644687928
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "",
+            "PSM11": "MIS Rod Holder",
+            "Vision": "MIS Rod Holder"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 303,
+          "printedPage": 301,
+          "bounds": [
+            0.13161502604880723,
+            0.23491821561338289,
+            0.56,
+            0.2870279788691058
+          ],
+          "sourceBounds": [
+            0.13161502604880723,
+            0.23491821561338289,
+            0.56,
+            0.2870279788691058
+          ],
+          "codeBounds": [
+            0.13161502604880723,
+            0.2379182156133829,
+            0.2163421990677269,
+            0.2478966934063784
+          ],
+          "sourceRowId": "303-02",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p303",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 303,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112113300",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.2379182156133829,
+                    0.2163421990677269,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112113300",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.2379182156133829,
+                    0.2163421990677269,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112113300",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.2379182156133829,
+                    0.2163421990677269,
+                    0.2478966934063784
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Screwdriver, for One-step Nut, T30 =",
+            "PSM11": "Screwdriver, for One-step Nut, T30 a",
+            "Vision": "Screwdriver, for One-step Nut, T30"
+          },
+          "descriptionVerification": "Codex visual source crop"
+        },
+        {
+          "pdfPage": 303,
+          "printedPage": 301,
+          "bounds": [
+            0.13161502604880723,
+            0.3231592643318333,
+            0.56,
+            0.3752690275875562
+          ],
+          "sourceBounds": [
+            0.13161502604880723,
+            0.3231592643318333,
+            0.56,
+            0.3752690275875562
+          ],
+          "codeBounds": [
+            0.13161502604880723,
+            0.3261592643318333,
+            0.2160680010967919,
+            0.3361377421248288
+          ],
+          "sourceRowId": "303-03",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p303",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 303,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112113400",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.3261592643318333,
+                    0.2160680010967919,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112113400",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.3261592643318333,
+                    0.2160680010967919,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112113400",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.3261592643318333,
+                    0.2160680010967919,
+                    0.3361377421248288
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Screwdriver Shaft, for One-step Nut, T30 —EE_ ae",
+            "PSM11": "Screwdriver Shaft, for One-step Nut, T30 EE",
+            "Vision": "Screwdriver Shaft, for One-step Nut, T30"
+          },
+          "descriptionVerification": "Codex visual source crop"
+        },
+        {
+          "pdfPage": 303,
+          "printedPage": 301,
+          "bounds": [
+            0.13161502604880723,
+            0.4114003130502837,
+            0.56,
+            0.4635100763060066
+          ],
+          "sourceBounds": [
+            0.13161502604880723,
+            0.4114003130502837,
+            0.56,
+            0.4635100763060066
+          ],
+          "codeBounds": [
+            0.13161502604880723,
+            0.4144003130502837,
+            0.21716479298053196,
+            0.4243787908432792
+          ],
+          "sourceRowId": "303-04",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p303",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 303,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112516100",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.4144003130502837,
+                    0.21716479298053196,
+                    0.4243787908432792
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112516100",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.4144003130502837,
+                    0.21716479298053196,
+                    0.4243787908432792
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112516100",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.4144003130502837,
+                    0.21716479298053196,
+                    0.4243787908432792
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "TINA Snap-off Screwdriver, T30",
+            "PSM11": "TINA Snap-off Screwdriver, T30",
+            "Vision": "TINA Snap-off Screwdriver, T30"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 303,
+          "printedPage": 301,
+          "bounds": [
+            0.13161502604880723,
+            0.4996413617687341,
+            0.56,
+            0.551751125024457
+          ],
+          "sourceBounds": [
+            0.13161502604880723,
+            0.4996413617687341,
+            0.56,
+            0.551751125024457
+          ],
+          "codeBounds": [
+            0.13161502604880723,
+            0.5026413617687341,
+            0.21716479298053196,
+            0.5126198395617296
+          ],
+          "sourceRowId": "303-05",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p303",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 303,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112516200",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.5026413617687341,
+                    0.21716479298053196,
+                    0.5126198395617296
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112516200",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.5026413617687341,
+                    0.21716479298053196,
+                    0.5126198395617296
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112516200",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.5026413617687341,
+                    0.21716479298053196,
+                    0.5126198395617296
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "TINA Snap-off Screwdriver, ®10.2",
+            "PSM11": "TINA Snap-off Screwdriver, ®10.2",
+            "Vision": "TINA Snap-off Screwdriver, $10.2"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 303,
+          "printedPage": 301,
+          "bounds": [
+            0.13161502604880723,
+            0.5878824104871845,
+            0.56,
+            0.6399921737429074
+          ],
+          "sourceBounds": [
+            0.13161502604880723,
+            0.5878824104871845,
+            0.56,
+            0.6399921737429074
+          ],
+          "codeBounds": [
+            0.13161502604880723,
+            0.5908824104871845,
+            0.21716479298053196,
+            0.60086088828018
+          ],
+          "sourceRowId": "303-06",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p303",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 303,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112517000",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.5908824104871845,
+                    0.21716479298053196,
+                    0.60086088828018
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112517000",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.5908824104871845,
+                    0.21716479298053196,
+                    0.60086088828018
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112517000",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.5908824104871845,
+                    0.21716479298053196,
+                    0.60086088828018
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "TINA Anti Torque Wrench",
+            "PSM11": "TINA Anti Torque Wrench",
+            "Vision": "TINA Anti Torque Wrench"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 303,
+          "printedPage": 301,
+          "bounds": [
+            0.13161502604880723,
+            0.6761234592056349,
+            0.56,
+            0.7282332224613578
+          ],
+          "sourceBounds": [
+            0.13161502604880723,
+            0.6761234592056349,
+            0.56,
+            0.7282332224613578
+          ],
+          "codeBounds": [
+            0.13161502604880723,
+            0.6791234592056349,
+            0.21716479298053196,
+            0.6891019369986304
+          ],
+          "sourceRowId": "303-07",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p303",
+              "row": 7,
+              "column": 2,
+              "pdfPage": 303,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113907600",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.6791234592056349,
+                    0.21716479298053196,
+                    0.6891019369986304
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113907600",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.6791234592056349,
+                    0.21716479298053196,
+                    0.6891019369986304
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113907600",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.6791234592056349,
+                    0.21716479298053196,
+                    0.6891019369986304
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Screwdriver for Compression Distractor, T30",
+            "PSM11": "Screwdriver for Compression Distractor, T30",
+            "Vision": "Screwdriver for Compression Distractor, T30"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 303,
+          "printedPage": 301,
+          "bounds": [
+            0.13161502604880723,
+            0.7643645079240853,
+            0.56,
+            0.8323429857170809
+          ],
+          "sourceBounds": [
+            0.13161502604880723,
+            0.7643645079240853,
+            0.56,
+            0.8323429857170809
+          ],
+          "codeBounds": [
+            0.13161502604880723,
+            0.7673645079240853,
+            0.21716479298053196,
+            0.7773429857170808
+          ],
+          "sourceRowId": "303-08",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p303",
+              "row": 8,
+              "column": 2,
+              "pdfPage": 303,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112515700",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.7673645079240853,
+                    0.21716479298053196,
+                    0.7773429857170808
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112515700",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.7673645079240853,
+                    0.21716479298053196,
+                    0.7773429857170808
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112515700",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.7673645079240853,
+                    0.21716479298053196,
+                    0.7773429857170808
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "TINA MIS Compression Distractor",
+            "PSM11": "TINA MIS Compression Distractor",
+            "Vision": "TINA MIS Compression Distractor"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        }
+      ],
+      "rowImages": [
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-303-01.webp",
+          "width": 674,
+          "height": 169,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              305,
+              56
+            ],
+            "enhancedSize": [
+              610,
+              112
+            ]
+          },
+          "imageCaption": {
+            "ru": "Держатель стержня MIS",
+            "en": "MIS Rod Holder"
+          },
+          "sourcePages": [
+            303
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-303-02.webp",
+          "width": 600,
+          "height": 116,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              272,
+              37
+            ],
+            "enhancedSize": [
+              544,
+              74
+            ]
+          },
+          "imageCaption": {
+            "ru": "Отвёртка, для одноступенчатой гайки, T30",
+            "en": "Screwdriver, for One-step Nut, T30"
+          },
+          "sourcePages": [
+            303
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-303-03.webp",
+          "width": 676,
+          "height": 96,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              306,
+              19
+            ],
+            "enhancedSize": [
+              612,
+              38
+            ]
+          },
+          "imageCaption": {
+            "ru": "Стержень отвёртки, для одноступенчатой гайки, T30",
+            "en": "Screwdriver Shaft, for One-step Nut, T30"
+          },
+          "sourcePages": [
+            303
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-303-04.webp",
+          "width": 782,
+          "height": 306,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              359,
+              122
+            ],
+            "enhancedSize": [
+              718,
+              244
+            ]
+          },
+          "imageCaption": {
+            "ru": "Отвёртка для срывной гайки TINA, T30",
+            "en": "TINA Snap-off Screwdriver, T30"
+          },
+          "sourcePages": [
+            303
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-303-05.webp",
+          "width": 772,
+          "height": 327,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              354,
+              132
+            ],
+            "enhancedSize": [
+              708,
+              264
+            ]
+          },
+          "imageCaption": {
+            "ru": "Отвёртка для срывной гайки TINA, Ø10.2",
+            "en": "TINA Snap-off Screwdriver, Ø10.2"
+          },
+          "sourcePages": [
+            303
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-303-06.webp",
+          "width": 365,
+          "height": 321,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              156,
+              132
+            ],
+            "enhancedSize": [
+              312,
+              264
+            ]
+          },
+          "imageCaption": {
+            "ru": "Ключ-контропора TINA",
+            "en": "TINA Anti Torque Wrench"
+          },
+          "sourcePages": [
+            303
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-303-07.webp",
+          "width": 470,
+          "height": 165,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              205,
+              52
+            ],
+            "enhancedSize": [
+              410,
+              104
+            ]
+          },
+          "imageCaption": {
+            "ru": "Отвёртка для компрессионно-дистракционного инструмента, T30",
+            "en": "Screwdriver for Compression Distractor, T30"
+          },
+          "sourcePages": [
+            303
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-303-08.webp",
+          "width": 499,
+          "height": 326,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              221,
+              132
+            ],
+            "enhancedSize": [
+              442,
+              264
+            ]
+          },
+          "imageCaption": {
+            "ru": "Компрессионно-дистракционный инструмент TINA MIS",
+            "en": "TINA MIS Compression Distractor"
+          },
+          "sourcePages": [
+            303
+          ]
+        }
+      ],
+      "sourcePage": 303,
+      "sourcePages": [
+        303
+      ],
+      "printedPage": 301,
+      "catalogNumberTable": true
+    },
+    {
+      "id": "spine-set-112516500-p304",
+      "groupId": "spine-set-112516500-p304",
+      "title": {
+        "ru": "Инструменты · стр. 302",
+        "en": "Instruments · p. 302"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Втулка компрессионно-дистракционного инструмента TINA MIS",
+            "en": "TINA MIS Compression Distractor Sleeve"
+          },
+          "112512100"
+        ],
+        [
+          {
+            "ru": "Удлинитель втулки компрессионно-дистракционного инструмента TINA MIS",
+            "en": "TINA MIS Compression Distractor Sleeve Extender"
+          },
+          "112512200"
+        ],
+        [
+          {
+            "ru": "Набор для обрезки винтов TINA, для транспедикулярных винтов с удлинёнными лепестками",
+            "en": "TINA Screw Cutter Set, for Long Arm Pedicle Screws"
+          },
+          "112512300"
+        ],
+        [
+          {
+            "ru": "Т-образная рукоятка, с быстросъёмным соединением, четырёхгранная, канюлированная",
+            "en": "T-Handle, with Quick Coupling, quadrangle, cannulated"
+          },
+          "112260300"
+        ],
+        [
+          {
+            "ru": "Динамометрическая отвёртка, 12.0 Н·м",
+            "en": "Torque Indicating Screwdriver, 12.0 N.m"
+          },
+          "113910200"
+        ],
+        [
+          {
+            "ru": "Храповая рукоятка, четырёхгранная, канюлированная",
+            "en": "Ratchet Handle, quadrangle, cannulated"
+          },
+          "112518100"
+        ],
+        [
+          {
+            "ru": "Костный молоток, 16x224",
+            "en": "Bone Mallet, 16x224"
+          },
+          "115752700"
+        ],
+        [
+          {
+            "ru": "Измеритель стержня MIS",
+            "en": "MIS Rod Gauge"
+          },
+          "113909400"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 304,
+          "printedPage": 302,
+          "bounds": [
+            0.11132437619961612,
+            0.1466771668949325,
+            0.56,
+            0.19878693015065546
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.1466771668949325,
+            0.56,
+            0.19878693015065546
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.1496771668949325,
+            0.19687414313134083,
+            0.159655644687928
+          ],
+          "sourceRowId": "304-01",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p304",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 304,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112512100",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.1496771668949325,
+                    0.19687414313134083,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112512100",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.1496771668949325,
+                    0.19687414313134083,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112512100",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.1496771668949325,
+                    0.19687414313134083,
+                    0.159655644687928
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "TINA MIS Compression Distractor Sleeve",
+            "PSM11": "TINA MIS Compression Distractor Sleeve ee",
+            "Vision": "TINA MIS Compression Distractor Sleeve"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 304,
+          "printedPage": 302,
+          "bounds": [
+            0.11132437619961612,
+            0.23491821561338289,
+            0.56,
+            0.2870279788691058
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.23491821561338289,
+            0.56,
+            0.2870279788691058
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.2379182156133829,
+            0.19687414313134083,
+            0.2478966934063784
+          ],
+          "sourceRowId": "304-02",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p304",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 304,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112512200",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.2379182156133829,
+                    0.19687414313134083,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112512200",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.2379182156133829,
+                    0.19687414313134083,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112512200",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.2379182156133829,
+                    0.19687414313134083,
+                    0.2478966934063784
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "TINA MIS Compression Distractor Sleeve Extender",
+            "PSM11": "TINA MIS Compression Distractor Sleeve Extender cep aes =",
+            "Vision": "TINA MIS Compression Distractor Sleeve Extender CEiB11512900 100030"
+          },
+          "descriptionVerification": "Codex visual source crop"
+        },
+        {
+          "pdfPage": 304,
+          "printedPage": 302,
+          "bounds": [
+            0.11132437619961612,
+            0.3231592643318333,
+            0.56,
+            0.3752690275875562
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.3231592643318333,
+            0.56,
+            0.3752690275875562
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.3261592643318333,
+            0.19687414313134083,
+            0.3361377421248288
+          ],
+          "sourceRowId": "304-03",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p304",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 304,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112512300",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.3261592643318333,
+                    0.19687414313134083,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112512300",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.3261592643318333,
+                    0.19687414313134083,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112512300",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.3261592643318333,
+                    0.19687414313134083,
+                    0.3361377421248288
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "TINA Screw Cutter Set, for Long Arm Pedicle Screws SE oe",
+            "PSM11": "TINA Screw Cutter Set, for Long Arm Pedicle Screws Se ee",
+            "Vision": "TINA Screw Cutter Set, for Long Arm Pedicle Screws"
+          },
+          "descriptionVerification": "Codex visual source crop"
+        },
+        {
+          "pdfPage": 304,
+          "printedPage": 302,
+          "bounds": [
+            0.11132437619961612,
+            0.4114003130502837,
+            0.56,
+            0.4635100763060066
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.4114003130502837,
+            0.56,
+            0.4635100763060066
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.4144003130502837,
+            0.19687414313134083,
+            0.4243787908432792
+          ],
+          "sourceRowId": "304-04",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p304",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 304,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112260300",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.4144003130502837,
+                    0.19687414313134083,
+                    0.4243787908432792
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112260300",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.4144003130502837,
+                    0.19687414313134083,
+                    0.4243787908432792
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112260300",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.4144003130502837,
+                    0.19687414313134083,
+                    0.4243787908432792
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "T-Handle, with Quick Coupling, quadrangle, cannulated",
+            "PSM11": "T-Handle, with Quick Coupling, quadrangle, cannulated",
+            "Vision": "T-Handle, with Quick Coupling, quadrangle, cannulated"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 304,
+          "printedPage": 302,
+          "bounds": [
+            0.11132437619961612,
+            0.4996413617687341,
+            0.56,
+            0.551751125024457
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.4996413617687341,
+            0.56,
+            0.551751125024457
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.5026413617687341,
+            0.19687414313134083,
+            0.5126198395617296
+          ],
+          "sourceRowId": "304-05",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p304",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 304,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113910200",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5026413617687341,
+                    0.19687414313134083,
+                    0.5126198395617296
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113910200",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5026413617687341,
+                    0.19687414313134083,
+                    0.5126198395617296
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113910200",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5026413617687341,
+                    0.19687414313134083,
+                    0.5126198395617296
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Torque Indicating Screwdriver, 12.0 N.m",
+            "PSM11": "Torque Indicating Screwdriver, 12.0 N.m | eS oo",
+            "Vision": "Torque Indicating Screwdriver, 12.0 N.m"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 304,
+          "printedPage": 302,
+          "bounds": [
+            0.11132437619961612,
+            0.5878824104871845,
+            0.56,
+            0.6399921737429074
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.5878824104871845,
+            0.56,
+            0.6399921737429074
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.5908824104871845,
+            0.19687414313134083,
+            0.60086088828018
+          ],
+          "sourceRowId": "304-06",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p304",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 304,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112518100",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5908824104871845,
+                    0.19687414313134083,
+                    0.60086088828018
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112518100",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5908824104871845,
+                    0.19687414313134083,
+                    0.60086088828018
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112518100",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5908824104871845,
+                    0.19687414313134083,
+                    0.60086088828018
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Ratchet Handle, quadrangle, cannulated",
+            "PSM11": "Ratchet Handle, quadrangle, cannulated",
+            "Vision": "Ratchet Handle, quadrangle, cannulated"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 304,
+          "printedPage": 302,
+          "bounds": [
+            0.11132437619961612,
+            0.6761234592056349,
+            0.56,
+            0.7282332224613578
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.6761234592056349,
+            0.56,
+            0.7282332224613578
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.6791234592056349,
+            0.19687414313134083,
+            0.6891019369986304
+          ],
+          "sourceRowId": "304-07",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p304",
+              "row": 7,
+              "column": 2,
+              "pdfPage": 304,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "115752700",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.6791234592056349,
+                    0.19687414313134083,
+                    0.6891019369986304
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "115752700",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.6791234592056349,
+                    0.19687414313134083,
+                    0.6891019369986304
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "115752700",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.6791234592056349,
+                    0.19687414313134083,
+                    0.6891019369986304
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Bone Mallet, 16x224",
+            "PSM11": "Bone Mallet, 16x224",
+            "Vision": "Bone Mallet, 16x224"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 304,
+          "printedPage": 302,
+          "bounds": [
+            0.11132437619961612,
+            0.7643645079240853,
+            0.56,
+            0.8323429857170809
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.7643645079240853,
+            0.56,
+            0.8323429857170809
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.7673645079240853,
+            0.19687414313134083,
+            0.7773429857170808
+          ],
+          "sourceRowId": "304-08",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p304",
+              "row": 8,
+              "column": 2,
+              "pdfPage": 304,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113909400",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.7673645079240853,
+                    0.19687414313134083,
+                    0.7773429857170808
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113909400",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.7673645079240853,
+                    0.19687414313134083,
+                    0.7773429857170808
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113909400",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.7673645079240853,
+                    0.19687414313134083,
+                    0.7773429857170808
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "MIS Rod Gauge",
+            "PSM11": "MIS Rod Gauge",
+            "Vision": "MIS Rod Gauge"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        }
+      ],
+      "rowImages": [
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-304-01.webp",
+          "width": 786,
+          "height": 146,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              361,
+              41
+            ],
+            "enhancedSize": [
+              722,
+              82
+            ]
+          },
+          "imageCaption": {
+            "ru": "Втулка компрессионно-дистракционного инструмента TINA MIS",
+            "en": "TINA MIS Compression Distractor Sleeve"
+          },
+          "sourcePages": [
+            304
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-304-02.webp",
+          "width": 904,
+          "height": 181,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              420,
+              59
+            ],
+            "enhancedSize": [
+              840,
+              118
+            ]
+          },
+          "imageCaption": {
+            "ru": "Удлинитель втулки компрессионно-дистракционного инструмента TINA MIS",
+            "en": "TINA MIS Compression Distractor Sleeve Extender"
+          },
+          "sourcePages": [
+            304
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-304-03.webp",
+          "width": 904,
+          "height": 129,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              420,
+              33
+            ],
+            "enhancedSize": [
+              840,
+              66
+            ]
+          },
+          "imageCaption": {
+            "ru": "Набор для обрезки винтов TINA, для транспедикулярных винтов с удлинёнными лепестками",
+            "en": "TINA Screw Cutter Set, for Long Arm Pedicle Screws"
+          },
+          "sourcePages": [
+            304
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-304-04.webp",
+          "width": 403,
+          "height": 502,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              170,
+              219
+            ],
+            "enhancedSize": [
+              340,
+              438
+            ]
+          },
+          "imageCaption": {
+            "ru": "Т-образная рукоятка, с быстросъёмным соединением, четырёхгранная, канюлированная",
+            "en": "T-Handle, with Quick Coupling, quadrangle, cannulated"
+          },
+          "sourcePages": [
+            304
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-304-05.webp",
+          "width": 664,
+          "height": 525,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              302,
+              234
+            ],
+            "enhancedSize": [
+              604,
+              468
+            ]
+          },
+          "imageCaption": {
+            "ru": "Динамометрическая отвёртка, 12.0 Н·м",
+            "en": "Torque Indicating Screwdriver, 12.0 N.m"
+          },
+          "sourcePages": [
+            304
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-304-06.webp",
+          "width": 668,
+          "height": 222,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              302,
+              82
+            ],
+            "enhancedSize": [
+              604,
+              164
+            ]
+          },
+          "imageCaption": {
+            "ru": "Храповая рукоятка, четырёхгранная, канюлированная",
+            "en": "Ratchet Handle, quadrangle, cannulated"
+          },
+          "sourcePages": [
+            304
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-304-07.webp",
+          "width": 740,
+          "height": 263,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              338,
+              101
+            ],
+            "enhancedSize": [
+              676,
+              202
+            ]
+          },
+          "imageCaption": {
+            "ru": "Костный молоток, 16x224",
+            "en": "Bone Mallet, 16x224"
+          },
+          "sourcePages": [
+            304
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-304-08.webp",
+          "width": 784,
+          "height": 274,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              360,
+              106
+            ],
+            "enhancedSize": [
+              720,
+              212
+            ]
+          },
+          "imageCaption": {
+            "ru": "Измеритель стержня MIS",
+            "en": "MIS Rod Gauge"
+          },
+          "sourcePages": [
+            304
+          ]
+        }
+      ],
+      "sourcePage": 304,
+      "sourcePages": [
+        304
+      ],
+      "printedPage": 302,
+      "catalogNumberTable": true
+    },
+    {
+      "id": "spine-set-112516500-p305",
+      "groupId": "spine-set-112516500-p305",
+      "title": {
+        "ru": "Инструменты · стр. 303",
+        "en": "Instruments · p. 303"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Регулировочная отвёртка TINA",
+            "en": "TINA Adjustment Driver"
+          },
+          "112513400"
+        ],
+        [
+          {
+            "ru": "Контейнер стержней и гаек — TINA MIS",
+            "en": "TINA MIS Rods & Nuts Case"
+          },
+          "112513100"
+        ],
+        [
+          {
+            "ru": "Контейнер инструментов — TINA MIS",
+            "en": "TINA MIS Instrument Case"
+          },
+          "112516600"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 305,
+          "printedPage": 303,
+          "bounds": [
+            0.13161502604880723,
+            0.1466771668949325,
+            0.56,
+            0.19878693015065546
+          ],
+          "sourceBounds": [
+            0.13161502604880723,
+            0.1466771668949325,
+            0.56,
+            0.19878693015065546
+          ],
+          "codeBounds": [
+            0.13161502604880723,
+            0.1496771668949325,
+            0.21716479298053196,
+            0.159655644687928
+          ],
+          "sourceRowId": "305-01",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p305",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 305,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112513400",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.1496771668949325,
+                    0.21716479298053196,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112513400",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.1496771668949325,
+                    0.21716479298053196,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112513400",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.1496771668949325,
+                    0.21716479298053196,
+                    0.159655644687928
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "TINA Adjustment Driver",
+            "PSM11": "TINA Adjustment Driver",
+            "Vision": "TINA Adjustment Driver"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 305,
+          "printedPage": 303,
+          "bounds": [
+            0.13161502604880723,
+            0.23491821561338289,
+            0.56,
+            0.2870279788691058
+          ],
+          "sourceBounds": [
+            0.13161502604880723,
+            0.23491821561338289,
+            0.56,
+            0.2870279788691058
+          ],
+          "codeBounds": [
+            0.13161502604880723,
+            0.2379182156133829,
+            0.21716479298053196,
+            0.2478966934063784
+          ],
+          "sourceRowId": "305-02",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p305",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 305,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112513100",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.2379182156133829,
+                    0.21716479298053196,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112513100",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.2379182156133829,
+                    0.21716479298053196,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112513100",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.2379182156133829,
+                    0.21716479298053196,
+                    0.2478966934063784
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "TINA MIS Rods & Nuts Case",
+            "PSM11": "TINA MIS Rods & Nuts Case",
+            "Vision": "TINA MIS Rods & Nuts Case"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 305,
+          "printedPage": 303,
+          "bounds": [
+            0.13161502604880723,
+            0.3231592643318333,
+            0.56,
+            0.39113774212482877
+          ],
+          "sourceBounds": [
+            0.13161502604880723,
+            0.3231592643318333,
+            0.56,
+            0.39113774212482877
+          ],
+          "codeBounds": [
+            0.13161502604880723,
+            0.3261592643318333,
+            0.21716479298053196,
+            0.3361377421248288
+          ],
+          "sourceRowId": "305-03",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-112516500-p305",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 305,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112516600",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.3261592643318333,
+                    0.21716479298053196,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112516600",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.3261592643318333,
+                    0.21716479298053196,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112516600",
+                  "bounds": [
+                    0.13161502604880723,
+                    0.3261592643318333,
+                    0.21716479298053196,
+                    0.3361377421248288
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "TINA MIS Instrument Case",
+            "PSM11": "TINA MIS Instrument Case e utp) ey dy EHEEEEL",
+            "Vision": "TINA MIS Instrument Case"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        }
+      ],
+      "rowImages": [
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-305-01.webp",
+          "width": 552,
+          "height": 249,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              247,
+              98
+            ],
+            "enhancedSize": [
+              494,
+              196
+            ]
+          },
+          "imageCaption": {
+            "ru": "Регулировочная отвёртка TINA",
+            "en": "TINA Adjustment Driver"
+          },
+          "sourcePages": [
+            305
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-305-02.webp",
+          "width": 491,
+          "height": 301,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              214,
+              119
+            ],
+            "enhancedSize": [
+              428,
+              238
+            ]
+          },
+          "imageCaption": {
+            "ru": "Контейнер стержней и гаек — TINA MIS",
+            "en": "TINA MIS Rods & Nuts Case"
+          },
+          "sourcePages": [
+            305
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-305-03.webp",
+          "width": 492,
+          "height": 994,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              214,
+              465
+            ],
+            "enhancedSize": [
+              428,
+              930
+            ]
+          },
+          "imageCaption": {
+            "ru": "Контейнер инструментов — TINA MIS",
+            "en": "TINA MIS Instrument Case"
+          },
+          "sourcePages": [
+            305
+          ]
+        }
+      ],
+      "sourcePage": 305,
+      "sourcePages": [
+        305
+      ],
+      "printedPage": 303,
+      "catalogNumberTable": true
+    }
+  ],
+  "referenceTables": [],
+  "refCodes": [
+    "112516500",
+    "112515200",
+    "112514800",
+    "112514900",
+    "112513800",
+    "112513900",
+    "112510200",
+    "112510300",
+    "112510400",
+    "112510500",
+    "112510600",
+    "112510700",
+    "112510800",
+    "112510900",
+    "112511100",
+    "112511200",
+    "113900900",
+    "113905900",
+    "112113300",
+    "112113400",
+    "112516100",
+    "112516200",
+    "112517000",
+    "113907600",
+    "112515700",
+    "112512100",
+    "112512200",
+    "112512300",
+    "112260300",
+    "113910200",
+    "112518100",
+    "115752700",
+    "113909400",
+    "112513400",
+    "112513100",
+    "112516600"
+  ],
+  "sourcePages": [
+    301,
+    302,
+    303,
+    304,
+    305
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Spine Catalogue — каталог продукции",
+    "en": "Double Medical Spine Catalogue — product catalog"
+  },
+  "documentCover": "/catalogs/double-medical/spine-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "relatedSystemSlugs": [
+    "tina-spine-5-5-6-0-system"
+  ],
+  "relatedRelationship": "Clinical family/context; no additional compatibility claim",
+  "imageDimensions": {
+    "/images/products/double-medical/spine-instruments/art-301-01.webp": {
+      "width": 328,
+      "height": 230
+    },
+    "/images/products/double-medical/spine-instruments/art-301-02.webp": {
+      "width": 566,
+      "height": 296
+    },
+    "/images/products/double-medical/spine-instruments/art-301-03.webp": {
+      "width": 654,
+      "height": 271
+    },
+    "/images/products/double-medical/spine-instruments/art-301-04.webp": {
+      "width": 678,
+      "height": 196
+    },
+    "/images/products/double-medical/spine-instruments/art-301-05.webp": {
+      "width": 350,
+      "height": 74
+    },
+    "/images/products/double-medical/spine-instruments/art-301-07.webp": {
+      "width": 690,
+      "height": 116
+    },
+    "/images/products/double-medical/spine-instruments/art-301-08.webp": {
+      "width": 690,
+      "height": 129
+    },
+    "/images/products/double-medical/spine-instruments/art-302-01.webp": {
+      "width": 475,
+      "height": 432
+    },
+    "/images/products/double-medical/spine-instruments/art-302-02.webp": {
+      "width": 666,
+      "height": 94
+    },
+    "/images/products/double-medical/spine-instruments/art-302-03.webp": {
+      "width": 666,
+      "height": 94
+    },
+    "/images/products/double-medical/spine-instruments/art-302-04.webp": {
+      "width": 666,
+      "height": 98
+    },
+    "/images/products/double-medical/spine-instruments/art-302-05.webp": {
+      "width": 666,
+      "height": 98
+    },
+    "/images/products/double-medical/spine-instruments/art-302-06.webp": {
+      "width": 664,
+      "height": 116
+    },
+    "/images/products/double-medical/spine-instruments/art-302-07.webp": {
+      "width": 664,
+      "height": 110
+    },
+    "/images/products/double-medical/spine-instruments/art-302-08.webp": {
+      "width": 666,
+      "height": 218
+    },
+    "/images/products/double-medical/spine-instruments/art-303-01.webp": {
+      "width": 674,
+      "height": 169
+    },
+    "/images/products/double-medical/spine-instruments/art-303-02.webp": {
+      "width": 600,
+      "height": 116
+    },
+    "/images/products/double-medical/spine-instruments/art-303-03.webp": {
+      "width": 676,
+      "height": 96
+    },
+    "/images/products/double-medical/spine-instruments/art-303-04.webp": {
+      "width": 782,
+      "height": 306
+    },
+    "/images/products/double-medical/spine-instruments/art-303-05.webp": {
+      "width": 772,
+      "height": 327
+    },
+    "/images/products/double-medical/spine-instruments/art-303-06.webp": {
+      "width": 365,
+      "height": 321
+    },
+    "/images/products/double-medical/spine-instruments/art-303-07.webp": {
+      "width": 470,
+      "height": 165
+    },
+    "/images/products/double-medical/spine-instruments/art-303-08.webp": {
+      "width": 499,
+      "height": 326
+    },
+    "/images/products/double-medical/spine-instruments/art-304-01.webp": {
+      "width": 786,
+      "height": 146
+    },
+    "/images/products/double-medical/spine-instruments/art-304-02.webp": {
+      "width": 904,
+      "height": 181
+    },
+    "/images/products/double-medical/spine-instruments/art-304-03.webp": {
+      "width": 904,
+      "height": 129
+    },
+    "/images/products/double-medical/spine-instruments/art-304-04.webp": {
+      "width": 403,
+      "height": 502
+    },
+    "/images/products/double-medical/spine-instruments/art-304-05.webp": {
+      "width": 664,
+      "height": 525
+    },
+    "/images/products/double-medical/spine-instruments/art-304-06.webp": {
+      "width": 668,
+      "height": 222
+    },
+    "/images/products/double-medical/spine-instruments/art-304-07.webp": {
+      "width": 740,
+      "height": 263
+    },
+    "/images/products/double-medical/spine-instruments/art-304-08.webp": {
+      "width": 784,
+      "height": 274
+    },
+    "/images/products/double-medical/spine-instruments/art-305-01.webp": {
+      "width": 552,
+      "height": 249
+    },
+    "/images/products/double-medical/spine-instruments/art-305-02.webp": {
+      "width": 491,
+      "height": 301
+    },
+    "/images/products/double-medical/spine-instruments/art-305-03.webp": {
+      "width": 492,
+      "height": 994
+    }
+  },
+  "sourcePdf": "/catalogs/double-medical/spine-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/spine-catalogue/pages/301.webp",
+    "/catalogs/double-medical/spine-catalogue/pages/302.webp",
+    "/catalogs/double-medical/spine-catalogue/pages/303.webp",
+    "/catalogs/double-medical/spine-catalogue/pages/304.webp",
+    "/catalogs/double-medical/spine-catalogue/pages/305.webp"
+  ],
+  "sourcePageDimensions": {
+    "210": {
+      "width": 3647,
+      "height": 5111
+    },
+    "211": {
+      "width": 3647,
+      "height": 5111
+    },
+    "212": {
+      "width": 3647,
+      "height": 5111
+    },
+    "213": {
+      "width": 3647,
+      "height": 5111
+    },
+    "214": {
+      "width": 3647,
+      "height": 5111
+    },
+    "215": {
+      "width": 3647,
+      "height": 5111
+    },
+    "216": {
+      "width": 3647,
+      "height": 5111
+    },
+    "217": {
+      "width": 3647,
+      "height": 5111
+    },
+    "218": {
+      "width": 3647,
+      "height": 5111
+    },
+    "219": {
+      "width": 3647,
+      "height": 5111
+    },
+    "220": {
+      "width": 3647,
+      "height": 5111
+    },
+    "221": {
+      "width": 3647,
+      "height": 5111
+    },
+    "222": {
+      "width": 3647,
+      "height": 5111
+    },
+    "223": {
+      "width": 3647,
+      "height": 5111
+    },
+    "224": {
+      "width": 3647,
+      "height": 5111
+    },
+    "225": {
+      "width": 3647,
+      "height": 5111
+    },
+    "226": {
+      "width": 3647,
+      "height": 5111
+    },
+    "227": {
+      "width": 3647,
+      "height": 5111
+    },
+    "228": {
+      "width": 3647,
+      "height": 5111
+    },
+    "229": {
+      "width": 3647,
+      "height": 5111
+    },
+    "230": {
+      "width": 3647,
+      "height": 5111
+    },
+    "231": {
+      "width": 3647,
+      "height": 5111
+    },
+    "232": {
+      "width": 3647,
+      "height": 5111
+    },
+    "233": {
+      "width": 3647,
+      "height": 5111
+    },
+    "234": {
+      "width": 3647,
+      "height": 5111
+    },
+    "235": {
+      "width": 3647,
+      "height": 5111
+    },
+    "236": {
+      "width": 3647,
+      "height": 5111
+    },
+    "237": {
+      "width": 3647,
+      "height": 5111
+    },
+    "238": {
+      "width": 3647,
+      "height": 5111
+    },
+    "239": {
+      "width": 3647,
+      "height": 5111
+    },
+    "240": {
+      "width": 3647,
+      "height": 5111
+    },
+    "241": {
+      "width": 3647,
+      "height": 5111
+    },
+    "242": {
+      "width": 3647,
+      "height": 5111
+    },
+    "243": {
+      "width": 3647,
+      "height": 5111
+    },
+    "244": {
+      "width": 3647,
+      "height": 5111
+    },
+    "245": {
+      "width": 3647,
+      "height": 5111
+    },
+    "246": {
+      "width": 3647,
+      "height": 5111
+    },
+    "247": {
+      "width": 3647,
+      "height": 5111
+    },
+    "248": {
+      "width": 3647,
+      "height": 5111
+    },
+    "249": {
+      "width": 3647,
+      "height": 5111
+    },
+    "250": {
+      "width": 3647,
+      "height": 5111
+    },
+    "251": {
+      "width": 3647,
+      "height": 5111
+    },
+    "252": {
+      "width": 3647,
+      "height": 5111
+    },
+    "253": {
+      "width": 3647,
+      "height": 5111
+    },
+    "254": {
+      "width": 3647,
+      "height": 5111
+    },
+    "255": {
+      "width": 3647,
+      "height": 5111
+    },
+    "256": {
+      "width": 3647,
+      "height": 5111
+    },
+    "257": {
+      "width": 3647,
+      "height": 5111
+    },
+    "258": {
+      "width": 3647,
+      "height": 5111
+    },
+    "259": {
+      "width": 3647,
+      "height": 5111
+    },
+    "260": {
+      "width": 3647,
+      "height": 5111
+    },
+    "261": {
+      "width": 3647,
+      "height": 5111
+    },
+    "262": {
+      "width": 3647,
+      "height": 5111
+    },
+    "263": {
+      "width": 3647,
+      "height": 5111
+    },
+    "264": {
+      "width": 3647,
+      "height": 5111
+    },
+    "265": {
+      "width": 3647,
+      "height": 5111
+    },
+    "266": {
+      "width": 3647,
+      "height": 5111
+    },
+    "267": {
+      "width": 3647,
+      "height": 5111
+    },
+    "268": {
+      "width": 3647,
+      "height": 5111
+    },
+    "269": {
+      "width": 3647,
+      "height": 5111
+    },
+    "270": {
+      "width": 3647,
+      "height": 5111
+    },
+    "271": {
+      "width": 3647,
+      "height": 5111
+    },
+    "272": {
+      "width": 3647,
+      "height": 5111
+    },
+    "273": {
+      "width": 3647,
+      "height": 5111
+    },
+    "274": {
+      "width": 3647,
+      "height": 5111
+    },
+    "275": {
+      "width": 3647,
+      "height": 5111
+    },
+    "276": {
+      "width": 3647,
+      "height": 5111
+    },
+    "277": {
+      "width": 3647,
+      "height": 5111
+    },
+    "278": {
+      "width": 3647,
+      "height": 5111
+    },
+    "279": {
+      "width": 3647,
+      "height": 5111
+    },
+    "280": {
+      "width": 3647,
+      "height": 5111
+    },
+    "281": {
+      "width": 3647,
+      "height": 5111
+    },
+    "282": {
+      "width": 3647,
+      "height": 5111
+    },
+    "283": {
+      "width": 3647,
+      "height": 5111
+    },
+    "284": {
+      "width": 3647,
+      "height": 5111
+    },
+    "285": {
+      "width": 3647,
+      "height": 5111
+    },
+    "286": {
+      "width": 3647,
+      "height": 5111
+    },
+    "287": {
+      "width": 3647,
+      "height": 5111
+    },
+    "288": {
+      "width": 3647,
+      "height": 5111
+    },
+    "289": {
+      "width": 3647,
+      "height": 5111
+    },
+    "290": {
+      "width": 3647,
+      "height": 5111
+    },
+    "291": {
+      "width": 3647,
+      "height": 5111
+    },
+    "292": {
+      "width": 3647,
+      "height": 5111
+    },
+    "293": {
+      "width": 3647,
+      "height": 5111
+    },
+    "294": {
+      "width": 3647,
+      "height": 5111
+    },
+    "295": {
+      "width": 3647,
+      "height": 5111
+    },
+    "296": {
+      "width": 3647,
+      "height": 5111
+    },
+    "297": {
+      "width": 3647,
+      "height": 5111
+    },
+    "298": {
+      "width": 3647,
+      "height": 5111
+    },
+    "299": {
+      "width": 3647,
+      "height": 5111
+    },
+    "300": {
+      "width": 3647,
+      "height": 5111
+    },
+    "301": {
+      "width": 3647,
+      "height": 5111
+    },
+    "302": {
+      "width": 3647,
+      "height": 5111
+    },
+    "303": {
+      "width": 3647,
+      "height": 5111
+    },
+    "304": {
+      "width": 3647,
+      "height": 5111
+    },
+    "305": {
+      "width": 3647,
+      "height": 5111
+    },
+    "306": {
+      "width": 3647,
+      "height": 5111
+    },
+    "307": {
+      "width": 3647,
+      "height": 5111
+    },
+    "308": {
+      "width": 3647,
+      "height": 5111
+    },
+    "309": {
+      "width": 3647,
+      "height": 5111
+    },
+    "310": {
+      "width": 3647,
+      "height": 5111
+    },
+    "311": {
+      "width": 3647,
+      "height": 5111
+    },
+    "312": {
+      "width": 3647,
+      "height": 5111
+    },
+    "313": {
+      "width": 3647,
+      "height": 5111
+    },
+    "314": {
+      "width": 3647,
+      "height": 5111
+    },
+    "315": {
+      "width": 3647,
+      "height": 5111
+    },
+    "316": {
+      "width": 3647,
+      "height": 5111
+    },
+    "317": {
+      "width": 3647,
+      "height": 5111
+    },
+    "318": {
+      "width": 3647,
+      "height": 5111
+    },
+    "319": {
+      "width": 3647,
+      "height": 5111
+    },
+    "320": {
+      "width": 3647,
+      "height": 5111
+    },
+    "321": {
+      "width": 3647,
+      "height": 5111
+    },
+    "322": {
+      "width": 3647,
+      "height": 5111
+    },
+    "323": {
+      "width": 3647,
+      "height": 5111
+    },
+    "324": {
+      "width": 3647,
+      "height": 5111
+    },
+    "325": {
+      "width": 3647,
+      "height": 5111
+    },
+    "326": {
+      "width": 3647,
+      "height": 5111
+    },
+    "327": {
+      "width": 3647,
+      "height": 5111
+    },
+    "328": {
+      "width": 3647,
+      "height": 5111
+    },
+    "329": {
+      "width": 3647,
+      "height": 5111
+    },
+    "330": {
+      "width": 3647,
+      "height": 5111
+    },
+    "331": {
+      "width": 3647,
+      "height": 5111
+    },
+    "332": {
+      "width": 3647,
+      "height": 5111
+    },
+    "333": {
+      "width": 3647,
+      "height": 5111
+    },
+    "334": {
+      "width": 3647,
+      "height": 5111
+    },
+    "335": {
+      "width": 3647,
+      "height": 5111
+    },
+    "336": {
+      "width": 3647,
+      "height": 5111
+    },
+    "337": {
+      "width": 3647,
+      "height": 5111
+    },
+    "338": {
+      "width": 3647,
+      "height": 5111
+    },
+    "339": {
+      "width": 3647,
+      "height": 5111
+    },
+    "340": {
+      "width": 3647,
+      "height": 5111
+    },
+    "341": {
+      "width": 3647,
+      "height": 5111
+    },
+    "342": {
+      "width": 3647,
+      "height": 5111
+    },
+    "343": {
+      "width": 3647,
+      "height": 5111
+    },
+    "344": {
+      "width": 3647,
+      "height": 5111
+    },
+    "345": {
+      "width": 3647,
+      "height": 5111
+    },
+    "346": {
+      "width": 3647,
+      "height": 5111
+    },
+    "347": {
+      "width": 3647,
+      "height": 5111
+    },
+    "348": {
+      "width": 3647,
+      "height": 5111
+    },
+    "349": {
+      "width": 3647,
+      "height": 5111
+    },
+    "350": {
+      "width": 3647,
+      "height": 5111
+    },
+    "351": {
+      "width": 3647,
+      "height": 5111
+    },
+    "352": {
+      "width": 3647,
+      "height": 5111
+    },
+    "353": {
+      "width": 3647,
+      "height": 5111
+    },
+    "354": {
+      "width": 3647,
+      "height": 5111
+    },
+    "355": {
+      "width": 3647,
+      "height": 5111
+    },
+    "356": {
+      "width": 3647,
+      "height": 5111
+    },
+    "357": {
+      "width": 3647,
+      "height": 5111
+    },
+    "358": {
+      "width": 3647,
+      "height": 5111
+    },
+    "359": {
+      "width": 3647,
+      "height": 5111
+    },
+    "360": {
+      "width": 3647,
+      "height": 5111
+    },
+    "361": {
+      "width": 3647,
+      "height": 5111
+    },
+    "362": {
+      "width": 3647,
+      "height": 5111
+    },
+    "363": {
+      "width": 3647,
+      "height": 5111
+    },
+    "364": {
+      "width": 3647,
+      "height": 5111
+    },
+    "365": {
+      "width": 3647,
+      "height": 5111
+    },
+    "366": {
+      "width": 3647,
+      "height": 5111
+    },
+    "367": {
+      "width": 3647,
+      "height": 5111
+    },
+    "368": {
+      "width": 3647,
+      "height": 5111
+    },
+    "369": {
+      "width": 3647,
+      "height": 5111
+    },
+    "370": {
+      "width": 3647,
+      "height": 5111
+    },
+    "371": {
+      "width": 3647,
+      "height": 5111
+    },
+    "372": {
+      "width": 3647,
+      "height": 5111
+    },
+    "373": {
+      "width": 3647,
+      "height": 5111
+    },
+    "374": {
+      "width": 3647,
+      "height": 5111
+    },
+    "375": {
+      "width": 3647,
+      "height": 5111
+    },
+    "376": {
+      "width": 3647,
+      "height": 5111
+    },
+    "377": {
+      "width": 3647,
+      "height": 5111
+    },
+    "378": {
+      "width": 3647,
+      "height": 5111
+    },
+    "379": {
+      "width": 3647,
+      "height": 5111
+    },
+    "380": {
+      "width": 3647,
+      "height": 5111
+    },
+    "381": {
+      "width": 3647,
+      "height": 5111
+    },
+    "382": {
+      "width": 3647,
+      "height": 5111
+    },
+    "383": {
+      "width": 3647,
+      "height": 5111
+    },
+    "384": {
+      "width": 3647,
+      "height": 5111
+    },
+    "385": {
+      "width": 3647,
+      "height": 5111
+    },
+    "386": {
+      "width": 3647,
+      "height": 5111
+    },
+    "387": {
+      "width": 3647,
+      "height": 5111
+    },
+    "388": {
+      "width": 3647,
+      "height": 5111
+    },
+    "389": {
+      "width": 3647,
+      "height": 5111
+    },
+    "390": {
+      "width": 3647,
+      "height": 5111
+    },
+    "391": {
+      "width": 3647,
+      "height": 5111
+    },
+    "392": {
+      "width": 3647,
+      "height": 5111
+    },
+    "393": {
+      "width": 3647,
+      "height": 5111
+    },
+    "394": {
+      "width": 3647,
+      "height": 5111
+    },
+    "395": {
+      "width": 3647,
+      "height": 5111
+    },
+    "396": {
+      "width": 3647,
+      "height": 5111
+    },
+    "397": {
+      "width": 3647,
+      "height": 5111
+    },
+    "398": {
+      "width": 3647,
+      "height": 5111
+    },
+    "399": {
+      "width": 3647,
+      "height": 5111
+    },
+    "400": {
+      "width": 3647,
+      "height": 5111
+    },
+    "401": {
+      "width": 3647,
+      "height": 5111
+    },
+    "402": {
+      "width": 3647,
+      "height": 5111
+    },
+    "403": {
+      "width": 3647,
+      "height": 5111
+    },
+    "404": {
+      "width": 3647,
+      "height": 5111
+    },
+    "405": {
+      "width": 3647,
+      "height": 5111
+    },
+    "406": {
+      "width": 3647,
+      "height": 5111
+    },
+    "407": {
+      "width": 3647,
+      "height": 5111
+    },
+    "408": {
+      "width": 3647,
+      "height": 5111
+    },
+    "409": {
+      "width": 3647,
+      "height": 5111
+    },
+    "410": {
+      "width": 3647,
+      "height": 5111
+    },
+    "411": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "d32e99d5106ebd5f18a76a32ff19d64da74f9ef96cc60ca536c0a533e630cb9c",
+    "importMethod": "600-DPI Tesseract PSM3 + PSM11 + independent Apple Vision accurate; exact REF agreement; Codex-authored RU medical terminology; native photo composites, Real-ESRGAN 2x before rembg",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      412
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "gallery.1.imageCaption.ru",
+      "gallery.2.imageCaption.ru",
+      "gallery.3.imageCaption.ru",
+      "gallery.4.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.rows.3.0.ru",
+      "specTables.0.rows.4.0.ru",
+      "specTables.0.rows.5.0.ru",
+      "specTables.0.rows.6.0.ru",
+      "specTables.0.rows.7.0.ru",
+      "specTables.0.rowImages.0.imageCaption.ru",
+      "specTables.0.rowImages.1.imageCaption.ru",
+      "specTables.0.rowImages.2.imageCaption.ru",
+      "specTables.0.rowImages.3.imageCaption.ru",
+      "specTables.0.rowImages.4.imageCaption.ru",
+      "specTables.0.rowImages.6.imageCaption.ru",
+      "specTables.0.rowImages.7.imageCaption.ru",
+      "specTables.1.title.ru",
+      "specTables.1.columns.0.ru",
+      "specTables.1.columns.1.ru",
+      "specTables.1.rows.0.0.ru",
+      "specTables.1.rows.1.0.ru",
+      "specTables.1.rows.2.0.ru",
+      "specTables.1.rows.3.0.ru",
+      "specTables.1.rows.4.0.ru",
+      "specTables.1.rows.5.0.ru",
+      "specTables.1.rows.6.0.ru",
+      "specTables.1.rows.7.0.ru",
+      "specTables.1.rowImages.0.imageCaption.ru",
+      "specTables.1.rowImages.1.imageCaption.ru",
+      "specTables.1.rowImages.2.imageCaption.ru",
+      "specTables.1.rowImages.3.imageCaption.ru",
+      "specTables.1.rowImages.4.imageCaption.ru",
+      "specTables.1.rowImages.5.imageCaption.ru",
+      "specTables.1.rowImages.6.imageCaption.ru",
+      "specTables.1.rowImages.7.imageCaption.ru",
+      "specTables.2.title.ru",
+      "specTables.2.columns.0.ru",
+      "specTables.2.columns.1.ru",
+      "specTables.2.rows.0.0.ru",
+      "specTables.2.rows.1.0.ru",
+      "specTables.2.rows.2.0.ru",
+      "specTables.2.rows.3.0.ru",
+      "specTables.2.rows.4.0.ru",
+      "specTables.2.rows.5.0.ru",
+      "specTables.2.rows.6.0.ru",
+      "specTables.2.rows.7.0.ru",
+      "specTables.2.rowImages.0.imageCaption.ru",
+      "specTables.2.rowImages.1.imageCaption.ru",
+      "specTables.2.rowImages.2.imageCaption.ru",
+      "specTables.2.rowImages.3.imageCaption.ru",
+      "specTables.2.rowImages.4.imageCaption.ru",
+      "specTables.2.rowImages.5.imageCaption.ru",
+      "specTables.2.rowImages.6.imageCaption.ru",
+      "specTables.2.rowImages.7.imageCaption.ru",
+      "specTables.3.title.ru",
+      "specTables.3.columns.0.ru",
+      "specTables.3.columns.1.ru",
+      "specTables.3.rows.0.0.ru",
+      "specTables.3.rows.1.0.ru",
+      "specTables.3.rows.2.0.ru",
+      "specTables.3.rows.3.0.ru",
+      "specTables.3.rows.4.0.ru",
+      "specTables.3.rows.5.0.ru",
+      "specTables.3.rows.6.0.ru",
+      "specTables.3.rows.7.0.ru",
+      "specTables.3.rowImages.0.imageCaption.ru",
+      "specTables.3.rowImages.1.imageCaption.ru",
+      "specTables.3.rowImages.2.imageCaption.ru",
+      "specTables.3.rowImages.3.imageCaption.ru",
+      "specTables.3.rowImages.4.imageCaption.ru",
+      "specTables.3.rowImages.5.imageCaption.ru",
+      "specTables.3.rowImages.6.imageCaption.ru",
+      "specTables.3.rowImages.7.imageCaption.ru",
+      "specTables.4.title.ru",
+      "specTables.4.columns.0.ru",
+      "specTables.4.columns.1.ru",
+      "specTables.4.rows.0.0.ru",
+      "specTables.4.rows.1.0.ru",
+      "specTables.4.rows.2.0.ru",
+      "specTables.4.rowImages.0.imageCaption.ru",
+      "specTables.4.rowImages.1.imageCaption.ru",
+      "specTables.4.rowImages.2.imageCaption.ru",
+      "catalogTitle.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Published automatically under owner instruction: no open real source flags"
+  },
+  "publishedAt": "2026-11-19T23:41:31.240607+00:00"
+}

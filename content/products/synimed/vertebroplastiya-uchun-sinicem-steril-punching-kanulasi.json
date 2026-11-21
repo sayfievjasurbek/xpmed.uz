@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "slug": "vertebroplastiya-uchun-sinicem-steril-punching-kanulasi",
+  "brand": "synimed",
+  "category": "spine",
+  "subcategory": "",
+  "specialty": [
+    "spine"
+  ],
+  "name": {
+    "ru": "Канюля Synicem",
+    "en": "Synicem cannula"
+  },
+  "shortDescription": {
+    "ru": "Вертебропластика",
+    "en": "Vertebroplasty"
+  },
+  "description": {
+    "ru": "Стерильная пункционная канюля Synicem для вертебропластики имеет эргономичную конструкцию. Соединитель типа Luer обеспечивает надёжное соединение компонентов. Канюля имеет острый атравматичный скос.\n\nКаждая упаковка содержит блистер с одной канюлей, стерилизованной этиленоксидом. Канюля с рукояткой изготовлена из хирургической нержавеющей стали. Доступные сочетания наружного диаметра и длины: 2.4 мм × 100 мм; 3.0 мм × 100 мм и 3.0 мм × 150 мм.",
+    "en": "The sterile Synicem puncture cannula for vertebroplasty has an ergonomic design. Its Luer connector provides a secure connection between components. The cannula has a sharp, atraumatic bevel.\n\nEach package contains a blister pack with one cannula sterilized using ethylene oxide. The cannula and handle assembly uses surgical stainless steel. Available outer-diameter and length combinations are 2.4 mm × 100 mm, 3.0 mm × 100 mm and 3.0 mm × 150 mm."
+  },
+  "heroImage": "/images/products/synimed/vertebroplastiya-uchun-sinicem-steril-punching-kanulasi/cannula.webp",
+  "imageType": "cutout",
+  "gallery": [
+    "/images/products/synimed/vertebroplastiya-uchun-sinicem-steril-punching-kanulasi/cannula.webp"
+  ],
+  "features": [],
+  "hotspots": [],
+  "components": [
+    {
+      "id": "cannula",
+      "name": {
+        "ru": "Канюля Synicem",
+        "en": "Synicem cannula"
+      },
+      "image": "/images/products/synimed/vertebroplastiya-uchun-sinicem-steril-punching-kanulasi/cannula.webp",
+      "refCodes": [],
+      "sizes": [],
+      "variants": [],
+      "legacyDocuments": [
+        {
+          "type": "product-page",
+          "ru": "https://xpmed.uz/product/synimed/igla/synicem-sterilnaya-punkczionnaya-kanyulya-dlya-vertebroplastiki/",
+          "en": "https://xpmed.uz/product/synimed-en/cement/vertebroplastiya-uchun-sinicem-steril-punching-kanulasi/"
+        }
+      ]
+    }
+  ],
+  "specTables": [
+    {
+      "id": "legacy-cannula-sizes",
+      "title": {
+        "ru": "Размеры пункционной канюли",
+        "en": "Puncture cannula sizes"
+      },
+      "unit": "mm",
+      "columns": [
+        {
+          "ru": "Наружный диаметр",
+          "en": "Outer diameter"
+        },
+        {
+          "ru": "Длина",
+          "en": "Length"
+        }
+      ],
+      "rows": [
+        [
+          "2.4",
+          "100"
+        ],
+        [
+          "3.0",
+          "100"
+        ],
+        [
+          "3.0",
+          "150"
+        ]
+      ],
+      "legend": null,
+      "headersVerified": true
+    },
+    {
+      "id": "legacy-cannula-characteristics",
+      "title": {
+        "ru": "Характеристики канюли",
+        "en": "Cannula characteristics"
+      },
+      "unit": null,
+      "columns": [
+        {
+          "ru": "Параметр",
+          "en": "Parameter"
+        },
+        {
+          "ru": "Значение",
+          "en": "Value"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Материал",
+            "en": "Material"
+          },
+          {
+            "ru": "Хирургическая нержавеющая сталь",
+            "en": "Surgical stainless steel"
+          }
+        ],
+        [
+          {
+            "ru": "Соединитель",
+            "en": "Connector"
+          },
+          "Luer"
+        ],
+        [
+          {
+            "ru": "Стерилизация",
+            "en": "Sterilization"
+          },
+          {
+            "ru": "Этиленоксид",
+            "en": "Ethylene oxide"
+          }
+        ],
+        [
+          {
+            "ru": "Упаковка",
+            "en": "Packaging"
+          },
+          {
+            "ru": "1 канюля в блистере",
+            "en": "1 cannula in a blister pack"
+          }
+        ]
+      ],
+      "legend": null,
+      "headerType": "parameter-values"
+    }
+  ],
+  "refCodes": [],
+  "sourcePdf": null,
+  "sourcePages": [],
+  "catalogEdition": null,
+  "isNew": false,
+  "status": "published",
+  "legacyId": "cannula",
+  "legacyBrand": "synimed",
+  "review": {
+    "flags": [],
+    "notes": [
+      "Migrated existing catalog content; no additional dimensions or reference codes inferred.",
+      "Full descriptions and source-supported characteristics imported from original XPMED RU/EN pages on 2026-11-18. Medical terminology and grammar normalized; no dimensions or REF codes inferred."
+    ]
+  },
+  "imageDimensions": {
+    "/images/products/synimed/vertebroplastiya-uchun-sinicem-steril-punching-kanulasi/cannula.webp": {
+      "width": 640,
+      "height": 640
+    }
+  },
+  "subcategories": [],
+  "legacySources": [
+    {
+      "productId": "cannula",
+      "language": "ru",
+      "url": "https://xpmed.uz/product/synimed/igla/synicem-sterilnaya-punkczionnaya-kanyulya-dlya-vertebroplastiki/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    },
+    {
+      "productId": "cannula",
+      "language": "en",
+      "url": "https://xpmed.uz/product/synimed-en/cement/vertebroplastiya-uchun-sinicem-steril-punching-kanulasi/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    }
+  ]
+}

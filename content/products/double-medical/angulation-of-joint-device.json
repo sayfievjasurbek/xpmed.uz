@@ -1,0 +1,814 @@
+{
+  "slug": "angulation-of-joint-device",
+  "brand": "double-medical",
+  "category": "trauma-implants",
+  "subcategory": "trauma-external-fixation",
+  "subcategories": [
+    "trauma-external-fixation"
+  ],
+  "specialty": [
+    "traumatology",
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Шарнирное угловое устройство",
+    "en": "Angulation of Joint Device"
+  },
+  "shortDescription": {
+    "ru": "Импланты для остеосинтеза",
+    "en": "Implants for fracture fixation"
+  },
+  "description": {
+    "ru": "Шарнирное угловое устройство. Характеристики и каталожные номера приведены по Trauma Catalogue Double Medical.",
+    "en": "Angulation of Joint Device. Specifications and reference numbers are listed according to the Double Medical Trauma Catalogue."
+  },
+  "heroImage": "/images/products/double-medical/angulation-of-joint-device/page-549-art-03.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "width": 564,
+      "height": 218,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          250,
+          81
+        ],
+        "enhancedSize": [
+          500,
+          162
+        ]
+      },
+      "src": "/images/products/double-medical/angulation-of-joint-device/page-549-art-03.webp",
+      "imageCaption": {
+        "ru": "Шарнирное угловое устройство",
+        "en": "Angulation of Joint Device"
+      },
+      "sourcePages": [
+        549
+      ]
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [
+    {
+      "id": "trauma-p549-3",
+      "groupId": "trauma-p549-3",
+      "title": {
+        "ru": "Шарнирное угловое устройство",
+        "en": "Angulation of Joint Device"
+      },
+      "unit": "mm",
+      "sourcePage": 549,
+      "sourcePages": [
+        549
+      ],
+      "printedPage": "9/21",
+      "hideDescriptionColumn": true,
+      "columns": [
+        {
+          "ru": "Позиция",
+          "en": "Item"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Длина",
+          "en": "Length"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Шарнирное угловое устройство · Длина: 100",
+            "en": "Angulation of Joint Device · Length: 100"
+          },
+          "108873000",
+          {
+            "ru": "100",
+            "en": "100"
+          }
+        ],
+        [
+          {
+            "ru": "Шарнирное угловое устройство · Длина: 150",
+            "en": "Angulation of Joint Device · Length: 150"
+          },
+          "108873100",
+          {
+            "ru": "150",
+            "en": "150"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 549,
+          "printedPage": "9/21",
+          "sourceBounds": [
+            0.08,
+            0.6510794365094893,
+            0.55,
+            0.6670579143024848
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p549-3",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 549,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "108873000"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "108873000"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "108873000"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "108873000",
+                "PSM11": "108873000",
+                "Vision": "108873000"
+              },
+              "value": "108873000",
+              "bounds": [
+                0.1343570057581574,
+                0.6540794365094893,
+                0.22045516863175213,
+                0.6640579143024848
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "108873000"
+            },
+            {
+              "readings": {
+                "PSM3": "100",
+                "PSM11": "100",
+                "Vision": "100"
+              },
+              "value": "100",
+              "glyphReading": {
+                "text": "100",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.0,
+                    "margin": 0.41662143190609574
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.005287479575163398,
+                    "margin": 0.15012254901960784
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.003990502450980392,
+                    "margin": 0.15077869689542484
+                  }
+                ],
+                "sourceRect": [
+                  156.39700317382812,
+                  401.20501708984375,
+                  168.1219940185547,
+                  407.2490234375
+                ]
+              },
+              "verifiedValue": "100"
+            }
+          ]
+        },
+        {
+          "pdfPage": 549,
+          "printedPage": "9/21",
+          "sourceBounds": [
+            0.08,
+            0.6657536685580121,
+            0.55,
+            0.6817321463510077
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p549-3",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 549,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "108873100"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "108873100"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "108873100"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "108873100",
+                "PSM11": "108873100",
+                "Vision": "108873100"
+              },
+              "value": "108873100",
+              "bounds": [
+                0.1343570057581574,
+                0.6687536685580121,
+                0.22045516863175213,
+                0.6787321463510076
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "108873100"
+            },
+            {
+              "readings": {
+                "PSM3": "150",
+                "PSM11": "150",
+                "Vision": "150"
+              },
+              "value": "150",
+              "glyphReading": {
+                "text": "150",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.0,
+                    "margin": 0.4193098510237428
+                  },
+                  {
+                    "character": "5",
+                    "distance": 0.0,
+                    "margin": 0.19403219412765105
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.004644097222222222,
+                    "margin": 0.1521267361111111
+                  }
+                ],
+                "sourceRect": [
+                  156.39700317382812,
+                  410.2250061035156,
+                  168.1219940185547,
+                  416.26898193359375
+                ]
+              },
+              "verifiedValue": "150"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "width": 564,
+          "height": 218,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              250,
+              81
+            ],
+            "enhancedSize": [
+              500,
+              162
+            ]
+          },
+          "src": "/images/products/double-medical/angulation-of-joint-device/page-549-art-03.webp",
+          "imageCaption": {
+            "ru": "Шарнирное угловое устройство",
+            "en": "Angulation of Joint Device"
+          },
+          "sourcePages": [
+            549
+          ]
+        }
+      ],
+      "keyParameters": []
+    }
+  ],
+  "refCodes": [
+    "108873000",
+    "108873100"
+  ],
+  "sourcePages": [
+    549
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Trauma Catalogue — каталог продукции",
+    "en": "Double Medical Trauma Catalogue — product catalog"
+  },
+  "documentCover": "/catalogs/double-medical/trauma-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "catalogType": "list",
+  "importPartition": "trauma-part3",
+  "availabilityNote": {
+    "ru": "Изображения приведены для справки",
+    "en": "Images for reference only"
+  },
+  "imageDimensions": {
+    "/images/products/double-medical/angulation-of-joint-device/page-549-art-03.webp": {
+      "width": 564,
+      "height": 218
+    }
+  },
+  "relatedSystemSlugs": [],
+  "sourcePdf": "/catalogs/double-medical/trauma-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/trauma-catalogue/pages/549.webp"
+  ],
+  "sourcePageDimensions": {
+    "530": {
+      "width": 3647,
+      "height": 5111
+    },
+    "531": {
+      "width": 3647,
+      "height": 5111
+    },
+    "532": {
+      "width": 3647,
+      "height": 5111
+    },
+    "533": {
+      "width": 3647,
+      "height": 5111
+    },
+    "534": {
+      "width": 3647,
+      "height": 5111
+    },
+    "535": {
+      "width": 3647,
+      "height": 5111
+    },
+    "536": {
+      "width": 3647,
+      "height": 5111
+    },
+    "537": {
+      "width": 3647,
+      "height": 5111
+    },
+    "538": {
+      "width": 3647,
+      "height": 5111
+    },
+    "539": {
+      "width": 3647,
+      "height": 5111
+    },
+    "540": {
+      "width": 3647,
+      "height": 5111
+    },
+    "541": {
+      "width": 3647,
+      "height": 5111
+    },
+    "542": {
+      "width": 3647,
+      "height": 5111
+    },
+    "543": {
+      "width": 3647,
+      "height": 5111
+    },
+    "544": {
+      "width": 3647,
+      "height": 5111
+    },
+    "545": {
+      "width": 3647,
+      "height": 5111
+    },
+    "546": {
+      "width": 3647,
+      "height": 5111
+    },
+    "547": {
+      "width": 3647,
+      "height": 5111
+    },
+    "548": {
+      "width": 3647,
+      "height": 5111
+    },
+    "549": {
+      "width": 3647,
+      "height": 5111
+    },
+    "550": {
+      "width": 3647,
+      "height": 5111
+    },
+    "551": {
+      "width": 3647,
+      "height": 5111
+    },
+    "552": {
+      "width": 3647,
+      "height": 5111
+    },
+    "553": {
+      "width": 3647,
+      "height": 5111
+    },
+    "554": {
+      "width": 3647,
+      "height": 5111
+    },
+    "555": {
+      "width": 3647,
+      "height": 5111
+    },
+    "556": {
+      "width": 3647,
+      "height": 5111
+    },
+    "557": {
+      "width": 3647,
+      "height": 5111
+    },
+    "558": {
+      "width": 3647,
+      "height": 5111
+    },
+    "559": {
+      "width": 3647,
+      "height": 5111
+    },
+    "560": {
+      "width": 3647,
+      "height": 5111
+    },
+    "561": {
+      "width": 3647,
+      "height": 5111
+    },
+    "562": {
+      "width": 3647,
+      "height": 5111
+    },
+    "563": {
+      "width": 3647,
+      "height": 5111
+    },
+    "564": {
+      "width": 3647,
+      "height": 5111
+    },
+    "565": {
+      "width": 3647,
+      "height": 5111
+    },
+    "566": {
+      "width": 3647,
+      "height": 5111
+    },
+    "567": {
+      "width": 3647,
+      "height": 5111
+    },
+    "568": {
+      "width": 3647,
+      "height": 5111
+    },
+    "569": {
+      "width": 3647,
+      "height": 5111
+    },
+    "570": {
+      "width": 3647,
+      "height": 5111
+    },
+    "571": {
+      "width": 3647,
+      "height": 5111
+    },
+    "572": {
+      "width": 3647,
+      "height": 5111
+    },
+    "573": {
+      "width": 3647,
+      "height": 5111
+    },
+    "574": {
+      "width": 3647,
+      "height": 5111
+    },
+    "575": {
+      "width": 3647,
+      "height": 5111
+    },
+    "576": {
+      "width": 3647,
+      "height": 5111
+    },
+    "577": {
+      "width": 3647,
+      "height": 5111
+    },
+    "578": {
+      "width": 3647,
+      "height": 5111
+    },
+    "582": {
+      "width": 3647,
+      "height": 5111
+    },
+    "583": {
+      "width": 3647,
+      "height": 5111
+    },
+    "584": {
+      "width": 3647,
+      "height": 5111
+    },
+    "585": {
+      "width": 3647,
+      "height": 5111
+    },
+    "586": {
+      "width": 3647,
+      "height": 5111
+    },
+    "587": {
+      "width": 3647,
+      "height": 5111
+    },
+    "588": {
+      "width": 3647,
+      "height": 5111
+    },
+    "589": {
+      "width": 3647,
+      "height": 5111
+    },
+    "590": {
+      "width": 3647,
+      "height": 5111
+    },
+    "591": {
+      "width": 3647,
+      "height": 5111
+    },
+    "592": {
+      "width": 3647,
+      "height": 5111
+    },
+    "593": {
+      "width": 3647,
+      "height": 5111
+    },
+    "594": {
+      "width": 3647,
+      "height": 5111
+    },
+    "595": {
+      "width": 3647,
+      "height": 5111
+    },
+    "596": {
+      "width": 3647,
+      "height": 5111
+    },
+    "597": {
+      "width": 3647,
+      "height": 5111
+    },
+    "598": {
+      "width": 3647,
+      "height": 5111
+    },
+    "599": {
+      "width": 3647,
+      "height": 5111
+    },
+    "600": {
+      "width": 3647,
+      "height": 5111
+    },
+    "601": {
+      "width": 3647,
+      "height": 5111
+    },
+    "602": {
+      "width": 3647,
+      "height": 5111
+    },
+    "603": {
+      "width": 3647,
+      "height": 5111
+    },
+    "604": {
+      "width": 3647,
+      "height": 5111
+    },
+    "605": {
+      "width": 3647,
+      "height": 5111
+    },
+    "606": {
+      "width": 3647,
+      "height": 5111
+    },
+    "607": {
+      "width": 3647,
+      "height": 5111
+    },
+    "608": {
+      "width": 3647,
+      "height": 5111
+    },
+    "612": {
+      "width": 3647,
+      "height": 5111
+    },
+    "613": {
+      "width": 3647,
+      "height": 5111
+    },
+    "614": {
+      "width": 3647,
+      "height": 5111
+    },
+    "615": {
+      "width": 3647,
+      "height": 5111
+    },
+    "616": {
+      "width": 3647,
+      "height": 5111
+    },
+    "617": {
+      "width": 3647,
+      "height": 5111
+    },
+    "620": {
+      "width": 3647,
+      "height": 5111
+    },
+    "621": {
+      "width": 3647,
+      "height": 5111
+    },
+    "622": {
+      "width": 3647,
+      "height": 5111
+    },
+    "623": {
+      "width": 3647,
+      "height": 5111
+    },
+    "624": {
+      "width": 3647,
+      "height": 5111
+    },
+    "625": {
+      "width": 3647,
+      "height": 5111
+    },
+    "626": {
+      "width": 3647,
+      "height": 5111
+    },
+    "627": {
+      "width": 3647,
+      "height": 5111
+    },
+    "628": {
+      "width": 3647,
+      "height": 5111
+    },
+    "632": {
+      "width": 3647,
+      "height": 5111
+    },
+    "633": {
+      "width": 3647,
+      "height": 5111
+    },
+    "634": {
+      "width": 3647,
+      "height": 5111
+    },
+    "635": {
+      "width": 3647,
+      "height": 5111
+    },
+    "636": {
+      "width": 3647,
+      "height": 5111
+    },
+    "637": {
+      "width": 3647,
+      "height": 5111
+    },
+    "638": {
+      "width": 3647,
+      "height": 5111
+    },
+    "639": {
+      "width": 3647,
+      "height": 5111
+    },
+    "640": {
+      "width": 3647,
+      "height": 5111
+    },
+    "641": {
+      "width": 3647,
+      "height": 5111
+    },
+    "642": {
+      "width": 3647,
+      "height": 5111
+    },
+    "643": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "3f2755d7646453cd1d8981369406a66062322971a7cb98258e022ae9b9769999",
+    "importMethod": "600-DPI Tesseract PSM3/11 plus independent Apple Vision; source glyph reconciliation and Codex visual reading; Codex medical RU; native photo composites, original Real-ESRGAN weights exact 2x then rembg",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      528,
+      529,
+      579,
+      580,
+      581,
+      609,
+      610,
+      611,
+      618,
+      619,
+      629,
+      630,
+      631,
+      644
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.columns.2.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.0.2.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.1.2.ru",
+      "specTables.0.images.0.imageCaption.ru",
+      "catalogTitle.ru",
+      "availabilityNote.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Owner authorized automatic publication after source review with zero real open flags; no REF inferred.",
+    "imageQA": "Codex visual review of all seven final contact sheets and source layouts; two QR tiles excluded; two multi-instrument composites split into five separate row photos; ambiguous 607 composite retained only as a general subgroup illustration"
+  },
+  "publishedAt": "2026-11-21T06:37:29.425430+00:00"
+}

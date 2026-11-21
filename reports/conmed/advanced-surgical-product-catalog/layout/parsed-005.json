@@ -1,0 +1,327 @@
+{
+  "page": 5,
+  "groups": [
+    {
+      "title": "AirSeal\u00ae iFS",
+      "headerBounds": [
+        0.5083900557598712,
+        0.1389443993562379,
+        0.9270858100099851,
+        0.1594253839709935
+      ],
+      "end": 0.2121394755442656,
+      "rows": [
+        {
+          "candidate": "AS-iFS1",
+          "bounds": [
+            0.8749755429465857,
+            0.16424783700809378,
+            0.9176286441009587,
+            0.17331844822774212
+          ],
+          "cy": 0.16878314261791794,
+          "description": "AirSeal iFS, 120V",
+          "rowBounds": [
+            0.5083900557598712,
+            0.15953654188948307,
+            0.934,
+            0.17736185383244207
+          ]
+        },
+        {
+          "candidate": "AS-iFS2",
+          "bounds": [
+            0.8749755429465857,
+            0.18294725090706113,
+            0.9199765212287223,
+            0.19201786212670946
+          ],
+          "cy": 0.18748255651688528,
+          "description": "AirSeal iFS, 230V",
+          "rowBounds": [
+            0.5083900557598712,
+            0.17825311942959002,
+            0.934,
+            0.19607843137254902
+          ]
+        }
+      ]
+    },
+    {
+      "title": "FS Bottle Gas Connector (Required for bottle gas)",
+      "headerBounds": [
+        0.5083900557598712,
+        0.2121394755442656,
+        0.9270858100099851,
+        0.2326207440798601
+      ],
+      "end": 0.2813551882345476,
+      "rows": [
+        {
+          "candidate": "IFS-BC1",
+          "bounds": [
+            0.8753668558012131,
+            0.2523025397711415,
+            0.9176286441009587,
+            0.26137315099078984
+          ],
+          "cy": 0.25683784538096566,
+          "description": "Required Connector must be installed on the iFS (37\u00b0 flare fitting)",
+          "rowBounds": [
+            0.5083900557598712,
+            0.2326207440798601,
+            0.934,
+            0.26559714795008915
+          ]
+        }
+      ]
+    },
+    {
+      "title": "\u2018iFS House Gas Connector [Required for house (central) gas).",
+      "headerBounds": [
+        0.5083900557598712,
+        0.2813551882345476,
+        0.9270858100099851,
+        0.3018368116711907
+      ],
+      "end": 0.3505722495488143,
+      "rows": [
+        {
+          "candidate": "iFS-WC1",
+          "bounds": [
+            0.8718450401095676,
+            0.3215182807703042,
+            0.9176286441009587,
+            0.33058889198995256
+          ],
+          "cy": 0.3260535863801284,
+          "description": "Required Connector must be installed on the iFS DISS Fitting",
+          "rowBounds": [
+            0.5083900557598712,
+            0.3018368116711907,
+            0.934,
+            0.33511586452762926
+          ]
+        }
+      ]
+    },
+    {
+      "title": "AirSeal\u00ae iFS Carts",
+      "headerBounds": [
+        0.5083900557598712,
+        0.3505722495488143,
+        0.9270858100099851,
+        0.37105358906461855
+      ],
+      "end": 0.5204391062910185,
+      "rows": [
+        {
+          "candidate": "AS-iCART",
+          "bounds": [
+            0.8589317159068676,
+            0.3907340217694669,
+            0.9135198591273723,
+            0.3998046329891153
+          ],
+          "cy": 0.3952693273792911,
+          "description": "Cart w/ Bottle Rack, Holds Two E Size C02 Tanks",
+          "rowBounds": [
+            0.5083900557598712,
+            0.37105358906461855,
+            0.934,
+            0.4037433155080214
+          ]
+        },
+        {
+          "candidate": "AS-iCART-V",
+          "bounds": [
+            0.8487575816865583,
+            0.42422550934970693,
+            0.9135198591273723,
+            0.4332961205693553
+          ],
+          "cy": 0.4287608149595311,
+          "description": "Cart w/ Bottle Rack, Holds Two E Size C02 Tanks, switching Valve and Hoses included",
+          "rowBounds": [
+            0.5083900557598712,
+            0.40463458110516937,
+            0.934,
+            0.4376114081996435
+          ]
+        },
+        {
+          "candidate": "AS-ICART-6",
+          "bounds": [
+            0.8483662688319311,
+            0.457716996929947,
+            0.9129328898454314,
+            0.46692715601451296
+          ],
+          "cy": 0.46232207647223,
+          "description": "Cart w/ Bottle Rack, Holds Two 6 (160mm) Bottle Gas Tanks",
+          "rowBounds": [
+            0.5083900557598712,
+            0.4376114081996435,
+            0.934,
+            0.47058823529411764
+          ]
+        },
+        {
+          "candidate": "As-iCART-6V",
+          "bounds": [
+            0.8411269810213265,
+            0.49134803237510466,
+            0.9135198591273723,
+            0.500418643594753
+          ],
+          "cy": 0.4958833379849288,
+          "description": "Cart w/ Bottle Rack, Holds Two 6 (160mm) Bottle Gas Tanks, and Switching Valve",
+          "rowBounds": [
+            0.5083900557598712,
+            0.4714795008912656,
+            0.934,
+            0.5044563279857398
+          ]
+        }
+      ]
+    },
+    {
+      "title": "IFS Valve",
+      "headerBounds": [
+        0.5083900557598712,
+        0.5204391062910185,
+        0.9270858100099851,
+        0.5409206942375568
+      ],
+      "end": 0.6044908184969316,
+      "rows": [
+        {
+          "candidate": "iFS-Valvet",
+          "bounds": [
+            0.8563881823517903,
+            0.5753558470555401,
+            0.9105850127176678,
+            0.5844264582751884
+          ],
+          "cy": 0.5798911526653643,
+          "description": "switching Valve, (2) Yoke Pin Index with 18 supply Hoses, (1) 36 Connection Hose, (1) 90\u00b0 owivel, (1) Mounting Bracket",
+          "rowBounds": [
+            0.5083900557598712,
+            0.5409982174688057,
+            0.934,
+            0.5882352941176471
+          ]
+        }
+      ]
+    },
+    {
+      "title": "IFS Tower",
+      "headerBounds": [
+        0.5083900557598712,
+        0.6044908184969316,
+        0.9270858100099851,
+        0.6249718031116872
+      ],
+      "end": 0.7220926044725766,
+      "rows": [
+        {
+          "candidate": "iFS-Tower",
+          "bounds": [
+            0.8526707102328311,
+            0.6588054702763048,
+            0.9105850127176678,
+            0.6712252302539771
+          ],
+          "cy": 0.6650153502651409,
+          "description": "(1) Yoke Pin Index mounted Switching Valve, (1) Yoke Pin Index with 18 Supply Hose and (1) 36 Connection Hose, (1) 90\u00b0 Swivel",
+          "rowBounds": [
+            0.5083900557598712,
+            0.6249718031116872,
+            0.934,
+            0.6729055258467023
+          ]
+        },
+        {
+          "candidate": "IFS-HPH120",
+          "bounds": [
+            0.8464097045587947,
+            0.6929946971811332,
+            0.9129328898454314,
+            0.7020653084007815
+          ],
+          "cy": 0.6975300027909573,
+          "description": "Add-on: 120 High Pressure Hose to E Size C02 Tanks",
+          "rowBounds": [
+            0.5083900557598712,
+            0.6729055258467023,
+            0.934,
+            0.7058823529411765
+          ]
+        }
+      ]
+    },
+    {
+      "title": "IFS High Pressure Hoses for Bottle Gas",
+      "headerBounds": [
+        0.5083900557598712,
+        0.7220926044725766,
+        0.9270858100099851,
+        0.7425739439883808
+      ],
+      "end": 0.885,
+      "rows": [
+        {
+          "candidate": "iIFS-HPH4",
+          "bounds": [
+            0.8612795930346312,
+            0.7770025118615685,
+            0.9131285462727451,
+            0.7860731230812169
+          ],
+          "cy": 0.7815378174713927,
+          "description": "36 High Pressure Hose with a Pin Index Yoke to connect to E Size C02 Tanks with a Pin Index Cylinder Valve",
+          "rowBounds": [
+            0.5083900557598712,
+            0.7425739439883808,
+            0.934,
+            0.7905525846702317
+          ]
+        },
+        {
+          "candidate": "IFS-HPH2",
+          "bounds": [
+            0.8612795930346312,
+            0.8254256209879989,
+            0.9129328898454314,
+            0.8344962322076472
+          ],
+          "cy": 0.8299609265978231,
+          "description": "1.9m High Pressure Hose with a Pin Index Yoke to connect to E Size C02 Tanks with a DIN Bottle Gas Tanks",
+          "rowBounds": [
+            0.5083900557598712,
+            0.7905525846702317,
+            0.934,
+            0.838680926916221
+          ]
+        },
+        {
+          "candidate": "IFS-HPH3",
+          "bounds": [
+            0.8612795930346312,
+            0.8737091822495116,
+            0.9129328898454314,
+            0.8829193413340776
+          ],
+          "cy": 0.8783142617917945,
+          "description": "1.5m High Pressure Hose with a Pin Index Yoke to connect to E Size C02 Tanks with an ISO Bottle Gas Tanks",
+          "rowBounds": [
+            0.5083900557598712,
+            0.838680926916221,
+            0.934,
+            0.885
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,925 @@
+[
+  {
+    "alternatives" : [
+      "XPmedCCONMED"
+    ],
+    "bounds" : [
+      0.11405295191050073,
+      0.047965116557433962,
+      0.35437881597816201,
+      0.069767441654775331
+    ],
+    "confidence" : 1,
+    "text" : "XPmedCCONMED"
+  },
+  {
+    "alternatives" : [
+      "MEDICAL COMPANY"
+    ],
+    "bounds" : [
+      0.11812627359272437,
+      0.063953488356647048,
+      0.17515275071141678,
+      0.069767441779011841
+    ],
+    "confidence" : 1,
+    "text" : "MEDICAL COMPANY"
+  },
+  {
+    "alternatives" : [
+      "Attachments"
+    ],
+    "bounds" : [
+      0.71283095794389439,
+      0.034883721120349209,
+      0.93075356655421471,
+      0.056686046217690578
+    ],
+    "confidence" : 1,
+    "text" : "Attachments"
+  },
+  {
+    "alternatives" : [
+      "Indications for Use: Large Bone"
+    ],
+    "bounds" : [
+      0.62525459042362963,
+      0.065406977534273048,
+      0.912423621134415,
+      0.082848836855261787
+    ],
+    "confidence" : 1,
+    "text" : "Indications for Use: Large Bone"
+  },
+  {
+    "alternatives" : [
+      "& Small Bone Orthopedics"
+    ],
+    "bounds" : [
+      0.67209776600554783,
+      0.082837301145651465,
+      0.91649694153009365,
+      0.10029069727677342
+    ],
+    "confidence" : 1,
+    "text" : "& Small Bone Orthopedics"
+  },
+  {
+    "alternatives" : [
+      "Drill-Ream 1:1\/5:1 Combination Attachments"
+    ],
+    "bounds" : [
+      0.35437882472810772,
+      0.15401785700770909,
+      0.70061099889714673,
+      0.16569767429445781
+    ],
+    "confidence" : 1,
+    "text" : "Drill-Ream 1:1\/5:1 Combination Attachments"
+  },
+  {
+    "alternatives" : [
+      "Drill-Ream Attachment, AD..•••••..PR01540"
+    ],
+    "bounds" : [
+      0.109979635006677,
+      0.24273255805881844,
+      0.30957229961654098,
+      0.2500000000733007
+    ],
+    "confidence" : 1,
+    "text" : "Drill-Ream Attachment, AD..•••••..PR01540"
+  },
+  {
+    "alternatives" : [
+      "Drill-Ream Attachment, ¼\" (6.35mm) Chuck... PRO1541"
+    ],
+    "bounds" : [
+      0.31771894807931927,
+      0.24127907000502413,
+      0.51934826841762549,
+      0.25000000013857127
+    ],
+    "confidence" : 1,
+    "text" : "Drill-Ream Attachment, ¼\" (6.35mm) Chuck... PRO1541"
+  },
+  {
+    "alternatives" : [
+      "Drill-Ream Attachment, Zimmer\/Hudson.......PR01547"
+    ],
+    "bounds" : [
+      0.52953156985472127,
+      0.24273255835355845,
+      0.72097759032857811,
+      0.249999999894988
+    ],
+    "confidence" : 1,
+    "text" : "Drill-Ream Attachment, Zimmer\/Hudson.......PR01547"
+  },
+  {
+    "alternatives" : [
+      "1:1 Multipurpose Attachments"
+    ],
+    "bounds" : [
+      0.40936864501856157,
+      0.27604166684702047,
+      0.64562117640710037,
+      0.28924418601784208
+    ],
+    "confidence" : 1,
+    "text" : "1:1 Multipurpose Attachments"
+  },
+  {
+    "alternatives" : [
+      "Drill-Ream Attachment, DePuy\/Hudson ........... PR01548"
+    ],
+    "bounds" : [
+      0.74134419026827147,
+      0.24273255835355845,
+      0.9470468432857001,
+      0.249999999894988
+    ],
+    "confidence" : 1,
+    "text" : "Drill-Ream Attachment, DePuy\/Hudson ........... PR01548"
+  },
+  {
+    "alternatives" : [
+      "22\" (4.0mm) Jacobs Chuck, with"
+    ],
+    "bounds" : [
+      0.10997963638674017,
+      0.36482558150036082,
+      0.22606924635256728,
+      0.37209302304179037
+    ],
+    "confidence" : 1,
+    "text" : "22\" (4.0mm) Jacobs Chuck, with"
+  },
+  {
+    "alternatives" : [
+      "Chuck .................... PRO2030"
+    ],
+    "bounds" : [
+      0.10997963891106829,
+      0.37351190469800921,
+      0.23828920446978699,
+      0.382267441477534
+    ],
+    "confidence" : 1,
+    "text" : "Chuck .................... PRO2030"
+  },
+  {
+    "alternatives" : [
+      "532\" (4.0mm) Jacobs Chuck,"
+    ],
+    "bounds" : [
+      0.24643584773076546,
+      0.36482558153064182,
+      0.34623218003569745,
+      0.37209302307207137
+    ],
+    "confidence" : 1,
+    "text" : "532\" (4.0mm) Jacobs Chuck,"
+  },
+  {
+    "alternatives" : [
+      "with ChuckKe.........5044-999-53"
+    ],
+    "bounds" : [
+      0.24643584752675948,
+      0.37351190469800921,
+      0.37678207942503944,
+      0.382267441477534
+    ],
+    "confidence" : 1,
+    "text" : "with ChuckKe.........5044-999-53"
+  },
+  {
+    "alternatives" : [
+      "¼\" (6.35mm)"
+    ],
+    "bounds" : [
+      0.38900203944891532,
+      0.36482558182672953,
+      0.4378818724316007,
+      0.37354651148722384
+    ],
+    "confidence" : 1,
+    "text" : "¼\" (6.35mm)"
+  },
+  {
+    "alternatives" : [
+      "Jacobs Chuck....."
+    ],
+    "bounds" : [
+      0.38696537793853247,
+      0.3735119046441695,
+      0.45213849388767247,
+      0.38081395330462953
+    ],
+    "confidence" : 1,
+    "text" : "Jacobs Chuck....."
+  },
+  {
+    "alternatives" : [
+      "........PRO2041"
+    ],
+    "bounds" : [
+      0.45824847210115466,
+      0.37354651201083811,
+      0.5213849270162928,
+      0.38226744167133242
+    ],
+    "confidence" : 1,
+    "text" : "........PRO2041"
+  },
+  {
+    "alternatives" : [
+      "¼\"(6.35mm) Replacement"
+    ],
+    "bounds" : [
+      0.53360488798466754,
+      0.36482558150036082,
+      0.63136456456115719,
+      0.37209302304179037
+    ],
+    "confidence" : 1,
+    "text" : "¼\"(6.35mm) Replacement"
+  },
+  {
+    "alternatives" : [
+      "Chuck ..............5044-999-52"
+    ],
+    "bounds" : [
+      0.53360489295892977,
+      0.37351190472223406,
+      0.66191445851764852,
+      0.38226744150175884
+    ],
+    "confidence" : 1,
+    "text" : "Chuck ..............5044-999-52"
+  },
+  {
+    "alternatives" : [
+      "'%\" Keyless Chuck..."
+    ],
+    "bounds" : [
+      0.67006110197309987,
+      0.37500000008684331,
+      0.74134419571868559,
+      0.38226744162827286
+    ],
+    "confidence" : 1,
+    "text" : "'%\" Keyless Chuck..."
+  },
+  {
+    "alternatives" : [
+      "1:1 Quick Connect Drill Attachments"
+    ],
+    "bounds" : [
+      0.38492872080656715,
+      0.40988372083431734,
+      0.66802444006046802,
+      0.4229651162711644
+    ],
+    "confidence" : 1,
+    "text" : "1:1 Quick Connect Drill Attachments"
+  },
+  {
+    "alternatives" : [
+      ".PR06050"
+    ],
+    "bounds" : [
+      0.76171079399396102,
+      0.37500000023219227,
+      0.80244399079897855,
+      0.38226744177362182
+    ],
+    "confidence" : 1,
+    "text" : ".PR06050"
+  },
+  {
+    "alternatives" : [
+      "'¼\" Keyless Chuck.."
+    ],
+    "bounds" : [
+      0.81059063354132788,
+      0.37500000008684331,
+      0.8818737272869136,
+      0.38226744162827286
+    ],
+    "confidence" : 1,
+    "text" : "'¼\" Keyless Chuck.."
+  },
+  {
+    "alternatives" : [
+      "... PRO2250"
+    ],
+    "bounds" : [
+      0.90224032586815506,
+      0.37500000004411538,
+      0.9470468420883964,
+      0.3822674418220714
+    ],
+    "confidence" : 1,
+    "text" : "... PRO2250"
+  },
+  {
+    "alternatives" : [
+      "AD\/Trinkle.............PR02029"
+    ],
+    "bounds" : [
+      0.11201629171843069,
+      0.50145348828822844,
+      0.2199592681593697,
+      0.50872093030271059
+    ],
+    "confidence" : 1,
+    "text" : "AD\/Trinkle.............PR02029"
+  },
+  {
+    "alternatives" : [
+      "Small ADX"
+    ],
+    "bounds" : [
+      0.22606924630217554,
+      0.49127907012614813,
+      0.26680244310719309,
+      0.49999999978664245
+    ],
+    "confidence" : 1,
+    "text" : "Small ADX"
+  },
+  {
+    "alternatives" : [
+      "Low Profile."
+    ],
+    "bounds" : [
+      0.22606924745779672,
+      0.50000000014068302,
+      0.26883910264403627,
+      0.50872092980117745
+    ],
+    "confidence" : 1,
+    "text" : "Low Profile."
+  },
+  {
+    "alternatives" : [
+      ".PRO2038"
+    ],
+    "bounds" : [
+      0.29932583492914822,
+      0.49981565949095597,
+      0.34018536771648716,
+      0.50745178225127452
+    ],
+    "confidence" : 1,
+    "text" : ".PRO2038"
+  },
+  {
+    "alternatives" : [
+      "Zimmer\/Hudson."
+    ],
+    "bounds" : [
+      0.34623218147083706,
+      0.50145348835664705,
+      0.40733197535197352,
+      0.50726744177901184
+    ],
+    "confidence" : 1,
+    "text" : "Zimmer\/Hudson."
+  },
+  {
+    "alternatives" : [
+      ". PRO2046"
+    ],
+    "bounds" : [
+      0.42158859654129976,
+      0.5000000001891326,
+      0.46435845172753937,
+      0.50872092984962702
+    ],
+    "confidence" : 1,
+    "text" : ". PRO2046"
+  },
+  {
+    "alternatives" : [
+      "Large AD"
+    ],
+    "bounds" : [
+      0.46639511248618259,
+      0.5014534885861166,
+      0.50509164825719832,
+      0.50872093012754616
+    ],
+    "confidence" : 1,
+    "text" : "Large AD"
+  },
+  {
+    "alternatives" : [
+      "Standard Hudson (DePuy) Quick"
+    ],
+    "bounds" : [
+      0.58044806762203016,
+      0.49418604659847132,
+      0.6904276997914115,
+      0.50148809525893123
+    ],
+    "confidence" : 1,
+    "text" : "Standard Hudson (DePuy) Quick"
+  },
+  {
+    "alternatives" : [
+      ". PRO2070 Connect Drill Attachment...PR02075 Mini AD."
+    ],
+    "bounds" : [
+      0.54175153218929739,
+      0.50000000014068302,
+      0.74134419679916119,
+      0.50872092980117745
+    ],
+    "confidence" : 1,
+    "text" : ". PRO2070 Connect Drill Attachment...PR02075 Mini AD."
+  },
+  {
+    "alternatives" : [
+      ".PRO2039"
+    ],
+    "bounds" : [
+      0.78411405342304596,
+      0.5014534885861166,
+      0.8228105891940618,
+      0.50872093012754616
+    ],
+    "confidence" : 1,
+    "text" : ".PRO2039"
+  },
+  {
+    "alternatives" : [
+      "Small ADXOne Handed"
+    ],
+    "bounds" : [
+      0.82688391370378089,
+      0.49273255824454687,
+      0.9124236240762601,
+      0.50000000002250278
+    ],
+    "confidence" : 1,
+    "text" : "Small ADXOne Handed"
+  },
+  {
+    "alternatives" : [
+      "buel dlol....."
+    ],
+    "bounds" : [
+      0.82688391365122338,
+      0.50436046522295785,
+      0.87576374663390877,
+      0.50872093005320507
+    ],
+    "confidence" : 0.5,
+    "text" : "buel dlol....."
+  },
+  {
+    "alternatives" : [
+      ".....PRO2138"
+    ],
+    "bounds" : [
+      0.89613034497388566,
+      0.50145348827595959,
+      0.94704684429613228,
+      0.50872093029044196
+    ],
+    "confidence" : 1,
+    "text" : ".....PRO2138"
+  },
+  {
+    "alternatives" : [
+      "3:1 Reamers"
+    ],
+    "bounds" : [
+      0.47849919333278618,
+      0.53587188683956255,
+      0.5785272830868935,
+      0.54988392696645383
+    ],
+    "confidence" : 1,
+    "text" : "3:1 Reamers"
+  },
+  {
+    "alternatives" : [
+      "3:1 '¼\" High Torque Jacobs"
+    ],
+    "bounds" : [
+      0.10997963340218281,
+      0.61918604672498534,
+      0.20773930997867249,
+      0.6279761906235406
+    ],
+    "confidence" : 1,
+    "text" : "3:1 '¼\" High Torque Jacobs"
+  },
+  {
+    "alternatives" : [
+      "Chuck......"
+    ],
+    "bounds" : [
+      0.10997963406477723,
+      0.62790697699388065,
+      0.14663951145457099,
+      0.63662790665437508
+    ],
+    "confidence" : 1,
+    "text" : "Chuck......"
+  },
+  {
+    "alternatives" : [
+      "......PR02042"
+    ],
+    "bounds" : [
+      0.1588594711487325,
+      0.62790697693331865,
+      0.21588594826742491,
+      0.63662790659381308
+    ],
+    "confidence" : 1,
+    "text" : "......PR02042"
+  },
+  {
+    "alternatives" : [
+      "3:1 Zimmer\/Hudson Reamer"
+    ],
+    "bounds" : [
+      0.23014256742255254,
+      0.61918604674382016,
+      0.33197555545592683,
+      0.62648809516775372
+    ],
+    "confidence" : 1,
+    "text" : "3:1 Zimmer\/Hudson Reamer"
+  },
+  {
+    "alternatives" : [
+      "PRO2047"
+    ],
+    "bounds" : [
+      0.23014256650009973,
+      0.62790697697637821,
+      0.26883910227111552,
+      0.63517441851780776
+    ],
+    "confidence" : 1,
+    "text" : "PRO2047"
+  },
+  {
+    "alternatives" : [
+      "3:1 Hudson Reamer (DePuy)"
+    ],
+    "bounds" : [
+      0.34826884075928027,
+      0.61918604683399703,
+      0.45010182879265453,
+      0.62797619025949958
+    ],
+    "confidence" : 1,
+    "text" : "3:1 Hudson Reamer (DePuy)"
+  },
+  {
+    "alternatives" : [
+      "PRO2065"
+    ],
+    "bounds" : [
+      0.34826883957375893,
+      0.62790697695820963,
+      0.38696537534477471,
+      0.63517441849963918
+    ],
+    "confidence" : 1,
+    "text" : "PRO2065"
+  },
+  {
+    "alternatives" : [
+      "3:1 Large AD Reamer"
+    ],
+    "bounds" : [
+      0.47046843177715647,
+      0.61918604684610945,
+      0.54989816435318983,
+      0.62797619027161189
+    ],
+    "confidence" : 1,
+    "text" : "3:1 Large AD Reamer"
+  },
+  {
+    "alternatives" : [
+      "PRO2040"
+    ],
+    "bounds" : [
+      0.47046843282627598,
+      0.62790697683102925,
+      0.51120162963129356,
+      0.6351744183724588
+    ],
+    "confidence" : 1,
+    "text" : "PRO2040"
+  },
+  {
+    "alternatives" : [
+      "5:1 Reamers"
+    ],
+    "bounds" : [
+      0.47653557719654938,
+      0.66261903357883145,
+      0.57845423940439555,
+      0.67604375744621759
+    ],
+    "confidence" : 1,
+    "text" : "5:1 Reamers"
+  },
+  {
+    "alternatives" : [
+      "3:1 Aesculap Reamer"
+    ],
+    "bounds" : [
+      0.59063136688408102,
+      0.6191860466166399,
+      0.67006109946011427,
+      0.62648809527709981
+    ],
+    "confidence" : 1,
+    "text" : "3:1 Aesculap Reamer"
+  },
+  {
+    "alternatives" : [
+      "PRO2060"
+    ],
+    "bounds" : [
+      0.59063136561650009,
+      0.62790697683102925,
+      0.63136456242151762,
+      0.6351744183724588
+    ],
+    "confidence" : 1,
+    "text" : "PRO2060"
+  },
+  {
+    "alternatives" : [
+      "3:1 DHS Reamer"
+    ],
+    "bounds" : [
+      0.71079429694840512,
+      0.61918604674382016,
+      0.77393075186354332,
+      0.62648809516775372
+    ],
+    "confidence" : 1,
+    "text" : "3:1 DHS Reamer"
+  },
+  {
+    "alternatives" : [
+      "PR02080"
+    ],
+    "bounds" : [
+      0.71079429840672415,
+      0.62790697683102925,
+      0.75152749521174178,
+      0.6351744183724588
+    ],
+    "confidence" : 1,
+    "text" : "PR02080"
+  },
+  {
+    "alternatives" : [
+      "3:1 Trinkle Reamer"
+    ],
+    "bounds" : [
+      0.83095722994322885,
+      0.61918604674382016,
+      0.90224032368881457,
+      0.62648809516775372
+    ],
+    "confidence" : 1,
+    "text" : "3:1 Trinkle Reamer"
+  },
+  {
+    "alternatives" : [
+      "PRO2329"
+    ],
+    "bounds" : [
+      0.83095723119694798,
+      0.62790697683102925,
+      0.8716904280019655,
+      0.6351744183724588
+    ],
+    "confidence" : 1,
+    "text" : "PRO2329"
+  },
+  {
+    "alternatives" : [
+      "5:1 ¼\" High Torque Jacobs Chuck...PR06042"
+    ],
+    "bounds" : [
+      0.1099796350050362,
+      0.76884920625473752,
+      0.27291242222510642,
+      0.77616279077922523
+    ],
+    "confidence" : 1,
+    "text" : "5:1 ¼\" High Torque Jacobs Chuck...PR06042"
+  },
+  {
+    "alternatives" : [
+      "5:1 Zimmer\/Hudson Reamer..... PR06047"
+    ],
+    "bounds" : [
+      0.28716904260019371,
+      0.7688492063047011,
+      0.43991852995581454,
+      0.77616279059266247
+    ],
+    "confidence" : 1,
+    "text" : "5:1 Zimmer\/Hudson Reamer..... PR06047"
+  },
+  {
+    "alternatives" : [
+      "5:1 Hudson Reamer(DePuy)..... PR06048"
+    ],
+    "bounds" : [
+      0.45417515581302459,
+      0.76736111131557916,
+      0.60692464316864547,
+      0.77761627872417416
+    ],
+    "confidence" : 1,
+    "text" : "5:1 Hudson Reamer(DePuy)..... PR06048"
+  },
+  {
+    "alternatives" : [
+      "5:1 Large AD Reamer....."
+    ],
+    "bounds" : [
+      0.62118126422572972,
+      0.76884920656478617,
+      0.71486761873421589,
+      0.77761627873528594
+    ],
+    "confidence" : 1,
+    "text" : "5:1 Large AD Reamer....."
+  },
+  {
+    "alternatives" : [
+      "Miscellaneous Attachments"
+    ],
+    "bounds" : [
+      0.41955193198133006,
+      0.80377906963965073,
+      0.63747454059165043,
+      0.81547619024938833
+    ],
+    "confidence" : 1,
+    "text" : "Miscellaneous Attachments"
+  },
+  {
+    "alternatives" : [
+      ".PR06040"
+    ],
+    "bounds" : [
+      0.73111867149388332,
+      0.76877313050698437,
+      0.77193631954191277,
+      0.77628500927747957
+    ],
+    "confidence" : 1,
+    "text" : ".PR06040"
+  },
+  {
+    "alternatives" : [
+      "5:1 Aesculap Reamer....."
+    ],
+    "bounds" : [
+      0.78818737583783216,
+      0.76884920646249688,
+      0.87576374724431305,
+      0.77616279051393178
+    ],
+    "confidence" : 1,
+    "text" : "5:1 Aesculap Reamer....."
+  },
+  {
+    "alternatives" : [
+      ". RO6060"
+    ],
+    "bounds" : [
+      0.90623978330029953,
+      0.76871227409896525,
+      0.94101072500145366,
+      0.7763458655540918
+    ],
+    "confidence" : 1,
+    "text" : ". RO6060"
+  },
+  {
+    "alternatives" : [
+      "Radiolucent Drive Adaptor...PR02514"
+    ],
+    "bounds" : [
+      0.1079429776753813,
+      0.9010416664489751,
+      0.24643584309854932,
+      0.9099702378775465
+    ],
+    "confidence" : 1,
+    "text" : "Radiolucent Drive Adaptor...PR02514"
+  },
+  {
+    "alternatives" : [
+      "High Speed Drill Attachment..PRO2033"
+    ],
+    "bounds" : [
+      0.26069247021809533,
+      0.89970930253893877,
+      0.40529531343770914,
+      0.90848214264145244
+    ],
+    "confidence" : 1,
+    "text" : "High Speed Drill Attachment..PRO2033"
+  },
+  {
+    "alternatives" : [
+      "Sagittal Saw Attachment.....PRO2043"
+    ],
+    "bounds" : [
+      0.41344195377240323,
+      0.89970930246626435,
+      0.55397148553513254,
+      0.90848214304183073
+    ],
+    "confidence" : 1,
+    "text" : "Sagittal Saw Attachment.....PRO2043"
+  },
+  {
+    "alternatives" : [
+      "Multipurpose High Speed.... PR07020"
+    ],
+    "bounds" : [
+      0.5621181276753815,
+      0.90104166670467056,
+      0.70061099309854946,
+      0.90848214289514673
+    ],
+    "confidence" : 1,
+    "text" : "Multipurpose High Speed.... PR07020"
+  },
+  {
+    "alternatives" : [
+      "Reciprocating Saw Attachment for PRO6100, PRO6150, PRD7100B,"
+    ],
+    "bounds" : [
+      0.71283096530131629,
+      0.89236111104943783,
+      0.94704684096141278,
+      0.90116279033896796
+    ],
+    "confidence" : 1,
+    "text" : "Reciprocating Saw Attachment for PRO6100, PRO6150, PRD7100B,"
+  },
+  {
+    "alternatives" : [
+      "PR07200B, PRD8500B, PR09100B, PR09200.......PR06045"
+    ],
+    "bounds" : [
+      0.71283096186015504,
+      0.90252976195926771,
+      0.93890019338424446,
+      0.90997023814974398
+    ],
+    "confidence" : 1,
+    "text" : "PR07200B, PRD8500B, PR09100B, PR09200.......PR06045"
+  },
+  {
+    "alternatives" : [
+      "All products may not be available in all markets."
+    ],
+    "bounds" : [
+      0.78411406029961839,
+      0.93303571423726472,
+      0.95519348104457669,
+      0.94196428566583612
+    ],
+    "confidence" : 1,
+    "text" : "All products may not be available in all markets."
+  },
+  {
+    "alternatives" : [
+      "HALL® POWERED INSTRUMENTS,"
+    ],
+    "bounds" : [
+      0.77393075682937362,
+      0.96354166677667896,
+      0.92057026638854866,
+      0.97247023820525036
+    ],
+    "confidence" : 1,
+    "text" : "HALL® POWERED INSTRUMENTS,"
+  }
+]

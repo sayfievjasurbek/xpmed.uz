@@ -1,0 +1,257 @@
+{
+  "pdfPage": 53,
+  "officialPage": 73,
+  "alignment": [
+    [
+      0.9702375505097982,
+      0.0001500937358674202,
+      0.01485232223597022
+    ],
+    [
+      -0.0008750919739361055,
+      0.9791025588427013,
+      0.011243859721568076
+    ]
+  ],
+  "alignmentMatches": 41,
+  "alignmentInliers": 41,
+  "category": "hip-arthroscopy",
+  "title": {
+    "en": "Hip Access",
+    "ru": "Доступ к тазобедренному суставу"
+  },
+  "groups": [
+    {
+      "title": "Disposable Kit",
+      "page": 53,
+      "officialPage": 73,
+      "headingBounds": [
+        0.10162294842638873,
+        0.14145288072159698,
+        0.21451043669091477,
+        0.1560994162847283
+      ],
+      "rows": [
+        {
+          "description": "Disposable Kit",
+          "codes": [
+            {
+              "candidate": "HA-222DK",
+              "sourceBounds": [
+                0.5120622907947525,
+                0.23615825724432513,
+                0.5677287850628447,
+                0.24869174555115764
+              ],
+              "officialBounds": [
+                313.6050109863281,
+                182.29689025878906,
+                348.71673583984375,
+                192.47589111328125
+              ],
+              "officialCode": "HA-222DK"
+            }
+          ],
+          "rowBounds": [
+            0.10163752324784864,
+            0.23652843403226348,
+            0.5677287850628447,
+            0.24869174555115764
+          ],
+          "pdfPage": 53,
+          "officialPage": 73
+        },
+        {
+          "description": "Disposable Kit Brochure",
+          "codes": [
+            {
+              "candidate": "CBR",
+              "sourceBounds": [
+                0.5135203937025427,
+                0.2540812261078869,
+                0.5358905525053972,
+                0.2666447455714313
+              ],
+              "officialBounds": [
+                314.52301025390625,
+                196.79591369628906,
+                328.6322937011719,
+                206.97491455078125
+              ],
+              "officialCode": "CBR"
+            }
+          ],
+          "rowBounds": [
+            0.10164027099102309,
+            0.2544527155327389,
+            0.5677300813697326,
+            0.2666160283607354
+          ],
+          "pdfPage": 53,
+          "officialPage": 73
+        }
+      ],
+      "features": [],
+      "notes": [
+        "Provides the surgeon with all the disposable instruments needed for access to the",
+        "hip joint. Includes distention needle, 2 guidewires, cannulated switching stick and",
+        "2 (8.0 x 120mm) Hex Flex® cannulas, as well as a banana blade and a syringe."
+      ],
+      "keyParameters": []
+    },
+    {
+      "title": "Slotted Cannulas",
+      "page": 53,
+      "officialPage": 73,
+      "headingBounds": [
+        0.10169846907505435,
+        0.634094761654446,
+        0.23445044740543963,
+        0.6487233712912205
+      ],
+      "rows": [
+        {
+          "description": "5mm Low Profile Slotted Cannula",
+          "codes": [
+            {
+              "candidate": "HPS-SC5",
+              "sourceBounds": [
+                0.5190391466098593,
+                0.6997422365275436,
+                0.5678055127741485,
+                0.7122819671704224
+              ],
+              "officialBounds": [
+                317.96099853515625,
+                557.296875,
+                348.7203063964844,
+                567.4758911132812
+              ],
+              "officialCode": "HPS-SC5"
+            }
+          ],
+          "rowBounds": [
+            0.10170859035474261,
+            0.7001186418934926,
+            0.5678055127741485,
+            0.7122819671704224
+          ],
+          "pdfPage": 53,
+          "officialPage": 73
+        },
+        {
+          "description": "6.7mm Low Profile Slotted Cannula",
+          "codes": [
+            {
+              "candidate": "HPS-SC67",
+              "sourceBounds": [
+                0.5120647433607278,
+                0.717672810970228,
+                0.5678083088985324,
+                0.730206248627261
+              ],
+              "officialBounds": [
+                313.55999755859375,
+                571.7958984375,
+                348.7203369140625,
+                581.9749145507812
+              ],
+              "officialCode": "HPS-SC67"
+            }
+          ],
+          "rowBounds": [
+            0.10171133809791706,
+            0.7180429233939681,
+            0.5678083088985324,
+            0.730206248627261
+          ],
+          "pdfPage": 53,
+          "officialPage": 73
+        },
+        {
+          "description": "5mm Slotted Cannula",
+          "codes": [
+            {
+              "candidate": "SC6900",
+              "sourceBounds": [
+                0.5244808031714197,
+                0.7355858210060987,
+                0.5678037994487067,
+                0.7481304612191098
+              ],
+              "officialBounds": [
+                321.3899841308594,
+                586.2948608398438,
+                348.71575927734375,
+                596.473876953125
+              ],
+              "officialCode": "SC6900"
+            }
+          ],
+          "rowBounds": [
+            0.1017140858295246,
+            0.7359671294403052,
+            0.5678037994487067,
+            0.7481304612191098
+          ],
+          "pdfPage": 53,
+          "officialPage": 73
+        },
+        {
+          "description": "6.7mm Slotted Cannula",
+          "codes": [
+            {
+              "candidate": "SC7900",
+              "sourceBounds": [
+                0.52488308293153,
+                0.7535096667001989,
+                0.5678123529254607,
+                0.7660546620290374
+              ],
+              "officialBounds": [
+                321.6419982910156,
+                600.7938232421875,
+                348.71942138671875,
+                610.9728393554688
+              ],
+              "officialCode": "SC7900"
+            }
+          ],
+          "rowBounds": [
+            0.10171683356113213,
+            0.7538913354866421,
+            0.5678123529254607,
+            0.7660546620290374
+          ],
+          "pdfPage": 53,
+          "officialPage": 73
+        }
+      ],
+      "features": [
+        {
+          "text": "Low-profile design allows for the ease of instrument insertion and portal transfer",
+          "bounds": [
+            0.10883559711389273,
+            0.6538434278708113,
+            0.5607067713919236,
+            0.6674177492382234
+          ],
+          "officialStartX": 59.220001220703125
+        },
+        {
+          "text": "Differentiated, rigid uni-body shaft is constructed from a single piece of metal for a durable and reliable joint access solution",
+          "bounds": [
+            0.10883768174911311,
+            0.6674420745214044,
+            0.5617711622453372,
+            0.6810154377568158
+          ],
+          "officialStartX": 59.220001220703125
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 6
+}

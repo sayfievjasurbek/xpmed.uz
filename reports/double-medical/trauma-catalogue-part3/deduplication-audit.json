@@ -1,0 +1,17 @@
+{
+  "method": "Compare every family against all existing Double Medical names (normalized tokens) and all implant REF codes; shared tools alone do not merge instrument sets",
+  "overlaps": [],
+  "merged": [
+    {
+      "slug": "cable",
+      "name": {
+        "ru": "Серкляжный трос",
+        "en": "Cable"
+      },
+      "matchedBy": "name",
+      "sourcePages": [
+        612
+      ]
+    }
+  ]
+}

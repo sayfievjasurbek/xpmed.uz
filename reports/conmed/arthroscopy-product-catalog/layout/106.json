@@ -1,0 +1,388 @@
+{
+  "pdfPage": 106,
+  "officialPage": 132,
+  "alignment": [
+    [
+      0.9709972936133574,
+      -0.0003221725459427187,
+      0.014767094718197591
+    ],
+    [
+      0.00016104130763784573,
+      0.978939409069077,
+      0.010909845456327378
+    ]
+  ],
+  "alignmentMatches": 67,
+  "alignmentInliers": 67,
+  "category": "arthroscopy-fluid-management",
+  "title": {
+    "en": "24k Pump System",
+    "ru": "Помповая система 24k"
+  },
+  "groups": [
+    {
+      "title": "® Irrigation System Console — Technical Specifications:",
+      "page": 106,
+      "officialPage": 132,
+      "headingBounds": [
+        0.4287891391631381,
+        0.2485727383813522,
+        0.5699364352953094,
+        0.2617784682342411
+      ],
+      "rows": [
+        {
+          "description": "24k ® Irrigation Console",
+          "codes": [
+            {
+              "candidate": "24k",
+              "sourceBounds": [
+                0.8757105063291155,
+                0.31763481910586855,
+                0.89522632990651,
+                0.33021965384522317
+              ],
+              "officialBounds": [
+                542.6988525390625,
+                248.03688049316406,
+                555.0018920898438,
+                258.21588134765625
+              ],
+              "officialCode": "24k"
+            }
+          ],
+          "rowBounds": [
+            0.4482861571062974,
+            0.31756393015842466,
+            0.89522632990651,
+            0.33021965384522317
+          ],
+          "pdfPage": 106,
+          "officialPage": 132
+        }
+      ],
+      "features": [],
+      "notes": [
+        "» Weight: 10.3 lbs (4.6 Kg) » Dimensions: 14.0\"w x 7.1\"h x 15.9\"d (35.6cm w x 18.0cm h x 40.4cm d) » Voltage: 100-240 VAC"
+      ],
+      "keyParameters": []
+    },
+    {
+      "title": "24k Autoclavable Remote Control",
+      "page": 106,
+      "officialPage": 132,
+      "headingBounds": [
+        0.42875292485520156,
+        0.35846482662680057,
+        0.683618679842977,
+        0.3732529810997224
+      ],
+      "rows": [
+        {
+          "description": "The C8115 is a fully autoclavable remote for the 24k Pump. The C8115 is a 6 button, 9 function remote that allows control of pressure, flow rates, suction rates, tamponade function, Clearfield function, shaver declog function, drain function and run and stop. 24k Autoclavable Remote Control",
+          "codes": [
+            {
+              "candidate": "C8115",
+              "sourceBounds": [
+                0.8603693286151405,
+                0.4208374923249624,
+                0.8951926552139329,
+                0.4334248469754738
+              ],
+              "officialBounds": [
+                533.051025390625,
+                331.5339050292969,
+                555.0020751953125,
+                341.712890625
+              ],
+              "officialCode": "C8115"
+            }
+          ],
+          "rowBounds": [
+            0.42874645414452345,
+            0.3781264451204905,
+            0.8951926552139329,
+            0.4334248469754738
+          ],
+          "pdfPage": 106,
+          "officialPage": 132
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "24k Interface Cable",
+      "page": 106,
+      "officialPage": 132,
+      "headingBounds": [
+        0.4287224742258569,
+        0.450549404854788,
+        0.5764930847341481,
+        0.4653197974428703
+      ],
+      "rows": [
+        {
+          "description": "The 24K Interface Cable provides a direct connection between the D4000/D4000A console and the 24K pump, allowing the 24K pump to control suction through the shaver handpiece. 24K Interface Cable",
+          "codes": [
+            {
+              "candidate": "D4024",
+              "sourceBounds": [
+                0.860085888439189,
+                0.5005629266314032,
+                0.8951662235910064,
+                0.5131503239071553
+              ],
+              "officialBounds": [
+                532.888916015625,
+                396.034912109375,
+                555.001953125,
+                406.2138977050781
+              ],
+              "officialCode": "D4024"
+            }
+          ],
+          "rowBounds": [
+            0.4287160035151788,
+            0.4702110233484779,
+            0.8951662235910064,
+            0.5131503239071553
+          ],
+          "pdfPage": 106,
+          "officialPage": 132
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "24k Shaver Sensor",
+      "page": 106,
+      "officialPage": 132,
+      "headingBounds": [
+        0.42869638194625453,
+        0.5302736370568532,
+        0.5706918533902087,
+        0.5450430718297563
+      ],
+      "rows": [
+        {
+          "description": "The 24k900 Shaver Sensor connects to the 24k Pump and clips to the cable of any shaver handpiece allowing the 24k Pump to control suction through the shaver handpiece. 24k Shaver Sensor",
+          "codes": [
+            {
+              "candidate": "24k900",
+              "sourceBounds": [
+                0.8550620256556897,
+                0.580286329945991,
+                0.8951401797304984,
+                0.5928745561172508
+              ],
+              "officialBounds": [
+                529.739013671875,
+                460.534912109375,
+                555.0020751953125,
+                470.7138977050781
+              ],
+              "officialCode": "24k900"
+            }
+          ],
+          "rowBounds": [
+            0.4286899112355765,
+            0.549935255550543,
+            0.8951401797304984,
+            0.5928745561172508
+          ],
+          "pdfPage": 106,
+          "officialPage": 132
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "® Arthroscopic Tubing — 24k100 Outflow, Shaver Suction Tube Set",
+      "page": 106,
+      "officialPage": 132,
+      "headingBounds": [
+        0.42865754431225656,
+        0.6482839733019571,
+        0.7092000914116293,
+        0.6616018053903722
+      ],
+      "rows": [
+        {
+          "description": "This arthroscopic tube set allows the 24k Pump to control the outflow and shaver suction. This tube set must be used in conjunction with the 10k100, 10k150 or EcoFlow Day-Use Tube Sets",
+          "codes": [
+            {
+              "candidate": "24k100",
+              "sourceBounds": [
+                0.8550110835092433,
+                0.6915281597293284,
+                0.8950892375716379,
+                0.704116423621371
+              ],
+              "officialBounds": [
+                529.72998046875,
+                550.5338745117188,
+                554.9930419921875,
+                560.712890625
+              ],
+              "officialCode": "24k100"
+            }
+          ],
+          "rowBounds": [
+            0.42865147061524045,
+            0.666739243444219,
+            0.8950892375716379,
+            0.704116423621371
+          ],
+          "pdfPage": 106,
+          "officialPage": 132
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "® Arthroscopic Tubing — 24kTIPS Tube Set",
+      "page": 106,
+      "officialPage": 132,
+      "headingBounds": [
+        0.4286220046019622,
+        0.712871758313508,
+        0.548450102093769,
+        0.7261629356776603
+      ],
+      "rows": [
+        {
+          "description": "This tube set allows for the use of True Intraarticular Pressure Sensing. This tube set can only be used in conjunction with Pressure Sensing Scope Sheaths or Pressure Sensing Cannulas. Only used with 24k Pump",
+          "codes": [
+            {
+              "candidate": "24kTIPS",
+              "sourceBounds": [
+                0.852876430824664,
+                0.7561155211583823,
+                0.8950678846808282,
+                0.7687041355442568
+              ],
+              "officialBounds": [
+                528.39794921875,
+                602.787841796875,
+                554.9929809570312,
+                612.9668579101562
+              ],
+              "officialCode": "24kTIPS"
+            }
+          ],
+          "rowBounds": [
+            0.4286159309297742,
+            0.7313269530142045,
+            0.8950678846808282,
+            0.7687041355442568
+          ],
+          "pdfPage": 106,
+          "officialPage": 132
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "® Arthroscopic Tubing — 10k100 Arthroscopic Inflow-Only Tube Set",
+      "page": 106,
+      "officialPage": 132,
+      "headingBounds": [
+        0.4286007001302468,
+        0.7774594702444242,
+        0.7152547537426874,
+        0.790778315935047
+      ],
+      "rows": [
+        {
+          "description": "Arthroscopic inflow-only tube set with a luer lock connetion can be used with the 24k Pump or the 10k Pump. Can be used in conjunction with 24k100 to provide to the 24k Pump,inflow, outflow and shaver suction",
+          "codes": [
+            {
+              "candidate": "10k100",
+              "sourceBounds": [
+                0.8549689374942702,
+                0.8195911977254914,
+                0.8950470915566648,
+                0.832179461617534
+              ],
+              "officialBounds": [
+                529.72998046875,
+                654.141845703125,
+                554.9930419921875,
+                664.3208618164062
+              ],
+              "officialCode": "10k100"
+            }
+          ],
+          "rowBounds": [
+            0.4285949925483278,
+            0.7948022790633905,
+            0.8950470915566648,
+            0.832179461617534
+          ],
+          "pdfPage": 106,
+          "officialPage": 132
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "® Arthroscopic Tubing — 10k150 Arthroscopic Inflow-Only Tube Set with Suction Tube",
+      "page": 106,
+      "officialPage": 132,
+      "headingBounds": [
+        0.4285798585869891,
+        0.840934796309671,
+        0.8417778448373278,
+        0.854274629494821
+      ],
+      "rows": [
+        {
+          "description": "Arthroscopic inflow-only tube set with a extra shaver suction line for wall suction. The shaver suction line can be peeled off for use with shaver handpiece or independent source suction. Can be used with the 24k Pump or 10k Pump",
+          "codes": [
+            {
+              "candidate": "10k150",
+              "sourceBounds": [
+                0.8549476814168211,
+                0.8841789851060035,
+                0.8950258354792158,
+                0.896767248998046
+              ],
+              "officialBounds": [
+                529.72998046875,
+                706.3958740234375,
+                554.9930419921875,
+                716.5748901367188
+              ],
+              "officialCode": "10k150"
+            }
+          ],
+          "rowBounds": [
+            0.4285737849148011,
+            0.8593899910103675,
+            0.8950258354792158,
+            0.896767248998046
+          ],
+          "pdfPage": 106,
+          "officialPage": 132
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 8
+}

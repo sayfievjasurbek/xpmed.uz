@@ -1,0 +1,3066 @@
+{
+  "schemaVersion": 1,
+  "slug": "anty-f-series",
+  "brand": "double-medical",
+  "catalogType": "system",
+  "category": "joint-replacement",
+  "subcategory": "hip",
+  "specialty": [
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Ревизионная бедренная ножка Anty F-series",
+    "en": "Anty F-series Femoral Revision Stem System"
+  },
+  "shortDescription": {
+    "ru": "Ревизионная бедренная ножка с конусностью 2° и 8 продольными рёбрами.",
+    "en": "Femoral revision stem with a 2° taper and 8 longitudinal ribs."
+  },
+  "description": {
+    "ru": "Anty F-series — система ревизионных бедренных ножек Double Medical. Конструкция включает покрытие плеча ножки для остеоинтеграции, отверстия для серкляжа и острые продольные рёбра для первичной стабильности. Круглое поперечное сечение позволяет регулировать антеверсию; размеры и варианты длины приведены в таблице производителя.",
+    "en": "Anty F-series is a Double Medical femoral revision stem system. Its design includes shoulder coating for bone integration, cable holes and sharp longitudinal ribs for initial stability. A circular cross-section allows anteversion adjustment; manufacturer dimensions and length options are listed in the specification table."
+  },
+  "heroImage": "/images/products/double-medical/anty-f-series/hero-stem.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "name": "technical-drawing",
+      "src": "/images/products/double-medical/anty-f-series/technical-drawing.webp",
+      "width": 1009,
+      "height": 1509,
+      "imageType": "scene",
+      "pdfPage": 2,
+      "captionFree": true,
+      "sourceBounds": [
+        0.6864776913241732,
+        0.4779682397631987,
+        0.8837788805171067,
+        0.6884603356199844
+      ],
+      "sourceMethod": "Vector drawing rendered at 600 DPI; white background retained",
+      "imageCaption": {
+        "ru": "Технический чертёж Anty F-series: размеры и поперечные сечения",
+        "en": "Anty F-series technical drawing: dimensions and cross-sections"
+      }
+    }
+  ],
+  "variants": [],
+  "features": [
+    {
+      "id": "shoulder-coating",
+      "title": {
+        "ru": "Покрытие плеча ножки",
+        "en": "Shoulder coating"
+      },
+      "text": {
+        "ru": "Покрытие плеча ножки способствует остеоинтеграции.",
+        "en": "The shoulder coating design is beneficial for bone integration."
+      },
+      "image": "/images/products/double-medical/anty-f-series/feature-shoulder-coating.webp",
+      "sourcePages": [
+        2
+      ]
+    },
+    {
+      "id": "cable-holes",
+      "title": {
+        "ru": "Отверстия для серкляжа",
+        "en": "Cable holes"
+      },
+      "text": {
+        "ru": "Отверстия облегчают фиксацию костных фрагментов и мягких тканей.",
+        "en": "Cable holes facilitate fixation of bone fragments and soft tissues."
+      },
+      "image": "/images/products/double-medical/anty-f-series/feature-cable-holes.webp",
+      "sourcePages": [
+        2
+      ]
+    },
+    {
+      "id": "longitudinal-ribs",
+      "title": {
+        "ru": "8 острых продольных рёбер",
+        "en": "8 sharp longitudinal ribs"
+      },
+      "text": {
+        "ru": "8 острых продольных рёбер увеличивают площадь контакта ножки, обеспечивая ротационную и первичную аксиальную стабильность.",
+        "en": "8 sharp longitudinal ribs increase the stem contact surface and enhance anti-rotation and initial axial stability."
+      },
+      "image": "/images/products/double-medical/anty-f-series/feature-longitudinal-ribs.webp",
+      "sourcePages": [
+        2
+      ]
+    },
+    {
+      "id": "taper",
+      "title": {
+        "ru": "Конусность 2°",
+        "en": "2° taper"
+      },
+      "text": {
+        "ru": "Конусность 2° обеспечивает преимущественно диафизарную фиксацию.",
+        "en": "The 2° taper provides fixation predominantly in the diaphysis."
+      },
+      "image": "/images/products/double-medical/anty-f-series/feature-taper.webp",
+      "sourcePages": [
+        2
+      ]
+    },
+    {
+      "id": "circular-cross-section",
+      "title": {
+        "ru": "Круглое поперечное сечение",
+        "en": "Circular cross-section"
+      },
+      "text": {
+        "ru": "Круглое поперечное сечение облегчает регулировку антеверсии бедренного компонента.",
+        "en": "The circular cross-section facilitates adjustment of femoral anteversion."
+      },
+      "image": "/images/products/double-medical/anty-f-series/feature-circular-cross-section.webp",
+      "sourcePages": [
+        2
+      ]
+    },
+    {
+      "id": "minimum-diameter",
+      "title": {
+        "ru": "Минимальный диаметр тела ножки 13 мм",
+        "en": "Minimum stem body diameter 13 mm"
+      },
+      "text": {
+        "ru": "Минимальный диаметр тела ножки составляет 13 мм, что позволяет использовать её в узких костномозговых каналах.",
+        "en": "The minimum stem body diameter is 13 mm, sized to fit small canals."
+      },
+      "image": "/images/products/double-medical/anty-f-series/feature-minimum-diameter.webp",
+      "sourcePages": [
+        2
+      ]
+    }
+  ],
+  "hotspots": [
+    {
+      "featureId": "shoulder-coating",
+      "image": "/images/products/double-medical/anty-f-series/hotspot-stem.webp",
+      "x": 57.318,
+      "y": 10.322,
+      "pdfPage": 2,
+      "sourcePoint": [
+        352,
+        118
+      ],
+      "coordinateSpace": "percent-of-padded-image"
+    },
+    {
+      "featureId": "cable-holes",
+      "image": "/images/products/double-medical/anty-f-series/hotspot-stem.webp",
+      "x": 52.753,
+      "y": 19.492,
+      "pdfPage": 2,
+      "sourcePoint": [
+        331.7,
+        162.2
+      ],
+      "coordinateSpace": "percent-of-padded-image"
+    },
+    {
+      "featureId": "longitudinal-ribs",
+      "image": "/images/products/double-medical/anty-f-series/hotspot-stem.webp",
+      "x": 36.224,
+      "y": 38.516,
+      "pdfPage": 2,
+      "sourcePoint": [
+        258.2,
+        253.9
+      ],
+      "coordinateSpace": "percent-of-padded-image"
+    },
+    {
+      "featureId": "taper",
+      "image": "/images/products/double-medical/anty-f-series/hotspot-stem.webp",
+      "x": 36.022,
+      "y": 54.553,
+      "pdfPage": 2,
+      "sourcePoint": [
+        257.3,
+        331.2
+      ],
+      "coordinateSpace": "percent-of-padded-image"
+    },
+    {
+      "featureId": "circular-cross-section",
+      "image": "/images/products/double-medical/anty-f-series/hotspot-stem.webp",
+      "x": 10.002,
+      "y": 85.424,
+      "pdfPage": 2,
+      "sourcePoint": [
+        141.6,
+        480
+      ],
+      "coordinateSpace": "percent-of-padded-image"
+    },
+    {
+      "featureId": "minimum-diameter",
+      "image": "/images/products/double-medical/anty-f-series/hotspot-stem.webp",
+      "x": 4.178,
+      "y": 96.379,
+      "pdfPage": 2,
+      "sourcePoint": [
+        115.7,
+        532.8
+      ],
+      "coordinateSpace": "percent-of-padded-image"
+    }
+  ],
+  "components": [],
+  "specTables": [
+    {
+      "id": "anty-f-series-sizes",
+      "title": {
+        "ru": "Размеры ревизионной бедренной ножки Anty F-series",
+        "en": "Anty F-series femoral revision stem specifications"
+      },
+      "unit": "mm",
+      "columns": [
+        {
+          "ru": "Размер",
+          "en": "Size"
+        },
+        {
+          "ru": "Длина ножки 170",
+          "en": "Stem length 170"
+        },
+        {
+          "ru": "Длина ножки 205",
+          "en": "Stem length 205"
+        },
+        {
+          "ru": "Длина ножки 245",
+          "en": "Stem length 245"
+        },
+        {
+          "ru": "Длина ножки 285",
+          "en": "Stem length 285"
+        },
+        {
+          "ru": "Длина шейки",
+          "en": "Neck length"
+        },
+        {
+          "ru": "Высота шейки",
+          "en": "Neck height"
+        },
+        {
+          "ru": "Проксимальный наружный диаметр — 170",
+          "en": "Proximal outer diameter — 170"
+        },
+        {
+          "ru": "Проксимальный наружный диаметр — 205",
+          "en": "Proximal outer diameter — 205"
+        },
+        {
+          "ru": "Проксимальный наружный диаметр — 245",
+          "en": "Proximal outer diameter — 245"
+        },
+        {
+          "ru": "Проксимальный наружный диаметр — 285",
+          "en": "Proximal outer diameter — 285"
+        },
+        {
+          "ru": "Диаметр средней части",
+          "en": "Mid-section diameter"
+        },
+        {
+          "ru": "Дистальный диаметр",
+          "en": "Distal diameter"
+        }
+      ],
+      "headerRows": [
+        [
+          {
+            "value": {
+              "ru": "Размер",
+              "en": "Size"
+            },
+            "rowspan": 2
+          },
+          {
+            "value": {
+              "ru": "Длина ножки",
+              "en": "Stem length"
+            },
+            "colspan": 4
+          },
+          "",
+          "",
+          "",
+          {
+            "value": {
+              "ru": "Длина шейки",
+              "en": "Neck length"
+            },
+            "rowspan": 2
+          },
+          {
+            "value": {
+              "ru": "Высота шейки",
+              "en": "Neck height"
+            },
+            "rowspan": 2
+          },
+          {
+            "value": {
+              "ru": "Проксимальный наружный диаметр",
+              "en": "Proximal outer diameter"
+            },
+            "colspan": 4
+          },
+          "",
+          "",
+          "",
+          {
+            "value": {
+              "ru": "Диаметр средней части",
+              "en": "Mid-section diameter"
+            },
+            "rowspan": 2
+          },
+          {
+            "value": {
+              "ru": "Дистальный диаметр",
+              "en": "Distal diameter"
+            },
+            "rowspan": 2
+          }
+        ],
+        [
+          "",
+          "170",
+          "205",
+          "245",
+          "285",
+          "",
+          "",
+          "170",
+          "205",
+          "245",
+          "285",
+          "",
+          ""
+        ]
+      ],
+      "headersVerified": true,
+      "rows": [
+        [
+          "1# / 14mm",
+          "●",
+          "●",
+          "●",
+          "○",
+          "42",
+          "22",
+          "13",
+          "14",
+          "15",
+          "16",
+          "14",
+          "9"
+        ],
+        [
+          "2# / 15mm",
+          "●",
+          "●",
+          "●",
+          "○",
+          "42",
+          "22",
+          "14",
+          "15",
+          "16",
+          "17",
+          "15",
+          "10"
+        ],
+        [
+          "3# / 16mm",
+          "●",
+          "●",
+          "●",
+          "○",
+          "42",
+          "22",
+          "15",
+          "16",
+          "17",
+          "17",
+          "16",
+          "11"
+        ],
+        [
+          "4# / 17mm",
+          "●",
+          "●",
+          "●",
+          "○",
+          "42",
+          "22",
+          "16",
+          "17",
+          "17",
+          "17",
+          "17",
+          "12"
+        ],
+        [
+          "5# / 18mm",
+          "●",
+          "●",
+          "●",
+          "○",
+          "44",
+          "24",
+          "17",
+          "18",
+          "17",
+          "17",
+          "18",
+          "13"
+        ],
+        [
+          "6# / 19mm",
+          "●",
+          "●",
+          "●",
+          "○",
+          "44",
+          "24",
+          "18",
+          "19",
+          "20",
+          "21",
+          "19",
+          "14"
+        ],
+        [
+          "7# / 20mm",
+          "●",
+          "●",
+          "●",
+          "○",
+          "44",
+          "24",
+          "19",
+          "20",
+          "21",
+          "21",
+          "20",
+          "15"
+        ],
+        [
+          "8# / 21mm",
+          "●",
+          "●",
+          "●",
+          "○",
+          "44",
+          "24",
+          "20",
+          "21",
+          "21",
+          "21",
+          "21",
+          "16"
+        ],
+        [
+          "9# / 22mm",
+          "×",
+          "●",
+          "●",
+          "○",
+          "46",
+          "26",
+          "×",
+          "22",
+          "21",
+          "21",
+          "22",
+          "17"
+        ],
+        [
+          "10# / 23mm",
+          "×",
+          "○",
+          "○",
+          "○",
+          "46",
+          "26",
+          "×",
+          "23",
+          "24",
+          "25",
+          "23",
+          "18"
+        ],
+        [
+          "12# / 25mm",
+          "×",
+          "×",
+          "×",
+          "○",
+          "46",
+          "26",
+          "×",
+          "×",
+          "×",
+          "25",
+          "25",
+          "20"
+        ]
+      ],
+      "legend": {
+        "ru": "● / ○ / × — наличие уточняйте у менеджера",
+        "en": "● / ○ / × — please confirm availability with your manager"
+      },
+      "sourcePages": [
+        2
+      ],
+      "sourceBounds": [
+        0.085,
+        0.735,
+        0.914,
+        0.889
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 2,
+          "sourceBounds": [
+            0.08479059370274825,
+            0.7588740119732257,
+            0.9147600589854186,
+            0.7703464126672986
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "sourceBounds": [
+            0.08479059370274825,
+            0.7703464126672986,
+            0.9147600589854186,
+            0.7818188133613715
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "sourceBounds": [
+            0.08479059370274825,
+            0.7818188133613715,
+            0.9147600589854186,
+            0.7932923769952005
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "sourceBounds": [
+            0.08479059370274825,
+            0.7932923769952005,
+            0.9147600589854186,
+            0.8047647776892733
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "sourceBounds": [
+            0.08479059370274825,
+            0.8047647776892733,
+            0.9147600589854186,
+            0.8162371783833463
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "sourceBounds": [
+            0.08479059370274825,
+            0.8162371783833463,
+            0.9147600589854186,
+            0.8277095790774192
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "sourceBounds": [
+            0.08479059370274825,
+            0.8277095790774192,
+            0.9147600589854186,
+            0.839181979771492
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "sourceBounds": [
+            0.08479059370274825,
+            0.839181979771492,
+            0.9147600589854186,
+            0.850654380465565
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "sourceBounds": [
+            0.08479059370274825,
+            0.850654380465565,
+            0.9147600589854186,
+            0.8621267811596377
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "sourceBounds": [
+            0.08479059370274825,
+            0.8621267811596377,
+            0.9147600589854186,
+            0.8736003447934668
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "sourceBounds": [
+            0.08479059370274825,
+            0.8736003447934668,
+            0.9147600589854186,
+            0.8852274164751028
+          ]
+        }
+      ],
+      "sourceHeaders": {
+        "长度": "Stem length",
+        "颈长": "Neck length",
+        "颈高": "Neck height",
+        "近端外直径": "Proximal outer diameter",
+        "中段外直径": "Mid-section diameter",
+        "远端外直径": "Distal diameter"
+      },
+      "sourceSizeLabelLayout": "Two printed size fields combined as size # / diameter, as explicitly requested. No values changed."
+    }
+  ],
+  "refCodes": [
+    "130890101S",
+    "130890102S",
+    "130890103S",
+    "130890104S",
+    "130890105S",
+    "130890106S",
+    "130890107S",
+    "130890201S",
+    "130890202S",
+    "130890203S",
+    "130890204S",
+    "130890205S",
+    "130890206S",
+    "130890207S",
+    "130890208S",
+    "130890209S",
+    "130890301S",
+    "130890302S",
+    "130890303S",
+    "130890304S",
+    "130890305S",
+    "130890306S",
+    "130890307S",
+    "130890308S",
+    "130890309S",
+    "130890310S"
+  ],
+  "sourcePages": [
+    1,
+    2
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Anty F-series — каталог продукции",
+    "en": "Double Medical Anty F-series — Product Catalog"
+  },
+  "isNew": true,
+  "status": "published",
+  "relatedSystemSlugs": [
+    "pbg-proximal-bone-growth-cementless-stem",
+    "anty-f-revision-hip-stem-instrument-set",
+    "hip-stem-revision-instrument-set"
+  ],
+  "imageDimensions": {
+    "/images/products/double-medical/anty-f-series/hero-stem.webp": {
+      "width": 1216,
+      "height": 1872
+    },
+    "/images/products/double-medical/anty-f-series/hotspot-stem.webp": {
+      "width": 1196,
+      "height": 1324
+    },
+    "/images/products/double-medical/anty-f-series/feature-shoulder-coating.webp": {
+      "width": 220,
+      "height": 220
+    },
+    "/images/products/double-medical/anty-f-series/feature-cable-holes.webp": {
+      "width": 220,
+      "height": 220
+    },
+    "/images/products/double-medical/anty-f-series/feature-longitudinal-ribs.webp": {
+      "width": 220,
+      "height": 220
+    },
+    "/images/products/double-medical/anty-f-series/feature-taper.webp": {
+      "width": 220,
+      "height": 220
+    },
+    "/images/products/double-medical/anty-f-series/feature-circular-cross-section.webp": {
+      "width": 220,
+      "height": 220
+    },
+    "/images/products/double-medical/anty-f-series/feature-minimum-diameter.webp": {
+      "width": 159,
+      "height": 158
+    },
+    "/images/products/double-medical/anty-f-series/technical-drawing.webp": {
+      "width": 1009,
+      "height": 1509
+    }
+  },
+  "sourcePdf": "/catalogs/double-medical/anty-f-series/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/anty-f-series/pages/001.webp",
+    "/catalogs/double-medical/anty-f-series/pages/002.webp"
+  ],
+  "sourcePageDimensions": {
+    "1": [
+      5111,
+      7166
+    ],
+    "2": [
+      5111,
+      7166
+    ]
+  },
+  "review": {
+    "sourceSha256": "b6bc9aa481910bd8d2963e5744991bf419a8c13fe8bb42ed5c3da4759cec007e",
+    "importMethod": "600-DPI two-setting Tesseract OCR; complete matrix visually transcribed and checked cell by cell, with Chinese header translations supplied by owner; page-2 callouts mapped onto native stem coordinates.",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "skippedSourcePages": [],
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "features.0.title.ru",
+      "features.0.text.ru",
+      "features.1.title.ru",
+      "features.1.text.ru",
+      "features.2.title.ru",
+      "features.2.text.ru",
+      "features.3.title.ru",
+      "features.3.text.ru",
+      "features.4.title.ru",
+      "features.4.text.ru",
+      "features.5.title.ru",
+      "features.5.text.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.columns.2.ru",
+      "specTables.0.columns.3.ru",
+      "specTables.0.columns.4.ru",
+      "specTables.0.columns.5.ru",
+      "specTables.0.columns.6.ru",
+      "specTables.0.columns.7.ru",
+      "specTables.0.columns.8.ru",
+      "specTables.0.columns.9.ru",
+      "specTables.0.columns.10.ru",
+      "specTables.0.columns.11.ru",
+      "specTables.0.columns.12.ru",
+      "specTables.0.headerRows.0.0.value.ru",
+      "specTables.0.headerRows.0.1.value.ru",
+      "specTables.0.headerRows.0.5.value.ru",
+      "specTables.0.headerRows.0.6.value.ru",
+      "specTables.0.headerRows.0.7.value.ru",
+      "specTables.0.headerRows.0.11.value.ru",
+      "specTables.0.headerRows.0.12.value.ru",
+      "specTables.0.legend.ru",
+      "catalogTitle.ru",
+      "referenceTables.0.title.ru",
+      "referenceTables.0.columns.0.ru",
+      "referenceTables.0.columns.1.ru",
+      "referenceTables.0.columns.2.ru",
+      "referenceTables.0.rows.0.0.ru",
+      "referenceTables.0.rows.0.2.ru",
+      "referenceTables.0.rows.1.0.ru",
+      "referenceTables.0.rows.1.2.ru",
+      "referenceTables.0.rows.2.0.ru",
+      "referenceTables.0.rows.2.2.ru",
+      "referenceTables.0.rows.3.0.ru",
+      "referenceTables.0.rows.3.2.ru",
+      "referenceTables.0.rows.4.0.ru",
+      "referenceTables.0.rows.4.2.ru",
+      "referenceTables.0.rows.5.0.ru",
+      "referenceTables.0.rows.5.2.ru",
+      "referenceTables.0.rows.6.0.ru",
+      "referenceTables.0.rows.6.2.ru",
+      "referenceTables.0.rows.7.0.ru",
+      "referenceTables.0.rows.7.2.ru",
+      "referenceTables.0.rows.8.0.ru",
+      "referenceTables.0.rows.8.2.ru",
+      "referenceTables.0.rows.9.0.ru",
+      "referenceTables.0.rows.9.2.ru",
+      "referenceTables.0.rows.10.0.ru",
+      "referenceTables.0.rows.10.2.ru",
+      "referenceTables.0.rows.11.0.ru",
+      "referenceTables.0.rows.11.2.ru",
+      "referenceTables.0.rows.12.0.ru",
+      "referenceTables.0.rows.12.2.ru",
+      "referenceTables.0.rows.13.0.ru",
+      "referenceTables.0.rows.13.2.ru",
+      "referenceTables.0.rows.14.0.ru",
+      "referenceTables.0.rows.14.2.ru",
+      "referenceTables.0.rows.15.0.ru",
+      "referenceTables.0.rows.15.2.ru",
+      "referenceTables.0.rows.16.0.ru",
+      "referenceTables.0.rows.16.2.ru",
+      "referenceTables.0.rows.17.0.ru",
+      "referenceTables.0.rows.17.2.ru",
+      "referenceTables.0.rows.18.0.ru",
+      "referenceTables.0.rows.18.2.ru",
+      "referenceTables.0.rows.19.0.ru",
+      "referenceTables.0.rows.19.2.ru",
+      "referenceTables.0.rows.20.0.ru",
+      "referenceTables.0.rows.20.2.ru",
+      "referenceTables.0.rows.21.0.ru",
+      "referenceTables.0.rows.21.2.ru",
+      "referenceTables.0.rows.22.0.ru",
+      "referenceTables.0.rows.22.2.ru",
+      "referenceTables.0.rows.23.0.ru",
+      "referenceTables.0.rows.23.2.ru",
+      "referenceTables.0.rows.24.0.ru",
+      "referenceTables.0.rows.24.2.ru",
+      "referenceTables.0.rows.25.0.ru",
+      "referenceTables.0.rows.25.2.ru",
+      "referenceTables.0.keyParameters.0.parameter.ru",
+      "referenceTables.0.keyParameters.0.value.ru",
+      "referenceTables.0.images.0.imageCaption.ru",
+      "catalogImports.0.catalogTitle.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publishedAt": "2026-11-18T22:01:04.307863+00:00",
+    "publicationReason": "Owner authorized publication with zero real flags after visual source verification.",
+    "headerTranslations": "Chinese source headers translated using the owner-supplied medical terminology.",
+    "symbolPolicy": "No source legend; owner-supplied availability clarification rendered exactly. No meanings inferred.",
+    "imageReview": "Hero, page-2 stem, six close-ups and technical drawing compared visually with source. Native originals and rembg candidates retained.",
+    "omittedContent": [
+      "Cover background and logos",
+      "Footer contacts"
+    ],
+    "missingSourceSizes": [
+      "11#"
+    ]
+  },
+  "referenceTables": [
+    {
+      "id": "joint-anty-f-series-p8-2",
+      "title": {
+        "ru": "Ревизионная бедренная ножка Anty F-series",
+        "en": "Anty F Series Revision Hip Stem"
+      },
+      "unit": "mm",
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Размер",
+          "en": "Size"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 1# 170ммx14ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 1# 170mmx14mmx135°"
+          },
+          "130890101S",
+          {
+            "ru": "1# 170ммx14ммx135°",
+            "en": "1# 170mmx14mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 2# 170ммx15ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 2# 170mmx15mmx135°"
+          },
+          "130890102S",
+          {
+            "ru": "2# 170ммx15ммx135°",
+            "en": "2# 170mmx15mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 3# 170ммx16ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 3# 170mmx16mmx135°"
+          },
+          "130890103S",
+          {
+            "ru": "3# 170ммx16ммx135°",
+            "en": "3# 170mmx16mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 4# 170ммx17ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 4# 170mmx17mmx135°"
+          },
+          "130890104S",
+          {
+            "ru": "4# 170ммx17ммx135°",
+            "en": "4# 170mmx17mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 5# 170ммx18ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 5# 170mmx18mmx135°"
+          },
+          "130890105S",
+          {
+            "ru": "5# 170ммx18ммx135°",
+            "en": "5# 170mmx18mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 6# 170ммx19ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 6# 170mmx19mmx135°"
+          },
+          "130890106S",
+          {
+            "ru": "6# 170ммx19ммx135°",
+            "en": "6# 170mmx19mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 7# 170ммx20ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 7# 170mmx20mmx135°"
+          },
+          "130890107S",
+          {
+            "ru": "7# 170ммx20ммx135°",
+            "en": "7# 170mmx20mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 1# 205ммx14ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 1# 205mmx14mmx135°"
+          },
+          "130890201S",
+          {
+            "ru": "1# 205ммx14ммx135°",
+            "en": "1# 205mmx14mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 2# 205ммx15ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 2# 205mmx15mmx135°"
+          },
+          "130890202S",
+          {
+            "ru": "2# 205ммx15ммx135°",
+            "en": "2# 205mmx15mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 3# 205ммx16ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 3# 205mmx16mmx135°"
+          },
+          "130890203S",
+          {
+            "ru": "3# 205ммx16ммx135°",
+            "en": "3# 205mmx16mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 4# 205ммx17ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 4# 205mmx17mmx135°"
+          },
+          "130890204S",
+          {
+            "ru": "4# 205ммx17ммx135°",
+            "en": "4# 205mmx17mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 5# 205ммx18ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 5# 205mmx18mmx135°"
+          },
+          "130890205S",
+          {
+            "ru": "5# 205ммx18ммx135°",
+            "en": "5# 205mmx18mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 6# 205ммx19ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 6# 205mmx19mmx135°"
+          },
+          "130890206S",
+          {
+            "ru": "6# 205ммx19ммx135°",
+            "en": "6# 205mmx19mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 7# 205ммx20ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 7# 205mmx20mmx135°"
+          },
+          "130890207S",
+          {
+            "ru": "7# 205ммx20ммx135°",
+            "en": "7# 205mmx20mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 8# 205ммx21ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 8# 205mmx21mmx135°"
+          },
+          "130890208S",
+          {
+            "ru": "8# 205ммx21ммx135°",
+            "en": "8# 205mmx21mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 9# 205ммx22ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 9# 205mmx22mmx135°"
+          },
+          "130890209S",
+          {
+            "ru": "9# 205ммx22ммx135°",
+            "en": "9# 205mmx22mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 1# 245ммx14ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 1# 245mmx14mmx135°"
+          },
+          "130890301S",
+          {
+            "ru": "1# 245ммx14ммx135°",
+            "en": "1# 245mmx14mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 2# 245ммx15ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 2# 245mmx15mmx135°"
+          },
+          "130890302S",
+          {
+            "ru": "2# 245ммx15ммx135°",
+            "en": "2# 245mmx15mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 3# 245ммx16ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 3# 245mmx16mmx135°"
+          },
+          "130890303S",
+          {
+            "ru": "3# 245ммx16ммx135°",
+            "en": "3# 245mmx16mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 4# 245ммx17ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 4# 245mmx17mmx135°"
+          },
+          "130890304S",
+          {
+            "ru": "4# 245ммx17ммx135°",
+            "en": "4# 245mmx17mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 5# 245ммx18ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 5# 245mmx18mmx135°"
+          },
+          "130890305S",
+          {
+            "ru": "5# 245ммx18ммx135°",
+            "en": "5# 245mmx18mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 6# 245ммx19ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 6# 245mmx19mmx135°"
+          },
+          "130890306S",
+          {
+            "ru": "6# 245ммx19ммx135°",
+            "en": "6# 245mmx19mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 7# 245мм×20мм×135°",
+            "en": "Anty F Series Revision Hip Stem · 7# 245mm×20mm×135°"
+          },
+          "130890307S",
+          {
+            "ru": "7# 245мм×20мм×135°",
+            "en": "7# 245mm×20mm×135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 8# 245ммx21ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 8# 245mmx21mmx135°"
+          },
+          "130890308S",
+          {
+            "ru": "8# 245ммx21ммx135°",
+            "en": "8# 245mmx21mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 9# 245ммx22ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 9# 245mmx22mmx135°"
+          },
+          "130890309S",
+          {
+            "ru": "9# 245ммx22ммx135°",
+            "en": "9# 245mmx22mmx135°"
+          }
+        ],
+        [
+          {
+            "ru": "Ревизионная бедренная ножка Anty F-series · 10# 245ммx23ммx135°",
+            "en": "Anty F Series Revision Hip Stem · 10# 245mmx23mmx135°"
+          },
+          "130890310S",
+          {
+            "ru": "10# 245ммx23ммx135°",
+            "en": "10# 245mmx23mmx135°"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.5284680101741343,
+            0.6,
+            0.5372725494032479
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 1,
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "text": "130890101S",
+                  "line": "130890101S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.14052952892649265,
+                    0.5276162793184614,
+                    0.23625254655212244,
+                    0.5377906975710735
+                  ],
+                  "cy": 0.5327034884447674
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "130890101S",
+                  "line": "130890101S",
+                  "confidence": 83.479935,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.5284680101741343,
+                    0.23526185906224295,
+                    0.5372725494032479
+                  ],
+                  "cy": 0.5328702797886911
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890101S",
+                  "line": "130890101S",
+                  "confidence": 83.479935,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.5284680101741343,
+                    0.23526185906224295,
+                    0.5372725494032479
+                  ],
+                  "cy": 0.5328702797886911
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "1# 170mmx14mmx135°",
+            "PSM11": "14 170mmx14mmx135°",
+            "Vision": "1# 170mm×14mmx135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.5284680101741343,
+            0.6,
+            0.5372725494032479
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.5413813343768343,
+            0.6,
+            0.550185873605948
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 2,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130890102S",
+                  "line": "130890102S",
+                  "confidence": 90.083496,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.5413813343768343,
+                    0.23526185906224295,
+                    0.550185873605948
+                  ],
+                  "cy": 0.5457836039913911
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890102S",
+                  "line": "130890102S",
+                  "confidence": 90.083496,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.5413813343768343,
+                    0.23526185906224295,
+                    0.550185873605948
+                  ],
+                  "cy": 0.5457836039913911
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890102S",
+                  "line": "130890102S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.14052953650942415,
+                    0.5406976744250506,
+                    0.23625254353130892,
+                    0.5508720926776626
+                  ],
+                  "cy": 0.5457848835513566
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "2# 170mmx15mmx135°",
+            "PSM11": "2# 170mmx15mmx135°",
+            "Vision": "2#170mm×15mmx135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.5413813343768343,
+            0.6,
+            0.550185873605948
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.5542946585795343,
+            0.6,
+            0.563099197808648
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 3,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130890103S",
+                  "line": "130890103S",
+                  "confidence": 88.359833,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.5542946585795343,
+                    0.23526185906224295,
+                    0.563099197808648
+                  ],
+                  "cy": 0.5586969281940912
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890103S",
+                  "line": "130890103S",
+                  "confidence": 88.359833,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.5542946585795343,
+                    0.23526185906224295,
+                    0.563099197808648
+                  ],
+                  "cy": 0.5586969281940912
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890103S",
+                  "line": "130890103S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.14052952892649265,
+                    0.5537790700161358,
+                    0.23625254655212244,
+                    0.5639534882687477
+                  ],
+                  "cy": 0.5588662791424417
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "3# 170mmx16mmx135°",
+            "PSM11": "3# 170mmx16mmx135°",
+            "Vision": "3# 170mm×16mm×135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.5542946585795343,
+            0.6,
+            0.563099197808648
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.5672079827822344,
+            0.6,
+            0.5760125220113481
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 4,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130890104S",
+                  "line": "130890104S",
+                  "confidence": 88.790878,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.5672079827822344,
+                    0.23526185906224295,
+                    0.5760125220113481
+                  ],
+                  "cy": 0.5716102523967912
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890104S",
+                  "line": "130890104S",
+                  "confidence": 88.790878,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.5672079827822344,
+                    0.23526185906224295,
+                    0.5760125220113481
+                  ],
+                  "cy": 0.5716102523967912
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890104S",
+                  "line": "130890104S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.14052952892649265,
+                    0.5668604653649731,
+                    0.23625254655212244,
+                    0.577034883617585
+                  ],
+                  "cy": 0.571947674491279
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "4# 170mmx17mmx135°",
+            "PSM11": "4# 170mmx17mmx135°",
+            "Vision": "4#170mm×17mmx135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.5672079827822344,
+            0.6,
+            0.5760125220113481
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.5801213069849345,
+            0.6,
+            0.5891215026413618
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 5,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130890105S",
+                  "line": "130890105S",
+                  "confidence": 91.620926,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.5801213069849345,
+                    0.23526185906224295,
+                    0.5891215026413618
+                  ],
+                  "cy": 0.5846214048131482
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890105S",
+                  "line": "130890105S",
+                  "confidence": 91.620926,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.5801213069849345,
+                    0.23526185906224295,
+                    0.5891215026413618
+                  ],
+                  "cy": 0.5846214048131482
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890105S",
+                  "line": "130890105S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.14052952892649265,
+                    0.5799418607138103,
+                    0.23625254655212244,
+                    0.5901162789664222
+                  ],
+                  "cy": 0.5850290698401162
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "5# 170mmx18mmx135°",
+            "PSM11": "5# 170mmx18mmx135°",
+            "Vision": "5# 170mm×18mm×135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.5801213069849345,
+            0.6,
+            0.5891215026413618
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.5932302876149481,
+            0.6,
+            0.6018391704167482
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 6,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130890106S",
+                  "line": "130890106S",
+                  "confidence": 80.379585,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.5932302876149481,
+                    0.23526185906224295,
+                    0.6018391704167482
+                  ],
+                  "cy": 0.5975347290158481
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890106S",
+                  "line": "130890106S",
+                  "confidence": 80.379585,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.5932302876149481,
+                    0.23526185906224295,
+                    0.6018391704167482
+                  ],
+                  "cy": 0.5975347290158481
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890106S",
+                  "line": "130890106S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.14052952908603103,
+                    0.5930232560505352,
+                    0.23625254671166082,
+                    0.6031976743031471
+                  ],
+                  "cy": 0.5981104651768412
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "6# 170mmx19mmx135°",
+            "PSM11": "6# 170mmx19mmMmx135°",
+            "Vision": "6#170mm×19mm×135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.5932302876149481,
+            0.6,
+            0.6018391704167482
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.6059479553903345,
+            0.6,
+            0.6149481510467619
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 7,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130890107S",
+                  "line": "130890107S",
+                  "confidence": 85.523567,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.6059479553903345,
+                    0.23526185906224295,
+                    0.6149481510467619
+                  ],
+                  "cy": 0.6104480532185482
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890107S",
+                  "line": "130890107S",
+                  "confidence": 85.523567,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.6059479553903345,
+                    0.23526185906224295,
+                    0.6149481510467619
+                  ],
+                  "cy": 0.6104480532185482
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890107S",
+                  "line": "130890107S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.14052952908603103,
+                    0.6061046513993724,
+                    0.23625254671166082,
+                    0.6162790696519844
+                  ],
+                  "cy": 0.6111918605256784
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "7# 170mmx20mmx135°",
+            "PSM11": "T# 170mmx20mmx135°",
+            "Vision": "7#170mm×20mm×135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.6059479553903345,
+            0.6,
+            0.6149481510467619
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.6190569360203483,
+            0.6,
+            0.6278614752494619
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 8,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130890201S",
+                  "line": "130890201S",
+                  "confidence": 83.223015,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.6190569360203483,
+                    0.23526185906224295,
+                    0.6278614752494619
+                  ],
+                  "cy": 0.6234592056349051
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890201S",
+                  "line": "130890201S",
+                  "confidence": 83.223015,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.6190569360203483,
+                    0.23526185906224295,
+                    0.6278614752494619
+                  ],
+                  "cy": 0.6234592056349051
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890201S",
+                  "line": "130890201S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1384502944427955,
+                    0.617568502523768,
+                    0.2362951214439682,
+                    0.6309780092307324
+                  ],
+                  "cy": 0.6242732558772502
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "14 205mmx14mmx135°",
+            "PSM11": "1# 205mmx14mmx135°",
+            "Vision": "1# 205mm×14mmx135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.6190569360203483,
+            0.6,
+            0.6278614752494619
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.6319702602230484,
+            0.6,
+            0.640774799452162
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 9,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130890202S",
+                  "line": "130890202S",
+                  "confidence": 88.943001,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.6319702602230484,
+                    0.23526185906224295,
+                    0.640774799452162
+                  ],
+                  "cy": 0.6363725298376052
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890202S",
+                  "line": "130890202S",
+                  "confidence": 88.943001,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.6319702602230484,
+                    0.23526185906224295,
+                    0.640774799452162
+                  ],
+                  "cy": 0.6363725298376052
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890202S",
+                  "line": "130890202S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.14052953386176642,
+                    0.6322674422060583,
+                    0.2362525408836512,
+                    0.6424418604586702
+                  ],
+                  "cy": 0.6373546513323642
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "2# 205mmx15mm*x135°",
+            "PSM11": "2# 205mmx15mmx135°",
+            "Vision": "2# 205mm×15mm×135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.6319702602230484,
+            0.6,
+            0.640774799452162
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.6448835844257483,
+            0.6,
+            0.6536881236548621
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 10,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130890203S",
+                  "line": "130890203S",
+                  "confidence": 83.163109,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.6448835844257483,
+                    0.23526185906224295,
+                    0.6536881236548621
+                  ],
+                  "cy": 0.6492858540403053
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890203S",
+                  "line": "130890203S",
+                  "confidence": 83.163109,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.6448835844257483,
+                    0.23526185906224295,
+                    0.6536881236548621
+                  ],
+                  "cy": 0.6492858540403053
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890203S",
+                  "line": "130890203S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13847284330632934,
+                    0.6438186670064883,
+                    0.23627257257999487,
+                    0.6570534261404479
+                  ],
+                  "cy": 0.6504360465734681
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "3# 205mmx16mmx135°",
+            "PSM11": "3# 205mmx16mmx135°",
+            "Vision": "3# 205mmx16mmx135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.6448835844257483,
+            0.6,
+            0.6536881236548621
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.6577969086284484,
+            0.6,
+            0.6666014478575621
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 11,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130890204S",
+                  "line": "130890204S",
+                  "confidence": 82.37587,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.6577969086284484,
+                    0.23526185906224295,
+                    0.6666014478575621
+                  ],
+                  "cy": 0.6621991782430052
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890204S",
+                  "line": "130890204S",
+                  "confidence": 82.37587,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.6577969086284484,
+                    0.23526185906224295,
+                    0.6666014478575621
+                  ],
+                  "cy": 0.6621991782430052
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890204S",
+                  "line": "130890204S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13842413168554143,
+                    0.656709837077913,
+                    0.23632128816831485,
+                    0.670325046982841
+                  ],
+                  "cy": 0.663517442030377
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "4# 205mmx17mmx135°",
+            "PSM11": "4# 205mmx17mmx135°",
+            "Vision": "4# 205mmx17mmx135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.6577969086284484,
+            0.6,
+            0.6666014478575621
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.6707102328311485,
+            0.6,
+            0.6795147720602622
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 12,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130890205S",
+                  "line": "130890205S",
+                  "confidence": 85.088211,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.6707102328311485,
+                    0.23526185906224295,
+                    0.6795147720602622
+                  ],
+                  "cy": 0.6751125024457054
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890205S",
+                  "line": "130890205S",
+                  "confidence": 85.088211,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.6707102328311485,
+                    0.23526185906224295,
+                    0.6795147720602622
+                  ],
+                  "cy": 0.6751125024457054
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890205S",
+                  "line": "130890205S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13849287540978347,
+                    0.6700581395282167,
+                    0.23625254373481933,
+                    0.6816860463729462
+                  ],
+                  "cy": 0.6758720929505815
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "5# 205mmx18mmx135°",
+            "PSM11": "5# 205mmx18mmx135°",
+            "Vision": "5#205mmx18mmx135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.6707102328311485,
+            0.6,
+            0.6795147720602622
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.6836235570338486,
+            0.6,
+            0.6924280962629622
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 13,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130890206S",
+                  "line": "130890206S",
+                  "confidence": 91.411125,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.6836235570338486,
+                    0.23526185906224295,
+                    0.6924280962629622
+                  ],
+                  "cy": 0.6880258266484054
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890206S",
+                  "line": "130890206S",
+                  "confidence": 91.411125,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.6836235570338486,
+                    0.23526185906224295,
+                    0.6924280962629622
+                  ],
+                  "cy": 0.6880258266484054
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890206S",
+                  "line": "130890206S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1384688950402278,
+                    0.6815941667917136,
+                    0.23627652410392222,
+                    0.6948593214561922
+                  ],
+                  "cy": 0.6882267441239529
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "6# 205mmx19mmx135°",
+            "PSM11": "6# 205mmx19mmx135°",
+            "Vision": "6# 205mm×19mmx135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.6836235570338486,
+            0.6,
+            0.6924280962629622
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.6965368812365487,
+            0.6,
+            0.7053414204656623
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 14,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "1308902078",
+                  "line": "1308902078",
+                  "confidence": 0.0,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.6965368812365487,
+                    0.23526185906224295,
+                    0.7053414204656623
+                  ],
+                  "cy": 0.7009391508511055
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "1308902078",
+                  "line": "1308902078",
+                  "confidence": 0.0,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.6965368812365487,
+                    0.23526185906224295,
+                    0.7053414204656623
+                  ],
+                  "cy": 0.7009391508511055
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890207S",
+                  "line": "130890207S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13849286939291341,
+                    0.6962209303109356,
+                    0.23625254832169423,
+                    0.707848837155665
+                  ],
+                  "cy": 0.7020348837333004
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "7# 205mmx20mmx135°",
+            "PSM11": "7T# 205mmx20mmx135°",
+            "Vision": "7# 205mm×20mmx135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.6965368812365487,
+            0.6,
+            0.7053414204656623
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.7094502054392486,
+            0.6,
+            0.7182547446683624
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 15,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130890208S",
+                  "line": "130890208S",
+                  "confidence": 90.073387,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.7094502054392486,
+                    0.23526185906224295,
+                    0.7182547446683624
+                  ],
+                  "cy": 0.7138524750538056
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890208S",
+                  "line": "130890208S",
+                  "confidence": 90.073387,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.7094502054392486,
+                    0.23526185906224295,
+                    0.7182547446683624
+                  ],
+                  "cy": 0.7138524750538056
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890208S",
+                  "line": "130890208S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1364562130474137,
+                    0.7078488370344834,
+                    0.23625254267560059,
+                    0.7209302324713305
+                  ],
+                  "cy": 0.714389534752907
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "8# 205mmx21mmx135°",
+            "PSM11": "8# 205mmx21mmx135°",
+            "Vision": "8# 205mmx21mmx135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.7094502054392486,
+            0.6,
+            0.7182547446683624
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.7223635296419487,
+            0.6,
+            0.7311680688710624
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 16,
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "text": "130890209S",
+                  "line": "130890209S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.14048698666698473,
+                    0.7207490956769387,
+                    0.23629508874253632,
+                    0.7327392767142966
+                  ],
+                  "cy": 0.7267441861956176
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "130890209S",
+                  "line": "130890209S",
+                  "confidence": 91.90519,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.7223635296419487,
+                    0.23526185906224295,
+                    0.7311680688710624
+                  ],
+                  "cy": 0.7267657992565055
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890209S",
+                  "line": "130890209S",
+                  "confidence": 91.90519,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.7223635296419487,
+                    0.23526185906224295,
+                    0.7311680688710624
+                  ],
+                  "cy": 0.7267657992565055
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "9# 205mmx22mmx135°",
+            "PSM11": "9# 205mmx22mmx135°",
+            "Vision": "9#205mmx22mmx135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.7223635296419487,
+            0.6,
+            0.7311680688710624
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.7352768538446488,
+            0.6,
+            0.7442770495010761
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 17,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130890301S",
+                  "line": "130890301S",
+                  "confidence": 84.875313,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.7352768538446488,
+                    0.23526185906224295,
+                    0.7442770495010761
+                  ],
+                  "cy": 0.7397769516728625
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890301S",
+                  "line": "130890301S",
+                  "confidence": 84.875313,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.7352768538446488,
+                    0.23526185906224295,
+                    0.7442770495010761
+                  ],
+                  "cy": 0.7397769516728625
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890301S",
+                  "line": "130890301S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13849287529340293,
+                    0.7340116277902973,
+                    0.23625254361843875,
+                    0.7470930232271443
+                  ],
+                  "cy": 0.7405523255087207
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "1# 245mmx14mmx135°",
+            "PSM11": "1# 245mmx14mmx135°",
+            "Vision": "1# 245mmx14mmx135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.7352768538446488,
+            0.6,
+            0.7442770495010761
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.7483858344746624,
+            0.6,
+            0.7569947172764625
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 18,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "1308903028",
+                  "line": "1308903028",
+                  "confidence": 0.0,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.7483858344746624,
+                    0.23526185906224295,
+                    0.7569947172764625
+                  ],
+                  "cy": 0.7526902758755625
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "1308903028",
+                  "line": "1308903028",
+                  "confidence": 0.0,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.7483858344746624,
+                    0.23526185906224295,
+                    0.7569947172764625
+                  ],
+                  "cy": 0.7526902758755625
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890302S",
+                  "line": "130890302S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1384928699040894,
+                    0.7485465117931026,
+                    0.23421588752971917,
+                    0.7587209300457145
+                  ],
+                  "cy": 0.7536337209194086
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "24 245mmx15mmx135°",
+            "PSM11": "2# 245mmx15mmx135°",
+            "Vision": "2# 245mmx15mmx135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.7483858344746624,
+            0.6,
+            0.7569947172764625
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.761103502250049,
+            0.6,
+            0.7701036979064763
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 19,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130890303S",
+                  "line": "130890303S",
+                  "confidence": 90.021866,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.761103502250049,
+                    0.23526185906224295,
+                    0.7701036979064763
+                  ],
+                  "cy": 0.7656036000782627
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890303S",
+                  "line": "130890303S",
+                  "confidence": 85.80883,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.761103502250049,
+                    0.23526185906224295,
+                    0.7701036979064763
+                  ],
+                  "cy": 0.7656036000782627
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890303S",
+                  "line": "130890303S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1384928699040894,
+                    0.7616279067804458,
+                    0.23421588752971917,
+                    0.7703488373870456
+                  ],
+                  "cy": 0.7659883720837457
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "3# 245mmx16mmx135°",
+            "PSM11": "3# 245mmx16mmx135°",
+            "Vision": "3# 245mmx16mmx135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.761103502250049,
+            0.6,
+            0.7701036979064763
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.7742124828800626,
+            0.6,
+            0.7830170221091763
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 20,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130890304S",
+                  "line": "130890304S",
+                  "confidence": 81.652016,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.7742124828800626,
+                    0.23526185906224295,
+                    0.7830170221091763
+                  ],
+                  "cy": 0.7786147524946194
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890304S",
+                  "line": "130890304S",
+                  "confidence": 81.652016,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.7742124828800626,
+                    0.23526185906224295,
+                    0.7830170221091763
+                  ],
+                  "cy": 0.7786147524946194
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890304S",
+                  "line": "130890304S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13849287330523502,
+                    0.7732558142132941,
+                    0.23625254163027085,
+                    0.7848837210580236
+                  ],
+                  "cy": 0.7790697676356588
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "4# 245mmx17mmx135°",
+            "PSM11": "4# 245mmx17mmx135°",
+            "Vision": "4#245mm×17mmx135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.7742124828800626,
+            0.6,
+            0.7830170221091763
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.7871258070827627,
+            0.6,
+            0.7959303463118763
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 21,
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "text": "130890305S",
+                  "line": "130890305S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1364562130474137,
+                    0.7848837207554137,
+                    0.23625254267560059,
+                    0.7979651161922606
+                  ],
+                  "cy": 0.7914244184738372
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "130890305S",
+                  "line": "130890305S",
+                  "confidence": 90.954048,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.7871258070827627,
+                    0.23526185906224295,
+                    0.7959303463118763
+                  ],
+                  "cy": 0.7915280766973195
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890305S",
+                  "line": "130890305S",
+                  "confidence": 84.982208,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.7871258070827627,
+                    0.23526185906224295,
+                    0.7959303463118763
+                  ],
+                  "cy": 0.7915280766973195
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "5# 245mmx18mmx135°",
+            "PSM11": "5# 245mmx18mmx135°",
+            "Vision": "5# 245mmx18mmx135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.7871258070827627,
+            0.6,
+            0.7959303463118763
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.8000391312854628,
+            0.6,
+            0.8088436705145764
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 22,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130890306S",
+                  "line": "130890306S",
+                  "confidence": 92.14061,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.8000391312854628,
+                    0.23526185906224295,
+                    0.8088436705145764
+                  ],
+                  "cy": 0.8044414009000196
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890306S",
+                  "line": "130890306S",
+                  "confidence": 91.510986,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.8000391312854628,
+                    0.23526185906224295,
+                    0.8088436705145764
+                  ],
+                  "cy": 0.8044414009000196
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890306S",
+                  "line": "130890306S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13840872250257272,
+                    0.79767116650829,
+                    0.23633669346833128,
+                    0.8127939500707837
+                  ],
+                  "cy": 0.8052325582895368
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "6# 245mmx19mmx135°",
+            "PSM11": "6# 245mmx19mmx135°",
+            "Vision": "6#245mm×19mmx135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.8000391312854628,
+            0.6,
+            0.8088436705145764
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.8129524554881628,
+            0.6,
+            0.8217569947172765
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 23,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130890307S",
+                  "line": "130890307S",
+                  "confidence": 68.699135,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.8129524554881628,
+                    0.23526185906224295,
+                    0.8217569947172765
+                  ],
+                  "cy": 0.8173547251027196
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890307S",
+                  "line": "130890307S",
+                  "confidence": 68.699135,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.8129524554881628,
+                    0.23526185906224295,
+                    0.8217569947172765
+                  ],
+                  "cy": 0.8173547251027196
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890307S",
+                  "line": "130890307S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13637261312011884,
+                    0.8107134776025967,
+                    0.2363361425995479,
+                    0.8244609407532266
+                  ],
+                  "cy": 0.8175872091779117
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "7# 245mmx20mm*135°",
+            "PSM11": "T# 245mmx20mmx135°",
+            "Vision": "7#245mm×20mmx135°"
+          },
+          "itemVerification": "verified (Codex visual 600-DPI row)",
+          "bounds": [
+            0.1420345489443378,
+            0.8129524554881628,
+            0.6,
+            0.8217569947172765
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.8258657796908628,
+            0.6,
+            0.8346703189199766
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 24,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130890308S",
+                  "line": "130890308S",
+                  "confidence": 87.541344,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.8258657796908628,
+                    0.23526185906224295,
+                    0.8346703189199766
+                  ],
+                  "cy": 0.8302680493054198
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890308S",
+                  "line": "130890308S",
+                  "confidence": 87.541344,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.8258657796908628,
+                    0.23526185906224295,
+                    0.8346703189199766
+                  ],
+                  "cy": 0.8302680493054198
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890308S",
+                  "line": "130890308S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1384504709166423,
+                    0.8239645423527199,
+                    0.23629494799422984,
+                    0.8373726667995888
+                  ],
+                  "cy": 0.8306686045761543
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "8# 245mmx21mmx135°",
+            "PSM11": "8# 245mmx21mmx135°",
+            "Vision": "8# 245mm×21mmx135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.8258657796908628,
+            0.6,
+            0.8346703189199766
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.8387791038935629,
+            0.6,
+            0.8475836431226765
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 25,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130890309S",
+                  "line": "130890309S",
+                  "confidence": 89.610748,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.8387791038935629,
+                    0.23526185906224295,
+                    0.8475836431226765
+                  ],
+                  "cy": 0.8431813735081197
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890309S",
+                  "line": "130890309S",
+                  "confidence": 89.610748,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.8387791038935629,
+                    0.23526185906224295,
+                    0.8475836431226765
+                  ],
+                  "cy": 0.8431813735081197
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890309S",
+                  "line": "130890309S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1363760222242063,
+                    0.8368901779426619,
+                    0.23633273349559702,
+                    0.8506098218079746
+                  ],
+                  "cy": 0.8437499998753182
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "9# 245mmx22mmx135°",
+            "PSM11": "O# 245mmx22mmx135°",
+            "Vision": "9#245mmx22mmx135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.8387791038935629,
+            0.6,
+            0.8475836431226765
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 8,
+          "sourceBounds": [
+            0.1420345489443378,
+            0.851692428096263,
+            0.6,
+            0.8604969673253766
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-anty-f-series-p8-2",
+              "row": 26,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130890310S",
+                  "line": "130890310S",
+                  "confidence": 91.179108,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.851692428096263,
+                    0.23526185906224295,
+                    0.8604969673253766
+                  ],
+                  "cy": 0.8560946977108198
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130890310S",
+                  "line": "130890310S",
+                  "confidence": 91.179108,
+                  "bounds": [
+                    0.1420345489443378,
+                    0.851692428096263,
+                    0.23526185906224295,
+                    0.8604969673253766
+                  ],
+                  "cy": 0.8560946977108198
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130890310S",
+                  "line": "130890310S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13843687691664963,
+                    0.8500740966469865,
+                    0.2363085419964305,
+                    0.8635886939115337
+                  ],
+                  "cy": 0.8568313952792601
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "10# 245mmx23mmx135°",
+            "PSM11": "10# 245mmx23mmx135°",
+            "Vision": "10# 245mmx23mmx135°"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1420345489443378,
+            0.851692428096263,
+            0.6,
+            0.8604969673253766
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "keyParameters": [
+        {
+          "parameter": {
+            "ru": "Материал",
+            "en": "Material"
+          },
+          "value": {
+            "ru": "Ti6Al4V",
+            "en": "Ti6Al4V"
+          }
+        }
+      ],
+      "sourcePages": [
+        8
+      ],
+      "sourcePdf": "/catalogs/double-medical/joint-catalogue/source.pdf",
+      "hideDescriptionColumn": true,
+      "images": [
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-008-xref-121.webp",
+          "width": 384,
+          "height": 1099,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              873,
+              553
+            ],
+            "enhancedSize": [
+              1746,
+              1106
+            ]
+          },
+          "sourcePages": [
+            8
+          ],
+          "imageCaption": {
+            "ru": "Ревизионная бедренная ножка Anty F-series",
+            "en": "Anty F Series Revision Hip Stem"
+          }
+        }
+      ]
+    }
+  ],
+  "catalogImports": [
+    {
+      "sourceSha256": "049dc47f4db1409b0ab7b002cc1e8beaaf86705c6ae23efac7eff3832b23e1e5",
+      "sourcePdf": "/catalogs/double-medical/joint-catalogue/source.pdf",
+      "catalogTitle": {
+        "ru": "Double Medical Joint Catalogue — каталог продукции",
+        "en": "Double Medical Joint Catalogue"
+      },
+      "sourcePages": [
+        8
+      ],
+      "documentCover": "/catalogs/double-medical/joint-catalogue/pages/001.webp",
+      "review": {
+        "flags": [],
+        "status": "verified"
+      }
+    }
+  ]
+}

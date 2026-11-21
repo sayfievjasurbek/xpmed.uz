@@ -1,0 +1,254 @@
+[
+  {
+    "catalog": "CONMED Advanced Surgical Product Catalog",
+    "page": 36,
+    "printed": "6 (15m)",
+    "used": "6″ (15 cm)",
+    "reason": "Owner verified typo against next source row, which prints 6 (15cm).",
+    "needsConfirmation": false,
+    "source": "reports/conmed/advanced-surgical-product-catalog/report.json"
+  },
+  {
+    "catalog": "CONMED Advanced Visualization System",
+    "page": 8,
+    "printed": "ELG Adapter A cml",
+    "used": "ELG ACMI Adapter",
+    "reason": "Explicit catalog-owner correction",
+    "needsConfirmation": false,
+    "source": "reports/conmed/flag-audit/report.json"
+  },
+  {
+    "catalog": "CONMED Advanced Visualization System",
+    "page": 9,
+    "printed": "T490",
+    "used": "T4907",
+    "reason": "Source PDF typo on page 9 (printed T490), corrected from page 10 and conmed.com",
+    "needsConfirmation": false,
+    "source": "reports/conmed/verification-600/user-corrections.json"
+  },
+  {
+    "catalog": "CONMED Advanced Visualization System",
+    "page": 13,
+    "printed": "Inner-cannula REF absent; 83234 printed under Inflow Adapter",
+    "used": "— (inner cannula); 83234 remains inflow adapter",
+    "reason": "The source and official CONMED catalog omit the inner-cannula REF.",
+    "needsConfirmation": true,
+    "source": "reports/conmed/flag-audit/report.json"
+  },
+  {
+    "catalog": "CONMED Arthroscopy Product Catalog",
+    "page": 16,
+    "printed": "Y1802",
+    "used": "Y1802A",
+    "reason": "p.16 Y1802 → Y1802A (blue suture), confirm with XPMED sales",
+    "needsConfirmation": true,
+    "source": "reports/conmed/arthroscopy-product-catalog/source-catalog-corrections.json"
+  },
+  {
+    "catalog": "CONMED Arthroscopy Product Catalog",
+    "page": 94,
+    "printed": "EL9299U* / EL9299D**",
+    "used": "EL9299U / EL9299D",
+    "reason": "p.94 missing footnote: * / ** are footnote markers, not part of the catalog numbers. Add a legend for EL9299U (concave) and EL9299D (convex); no footnote was printed.",
+    "needsConfirmation": false,
+    "source": "reports/conmed/arthroscopy-product-catalog/source-catalog-corrections.json"
+  },
+  {
+    "catalog": "CONMED HALL Powered Instruments",
+    "page": 59,
+    "printed": "Image inscription 5059-07; ordering line 5059-007",
+    "used": "5059-007",
+    "reason": "Order-line code retained; image inscription is not an extra ordering item.",
+    "needsConfirmation": false,
+    "source": "reports/conmed/hall-powered-instruments/source-catalog-corrections.json"
+  },
+  {
+    "catalog": "Double Medical Joint Catalogue",
+    "page": 13,
+    "printed": "REF (Ti coating) header",
+    "used": "UHMWPE liner; coating label removed",
+    "reason": "p.13 Amity A Series Acetabular Liner: remove copied REF(Ti coating) header; material is UHMWPE.",
+    "needsConfirmation": false,
+    "source": "reports/double-medical/joint-catalogue.json"
+  },
+  {
+    "catalog": "Double Medical Joint Catalogue",
+    "page": 34,
+    "printed": "107mm×6.7m",
+    "used": "107 mm × 6.7 mm",
+    "reason": "p.34 REF 13Y010001S: 107mm×6.7m → 107 mm × 6.7 mm",
+    "needsConfirmation": false,
+    "source": "reports/double-medical/joint-catalogue.json"
+  },
+  {
+    "catalog": "Double Medical Joint Catalogue",
+    "page": 36,
+    "printed": "5 (fourth row)",
+    "used": "15 mm",
+    "reason": "p.36 REF 13Y081015S: Reverse Humeral Stem Adapter Tray fourth row 5 → 15 mm",
+    "needsConfirmation": false,
+    "source": "reports/double-medical/joint-catalogue.json"
+  },
+  {
+    "catalog": "Double Medical Joint Catalogue",
+    "page": 59,
+    "printed": "11516140",
+    "used": "—",
+    "reason": "p.59 REF 11516140 has 8 digits, probably 115161400, confirm with Double Medical",
+    "needsConfirmation": true,
+    "source": "reports/double-medical/joint-catalogue.json"
+  },
+  {
+    "catalog": "Double Medical Joint Catalogue",
+    "page": 82,
+    "printed": "Two REF lines per trial-liner size",
+    "used": "Six size rows, each retaining both printed REFs",
+    "reason": "p.82 merge each two-line Apollo 10° Trial Liner item into one size row, retaining both printed REF codes in order; six sizes Ø62/36, Ø64/36, Ø66/36, Ø68/36, Ø70/36, Ø72/36. Two catalog numbers per size; confirm with sales.",
+    "needsConfirmation": true,
+    "source": "reports/double-medical/joint-catalogue.json"
+  },
+  {
+    "catalog": "Double Medical Spine Catalogue — implants",
+    "page": 96,
+    "printed": "Ø5.5 mm (REF 085965045)",
+    "used": "Ø5.0 mm",
+    "reason": "PDF p.96: REF 085965045 diameter corrected to 5.0 mm under explicit owner source review; REF unchanged.",
+    "needsConfirmation": false,
+    "source": "reports/double-medical/spine-catalogue.json"
+  },
+  {
+    "catalog": "Double Medical Spine Catalogue — implants",
+    "page": 101,
+    "printed": "Ø5.5 mm (REF 085975045)",
+    "used": "Ø5.0 mm",
+    "reason": "PDF p.101: REF 085975045 diameter corrected to 5.0 mm under explicit owner source review; REF unchanged.",
+    "needsConfirmation": false,
+    "source": "reports/double-medical/spine-catalogue.json"
+  },
+  {
+    "catalog": "Double Medical Spine Catalogue — implants",
+    "page": 106,
+    "printed": "Ø5.5 mm (REF 085985045)",
+    "used": "Ø5.0 mm",
+    "reason": "PDF p.106: REF 085985045 diameter corrected to 5.0 mm under explicit owner source review; REF unchanged.",
+    "needsConfirmation": false,
+    "source": "reports/double-medical/spine-catalogue.json"
+  },
+  {
+    "catalog": "Double Medical Spine Catalogue — implants",
+    "page": 106,
+    "printed": "Ø6.5 mm (REF 085987030)",
+    "used": "Ø7.0 mm",
+    "reason": "PDF p.106: REF 085987030 diameter corrected to 7.0 mm under explicit owner source review; REF unchanged.",
+    "needsConfirmation": false,
+    "source": "reports/double-medical/spine-catalogue.json"
+  },
+  {
+    "catalog": "Double Medical Spine Catalogue — implants",
+    "page": 110,
+    "printed": "Ø5.5 mm (REF 085995045)",
+    "used": "Ø5.0 mm",
+    "reason": "PDF p.110: REF 085995045 diameter corrected to 5.0 mm under explicit owner source review; REF unchanged.",
+    "needsConfirmation": false,
+    "source": "reports/double-medical/spine-catalogue.json"
+  },
+  {
+    "catalog": "Double Medical Spine Catalogue — implants",
+    "page": 188,
+    "printed": "091271010 printed for 10×10 and 10×12",
+    "used": "091271010 for 10×10; — for 10×12",
+    "reason": "PDF p.188: retain 091271010 for width 10 / height 10. Withhold the duplicated REF for width 10 / height 12; probably 091271012 by pattern, but not confirmed and never used. Confirm with Double Medical.",
+    "needsConfirmation": true,
+    "source": "reports/double-medical/spine-catalogue.json"
+  },
+  {
+    "catalog": "Double Medical Spine Catalogue — instruments",
+    "page": 214,
+    "printed": "Holding Sleeve for Torque Indicating",
+    "used": "Holding Sleeve for Torque Indicating…",
+    "reason": "Full phrase Holding Sleeve for Torque Indicating Handle not found elsewhere in catalog; owner-authorized ellipsis retained rather than inferred completion.",
+    "needsConfirmation": true,
+    "source": "reports/double-medical/spine-catalogue-instruments/source-catalog-corrections.json"
+  },
+  {
+    "catalog": "Double Medical Spine Catalogue — instruments",
+    "page": 214,
+    "printed": "Plate Holder with mismatched photo (REF 113290100)",
+    "used": "Printed name and REF; photo removed",
+    "reason": "Removed mismatched source photo from table and gallery; REF and printed name preserved. No replacement with both matching REF and instrument identity found.",
+    "needsConfirmation": true,
+    "source": "reports/double-medical/spine-catalogue-instruments/source-catalog-corrections.json"
+  },
+  {
+    "catalog": "Double Medical Spine Catalogue — instruments",
+    "page": 214,
+    "printed": "Pre-fixation Pin with mismatched photo (REF 113290300)",
+    "used": "Printed name and REF; photo removed",
+    "reason": "Removed mismatched source photo from table and gallery; REF and printed name preserved. No replacement with both matching REF and instrument identity found.",
+    "needsConfirmation": true,
+    "source": "reports/double-medical/spine-catalogue-instruments/source-catalog-corrections.json"
+  },
+  {
+    "catalog": "Double Medical Spine Catalogue — instruments",
+    "page": 214,
+    "printed": "Screwdriver, 1.5 N.m with mismatched photo (REF 110477900)",
+    "used": "Printed name and REF; photo removed",
+    "reason": "Removed mismatched source photo from table and gallery; REF and printed name preserved. No replacement with both matching REF and instrument identity found.",
+    "needsConfirmation": true,
+    "source": "reports/double-medical/spine-catalogue-instruments/source-catalog-corrections.json"
+  },
+  {
+    "catalog": "Double Medical Spine Catalogue — instruments",
+    "page": 344,
+    "printed": "Curette, rectangular, angled, left, bayc",
+    "used": "Curette, rectangular, angled, left, bayoneted",
+    "reason": "Owner checked source and confirmed complete name.",
+    "needsConfirmation": false,
+    "source": "reports/double-medical/spine-catalogue-instruments/source-catalog-corrections.json"
+  },
+  {
+    "catalog": "Double Medical Spine Catalogue — instruments",
+    "page": 344,
+    "printed": "Curette, rectangular, angled, right, bay",
+    "used": "Curette, rectangular, angled, right, bayoneted",
+    "reason": "Owner checked source and confirmed complete name.",
+    "needsConfirmation": false,
+    "source": "reports/double-medical/spine-catalogue-instruments/source-catalog-corrections.json"
+  },
+  {
+    "catalog": "Double Medical Trauma Catalogue — Part 3",
+    "page": 585,
+    "printed": "020940003 on two different sizes",
+    "used": "020940003 on 150° / 3 holes / 89 mm only",
+    "reason": "Source prints REF 020940003 for 150° / 3 holes / 89 mm and again for 140° / 4 holes / 105 mm. Owner directed retention of one best-supported row. Retained the 150° row: it follows the 02091/02092/02093/02094 angle series; omitted the second row from the product table. Original evidence remains in the internal OCR audit. The manufacturer has not confirmed the omitted row’s REF.",
+    "needsConfirmation": true,
+    "source": "reports/double-medical/trauma-catalogue-part3/source-catalog-corrections.json"
+  },
+  {
+    "catalog": "Double Medical Trauma Catalogue — Part 3",
+    "page": 611,
+    "printed": "Index 11/4",
+    "used": "Actual set pages 11/6–11/7",
+    "reason": "Index places Patella Pin Instrument Set at 11/4; actual set pages are 11/6–11/7 (PDF 616–617). Actual source pages imported; no product values changed.",
+    "needsConfirmation": false,
+    "source": "reports/double-medical/trauma-catalogue-part3/source-catalog-corrections.json"
+  },
+  {
+    "catalog": "SPINENDOS Endoscopic Spine Surgery System",
+    "page": 5,
+    "printed": "Ø9..5mm",
+    "used": "9.5 mm",
+    "reason": "Codex visual reading of 600-DPI caption",
+    "needsConfirmation": false,
+    "source": "reports/spinendos/endoscopic-spine-surgery-system/source-catalog-corrections.json"
+  },
+  {
+    "catalog": "SPINENDOS Endoscopic Spine Surgery System",
+    "page": 18,
+    "printed": "SP082700.042 / SP082700.092",
+    "used": "— / —",
+    "reason": "Explicit owner source-catalog review; page 17 BDsys assignments retained",
+    "needsConfirmation": true,
+    "source": "reports/spinendos/endoscopic-spine-surgery-system/source-catalog-corrections.json"
+  }
+]

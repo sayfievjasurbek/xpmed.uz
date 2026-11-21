@@ -1,0 +1,61 @@
+[
+  {
+    "id": "214-05",
+    "code": "source-caption-image-conflict",
+    "path": "specTables.0",
+    "sourcePages": [
+      214,
+      238,
+      271,
+      284,
+      291
+    ],
+    "message": {
+      "ru": "На стр. 214 три подписи не соответствуют фотографиям: 110477900 — «Screwdriver, 1.5 N.m» (показаны щипцы), 113290100 — «Plate Holder» (показан резьбовой штифт), 113290300 — «Pre-fixation Pin» (показано шило с рукояткой). На других страницах REF 110477900 обозначает держатель пластины, а 113290300 — костное шило. Требуется подтверждение подписей производителем; коды и исходные подписи сохранены.",
+      "en": "Three captions on p. 214 conflict with their photographs: 110477900 — Screwdriver, 1.5 N.m (forceps pictured), 113290100 — Plate Holder (threaded pin pictured), 113290300 — Pre-fixation Pin (handled awl pictured). Elsewhere, 110477900 denotes plate-holding forceps and 113290300 a bone awl. Confirm captions with the manufacturer; codes and printed descriptions are retained."
+    },
+    "readings": {
+      "printed": "p.214: 110477900 — Screwdriver, 1.5 N.m; 113290100 — Plate Holder; 113290300 — Pre-fixation Pin",
+      "corroborating": "110477900 — Holding Forceps for Plate (p.238), Plate Holder (p.271/291); 113290300 — Bone Awl (p.284)",
+      "visual": "Codex source image review, p.214: forceps / threaded fixation pin / handled awl"
+    },
+    "status": "resolved",
+    "resolution": "Owner-confirmed corrections applied; see source-catalog-corrections.json."
+  },
+  {
+    "id": "344-06",
+    "code": "source-caption-truncated",
+    "sourcePages": [
+      344
+    ],
+    "message": {
+      "ru": "Окончание описания кюретки REF 111781400 обрезано в самом PDF: «bayc». Требуется подтверждение полного наименования.",
+      "en": "The source physically clips the curette description for REF 111781400 at “bayc”. Confirm the full designation."
+    },
+    "readings": {
+      "PSM3": "N Curette, rectangular, angled, left, bayc",
+      "PSM11": "ot Curette, rectangular, angled, left, bayc",
+      "Vision": "Curette, rectangular, angled, left, bayc"
+    },
+    "status": "resolved",
+    "resolution": "Owner-confirmed corrections applied; see source-catalog-corrections.json."
+  },
+  {
+    "id": "344-07",
+    "code": "source-caption-truncated",
+    "sourcePages": [
+      344
+    ],
+    "message": {
+      "ru": "Окончание описания правой кюретки обрезано в PDF: «bay».",
+      "en": "The right curette caption is clipped in the source at “bay”."
+    },
+    "readings": {
+      "PSM3": "a Curette, rectangular, angled, right, bay:",
+      "PSM11": "a Curette, rectangular, angled, right, bay:",
+      "Vision": "Curette, rectangular, angled, right, bayı"
+    },
+    "status": "resolved",
+    "resolution": "Owner-confirmed corrections applied; see source-catalog-corrections.json."
+  }
+]

@@ -1,0 +1,351 @@
+{
+  "pdfPage": 83,
+  "officialPage": 109,
+  "alignment": [
+    [
+      0.9712674877081245,
+      -0.0006054182562082711,
+      0.014876810041052577
+    ],
+    [
+      -0.000525698392023712,
+      0.9783545634035684,
+      0.011391602532527925
+    ]
+  ],
+  "alignmentMatches": 31,
+  "alignmentInliers": 29,
+  "category": "arthroscopy-manual-instruments",
+  "title": {
+    "en": "MASTER Arthroscopy Shoulder Instrument Set",
+    "ru": "Набор артроскопических инструментов MASTER для плечевого сустава"
+  },
+  "groups": [
+    {
+      "title": "Raven™ Suture Retriever",
+      "page": 83,
+      "officialPage": 109,
+      "headingBounds": [
+        0.10042981638326495,
+        0.24900371404257704,
+        0.28418134160451114,
+        0.2636413278310711
+      ],
+      "rows": [
+        {
+          "description": "Straight, 3.5mm dia., 138mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "GU1004",
+              "sourceBounds": [
+                0.5171562736166972,
+                0.28888867048807876,
+                0.568383439974255,
+                0.30122760870917764
+              ],
+              "officialCode": "GU1004",
+              "officialBounds": [
+                321.3899841308594,
+                224.29689025878906,
+                348.0030212402344,
+                234.47589111328125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.2820581395986282,
+            0.578383439974255,
+            0.3040581395986282
+          ],
+          "pdfPage": 83,
+          "officialPage": 109
+        },
+        {
+          "description": "35° Up, 3.5mm dia., 138mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "GU1008",
+              "sourceBounds": [
+                0.5173116099417583,
+                0.3066860464322865,
+                0.5682281039584454,
+                0.31831395327701584
+              ],
+              "officialCode": "GU1008",
+              "officialBounds": [
+                321.3899841308594,
+                238.79591369628906,
+                348.0030212402344,
+                248.97491455078125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.29949999985465114,
+            0.5782281039584454,
+            0.32149999985465116
+          ],
+          "pdfPage": 83,
+          "officialPage": 109
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Suture Snare™",
+      "page": 83,
+      "officialPage": 109,
+      "headingBounds": [
+        0.10036331210512085,
+        0.35647448047705993,
+        0.2066651317089231,
+        0.3711540139078987
+      ],
+      "rows": [
+        {
+          "description": "Straight, 3.5mm dia., 138mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "GU1003",
+              "sourceBounds": [
+                0.5192236385404977,
+                0.3762129794979726,
+                0.5683527373186401,
+                0.38977539293310626
+              ],
+              "officialCode": "GU1003",
+              "officialBounds": [
+                321.3899841308594,
+                295.2969055175781,
+                348.0030212402344,
+                305.47589111328125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3699941862155394,
+            0.5783527373186401,
+            0.39199418621553944
+          ],
+          "pdfPage": 83,
+          "officialPage": 109
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Suture Scissor",
+      "page": 83,
+      "officialPage": 109,
+      "headingBounds": [
+        0.10032012254517671,
+        0.4262687138511781,
+        0.21129099908173488,
+        0.4409457201556044
+      ],
+      "rows": [
+        {
+          "description": "Straight, 3.4mm dia., 136mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "GU1005",
+              "sourceBounds": [
+                0.5172162250074397,
+                0.44745852512096274,
+                0.5683234910263244,
+                0.4595182188926581
+              ],
+              "officialCode": "GU1005",
+              "officialBounds": [
+                321.3899841308594,
+                351.7969055175781,
+                348.0030212402344,
+                361.97589111328125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.4404883720068104,
+            0.5783234910263244,
+            0.4624883720068104
+          ],
+          "pdfPage": 83,
+          "officialPage": 109
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Tissue Grasper",
+      "page": 83,
+      "officialPage": 109,
+      "headingBounds": [
+        0.10027693298523256,
+        0.4960629472252963,
+        0.21531223427929816,
+        0.5107377536603905
+      ],
+      "rows": [
+        {
+          "description": "Straight, 3.5mm dia., 142mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "GU1002",
+              "sourceBounds": [
+                0.5172796821548551,
+                0.51592494009661,
+                0.5682600338854352,
+                0.5291331992893341
+              ],
+              "officialCode": "GU1002",
+              "officialBounds": [
+                321.3899841308594,
+                408.2969055175781,
+                348.0030212402344,
+                418.47589111328125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5095290696929721,
+            0.5782600338854352,
+            0.5315290696929721
+          ],
+          "pdfPage": 83,
+          "officialPage": 109
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Accessories",
+      "page": 83,
+      "officialPage": 109,
+      "headingBounds": [
+        0.1001534796413214,
+        0.6955632780203422,
+        0.19298610530079827,
+        0.7102501016505215
+      ],
+      "rows": [
+        {
+          "description": "Ring Handled Knot Pusher",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6112",
+              "sourceBounds": [
+                0.5170626846133012,
+                0.7160598784418074,
+                0.5684770311092889,
+                0.7301610516383276
+              ],
+              "officialCode": "C6112",
+              "officialBounds": [
+                326.052001953125,
+                569.796875,
+                348.0030212402344,
+                579.9758911132812
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.7101104650400675,
+            0.5784770311092889,
+            0.7321104650400675
+          ],
+          "pdfPage": 83,
+          "officialPage": 109
+        },
+        {
+          "description": "Switching Stick",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "2220",
+              "sourceBounds": [
+                0.5193482687173847,
+                0.7340116278857749,
+                0.5682281070056295,
+                0.7456395347305044
+              ],
+              "officialCode": "2220",
+              "officialBounds": [
+                330.7229919433594,
+                584.2958984375,
+                348.0030212402344,
+                594.4749145507812
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.7268255813081396,
+            0.5782281070056295,
+            0.7488255813081396
+          ],
+          "pdfPage": 83,
+          "officialPage": 109
+        },
+        {
+          "description": "Instrument Tray",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "MT1006",
+              "sourceBounds": [
+                0.517219171152187,
+                0.7526666170005263,
+                0.5683205426944902,
+                0.7633217552282009
+              ],
+              "officialCode": "MT1006",
+              "officialBounds": [
+                320.5530090332031,
+                598.7948608398438,
+                348.0030517578125,
+                608.973876953125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.7449941861143635,
+            0.5783205426944902,
+            0.7669941861143635
+          ],
+          "pdfPage": 83,
+          "officialPage": 109
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 8
+}

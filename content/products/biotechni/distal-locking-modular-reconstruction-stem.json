@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "slug": "distal-locking-modular-reconstruction-stem",
+  "brand": "biotechni",
+  "category": "joint-replacement",
+  "subcategory": "",
+  "specialty": [
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Модульная реконструкционная ножка",
+    "en": "Modular reconstruction stem"
+  },
+  "shortDescription": {
+    "ru": "Ревизионное эндопротезирование",
+    "en": "Revision hip replacement"
+  },
+  "description": {
+    "ru": "Бедренная ножка с дистальной фиксацией.",
+    "en": "A femoral stem with distal locking."
+  },
+  "heroImage": "/images/products/biotechni/distal-locking-modular-reconstruction-stem/distal-stem.webp",
+  "imageType": "cutout",
+  "gallery": [
+    "/images/products/biotechni/distal-locking-modular-reconstruction-stem/distal-stem.webp"
+  ],
+  "features": [],
+  "hotspots": [],
+  "components": [
+    {
+      "id": "distal",
+      "name": {
+        "ru": "Модульная реконструкционная ножка",
+        "en": "Modular reconstruction stem"
+      },
+      "image": "/images/products/biotechni/distal-locking-modular-reconstruction-stem/distal-stem.webp",
+      "refCodes": [],
+      "sizes": [],
+      "variants": [],
+      "legacyDocuments": [
+        {
+          "type": "product-page",
+          "ru": "https://xpmed.uz/product/novinki-2/distal-locking-modular-reconstruction-stem/",
+          "en": "https://xpmed.uz/product/new/distal-locking-modular-reconstruction-stem-2/"
+        }
+      ]
+    }
+  ],
+  "specTables": [],
+  "refCodes": [],
+  "sourcePdf": null,
+  "sourcePages": [],
+  "catalogEdition": null,
+  "isNew": true,
+  "status": "published",
+  "legacyId": "distal",
+  "legacyBrand": "BIOTECHNI S.A.S.",
+  "review": {
+    "flags": [],
+    "notes": [
+      "Migrated existing catalog content; no additional dimensions or reference codes inferred."
+    ]
+  },
+  "imageDimensions": {
+    "/images/products/biotechni/distal-locking-modular-reconstruction-stem/distal-stem.webp": {
+      "width": 640,
+      "height": 640
+    }
+  },
+  "subcategories": [],
+  "legacySources": [
+    {
+      "productId": "distal",
+      "language": "ru",
+      "url": "https://xpmed.uz/product/novinki-2/distal-locking-modular-reconstruction-stem/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    },
+    {
+      "productId": "distal",
+      "language": "en",
+      "url": "https://xpmed.uz/product/new/distal-locking-modular-reconstruction-stem-2/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": 189,
+  "bounds": [
+    0.5030326746233614,
+    0.38445436784817194,
+    0.5840344355312072,
+    0.3995255372592799
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "UHD1030XL",
+      "confidence": 84.583763,
+      "words": [
+        {
+          "text": "UHD1030XL",
+          "confidence": 84.583763,
+          "pixelBounds": [
+            2578,
+            2779,
+            2893,
+            2838
+          ],
+          "lineId": "10.3.11",
+          "bounds": [
+            0.5044022696145568,
+            0.38780351660619594,
+            0.5660340442183526,
+            0.39603684063633826
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "UnD1030XL",
+      "confidence": 5.795765,
+      "words": [
+        {
+          "text": "UnD1030XL",
+          "confidence": 5.795765,
+          "pixelBounds": [
+            2578,
+            2779,
+            2893,
+            2838
+          ],
+          "lineId": "42.1.1",
+          "bounds": [
+            0.5044022696145568,
+            0.38780351660619594,
+            0.5660340442183526,
+            0.39603684063633826
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "UnD1030XL",
+      "confidence": 23.174133,
+      "words": [
+        {
+          "text": "UnD1030XL",
+          "confidence": 23.174133,
+          "pixelBounds": [
+            8,
+            25,
+            322,
+            82
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "UHD1030XL",
+      "confidence": 45.146595,
+      "words": [
+        {
+          "text": "UHD1030XL",
+          "confidence": 45.146595,
+          "pixelBounds": [
+            8,
+            25,
+            322,
+            82
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

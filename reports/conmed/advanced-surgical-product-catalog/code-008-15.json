@@ -1,0 +1,38 @@
+{
+  "pdfPage": 8,
+  "pageRow": 15,
+  "visualReading": "SGQ-545",
+  "visualReader": "Codex independent inspection of 600-DPI source table images; source-line crops retained",
+  "ocrReadings": {
+    "600dpi-psm3": "SGQ-545",
+    "600dpi-psm11": "9GQ-545",
+    "600dpi-code-crop-psm7": "9GQ-545",
+    "Apple-Vision-accurate": "SGQ-545"
+  },
+  "matchedReaders": [
+    "600dpi-psm3",
+    "Apple-Vision-accurate"
+  ],
+  "value": "SGQ-545",
+  "verificationStatus": "verified (visual + OCR)",
+  "manufacturerStatus": "confirmed on conmed.com",
+  "officialEvidence": [
+    {
+      "url": "https://www.conmed.com/-/media/conmed/documents/catalog/advancedsurgical_catalog.ashx",
+      "code": "SGQ-545"
+    }
+  ],
+  "sourceBounds": [
+    0.862453531598513,
+    0.7082054144571588,
+    0.9143024848366269,
+    0.7175551214066425
+  ],
+  "rowBounds": [
+    0.5289452320766902,
+    0.7032085561497327,
+    0.934,
+    0.7210338680926917
+  ],
+  "lineCrop": "reports/conmed/advanced-surgical-product-catalog/line-crops/008-15.png"
+}

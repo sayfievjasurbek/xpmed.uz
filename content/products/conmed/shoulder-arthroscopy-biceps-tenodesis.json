@@ -1,0 +1,2304 @@
+{
+  "schemaVersion": 1,
+  "slug": "shoulder-arthroscopy-biceps-tenodesis",
+  "brand": "conmed",
+  "category": "shoulder-arthroscopy",
+  "subcategory": "",
+  "subcategories": [],
+  "specialty": [
+    "orthopedics",
+    "sports",
+    "traumatology"
+  ],
+  "name": {
+    "en": "Biceps Tenodesis",
+    "ru": "Тенодез длинной головки бицепса"
+  },
+  "shortDescription": {
+    "ru": "Решения CONMED: тенодез длинной головки бицепса.",
+    "en": "CONMED solutions for biceps tenodesis."
+  },
+  "description": {
+    "ru": "Система CONMED «Тенодез длинной головки бицепса». В разделах ниже представлены изделия и принадлежности из каталога производителя; выберите позиции по наименованию и каталожному номеру.",
+    "en": "The CONMED Biceps Tenodesis range brings together the products and accessories listed in the manufacturer’s catalog. Browse the sections below and select items by description and catalog number."
+  },
+  "heroImage": "/images/products/conmed/arthroscopy/page-018-xref-631.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "name": "page-018-xref-631",
+      "pdfPage": 18,
+      "sourcePages": [
+        18
+      ],
+      "sourceBounds": [
+        0.3578519133424112,
+        0.1123155207128001,
+        1.1855281603723917,
+        0.7685122367717415
+      ],
+      "originalSize": [
+        1588,
+        1673
+      ],
+      "sourceRotation": -29.110810967680518,
+      "pdfImageXref": 631,
+      "nativeSourceSize": [
+        1588,
+        1673
+      ],
+      "pdfAlphaMask": 629,
+      "sourceMethod": "Original embedded PDF image; vector captions excluded",
+      "src": "/images/products/conmed/arthroscopy/page-018-xref-631.webp",
+      "width": 3640,
+      "height": 3726,
+      "imageType": "cutout",
+      "captionFree": true,
+      "maskMethod": "rembg combined with source ink and manufacturer alpha where available",
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exactly 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          1588,
+          1673
+        ],
+        "enhancedSize": [
+          3176,
+          3346
+        ]
+      }
+    }
+  ],
+  "features": [],
+  "components": [
+    {
+      "id": "page-018-group-01-row-1",
+      "name": {
+        "ru": "5.0мм TenoLok якорный фиксатор для тенодеза с одной нитью Hi-Fi №2",
+        "en": "5.0mm TenoLok Tenodesis Anchor with one #2 Hi-Fi suture"
+      },
+      "refCodes": [
+        "T50S"
+      ],
+      "image": "",
+      "showInGrid": false,
+      "groupId": "page-018-group-01",
+      "pdfPage": 18,
+      "sourceBounds": [
+        0.095,
+        0.3060406976017441,
+        0.5782281048058414,
+        0.32804069760174415
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "018-01-01-1",
+          "tableId": "page-018-group-01",
+          "row": 1,
+          "column": 2,
+          "pdfPage": 18,
+          "bounds": [
+            0.5173116107891542,
+            0.31249999988332067,
+            0.5682281048058414,
+            0.3255813953201676
+          ],
+          "coordinateSpace": "normalized",
+          "readings": [
+            {
+              "reader": "Tesseract-600dpi-PSM3",
+              "text": "cece cece ce rien T508",
+              "confidence": 0.0
+            },
+            {
+              "reader": "Tesseract-600dpi-PSM11",
+              "text": "ee TS0S",
+              "confidence": 17.662468
+            },
+            {
+              "reader": "Apple-Vision-accurate",
+              "text": "......T5OS",
+              "confidence": 1
+            }
+          ],
+          "candidate": "T5OS",
+          "value": "T50S",
+          "verificationStatus": "verified (visual + OCR)",
+          "officialEvidence": [],
+          "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/018-01-01-1.png",
+          "visualReading": {
+            "value": "T50S",
+            "author": "codex",
+            "method": "Visual reading of supplied 600-DPI item-line crop",
+            "visualSheet": "visual-sheets-source/01.jpg",
+            "agreesWithOCR": true,
+            "patternCorrectedCandidates": [
+              {
+                "raw": "T5OS",
+                "candidate": "T50S",
+                "basis": "printed source visual reading agrees with the same-table code format and official exact-code evidence"
+              }
+            ],
+            "note": "Source item line visually read; original independent readings retained.",
+            "originalEvidenceId": "018-01-01-1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "page-018-group-01-row-2",
+      "name": {
+        "ru": "6.0мм TenoLok якорный фиксатор для тенодеза с одной нитью Hi-Fi №2",
+        "en": "6.0mm TenoLok Tenodesis Anchor with one #2 Hi-Fi suture"
+      },
+      "refCodes": [
+        "T60S"
+      ],
+      "image": "",
+      "showInGrid": false,
+      "groupId": "page-018-group-01",
+      "pdfPage": 18,
+      "sourceBounds": [
+        0.095,
+        0.3205755813317587,
+        0.5782281047603802,
+        0.3425755813317587
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "018-01-02-1",
+          "tableId": "page-018-group-01",
+          "row": 2,
+          "column": 2,
+          "pdfPage": 18,
+          "bounds": [
+            0.5173116107436931,
+            0.3270348836133352,
+            0.5682281047603802,
+            0.34011627905018216
+          ],
+          "coordinateSpace": "normalized",
+          "readings": [
+            {
+              "reader": "Tesseract-600dpi-PSM3",
+              "text": "eccrine T60S",
+              "confidence": 0.0
+            },
+            {
+              "reader": "Tesseract-600dpi-PSM11",
+              "text": "eee T60S",
+              "confidence": 32.653278
+            },
+            {
+              "reader": "Apple-Vision-accurate",
+              "text": "...... T6OS",
+              "confidence": 1
+            }
+          ],
+          "candidate": "T60S",
+          "value": "T60S",
+          "verificationStatus": "verified (independent OCR readers)",
+          "officialEvidence": [
+            {
+              "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=23",
+              "code": "T60S",
+              "officialPdfPage": 23
+            }
+          ],
+          "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/018-01-02-1.png"
+        }
+      ]
+    },
+    {
+      "id": "page-018-group-01-row-3",
+      "name": {
+        "ru": "Якорный фиксатор для тенодеза TenoLok, 6.0 мм, с дистальными выступами",
+        "en": "6.0mm TenoLok Tenodesis Anchor with distal cleats"
+      },
+      "refCodes": [
+        "T60A"
+      ],
+      "image": "",
+      "showInGrid": false,
+      "groupId": "page-018-group-01",
+      "pdfPage": 18,
+      "sourceBounds": [
+        0.095,
+        0.33433463578007255,
+        0.5764253570729798,
+        0.3563346357800726
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "018-01-03-1",
+          "tableId": "page-018-group-01",
+          "row": 3,
+          "column": 2,
+          "pdfPage": 18,
+          "bounds": [
+            0.5394247701036979,
+            0.34328774769746023,
+            0.5664253570729798,
+            0.3513815238626849
+          ],
+          "coordinateSpace": "normalized",
+          "readings": [
+            {
+              "reader": "Tesseract-600dpi-PSM3",
+              "text": "......c.cccccscsecsececsereceserseeeseees T60A",
+              "confidence": 0.0
+            },
+            {
+              "reader": "Tesseract-600dpi-PSM11",
+              "text": "T60A",
+              "confidence": 88.950211
+            },
+            {
+              "reader": "Apple-Vision-accurate",
+              "text": "",
+              "confidence": 0
+            }
+          ],
+          "candidate": "T60A",
+          "value": "T60A",
+          "verificationStatus": "verified (visual + OCR)",
+          "officialEvidence": [
+            {
+              "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=23",
+              "code": "T60A",
+              "officialPdfPage": 23
+            }
+          ],
+          "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/018-01-03-1.png",
+          "visualReading": {
+            "value": "T60A",
+            "author": "codex",
+            "method": "Visual reading of supplied 600-DPI item-line crop",
+            "visualSheet": "visual-sheets-source/01.jpg",
+            "agreesWithOCR": true,
+            "patternCorrectedCandidates": [],
+            "note": "Source item line visually read; original independent readings retained.",
+            "originalEvidenceId": "018-01-03-1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "page-018-group-02-row-1",
+      "name": {
+        "ru": "9\" высокопрочная направляющая спица, 2.4мм диаметр., стерильно (5 в упаковке)",
+        "en": "9\" High Strength Guide Pin, 2.4mm dia., sterile (5/Box)"
+      },
+      "refCodes": [
+        "9742D"
+      ],
+      "image": "",
+      "showInGrid": false,
+      "groupId": "page-018-group-02",
+      "pdfPage": 18,
+      "sourceBounds": [
+        0.095,
+        0.40197093036579445,
+        0.5802647652035522,
+        0.4239709303657945
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "018-02-01-1",
+          "tableId": "page-018-group-02",
+          "row": 1,
+          "column": 2,
+          "pdfPage": 18,
+          "bounds": [
+            0.5173116101528633,
+            0.4069767440552534,
+            0.5702647652035522,
+            0.4229651166763355
+          ],
+          "coordinateSpace": "normalized",
+          "readings": [
+            {
+              "reader": "Tesseract-600dpi-PSM3",
+              "text": "cccccsecesecesesessstessseeeees 9742D",
+              "confidence": 0.0
+            },
+            {
+              "reader": "Tesseract-600dpi-PSM11",
+              "text": "eee 9742D",
+              "confidence": 25.775127
+            },
+            {
+              "reader": "Apple-Vision-accurate",
+              "text": "...9742D",
+              "confidence": 1
+            }
+          ],
+          "candidate": "9742D",
+          "value": "9742D",
+          "verificationStatus": "verified (independent OCR readers)",
+          "officialEvidence": [
+            {
+              "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=23",
+              "code": "9742D",
+              "officialPdfPage": 23
+            }
+          ],
+          "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/018-02-01-1.png"
+        }
+      ]
+    },
+    {
+      "id": "page-018-group-02-row-2",
+      "name": {
+        "ru": "Badger® сверло, 6.5мм диаметр., стерильно (4 в упаковке)",
+        "en": "Badger® Drill Bit, 6.5mm dia., sterile (4/Box)"
+      },
+      "refCodes": [
+        "C8593"
+      ],
+      "image": "",
+      "showInGrid": false,
+      "groupId": "page-018-group-02",
+      "pdfPage": 18,
+      "sourceBounds": [
+        0.095,
+        0.41650581379360463,
+        0.5802647648165868,
+        0.43850581379360465
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "018-02-02-1",
+          "tableId": "page-018-group-02",
+          "row": 2,
+          "column": 2,
+          "pdfPage": 18,
+          "bounds": [
+            0.517311609765898,
+            0.4215116274830636,
+            0.5702647648165868,
+            0.4375000001041457
+          ],
+          "coordinateSpace": "normalized",
+          "readings": [
+            {
+              "reader": "Tesseract-600dpi-PSM3",
+              "text": "....cccsecccesecscssesecsrseeersseseeersereen C8593",
+              "confidence": 0.0
+            },
+            {
+              "reader": "Tesseract-600dpi-PSM11",
+              "text": "eee C8593",
+              "confidence": 27.136173
+            },
+            {
+              "reader": "Apple-Vision-accurate",
+              "text": "....C8593",
+              "confidence": 1
+            }
+          ],
+          "candidate": "C8593",
+          "value": "C8593",
+          "verificationStatus": "verified (independent OCR readers)",
+          "officialEvidence": [
+            {
+              "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=23",
+              "code": "C8593",
+              "officialPdfPage": 23
+            }
+          ],
+          "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/018-02-02-1.png"
+        }
+      ]
+    },
+    {
+      "id": "page-018-group-02-row-3",
+      "name": {
+        "ru": "Badger® сверло, 7.0мм диаметр., стерильно (4 в упаковке)",
+        "en": "Badger® Drill Bit, 7.0mm dia., sterile (4/Box)"
+      },
+      "refCodes": [
+        "C8582"
+      ],
+      "image": "",
+      "showInGrid": false,
+      "groupId": "page-018-group-02",
+      "pdfPage": 18,
+      "sourceBounds": [
+        0.095,
+        0.4324941861482558,
+        0.5782281039329872,
+        0.4544941861482558
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "018-02-03-1",
+          "tableId": "page-018-group-02",
+          "row": 3,
+          "column": 2,
+          "pdfPage": 18,
+          "bounds": [
+            0.5173116099163,
+            0.4389534884298323,
+            0.5682281039329872,
+            0.45203488386667934
+          ],
+          "coordinateSpace": "normalized",
+          "readings": [
+            {
+              "reader": "Tesseract-600dpi-PSM3",
+              "text": "ccccccecceseceecscretsceereterreerien C8582",
+              "confidence": 0.0
+            },
+            {
+              "reader": "Tesseract-600dpi-PSM11",
+              "text": "eee C8582",
+              "confidence": 36.203201
+            },
+            {
+              "reader": "Apple-Vision-accurate",
+              "text": "...8582",
+              "confidence": 1
+            }
+          ],
+          "candidate": "C8582",
+          "value": "C8582",
+          "verificationStatus": "verified (independent OCR readers)",
+          "officialEvidence": [
+            {
+              "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=23",
+              "code": "C8582",
+              "officialPdfPage": 23
+            }
+          ],
+          "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/018-02-03-1.png"
+        }
+      ]
+    },
+    {
+      "id": "page-018-group-02-row-4",
+      "name": {
+        "ru": "Badger® сверло, 7.5мм диаметр., стерильно (4 в упаковке)",
+        "en": "Badger® Drill Bit, 7.5mm dia., sterile (4/Box)"
+      },
+      "refCodes": [
+        "8593"
+      ],
+      "image": "",
+      "showInGrid": false,
+      "groupId": "page-018-group-02",
+      "pdfPage": 18,
+      "sourceBounds": [
+        0.095,
+        0.44702906969476736,
+        0.5782281048058414,
+        0.4690290696947674
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "018-02-04-1",
+          "tableId": "page-018-group-02",
+          "row": 4,
+          "column": 2,
+          "pdfPage": 18,
+          "bounds": [
+            0.5173116107891542,
+            0.45348837197634384,
+            0.5682281048058414,
+            0.4665697674131909
+          ],
+          "coordinateSpace": "normalized",
+          "readings": [
+            {
+              "reader": "Tesseract-600dpi-PSM3",
+              "text": "ccccccsecsecscsecsecseecsesscessessssessereseeves 8593",
+              "confidence": 0.0
+            },
+            {
+              "reader": "Tesseract-600dpi-PSM11",
+              "text": "8993",
+              "confidence": 89.095558
+            },
+            {
+              "reader": "Apple-Vision-accurate",
+              "text": ".....8593",
+              "confidence": 1
+            }
+          ],
+          "candidate": "8593",
+          "value": "8593",
+          "verificationStatus": "verified (independent OCR readers)",
+          "officialEvidence": [
+            {
+              "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=23",
+              "code": "8593",
+              "officialPdfPage": 23
+            }
+          ],
+          "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/018-02-04-1.png"
+        }
+      ]
+    },
+    {
+      "id": "page-018-group-02-row-5",
+      "name": {
+        "ru": "Badger ® сверло, 8.0мм диаметр., стерильно (4 в упаковке)",
+        "en": "Badger ® Drill Bit, 8.0mm dia., sterile (4/Box)"
+      },
+      "refCodes": [
+        "C8599"
+      ],
+      "image": "",
+      "showInGrid": false,
+      "groupId": "page-018-group-02",
+      "pdfPage": 18,
+      "sourceBounds": [
+        0.095,
+        0.46229069749273255,
+        0.5782281044166939,
+        0.48429069749273257
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "018-02-05-1",
+          "tableId": "page-018-group-02",
+          "row": 5,
+          "column": 2,
+          "pdfPage": 18,
+          "bounds": [
+            0.5173116104000067,
+            0.468023255951303,
+            0.5682281044166939,
+            0.4825581390341621
+          ],
+          "coordinateSpace": "normalized",
+          "readings": [
+            {
+              "reader": "Tesseract-600dpi-PSM3",
+              "text": "ccccccceccesecsesecsceesseeerseerseeraeen C8599",
+              "confidence": 0.0
+            },
+            {
+              "reader": "Tesseract-600dpi-PSM11",
+              "text": "eee C8599",
+              "confidence": 23.184933
+            },
+            {
+              "reader": "Apple-Vision-accurate",
+              "text": "....8599",
+              "confidence": 1
+            }
+          ],
+          "candidate": "C8599",
+          "value": "C8599",
+          "verificationStatus": "verified (independent OCR readers)",
+          "officialEvidence": [
+            {
+              "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=23",
+              "code": "C8599",
+              "officialPdfPage": 23
+            }
+          ],
+          "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/018-02-05-1.png"
+        }
+      ]
+    },
+    {
+      "id": "page-018-group-02-row-6",
+      "name": {
+        "ru": "Кольцо для определения диаметра сухожилия (5–8 мм)",
+        "en": "Tendon sizing ring (5 - 8 mm)"
+      },
+      "refCodes": [
+        "GFT-SM"
+      ],
+      "image": "",
+      "showInGrid": false,
+      "groupId": "page-018-group-02",
+      "pdfPage": 18,
+      "sourceBounds": [
+        0.095,
+        0.47682558133720926,
+        0.5802647654275847,
+        0.4988255813372093
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "018-02-06-1",
+          "tableId": "page-018-group-02",
+          "row": 6,
+          "column": 2,
+          "pdfPage": 18,
+          "bounds": [
+            0.5173116103768958,
+            0.48401162791484453,
+            0.5702647654275846,
+            0.495639534759574
+          ],
+          "coordinateSpace": "normalized",
+          "readings": [
+            {
+              "reader": "Tesseract-600dpi-PSM3",
+              "text": "cscsecsesecscecscsecscseesssesssessssessserasenaees GFI-SM",
+              "confidence": 0.0
+            },
+            {
+              "reader": "Tesseract-600dpi-PSM11",
+              "text": "PPP GFI-SM",
+              "confidence": 22.58392
+            },
+            {
+              "reader": "Apple-Vision-accurate",
+              "text": "..GFT-SM",
+              "confidence": 1
+            }
+          ],
+          "candidate": "GFT-SM",
+          "value": "GFT-SM",
+          "verificationStatus": "verified (visual + OCR)",
+          "officialEvidence": [
+            {
+              "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=23",
+              "code": "GFT-SM",
+              "officialPdfPage": 23
+            }
+          ],
+          "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/018-02-06-1.png",
+          "visualReading": {
+            "value": "GFT-SM",
+            "author": "codex",
+            "method": "Visual reading of supplied 600-DPI full item-line crop",
+            "agreesWithOCR": true,
+            "note": "Visual reading agrees exactly with Apple Vision; independent Tesseract readings retained.",
+            "originalEvidenceId": "018-02-06-1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "page-018-group-03-row-1",
+      "name": {
+        "ru": "Нить Hi-Fi №2, 60мм прямая игла, 20\" петля (12 в упаковке)",
+        "en": "#2 Hi-Fi Suture, 60mm Straight Needle, 20\" Loop (12/Box)"
+      },
+      "refCodes": [
+        "HL200"
+      ],
+      "image": "",
+      "showInGrid": false,
+      "groupId": "page-018-group-03",
+      "pdfPage": 18,
+      "sourceBounds": [
+        0.095,
+        0.5276976745224252,
+        0.5782281042821289,
+        0.5496976745224252
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "018-03-01-1",
+          "tableId": "page-018-group-03",
+          "row": 1,
+          "column": 2,
+          "pdfPage": 18,
+          "bounds": [
+            0.5173116102654417,
+            0.5334302329809957,
+            0.5682281042821289,
+            0.5479651160638548
+          ],
+          "coordinateSpace": "normalized",
+          "readings": [
+            {
+              "reader": "Tesseract-600dpi-PSM3",
+              "text": "cece rsees HL200",
+              "confidence": 0.0
+            },
+            {
+              "reader": "Tesseract-600dpi-PSM11",
+              "text": "eee HL200",
+              "confidence": 28.71439
+            },
+            {
+              "reader": "Apple-Vision-accurate",
+              "text": "...HL200",
+              "confidence": 1
+            }
+          ],
+          "candidate": "HL200",
+          "value": "HL200",
+          "verificationStatus": "verified (independent OCR readers)",
+          "officialEvidence": [
+            {
+              "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=23",
+              "code": "HL200",
+              "officialPdfPage": 23
+            }
+          ],
+          "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/018-03-01-1.png"
+        }
+      ]
+    },
+    {
+      "id": "page-018-group-03-row-2",
+      "name": {
+        "ru": "Нить Hi-Fi №2, 48мм изогнутая игла, 20\" петля (12 в упаковке)",
+        "en": "#2 Hi-Fi Suture, 48mm Curved Needle, 20\" Loop (12/Box)"
+      },
+      "refCodes": [
+        "HL201"
+      ],
+      "image": "",
+      "showInGrid": false,
+      "groupId": "page-018-group-03",
+      "pdfPage": 18,
+      "sourceBounds": [
+        0.095,
+        0.5415058140469269,
+        0.5802647645198165,
+        0.5635058140469269
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "018-03-02-1",
+          "tableId": "page-018-group-03",
+          "row": 2,
+          "column": 2,
+          "pdfPage": 18,
+          "bounds": [
+            0.5173116094691276,
+            0.5465116277363858,
+            0.5702647645198164,
+            0.5625000003574679
+          ],
+          "coordinateSpace": "normalized",
+          "readings": [
+            {
+              "reader": "Tesseract-600dpi-PSM3",
+              "text": "....cccececcseceeseecsseceseeeees HL201",
+              "confidence": 0.0
+            },
+            {
+              "reader": "Tesseract-600dpi-PSM11",
+              "text": "ee | HL201",
+              "confidence": 25.273689
+            },
+            {
+              "reader": "Apple-Vision-accurate",
+              "text": "...HL201",
+              "confidence": 1
+            }
+          ],
+          "candidate": "HL201",
+          "value": "HL201",
+          "verificationStatus": "verified (independent OCR readers)",
+          "officialEvidence": [
+            {
+              "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=23",
+              "code": "HL201",
+              "officialPdfPage": 23
+            }
+          ],
+          "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/018-03-02-1.png"
+        }
+      ]
+    }
+  ],
+  "componentGroups": [
+    {
+      "id": "page-018-group-01",
+      "title": {
+        "ru": "TenoLok® якорный фиксатор для тенодеза — имплантаты",
+        "en": "TenoLok® Tenodesis Anchor — Implants"
+      },
+      "name": {
+        "ru": "TenoLok® якорный фиксатор для тенодеза — имплантаты",
+        "en": "TenoLok® Tenodesis Anchor — Implants"
+      },
+      "sourcePages": [
+        18
+      ],
+      "images": [],
+      "keyParameters": []
+    },
+    {
+      "id": "page-018-group-02",
+      "title": {
+        "ru": "Инструменты",
+        "en": "Instruments"
+      },
+      "name": {
+        "ru": "Инструменты",
+        "en": "Instruments"
+      },
+      "sourcePages": [
+        18
+      ],
+      "images": [],
+      "keyParameters": []
+    },
+    {
+      "id": "page-018-group-03",
+      "title": {
+        "ru": "SutureLoop шовный материал Hi-Fi",
+        "en": "SutureLoop Hi-Fi Suture"
+      },
+      "name": {
+        "ru": "SutureLoop шовный материал Hi-Fi",
+        "en": "SutureLoop Hi-Fi Suture"
+      },
+      "sourcePages": [
+        18
+      ],
+      "images": [],
+      "keyParameters": []
+    }
+  ],
+  "specTables": [
+    {
+      "id": "page-018-group-01",
+      "groupId": "page-018-group-01",
+      "title": {
+        "ru": "TenoLok® якорный фиксатор для тенодеза — имплантаты",
+        "en": "TenoLok® Tenodesis Anchor — Implants"
+      },
+      "unit": null,
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "Кат. №",
+          "en": "Cat. No."
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "5.0мм TenoLok якорный фиксатор для тенодеза с одной нитью Hi-Fi №2",
+            "en": "5.0mm TenoLok Tenodesis Anchor with one #2 Hi-Fi suture"
+          },
+          "T50S"
+        ],
+        [
+          {
+            "ru": "6.0мм TenoLok якорный фиксатор для тенодеза с одной нитью Hi-Fi №2",
+            "en": "6.0mm TenoLok Tenodesis Anchor with one #2 Hi-Fi suture"
+          },
+          "T60S"
+        ],
+        [
+          {
+            "ru": "Якорный фиксатор для тенодеза TenoLok, 6.0 мм, с дистальными выступами",
+            "en": "6.0mm TenoLok Tenodesis Anchor with distal cleats"
+          },
+          "T60A"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 18,
+          "bounds": [
+            0.095,
+            0.3060406976017441,
+            0.5782281048058414,
+            0.32804069760174415
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "018-01-01-1",
+              "tableId": "page-018-group-01",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 18,
+              "bounds": [
+                0.5173116107891542,
+                0.31249999988332067,
+                0.5682281048058414,
+                0.3255813953201676
+              ],
+              "coordinateSpace": "normalized",
+              "readings": [
+                {
+                  "reader": "Tesseract-600dpi-PSM3",
+                  "text": "cece cece ce rien T508",
+                  "confidence": 0.0
+                },
+                {
+                  "reader": "Tesseract-600dpi-PSM11",
+                  "text": "ee TS0S",
+                  "confidence": 17.662468
+                },
+                {
+                  "reader": "Apple-Vision-accurate",
+                  "text": "......T5OS",
+                  "confidence": 1
+                }
+              ],
+              "candidate": "T5OS",
+              "value": "T50S",
+              "verificationStatus": "verified (visual + OCR)",
+              "officialEvidence": [],
+              "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/018-01-01-1.png",
+              "visualReading": {
+                "value": "T50S",
+                "author": "codex",
+                "method": "Visual reading of supplied 600-DPI item-line crop",
+                "visualSheet": "visual-sheets-source/01.jpg",
+                "agreesWithOCR": true,
+                "patternCorrectedCandidates": [
+                  {
+                    "raw": "T5OS",
+                    "candidate": "T50S",
+                    "basis": "printed source visual reading agrees with the same-table code format and official exact-code evidence"
+                  }
+                ],
+                "note": "Source item line visually read; original independent readings retained.",
+                "originalEvidenceId": "018-01-01-1"
+              }
+            }
+          ]
+        },
+        {
+          "pdfPage": 18,
+          "bounds": [
+            0.095,
+            0.3205755813317587,
+            0.5782281047603802,
+            0.3425755813317587
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "018-01-02-1",
+              "tableId": "page-018-group-01",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 18,
+              "bounds": [
+                0.5173116107436931,
+                0.3270348836133352,
+                0.5682281047603802,
+                0.34011627905018216
+              ],
+              "coordinateSpace": "normalized",
+              "readings": [
+                {
+                  "reader": "Tesseract-600dpi-PSM3",
+                  "text": "eccrine T60S",
+                  "confidence": 0.0
+                },
+                {
+                  "reader": "Tesseract-600dpi-PSM11",
+                  "text": "eee T60S",
+                  "confidence": 32.653278
+                },
+                {
+                  "reader": "Apple-Vision-accurate",
+                  "text": "...... T6OS",
+                  "confidence": 1
+                }
+              ],
+              "candidate": "T60S",
+              "value": "T60S",
+              "verificationStatus": "verified (independent OCR readers)",
+              "officialEvidence": [
+                {
+                  "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=23",
+                  "code": "T60S",
+                  "officialPdfPage": 23
+                }
+              ],
+              "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/018-01-02-1.png"
+            }
+          ]
+        },
+        {
+          "pdfPage": 18,
+          "bounds": [
+            0.095,
+            0.33433463578007255,
+            0.5764253570729798,
+            0.3563346357800726
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "018-01-03-1",
+              "tableId": "page-018-group-01",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 18,
+              "bounds": [
+                0.5394247701036979,
+                0.34328774769746023,
+                0.5664253570729798,
+                0.3513815238626849
+              ],
+              "coordinateSpace": "normalized",
+              "readings": [
+                {
+                  "reader": "Tesseract-600dpi-PSM3",
+                  "text": "......c.cccccscsecsececsereceserseeeseees T60A",
+                  "confidence": 0.0
+                },
+                {
+                  "reader": "Tesseract-600dpi-PSM11",
+                  "text": "T60A",
+                  "confidence": 88.950211
+                },
+                {
+                  "reader": "Apple-Vision-accurate",
+                  "text": "",
+                  "confidence": 0
+                }
+              ],
+              "candidate": "T60A",
+              "value": "T60A",
+              "verificationStatus": "verified (visual + OCR)",
+              "officialEvidence": [
+                {
+                  "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=23",
+                  "code": "T60A",
+                  "officialPdfPage": 23
+                }
+              ],
+              "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/018-01-03-1.png",
+              "visualReading": {
+                "value": "T60A",
+                "author": "codex",
+                "method": "Visual reading of supplied 600-DPI item-line crop",
+                "visualSheet": "visual-sheets-source/01.jpg",
+                "agreesWithOCR": true,
+                "patternCorrectedCandidates": [],
+                "note": "Source item line visually read; original independent readings retained.",
+                "originalEvidenceId": "018-01-03-1"
+              }
+            }
+          ]
+        }
+      ],
+      "cellNotes": [],
+      "sourcePages": [
+        18
+      ],
+      "images": [],
+      "keyParameters": [],
+      "description": {
+        "ru": "TenoLok — двухзонный расширяющийся якорный фиксатор из PEEK для фиксации мягких тканей к кости, выпускаемый диаметром 5.0 и 6.0 мм. Применяется для артроскопического или мини-открытого тенодеза бицепса, а также реконструкции MPFL, MQTFL и ALL коленного сустава. Конструкция упрощает вмешательство, сокращает дополнительные этапы, включая обвивной шов сухожилия, и позволяет избежать оборачивания и повреждения сухожилия, характерных для обычных интерференционных винтов. Имплантаты поставляются стерильными.",
+        "en": "The TenoLok Tenodsis Anchor is a dual expanding anchor made of PEEK. It comes in two different diameters (5.0mm and 6.0mm) and is intended for soft tissue to bone fixation. It can be used for arthroscopic or mini-open biceps tenodesis repair or MPFL, MQTFL or ALL for the knee. The TenoLok Tenodesis Anchor provides a quick and easy repair to reduce steps in the OR such as whipstitching and provides benefits over conventional interference screws like tendon wrapping and tendon damage. (Implants sold sterile)"
+      }
+    },
+    {
+      "id": "page-018-group-02",
+      "groupId": "page-018-group-02",
+      "title": {
+        "ru": "Инструменты",
+        "en": "Instruments"
+      },
+      "unit": null,
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "Кат. №",
+          "en": "Cat. No."
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "9\" высокопрочная направляющая спица, 2.4мм диаметр., стерильно (5 в упаковке)",
+            "en": "9\" High Strength Guide Pin, 2.4mm dia., sterile (5/Box)"
+          },
+          "9742D"
+        ],
+        [
+          {
+            "ru": "Badger® сверло, 6.5мм диаметр., стерильно (4 в упаковке)",
+            "en": "Badger® Drill Bit, 6.5mm dia., sterile (4/Box)"
+          },
+          "C8593"
+        ],
+        [
+          {
+            "ru": "Badger® сверло, 7.0мм диаметр., стерильно (4 в упаковке)",
+            "en": "Badger® Drill Bit, 7.0mm dia., sterile (4/Box)"
+          },
+          "C8582"
+        ],
+        [
+          {
+            "ru": "Badger® сверло, 7.5мм диаметр., стерильно (4 в упаковке)",
+            "en": "Badger® Drill Bit, 7.5mm dia., sterile (4/Box)"
+          },
+          "8593"
+        ],
+        [
+          {
+            "ru": "Badger ® сверло, 8.0мм диаметр., стерильно (4 в упаковке)",
+            "en": "Badger ® Drill Bit, 8.0mm dia., sterile (4/Box)"
+          },
+          "C8599"
+        ],
+        [
+          {
+            "ru": "Кольцо для определения диаметра сухожилия (5–8 мм)",
+            "en": "Tendon sizing ring (5 - 8 mm)"
+          },
+          "GFT-SM"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 18,
+          "bounds": [
+            0.095,
+            0.40197093036579445,
+            0.5802647652035522,
+            0.4239709303657945
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "018-02-01-1",
+              "tableId": "page-018-group-02",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 18,
+              "bounds": [
+                0.5173116101528633,
+                0.4069767440552534,
+                0.5702647652035522,
+                0.4229651166763355
+              ],
+              "coordinateSpace": "normalized",
+              "readings": [
+                {
+                  "reader": "Tesseract-600dpi-PSM3",
+                  "text": "cccccsecesecesesessstessseeeees 9742D",
+                  "confidence": 0.0
+                },
+                {
+                  "reader": "Tesseract-600dpi-PSM11",
+                  "text": "eee 9742D",
+                  "confidence": 25.775127
+                },
+                {
+                  "reader": "Apple-Vision-accurate",
+                  "text": "...9742D",
+                  "confidence": 1
+                }
+              ],
+              "candidate": "9742D",
+              "value": "9742D",
+              "verificationStatus": "verified (independent OCR readers)",
+              "officialEvidence": [
+                {
+                  "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=23",
+                  "code": "9742D",
+                  "officialPdfPage": 23
+                }
+              ],
+              "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/018-02-01-1.png"
+            }
+          ]
+        },
+        {
+          "pdfPage": 18,
+          "bounds": [
+            0.095,
+            0.41650581379360463,
+            0.5802647648165868,
+            0.43850581379360465
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "018-02-02-1",
+              "tableId": "page-018-group-02",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 18,
+              "bounds": [
+                0.517311609765898,
+                0.4215116274830636,
+                0.5702647648165868,
+                0.4375000001041457
+              ],
+              "coordinateSpace": "normalized",
+              "readings": [
+                {
+                  "reader": "Tesseract-600dpi-PSM3",
+                  "text": "....cccsecccesecscssesecsrseeersseseeersereen C8593",
+                  "confidence": 0.0
+                },
+                {
+                  "reader": "Tesseract-600dpi-PSM11",
+                  "text": "eee C8593",
+                  "confidence": 27.136173
+                },
+                {
+                  "reader": "Apple-Vision-accurate",
+                  "text": "....C8593",
+                  "confidence": 1
+                }
+              ],
+              "candidate": "C8593",
+              "value": "C8593",
+              "verificationStatus": "verified (independent OCR readers)",
+              "officialEvidence": [
+                {
+                  "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=23",
+                  "code": "C8593",
+                  "officialPdfPage": 23
+                }
+              ],
+              "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/018-02-02-1.png"
+            }
+          ]
+        },
+        {
+          "pdfPage": 18,
+          "bounds": [
+            0.095,
+            0.4324941861482558,
+            0.5782281039329872,
+            0.4544941861482558
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "018-02-03-1",
+              "tableId": "page-018-group-02",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 18,
+              "bounds": [
+                0.5173116099163,
+                0.4389534884298323,
+                0.5682281039329872,
+                0.45203488386667934
+              ],
+              "coordinateSpace": "normalized",
+              "readings": [
+                {
+                  "reader": "Tesseract-600dpi-PSM3",
+                  "text": "ccccccecceseceecscretsceereterreerien C8582",
+                  "confidence": 0.0
+                },
+                {
+                  "reader": "Tesseract-600dpi-PSM11",
+                  "text": "eee C8582",
+                  "confidence": 36.203201
+                },
+                {
+                  "reader": "Apple-Vision-accurate",
+                  "text": "...8582",
+                  "confidence": 1
+                }
+              ],
+              "candidate": "C8582",
+              "value": "C8582",
+              "verificationStatus": "verified (independent OCR readers)",
+              "officialEvidence": [
+                {
+                  "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=23",
+                  "code": "C8582",
+                  "officialPdfPage": 23
+                }
+              ],
+              "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/018-02-03-1.png"
+            }
+          ]
+        },
+        {
+          "pdfPage": 18,
+          "bounds": [
+            0.095,
+            0.44702906969476736,
+            0.5782281048058414,
+            0.4690290696947674
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "018-02-04-1",
+              "tableId": "page-018-group-02",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 18,
+              "bounds": [
+                0.5173116107891542,
+                0.45348837197634384,
+                0.5682281048058414,
+                0.4665697674131909
+              ],
+              "coordinateSpace": "normalized",
+              "readings": [
+                {
+                  "reader": "Tesseract-600dpi-PSM3",
+                  "text": "ccccccsecsecscsecsecseecsesscessessssessereseeves 8593",
+                  "confidence": 0.0
+                },
+                {
+                  "reader": "Tesseract-600dpi-PSM11",
+                  "text": "8993",
+                  "confidence": 89.095558
+                },
+                {
+                  "reader": "Apple-Vision-accurate",
+                  "text": ".....8593",
+                  "confidence": 1
+                }
+              ],
+              "candidate": "8593",
+              "value": "8593",
+              "verificationStatus": "verified (independent OCR readers)",
+              "officialEvidence": [
+                {
+                  "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=23",
+                  "code": "8593",
+                  "officialPdfPage": 23
+                }
+              ],
+              "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/018-02-04-1.png"
+            }
+          ]
+        },
+        {
+          "pdfPage": 18,
+          "bounds": [
+            0.095,
+            0.46229069749273255,
+            0.5782281044166939,
+            0.48429069749273257
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "018-02-05-1",
+              "tableId": "page-018-group-02",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 18,
+              "bounds": [
+                0.5173116104000067,
+                0.468023255951303,
+                0.5682281044166939,
+                0.4825581390341621
+              ],
+              "coordinateSpace": "normalized",
+              "readings": [
+                {
+                  "reader": "Tesseract-600dpi-PSM3",
+                  "text": "ccccccceccesecsesecsceesseeerseerseeraeen C8599",
+                  "confidence": 0.0
+                },
+                {
+                  "reader": "Tesseract-600dpi-PSM11",
+                  "text": "eee C8599",
+                  "confidence": 23.184933
+                },
+                {
+                  "reader": "Apple-Vision-accurate",
+                  "text": "....8599",
+                  "confidence": 1
+                }
+              ],
+              "candidate": "C8599",
+              "value": "C8599",
+              "verificationStatus": "verified (independent OCR readers)",
+              "officialEvidence": [
+                {
+                  "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=23",
+                  "code": "C8599",
+                  "officialPdfPage": 23
+                }
+              ],
+              "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/018-02-05-1.png"
+            }
+          ]
+        },
+        {
+          "pdfPage": 18,
+          "bounds": [
+            0.095,
+            0.47682558133720926,
+            0.5802647654275847,
+            0.4988255813372093
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "018-02-06-1",
+              "tableId": "page-018-group-02",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 18,
+              "bounds": [
+                0.5173116103768958,
+                0.48401162791484453,
+                0.5702647654275846,
+                0.495639534759574
+              ],
+              "coordinateSpace": "normalized",
+              "readings": [
+                {
+                  "reader": "Tesseract-600dpi-PSM3",
+                  "text": "cscsecsesecscecscsecscseesssesssessssessserasenaees GFI-SM",
+                  "confidence": 0.0
+                },
+                {
+                  "reader": "Tesseract-600dpi-PSM11",
+                  "text": "PPP GFI-SM",
+                  "confidence": 22.58392
+                },
+                {
+                  "reader": "Apple-Vision-accurate",
+                  "text": "..GFT-SM",
+                  "confidence": 1
+                }
+              ],
+              "candidate": "GFT-SM",
+              "value": "GFT-SM",
+              "verificationStatus": "verified (visual + OCR)",
+              "officialEvidence": [
+                {
+                  "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=23",
+                  "code": "GFT-SM",
+                  "officialPdfPage": 23
+                }
+              ],
+              "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/018-02-06-1.png",
+              "visualReading": {
+                "value": "GFT-SM",
+                "author": "codex",
+                "method": "Visual reading of supplied 600-DPI full item-line crop",
+                "agreesWithOCR": true,
+                "note": "Visual reading agrees exactly with Apple Vision; independent Tesseract readings retained.",
+                "originalEvidenceId": "018-02-06-1"
+              }
+            }
+          ]
+        }
+      ],
+      "cellNotes": [],
+      "sourcePages": [
+        18
+      ],
+      "images": [],
+      "keyParameters": []
+    },
+    {
+      "id": "page-018-group-03",
+      "groupId": "page-018-group-03",
+      "title": {
+        "ru": "SutureLoop шовный материал Hi-Fi",
+        "en": "SutureLoop Hi-Fi Suture"
+      },
+      "unit": null,
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "Кат. №",
+          "en": "Cat. No."
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Нить Hi-Fi №2, 60мм прямая игла, 20\" петля (12 в упаковке)",
+            "en": "#2 Hi-Fi Suture, 60mm Straight Needle, 20\" Loop (12/Box)"
+          },
+          "HL200"
+        ],
+        [
+          {
+            "ru": "Нить Hi-Fi №2, 48мм изогнутая игла, 20\" петля (12 в упаковке)",
+            "en": "#2 Hi-Fi Suture, 48mm Curved Needle, 20\" Loop (12/Box)"
+          },
+          "HL201"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 18,
+          "bounds": [
+            0.095,
+            0.5276976745224252,
+            0.5782281042821289,
+            0.5496976745224252
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "018-03-01-1",
+              "tableId": "page-018-group-03",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 18,
+              "bounds": [
+                0.5173116102654417,
+                0.5334302329809957,
+                0.5682281042821289,
+                0.5479651160638548
+              ],
+              "coordinateSpace": "normalized",
+              "readings": [
+                {
+                  "reader": "Tesseract-600dpi-PSM3",
+                  "text": "cece rsees HL200",
+                  "confidence": 0.0
+                },
+                {
+                  "reader": "Tesseract-600dpi-PSM11",
+                  "text": "eee HL200",
+                  "confidence": 28.71439
+                },
+                {
+                  "reader": "Apple-Vision-accurate",
+                  "text": "...HL200",
+                  "confidence": 1
+                }
+              ],
+              "candidate": "HL200",
+              "value": "HL200",
+              "verificationStatus": "verified (independent OCR readers)",
+              "officialEvidence": [
+                {
+                  "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=23",
+                  "code": "HL200",
+                  "officialPdfPage": 23
+                }
+              ],
+              "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/018-03-01-1.png"
+            }
+          ]
+        },
+        {
+          "pdfPage": 18,
+          "bounds": [
+            0.095,
+            0.5415058140469269,
+            0.5802647645198165,
+            0.5635058140469269
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "018-03-02-1",
+              "tableId": "page-018-group-03",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 18,
+              "bounds": [
+                0.5173116094691276,
+                0.5465116277363858,
+                0.5702647645198164,
+                0.5625000003574679
+              ],
+              "coordinateSpace": "normalized",
+              "readings": [
+                {
+                  "reader": "Tesseract-600dpi-PSM3",
+                  "text": "....cccececcseceeseecsseceseeeees HL201",
+                  "confidence": 0.0
+                },
+                {
+                  "reader": "Tesseract-600dpi-PSM11",
+                  "text": "ee | HL201",
+                  "confidence": 25.273689
+                },
+                {
+                  "reader": "Apple-Vision-accurate",
+                  "text": "...HL201",
+                  "confidence": 1
+                }
+              ],
+              "candidate": "HL201",
+              "value": "HL201",
+              "verificationStatus": "verified (independent OCR readers)",
+              "officialEvidence": [
+                {
+                  "url": "https://www.conmed.com/-/media/conmed/documents/catalog/arthroscopy_catalog.ashx#page=23",
+                  "code": "HL201",
+                  "officialPdfPage": 23
+                }
+              ],
+              "lineCrop": "reports/conmed/arthroscopy-product-catalog/line-crops-source/018-03-02-1.png"
+            }
+          ]
+        }
+      ],
+      "cellNotes": [],
+      "sourcePages": [
+        18
+      ],
+      "images": [],
+      "keyParameters": []
+    }
+  ],
+  "refCodes": [
+    "T50S",
+    "T60S",
+    "T60A",
+    "9742D",
+    "C8593",
+    "C8582",
+    "8593",
+    "C8599",
+    "GFT-SM",
+    "HL200",
+    "HL201"
+  ],
+  "sourcePages": [
+    18
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "CONMED Arthroscopy Product Catalog — каталог продукции",
+    "en": "CONMED Arthroscopy Product Catalog"
+  },
+  "isNew": false,
+  "status": "published",
+  "catalogType": "list",
+  "layout": "list",
+  "availabilityNote": {
+    "ru": "Не вся продукция может быть доступна на всех рынках.",
+    "en": "All products may not be available in all markets."
+  },
+  "imageDimensions": {
+    "/images/products/conmed/arthroscopy/page-018-xref-631.webp": {
+      "width": 3640,
+      "height": 3726
+    }
+  },
+  "heroImageMeta": {
+    "name": "page-018-xref-631",
+    "pdfPage": 18,
+    "sourcePages": [
+      18
+    ],
+    "sourceBounds": [
+      0.3578519133424112,
+      0.1123155207128001,
+      1.1855281603723917,
+      0.7685122367717415
+    ],
+    "originalSize": [
+      1588,
+      1673
+    ],
+    "sourceRotation": -29.110810967680518,
+    "pdfImageXref": 631,
+    "nativeSourceSize": [
+      1588,
+      1673
+    ],
+    "pdfAlphaMask": 629,
+    "sourceMethod": "Original embedded PDF image; vector captions excluded",
+    "src": "/images/products/conmed/arthroscopy/page-018-xref-631.webp",
+    "width": 3640,
+    "height": 3726,
+    "imageType": "cutout",
+    "captionFree": true,
+    "maskMethod": "rembg combined with source ink and manufacturer alpha where available",
+    "imageEnhancement": {
+      "method": "Real-ESRGAN x4plus downsampled to exactly 2x before rembg",
+      "scale": 2,
+      "originalSize": [
+        1588,
+        1673
+      ],
+      "enhancedSize": [
+        3176,
+        3346
+      ]
+    }
+  },
+  "relatedSystemSlugs": [],
+  "imageAssignmentReview": [
+    {
+      "asset": "page-018-xref-631",
+      "sourcePages": [
+        18
+      ],
+      "captionFromSource": null,
+      "groupId": null,
+      "unassignedPlacement": "Retained in the system gallery; no unsupported component association"
+    }
+  ],
+  "sourcePdf": "/catalogs/conmed/arthroscopy-product-catalog/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/conmed/arthroscopy-product-catalog/pages/018.webp"
+  ],
+  "sourcePageDimensions": {
+    "1": {
+      "width": 5111,
+      "height": 7166
+    },
+    "2": {
+      "width": 5111,
+      "height": 7166
+    },
+    "3": {
+      "width": 5111,
+      "height": 7166
+    },
+    "4": {
+      "width": 5111,
+      "height": 7166
+    },
+    "5": {
+      "width": 5111,
+      "height": 7166
+    },
+    "6": {
+      "width": 5111,
+      "height": 7166
+    },
+    "7": {
+      "width": 5111,
+      "height": 7166
+    },
+    "8": {
+      "width": 5111,
+      "height": 7166
+    },
+    "9": {
+      "width": 5111,
+      "height": 7166
+    },
+    "10": {
+      "width": 5111,
+      "height": 7166
+    },
+    "11": {
+      "width": 5111,
+      "height": 7166
+    },
+    "12": {
+      "width": 5111,
+      "height": 7166
+    },
+    "13": {
+      "width": 5111,
+      "height": 7166
+    },
+    "14": {
+      "width": 5111,
+      "height": 7166
+    },
+    "15": {
+      "width": 5111,
+      "height": 7166
+    },
+    "16": {
+      "width": 5111,
+      "height": 7166
+    },
+    "17": {
+      "width": 5111,
+      "height": 7166
+    },
+    "18": {
+      "width": 5111,
+      "height": 7166
+    },
+    "19": {
+      "width": 5111,
+      "height": 7166
+    },
+    "20": {
+      "width": 5111,
+      "height": 7166
+    },
+    "21": {
+      "width": 5111,
+      "height": 7166
+    },
+    "22": {
+      "width": 5111,
+      "height": 7166
+    },
+    "23": {
+      "width": 5111,
+      "height": 7166
+    },
+    "24": {
+      "width": 5111,
+      "height": 7166
+    },
+    "25": {
+      "width": 5111,
+      "height": 7166
+    },
+    "26": {
+      "width": 5111,
+      "height": 7166
+    },
+    "27": {
+      "width": 5111,
+      "height": 7166
+    },
+    "28": {
+      "width": 5111,
+      "height": 7166
+    },
+    "29": {
+      "width": 5111,
+      "height": 7166
+    },
+    "30": {
+      "width": 5111,
+      "height": 7166
+    },
+    "31": {
+      "width": 5111,
+      "height": 7166
+    },
+    "32": {
+      "width": 5111,
+      "height": 7166
+    },
+    "33": {
+      "width": 5111,
+      "height": 7166
+    },
+    "34": {
+      "width": 5111,
+      "height": 7166
+    },
+    "35": {
+      "width": 5111,
+      "height": 7166
+    },
+    "36": {
+      "width": 5111,
+      "height": 7166
+    },
+    "37": {
+      "width": 5111,
+      "height": 7166
+    },
+    "38": {
+      "width": 5111,
+      "height": 7166
+    },
+    "39": {
+      "width": 5111,
+      "height": 7166
+    },
+    "40": {
+      "width": 5111,
+      "height": 7166
+    },
+    "41": {
+      "width": 5111,
+      "height": 7166
+    },
+    "42": {
+      "width": 5111,
+      "height": 7166
+    },
+    "43": {
+      "width": 5111,
+      "height": 7166
+    },
+    "44": {
+      "width": 5111,
+      "height": 7166
+    },
+    "45": {
+      "width": 5111,
+      "height": 7166
+    },
+    "46": {
+      "width": 5111,
+      "height": 7166
+    },
+    "47": {
+      "width": 5111,
+      "height": 7166
+    },
+    "48": {
+      "width": 5111,
+      "height": 7166
+    },
+    "49": {
+      "width": 5111,
+      "height": 7166
+    },
+    "50": {
+      "width": 5111,
+      "height": 7166
+    },
+    "51": {
+      "width": 5111,
+      "height": 7166
+    },
+    "52": {
+      "width": 5111,
+      "height": 7166
+    },
+    "53": {
+      "width": 5111,
+      "height": 7166
+    },
+    "54": {
+      "width": 5111,
+      "height": 7166
+    },
+    "55": {
+      "width": 5111,
+      "height": 7166
+    },
+    "56": {
+      "width": 5111,
+      "height": 7166
+    },
+    "57": {
+      "width": 5111,
+      "height": 7166
+    },
+    "58": {
+      "width": 5111,
+      "height": 7166
+    },
+    "59": {
+      "width": 5111,
+      "height": 7166
+    },
+    "60": {
+      "width": 5111,
+      "height": 7166
+    },
+    "61": {
+      "width": 5111,
+      "height": 7166
+    },
+    "62": {
+      "width": 5111,
+      "height": 7166
+    },
+    "63": {
+      "width": 5111,
+      "height": 7166
+    },
+    "64": {
+      "width": 5111,
+      "height": 7166
+    },
+    "65": {
+      "width": 5111,
+      "height": 7166
+    },
+    "66": {
+      "width": 5111,
+      "height": 7166
+    },
+    "67": {
+      "width": 5111,
+      "height": 7166
+    },
+    "68": {
+      "width": 5111,
+      "height": 7166
+    },
+    "69": {
+      "width": 5111,
+      "height": 7166
+    },
+    "70": {
+      "width": 5111,
+      "height": 7166
+    },
+    "71": {
+      "width": 5111,
+      "height": 7166
+    },
+    "72": {
+      "width": 5111,
+      "height": 7166
+    },
+    "73": {
+      "width": 5111,
+      "height": 7166
+    },
+    "74": {
+      "width": 5111,
+      "height": 7166
+    },
+    "75": {
+      "width": 5111,
+      "height": 7166
+    },
+    "76": {
+      "width": 5111,
+      "height": 7166
+    },
+    "77": {
+      "width": 5111,
+      "height": 7166
+    },
+    "78": {
+      "width": 5111,
+      "height": 7166
+    },
+    "79": {
+      "width": 5111,
+      "height": 7166
+    },
+    "80": {
+      "width": 5111,
+      "height": 7166
+    },
+    "81": {
+      "width": 5111,
+      "height": 7166
+    },
+    "82": {
+      "width": 5111,
+      "height": 7166
+    },
+    "83": {
+      "width": 5111,
+      "height": 7166
+    },
+    "84": {
+      "width": 5111,
+      "height": 7166
+    },
+    "85": {
+      "width": 5111,
+      "height": 7166
+    },
+    "86": {
+      "width": 5111,
+      "height": 7166
+    },
+    "87": {
+      "width": 5111,
+      "height": 7166
+    },
+    "88": {
+      "width": 5111,
+      "height": 7166
+    },
+    "89": {
+      "width": 5111,
+      "height": 7166
+    },
+    "90": {
+      "width": 5111,
+      "height": 7166
+    },
+    "91": {
+      "width": 5111,
+      "height": 7166
+    },
+    "92": {
+      "width": 5111,
+      "height": 7166
+    },
+    "93": {
+      "width": 5111,
+      "height": 7166
+    },
+    "94": {
+      "width": 5111,
+      "height": 7166
+    },
+    "95": {
+      "width": 5111,
+      "height": 7166
+    },
+    "96": {
+      "width": 5111,
+      "height": 7166
+    },
+    "97": {
+      "width": 5111,
+      "height": 7166
+    },
+    "98": {
+      "width": 5111,
+      "height": 7166
+    },
+    "99": {
+      "width": 5111,
+      "height": 7166
+    },
+    "100": {
+      "width": 5111,
+      "height": 7166
+    },
+    "101": {
+      "width": 5111,
+      "height": 7166
+    },
+    "102": {
+      "width": 5111,
+      "height": 7166
+    },
+    "103": {
+      "width": 5111,
+      "height": 7166
+    },
+    "104": {
+      "width": 5111,
+      "height": 7166
+    },
+    "105": {
+      "width": 5111,
+      "height": 7166
+    },
+    "106": {
+      "width": 5111,
+      "height": 7166
+    },
+    "107": {
+      "width": 5111,
+      "height": 7166
+    },
+    "108": {
+      "width": 5111,
+      "height": 7166
+    },
+    "109": {
+      "width": 5111,
+      "height": 7166
+    },
+    "110": {
+      "width": 5111,
+      "height": 7166
+    },
+    "111": {
+      "width": 5111,
+      "height": 7166
+    },
+    "112": {
+      "width": 5111,
+      "height": 7166
+    },
+    "113": {
+      "width": 5111,
+      "height": 7166
+    },
+    "114": {
+      "width": 5111,
+      "height": 7166
+    },
+    "115": {
+      "width": 5111,
+      "height": 7166
+    },
+    "116": {
+      "width": 5111,
+      "height": 7166
+    }
+  },
+  "review": {
+    "sourceSha256": "8d03674812d7683eeb3b6b544a19febc832db2440e56e7f933677f4cee80ffe6",
+    "importMethod": "600-DPI dual Tesseract + independent Apple Vision, supplied-source visual crops, official CONMED exact-code corroboration; Codex medical RU; native images enhanced with Real-ESRGAN 2x before rembg",
+    "flags": [],
+    "status": "published-source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      28,
+      51,
+      60,
+      68,
+      87,
+      105,
+      110,
+      113,
+      114,
+      115,
+      116
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "components.0.name.ru",
+      "components.1.name.ru",
+      "components.2.name.ru",
+      "components.3.name.ru",
+      "components.4.name.ru",
+      "components.5.name.ru",
+      "components.6.name.ru",
+      "components.7.name.ru",
+      "components.8.name.ru",
+      "components.9.name.ru",
+      "components.10.name.ru",
+      "componentGroups.0.title.ru",
+      "componentGroups.0.name.ru",
+      "componentGroups.1.title.ru",
+      "componentGroups.1.name.ru",
+      "componentGroups.2.title.ru",
+      "componentGroups.2.name.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.description.ru",
+      "specTables.1.title.ru",
+      "specTables.1.columns.0.ru",
+      "specTables.1.columns.1.ru",
+      "specTables.1.rows.0.0.ru",
+      "specTables.1.rows.1.0.ru",
+      "specTables.1.rows.2.0.ru",
+      "specTables.1.rows.3.0.ru",
+      "specTables.1.rows.4.0.ru",
+      "specTables.1.rows.5.0.ru",
+      "specTables.2.title.ru",
+      "specTables.2.columns.0.ru",
+      "specTables.2.columns.1.ru",
+      "specTables.2.rows.0.0.ru",
+      "specTables.2.rows.1.0.ru",
+      "catalogTitle.ru",
+      "availabilityNote.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publishedAt": "2026-11-19T07:00:32.474447+00:00",
+    "publicationReason": "User authorized automatic publication of systems with zero real flags."
+  },
+  "documentCover": "/catalogs/conmed/arthroscopy-product-catalog/pages/001.webp"
+}

@@ -1,0 +1,106 @@
+{
+  "id": 33,
+  "bounds": [
+    0.8370181960477402,
+    0.5770304214345521,
+    0.9090197612991586,
+    0.5929388780351661
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "VP8525",
+      "confidence": 86.30761,
+      "words": [
+        {
+          "text": "VP8525",
+          "confidence": 86.30761,
+          "pixelBounds": [
+            4364,
+            4169,
+            4576,
+            4227
+          ],
+          "lineId": "8.1.18",
+          "bounds": [
+            0.853844648796713,
+            0.5817750488417527,
+            0.8953238113872041,
+            0.5898688250069773
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "VP8525",
+      "confidence": 87.891098,
+      "words": [
+        {
+          "text": "VP8525",
+          "confidence": 87.891098,
+          "pixelBounds": [
+            4364,
+            4169,
+            4576,
+            4227
+          ],
+          "lineId": "78.1.1",
+          "bounds": [
+            0.853844648796713,
+            0.5817750488417527,
+            0.8953238113872041,
+            0.5898688250069773
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": " VP8525",
+      "confidence": 30.637684,
+      "words": [
+        {
+          "text": " VP8525",
+          "confidence": 30.637684,
+          "pixelBounds": [
+            8,
+            34,
+            298,
+            92
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "vee VP8525",
+      "confidence": 4.515905,
+      "words": [
+        {
+          "text": "vee",
+          "confidence": 4.515905,
+          "pixelBounds": [
+            8,
+            83,
+            65,
+            91
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "VP8525",
+          "confidence": 56.436028,
+          "pixelBounds": [
+            86,
+            34,
+            298,
+            92
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

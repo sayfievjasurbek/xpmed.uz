@@ -1,0 +1,133 @@
+{
+  "pdf": "catalogs-source/spinendos/endoscopic-spine-surgery-system.pdf",
+  "sha256": "bf5f6a1a58ca73e2eeab772c1ad98f5bdfe8c3021b51029d4494814199b8d034",
+  "method": "600-DPI Tesseract PSM3/11 and independent Apple Vision; Codex visual review of every disagreement; caption/photo regions mapped from the supplied PDF; Codex-authored Russian medical terminology; Real-ESRGAN exact 2x followed by rembg.",
+  "systemsCreated": 6,
+  "systems": [
+    {
+      "slug": "spinal-endoscopes",
+      "name": {
+        "ru": "Спинальные эндоскопы",
+        "en": "Spinal endoscopes"
+      },
+      "category": "endoscopic-spine-surgery",
+      "status": "published",
+      "sourcePages": [
+        4,
+        19
+      ],
+      "tables": 3,
+      "rows": 10,
+      "flags": []
+    },
+    {
+      "slug": "guiding-cannulas-guide-wires-and-dilators",
+      "name": {
+        "ru": "Направляющие канюли, спицы и дилататоры",
+        "en": "Guiding cannulas, guide wires and dilators"
+      },
+      "category": "endoscopic-spine-surgery",
+      "status": "published",
+      "sourcePages": [
+        5,
+        8,
+        10,
+        11
+      ],
+      "tables": 9,
+      "rows": 36,
+      "flags": []
+    },
+    {
+      "slug": "working-tubes",
+      "name": {
+        "ru": "Рабочие тубусы",
+        "en": "Working tubes"
+      },
+      "category": "endoscopic-spine-surgery",
+      "status": "published",
+      "sourcePages": [
+        10,
+        12,
+        13
+      ],
+      "tables": 9,
+      "rows": 41,
+      "flags": []
+    },
+    {
+      "slug": "trephines-reamers-drills-and-protection-tubes",
+      "name": {
+        "ru": "Трепаны, рашпили, свёрла и защитные тубусы",
+        "en": "Trephines, reamers, drills and protection tubes"
+      },
+      "category": "endoscopic-spine-surgery",
+      "status": "published",
+      "sourcePages": [
+        5,
+        7,
+        8,
+        9,
+        18
+      ],
+      "tables": 8,
+      "rows": 37,
+      "flags": []
+    },
+    {
+      "slug": "forceps-punches-and-scissors",
+      "name": {
+        "ru": "Щипцы, выкусыватели и ножницы",
+        "en": "Forceps, punches and scissors"
+      },
+      "category": "endoscopic-spine-surgery",
+      "status": "published",
+      "sourcePages": [
+        6,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "tables": 17,
+      "rows": 130,
+      "flags": []
+    },
+    {
+      "slug": "handles-hammer-and-accessories",
+      "name": {
+        "ru": "Рукоятки, молоток и принадлежности",
+        "en": "Handles, hammer and accessories"
+      },
+      "category": "endoscopic-spine-surgery",
+      "status": "published",
+      "sourcePages": [
+        5,
+        6,
+        8,
+        13,
+        16,
+        17,
+        18,
+        19
+      ],
+      "tables": 12,
+      "rows": 29,
+      "flags": []
+    }
+  ],
+  "nonProductPages": [
+    1,
+    2,
+    3,
+    20
+  ],
+  "tablesCreated": 58,
+  "imagesExtracted": 147,
+  "uncertainties": [],
+  "translationWorkflow": "Codex-authored medical Russian; retained English; every translated field marked for medical review; no external adapter",
+  "systemsPublished": 6,
+  "systemsDrafts": 0
+}

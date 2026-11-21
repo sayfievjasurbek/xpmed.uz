@@ -1,0 +1,493 @@
+{
+  "pdfPage": 19,
+  "officialPage": 24,
+  "alignment": [
+    [
+      0.9723631574441595,
+      -0.0009609272232237857,
+      0.014122818073411963
+    ],
+    [
+      0.00036840197172424184,
+      0.980885466338599,
+      0.010462538742674306
+    ]
+  ],
+  "alignmentMatches": 43,
+  "alignmentInliers": 31,
+  "category": "shoulder-arthroscopy",
+  "title": {
+    "en": "Suture Passing",
+    "ru": "Проведение шовного материала"
+  },
+  "groups": [
+    {
+      "title": "™ Suture Passer",
+      "page": 19,
+      "officialPage": 24,
+      "headingBounds": [
+        0.5843089912753305,
+        0.13453285243213622,
+        0.6997262568509024,
+        0.14935179334162565
+      ],
+      "rows": [
+        {
+          "description": "Spectrum AutoPass Suture Passer (Reusable)",
+          "codes": [
+            {
+              "candidate": "SMI-02AP",
+              "sourceBounds": [
+                0.8461291188628147,
+                0.2959419742403811,
+                0.8979237942539903,
+                0.30856821110011856
+              ],
+              "officialBounds": [
+                523.8359985351562,
+                230.25111389160156,
+                556.4430541992188,
+                240.43011474609375
+              ],
+              "officialCode": "SMI-02AP"
+            }
+          ],
+          "rowBounds": [
+            0.4308156611749389,
+            0.2957846232593978,
+            0.8979237942539903,
+            0.30856821110011856
+          ],
+          "pdfPage": 19,
+          "officialPage": 24
+        },
+        {
+          "description": "Spectrum AutoPass Needle* (5/Box - Disposable)",
+          "codes": [
+            {
+              "candidate": "SMI-02N",
+              "sourceBounds": [
+                0.852446186520206,
+                0.3139012951871785,
+                0.8979062027055923,
+                0.3265251320167176
+              ],
+              "officialBounds": [
+                527.822998046875,
+                244.75013732910156,
+                556.4430541992188,
+                254.92913818359375
+              ],
+              "officialCode": "SMI-02N"
+            }
+          ],
+          "rowBounds": [
+            0.4307980696265409,
+            0.3137415441759969,
+            0.8979062027055923,
+            0.3265251320167176
+          ],
+          "pdfPage": 19,
+          "officialPage": 24
+        }
+      ],
+      "features": [
+        {
+          "text": "Consistent performance in thick tissue",
+          "bounds": [
+            0.43810344657226924,
+            0.1555070610103036,
+            0.6596835664214497,
+            0.16959834611895777
+          ],
+          "officialStartX": 266.9403991699219
+        },
+        {
+          "text": "Two suture passers in one",
+          "bounds": [
+            0.43808888707814375,
+            0.17036895256649168,
+            0.5925092841920949,
+            0.18443480213053468
+          ],
+          "officialStartX": 266.9403991699219
+        },
+        {
+          "text": "All-inside suture passing eliminates a step",
+          "bounds": [
+            0.43807432757476156,
+            0.18523085357162195,
+            0.6810718271056646,
+            0.19933026259226327
+          ],
+          "officialStartX": 266.9403991699219
+        },
+        {
+          "text": "18mm bite, Fits down 5.5mm cannula",
+          "bounds": [
+            0.43805976807137936,
+            0.20009275457675227,
+            0.6604343022556203,
+            0.21418435011635167
+          ],
+          "officialStartX": 266.9403991699219
+        },
+        {
+          "text": "Updated needle with optimized piercing tip, strong PEEK tab, and polymer coating for smooth actuation",
+          "bounds": [
+            0.43804520856799717,
+            0.21495465558188254,
+            0.7897186776784495,
+            0.22909523897360695
+          ],
+          "officialStartX": 266.9403991699219
+        },
+        {
+          "text": "Stiff shaft for durability",
+          "bounds": [
+            0.43801482778208073,
+            0.24591694932420016,
+            0.5765785516664579,
+            0.25997679122573764
+          ],
+          "officialStartX": 266.94036865234375
+        },
+        {
+          "text": "Anatomic depth markings on jaw in 5mm increments",
+          "bounds": [
+            0.43800026827869853,
+            0.26077885032933046,
+            0.7452818114625299,
+            0.2749026148268847
+          ],
+          "officialStartX": 266.94036865234375
+        }
+      ],
+      "notes": [
+        "* Spectrum AutoPass Needle is not compatible with Concept Suture Passer"
+      ],
+      "keyParameters": []
+    },
+    {
+      "title": "™ Suture Passer",
+      "page": 19,
+      "officialPage": 24,
+      "headingBounds": [
+        0.49886140128763656,
+        0.5093673295438897,
+        0.6142786668724652,
+        0.5241862610044371
+      ],
+      "rows": [
+        {
+          "description": "Seahawk Suture Passer (left, up)",
+          "codes": [
+            {
+              "candidate": "GU2000",
+              "sourceBounds": [
+                0.8553200242263582,
+                0.6353171349263883,
+                0.8975912309961539,
+                0.6479397447048197
+              ],
+              "officialBounds": [
+                529.8299560546875,
+                504.2711486816406,
+                556.4429931640625,
+                514.4501342773438
+              ],
+              "officialCode": "GU2000"
+            }
+          ],
+          "rowBounds": [
+            0.4304831948729964,
+            0.6351561757987243,
+            0.8975912309961539,
+            0.6479397447048197
+          ],
+          "pdfPage": 19,
+          "officialPage": 24
+        },
+        {
+          "description": "Seahawk Suture Passer (right, up)",
+          "codes": [
+            {
+              "candidate": "GU2001",
+              "sourceBounds": [
+                0.8553024327890404,
+                0.6532739424556812,
+                0.8975736395218092,
+                0.6658965900298813
+              ],
+              "officialBounds": [
+                529.8299560546875,
+                518.7700805664062,
+                556.4429931640625,
+                528.9490966796875
+              ],
+              "officialCode": "GU2001"
+            }
+          ],
+          "rowBounds": [
+            0.43046555494847494,
+            0.6531129833096466,
+            0.8975736395218092,
+            0.6658965900298813
+          ],
+          "pdfPage": 19,
+          "officialPage": 24
+        },
+        {
+          "description": "Seahawk RC Suture Passer (left, down)",
+          "codes": [
+            {
+              "candidate": "GU2002",
+              "sourceBounds": [
+                0.8552848413146958,
+                0.6712307877807426,
+                0.8975560480474647,
+                0.6838534353549428
+              ],
+              "officialBounds": [
+                529.8299560546875,
+                533.26904296875,
+                556.4429931640625,
+                543.4480590820312
+              ],
+              "officialCode": "GU2002"
+            }
+          ],
+          "rowBounds": [
+            0.43044796347413034,
+            0.6710698286347082,
+            0.8975560480474647,
+            0.6838534353549428
+          ],
+          "pdfPage": 19,
+          "officialPage": 24
+        },
+        {
+          "description": "Seahawk RC Suture Passer (right, down)",
+          "codes": [
+            {
+              "candidate": "GU2003",
+              "sourceBounds": [
+                0.8552672497662978,
+                0.6891877086973417,
+                0.8975384564990666,
+                0.7018103562715419
+              ],
+              "officialBounds": [
+                529.8299560546875,
+                547.76806640625,
+                556.4429931640625,
+                557.9470825195312
+              ],
+              "officialCode": "GU2003"
+            }
+          ],
+          "rowBounds": [
+            0.4304303719257323,
+            0.6890267495513073,
+            0.8975384564990666,
+            0.7018103562715419
+          ],
+          "pdfPage": 19,
+          "officialPage": 24
+        }
+      ],
+      "features": [
+        {
+          "text": "Designed for arthroscopic or open suturing of soft tissue",
+          "bounds": [
+            0.4377057038385241,
+            0.5629956509253162,
+            0.7676537055661151,
+            0.577128003127943
+          ],
+          "officialStartX": 266.9413146972656
+        },
+        {
+          "text": "Unique “Single-pass” instrument",
+          "bounds": [
+            0.4376911443351419,
+            0.5778575519304465,
+            0.6267162283480587,
+            0.5919365122698071
+          ],
+          "officialStartX": 266.9413146972656
+        },
+        {
+          "text": "Pass and retrieve with one device",
+          "bounds": [
+            0.4376765848317597,
+            0.5927194529355768,
+            0.6334540453097612,
+            0.606800971566852
+          ],
+          "officialStartX": 266.9413146972656
+        },
+        {
+          "text": "Designed to work with #2 sutures",
+          "bounds": [
+            0.43766202532837756,
+            0.6075813539407071,
+            0.6344404556381712,
+            0.6216632518122454
+          ],
+          "officialStartX": 266.9413146972656
+        }
+      ],
+      "notes": [
+        "The Seahawk Suture Passers are available in four tip configurations –",
+        "two for labral repair and two for rotator cuff."
+      ],
+      "keyParameters": []
+    },
+    {
+      "title": "™ Suture Passer",
+      "page": 19,
+      "officialPage": 24,
+      "headingBounds": [
+        0.54885471114397,
+        0.7560691777848636,
+        0.6642719282415951,
+        0.7708881092270404
+      ],
+      "rows": [
+        {
+          "description": "Medium Crescent Hook, Disposable, Packaged Sterile, 3/Box",
+          "codes": [
+            {
+              "candidate": "C6400",
+              "sourceBounds": [
+                0.8625175149265102,
+                0.849380926511622,
+                0.8973816224835428,
+                0.862000767737268
+              ],
+              "officialBounds": [
+                534.4920043945312,
+                677.1112060546875,
+                556.4430541992188,
+                687.2902221679688
+              ],
+              "officialCode": "C6400"
+            }
+          ],
+          "rowBounds": [
+            0.43027348942300486,
+            0.8492171609986627,
+            0.8973816224835428,
+            0.862000767737268
+          ],
+          "pdfPage": 19,
+          "officialPage": 24
+        },
+        {
+          "description": "45° Right Hook, Disposable, Packaged Sterile, 3/Box",
+          "codes": [
+            {
+              "candidate": "C6410",
+              "sourceBounds": [
+                0.8624882888923229,
+                0.8646626575151145,
+                0.8973523964493555,
+                0.8772824987407603
+              ],
+              "officialBounds": [
+                534.4830322265625,
+                689.4501953125,
+                556.43408203125,
+                699.6292114257812
+              ],
+              "officialCode": "C6410"
+            }
+          ],
+          "rowBounds": [
+            0.4302585186266855,
+            0.8644988974030774,
+            0.8973523964493555,
+            0.8772824987407603
+          ],
+          "pdfPage": 19,
+          "officialPage": 24
+        },
+        {
+          "description": "45° Left Hook, Disposable, Packaged Sterile, 3/Box",
+          "codes": [
+            {
+              "candidate": "C6420",
+              "sourceBounds": [
+                0.8624589658837283,
+                0.879944388481866,
+                0.8973230734407609,
+                0.8925642297075118
+              ],
+              "officialBounds": [
+                534.4739990234375,
+                701.7891845703125,
+                556.425048828125,
+                711.9682006835938
+              ],
+              "officialCode": "C6420"
+            }
+          ],
+          "rowBounds": [
+            0.4302292925924982,
+            0.8797806284065698,
+            0.8973230734407609,
+            0.8925642297075118
+          ],
+          "pdfPage": 19,
+          "officialPage": 24
+        }
+      ],
+      "features": [
+        {
+          "text": "Designed for arthroscopic or open suturing of soft tissue",
+          "bounds": [
+            0.437492167973499,
+            0.7770565590824491,
+            0.7587392379836208,
+            0.7911856147385377
+          ],
+          "officialStartX": 266.93890380859375
+        },
+        {
+          "text": "Unique “Single-pass” instrument",
+          "bounds": [
+            0.4374776084701168,
+            0.7919184600875793,
+            0.6265027409702373,
+            0.8059974204453105
+          ],
+          "officialStartX": 266.93890380859375
+        },
+        {
+          "text": "Pass and retrieve with one device",
+          "bounds": [
+            0.43746304896673466,
+            0.8067803610927096,
+            0.6332405579319398,
+            0.8208618797423552
+          ],
+          "officialStartX": 266.93890380859375
+        },
+        {
+          "text": "Designed to work with #2 sutures",
+          "bounds": [
+            0.43744848946335246,
+            0.8216422620978399,
+            0.6342269682603496,
+            0.8357241599877486
+          ],
+          "officialStartX": 266.93890380859375
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 9
+}

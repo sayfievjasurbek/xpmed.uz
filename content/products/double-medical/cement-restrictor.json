@@ -1,0 +1,833 @@
+{
+  "slug": "cement-restrictor",
+  "brand": "double-medical",
+  "category": "joint-replacement",
+  "subcategory": "hip",
+  "specialty": [
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Ограничитель костного цемента",
+    "en": "Cement Restrictor"
+  },
+  "catalogType": "system",
+  "shortDescription": {
+    "ru": "Компоненты для эндопротезирования",
+    "en": "Joint replacement components"
+  },
+  "description": {
+    "ru": "Ограничитель костного цемента. Материалы и доступные исполнения приведены в таблицах каталожных номеров.",
+    "en": "Cement Restrictor. Materials and available configurations are listed in the reference tables."
+  },
+  "heroImage": "/images/products/double-medical/joint-catalogue/page-007-xref-109.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "src": "/images/products/double-medical/joint-catalogue/page-007-xref-109.webp",
+      "width": 216,
+      "height": 290,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          94,
+          132
+        ],
+        "enhancedSize": [
+          188,
+          264
+        ]
+      },
+      "sourcePages": [
+        7
+      ],
+      "imageCaption": {
+        "ru": "Ограничитель костного цемента",
+        "en": "Cement Restrictor"
+      }
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [],
+  "referenceTables": [
+    {
+      "id": "joint-cement-restrictor-p7-2",
+      "title": {
+        "ru": "Ограничитель костного цемента",
+        "en": "Cement Restrictor"
+      },
+      "unit": "mm",
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Sizemm",
+          "en": "Sizemm"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Ограничитель костного цемента · 11",
+            "en": "Cement Restrictor · 11"
+          },
+          "130320011S",
+          {
+            "ru": "11",
+            "en": "11"
+          }
+        ],
+        [
+          {
+            "ru": "Ограничитель костного цемента · 13.5",
+            "en": "Cement Restrictor · 13.5"
+          },
+          "130320013S",
+          {
+            "ru": "13.5",
+            "en": "13.5"
+          }
+        ],
+        [
+          {
+            "ru": "Ограничитель костного цемента · 16",
+            "en": "Cement Restrictor · 16"
+          },
+          "130320016S",
+          {
+            "ru": "16",
+            "en": "16"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 7,
+          "sourceBounds": [
+            0.1436797367699479,
+            0.5143807474075524,
+            0.6,
+            0.5229896302093524
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-cement-restrictor-p7-2",
+              "row": 1,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130320011S",
+                  "line": "130320011S",
+                  "confidence": 89.628326,
+                  "bounds": [
+                    0.1436797367699479,
+                    0.5143807474075524,
+                    0.236358650945983,
+                    0.5229896302093524
+                  ],
+                  "cy": 0.5186851888084524
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130320011S",
+                  "line": "130320011S",
+                  "confidence": 89.628326,
+                  "bounds": [
+                    0.1436797367699479,
+                    0.5143807474075524,
+                    0.236358650945983,
+                    0.5229896302093524
+                  ],
+                  "cy": 0.5186851888084524
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130320011S",
+                  "line": "130320011S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.14046562109744296,
+                    0.5128336002712294,
+                    0.23835311756851663,
+                    0.5264105856228525
+                  ],
+                  "cy": 0.519622092947041
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "11",
+            "PSM11": "11",
+            "Vision": "11"
+          },
+          "itemVerification": "Codex visual full-table comparison at 600 DPI",
+          "bounds": [
+            0.1436797367699479,
+            0.5143807474075524,
+            0.6,
+            0.5229896302093524
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 7,
+          "sourceBounds": [
+            0.14395393474088292,
+            0.5269027587556251,
+            0.6,
+            0.5353159851301115
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-cement-restrictor-p7-2",
+              "row": 2,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130320013S",
+                  "line": "130320013S",
+                  "confidence": 87.940964,
+                  "bounds": [
+                    0.14395393474088292,
+                    0.5269027587556251,
+                    0.23718124485878805,
+                    0.5353159851301115
+                  ],
+                  "cy": 0.5311093719428683
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130320013S",
+                  "line": "130320013S",
+                  "confidence": 87.940964,
+                  "bounds": [
+                    0.14395393474088292,
+                    0.5269027587556251,
+                    0.23718124485878805,
+                    0.5353159851301115
+                  ],
+                  "cy": 0.5311093719428683
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130320013S",
+                  "line": "130320013S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.14052953365825605,
+                    0.5261627908363563,
+                    0.23828920198329187,
+                    0.5377906976810858
+                  ],
+                  "cy": 0.5319767442587211
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "13.5",
+            "PSM11": "13.5",
+            "Vision": "13.5"
+          },
+          "itemVerification": "Codex visual full-table comparison at 600 DPI",
+          "bounds": [
+            0.14395393474088292,
+            0.5269027587556251,
+            0.6,
+            0.5353159851301115
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 7,
+          "sourceBounds": [
+            0.1436797367699479,
+            0.5394247701036979,
+            0.6,
+            0.5478379964781843
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-cement-restrictor-p7-2",
+              "row": 3,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130320016S",
+                  "line": "130320016S",
+                  "confidence": 86.562683,
+                  "bounds": [
+                    0.1436797367699479,
+                    0.5394247701036979,
+                    0.23718124485878805,
+                    0.5478379964781843
+                  ],
+                  "cy": 0.5436313832909412
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130320016S",
+                  "line": "130320016S",
+                  "confidence": 86.562683,
+                  "bounds": [
+                    0.1436797367699479,
+                    0.5394247701036979,
+                    0.23718124485878805,
+                    0.5478379964781843
+                  ],
+                  "cy": 0.5436313832909412
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130320016S",
+                  "line": "130320016S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.14052953517120337,
+                    0.5377906975577392,
+                    0.2382892034962392,
+                    0.5508720929945863
+                  ],
+                  "cy": 0.5443313952761628
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "16",
+            "PSM11": "16",
+            "Vision": "16"
+          },
+          "itemVerification": "Codex visual full-table comparison at 600 DPI",
+          "bounds": [
+            0.1436797367699479,
+            0.5394247701036979,
+            0.6,
+            0.5478379964781843
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "keyParameters": [
+        {
+          "parameter": {
+            "ru": "Материал",
+            "en": "Material"
+          },
+          "value": {
+            "ru": "Полиэтилен",
+            "en": "Polyethylene"
+          }
+        }
+      ],
+      "sourcePages": [
+        7
+      ],
+      "sourcePdf": "/catalogs/double-medical/joint-catalogue/source.pdf",
+      "hideDescriptionColumn": true,
+      "images": [
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-007-xref-109.webp",
+          "width": 216,
+          "height": 290,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              94,
+              132
+            ],
+            "enhancedSize": [
+              188,
+              264
+            ]
+          },
+          "sourcePages": [
+            7
+          ],
+          "imageCaption": {
+            "ru": "Ограничитель костного цемента",
+            "en": "Cement Restrictor"
+          }
+        }
+      ]
+    }
+  ],
+  "refCodes": [
+    "130320011S",
+    "130320013S",
+    "130320016S"
+  ],
+  "sourcePages": [
+    7
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Joint Catalogue — каталог продукции",
+    "en": "Double Medical Joint Catalogue"
+  },
+  "documentCover": "/catalogs/double-medical/joint-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "relatedSystemSlugs": [
+    "cemented-hip-stem-instrument-set"
+  ],
+  "imageDimensions": {
+    "/images/products/double-medical/joint-catalogue/page-007-xref-109.webp": {
+      "width": 216,
+      "height": 290
+    }
+  },
+  "sourcePdf": "/catalogs/double-medical/joint-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/joint-catalogue/pages/007.webp"
+  ],
+  "sourcePageDimensions": {
+    "1": {
+      "width": 3647,
+      "height": 5111
+    },
+    "2": {
+      "width": 3647,
+      "height": 5111
+    },
+    "3": {
+      "width": 3647,
+      "height": 5111
+    },
+    "4": {
+      "width": 3647,
+      "height": 5111
+    },
+    "5": {
+      "width": 3647,
+      "height": 5111
+    },
+    "6": {
+      "width": 3647,
+      "height": 5111
+    },
+    "7": {
+      "width": 3647,
+      "height": 5111
+    },
+    "8": {
+      "width": 3647,
+      "height": 5111
+    },
+    "9": {
+      "width": 3647,
+      "height": 5111
+    },
+    "10": {
+      "width": 3647,
+      "height": 5111
+    },
+    "11": {
+      "width": 3647,
+      "height": 5111
+    },
+    "12": {
+      "width": 3647,
+      "height": 5111
+    },
+    "13": {
+      "width": 3647,
+      "height": 5111
+    },
+    "14": {
+      "width": 3647,
+      "height": 5111
+    },
+    "15": {
+      "width": 3647,
+      "height": 5111
+    },
+    "16": {
+      "width": 3647,
+      "height": 5111
+    },
+    "17": {
+      "width": 3647,
+      "height": 5111
+    },
+    "18": {
+      "width": 3647,
+      "height": 5111
+    },
+    "19": {
+      "width": 3647,
+      "height": 5111
+    },
+    "20": {
+      "width": 3647,
+      "height": 5111
+    },
+    "21": {
+      "width": 3647,
+      "height": 5111
+    },
+    "22": {
+      "width": 3647,
+      "height": 5111
+    },
+    "23": {
+      "width": 3647,
+      "height": 5111
+    },
+    "24": {
+      "width": 3647,
+      "height": 5111
+    },
+    "25": {
+      "width": 3647,
+      "height": 5111
+    },
+    "26": {
+      "width": 3647,
+      "height": 5111
+    },
+    "27": {
+      "width": 3647,
+      "height": 5111
+    },
+    "28": {
+      "width": 3647,
+      "height": 5111
+    },
+    "29": {
+      "width": 3647,
+      "height": 5111
+    },
+    "30": {
+      "width": 3647,
+      "height": 5111
+    },
+    "31": {
+      "width": 3647,
+      "height": 5111
+    },
+    "32": {
+      "width": 3647,
+      "height": 5111
+    },
+    "33": {
+      "width": 3647,
+      "height": 5111
+    },
+    "34": {
+      "width": 3647,
+      "height": 5111
+    },
+    "35": {
+      "width": 3647,
+      "height": 5111
+    },
+    "36": {
+      "width": 3647,
+      "height": 5111
+    },
+    "37": {
+      "width": 3647,
+      "height": 5111
+    },
+    "38": {
+      "width": 3647,
+      "height": 5111
+    },
+    "39": {
+      "width": 3647,
+      "height": 5111
+    },
+    "40": {
+      "width": 3647,
+      "height": 5111
+    },
+    "41": {
+      "width": 3647,
+      "height": 5111
+    },
+    "42": {
+      "width": 3647,
+      "height": 5111
+    },
+    "43": {
+      "width": 3647,
+      "height": 5111
+    },
+    "44": {
+      "width": 3647,
+      "height": 5111
+    },
+    "45": {
+      "width": 3647,
+      "height": 5111
+    },
+    "46": {
+      "width": 3647,
+      "height": 5111
+    },
+    "47": {
+      "width": 3647,
+      "height": 5111
+    },
+    "48": {
+      "width": 3647,
+      "height": 5111
+    },
+    "49": {
+      "width": 3647,
+      "height": 5111
+    },
+    "50": {
+      "width": 3647,
+      "height": 5111
+    },
+    "51": {
+      "width": 3647,
+      "height": 5111
+    },
+    "52": {
+      "width": 3647,
+      "height": 5111
+    },
+    "53": {
+      "width": 3647,
+      "height": 5111
+    },
+    "54": {
+      "width": 3647,
+      "height": 5111
+    },
+    "55": {
+      "width": 3647,
+      "height": 5111
+    },
+    "56": {
+      "width": 3647,
+      "height": 5111
+    },
+    "57": {
+      "width": 3647,
+      "height": 5111
+    },
+    "58": {
+      "width": 3647,
+      "height": 5111
+    },
+    "59": {
+      "width": 3647,
+      "height": 5111
+    },
+    "60": {
+      "width": 3647,
+      "height": 5111
+    },
+    "61": {
+      "width": 3647,
+      "height": 5111
+    },
+    "62": {
+      "width": 3647,
+      "height": 5111
+    },
+    "63": {
+      "width": 3647,
+      "height": 5111
+    },
+    "64": {
+      "width": 3647,
+      "height": 5111
+    },
+    "65": {
+      "width": 3647,
+      "height": 5111
+    },
+    "66": {
+      "width": 3647,
+      "height": 5111
+    },
+    "67": {
+      "width": 3647,
+      "height": 5111
+    },
+    "68": {
+      "width": 3647,
+      "height": 5111
+    },
+    "69": {
+      "width": 3647,
+      "height": 5111
+    },
+    "70": {
+      "width": 3647,
+      "height": 5111
+    },
+    "71": {
+      "width": 3647,
+      "height": 5111
+    },
+    "72": {
+      "width": 3647,
+      "height": 5111
+    },
+    "73": {
+      "width": 3647,
+      "height": 5111
+    },
+    "74": {
+      "width": 3647,
+      "height": 5111
+    },
+    "75": {
+      "width": 3647,
+      "height": 5111
+    },
+    "76": {
+      "width": 3647,
+      "height": 5111
+    },
+    "77": {
+      "width": 3647,
+      "height": 5111
+    },
+    "78": {
+      "width": 3647,
+      "height": 5111
+    },
+    "79": {
+      "width": 3647,
+      "height": 5111
+    },
+    "80": {
+      "width": 3647,
+      "height": 5111
+    },
+    "81": {
+      "width": 3647,
+      "height": 5111
+    },
+    "82": {
+      "width": 3647,
+      "height": 5111
+    },
+    "83": {
+      "width": 3647,
+      "height": 5111
+    },
+    "84": {
+      "width": 3647,
+      "height": 5111
+    },
+    "85": {
+      "width": 3647,
+      "height": 5111
+    },
+    "86": {
+      "width": 3647,
+      "height": 5111
+    },
+    "87": {
+      "width": 3647,
+      "height": 5111
+    },
+    "88": {
+      "width": 3647,
+      "height": 5111
+    },
+    "89": {
+      "width": 3647,
+      "height": 5111
+    },
+    "90": {
+      "width": 3647,
+      "height": 5111
+    },
+    "91": {
+      "width": 3647,
+      "height": 5111
+    },
+    "92": {
+      "width": 3647,
+      "height": 5111
+    },
+    "93": {
+      "width": 3647,
+      "height": 5111
+    },
+    "94": {
+      "width": 3647,
+      "height": 5111
+    },
+    "95": {
+      "width": 3647,
+      "height": 5111
+    },
+    "96": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "049dc47f4db1409b0ab7b002cc1e8beaaf86705c6ae23efac7eff3832b23e1e5",
+    "importMethod": "600-DPI PSM3/PSM11 + independent Vision + Codex visual row checks; additive REF merges",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      71,
+      81,
+      94,
+      95,
+      96
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "referenceTables.0.title.ru",
+      "referenceTables.0.columns.0.ru",
+      "referenceTables.0.columns.1.ru",
+      "referenceTables.0.columns.2.ru",
+      "referenceTables.0.rows.0.0.ru",
+      "referenceTables.0.rows.0.2.ru",
+      "referenceTables.0.rows.1.0.ru",
+      "referenceTables.0.rows.1.2.ru",
+      "referenceTables.0.rows.2.0.ru",
+      "referenceTables.0.rows.2.2.ru",
+      "referenceTables.0.keyParameters.0.parameter.ru",
+      "referenceTables.0.keyParameters.0.value.ru",
+      "referenceTables.0.images.0.imageCaption.ru",
+      "catalogTitle.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Published under owner authorization: zero real flags after 600-DPI source verification."
+  },
+  "publishedAt": "2026-11-19T17:19:02.459890+00:00"
+}

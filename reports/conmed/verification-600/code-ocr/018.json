@@ -1,0 +1,117 @@
+{
+  "id": 18,
+  "bounds": [
+    0.4830757190373704,
+    0.7038794306447111,
+    0.5820778712580709,
+    0.7197878872453252
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "VP4832C",
+      "confidence": 88.552513,
+      "words": [
+        {
+          "text": "VP4832C",
+          "confidence": 88.552513,
+          "pixelBounds": [
+            2648,
+            5077,
+            2897,
+            5136
+          ],
+          "lineId": "11.1.1",
+          "bounds": [
+            0.5180982195265115,
+            0.7084845101869941,
+            0.5668166699276072,
+            0.7167178342171365
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "VP4832C",
+      "confidence": 84.695908,
+      "words": [
+        {
+          "text": "VP4832C",
+          "confidence": 84.695908,
+          "pixelBounds": [
+            2648,
+            5077,
+            2898,
+            5136
+          ],
+          "lineId": "41.1.1",
+          "bounds": [
+            0.5180982195265115,
+            0.7084845101869941,
+            0.5670123263549207,
+            0.7167178342171365
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "secceeeee VP4832C",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "secceeeee",
+          "confidence": 0.0,
+          "pixelBounds": [
+            9,
+            83,
+            154,
+            91
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "VP4832C",
+          "confidence": 42.746979,
+          "pixelBounds": [
+            179,
+            33,
+            429,
+            92
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "sess VPA8320—",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "sess",
+          "confidence": 0.0,
+          "pixelBounds": [
+            9,
+            83,
+            154,
+            91
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "VPA8320—",
+          "confidence": 0.0,
+          "pixelBounds": [
+            199,
+            0,
+            504,
+            114
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

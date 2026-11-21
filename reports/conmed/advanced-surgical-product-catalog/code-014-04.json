@@ -1,0 +1,46 @@
+{
+  "pdfPage": 14,
+  "pageRow": 4,
+  "visualReading": "VTWT424",
+  "visualReader": "Codex independent inspection of 600-DPI source table images; source-line crops retained",
+  "ocrReadings": {
+    "600dpi-psm3": "VIWT424",
+    "600dpi-psm11": "VIWT424",
+    "600dpi-code-crop-psm7": "VIWT424",
+    "isolated-psm7-scale0.5-thresholdNone": "VTIWT424",
+    "isolated-psm7-scale0.5-threshold175": "VTIWT424",
+    "isolated-psm7-scale0.75-threshold210": "VIWT424",
+    "isolated-psm7-scale1-thresholdNone": "VIWT424",
+    "isolated-psm13-scale0.5-thresholdNone": "TW Tae",
+    "isolated-psm13-scale0.5-threshold175": "—VTWTA2d",
+    "isolated-psm13-scale0.75-threshold210": "— VIWT424",
+    "isolated-psm13-scale1-thresholdNone": "— VTWT424",
+    "Apple-Vision-accurate": "VTWT424"
+  },
+  "matchedReaders": [
+    "isolated-psm13-scale1-thresholdNone",
+    "Apple-Vision-accurate"
+  ],
+  "value": "VTWT424",
+  "verificationStatus": "verified (visual + OCR)",
+  "manufacturerStatus": "confirmed on conmed.com",
+  "officialEvidence": [
+    {
+      "url": "https://www.conmed.com/-/media/conmed/documents/catalog/advancedsurgical_catalog.ashx",
+      "code": "VTWT424"
+    }
+  ],
+  "sourceBounds": [
+    0.8593230287614948,
+    0.33421713647781187,
+    0.9144981412639405,
+    0.3430086519676249
+  ],
+  "rowBounds": [
+    0.5289452320766902,
+    0.32887700534759357,
+    0.934,
+    0.34759358288770054
+  ],
+  "lineCrop": "reports/conmed/advanced-surgical-product-catalog/line-crops/014-04.png"
+}

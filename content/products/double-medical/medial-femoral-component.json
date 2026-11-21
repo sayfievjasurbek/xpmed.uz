@@ -1,0 +1,1001 @@
+{
+  "slug": "medial-femoral-component",
+  "brand": "double-medical",
+  "category": "joint-replacement",
+  "subcategory": "knee",
+  "specialty": [
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Медиальный бедренный компонент",
+    "en": "Femoral Component, Medial"
+  },
+  "catalogType": "system",
+  "shortDescription": {
+    "ru": "Компоненты для эндопротезирования",
+    "en": "Joint replacement components"
+  },
+  "description": {
+    "ru": "Медиальный бедренный компонент. Материалы и доступные исполнения приведены в таблицах каталожных номеров.",
+    "en": "Femoral Component, Medial. Materials and available configurations are listed in the reference tables."
+  },
+  "heroImage": "/images/products/double-medical/joint-catalogue/page-030-xref-408.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "src": "/images/products/double-medical/joint-catalogue/page-030-xref-408.webp",
+      "width": 588,
+      "height": 683,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          277,
+          314
+        ],
+        "enhancedSize": [
+          554,
+          628
+        ]
+      },
+      "sourcePages": [
+        30
+      ],
+      "imageCaption": {
+        "ru": "Медиальный бедренный компонент",
+        "en": "Femoral Component, Medial"
+      }
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [],
+  "referenceTables": [
+    {
+      "id": "joint-medial-femoral-component-p30-1",
+      "title": {
+        "ru": "Медиальный бедренный компонент",
+        "en": "Femoral Component, Medial"
+      },
+      "unit": "",
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Размер",
+          "en": "Size"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Медиальный бедренный компонент · 0",
+            "en": "Femoral Component, Medial · 0"
+          },
+          "135520000S",
+          {
+            "ru": "0",
+            "en": "0"
+          }
+        ],
+        [
+          {
+            "ru": "Медиальный бедренный компонент · 1",
+            "en": "Femoral Component, Medial · 1"
+          },
+          "135520001S",
+          {
+            "ru": "1",
+            "en": "1"
+          }
+        ],
+        [
+          {
+            "ru": "Медиальный бедренный компонент · 2",
+            "en": "Femoral Component, Medial · 2"
+          },
+          "135520002S",
+          {
+            "ru": "2",
+            "en": "2"
+          }
+        ],
+        [
+          {
+            "ru": "Медиальный бедренный компонент · 3",
+            "en": "Femoral Component, Medial · 3"
+          },
+          "135520003S",
+          {
+            "ru": "3",
+            "en": "3"
+          }
+        ],
+        [
+          {
+            "ru": "Медиальный бедренный компонент · 4",
+            "en": "Femoral Component, Medial · 4"
+          },
+          "135520004S",
+          {
+            "ru": "4",
+            "en": "4"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 30,
+          "sourceBounds": [
+            0.1401151631477927,
+            0.27254940324789667,
+            0.6,
+            0.2811582860496967
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-medial-femoral-component-p30-1",
+              "row": 1,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "135520000S",
+                  "line": "135520000S",
+                  "confidence": 91.609871,
+                  "bounds": [
+                    0.1401151631477927,
+                    0.27254940324789667,
+                    0.2344392651494379,
+                    0.2811582860496967
+                  ],
+                  "cy": 0.2768538446487967
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "135520000S",
+                  "line": "135520000S",
+                  "confidence": 91.609871,
+                  "bounds": [
+                    0.1401151631477927,
+                    0.27254940324789667,
+                    0.2344392651494379,
+                    0.2811582860496967
+                  ],
+                  "cy": 0.2768538446487967
+                },
+                {
+                  "reader": "Vision",
+                  "text": "135520000S",
+                  "line": "135520000S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13641212794304164,
+                    0.2716288175295243,
+                    0.23629662771094687,
+                    0.2850572293160427
+                  ],
+                  "cy": 0.2783430234227835
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "0",
+            "PSM11": "",
+            "Vision": ""
+          },
+          "itemVerification": "verified (Codex visual 600-DPI row)",
+          "bounds": [
+            0.1401151631477927,
+            0.27254940324789667,
+            0.6,
+            0.2811582860496967
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 30,
+          "sourceBounds": [
+            0.1403893611187277,
+            0.28507141459596946,
+            0.6,
+            0.2934846409704559
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-medial-femoral-component-p30-1",
+              "row": 2,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "135520001S",
+                  "line": "135520001S",
+                  "confidence": 81.350166,
+                  "bounds": [
+                    0.1403893611187277,
+                    0.28507141459596946,
+                    0.2344392651494379,
+                    0.2934846409704559
+                  ],
+                  "cy": 0.28927802778321265
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "135520001S",
+                  "line": "135520001S",
+                  "confidence": 81.350166,
+                  "bounds": [
+                    0.1403893611187277,
+                    0.28507141459596946,
+                    0.2344392651494379,
+                    0.2934846409704559
+                  ],
+                  "cy": 0.28927802778321265
+                },
+                {
+                  "reader": "Vision",
+                  "text": "135520001S",
+                  "line": "135520001S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13639199672768204,
+                    0.28317594262043877,
+                    0.23631675891537207,
+                    0.2967659180002009
+                  ],
+                  "cy": 0.28997093031031984
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "1",
+            "PSM11": "",
+            "Vision": ""
+          },
+          "itemVerification": "verified (Codex visual 600-DPI row)",
+          "bounds": [
+            0.1403893611187277,
+            0.28507141459596946,
+            0.6,
+            0.2934846409704559
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 30,
+          "sourceBounds": [
+            0.1401151631477927,
+            0.29759342594404226,
+            0.6,
+            0.30600665231852864
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-medial-femoral-component-p30-1",
+              "row": 3,
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "text": "135520002S",
+                  "line": "135520002S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13849287540978347,
+                    0.29651162802243425,
+                    0.23625254373481933,
+                    0.30668604627504625
+                  ],
+                  "cy": 0.30159883714874025
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "135520002S",
+                  "line": "135520002S",
+                  "confidence": 91.199585,
+                  "bounds": [
+                    0.1401151631477927,
+                    0.29759342594404226,
+                    0.2344392651494379,
+                    0.30600665231852864
+                  ],
+                  "cy": 0.30180003913128545
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "135520002S",
+                  "line": "135520002S",
+                  "confidence": 91.199585,
+                  "bounds": [
+                    0.1401151631477927,
+                    0.29759342594404226,
+                    0.2344392651494379,
+                    0.30600665231852864
+                  ],
+                  "cy": 0.30180003913128545
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "2",
+            "PSM11": "",
+            "Vision": ""
+          },
+          "itemVerification": "verified (Codex visual 600-DPI row)",
+          "bounds": [
+            0.1401151631477927,
+            0.29759342594404226,
+            0.6,
+            0.30600665231852864
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 30,
+          "sourceBounds": [
+            0.1403893611187277,
+            0.30991978086480143,
+            0.6,
+            0.31852866366660143
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-medial-femoral-component-p30-1",
+              "row": 4,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "135520003S",
+                  "line": "135520003S",
+                  "confidence": 90.492607,
+                  "bounds": [
+                    0.1403893611187277,
+                    0.30991978086480143,
+                    0.2344392651494379,
+                    0.31852866366660143
+                  ],
+                  "cy": 0.31422422226570146
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "135520003S",
+                  "line": "135520003S",
+                  "confidence": 90.492607,
+                  "bounds": [
+                    0.1403893611187277,
+                    0.30991978086480143,
+                    0.2344392651494379,
+                    0.31852866366660143
+                  ],
+                  "cy": 0.31422422226570146
+                },
+                {
+                  "reader": "Vision",
+                  "text": "135520003S",
+                  "line": "135520003S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13645621317300774,
+                    0.3095930233944957,
+                    0.23625254280119465,
+                    0.32122093023922527
+                  ],
+                  "cy": 0.3154069768168605
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "3",
+            "PSM11": "",
+            "Vision": ""
+          },
+          "itemVerification": "verified (Codex visual 600-DPI row)",
+          "bounds": [
+            0.1403893611187277,
+            0.30991978086480143,
+            0.6,
+            0.31852866366660143
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 30,
+          "sourceBounds": [
+            0.1401151631477927,
+            0.32244179221287417,
+            0.6,
+            0.3310506750146742
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-medial-femoral-component-p30-1",
+              "row": 5,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "135520004S",
+                  "line": "135520004S",
+                  "confidence": 90.776527,
+                  "bounds": [
+                    0.1401151631477927,
+                    0.32244179221287417,
+                    0.2344392651494379,
+                    0.3310506750146742
+                  ],
+                  "cy": 0.3267462336137742
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "135520004S",
+                  "line": "135520004S",
+                  "confidence": 90.776527,
+                  "bounds": [
+                    0.1401151631477927,
+                    0.32244179221287417,
+                    0.2344392651494379,
+                    0.3310506750146742
+                  ],
+                  "cy": 0.3267462336137742
+                },
+                {
+                  "reader": "Vision",
+                  "text": "135520004S",
+                  "line": "135520004S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13635376133436222,
+                    0.32081037995128026,
+                    0.23635499773102983,
+                    0.3347128757290765
+                  ],
+                  "cy": 0.32776162784017837
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "4",
+            "PSM11": "",
+            "Vision": ""
+          },
+          "itemVerification": "verified (Codex visual 600-DPI row)",
+          "bounds": [
+            0.1401151631477927,
+            0.32244179221287417,
+            0.6,
+            0.3310506750146742
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "keyParameters": [
+        {
+          "parameter": {
+            "ru": "Материал",
+            "en": "Material"
+          },
+          "value": {
+            "ru": "Кобальт-хромовый сплав",
+            "en": "Cobalt chromium"
+          }
+        }
+      ],
+      "sourcePages": [
+        30
+      ],
+      "sourcePdf": "/catalogs/double-medical/joint-catalogue/source.pdf",
+      "hideDescriptionColumn": true,
+      "images": [
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-030-xref-408.webp",
+          "width": 588,
+          "height": 683,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              277,
+              314
+            ],
+            "enhancedSize": [
+              554,
+              628
+            ]
+          },
+          "sourcePages": [
+            30
+          ],
+          "imageCaption": {
+            "ru": "Медиальный бедренный компонент",
+            "en": "Femoral Component, Medial"
+          }
+        }
+      ]
+    }
+  ],
+  "refCodes": [
+    "135520000S",
+    "135520001S",
+    "135520002S",
+    "135520003S",
+    "135520004S"
+  ],
+  "sourcePages": [
+    30
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Joint Catalogue — каталог продукции",
+    "en": "Double Medical Joint Catalogue"
+  },
+  "documentCover": "/catalogs/double-medical/joint-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "relatedSystemSlugs": [
+    "accurate-unicompartmental-knee-instrument-set"
+  ],
+  "imageDimensions": {
+    "/images/products/double-medical/joint-catalogue/page-030-xref-408.webp": {
+      "width": 588,
+      "height": 683
+    }
+  },
+  "sourcePdf": "/catalogs/double-medical/joint-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/joint-catalogue/pages/030.webp"
+  ],
+  "sourcePageDimensions": {
+    "1": {
+      "width": 3647,
+      "height": 5111
+    },
+    "2": {
+      "width": 3647,
+      "height": 5111
+    },
+    "3": {
+      "width": 3647,
+      "height": 5111
+    },
+    "4": {
+      "width": 3647,
+      "height": 5111
+    },
+    "5": {
+      "width": 3647,
+      "height": 5111
+    },
+    "6": {
+      "width": 3647,
+      "height": 5111
+    },
+    "7": {
+      "width": 3647,
+      "height": 5111
+    },
+    "8": {
+      "width": 3647,
+      "height": 5111
+    },
+    "9": {
+      "width": 3647,
+      "height": 5111
+    },
+    "10": {
+      "width": 3647,
+      "height": 5111
+    },
+    "11": {
+      "width": 3647,
+      "height": 5111
+    },
+    "12": {
+      "width": 3647,
+      "height": 5111
+    },
+    "13": {
+      "width": 3647,
+      "height": 5111
+    },
+    "14": {
+      "width": 3647,
+      "height": 5111
+    },
+    "15": {
+      "width": 3647,
+      "height": 5111
+    },
+    "16": {
+      "width": 3647,
+      "height": 5111
+    },
+    "17": {
+      "width": 3647,
+      "height": 5111
+    },
+    "18": {
+      "width": 3647,
+      "height": 5111
+    },
+    "19": {
+      "width": 3647,
+      "height": 5111
+    },
+    "20": {
+      "width": 3647,
+      "height": 5111
+    },
+    "21": {
+      "width": 3647,
+      "height": 5111
+    },
+    "22": {
+      "width": 3647,
+      "height": 5111
+    },
+    "23": {
+      "width": 3647,
+      "height": 5111
+    },
+    "24": {
+      "width": 3647,
+      "height": 5111
+    },
+    "25": {
+      "width": 3647,
+      "height": 5111
+    },
+    "26": {
+      "width": 3647,
+      "height": 5111
+    },
+    "27": {
+      "width": 3647,
+      "height": 5111
+    },
+    "28": {
+      "width": 3647,
+      "height": 5111
+    },
+    "29": {
+      "width": 3647,
+      "height": 5111
+    },
+    "30": {
+      "width": 3647,
+      "height": 5111
+    },
+    "31": {
+      "width": 3647,
+      "height": 5111
+    },
+    "32": {
+      "width": 3647,
+      "height": 5111
+    },
+    "33": {
+      "width": 3647,
+      "height": 5111
+    },
+    "34": {
+      "width": 3647,
+      "height": 5111
+    },
+    "35": {
+      "width": 3647,
+      "height": 5111
+    },
+    "36": {
+      "width": 3647,
+      "height": 5111
+    },
+    "37": {
+      "width": 3647,
+      "height": 5111
+    },
+    "38": {
+      "width": 3647,
+      "height": 5111
+    },
+    "39": {
+      "width": 3647,
+      "height": 5111
+    },
+    "40": {
+      "width": 3647,
+      "height": 5111
+    },
+    "41": {
+      "width": 3647,
+      "height": 5111
+    },
+    "42": {
+      "width": 3647,
+      "height": 5111
+    },
+    "43": {
+      "width": 3647,
+      "height": 5111
+    },
+    "44": {
+      "width": 3647,
+      "height": 5111
+    },
+    "45": {
+      "width": 3647,
+      "height": 5111
+    },
+    "46": {
+      "width": 3647,
+      "height": 5111
+    },
+    "47": {
+      "width": 3647,
+      "height": 5111
+    },
+    "48": {
+      "width": 3647,
+      "height": 5111
+    },
+    "49": {
+      "width": 3647,
+      "height": 5111
+    },
+    "50": {
+      "width": 3647,
+      "height": 5111
+    },
+    "51": {
+      "width": 3647,
+      "height": 5111
+    },
+    "52": {
+      "width": 3647,
+      "height": 5111
+    },
+    "53": {
+      "width": 3647,
+      "height": 5111
+    },
+    "54": {
+      "width": 3647,
+      "height": 5111
+    },
+    "55": {
+      "width": 3647,
+      "height": 5111
+    },
+    "56": {
+      "width": 3647,
+      "height": 5111
+    },
+    "57": {
+      "width": 3647,
+      "height": 5111
+    },
+    "58": {
+      "width": 3647,
+      "height": 5111
+    },
+    "59": {
+      "width": 3647,
+      "height": 5111
+    },
+    "60": {
+      "width": 3647,
+      "height": 5111
+    },
+    "61": {
+      "width": 3647,
+      "height": 5111
+    },
+    "62": {
+      "width": 3647,
+      "height": 5111
+    },
+    "63": {
+      "width": 3647,
+      "height": 5111
+    },
+    "64": {
+      "width": 3647,
+      "height": 5111
+    },
+    "65": {
+      "width": 3647,
+      "height": 5111
+    },
+    "66": {
+      "width": 3647,
+      "height": 5111
+    },
+    "67": {
+      "width": 3647,
+      "height": 5111
+    },
+    "68": {
+      "width": 3647,
+      "height": 5111
+    },
+    "69": {
+      "width": 3647,
+      "height": 5111
+    },
+    "70": {
+      "width": 3647,
+      "height": 5111
+    },
+    "71": {
+      "width": 3647,
+      "height": 5111
+    },
+    "72": {
+      "width": 3647,
+      "height": 5111
+    },
+    "73": {
+      "width": 3647,
+      "height": 5111
+    },
+    "74": {
+      "width": 3647,
+      "height": 5111
+    },
+    "75": {
+      "width": 3647,
+      "height": 5111
+    },
+    "76": {
+      "width": 3647,
+      "height": 5111
+    },
+    "77": {
+      "width": 3647,
+      "height": 5111
+    },
+    "78": {
+      "width": 3647,
+      "height": 5111
+    },
+    "79": {
+      "width": 3647,
+      "height": 5111
+    },
+    "80": {
+      "width": 3647,
+      "height": 5111
+    },
+    "81": {
+      "width": 3647,
+      "height": 5111
+    },
+    "82": {
+      "width": 3647,
+      "height": 5111
+    },
+    "83": {
+      "width": 3647,
+      "height": 5111
+    },
+    "84": {
+      "width": 3647,
+      "height": 5111
+    },
+    "85": {
+      "width": 3647,
+      "height": 5111
+    },
+    "86": {
+      "width": 3647,
+      "height": 5111
+    },
+    "87": {
+      "width": 3647,
+      "height": 5111
+    },
+    "88": {
+      "width": 3647,
+      "height": 5111
+    },
+    "89": {
+      "width": 3647,
+      "height": 5111
+    },
+    "90": {
+      "width": 3647,
+      "height": 5111
+    },
+    "91": {
+      "width": 3647,
+      "height": 5111
+    },
+    "92": {
+      "width": 3647,
+      "height": 5111
+    },
+    "93": {
+      "width": 3647,
+      "height": 5111
+    },
+    "94": {
+      "width": 3647,
+      "height": 5111
+    },
+    "95": {
+      "width": 3647,
+      "height": 5111
+    },
+    "96": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "049dc47f4db1409b0ab7b002cc1e8beaaf86705c6ae23efac7eff3832b23e1e5",
+    "importMethod": "600-DPI PSM3/PSM11 + independent Vision + Codex visual row checks; additive REF merges",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      71,
+      81,
+      94,
+      95,
+      96
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "referenceTables.0.title.ru",
+      "referenceTables.0.columns.0.ru",
+      "referenceTables.0.columns.1.ru",
+      "referenceTables.0.columns.2.ru",
+      "referenceTables.0.rows.0.0.ru",
+      "referenceTables.0.rows.0.2.ru",
+      "referenceTables.0.rows.1.0.ru",
+      "referenceTables.0.rows.1.2.ru",
+      "referenceTables.0.rows.2.0.ru",
+      "referenceTables.0.rows.2.2.ru",
+      "referenceTables.0.rows.3.0.ru",
+      "referenceTables.0.rows.3.2.ru",
+      "referenceTables.0.rows.4.0.ru",
+      "referenceTables.0.rows.4.2.ru",
+      "referenceTables.0.keyParameters.0.parameter.ru",
+      "referenceTables.0.keyParameters.0.value.ru",
+      "referenceTables.0.images.0.imageCaption.ru",
+      "catalogTitle.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Published under owner authorization: zero real flags after 600-DPI source verification."
+  },
+  "publishedAt": "2026-11-19T17:19:03.617100+00:00"
+}

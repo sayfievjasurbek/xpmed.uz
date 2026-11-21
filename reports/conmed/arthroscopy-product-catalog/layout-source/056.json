@@ -1,0 +1,624 @@
+{
+  "pdfPage": 56,
+  "officialPage": 76,
+  "alignment": [
+    [
+      0.9714084705904984,
+      -0.0002979206496540991,
+      0.014250341902679127
+    ],
+    [
+      3.011795110711188e-06,
+      0.9794157394975952,
+      0.010958601988509507
+    ]
+  ],
+  "alignmentMatches": 22,
+  "alignmentInliers": 22,
+  "category": "hip-arthroscopy",
+  "title": {
+    "en": "Hip Manual Instruments",
+    "ru": "Ручные инструменты для тазобедренного сустава"
+  },
+  "groups": [
+    {
+      "title": "Hip Manual Instruments",
+      "page": 56,
+      "officialPage": 76,
+      "headingBounds": [
+        0.43020152730735756,
+        0.14306958951182852,
+        0.6161599013408504,
+        0.15782323435038872
+      ],
+      "rows": [
+        {
+          "description": "Cupped Curette, Hip",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "HPS-CC",
+              "sourceBounds": [
+                0.8470164060492442,
+                0.18125859751575013,
+                0.898401110384421,
+                0.19664837961146253
+              ],
+              "officialCode": "HPS-CC",
+              "officialBounds": [
+                529.4429931640625,
+                138.7368927001953,
+                556.0794067382812,
+                148.9158935546875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.17595348856360632,
+            0.9084011103844211,
+            0.19795348856360634
+          ],
+          "pdfPage": 56,
+          "officialPage": 76
+        },
+        {
+          "description": "Open Curette, Hip",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "HPS-OC",
+              "sourceBounds": [
+                0.8546272745059675,
+                0.20206530840078146,
+                0.8961064370964587,
+                0.2102986324309238
+              ],
+              "officialCode": "HPS-OC",
+              "officialBounds": [
+                529.1729736328125,
+                153.2359161376953,
+                556.0765991210938,
+                163.4149169921875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.1931819704158526,
+            0.9061064370964587,
+            0.21518197041585263
+          ],
+          "pdfPage": 56,
+          "officialPage": 76
+        },
+        {
+          "description": "Extended Length Katana® Suture Cutter",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "GU1009EL",
+              "sourceBounds": [
+                0.8369712705847882,
+                0.21780859724194135,
+                0.9002996063640551,
+                0.23277279838953546
+              ],
+              "officialCode": "GU1009EL",
+              "officialBounds": [
+                520.773193359375,
+                167.7368927001953,
+                556.07666015625,
+                177.9158935546875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.2122906978157384,
+            0.9102996063640552,
+            0.2342906978157384
+          ],
+          "pdfPage": 56,
+          "officialPage": 76
+        },
+        {
+          "description": "Extended Length Knot Pusher",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8748EL",
+              "sourceBounds": [
+                0.8370672114388324,
+                0.2369186045552476,
+                0.8981670053199688,
+                0.24999999999209466
+              ],
+              "officialCode": "8748EL",
+              "officialBounds": [
+                530.9612426757812,
+                182.2359161376953,
+                556.0784912109375,
+                192.4149169921875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.23045930227367112,
+            0.9081670053199689,
+            0.25245930227367114
+          ],
+          "pdfPage": 56,
+          "officialPage": 76
+        },
+        {
+          "description": "Extended Length Liberator ™ Knife",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "25.50014EL",
+              "sourceBounds": [
+                0.828920572326198,
+                0.2543604650203639,
+                0.898167005037782,
+                0.26744186045721086
+              ],
+              "officialCode": "25.50014EL",
+              "officialBounds": [
+                515.3038330078125,
+                196.7368927001953,
+                556.0802001953125,
+                206.9158935546875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.24790116273878737,
+            0.908167005037782,
+            0.2699011627387874
+          ],
+          "pdfPage": 56,
+          "officialPage": 76
+        },
+        {
+          "description": "Extended Length Crochet Hook",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6105EL",
+              "sourceBounds": [
+                0.8329938898869371,
+                0.27180232540657645,
+                0.8981670058360771,
+                0.2848837208434235
+              ],
+              "officialCode": "C6105EL",
+              "officialBounds": [
+                525.851806640625,
+                211.2359161376953,
+                556.0765991210938,
+                221.4149169921875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.26534302312499997,
+            0.9081670058360771,
+            0.287343023125
+          ],
+          "pdfPage": 56,
+          "officialPage": 76
+        },
+        {
+          "description": "Extended Length Depth Probe",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "21.1001EL",
+              "sourceBounds": [
+                0.8350305512847933,
+                0.2906976745381171,
+                0.8981670061999316,
+                0.3037790699749643
+              ],
+              "officialCode": "21.1001EL",
+              "officialBounds": [
+                521.4508056640625,
+                225.7349395751953,
+                556.0809936523438,
+                235.9139404296875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.2842383722565407,
+            0.9081670061999316,
+            0.3062383722565407
+          ],
+          "pdfPage": 56,
+          "officialPage": 76
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Microfracture Awl Instrumentation",
+      "page": 56,
+      "officialPage": 76,
+      "headingBounds": [
+        0.43014397445458347,
+        0.33227490282386396,
+        0.6979674971019572,
+        0.347028792045742
+      ],
+      "rows": [
+        {
+          "description": "30 Degree Light",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "MFX-30LT",
+              "sourceBounds": [
+                0.8309166154892431,
+                0.47662369199137355,
+                0.8982076205880131,
+                0.4884925870376682
+              ],
+              "officialCode": "MFX-30LT",
+              "officialBounds": [
+                521.9009399414062,
+                376.23590087890625,
+                556.0856323242188,
+                386.4148864746094
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.46955813951452086,
+            0.9082076205880131,
+            0.4915581395145209
+          ],
+          "pdfPage": 56,
+          "officialPage": 76
+        },
+        {
+          "description": "45 Degree Light",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "MFX-45LT",
+              "sourceBounds": [
+                0.8309572328730215,
+                0.4941860464322865,
+                0.8981670045506037,
+                0.5058139532770158
+              ],
+              "officialCode": "MFX-45LT",
+              "officialBounds": [
+                521.77490234375,
+                390.7348937988281,
+                556.0864868164062,
+                400.91387939453125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.48699999985465114,
+            0.9081670045506037,
+            0.5089999998546512
+          ],
+          "pdfPage": 56,
+          "officialPage": 76
+        },
+        {
+          "description": "60 Degree Microfracture Awl, Hip",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "HPS-60MF",
+              "sourceBounds": [
+                0.8329138073233084,
+                0.5128488952520078,
+                0.8982470875020099,
+                0.5249418025293724
+              ],
+              "officialCode": "HPS-60MF",
+              "officialBounds": [
+                519.6329345703125,
+                405.23388671875,
+                556.0944213867188,
+                415.4128723144531
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5058953488906901,
+            0.9082470875020099,
+            0.5278953488906901
+          ],
+          "pdfPage": 56,
+          "officialPage": 76
+        },
+        {
+          "description": "90 Degree Light",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "MFX-90LT",
+              "sourceBounds": [
+                0.8369854356494032,
+                0.5303009102807854,
+                0.8982487787070489,
+                0.5423735084580746
+              ],
+              "officialCode": "MFX-90LT",
+              "officialBounds": [
+                521.7569580078125,
+                419.7328796386719,
+                556.0892333984375,
+                429.911865234375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5233372093694301,
+            0.9082487787070489,
+            0.5453372093694301
+          ],
+          "pdfPage": 56,
+          "officialPage": 76
+        },
+        {
+          "description": "30 Degree Heavy",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "MFX-30HV",
+              "sourceBounds": [
+                0.8350127947022803,
+                0.5668112748649452,
+                0.8981847597270136,
+                0.5785375624872456
+              ],
+              "officialCode": "MFX-30HV",
+              "officialBounds": [
+                520.2989501953125,
+                448.7308654785156,
+                556.0929565429688,
+                458.90985107421875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5596744186760955,
+            0.9081847597270136,
+            0.5816744186760955
+          ],
+          "pdfPage": 56,
+          "officialPage": 76
+        },
+        {
+          "description": "45 Degree Heavy",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "MFX-45HV",
+              "sourceBounds": [
+                0.8288547463329908,
+                0.5840997530431554,
+                0.8982328311974944,
+                0.5961328049577944
+              ],
+              "officialCode": "MFX-45HV",
+              "officialBounds": [
+                520.1729736328125,
+                463.2298583984375,
+                556.0938720703125,
+                473.4088439941406
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5771162790004749,
+            0.9082328311974944,
+            0.5991162790004749
+          ],
+          "pdfPage": 56,
+          "officialPage": 76
+        },
+        {
+          "description": "90 Degree Heavy",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "MFX-90HV",
+              "sourceBounds": [
+                0.8309572325929807,
+                0.6031976747641978,
+                0.898167004270563,
+                0.6133720930168097
+              ],
+              "officialCode": "MFX-90HV",
+              "officialBounds": [
+                520.155029296875,
+                477.7288513183594,
+                556.0966186523438,
+                487.9078369140625
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5952848838905037,
+            0.908167004270563,
+            0.6172848838905037
+          ],
+          "pdfPage": 56,
+          "officialPage": 76
+        },
+        {
+          "description": "Angled, 30 Degree Heavy",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "MFX-30ANG",
+              "sourceBounds": [
+                0.8268662736374361,
+                0.6205843282044884,
+                0.8981846440479998,
+                0.6323226483961897
+              ],
+              "officialCode": "MFX-30ANG",
+              "officialBounds": [
+                514.863037109375,
+                492.22784423828125,
+                556.0974731445312,
+                502.4068298339844
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.613453488300339,
+            0.9081846440479998,
+            0.635453488300339
+          ],
+          "pdfPage": 56,
+          "officialPage": 76
+        },
+        {
+          "description": "Curette, 45 Degree Heavy",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "MFX-45CU",
+              "sourceBounds": [
+                0.8228105895219223,
+                0.6380813954320126,
+                0.8981670053355115,
+                0.6511627908688596
+              ],
+              "officialCode": "MFX-45CU",
+              "officialBounds": [
+                519.89404296875,
+                506.7268371582031,
+                556.0975952148438,
+                516.9058227539062
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.631622093150436,
+            0.9081670053355115,
+            0.6536220931504361
+          ],
+          "pdfPage": 56,
+          "officialPage": 76
+        },
+        {
+          "description": "Sterilization Tray",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "MFX-TRAY",
+              "sourceBounds": [
+                0.824780939915487,
+                0.6553317246308707,
+                0.8982333177653788,
+                0.6687961820897907
+              ],
+              "officialCode": "MFX-TRAY",
+              "officialBounds": [
+                521.361083984375,
+                521.225830078125,
+                556.0947875976562,
+                531.4048461914062
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.6490639533603307,
+            0.9082333177653789,
+            0.6710639533603308
+          ],
+          "pdfPage": 56,
+          "officialPage": 76
+        }
+      ],
+      "features": [
+        {
+          "text": "Extended working length (340mm) for use in both hip and knee",
+          "bounds": [
+            0.4372723971436923,
+            0.37924237515414017,
+            0.8077446017219219,
+            0.39322987432826184
+          ],
+          "officialStartX": 266.5799865722656
+        },
+        {
+          "text": "Available in both “Light” and “Heavy” Configuration",
+          "bounds": [
+            0.43726825935689156,
+            0.3928453715360512,
+            0.737346635571378,
+            0.4068326524582279
+          ],
+          "officialStartX": 266.5799865722656
+        },
+        {
+          "text": "Heavy configurations have strike plate and 3mm depth markings",
+          "bounds": [
+            0.4372641215700908,
+            0.40644836791796224,
+            0.812111051550177,
+            0.420435880655664
+          ],
+          "officialStartX": 266.5799865722656
+        },
+        {
+          "text": "0, 30, 45, 60 and 90 degree tip angles",
+          "bounds": [
+            0.43725998378329006,
+            0.4200513642998733,
+            0.67179018680632,
+            0.4340384419937753
+          ],
+          "officialStartX": 266.5799865722656
+        },
+        {
+          "text": "Curette and angled awl",
+          "bounds": [
+            0.4372558459964893,
+            0.4336543606817843,
+            0.5784867817724,
+            0.44764114910676867
+          ],
+          "officialStartX": 266.5799865722656
+        }
+      ],
+      "notes": [
+        "The Microfracture Instrumentation Set includes the instruments necessary for",
+        "chondral resurfacing and debridement."
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 17
+}

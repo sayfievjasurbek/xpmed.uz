@@ -1,0 +1,516 @@
+{
+  "pdf": "catalogs-source/conmed/hall-powered-instruments.pdf",
+  "sha256": "252384b1278a2b70a7472ba18d19a27dab06ff5971c6ade3644b8e1a244e6c5b",
+  "method": "600-DPI Tesseract PSM3/11, isolated PSM7/13, independent Apple Vision and Codex visual readings of disagreements; official CONMED catalog corroboration; source-positioned tables and white vector drawings; Codex-authored professional Russian.",
+  "systemsCreated": 30,
+  "systems": [
+    {
+      "slug": "hall-titan",
+      "name": {
+        "ru": "HALL Titan",
+        "en": "HALL Titan"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        8
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "hall-batteries-and-accessories",
+      "name": {
+        "ru": "Аккумуляторы и принадлежности",
+        "en": "Batteries & Accessories"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        9
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "hall-powerpro",
+      "name": {
+        "ru": "PowerPro и PowerPro Electric II",
+        "en": "PowerPro & PowerPro Electric II"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        10,
+        11
+      ],
+      "tables": 2,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "hall-pin-and-wire-drivers",
+      "name": {
+        "ru": "Драйверы для спиц и штифтов HALL",
+        "en": "Pin and Wire Drivers"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        12
+      ],
+      "tables": 2,
+      "rows": 8,
+      "flags": []
+    },
+    {
+      "slug": "hall-attachments",
+      "name": {
+        "ru": "Насадки HALL",
+        "en": "Attachments"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        13
+      ],
+      "tables": 6,
+      "rows": 34,
+      "flags": []
+    },
+    {
+      "slug": "hall-sterilization-trays",
+      "name": {
+        "ru": "Лотки для стерилизации HALL",
+        "en": "Sterilization Trays"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        14
+      ],
+      "tables": 2,
+      "rows": 8,
+      "flags": []
+    },
+    {
+      "slug": "hall-pro-blades",
+      "name": {
+        "ru": "Лезвия HALL Pro",
+        "en": "HALL Pro Blades"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        15,
+        16,
+        17
+      ],
+      "tables": 15,
+      "rows": 32,
+      "flags": []
+    },
+    {
+      "slug": "hall-intrex-blade-system",
+      "name": {
+        "ru": "Система лезвий Intrex",
+        "en": "Intrex Blade System"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        18
+      ],
+      "tables": 7,
+      "rows": 38,
+      "flags": []
+    },
+    {
+      "slug": "hall-m-class-blades",
+      "name": {
+        "ru": "Лезвия M-Class",
+        "en": "M-Class Blades"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        19
+      ],
+      "tables": 7,
+      "rows": 27,
+      "flags": []
+    },
+    {
+      "slug": "hall-classic-blades",
+      "name": {
+        "ru": "Лезвия HALL Classic",
+        "en": "HALL Classic Blades"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        20
+      ],
+      "tables": 7,
+      "rows": 31,
+      "flags": []
+    },
+    {
+      "slug": "hall-large-bone-knee-blades",
+      "name": {
+        "ru": "Лезвия для эндопротезирования коленного сустава HALL",
+        "en": "Large Bone Knee Blades"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "tables": 23,
+      "rows": 63,
+      "flags": []
+    },
+    {
+      "slug": "hall-stryker-compatible-replacement-blades",
+      "name": {
+        "ru": "Сменные лезвия, совместимые со Stryker",
+        "en": "Stryker Compatible Replacement Blades"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        32,
+        33
+      ],
+      "tables": 10,
+      "rows": 21,
+      "flags": []
+    },
+    {
+      "slug": "hall-large-bone-oscillating-blades",
+      "name": {
+        "ru": "Осциллирующие лезвия HALL для крупных костей",
+        "en": "Large Bone Oscillating Blades"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "tables": 20,
+      "rows": 36,
+      "flags": []
+    },
+    {
+      "slug": "hall-large-bone-reciprocating-blades",
+      "name": {
+        "ru": "Реципрокные лезвия HALL для крупных костей",
+        "en": "Large Bone Reciprocating Blades"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        40,
+        41
+      ],
+      "tables": 11,
+      "rows": 18,
+      "flags": []
+    },
+    {
+      "slug": "hall-microfree-power-system",
+      "name": {
+        "ru": "Силовая система HALL MicroFree",
+        "en": "HALL MicroFree Power System"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        42,
+        43
+      ],
+      "tables": 2,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "hall-micropower-plus",
+      "name": {
+        "ru": "MicroPower +",
+        "en": "MicroPower +"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        44
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "hall-attachments-and-bur-guards",
+      "name": {
+        "ru": "Насадки и защитные тубусы боров",
+        "en": "Attachments & Bur Guards"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        45
+      ],
+      "tables": 1,
+      "rows": 7,
+      "flags": []
+    },
+    {
+      "slug": "hall-micro-sagittal-saw-blades",
+      "name": {
+        "ru": "Лезвия для микросагиттальных пил HALL",
+        "en": "Micro Sagittal Saw Blades"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "tables": 9,
+      "rows": 53,
+      "flags": []
+    },
+    {
+      "slug": "hall-micro-oscillating-saw-blades",
+      "name": {
+        "ru": "Лезвия для микроосциллирующих пил HALL",
+        "en": "Micro Oscillating Saw Blades"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        52,
+        53,
+        54
+      ],
+      "tables": 3,
+      "rows": 21,
+      "flags": []
+    },
+    {
+      "slug": "hall-micro-reciprocating-saw-blades-and-rasps",
+      "name": {
+        "ru": "Лезвия и рашпили для микрореципрокных пил HALL",
+        "en": "Micro Reciprocating Saw Blades & Rasps"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        55
+      ],
+      "tables": 5,
+      "rows": 16,
+      "flags": []
+    },
+    {
+      "slug": "hall-micro-burs",
+      "name": {
+        "ru": "Микроборы HALL",
+        "en": "Micro Burs"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        56,
+        57,
+        58
+      ],
+      "tables": 11,
+      "rows": 125,
+      "flags": []
+    },
+    {
+      "slug": "hall-sternum-saws",
+      "name": {
+        "ru": "Стернальные пилы",
+        "en": "Sternum Saws"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        59
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "hall-sternum-saw-blades",
+      "name": {
+        "ru": "Лезвия для стернальных пил HALL",
+        "en": "Sternum Saw Blades"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        60,
+        61,
+        62
+      ],
+      "tables": 4,
+      "rows": 20,
+      "flags": []
+    },
+    {
+      "slug": "hall-ultrapower-burs",
+      "name": {
+        "ru": "Боры UltraPower",
+        "en": "UltraPower Burs"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        63,
+        64,
+        65,
+        66,
+        67,
+        68
+      ],
+      "tables": 15,
+      "rows": 168,
+      "flags": []
+    },
+    {
+      "slug": "hall-e9000-system",
+      "name": {
+        "ru": "Система E9000",
+        "en": "E9000 System"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        70
+      ],
+      "tables": 2,
+      "rows": 14,
+      "flags": []
+    },
+    {
+      "slug": "hall-e9005-ent-shaver-blades",
+      "name": {
+        "ru": "Шейверные насадки E9005 для ЛОР-хирургии",
+        "en": "E9005 ENT Shaver Blades"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        69,
+        71,
+        72,
+        73
+      ],
+      "tables": 12,
+      "rows": 27,
+      "flags": []
+    },
+    {
+      "slug": "hall-e-burs",
+      "name": {
+        "ru": "Боры серии E",
+        "en": "E Burs"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        74,
+        75
+      ],
+      "tables": 9,
+      "rows": 64,
+      "flags": []
+    },
+    {
+      "slug": "hall-osteon",
+      "name": {
+        "ru": "Osteon",
+        "en": "Osteon"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        76
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "hall-osteon-burs",
+      "name": {
+        "ru": "Боры Osteon",
+        "en": "Osteon Burs"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        77
+      ],
+      "tables": 2,
+      "rows": 28,
+      "flags": []
+    },
+    {
+      "slug": "hall-electric-consoles-and-accessories",
+      "name": {
+        "ru": "Электрические консоли и принадлежности HALL",
+        "en": "Electric Consoles & Accessories"
+      },
+      "category": "hall-powered-instruments",
+      "status": "published",
+      "sourcePages": [
+        78
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    }
+  ],
+  "nonProductPages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    79,
+    80
+  ],
+  "tablesCreated": 193,
+  "imagesExtracted": 756,
+  "uncertainties": [],
+  "translationWorkflow": "Codex-authored medical Russian; retained English; every translated field marked for medical review; no external adapter",
+  "systemsPublished": 30,
+  "systemsDrafts": 0
+}

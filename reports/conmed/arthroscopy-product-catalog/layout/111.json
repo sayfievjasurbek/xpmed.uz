@@ -1,0 +1,388 @@
+{
+  "pdfPage": 111,
+  "officialPage": 140,
+  "alignment": [
+    [
+      0.9700197511458774,
+      7.497825283219546e-05,
+      0.014923564555144425
+    ],
+    [
+      0.00021588499671760307,
+      0.9791031594023094,
+      0.010863441288172095
+    ]
+  ],
+  "alignmentMatches": 54,
+  "alignmentInliers": 54,
+  "category": "arthroscopy-electrosurgery",
+  "title": {
+    "en": "Edge Bipolar Arthroscopic Radiofrequency System",
+    "ru": "Биполярная артроскопическая радиочастотная система Edge"
+  },
+  "groups": [
+    {
+      "title": "™ Arthroscopic Energy Generator",
+      "page": 111,
+      "officialPage": 140,
+      "headingBounds": [
+        0.467707631990635,
+        0.16721262208931365,
+        0.7196033996861714,
+        0.18201703348975443
+      ],
+      "rows": [
+        {
+          "description": "Arthroscopic Energy Generator",
+          "codes": [
+            {
+              "candidate": "AES-1",
+              "sourceBounds": [
+                0.8630969914033056,
+                0.266703073589571,
+                0.8951855868880892,
+                0.2792939168160691
+              ],
+              "officialBounds": [
+                535.1129760742188,
+                206.79689025878906,
+                555.3575439453125,
+                216.97589111328125
+              ],
+              "officialCode": "AES-1"
+            }
+          ],
+          "rowBounds": [
+            0.4291986124225366,
+            0.2666065063289442,
+            0.8951855868880892,
+            0.2792939168160691
+          ],
+          "pdfPage": 111,
+          "officialPage": 140
+        },
+        {
+          "description": "Arthroscopic Energy Foot Control",
+          "codes": [
+            {
+              "candidate": "AES-FC",
+              "sourceBounds": [
+                0.8550243853772183,
+                0.28462556916134696,
+                0.895184154023313,
+                0.2972182086865177
+              ],
+              "officialBounds": [
+                530.0189819335938,
+                221.29591369628906,
+                555.3557739257812,
+                231.47491455078125
+              ],
+              "officialCode": "AES-FC"
+            }
+          ],
+          "rowBounds": [
+            0.4291999850379976,
+            0.28453079882377297,
+            0.895184154023313,
+            0.2972182086865177
+          ],
+          "pdfPage": 111,
+          "officialPage": 140
+        },
+        {
+          "description": "Arthroscopic Energy Wireless Foot Control",
+          "codes": [
+            {
+              "candidate": "AES-WFC",
+              "sourceBounds": [
+                0.8446122990553178,
+                0.3025475440646567,
+                0.8951726601259615,
+                0.3151424983178098
+              ],
+              "officialBounds": [
+                523.448974609375,
+                235.79493713378906,
+                555.34765625,
+                245.97393798828125
+              ],
+              "officialCode": "AES-WFC"
+            }
+          ],
+          "rowBounds": [
+            0.42918708840052755,
+            0.30245508814287503,
+            0.8951726601259615,
+            0.3151424983178098
+          ],
+          "pdfPage": 111,
+          "officialPage": 140
+        },
+        {
+          "description": "Arthroscopic Energy Foot Control Extension",
+          "codes": [
+            {
+              "candidate": "AES-FCE",
+              "sourceBounds": [
+                0.848336834167767,
+                0.3204726651765548,
+                0.8951682282995522,
+                0.3330667895208176
+              ],
+              "officialBounds": [
+                525.7979736328125,
+                250.29396057128906,
+                555.343994140625,
+                260.47296142578125
+              ],
+              "officialCode": "AES-FCE"
+            }
+          ],
+          "rowBounds": [
+            0.42918846101598856,
+            0.32037938063770377,
+            0.8951682282995522,
+            0.3330667895208176
+          ],
+          "pdfPage": 111,
+          "officialPage": 140
+        },
+        {
+          "description": "110v Power Cord, 10ft",
+          "codes": [
+            {
+              "candidate": "C-7104",
+              "sourceBounds": [
+                0.8561839741200213,
+                0.3383987226678858,
+                0.8951853696487608,
+                0.3509910855250935
+              ],
+              "officialBounds": [
+                530.7479858398438,
+                264.7929992675781,
+                555.3539428710938,
+                274.97198486328125
+              ],
+              "officialCode": "C-7104"
+            }
+          ],
+          "rowBounds": [
+            0.4291898336328941,
+            0.33830369199607874,
+            0.8951853696487608,
+            0.3509910855250935
+          ],
+          "pdfPage": 111,
+          "officialPage": 140
+        },
+        {
+          "description": "220v Power Cord, 10ft",
+          "codes": [
+            {
+              "candidate": "C-7105",
+              "sourceBounds": [
+                0.8562994040153441,
+                0.3563230028199054,
+                0.8951938043322749,
+                0.36891534186454544
+              ],
+              "officialBounds": [
+                530.8199462890625,
+                279.2919921875,
+                555.3583984375,
+                289.4709777832031
+              ],
+              "officialCode": "C-7105"
+            }
+          ],
+          "rowBounds": [
+            0.4292054754983971,
+            0.3562279499395418,
+            0.8951938043322749,
+            0.36891534186454544
+          ],
+          "pdfPage": 111,
+          "officialPage": 140
+        }
+      ],
+      "features": [],
+      "notes": [
+        "The Edge System is a organically designed solution for both bipolar and monopolar",
+        "radio frequency (RF) arthroscopic ablation and coagulation of soft tissue. The Edge",
+        "System consists of a generator, (3) bipolar probes and optional wired or wireless",
+        "foot controls."
+      ],
+      "keyParameters": []
+    },
+    {
+      "title": "™ Disposable Probes",
+      "page": 111,
+      "officialPage": 140,
+      "headingBounds": [
+        0.4677258054299961,
+        0.4064253257746278,
+        0.6224308859316723,
+        0.42120810667614206
+      ],
+      "rows": [
+        {
+          "description": "Arthroscopic Energy 90º Probe with Suction for Shoulder Procedures",
+          "codes": [
+            {
+              "candidate": "AES-90SN",
+              "sourceBounds": [
+                0.8396639999782162,
+                0.5120905386250489,
+                0.8951988644709363,
+                0.524686581126809
+              ],
+              "officialBounds": [
+                520.31689453125,
+                405.2958984375,
+                555.3540649414062,
+                415.4748840332031
+              ],
+              "officialCode": "AES-90SN"
+            }
+          ],
+          "rowBounds": [
+            0.44348130885616704,
+            0.4996411968427595,
+            0.8951988644709363,
+            0.524686581126809
+          ],
+          "pdfPage": 111,
+          "officialPage": 140
+        },
+        {
+          "description": "Arthroscopic Energy 90º Probe Extended Length with Suction for Shoulder Procedures",
+          "codes": [
+            {
+              "candidate": "AES-90SL",
+              "sourceBounds": [
+                0.84124977093277,
+                0.542376314436331,
+                0.89520118368328,
+                0.5549720045293141
+              ],
+              "officialBounds": [
+                521.31591796875,
+                429.79388427734375,
+                555.3540649414062,
+                439.9728698730469
+              ],
+              "officialCode": "AES-90SL"
+            }
+          ],
+          "rowBounds": [
+            0.44346935881557964,
+            0.5299266170695379,
+            0.89520118368328,
+            0.5549720045293141
+          ],
+          "pdfPage": 111,
+          "officialPage": 140
+        },
+        {
+          "description": "Arthroscopic Energy 50º Probe with Suction for Knee Procedures",
+          "codes": [
+            {
+              "candidate": "AES-50S",
+              "sourceBounds": [
+                0.8476856367734253,
+                0.5726631696717356,
+                0.8951947962328183,
+                0.5852574259940877
+              ],
+              "officialBounds": [
+                525.3749389648438,
+                454.2918701171875,
+                555.3485717773438,
+                464.4708557128906
+              ],
+              "officialCode": "AES-50S"
+            }
+          ],
+          "rowBounds": [
+            0.4434717263982722,
+            0.5602120404828083,
+            0.8951947962328183,
+            0.5852574259940877
+          ],
+          "pdfPage": 111,
+          "officialPage": 140
+        },
+        {
+          "description": "Arthroscopic Energy 50º Probe Extended Length with Suction for Knee Procedures",
+          "codes": [
+            {
+              "candidate": "AES-50L",
+              "sourceBounds": [
+                0.8484439845393719,
+                0.6029487613339298,
+                0.8951842489323495,
+                0.6155428465330562
+              ],
+              "officialBounds": [
+                525.8519287109375,
+                478.78985595703125,
+                555.3404541015625,
+                488.9688415527344
+              ],
+              "officialCode": "AES-50L"
+            }
+          ],
+          "rowBounds": [
+            0.4434598247280337,
+            0.5904974607203518,
+            0.8951842489323495,
+            0.6155428465330562
+          ],
+          "pdfPage": 111,
+          "officialPage": 140
+        },
+        {
+          "description": "Arthroscopic Energy 30º Probe for Extremities and Small Joint Procedures",
+          "codes": [
+            {
+              "candidate": "AES-30",
+              "sourceBounds": [
+                0.8551080616862269,
+                0.6332356673594312,
+                0.8951794093359422,
+                0.6458283060694078
+              ],
+              "officialBounds": [
+                530.054931640625,
+                503.287841796875,
+                555.3359375,
+                513.4668579101562
+              ],
+              "officialCode": "AES-30"
+            }
+          ],
+          "rowBounds": [
+            0.44344782631709734,
+            0.620782880936365,
+            0.8951794093359422,
+            0.6458283060694078
+          ],
+          "pdfPage": 111,
+          "officialPage": 140
+        }
+      ],
+      "features": [],
+      "notes": [
+        "These bipolar probes feature integrated handpiece control and temperature",
+        "monitoring capability. Robust suction is included in the 90 and 50 degree",
+        "models. In addition, the customized connector contains a memory chip, which",
+        "when plugged into the generator, automatically sets the optimized generator",
+        "setting to ensure the best device performance."
+      ],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 11
+}

@@ -1,0 +1,3274 @@
+{
+  "slug": "cable-system-instrument-set",
+  "brand": "double-medical",
+  "category": "trauma-instrument-sets",
+  "subcategory": "trauma-large-fragment",
+  "subcategories": [
+    "trauma-large-fragment"
+  ],
+  "specialty": [
+    "traumatology",
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Набор инструментов для серкляжной тросовой системы",
+    "en": "Cable System Instrument Set"
+  },
+  "shortDescription": {
+    "ru": "Инструменты для травматологии",
+    "en": "Trauma surgery instruments"
+  },
+  "description": {
+    "ru": "Набор инструментов для серкляжной тросовой системы. Характеристики и каталожные номера приведены по Trauma Catalogue Double Medical.",
+    "en": "Cable System Instrument Set. Specifications and reference numbers are listed according to the Double Medical Trauma Catalogue."
+  },
+  "heroImage": "/images/products/double-medical/cable-system-instrument-set/page-132-art-01.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "width": 466,
+      "height": 324,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          201,
+          130
+        ],
+        "enhancedSize": [
+          402,
+          260
+        ]
+      },
+      "src": "/images/products/double-medical/cable-system-instrument-set/page-132-art-01.webp",
+      "imageCaption": {
+        "ru": "Фиксатор натяжения серкляжного троса",
+        "en": "Cable Tension Holder"
+      },
+      "sourcePages": [
+        132
+      ]
+    },
+    {
+      "width": 530,
+      "height": 236,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          233,
+          86
+        ],
+        "enhancedSize": [
+          466,
+          172
+        ]
+      },
+      "src": "/images/products/double-medical/cable-system-instrument-set/page-132-art-02.webp",
+      "imageCaption": {
+        "ru": "Насадка, для фиксатора натяжения",
+        "en": "Attachment Bit, for Tension Holder"
+      },
+      "sourcePages": [
+        132
+      ]
+    },
+    {
+      "width": 646,
+      "height": 186,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          291,
+          61
+        ],
+        "enhancedSize": [
+          582,
+          122
+        ]
+      },
+      "src": "/images/products/double-medical/cable-system-instrument-set/page-132-art-03.webp",
+      "imageCaption": {
+        "ru": "Проводник серкляжного троса, большой",
+        "en": "Cable Passer, large"
+      },
+      "sourcePages": [
+        132
+      ]
+    },
+    {
+      "width": 648,
+      "height": 194,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          292,
+          65
+        ],
+        "enhancedSize": [
+          584,
+          130
+        ]
+      },
+      "src": "/images/products/double-medical/cable-system-instrument-set/page-132-art-04.webp",
+      "imageCaption": {
+        "ru": "Проводник серкляжного троса, малый",
+        "en": "Cable Passer, small"
+      },
+      "sourcePages": [
+        132
+      ]
+    },
+    {
+      "width": 634,
+      "height": 477,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          285,
+          207
+        ],
+        "enhancedSize": [
+          570,
+          414
+        ]
+      },
+      "src": "/images/products/double-medical/cable-system-instrument-set/page-132-art-05.webp",
+      "imageCaption": {
+        "ru": "Обжимной инструмент для серкляжного троса",
+        "en": "Cable Crimper"
+      },
+      "sourcePages": [
+        132
+      ]
+    },
+    {
+      "width": 648,
+      "height": 434,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          292,
+          185
+        ],
+        "enhancedSize": [
+          584,
+          370
+        ]
+      },
+      "src": "/images/products/double-medical/cable-system-instrument-set/page-132-art-06.webp",
+      "imageCaption": {
+        "ru": "Кусачки для серкляжного троса",
+        "en": "Cable Cutter"
+      },
+      "sourcePages": [
+        132
+      ]
+    }
+  ],
+  "features": [],
+  "components": [
+    {
+      "id": "trauma-132-01",
+      "groupId": "trauma-set-132-p132",
+      "name": {
+        "ru": "Фиксатор натяжения серкляжного троса",
+        "en": "Cable Tension Holder"
+      },
+      "image": "/images/products/double-medical/cable-system-instrument-set/page-132-art-01.webp",
+      "refCodes": [
+        "111760200"
+      ],
+      "sourcePages": [
+        132
+      ],
+      "sourceBounds": [
+        0.08,
+        0.14974251614165524,
+        0.56,
+        0.2613326009756851
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 132,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-132-p132",
+          "row": 1,
+          "column": 2,
+          "pdfPage": 132,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "111760200"
+            },
+            {
+              "reader": "PSM11",
+              "text": "111760200"
+            },
+            {
+              "reader": "Vision",
+              "text": "111760200"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-132-02",
+      "groupId": "trauma-set-132-p132",
+      "name": {
+        "ru": "Насадка, для фиксатора натяжения",
+        "en": "Attachment Bit, for Tension Holder"
+      },
+      "image": "/images/products/double-medical/cable-system-instrument-set/page-132-art-02.webp",
+      "refCodes": [
+        "111760300"
+      ],
+      "sourcePages": [
+        132
+      ],
+      "sourceBounds": [
+        0.08,
+        0.259897084719233,
+        0.56,
+        0.3692921237184156
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 132,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-132-p132",
+          "row": 2,
+          "column": 2,
+          "pdfPage": 132,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "111760300"
+            },
+            {
+              "reader": "PSM11",
+              "text": "111760300"
+            },
+            {
+              "reader": "Vision",
+              "text": "111760300"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-132-03",
+      "groupId": "trauma-set-132-p132",
+      "name": {
+        "ru": "Проводник серкляжного троса, большой",
+        "en": "Cable Passer, large"
+      },
+      "image": "/images/products/double-medical/cable-system-instrument-set/page-132-art-03.webp",
+      "refCodes": [
+        "111760400"
+      ],
+      "sourcePages": [
+        132
+      ],
+      "sourceBounds": [
+        0.08,
+        0.37024730972412445,
+        0.56,
+        0.47845667269843273
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 132,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-132-p132",
+          "row": 3,
+          "column": 2,
+          "pdfPage": 132,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "111760400"
+            },
+            {
+              "reader": "PSM11",
+              "text": "111760400"
+            },
+            {
+              "reader": "Vision",
+              "text": "111760400"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-132-04",
+      "groupId": "trauma-set-132-p132",
+      "name": {
+        "ru": "Проводник серкляжного троса, малый",
+        "en": "Cable Passer, small"
+      },
+      "image": "/images/products/double-medical/cable-system-instrument-set/page-132-art-04.webp",
+      "refCodes": [
+        "111760500"
+      ],
+      "sourcePages": [
+        132
+      ],
+      "sourceBounds": [
+        0.08,
+        0.48059753472901584,
+        0.56,
+        0.5923939536106698
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 132,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-132-p132",
+          "row": 4,
+          "column": 2,
+          "pdfPage": 132,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "111760500"
+            },
+            {
+              "reader": "PSM11",
+              "text": "111760500"
+            },
+            {
+              "reader": "Vision",
+              "text": "111760500"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-132-05",
+      "groupId": "trauma-set-132-p132",
+      "name": {
+        "ru": "Обжимной инструмент для серкляжного троса",
+        "en": "Cable Crimper"
+      },
+      "image": "/images/products/double-medical/cable-system-instrument-set/page-132-art-05.webp",
+      "refCodes": [
+        "111091500"
+      ],
+      "sourcePages": [
+        132
+      ],
+      "sourceBounds": [
+        0.08,
+        0.5907521033065937,
+        0.56,
+        0.7015650213566716
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 132,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-132-p132",
+          "row": 5,
+          "column": 2,
+          "pdfPage": 132,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "111091500"
+            },
+            {
+              "reader": "PSM11",
+              "text": "111091500"
+            },
+            {
+              "reader": "Vision",
+              "text": "111091500"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-132-06",
+      "groupId": "trauma-set-132-p132",
+      "name": {
+        "ru": "Кусачки для серкляжного троса",
+        "en": "Cable Cutter"
+      },
+      "image": "/images/products/double-medical/cable-system-instrument-set/page-132-art-06.webp",
+      "refCodes": [
+        "111760700"
+      ],
+      "sourcePages": [
+        132
+      ],
+      "sourceBounds": [
+        0.08,
+        0.701102328311485,
+        0.56,
+        0.8095245938609745
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 132,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-132-p132",
+          "row": 6,
+          "column": 2,
+          "pdfPage": 132,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "111760700"
+            },
+            {
+              "reader": "PSM11",
+              "text": "111760700"
+            },
+            {
+              "reader": "Vision",
+              "text": "111760700"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-132-07",
+      "groupId": "trauma-set-132-p132",
+      "name": {
+        "ru": "Проводник серкляжного троса, большой, изогнутый",
+        "en": "Cable Passer, large, curved"
+      },
+      "image": "/images/products/double-medical/cable-system-instrument-set/page-132-art-07.webp",
+      "refCodes": [
+        "111760800"
+      ],
+      "sourcePages": [
+        132
+      ],
+      "sourceBounds": [
+        0.08,
+        0.8114525533163764,
+        0.56,
+        0.93
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 132,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-132-p132",
+          "row": 7,
+          "column": 2,
+          "pdfPage": 132,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "111760800"
+            },
+            {
+              "reader": "PSM11",
+              "text": "111760800"
+            },
+            {
+              "reader": "Vision",
+              "text": "111760800"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-133-01",
+      "groupId": "trauma-set-132-p133",
+      "name": {
+        "ru": "Проводник серкляжного троса, малый, изогнутый",
+        "en": "Cable Passer, small, curved"
+      },
+      "image": "/images/products/double-medical/cable-system-instrument-set/page-133-art-01.webp",
+      "refCodes": [
+        "111760900"
+      ],
+      "sourcePages": [
+        133
+      ],
+      "sourceBounds": [
+        0.08,
+        0.1479816082958325,
+        0.56,
+        0.25819369075013976
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 133,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-132-p133",
+          "row": 1,
+          "column": 2,
+          "pdfPage": 133,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "111760900"
+            },
+            {
+              "reader": "PSM11",
+              "text": "111760900"
+            },
+            {
+              "reader": "Vision",
+              "text": "111760900"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-133-02",
+      "groupId": "trauma-set-132-p133",
+      "name": {
+        "ru": "Натяжитель серкляжного троса, для работы одной рукой",
+        "en": "Cable Tensioner, one-hand operable"
+      },
+      "image": "/images/products/double-medical/cable-system-instrument-set/page-133-art-02.webp",
+      "refCodes": [
+        "111761900"
+      ],
+      "sourcePages": [
+        133
+      ],
+      "sourceBounds": [
+        0.08,
+        0.2583318333007239,
+        0.56,
+        0.3678115676547391
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 133,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-132-p133",
+          "row": 2,
+          "column": 2,
+          "pdfPage": 133,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "111761900"
+            },
+            {
+              "reader": "PSM11",
+              "text": "111761900"
+            },
+            {
+              "reader": "Vision",
+              "text": "111761900"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-133-03",
+      "groupId": "trauma-set-132-p133",
+      "name": {
+        "ru": "Серкляжный проводник, 046",
+        "en": "Cerclage Passer, 046"
+      },
+      "image": "/images/products/double-medical/cable-system-instrument-set/page-133-art-03.webp",
+      "refCodes": [
+        "111761400"
+      ],
+      "sourcePages": [
+        133
+      ],
+      "sourceBounds": [
+        0.08,
+        0.3684864018783017,
+        0.56,
+        0.4790469444702652
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 133,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-132-p133",
+          "row": 3,
+          "column": 2,
+          "pdfPage": 133,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "111761400"
+            },
+            {
+              "reader": "PSM11",
+              "text": "111761400"
+            },
+            {
+              "reader": "Vision",
+              "text": "111761400"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-133-04",
+      "groupId": "trauma-set-132-p133",
+      "name": {
+        "ru": "Серкляжный проводник, Ø60",
+        "en": "Cerclage Passer, Ø60"
+      },
+      "image": "/images/products/double-medical/cable-system-instrument-set/page-133-art-04.webp",
+      "refCodes": [
+        "111761500"
+      ],
+      "sourcePages": [
+        133
+      ],
+      "sourceBounds": [
+        0.08,
+        0.4788366268831931,
+        0.56,
+        0.590287247681459
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 133,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-132-p133",
+          "row": 4,
+          "column": 2,
+          "pdfPage": 133,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "111761500"
+            },
+            {
+              "reader": "PSM11",
+              "text": "111761500"
+            },
+            {
+              "reader": "Vision",
+              "text": "111761500"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-133-05",
+      "groupId": "trauma-set-132-p133",
+      "name": {
+        "ru": "Троакар, для серкляжного проводника",
+        "en": "Trocar, for Cerclage Passer"
+      },
+      "image": "/images/products/double-medical/cable-system-instrument-set/page-133-art-05.webp",
+      "refCodes": [
+        "111761600"
+      ],
+      "sourcePages": [
+        133
+      ],
+      "sourceBounds": [
+        0.08,
+        0.5891868518880845,
+        0.56,
+        0.7015242666288745
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 133,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-132-p133",
+          "row": 5,
+          "column": 2,
+          "pdfPage": 133,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "111761600"
+            },
+            {
+              "reader": "PSM11",
+              "text": "111761600"
+            },
+            {
+              "reader": "Vision",
+              "text": "111761600"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-133-06",
+      "groupId": "trauma-set-132-p133",
+      "name": {
+        "ru": "Репозиционные щипцы, с острым наконечником",
+        "en": "Reduction Forceps, point tip"
+      },
+      "image": "",
+      "refCodes": [
+        "111761800"
+      ],
+      "sourcePages": [
+        133
+      ],
+      "sourceBounds": [
+        0.08,
+        0.699537076892976,
+        0.56,
+        0.8111405014015844
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 133,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-132-p133",
+          "row": 6,
+          "column": 2,
+          "pdfPage": 133,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "111761800"
+            },
+            {
+              "reader": "PSM11",
+              "text": "111761800"
+            },
+            {
+              "reader": "Vision",
+              "text": "111761800"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-133-07",
+      "groupId": "trauma-set-132-p133",
+      "name": {
+        "ru": "Замок серкляжного троса, для натяжителя серкляжного троса",
+        "en": "Cable Lock, for Cable Tensioner"
+      },
+      "image": "/images/products/double-medical/cable-system-instrument-set/page-133-art-07.webp",
+      "refCodes": [
+        "111762200"
+      ],
+      "sourcePages": [
+        133
+      ],
+      "sourceBounds": [
+        0.08,
+        0.8096916454705537,
+        0.56,
+        0.93
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 133,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-132-p133",
+          "row": 7,
+          "column": 2,
+          "pdfPage": 133,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "111762200"
+            },
+            {
+              "reader": "PSM11",
+              "text": "111762200"
+            },
+            {
+              "reader": "Vision",
+              "text": "111762200"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-134-01",
+      "groupId": "trauma-set-132-p134",
+      "name": {
+        "ru": "Контейнер инструментов — Набор инструментов для серкляжной тросовой системы",
+        "en": "Cable/Clast Case"
+      },
+      "image": "/images/products/double-medical/cable-system-instrument-set/page-134-art-01.webp",
+      "refCodes": [
+        "114100100"
+      ],
+      "sourcePages": [
+        134
+      ],
+      "sourceBounds": [
+        0.08,
+        0.1479816082958325,
+        0.56,
+        0.25819369075013976
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 134,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-132-p134",
+          "row": 1,
+          "column": 2,
+          "pdfPage": 134,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "114100100"
+            },
+            {
+              "reader": "PSM11",
+              "text": "114100100"
+            },
+            {
+              "reader": "Vision",
+              "text": "114100100"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-134-02",
+      "groupId": "trauma-set-132-p134",
+      "name": {
+        "ru": "Контейнер инструментов — Набор инструментов для серкляжной тросовой системы II",
+        "en": "Cable System II Instrument Case"
+      },
+      "image": "/images/products/double-medical/cable-system-instrument-set/page-134-art-02.webp",
+      "refCodes": [
+        "114106100"
+      ],
+      "sourcePages": [
+        134
+      ],
+      "sourceBounds": [
+        0.08,
+        0.2583318333007239,
+        0.56,
+        0.93
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 134,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-132-p134",
+          "row": 2,
+          "column": 2,
+          "pdfPage": 134,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "114106100"
+            },
+            {
+              "reader": "PSM11",
+              "text": "114106100"
+            },
+            {
+              "reader": "Vision",
+              "text": "114106100"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    }
+  ],
+  "specTables": [
+    {
+      "id": "trauma-set-132-p132",
+      "groupId": "trauma-set-132-p132",
+      "title": {
+        "ru": "Инструменты · 2/54",
+        "en": "Instruments · 2/54"
+      },
+      "unit": "mm",
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Фиксатор натяжения серкляжного троса",
+            "en": "Cable Tension Holder"
+          },
+          "111760200"
+        ],
+        [
+          {
+            "ru": "Насадка, для фиксатора натяжения",
+            "en": "Attachment Bit, for Tension Holder"
+          },
+          "111760300"
+        ],
+        [
+          {
+            "ru": "Проводник серкляжного троса, большой",
+            "en": "Cable Passer, large"
+          },
+          "111760400"
+        ],
+        [
+          {
+            "ru": "Проводник серкляжного троса, малый",
+            "en": "Cable Passer, small"
+          },
+          "111760500"
+        ],
+        [
+          {
+            "ru": "Обжимной инструмент для серкляжного троса",
+            "en": "Cable Crimper"
+          },
+          "111091500"
+        ],
+        [
+          {
+            "ru": "Кусачки для серкляжного троса",
+            "en": "Cable Cutter"
+          },
+          "111760700"
+        ],
+        [
+          {
+            "ru": "Проводник серкляжного троса, большой, изогнутый",
+            "en": "Cable Passer, large, curved"
+          },
+          "111760800"
+        ]
+      ],
+      "rowImages": [
+        {
+          "width": 466,
+          "height": 324,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              201,
+              130
+            ],
+            "enhancedSize": [
+              402,
+              260
+            ]
+          },
+          "src": "/images/products/double-medical/cable-system-instrument-set/page-132-art-01.webp",
+          "imageCaption": {
+            "ru": "Фиксатор натяжения серкляжного троса",
+            "en": "Cable Tension Holder"
+          },
+          "sourcePages": [
+            132
+          ]
+        },
+        {
+          "width": 530,
+          "height": 236,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              233,
+              86
+            ],
+            "enhancedSize": [
+              466,
+              172
+            ]
+          },
+          "src": "/images/products/double-medical/cable-system-instrument-set/page-132-art-02.webp",
+          "imageCaption": {
+            "ru": "Насадка, для фиксатора натяжения",
+            "en": "Attachment Bit, for Tension Holder"
+          },
+          "sourcePages": [
+            132
+          ]
+        },
+        {
+          "width": 646,
+          "height": 186,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              291,
+              61
+            ],
+            "enhancedSize": [
+              582,
+              122
+            ]
+          },
+          "src": "/images/products/double-medical/cable-system-instrument-set/page-132-art-03.webp",
+          "imageCaption": {
+            "ru": "Проводник серкляжного троса, большой",
+            "en": "Cable Passer, large"
+          },
+          "sourcePages": [
+            132
+          ]
+        },
+        {
+          "width": 648,
+          "height": 194,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              292,
+              65
+            ],
+            "enhancedSize": [
+              584,
+              130
+            ]
+          },
+          "src": "/images/products/double-medical/cable-system-instrument-set/page-132-art-04.webp",
+          "imageCaption": {
+            "ru": "Проводник серкляжного троса, малый",
+            "en": "Cable Passer, small"
+          },
+          "sourcePages": [
+            132
+          ]
+        },
+        {
+          "width": 634,
+          "height": 477,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              285,
+              207
+            ],
+            "enhancedSize": [
+              570,
+              414
+            ]
+          },
+          "src": "/images/products/double-medical/cable-system-instrument-set/page-132-art-05.webp",
+          "imageCaption": {
+            "ru": "Обжимной инструмент для серкляжного троса",
+            "en": "Cable Crimper"
+          },
+          "sourcePages": [
+            132
+          ]
+        },
+        {
+          "width": 648,
+          "height": 434,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              292,
+              185
+            ],
+            "enhancedSize": [
+              584,
+              370
+            ]
+          },
+          "src": "/images/products/double-medical/cable-system-instrument-set/page-132-art-06.webp",
+          "imageCaption": {
+            "ru": "Кусачки для серкляжного троса",
+            "en": "Cable Cutter"
+          },
+          "sourcePages": [
+            132
+          ]
+        },
+        {
+          "width": 646,
+          "height": 196,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              291,
+              66
+            ],
+            "enhancedSize": [
+              582,
+              132
+            ]
+          },
+          "src": "/images/products/double-medical/cable-system-instrument-set/page-132-art-07.webp",
+          "imageCaption": {
+            "ru": "Проводник серкляжного троса, большой, изогнутый",
+            "en": "Cable Passer, large, curved"
+          },
+          "sourcePages": [
+            132
+          ]
+        }
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 132,
+          "sourceBounds": [
+            0.08,
+            0.14974251614165524,
+            0.56,
+            0.2613326009756851
+          ],
+          "printedPage": "2/54",
+          "sourceRowId": "132-01",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-132-p132",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 132,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111760200"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111760200"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111760200"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Cable Tension Holder",
+            "PSM11": "Cable Tension Holder",
+            "Vision": "Cable Tension Holder"
+          }
+        },
+        {
+          "pdfPage": 132,
+          "sourceBounds": [
+            0.08,
+            0.259897084719233,
+            0.56,
+            0.3692921237184156
+          ],
+          "printedPage": "2/54",
+          "sourceRowId": "132-02",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-132-p132",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 132,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111760300"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111760300"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111760300"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Attachment Bit, for Tension Holder",
+            "PSM11": "Attachment Bit, for Tension Holder",
+            "Vision": "Attachment Bit, for Tension Holder"
+          }
+        },
+        {
+          "pdfPage": 132,
+          "sourceBounds": [
+            0.08,
+            0.37024730972412445,
+            0.56,
+            0.47845667269843273
+          ],
+          "printedPage": "2/54",
+          "sourceRowId": "132-03",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-132-p132",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 132,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111760400"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111760400"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111760400"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Cable Passer, large",
+            "PSM11": "Cable Passer, large",
+            "Vision": "Cable Passer, large"
+          }
+        },
+        {
+          "pdfPage": 132,
+          "sourceBounds": [
+            0.08,
+            0.48059753472901584,
+            0.56,
+            0.5923939536106698
+          ],
+          "printedPage": "2/54",
+          "sourceRowId": "132-04",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-132-p132",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 132,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111760500"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111760500"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111760500"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Cable Passer, small",
+            "PSM11": "Cable Passer, small",
+            "Vision": "Cable Passer, small"
+          }
+        },
+        {
+          "pdfPage": 132,
+          "sourceBounds": [
+            0.08,
+            0.5907521033065937,
+            0.56,
+            0.7015650213566716
+          ],
+          "printedPage": "2/54",
+          "sourceRowId": "132-05",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-132-p132",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 132,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111091500"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111091500"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111091500"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Cable Crimper",
+            "PSM11": "Cable Crimper",
+            "Vision": "Cable Crimper"
+          }
+        },
+        {
+          "pdfPage": 132,
+          "sourceBounds": [
+            0.08,
+            0.701102328311485,
+            0.56,
+            0.8095245938609745
+          ],
+          "printedPage": "2/54",
+          "sourceRowId": "132-06",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-132-p132",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 132,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111760700"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111760700"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111760700"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Cable Cutter",
+            "PSM11": "Cable Cutter",
+            "Vision": "Cable Cutter"
+          }
+        },
+        {
+          "pdfPage": 132,
+          "sourceBounds": [
+            0.08,
+            0.8114525533163764,
+            0.56,
+            0.93
+          ],
+          "printedPage": "2/54",
+          "sourceRowId": "132-07",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-132-p132",
+              "row": 7,
+              "column": 2,
+              "pdfPage": 132,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111760800"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111760800"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111760800"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Cable Passer, large, curved",
+            "PSM11": "Cable Passer, large, curved",
+            "Vision": "Cable Passer, large, curved"
+          }
+        }
+      ],
+      "sourcePage": 132,
+      "sourcePages": [
+        132
+      ],
+      "printedPage": "2/54",
+      "images": []
+    },
+    {
+      "id": "trauma-set-132-p133",
+      "groupId": "trauma-set-132-p133",
+      "title": {
+        "ru": "Инструменты · 2/55",
+        "en": "Instruments · 2/55"
+      },
+      "unit": "mm",
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Проводник серкляжного троса, малый, изогнутый",
+            "en": "Cable Passer, small, curved"
+          },
+          "111760900"
+        ],
+        [
+          {
+            "ru": "Натяжитель серкляжного троса, для работы одной рукой",
+            "en": "Cable Tensioner, one-hand operable"
+          },
+          "111761900"
+        ],
+        [
+          {
+            "ru": "Серкляжный проводник, 046",
+            "en": "Cerclage Passer, 046"
+          },
+          "111761400"
+        ],
+        [
+          {
+            "ru": "Серкляжный проводник, Ø60",
+            "en": "Cerclage Passer, Ø60"
+          },
+          "111761500"
+        ],
+        [
+          {
+            "ru": "Троакар, для серкляжного проводника",
+            "en": "Trocar, for Cerclage Passer"
+          },
+          "111761600"
+        ],
+        [
+          {
+            "ru": "Репозиционные щипцы, с острым наконечником",
+            "en": "Reduction Forceps, point tip"
+          },
+          "111761800"
+        ],
+        [
+          {
+            "ru": "Замок серкляжного троса, для натяжителя серкляжного троса",
+            "en": "Cable Lock, for Cable Tensioner"
+          },
+          "111762200"
+        ]
+      ],
+      "rowImages": [
+        {
+          "width": 664,
+          "height": 188,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              300,
+              62
+            ],
+            "enhancedSize": [
+              600,
+              124
+            ]
+          },
+          "src": "/images/products/double-medical/cable-system-instrument-set/page-133-art-01.webp",
+          "imageCaption": {
+            "ru": "Проводник серкляжного троса, малый, изогнутый",
+            "en": "Cable Passer, small, curved"
+          },
+          "sourcePages": [
+            133
+          ]
+        },
+        {
+          "width": 484,
+          "height": 430,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              210,
+              183
+            ],
+            "enhancedSize": [
+              420,
+              366
+            ]
+          },
+          "src": "/images/products/double-medical/cable-system-instrument-set/page-133-art-02.webp",
+          "imageCaption": {
+            "ru": "Натяжитель серкляжного троса, для работы одной рукой",
+            "en": "Cable Tensioner, one-hand operable"
+          },
+          "sourcePages": [
+            133
+          ]
+        },
+        {
+          "width": 622,
+          "height": 162,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              279,
+              49
+            ],
+            "enhancedSize": [
+              558,
+              98
+            ]
+          },
+          "src": "/images/products/double-medical/cable-system-instrument-set/page-133-art-03.webp",
+          "imageCaption": {
+            "ru": "Серкляжный проводник, 046",
+            "en": "Cerclage Passer, 046"
+          },
+          "sourcePages": [
+            133
+          ]
+        },
+        {
+          "width": 908,
+          "height": 196,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              422,
+              66
+            ],
+            "enhancedSize": [
+              844,
+              132
+            ]
+          },
+          "src": "/images/products/double-medical/cable-system-instrument-set/page-133-art-04.webp",
+          "imageCaption": {
+            "ru": "Серкляжный проводник, Ø60",
+            "en": "Cerclage Passer, Ø60"
+          },
+          "sourcePages": [
+            133
+          ]
+        },
+        {
+          "width": 850,
+          "height": 150,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              393,
+              44
+            ],
+            "enhancedSize": [
+              786,
+              88
+            ]
+          },
+          "src": "/images/products/double-medical/cable-system-instrument-set/page-133-art-05.webp",
+          "imageCaption": {
+            "ru": "Троакар, для серкляжного проводника",
+            "en": "Trocar, for Cerclage Passer"
+          },
+          "sourcePages": [
+            133
+          ]
+        },
+        null,
+        {
+          "width": 638,
+          "height": 276,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              287,
+              106
+            ],
+            "enhancedSize": [
+              574,
+              212
+            ]
+          },
+          "src": "/images/products/double-medical/cable-system-instrument-set/page-133-art-07.webp",
+          "imageCaption": {
+            "ru": "Замок серкляжного троса, для натяжителя серкляжного троса",
+            "en": "Cable Lock, for Cable Tensioner"
+          },
+          "sourcePages": [
+            133
+          ]
+        }
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 133,
+          "sourceBounds": [
+            0.08,
+            0.1479816082958325,
+            0.56,
+            0.25819369075013976
+          ],
+          "printedPage": "2/55",
+          "sourceRowId": "133-01",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-132-p133",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 133,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111760900"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111760900"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111760900"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Cable Passer, small, curved",
+            "PSM11": "Cable Passer, small, curved",
+            "Vision": "Cable Passer, small, curved"
+          }
+        },
+        {
+          "pdfPage": 133,
+          "sourceBounds": [
+            0.08,
+            0.2583318333007239,
+            0.56,
+            0.3678115676547391
+          ],
+          "printedPage": "2/55",
+          "sourceRowId": "133-02",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-132-p133",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 133,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111761900"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111761900"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111761900"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Cable Tensioner, one-hand opera",
+            "PSM11": "Cable Tensioner, one-hand opera",
+            "Vision": "Cable Tensioner, one-hand operable"
+          }
+        },
+        {
+          "pdfPage": 133,
+          "sourceBounds": [
+            0.08,
+            0.3684864018783017,
+            0.56,
+            0.4790469444702652
+          ],
+          "printedPage": "2/55",
+          "sourceRowId": "133-03",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-132-p133",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 133,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111761400"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111761400"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111761400"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Cerclage Passer, 046",
+            "PSM11": "Cerclage Passer, 046",
+            "Vision": "Cerclage Passer, $46"
+          }
+        },
+        {
+          "pdfPage": 133,
+          "sourceBounds": [
+            0.08,
+            0.4788366268831931,
+            0.56,
+            0.590287247681459
+          ],
+          "printedPage": "2/55",
+          "sourceRowId": "133-04",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-132-p133",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 133,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111761500"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111761500"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111761500"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Cerclage Passer, ®60",
+            "PSM11": "Cerclage Passer, ®60",
+            "Vision": "Cerclage Passer, $60"
+          }
+        },
+        {
+          "pdfPage": 133,
+          "sourceBounds": [
+            0.08,
+            0.5891868518880845,
+            0.56,
+            0.7015242666288745
+          ],
+          "printedPage": "2/55",
+          "sourceRowId": "133-05",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-132-p133",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 133,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111761600"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111761600"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111761600"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Trocar, for Cerclage Passer",
+            "PSM11": "Trocar, for Cerclage Passer",
+            "Vision": "Trocar, for Cerclage Passer"
+          }
+        },
+        {
+          "pdfPage": 133,
+          "sourceBounds": [
+            0.08,
+            0.699537076892976,
+            0.56,
+            0.8111405014015844
+          ],
+          "printedPage": "2/55",
+          "sourceRowId": "133-06",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-132-p133",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 133,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111761800"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111761800"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111761800"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Reduction Forceps, point tip",
+            "PSM11": "Reduction Forceps, point tip",
+            "Vision": "Reduction Forceps, point tip"
+          }
+        },
+        {
+          "pdfPage": 133,
+          "sourceBounds": [
+            0.08,
+            0.8096916454705537,
+            0.56,
+            0.93
+          ],
+          "printedPage": "2/55",
+          "sourceRowId": "133-07",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-132-p133",
+              "row": 7,
+              "column": 2,
+              "pdfPage": 133,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111762200"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111762200"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111762200"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Cable Lock, for Cable Tensioner",
+            "PSM11": "Cable Lock, for Cable Tensioner",
+            "Vision": "Cable Lock, for Cable Tensioner"
+          }
+        }
+      ],
+      "sourcePage": 133,
+      "sourcePages": [
+        133
+      ],
+      "printedPage": "2/55",
+      "images": [
+        {
+          "width": 842,
+          "height": 547,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              389,
+              242
+            ],
+            "enhancedSize": [
+              778,
+              484
+            ]
+          },
+          "src": "/images/products/double-medical/cable-system-instrument-set/page-133-art-06.webp",
+          "imageCaption": {
+            "ru": "Троакар, для серкляжного проводника",
+            "en": "Trocar, for Cerclage Passer"
+          },
+          "sourcePages": [
+            133
+          ]
+        }
+      ]
+    },
+    {
+      "id": "trauma-set-132-p134",
+      "groupId": "trauma-set-132-p134",
+      "title": {
+        "ru": "Инструменты · 2/56",
+        "en": "Instruments · 2/56"
+      },
+      "unit": "mm",
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Контейнер инструментов — Набор инструментов для серкляжной тросовой системы",
+            "en": "Cable/Clast Case"
+          },
+          "114100100"
+        ],
+        [
+          {
+            "ru": "Контейнер инструментов — Набор инструментов для серкляжной тросовой системы II",
+            "en": "Cable System II Instrument Case"
+          },
+          "114106100"
+        ]
+      ],
+      "rowImages": [
+        {
+          "width": 424,
+          "height": 296,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              180,
+              116
+            ],
+            "enhancedSize": [
+              360,
+              232
+            ]
+          },
+          "src": "/images/products/double-medical/cable-system-instrument-set/page-134-art-01.webp",
+          "imageCaption": {
+            "ru": "Контейнер инструментов — Набор инструментов для серкляжной тросовой системы",
+            "en": "Cable/Clast Case"
+          },
+          "sourcePages": [
+            134
+          ]
+        },
+        {
+          "width": 652,
+          "height": 424,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              294,
+              180
+            ],
+            "enhancedSize": [
+              588,
+              360
+            ]
+          },
+          "src": "/images/products/double-medical/cable-system-instrument-set/page-134-art-02.webp",
+          "imageCaption": {
+            "ru": "Контейнер инструментов — Набор инструментов для серкляжной тросовой системы II",
+            "en": "Cable System II Instrument Case"
+          },
+          "sourcePages": [
+            134
+          ]
+        }
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 134,
+          "sourceBounds": [
+            0.08,
+            0.1479816082958325,
+            0.56,
+            0.25819369075013976
+          ],
+          "printedPage": "2/56",
+          "sourceRowId": "134-01",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-132-p134",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 134,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "114100100"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "114100100"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "114100100"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Cable/Clast Case",
+            "PSM11": "Cable/Clast Case",
+            "Vision": "Cable/Clast Case"
+          }
+        },
+        {
+          "pdfPage": 134,
+          "sourceBounds": [
+            0.08,
+            0.2583318333007239,
+            0.56,
+            0.93
+          ],
+          "printedPage": "2/56",
+          "sourceRowId": "134-02",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-132-p134",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 134,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "114106100"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "114106100"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "114106100"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Cable System II Instrument Case",
+            "PSM11": "Cable System II Instrument Case",
+            "Vision": "Cable System II Instrument Case"
+          }
+        }
+      ],
+      "sourcePage": 134,
+      "sourcePages": [
+        134
+      ],
+      "printedPage": "2/56",
+      "images": [
+        {
+          "width": 634,
+          "height": 412,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              285,
+              174
+            ],
+            "enhancedSize": [
+              570,
+              348
+            ]
+          },
+          "src": "/images/products/double-medical/cable-system-instrument-set/page-134-art-03.webp",
+          "imageCaption": {
+            "ru": "Контейнер инструментов — Набор инструментов для серкляжной тросовой системы II",
+            "en": "Cable System II Instrument Case"
+          },
+          "sourcePages": [
+            134
+          ]
+        },
+        {
+          "width": 648,
+          "height": 418,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              292,
+              177
+            ],
+            "enhancedSize": [
+              584,
+              354
+            ]
+          },
+          "src": "/images/products/double-medical/cable-system-instrument-set/page-134-art-04.webp",
+          "imageCaption": {
+            "ru": "Контейнер инструментов — Набор инструментов для серкляжной тросовой системы II",
+            "en": "Cable System II Instrument Case"
+          },
+          "sourcePages": [
+            134
+          ]
+        }
+      ]
+    }
+  ],
+  "refCodes": [
+    "114106000",
+    "111760200",
+    "111760300",
+    "111760400",
+    "111760500",
+    "111091500",
+    "111760700",
+    "111760800",
+    "111760900",
+    "111761900",
+    "111761400",
+    "111761500",
+    "111761600",
+    "111761800",
+    "111762200",
+    "114100100",
+    "114106100"
+  ],
+  "sourcePages": [
+    132,
+    133,
+    134
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Trauma Catalogue — каталог продукции",
+    "en": "Double Medical Trauma Catalogue — product catalog"
+  },
+  "documentCover": "/catalogs/double-medical/trauma-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "catalogType": "list",
+  "importPartition": "trauma-part1",
+  "availabilityNote": {
+    "ru": "Изображения приведены для справки",
+    "en": "Images for reference only"
+  },
+  "imageDimensions": {
+    "/images/products/double-medical/cable-system-instrument-set/page-132-art-01.webp": {
+      "width": 466,
+      "height": 324
+    },
+    "/images/products/double-medical/cable-system-instrument-set/page-132-art-02.webp": {
+      "width": 530,
+      "height": 236
+    },
+    "/images/products/double-medical/cable-system-instrument-set/page-132-art-03.webp": {
+      "width": 646,
+      "height": 186
+    },
+    "/images/products/double-medical/cable-system-instrument-set/page-132-art-04.webp": {
+      "width": 648,
+      "height": 194
+    },
+    "/images/products/double-medical/cable-system-instrument-set/page-132-art-05.webp": {
+      "width": 634,
+      "height": 477
+    },
+    "/images/products/double-medical/cable-system-instrument-set/page-132-art-06.webp": {
+      "width": 648,
+      "height": 434
+    },
+    "/images/products/double-medical/cable-system-instrument-set/page-132-art-07.webp": {
+      "width": 646,
+      "height": 196
+    },
+    "/images/products/double-medical/cable-system-instrument-set/page-133-art-01.webp": {
+      "width": 664,
+      "height": 188
+    },
+    "/images/products/double-medical/cable-system-instrument-set/page-133-art-02.webp": {
+      "width": 484,
+      "height": 430
+    },
+    "/images/products/double-medical/cable-system-instrument-set/page-133-art-03.webp": {
+      "width": 622,
+      "height": 162
+    },
+    "/images/products/double-medical/cable-system-instrument-set/page-133-art-04.webp": {
+      "width": 908,
+      "height": 196
+    },
+    "/images/products/double-medical/cable-system-instrument-set/page-133-art-05.webp": {
+      "width": 850,
+      "height": 150
+    },
+    "/images/products/double-medical/cable-system-instrument-set/page-133-art-06.webp": {
+      "width": 842,
+      "height": 547
+    },
+    "/images/products/double-medical/cable-system-instrument-set/page-133-art-07.webp": {
+      "width": 638,
+      "height": 276
+    },
+    "/images/products/double-medical/cable-system-instrument-set/page-134-art-01.webp": {
+      "width": 424,
+      "height": 296
+    },
+    "/images/products/double-medical/cable-system-instrument-set/page-134-art-02.webp": {
+      "width": 652,
+      "height": 424
+    },
+    "/images/products/double-medical/cable-system-instrument-set/page-134-art-03.webp": {
+      "width": 634,
+      "height": 412
+    },
+    "/images/products/double-medical/cable-system-instrument-set/page-134-art-04.webp": {
+      "width": 648,
+      "height": 418
+    }
+  },
+  "relatedSystemSlugs": [
+    "cable-grip-locking-plate",
+    "cable-locking-plate",
+    "cable-clasp",
+    "cable",
+    "3-5mm-cable-spacer-i",
+    "5-0mm-cable-spacer-i",
+    "3-5mm-cable-spacer-ii",
+    "5-0mm-cable-spacer-ii"
+  ],
+  "setCode": "114106000",
+  "setCodes": [
+    "114106000"
+  ],
+  "setCodeEvidence": [
+    {
+      "cy": 0.12306789278027784,
+      "bounds": [
+        0.2602138744173293,
+        0.11719819996086872,
+        0.36084452975047987,
+        0.12893758559968696
+      ],
+      "readings": {
+        "PSM3": "114106000",
+        "PSM11": "114106000",
+        "Vision": "114106000"
+      },
+      "value": "114106000",
+      "pdfPage": 132
+    }
+  ],
+  "sourcePdf": "/catalogs/double-medical/trauma-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/trauma-catalogue/pages/132.webp",
+    "/catalogs/double-medical/trauma-catalogue/pages/133.webp",
+    "/catalogs/double-medical/trauma-catalogue/pages/134.webp"
+  ],
+  "sourcePageDimensions": {
+    "6": {
+      "width": 3647,
+      "height": 5111
+    },
+    "7": {
+      "width": 3647,
+      "height": 5111
+    },
+    "8": {
+      "width": 3647,
+      "height": 5111
+    },
+    "9": {
+      "width": 3647,
+      "height": 5111
+    },
+    "10": {
+      "width": 3647,
+      "height": 5111
+    },
+    "11": {
+      "width": 3647,
+      "height": 5111
+    },
+    "12": {
+      "width": 3647,
+      "height": 5111
+    },
+    "13": {
+      "width": 3647,
+      "height": 5111
+    },
+    "14": {
+      "width": 3647,
+      "height": 5111
+    },
+    "15": {
+      "width": 3647,
+      "height": 5111
+    },
+    "16": {
+      "width": 3647,
+      "height": 5111
+    },
+    "17": {
+      "width": 3647,
+      "height": 5111
+    },
+    "18": {
+      "width": 3647,
+      "height": 5111
+    },
+    "19": {
+      "width": 3647,
+      "height": 5111
+    },
+    "20": {
+      "width": 3647,
+      "height": 5111
+    },
+    "21": {
+      "width": 3647,
+      "height": 5111
+    },
+    "22": {
+      "width": 3647,
+      "height": 5111
+    },
+    "23": {
+      "width": 3647,
+      "height": 5111
+    },
+    "24": {
+      "width": 3647,
+      "height": 5111
+    },
+    "25": {
+      "width": 3647,
+      "height": 5111
+    },
+    "26": {
+      "width": 3647,
+      "height": 5111
+    },
+    "27": {
+      "width": 3647,
+      "height": 5111
+    },
+    "28": {
+      "width": 3647,
+      "height": 5111
+    },
+    "29": {
+      "width": 3647,
+      "height": 5111
+    },
+    "30": {
+      "width": 3647,
+      "height": 5111
+    },
+    "31": {
+      "width": 3647,
+      "height": 5111
+    },
+    "32": {
+      "width": 3647,
+      "height": 5111
+    },
+    "33": {
+      "width": 3647,
+      "height": 5111
+    },
+    "34": {
+      "width": 3647,
+      "height": 5111
+    },
+    "35": {
+      "width": 3647,
+      "height": 5111
+    },
+    "36": {
+      "width": 3647,
+      "height": 5111
+    },
+    "37": {
+      "width": 3647,
+      "height": 5111
+    },
+    "38": {
+      "width": 3647,
+      "height": 5111
+    },
+    "39": {
+      "width": 3647,
+      "height": 5111
+    },
+    "40": {
+      "width": 3647,
+      "height": 5111
+    },
+    "41": {
+      "width": 3647,
+      "height": 5111
+    },
+    "42": {
+      "width": 3647,
+      "height": 5111
+    },
+    "43": {
+      "width": 3647,
+      "height": 5111
+    },
+    "44": {
+      "width": 3647,
+      "height": 5111
+    },
+    "45": {
+      "width": 3647,
+      "height": 5111
+    },
+    "46": {
+      "width": 3647,
+      "height": 5111
+    },
+    "47": {
+      "width": 3647,
+      "height": 5111
+    },
+    "48": {
+      "width": 3647,
+      "height": 5111
+    },
+    "49": {
+      "width": 3647,
+      "height": 5111
+    },
+    "50": {
+      "width": 3647,
+      "height": 5111
+    },
+    "51": {
+      "width": 3647,
+      "height": 5111
+    },
+    "52": {
+      "width": 3647,
+      "height": 5111
+    },
+    "53": {
+      "width": 3647,
+      "height": 5111
+    },
+    "54": {
+      "width": 3647,
+      "height": 5111
+    },
+    "55": {
+      "width": 3647,
+      "height": 5111
+    },
+    "56": {
+      "width": 3647,
+      "height": 5111
+    },
+    "57": {
+      "width": 3647,
+      "height": 5111
+    },
+    "58": {
+      "width": 3647,
+      "height": 5111
+    },
+    "59": {
+      "width": 3647,
+      "height": 5111
+    },
+    "60": {
+      "width": 3647,
+      "height": 5111
+    },
+    "61": {
+      "width": 3647,
+      "height": 5111
+    },
+    "62": {
+      "width": 3647,
+      "height": 5111
+    },
+    "63": {
+      "width": 3647,
+      "height": 5111
+    },
+    "64": {
+      "width": 3647,
+      "height": 5111
+    },
+    "65": {
+      "width": 3647,
+      "height": 5111
+    },
+    "66": {
+      "width": 3647,
+      "height": 5111
+    },
+    "67": {
+      "width": 3647,
+      "height": 5111
+    },
+    "68": {
+      "width": 3647,
+      "height": 5111
+    },
+    "69": {
+      "width": 3647,
+      "height": 5111
+    },
+    "70": {
+      "width": 3647,
+      "height": 5111
+    },
+    "71": {
+      "width": 3647,
+      "height": 5111
+    },
+    "72": {
+      "width": 3647,
+      "height": 5111
+    },
+    "73": {
+      "width": 3647,
+      "height": 5111
+    },
+    "74": {
+      "width": 3647,
+      "height": 5111
+    },
+    "75": {
+      "width": 3647,
+      "height": 5111
+    },
+    "76": {
+      "width": 3647,
+      "height": 5111
+    },
+    "77": {
+      "width": 3647,
+      "height": 5111
+    },
+    "80": {
+      "width": 3647,
+      "height": 5111
+    },
+    "81": {
+      "width": 3647,
+      "height": 5111
+    },
+    "82": {
+      "width": 3647,
+      "height": 5111
+    },
+    "83": {
+      "width": 3647,
+      "height": 5111
+    },
+    "84": {
+      "width": 3647,
+      "height": 5111
+    },
+    "85": {
+      "width": 3647,
+      "height": 5111
+    },
+    "86": {
+      "width": 3647,
+      "height": 5111
+    },
+    "87": {
+      "width": 3647,
+      "height": 5111
+    },
+    "88": {
+      "width": 3647,
+      "height": 5111
+    },
+    "89": {
+      "width": 3647,
+      "height": 5111
+    },
+    "90": {
+      "width": 3647,
+      "height": 5111
+    },
+    "91": {
+      "width": 3647,
+      "height": 5111
+    },
+    "92": {
+      "width": 3647,
+      "height": 5111
+    },
+    "93": {
+      "width": 3647,
+      "height": 5111
+    },
+    "94": {
+      "width": 3647,
+      "height": 5111
+    },
+    "95": {
+      "width": 3647,
+      "height": 5111
+    },
+    "96": {
+      "width": 3647,
+      "height": 5111
+    },
+    "97": {
+      "width": 3647,
+      "height": 5111
+    },
+    "98": {
+      "width": 3647,
+      "height": 5111
+    },
+    "99": {
+      "width": 3647,
+      "height": 5111
+    },
+    "100": {
+      "width": 3647,
+      "height": 5111
+    },
+    "101": {
+      "width": 3647,
+      "height": 5111
+    },
+    "102": {
+      "width": 3647,
+      "height": 5111
+    },
+    "103": {
+      "width": 3647,
+      "height": 5111
+    },
+    "104": {
+      "width": 3647,
+      "height": 5111
+    },
+    "105": {
+      "width": 3647,
+      "height": 5111
+    },
+    "106": {
+      "width": 3647,
+      "height": 5111
+    },
+    "107": {
+      "width": 3647,
+      "height": 5111
+    },
+    "108": {
+      "width": 3647,
+      "height": 5111
+    },
+    "109": {
+      "width": 3647,
+      "height": 5111
+    },
+    "110": {
+      "width": 3647,
+      "height": 5111
+    },
+    "111": {
+      "width": 3647,
+      "height": 5111
+    },
+    "112": {
+      "width": 3647,
+      "height": 5111
+    },
+    "113": {
+      "width": 3647,
+      "height": 5111
+    },
+    "114": {
+      "width": 3647,
+      "height": 5111
+    },
+    "115": {
+      "width": 3647,
+      "height": 5111
+    },
+    "116": {
+      "width": 3647,
+      "height": 5111
+    },
+    "117": {
+      "width": 3647,
+      "height": 5111
+    },
+    "118": {
+      "width": 3647,
+      "height": 5111
+    },
+    "119": {
+      "width": 3647,
+      "height": 5111
+    },
+    "120": {
+      "width": 3647,
+      "height": 5111
+    },
+    "121": {
+      "width": 3647,
+      "height": 5111
+    },
+    "122": {
+      "width": 3647,
+      "height": 5111
+    },
+    "123": {
+      "width": 3647,
+      "height": 5111
+    },
+    "124": {
+      "width": 3647,
+      "height": 5111
+    },
+    "125": {
+      "width": 3647,
+      "height": 5111
+    },
+    "126": {
+      "width": 3647,
+      "height": 5111
+    },
+    "127": {
+      "width": 3647,
+      "height": 5111
+    },
+    "128": {
+      "width": 3647,
+      "height": 5111
+    },
+    "129": {
+      "width": 3647,
+      "height": 5111
+    },
+    "130": {
+      "width": 3647,
+      "height": 5111
+    },
+    "131": {
+      "width": 3647,
+      "height": 5111
+    },
+    "132": {
+      "width": 3647,
+      "height": 5111
+    },
+    "133": {
+      "width": 3647,
+      "height": 5111
+    },
+    "134": {
+      "width": 3647,
+      "height": 5111
+    },
+    "135": {
+      "width": 3647,
+      "height": 5111
+    },
+    "136": {
+      "width": 3647,
+      "height": 5111
+    },
+    "137": {
+      "width": 3647,
+      "height": 5111
+    },
+    "138": {
+      "width": 3647,
+      "height": 5111
+    },
+    "139": {
+      "width": 3647,
+      "height": 5111
+    },
+    "140": {
+      "width": 3647,
+      "height": 5111
+    },
+    "143": {
+      "width": 3647,
+      "height": 5111
+    },
+    "144": {
+      "width": 3647,
+      "height": 5111
+    },
+    "145": {
+      "width": 3647,
+      "height": 5111
+    },
+    "146": {
+      "width": 3647,
+      "height": 5111
+    },
+    "147": {
+      "width": 3647,
+      "height": 5111
+    },
+    "148": {
+      "width": 3647,
+      "height": 5111
+    },
+    "149": {
+      "width": 3647,
+      "height": 5111
+    },
+    "150": {
+      "width": 3647,
+      "height": 5111
+    },
+    "151": {
+      "width": 3647,
+      "height": 5111
+    },
+    "152": {
+      "width": 3647,
+      "height": 5111
+    },
+    "153": {
+      "width": 3647,
+      "height": 5111
+    },
+    "154": {
+      "width": 3647,
+      "height": 5111
+    },
+    "155": {
+      "width": 3647,
+      "height": 5111
+    },
+    "156": {
+      "width": 3647,
+      "height": 5111
+    },
+    "157": {
+      "width": 3647,
+      "height": 5111
+    },
+    "158": {
+      "width": 3647,
+      "height": 5111
+    },
+    "159": {
+      "width": 3647,
+      "height": 5111
+    },
+    "160": {
+      "width": 3647,
+      "height": 5111
+    },
+    "161": {
+      "width": 3647,
+      "height": 5111
+    },
+    "162": {
+      "width": 3647,
+      "height": 5111
+    },
+    "163": {
+      "width": 3647,
+      "height": 5111
+    },
+    "164": {
+      "width": 3647,
+      "height": 5111
+    },
+    "165": {
+      "width": 3647,
+      "height": 5111
+    },
+    "166": {
+      "width": 3647,
+      "height": 5111
+    },
+    "167": {
+      "width": 3647,
+      "height": 5111
+    },
+    "168": {
+      "width": 3647,
+      "height": 5111
+    },
+    "169": {
+      "width": 3647,
+      "height": 5111
+    },
+    "170": {
+      "width": 3647,
+      "height": 5111
+    },
+    "171": {
+      "width": 3647,
+      "height": 5111
+    },
+    "172": {
+      "width": 3647,
+      "height": 5111
+    },
+    "173": {
+      "width": 3647,
+      "height": 5111
+    },
+    "174": {
+      "width": 3647,
+      "height": 5111
+    },
+    "175": {
+      "width": 3647,
+      "height": 5111
+    },
+    "176": {
+      "width": 3647,
+      "height": 5111
+    },
+    "177": {
+      "width": 3647,
+      "height": 5111
+    },
+    "178": {
+      "width": 3647,
+      "height": 5111
+    },
+    "179": {
+      "width": 3647,
+      "height": 5111
+    },
+    "180": {
+      "width": 3647,
+      "height": 5111
+    },
+    "181": {
+      "width": 3647,
+      "height": 5111
+    },
+    "182": {
+      "width": 3647,
+      "height": 5111
+    },
+    "183": {
+      "width": 3647,
+      "height": 5111
+    },
+    "184": {
+      "width": 3647,
+      "height": 5111
+    },
+    "185": {
+      "width": 3647,
+      "height": 5111
+    },
+    "186": {
+      "width": 3647,
+      "height": 5111
+    },
+    "187": {
+      "width": 3647,
+      "height": 5111
+    },
+    "188": {
+      "width": 3647,
+      "height": 5111
+    },
+    "189": {
+      "width": 3647,
+      "height": 5111
+    },
+    "190": {
+      "width": 3647,
+      "height": 5111
+    },
+    "193": {
+      "width": 3647,
+      "height": 5111
+    },
+    "194": {
+      "width": 3647,
+      "height": 5111
+    },
+    "195": {
+      "width": 3647,
+      "height": 5111
+    },
+    "196": {
+      "width": 3647,
+      "height": 5111
+    },
+    "197": {
+      "width": 3647,
+      "height": 5111
+    },
+    "198": {
+      "width": 3647,
+      "height": 5111
+    },
+    "199": {
+      "width": 3647,
+      "height": 5111
+    },
+    "200": {
+      "width": 3647,
+      "height": 5111
+    },
+    "201": {
+      "width": 3647,
+      "height": 5111
+    },
+    "202": {
+      "width": 3647,
+      "height": 5111
+    },
+    "203": {
+      "width": 3647,
+      "height": 5111
+    },
+    "204": {
+      "width": 3647,
+      "height": 5111
+    },
+    "205": {
+      "width": 3647,
+      "height": 5111
+    },
+    "206": {
+      "width": 3647,
+      "height": 5111
+    },
+    "207": {
+      "width": 3647,
+      "height": 5111
+    },
+    "208": {
+      "width": 3647,
+      "height": 5111
+    },
+    "209": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "3f2755d7646453cd1d8981369406a66062322971a7cb98258e022ae9b9769999",
+    "importMethod": "600-DPI Tesseract PSM3/11 plus independent Apple Vision; source glyph reconciliation and Codex visual reading; Codex medical RU; native photo composites, original Real-ESRGAN weights exact 2x then rembg",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      79,
+      142,
+      192,
+      78,
+      141,
+      191,
+      210
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "gallery.1.imageCaption.ru",
+      "gallery.2.imageCaption.ru",
+      "gallery.3.imageCaption.ru",
+      "gallery.4.imageCaption.ru",
+      "gallery.5.imageCaption.ru",
+      "components.0.name.ru",
+      "components.1.name.ru",
+      "components.2.name.ru",
+      "components.3.name.ru",
+      "components.4.name.ru",
+      "components.5.name.ru",
+      "components.6.name.ru",
+      "components.7.name.ru",
+      "components.8.name.ru",
+      "components.9.name.ru",
+      "components.10.name.ru",
+      "components.11.name.ru",
+      "components.12.name.ru",
+      "components.13.name.ru",
+      "components.14.name.ru",
+      "components.15.name.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.rows.3.0.ru",
+      "specTables.0.rows.4.0.ru",
+      "specTables.0.rows.5.0.ru",
+      "specTables.0.rows.6.0.ru",
+      "specTables.0.rowImages.0.imageCaption.ru",
+      "specTables.0.rowImages.1.imageCaption.ru",
+      "specTables.0.rowImages.2.imageCaption.ru",
+      "specTables.0.rowImages.3.imageCaption.ru",
+      "specTables.0.rowImages.4.imageCaption.ru",
+      "specTables.0.rowImages.5.imageCaption.ru",
+      "specTables.0.rowImages.6.imageCaption.ru",
+      "specTables.1.title.ru",
+      "specTables.1.columns.0.ru",
+      "specTables.1.columns.1.ru",
+      "specTables.1.rows.0.0.ru",
+      "specTables.1.rows.1.0.ru",
+      "specTables.1.rows.2.0.ru",
+      "specTables.1.rows.3.0.ru",
+      "specTables.1.rows.4.0.ru",
+      "specTables.1.rows.5.0.ru",
+      "specTables.1.rows.6.0.ru",
+      "specTables.1.rowImages.0.imageCaption.ru",
+      "specTables.1.rowImages.1.imageCaption.ru",
+      "specTables.1.rowImages.2.imageCaption.ru",
+      "specTables.1.rowImages.3.imageCaption.ru",
+      "specTables.1.rowImages.4.imageCaption.ru",
+      "specTables.1.rowImages.6.imageCaption.ru",
+      "specTables.1.images.0.imageCaption.ru",
+      "specTables.2.title.ru",
+      "specTables.2.columns.0.ru",
+      "specTables.2.columns.1.ru",
+      "specTables.2.rows.0.0.ru",
+      "specTables.2.rows.1.0.ru",
+      "specTables.2.rowImages.0.imageCaption.ru",
+      "specTables.2.rowImages.1.imageCaption.ru",
+      "specTables.2.images.0.imageCaption.ru",
+      "specTables.2.images.1.imageCaption.ru",
+      "catalogTitle.ru",
+      "availabilityNote.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Owner authorized automatic publication: exact source REF verification, Codex-authored RU/EN, complete image QA, zero open real flags",
+    "imageQA": "All source photos checked visually; native resolution corrected for rotations; Real-ESRGAN exact 2x, rembg, source-white aperture cleanup; originals retained."
+  },
+  "publishedAt": "2026-11-20T18:40:53.285059+00:00"
+}

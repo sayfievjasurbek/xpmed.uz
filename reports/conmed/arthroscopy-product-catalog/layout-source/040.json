@@ -1,0 +1,598 @@
+{
+  "pdfPage": 40,
+  "officialPage": 56,
+  "alignment": [
+    [
+      0.9702697322311747,
+      -0.001104229107172494,
+      0.01505483997589457
+    ],
+    [
+      0.0006667331207111844,
+      0.9779212436496617,
+      0.01069400795668395
+    ]
+  ],
+  "alignmentMatches": 31,
+  "alignmentInliers": 28,
+  "category": "knee-arthroscopy",
+  "title": {
+    "en": "Cruciate Reconstruction Accessories",
+    "ru": "Принадлежности для реконструкции крестообразных связок"
+  },
+  "groups": [
+    {
+      "title": "Tendon Stripper",
+      "page": 40,
+      "officialPage": 56,
+      "headingBounds": [
+        0.429839674627493,
+        0.14219578881954312,
+        0.5542222241867588,
+        0.15701182777543943
+      ],
+      "rows": [
+        {
+          "description": "Tendon Stripper (7mm diameter opening)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "TS8850",
+              "sourceBounds": [
+                0.8431771891827056,
+                0.2863372090948032,
+                0.8981670052673962,
+                0.29941860453165026
+              ],
+              "officialCode": "TS8850",
+              "officialBounds": [
+                529.0560302734375,
+                222.67689514160156,
+                555.713134765625,
+                232.85589599609375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.2798779068132267,
+            0.9081670052673962,
+            0.30187790681322674
+          ],
+          "pdfPage": 40,
+          "officialPage": 56
+        },
+        {
+          "description": "Open Loop Tendon Stripper (6.6mm diameter opening)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "TS8865",
+              "sourceBounds": [
+                0.8492871702703683,
+                0.30523255838822894,
+                0.8981670032530537,
+                0.31540697664084094
+              ],
+              "officialCode": "TS8865",
+              "officialBounds": [
+                529.0469970703125,
+                237.17591857910156,
+                555.7166748046875,
+                247.35491943359375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.2973197675145349,
+            0.9081670032530537,
+            0.31931976751453495
+          ],
+          "pdfPage": 40,
+          "officialPage": 56
+        }
+      ],
+      "features": [
+        {
+          "text": "For safe retrieval of semitendinosus and gracilis tendons for ACL and PCL reconstruction procedures",
+          "bounds": [
+            0.436951731115061,
+            0.1619319851532256,
+            0.840308275176238,
+            0.17617416680490716
+          ],
+          "officialStartX": 266.2200012207031
+        },
+        {
+          "text": "The 7mm and 6.6mm diameter openings allow for full thickness tendons to be harvested without damage to surrounding soft tissue",
+          "bounds": [
+            0.43692105809494336,
+            0.18909645472310638,
+            0.8942798868026262,
+            0.20337575414822306
+          ],
+          "officialStartX": 266.2200012207031
+        },
+        {
+          "text": "Closed design allows full, 360° enclosure for the tendon",
+          "bounds": [
+            0.4368903850641886,
+            0.21626093371337476,
+            0.7654123593359301,
+            0.23045170126414025
+          ],
+          "officialStartX": 266.2200012207031
+        },
+        {
+          "text": "Open Loop Design eliminates the need to thread tendon or sutures through a closed loop.",
+          "bounds": [
+            0.4368750485488112,
+            0.22984317320850892,
+            0.8790361579233656,
+            0.2441120293285301
+          ],
+          "officialStartX": 266.2200012207031
+        }
+      ],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Tendon Stripper — Accessories",
+      "page": 40,
+      "officialPage": 56,
+      "headingBounds": [
+        0.4296028855585749,
+        0.3392592848311966,
+        0.4979777531395142,
+        0.3524748511384654
+      ],
+      "rows": [
+        {
+          "description": "Sizing Tube, 7mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8737",
+              "sourceBounds": [
+                0.6252545827924451,
+                0.3691860466357748,
+                0.6558044797330133,
+                0.3808139534805043
+              ],
+              "officialCode": "8737",
+              "officialBounds": [
+                388.0400085449219,
+                289.6039123535156,
+                403.3999938964844,
+                298.6518859863281
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.36200000005813954,
+            0.6658044797330133,
+            0.38400000005813956
+          ],
+          "pdfPage": 40,
+          "officialPage": 56
+        },
+        {
+          "description": "Sizing Tube, 6.5mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8790",
+              "sourceBounds": [
+                0.8655804476929593,
+                0.36918604665030963,
+                0.8981670056675293,
+                0.3808139534950392
+              ],
+              "officialCode": "8790",
+              "officialBounds": [
+                540.3599853515625,
+                289.6039123535156,
+                555.7200927734375,
+                298.6518859863281
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3620000000726744,
+            0.9081670056675293,
+            0.38400000007267443
+          ],
+          "pdfPage": 40,
+          "officialPage": 56
+        },
+        {
+          "description": "Sizing Tube, 8mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8738",
+              "sourceBounds": [
+                0.6272912424311211,
+                0.38662790698045923,
+                0.6558044809904674,
+                0.3982558138251886
+              ],
+              "officialCode": "8738",
+              "officialBounds": [
+                388.03997802734375,
+                304.09991455078125,
+                403.39996337890625,
+                313.14788818359375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3794418604028239,
+            0.6658044809904674,
+            0.4014418604028239
+          ],
+          "pdfPage": 40,
+          "officialPage": 56
+        },
+        {
+          "description": "Sizing Tube, 7.5mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8791",
+              "sourceBounds": [
+                0.8676171080115692,
+                0.38662790698045923,
+                0.8961303465709154,
+                0.3982558138251886
+              ],
+              "officialCode": "8791",
+              "officialBounds": [
+                540.3599853515625,
+                304.09991455078125,
+                555.7200927734375,
+                313.14788818359375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3794418604028239,
+            0.9061303465709154,
+            0.4014418604028239
+          ],
+          "pdfPage": 40,
+          "officialPage": 56
+        },
+        {
+          "description": "Sizing Tube, 9mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8739",
+              "sourceBounds": [
+                0.6272912420747058,
+                0.4040697672343381,
+                0.6558044806340521,
+                0.4171511626711851
+              ],
+              "officialCode": "8739",
+              "officialBounds": [
+                388.03997802734375,
+                318.5959167480469,
+                403.39996337890625,
+                327.6438903808594
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3976104649527616,
+            0.6658044806340521,
+            0.4196104649527616
+          ],
+          "pdfPage": 40,
+          "officialPage": 56
+        },
+        {
+          "description": "Sizing Tube, 8.5mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8792",
+              "sourceBounds": [
+                0.8676171088871498,
+                0.4055232560253097,
+                0.898167005827718,
+                0.41715116287003906
+              ],
+              "officialCode": "8792",
+              "officialBounds": [
+                540.3599853515625,
+                318.5959167480469,
+                555.7200927734375,
+                327.6438903808594
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.39833720944767437,
+            0.908167005827718,
+            0.4203372094476744
+          ],
+          "pdfPage": 40,
+          "officialPage": 56
+        },
+        {
+          "description": "Sizing Tube, 10mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8740",
+              "sourceBounds": [
+                0.6232179223161773,
+                0.4228670634802617,
+                0.6558044802907473,
+                0.4345930232770159
+              ],
+              "officialCode": "8740",
+              "officialBounds": [
+                388.03997802734375,
+                333.0919189453125,
+                403.39996337890625,
+                342.139892578125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.4157300433786388,
+            0.6658044802907473,
+            0.4377300433786388
+          ],
+          "pdfPage": 40,
+          "officialPage": 56
+        },
+        {
+          "description": "Sizing Tube, 9.5mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8793",
+              "sourceBounds": [
+                0.8655804477744258,
+                0.4229651164322864,
+                0.8981670057489958,
+                0.4345930232770159
+              ],
+              "officialCode": "8793",
+              "officialBounds": [
+                540.3599853515625,
+                333.0919189453125,
+                555.7200927734375,
+                342.139892578125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.41577906985465113,
+            0.9081670057489958,
+            0.43777906985465115
+          ],
+          "pdfPage": 40,
+          "officialPage": 56
+        },
+        {
+          "description": "Sizing Tube, 11mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8741",
+              "sourceBounds": [
+                0.6272912427211619,
+                0.4404069767849679,
+                0.6578411396617301,
+                0.45348837222181504
+              ],
+              "officialCode": "8741",
+              "officialBounds": [
+                389.0959777832031,
+                347.5879211425781,
+                404.4559631347656,
+                356.6358947753906
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.43394767450339145,
+            0.6678411396617301,
+            0.45594767450339146
+          ],
+          "pdfPage": 40,
+          "officialPage": 56
+        },
+        {
+          "description": "Sizing Tube, 10.5mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8794",
+              "sourceBounds": [
+                0.8655804477744258,
+                0.4404069768974026,
+                0.8981670057489958,
+                0.4520348837421322
+              ],
+              "officialCode": "8794",
+              "officialBounds": [
+                540.3599853515625,
+                347.5879211425781,
+                555.7200927734375,
+                356.6358947753906
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.4332209303197674,
+            0.9081670057489958,
+            0.4552209303197674
+          ],
+          "pdfPage": 40,
+          "officialPage": 56
+        },
+        {
+          "description": "Sizing Tube, 13mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8743",
+              "sourceBounds": [
+                0.6272912420237893,
+                0.4578488372379719,
+                0.6558044805831355,
+                0.4709302326748188
+              ],
+              "officialCode": "8743",
+              "officialBounds": [
+                388.03997802734375,
+                362.08392333984375,
+                403.39996337890625,
+                371.13189697265625
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.45138953495639533,
+            0.6658044805831355,
+            0.47338953495639535
+          ],
+          "pdfPage": 40,
+          "officialPage": 56
+        },
+        {
+          "description": "Sizing Tube, 12mm",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8742",
+              "sourceBounds": [
+                0.8655804477744258,
+                0.4578488372379719,
+                0.8981670057489958,
+                0.4709302326748188
+              ],
+              "officialCode": "8742",
+              "officialBounds": [
+                540.3599853515625,
+                362.08392333984375,
+                555.7200927734375,
+                371.13189697265625
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.45138953495639533,
+            0.9081670057489958,
+            0.47338953495639535
+          ],
+          "pdfPage": 40,
+          "officialPage": 56
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "™ Hi-FI® Suture",
+      "page": 40,
+      "officialPage": 56,
+      "headingBounds": [
+        0.5191314982409078,
+        0.5071257727340949,
+        0.6274644522661849,
+        0.5219307735869929
+      ],
+      "rows": [
+        {
+          "description": "#2 Hi-Fi Suture, 60mm Straight Needle, 20\" Loop (12 per Box)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "HL200",
+              "sourceBounds": [
+                0.8533604888959894,
+                0.52752976201044,
+                0.8981670051162307,
+                0.540697674535284
+              ],
+              "officialCode": "HL200",
+              "officialBounds": [
+                533.3399658203125,
+                417.6769104003906,
+                555.7166137695312,
+                427.85589599609375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5211137182728619,
+            0.9081670051162307,
+            0.5431137182728619
+          ],
+          "pdfPage": 40,
+          "officialPage": 56
+        },
+        {
+          "description": "#2 Hi-Fi Suture, 48mm Curved Needle, 20\" Loop (12 per Box)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "HL201",
+              "sourceBounds": [
+                0.8553971503345787,
+                0.545058139436373,
+                0.8981670055208183,
+                0.5581395348732201
+              ],
+              "officialCode": "HL201",
+              "officialBounds": [
+                533.5469970703125,
+                432.1759033203125,
+                555.7149047851562,
+                442.3548889160156
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5385988371547966,
+            0.9081670055208183,
+            0.5605988371547966
+          ],
+          "pdfPage": 40,
+          "officialPage": 56
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 16
+}

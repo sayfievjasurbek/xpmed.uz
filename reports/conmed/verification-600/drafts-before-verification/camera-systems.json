@@ -1,0 +1,1098 @@
+{
+  "schemaVersion": 1,
+  "slug": "camera-systems",
+  "brand": "conmed",
+  "category": "endoscopy-visualization",
+  "subcategory": "",
+  "subcategories": [],
+  "specialty": [],
+  "name": {
+    "ru": "Системы хирургических видеокамер",
+    "en": "Camera Systems"
+  },
+  "shortDescription": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "heroImage": "/images/products/conmed/camera-systems/page-004-photo-b7b61cdd.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "methodVersion": 3,
+      "inputFingerprint": "888b29a6bd4330ab1968a3fb079d4cbf0552954ef07e1ca226294f77ffe656d6",
+      "maskMethod": "rembg plus edge-connected white-background restoration; exact source pixels retained",
+      "src": "/images/products/conmed/camera-systems/page-004-photo-b7b61cdd.webp",
+      "imageType": "cutout",
+      "imageCaption": {
+        "ru": "Блок управления камерой IM8000 True HD 3MOS",
+        "en": "IM8000 True HD 3 MOS Camera Control Unit"
+      },
+      "width": 1134,
+      "height": 729,
+      "maskCoverage": 1.0,
+      "pdfPage": 4,
+      "printedPage": 2,
+      "sourceBounds": [
+        0.052817,
+        0.154877,
+        0.390258,
+        0.299288
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "methodVersion": 3,
+      "inputFingerprint": "e9c2d6b899e01a7f55ae3c15564459bf6f18dbf4a2e7e7a747af038cf48194b1",
+      "maskMethod": "rembg plus edge-connected white-background restoration; exact source pixels retained",
+      "src": "/images/products/conmed/camera-systems/page-004-photo-ecfbe0ea.webp",
+      "imageType": "cutout",
+      "imageCaption": {
+        "ru": "Видеоголовка True HD 3MOS «Eyecup»",
+        "en": "True HD 3MOS “Eyecup” Camera Head"
+      },
+      "width": 1062,
+      "height": 639,
+      "maskCoverage": 1.0,
+      "pdfPage": 4,
+      "printedPage": 2,
+      "sourceBounds": [
+        0.038146,
+        0.368355,
+        0.390258,
+        0.496023
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "methodVersion": 3,
+      "inputFingerprint": "0e4e5a7786961830a7d7e5f4108dfec37665c0d47463dd70518b7060f2fdadb4",
+      "maskMethod": "rembg plus edge-connected white-background restoration; exact source pixels retained",
+      "src": "/images/products/conmed/camera-systems/page-004-photo-57481b41.webp",
+      "imageType": "cutout",
+      "imageCaption": {
+        "ru": "Видеоголовка True HD 3MOS «Cartridge»",
+        "en": "True HD 3MOS “Cartridge” Camera Head"
+      },
+      "width": 1129,
+      "height": 569,
+      "maskCoverage": 1.0,
+      "pdfPage": 4,
+      "printedPage": 2,
+      "sourceBounds": [
+        0.030516,
+        0.552532,
+        0.378521,
+        0.662202
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "methodVersion": 3,
+      "inputFingerprint": "a1850e9174fe420980352dbe52f66b769abc4c2001860772b2908f86fd88ee94",
+      "maskMethod": "rembg plus edge-connected white-background restoration; exact source pixels retained",
+      "src": "/images/products/conmed/camera-systems/page-004-photo-619a04ce.webp",
+      "imageType": "cutout",
+      "imageCaption": {
+        "ru": "Видеоголовка True HD 3MOS «Urology»",
+        "en": "True HD 3MOS “Urology” Camera Head"
+      },
+      "width": 1130,
+      "height": 669,
+      "maskCoverage": 1.0,
+      "pdfPage": 4,
+      "printedPage": 2,
+      "sourceBounds": [
+        0.044014,
+        0.726245,
+        0.387324,
+        0.8581
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    }
+  ],
+  "features": [
+    {
+      "title": {
+        "ru": "Чёткая визуализация",
+        "en": "Vivid Visualization"
+      },
+      "text": {
+        "ru": "КМОП-сенсоры обеспечивают повышенную светочувствительность, чёткое изображение и наиболее естественную цветопередачу при сложных хирургических вмешательствах.",
+        "en": "CMOS chip sensors provides increased light sensitivity, crisp resolution and the most natural color spectrum for advanced surgical procedures."
+      },
+      "sourceBounds": [
+        0.433099,
+        0.163248,
+        0.894953,
+        0.203432
+      ],
+      "id": "im8000-feature-1",
+      "image": null,
+      "groupId": "im8000",
+      "sourcePages": [
+        4
+      ],
+      "pdfPage": 4,
+      "printedPage": 2,
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "title": {
+        "ru": "Полная автоклавируемость",
+        "en": "Fully Autoclavable"
+      },
+      "text": {
+        "ru": "Все три видеоголовки рассчитаны на автоклавирование - наиболее экономичный способ стерилизации.",
+        "en": "All three camera heads are designed to be autoclavable, which is the most cost-effective form of sterilization."
+      },
+      "sourceBounds": [
+        0.433099,
+        0.211386,
+        0.894953,
+        0.236919
+      ],
+      "id": "im8000-feature-2",
+      "image": null,
+      "groupId": "im8000",
+      "sourcePages": [
+        4
+      ],
+      "pdfPage": 4,
+      "printedPage": 2,
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "title": {
+        "ru": "Надёжная конструкция",
+        "en": "Durable Design"
+      },
+      "text": {
+        "ru": "Для повышения долговечности и надёжности в видеоголовках используется фирменное крепление призмы ShockFlex, предназначенное для уменьшения риска отказа оборудования в операционной и обеспечения длительного срока службы.",
+        "en": "For increased durability and reliability, these camera heads feature our proprietary ShockFlex prism mounting designed to limit surprises in the OR caused by faulty equipment and ensure a long life span."
+      },
+      "sourceBounds": [
+        0.433099,
+        0.24571,
+        0.900822,
+        0.285475
+      ],
+      "id": "im8000-feature-3",
+      "image": null,
+      "groupId": "im8000",
+      "sourcePages": [
+        4
+      ],
+      "pdfPage": 4,
+      "printedPage": 2,
+      "coordinateSpace": "normalized",
+      "path": null
+    }
+  ],
+  "components": [
+    {
+      "id": "im8000-item-1",
+      "groupId": "im8000",
+      "name": {
+        "ru": "Блок управления камерой True HD 3MOS",
+        "en": "True HD 3MOS Camera Control Unit"
+      },
+      "image": "/images/products/conmed/camera-systems/page-004-photo-b7b61cdd.webp",
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "IM8000",
+          "pass2": "IM8000",
+          "confidence1": 79.748978,
+          "confidence2": 87.297867,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "IM8000",
+          "sourceBounds": [
+            0.8550469483568075,
+            0.3227291753871913,
+            0.8949530516431925,
+            0.3308915864378401
+          ],
+          "pdfPage": 4,
+          "printedPage": 2,
+          "system": "camera-systems",
+          "group": "im8000",
+          "componentId": "im8000-item-1",
+          "tableId": "im8000",
+          "row": 1,
+          "column": 2,
+          "path": "specTables.0.rows.0.1"
+        }
+      ],
+      "sourcePages": [
+        4
+      ],
+      "showInGrid": true,
+      "pdfPage": 4,
+      "printedPage": 2,
+      "sourceBounds": [
+        0.425469,
+        0.319799,
+        0.900822,
+        0.332775
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "im8000-item-2",
+      "groupId": "im8000",
+      "name": {
+        "ru": "Автоклавируемая видеоголовка True HD 3MOS «Eyecup»",
+        "en": "Autoclavable True HD 3MOS “Eyecup” Camera Head"
+      },
+      "image": "/images/products/conmed/camera-systems/page-004-photo-ecfbe0ea.webp",
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "IM8120",
+          "pass2": "M8120",
+          "confidence1": 87.060989,
+          "confidence2": 34.926987,
+          "flagged": true,
+          "reasons": [
+            "ocr-disagreement",
+            "low-confidence"
+          ],
+          "printedCandidate": "IM8120",
+          "sourceBounds": [
+            0.8553403755868545,
+            0.34072833821682713,
+            0.8937793427230047,
+            0.34889074926747593
+          ],
+          "pdfPage": 4,
+          "printedPage": 2,
+          "system": "camera-systems",
+          "group": "im8000",
+          "componentId": "im8000-item-2",
+          "tableId": "im8000",
+          "row": 2,
+          "column": 2,
+          "path": "specTables.0.rows.1.1"
+        }
+      ],
+      "sourcePages": [
+        4
+      ],
+      "showInGrid": true,
+      "pdfPage": 4,
+      "printedPage": 2,
+      "sourceBounds": [
+        0.425469,
+        0.337798,
+        0.900822,
+        0.350774
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "im8000-item-3",
+      "groupId": "im8000",
+      "name": {
+        "ru": "Автоклавируемая видеоголовка True HD 3MOS «Cartridge»",
+        "en": "Autoclavable True HD 3MOS “Cartridge” Camera Head"
+      },
+      "image": "/images/products/conmed/camera-systems/page-004-photo-57481b41.webp",
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "IM8121",
+          "pass2": "IM8121",
+          "confidence1": 87.42775,
+          "confidence2": 90.505264,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "IM8121",
+          "sourceBounds": [
+            0.8556338028169014,
+            0.35851820845542065,
+            0.891725352112676,
+            0.3666806195060695
+          ],
+          "pdfPage": 4,
+          "printedPage": 2,
+          "system": "camera-systems",
+          "group": "im8000",
+          "componentId": "im8000-item-3",
+          "tableId": "im8000",
+          "row": 3,
+          "column": 2,
+          "path": "specTables.0.rows.2.1"
+        }
+      ],
+      "sourcePages": [
+        4
+      ],
+      "showInGrid": true,
+      "pdfPage": 4,
+      "printedPage": 2,
+      "sourceBounds": [
+        0.425469,
+        0.355797,
+        0.900822,
+        0.368774
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "im8000-item-4",
+      "groupId": "im8000",
+      "name": {
+        "ru": "Автоклавируемая видеоголовка True HD 3MOS «Urology»",
+        "en": "Autoclavable True HD 3MOS “Urology” Camera Head"
+      },
+      "image": "/images/products/conmed/camera-systems/page-004-photo-619a04ce.webp",
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "IM8123",
+          "pass2": "IM8123",
+          "confidence1": 89.419937,
+          "confidence2": 89.450607,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "IM8123",
+          "sourceBounds": [
+            0.8553403755868545,
+            0.3765173712850565,
+            0.8937793427230047,
+            0.3846797823357053
+          ],
+          "pdfPage": 4,
+          "printedPage": 2,
+          "system": "camera-systems",
+          "group": "im8000",
+          "componentId": "im8000-item-4",
+          "tableId": "im8000",
+          "row": 4,
+          "column": 2,
+          "path": "specTables.0.rows.3.1"
+        }
+      ],
+      "sourcePages": [
+        4
+      ],
+      "showInGrid": true,
+      "pdfPage": 4,
+      "printedPage": 2,
+      "sourceBounds": [
+        0.425469,
+        0.373797,
+        0.900822,
+        0.386773
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    }
+  ],
+  "componentGroups": [
+    {
+      "id": "im8000",
+      "name": {
+        "ru": "Блок управления камерой IM8000 True HD 3MOS",
+        "en": "IM8000 True HD 3MOS Camera Control Unit"
+      },
+      "description": {
+        "ru": "",
+        "en": ""
+      },
+      "componentIds": [
+        "im8000-item-1",
+        "im8000-item-2",
+        "im8000-item-3",
+        "im8000-item-4"
+      ],
+      "subgroups": [],
+      "sourceNotes": [],
+      "images": [
+        {
+          "methodVersion": 3,
+          "inputFingerprint": "888b29a6bd4330ab1968a3fb079d4cbf0552954ef07e1ca226294f77ffe656d6",
+          "maskMethod": "rembg plus edge-connected white-background restoration; exact source pixels retained",
+          "src": "/images/products/conmed/camera-systems/page-004-photo-b7b61cdd.webp",
+          "imageType": "cutout",
+          "imageCaption": {
+            "ru": "Блок управления камерой IM8000 True HD 3MOS",
+            "en": "IM8000 True HD 3 MOS Camera Control Unit"
+          },
+          "width": 1134,
+          "height": 729,
+          "maskCoverage": 1.0,
+          "pdfPage": 4,
+          "printedPage": 2,
+          "sourceBounds": [
+            0.052817,
+            0.154877,
+            0.390258,
+            0.299288
+          ],
+          "coordinateSpace": "normalized",
+          "path": null
+        },
+        {
+          "methodVersion": 3,
+          "inputFingerprint": "e9c2d6b899e01a7f55ae3c15564459bf6f18dbf4a2e7e7a747af038cf48194b1",
+          "maskMethod": "rembg plus edge-connected white-background restoration; exact source pixels retained",
+          "src": "/images/products/conmed/camera-systems/page-004-photo-ecfbe0ea.webp",
+          "imageType": "cutout",
+          "imageCaption": {
+            "ru": "Видеоголовка True HD 3MOS «Eyecup»",
+            "en": "True HD 3MOS “Eyecup” Camera Head"
+          },
+          "width": 1062,
+          "height": 639,
+          "maskCoverage": 1.0,
+          "pdfPage": 4,
+          "printedPage": 2,
+          "sourceBounds": [
+            0.038146,
+            0.368355,
+            0.390258,
+            0.496023
+          ],
+          "coordinateSpace": "normalized",
+          "path": null
+        },
+        {
+          "methodVersion": 3,
+          "inputFingerprint": "0e4e5a7786961830a7d7e5f4108dfec37665c0d47463dd70518b7060f2fdadb4",
+          "maskMethod": "rembg plus edge-connected white-background restoration; exact source pixels retained",
+          "src": "/images/products/conmed/camera-systems/page-004-photo-57481b41.webp",
+          "imageType": "cutout",
+          "imageCaption": {
+            "ru": "Видеоголовка True HD 3MOS «Cartridge»",
+            "en": "True HD 3MOS “Cartridge” Camera Head"
+          },
+          "width": 1129,
+          "height": 569,
+          "maskCoverage": 1.0,
+          "pdfPage": 4,
+          "printedPage": 2,
+          "sourceBounds": [
+            0.030516,
+            0.552532,
+            0.378521,
+            0.662202
+          ],
+          "coordinateSpace": "normalized",
+          "path": null
+        },
+        {
+          "methodVersion": 3,
+          "inputFingerprint": "a1850e9174fe420980352dbe52f66b769abc4c2001860772b2908f86fd88ee94",
+          "maskMethod": "rembg plus edge-connected white-background restoration; exact source pixels retained",
+          "src": "/images/products/conmed/camera-systems/page-004-photo-619a04ce.webp",
+          "imageType": "cutout",
+          "imageCaption": {
+            "ru": "Видеоголовка True HD 3MOS «Urology»",
+            "en": "True HD 3MOS “Urology” Camera Head"
+          },
+          "width": 1130,
+          "height": 669,
+          "maskCoverage": 1.0,
+          "pdfPage": 4,
+          "printedPage": 2,
+          "sourceBounds": [
+            0.044014,
+            0.726245,
+            0.387324,
+            0.8581
+          ],
+          "coordinateSpace": "normalized",
+          "path": null
+        }
+      ],
+      "tableId": "im8000",
+      "sourcePages": [
+        4
+      ],
+      "pdfPage": 4,
+      "printedPage": 2,
+      "sourceBounds": [
+        0.426056,
+        0.141482,
+        0.903756,
+        0.154458
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    }
+  ],
+  "specTables": [
+    {
+      "id": "im8000",
+      "title": {
+        "ru": "Блок управления камерой IM8000 True HD 3MOS",
+        "en": "IM8000 True HD 3MOS Camera Control Unit"
+      },
+      "unit": null,
+      "image": null,
+      "componentImage": "/images/products/conmed/camera-systems/page-004-photo-b7b61cdd.webp",
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "Cat. No.",
+          "en": "Cat. No."
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Блок управления камерой True HD 3MOS",
+            "en": "True HD 3MOS Camera Control Unit"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "Автоклавируемая видеоголовка True HD 3MOS «Eyecup»",
+            "en": "Autoclavable True HD 3MOS “Eyecup” Camera Head"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "Автоклавируемая видеоголовка True HD 3MOS «Cartridge»",
+            "en": "Autoclavable True HD 3MOS “Cartridge” Camera Head"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "Автоклавируемая видеоголовка True HD 3MOS «Urology»",
+            "en": "Autoclavable True HD 3MOS “Urology” Camera Head"
+          },
+          null
+        ]
+      ],
+      "legend": null,
+      "sourcePages": [
+        4
+      ],
+      "headersVerified": true,
+      "rowSources": [
+        {
+          "pdfPage": 4,
+          "printedPage": 2,
+          "sourceBounds": [
+            0.425469,
+            0.319799,
+            0.900822,
+            0.332775
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "IM8000",
+              "pass2": "IM8000",
+              "confidence1": 79.748978,
+              "confidence2": 87.297867,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "IM8000",
+              "sourceBounds": [
+                0.8550469483568075,
+                0.3227291753871913,
+                0.8949530516431925,
+                0.3308915864378401
+              ],
+              "pdfPage": 4,
+              "printedPage": 2,
+              "system": "camera-systems",
+              "group": "im8000",
+              "componentId": "im8000-item-1",
+              "tableId": "im8000",
+              "row": 1,
+              "column": 2,
+              "path": "specTables.0.rows.0.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 4,
+          "printedPage": 2,
+          "sourceBounds": [
+            0.425469,
+            0.337798,
+            0.900822,
+            0.350774
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "IM8120",
+              "pass2": "M8120",
+              "confidence1": 87.060989,
+              "confidence2": 34.926987,
+              "flagged": true,
+              "reasons": [
+                "ocr-disagreement",
+                "low-confidence"
+              ],
+              "printedCandidate": "IM8120",
+              "sourceBounds": [
+                0.8553403755868545,
+                0.34072833821682713,
+                0.8937793427230047,
+                0.34889074926747593
+              ],
+              "pdfPage": 4,
+              "printedPage": 2,
+              "system": "camera-systems",
+              "group": "im8000",
+              "componentId": "im8000-item-2",
+              "tableId": "im8000",
+              "row": 2,
+              "column": 2,
+              "path": "specTables.0.rows.1.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 4,
+          "printedPage": 2,
+          "sourceBounds": [
+            0.425469,
+            0.355797,
+            0.900822,
+            0.368774
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "IM8121",
+              "pass2": "IM8121",
+              "confidence1": 87.42775,
+              "confidence2": 90.505264,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "IM8121",
+              "sourceBounds": [
+                0.8556338028169014,
+                0.35851820845542065,
+                0.891725352112676,
+                0.3666806195060695
+              ],
+              "pdfPage": 4,
+              "printedPage": 2,
+              "system": "camera-systems",
+              "group": "im8000",
+              "componentId": "im8000-item-3",
+              "tableId": "im8000",
+              "row": 3,
+              "column": 2,
+              "path": "specTables.0.rows.2.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 4,
+          "printedPage": 2,
+          "sourceBounds": [
+            0.425469,
+            0.373797,
+            0.900822,
+            0.386773
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "IM8123",
+              "pass2": "IM8123",
+              "confidence1": 89.419937,
+              "confidence2": 89.450607,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "IM8123",
+              "sourceBounds": [
+                0.8553403755868545,
+                0.3765173712850565,
+                0.8937793427230047,
+                0.3846797823357053
+              ],
+              "pdfPage": 4,
+              "printedPage": 2,
+              "system": "camera-systems",
+              "group": "im8000",
+              "componentId": "im8000-item-4",
+              "tableId": "im8000",
+              "row": 4,
+              "column": 2,
+              "path": "specTables.0.rows.3.1"
+            }
+          ]
+        }
+      ],
+      "groupId": "im8000",
+      "pdfPage": 4,
+      "printedPage": 2,
+      "sourceBounds": [
+        0.425469,
+        0.304311,
+        0.900822,
+        0.388447
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    }
+  ],
+  "refCodes": [],
+  "sourcePdf": "/catalogs/conmed/advanced-visualization-system/source.pdf",
+  "documentCover": "/catalogs/conmed/advanced-visualization-system/pages/001.webp",
+  "catalogPageCount": 20,
+  "sourcePages": [
+    4
+  ],
+  "sourcePageImages": [
+    "/catalogs/conmed/advanced-visualization-system/pages/004.webp"
+  ],
+  "sourcePageDimensions": {
+    "4": {
+      "width": 3408,
+      "height": 4778
+    }
+  },
+  "catalogEdition": null,
+  "isNew": false,
+  "status": "draft",
+  "manufacturerLinks": [],
+  "availabilityNote": {
+    "ru": "Не все изделия могут быть доступны на всех рынках.",
+    "en": "All products may not be available in all markets"
+  },
+  "imageDimensions": {
+    "/images/products/conmed/camera-systems/page-004-photo-b7b61cdd.webp": {
+      "width": 1134,
+      "height": 729
+    },
+    "/images/products/conmed/camera-systems/page-004-photo-ecfbe0ea.webp": {
+      "width": 1062,
+      "height": 639
+    },
+    "/images/products/conmed/camera-systems/page-004-photo-57481b41.webp": {
+      "width": 1129,
+      "height": 569
+    },
+    "/images/products/conmed/camera-systems/page-004-photo-619a04ce.webp": {
+      "width": 1130,
+      "height": 669
+    }
+  },
+  "review": {
+    "flags": [
+      {
+        "path": "specTables.0.rows.0.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «IM8000», проход 2 «IM8000». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          4
+        ],
+        "pdfPage": 4,
+        "printedPage": 2,
+        "sourceBounds": [
+          0.8550469483568075,
+          0.3227291753871913,
+          0.8949530516431925,
+          0.3308915864378401
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "IM8000",
+          "pass2": "IM8000",
+          "confidence1": 79.748978,
+          "confidence2": 87.297867,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "IM8000",
+          "sourceBounds": [
+            0.8550469483568075,
+            0.3227291753871913,
+            0.8949530516431925,
+            0.3308915864378401
+          ],
+          "pdfPage": 4,
+          "printedPage": 2,
+          "system": "camera-systems",
+          "group": "im8000",
+          "componentId": "im8000-item-1",
+          "tableId": "im8000",
+          "row": 1,
+          "column": 2,
+          "path": "specTables.0.rows.0.1"
+        }
+      },
+      {
+        "path": "specTables.0.rows.1.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «IM8120», проход 2 «M8120». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          4
+        ],
+        "pdfPage": 4,
+        "printedPage": 2,
+        "sourceBounds": [
+          0.8553403755868545,
+          0.34072833821682713,
+          0.8937793427230047,
+          0.34889074926747593
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "IM8120",
+          "pass2": "M8120",
+          "confidence1": 87.060989,
+          "confidence2": 34.926987,
+          "flagged": true,
+          "reasons": [
+            "ocr-disagreement",
+            "low-confidence"
+          ],
+          "printedCandidate": "IM8120",
+          "sourceBounds": [
+            0.8553403755868545,
+            0.34072833821682713,
+            0.8937793427230047,
+            0.34889074926747593
+          ],
+          "pdfPage": 4,
+          "printedPage": 2,
+          "system": "camera-systems",
+          "group": "im8000",
+          "componentId": "im8000-item-2",
+          "tableId": "im8000",
+          "row": 2,
+          "column": 2,
+          "path": "specTables.0.rows.1.1"
+        }
+      },
+      {
+        "path": "specTables.0.rows.2.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «IM8121», проход 2 «IM8121». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          4
+        ],
+        "pdfPage": 4,
+        "printedPage": 2,
+        "sourceBounds": [
+          0.8556338028169014,
+          0.35851820845542065,
+          0.891725352112676,
+          0.3666806195060695
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "IM8121",
+          "pass2": "IM8121",
+          "confidence1": 87.42775,
+          "confidence2": 90.505264,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "IM8121",
+          "sourceBounds": [
+            0.8556338028169014,
+            0.35851820845542065,
+            0.891725352112676,
+            0.3666806195060695
+          ],
+          "pdfPage": 4,
+          "printedPage": 2,
+          "system": "camera-systems",
+          "group": "im8000",
+          "componentId": "im8000-item-3",
+          "tableId": "im8000",
+          "row": 3,
+          "column": 2,
+          "path": "specTables.0.rows.2.1"
+        }
+      },
+      {
+        "path": "specTables.0.rows.3.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «IM8123», проход 2 «IM8123». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          4
+        ],
+        "pdfPage": 4,
+        "printedPage": 2,
+        "sourceBounds": [
+          0.8553403755868545,
+          0.3765173712850565,
+          0.8937793427230047,
+          0.3846797823357053
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "IM8123",
+          "pass2": "IM8123",
+          "confidence1": 89.419937,
+          "confidence2": 89.450607,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "IM8123",
+          "sourceBounds": [
+            0.8553403755868545,
+            0.3765173712850565,
+            0.8937793427230047,
+            0.3846797823357053
+          ],
+          "pdfPage": 4,
+          "printedPage": 2,
+          "system": "camera-systems",
+          "group": "im8000",
+          "componentId": "im8000-item-4",
+          "tableId": "im8000",
+          "row": 4,
+          "column": 2,
+          "path": "specTables.0.rows.3.1"
+        }
+      },
+      {
+        "path": "specialty",
+        "code": "specialty-review",
+        "message": {
+          "ru": "Клиническая специальность не назначена автоматически: проверьте область применения системы.",
+          "en": "Clinical specialty was not inferred; review the intended specialty."
+        },
+        "sourcePages": [
+          4
+        ],
+        "pdfPage": 4,
+        "printedPage": 2,
+        "sourceBounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "coordinateSpace": "normalized"
+      },
+      {
+        "path": "components",
+        "code": "source-association-review",
+        "message": {
+          "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+          "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+        },
+        "sourcePages": [
+          4
+        ],
+        "pdfPage": 4,
+        "printedPage": 2,
+        "sourceBounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "coordinateSpace": "normalized"
+      }
+    ],
+    "sourceSha256": "e95e65a12367e776350edfcee6a84d2d994556e67083a5c6280ab5490b11af21",
+    "importMethod": "400-DPI Tesseract PSM3 + PSM11; source-reviewed section layout; source-coordinate audit",
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "skipped": false,
+    "translatedFields": [
+      "name.ru",
+      "gallery.0.imageCaption.ru",
+      "gallery.1.imageCaption.ru",
+      "gallery.2.imageCaption.ru",
+      "gallery.3.imageCaption.ru",
+      "features.0.title.ru",
+      "features.0.text.ru",
+      "features.1.title.ru",
+      "features.1.text.ru",
+      "features.2.title.ru",
+      "features.2.text.ru",
+      "components.0.name.ru",
+      "components.1.name.ru",
+      "components.2.name.ru",
+      "components.3.name.ru",
+      "componentGroups.0.name.ru",
+      "componentGroups.0.images.0.imageCaption.ru",
+      "componentGroups.0.images.1.imageCaption.ru",
+      "componentGroups.0.images.2.imageCaption.ru",
+      "componentGroups.0.images.3.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.rows.3.0.ru",
+      "availabilityNote.ru"
+    ]
+  }
+}

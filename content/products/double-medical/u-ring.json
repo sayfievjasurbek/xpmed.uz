@@ -1,0 +1,1914 @@
+{
+  "slug": "u-ring",
+  "brand": "double-medical",
+  "category": "trauma-implants",
+  "subcategory": "trauma-external-fixation",
+  "subcategories": [
+    "trauma-external-fixation"
+  ],
+  "specialty": [
+    "traumatology",
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "U-образное кольцо",
+    "en": "U-Ring"
+  },
+  "shortDescription": {
+    "ru": "Импланты для остеосинтеза",
+    "en": "Implants for fracture fixation"
+  },
+  "description": {
+    "ru": "U-образное кольцо. Характеристики и каталожные номера приведены по Trauma Catalogue Double Medical.",
+    "en": "U-Ring. Specifications and reference numbers are listed according to the Double Medical Trauma Catalogue."
+  },
+  "heroImage": "/images/products/double-medical/u-ring/page-549-art-01.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "width": 542,
+      "height": 444,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          239,
+          190
+        ],
+        "enhancedSize": [
+          478,
+          380
+        ]
+      },
+      "src": "/images/products/double-medical/u-ring/page-549-art-01.webp",
+      "imageCaption": {
+        "ru": "U-образное кольцо",
+        "en": "U-Ring"
+      },
+      "sourcePages": [
+        549
+      ]
+    },
+    {
+      "width": 388,
+      "height": 460,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          162,
+          198
+        ],
+        "enhancedSize": [
+          324,
+          396
+        ]
+      },
+      "src": "/images/products/double-medical/u-ring/page-558-art-03.webp",
+      "imageCaption": {
+        "ru": "U-образное кольцо",
+        "en": "U-Ring"
+      },
+      "sourcePages": [
+        558
+      ]
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [
+    {
+      "id": "trauma-p549-1",
+      "groupId": "trauma-p549-1",
+      "title": {
+        "ru": "U-образное кольцо",
+        "en": "U-Ring"
+      },
+      "unit": "mm",
+      "sourcePage": 549,
+      "sourcePages": [
+        549
+      ],
+      "printedPage": "9/21",
+      "hideDescriptionColumn": true,
+      "columns": [
+        {
+          "ru": "Позиция",
+          "en": "Item"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Диаметр",
+          "en": "Diameter"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "U-образное кольцо · Диаметр: 80",
+            "en": "U-Ring · Diameter: 80"
+          },
+          "108870401",
+          {
+            "ru": "80",
+            "en": "80"
+          }
+        ],
+        [
+          {
+            "ru": "U-образное кольцо · Диаметр: 100",
+            "en": "U-Ring · Diameter: 100"
+          },
+          "108870402",
+          {
+            "ru": "100",
+            "en": "100"
+          }
+        ],
+        [
+          {
+            "ru": "U-образное кольцо · Диаметр: 120",
+            "en": "U-Ring · Diameter: 120"
+          },
+          "108870403",
+          {
+            "ru": "120",
+            "en": "120"
+          }
+        ],
+        [
+          {
+            "ru": "U-образное кольцо · Диаметр: 140",
+            "en": "U-Ring · Diameter: 140"
+          },
+          "108870404",
+          {
+            "ru": "140",
+            "en": "140"
+          }
+        ],
+        [
+          {
+            "ru": "U-образное кольцо · Диаметр: 160",
+            "en": "U-Ring · Diameter: 160"
+          },
+          "108870405",
+          {
+            "ru": "160",
+            "en": "160"
+          }
+        ],
+        [
+          {
+            "ru": "U-образное кольцо · Диаметр: 180",
+            "en": "U-Ring · Diameter: 180"
+          },
+          "108870406",
+          {
+            "ru": "180",
+            "en": "180"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 549,
+          "printedPage": "9/21",
+          "sourceBounds": [
+            0.08,
+            0.20478712580708275,
+            0.55,
+            0.22056994717276462
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p549-1",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 549,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "108870401"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "108870401"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "108870401"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "108870401",
+                "PSM11": "108870401",
+                "Vision": "108870401"
+              },
+              "value": "108870401",
+              "bounds": [
+                0.13408280778722237,
+                0.20778712580708275,
+                0.21853578283520703,
+                0.21756994717276462
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "108870401"
+            },
+            {
+              "readings": {
+                "PSM3": "80",
+                "PSM11": "80",
+                "Vision": "80"
+              },
+              "value": "80",
+              "glyphReading": {
+                "text": "80",
+                "scores": [
+                  {
+                    "character": "8",
+                    "distance": 0.0,
+                    "margin": 0.10935968137254902
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.010945159313725488,
+                    "margin": 0.15076090686274513
+                  }
+                ],
+                "sourceRect": [
+                  155.81300354003906,
+                  127.41400146484375,
+                  163.75399780273438,
+                  133.45901489257812
+                ]
+              },
+              "verifiedValue": "80"
+            }
+          ]
+        },
+        {
+          "pdfPage": 549,
+          "printedPage": "9/21",
+          "sourceBounds": [
+            0.08,
+            0.21946135785560555,
+            0.55,
+            0.23524417922128743
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p549-1",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 549,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "108870402"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "108870402"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "108870402"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "108870402",
+                "PSM11": "108870402",
+                "Vision": "108870402"
+              },
+              "value": "108870402",
+              "bounds": [
+                0.13408280778722237,
+                0.22246135785560556,
+                0.22072936660268713,
+                0.23224417922128743
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "108870402"
+            },
+            {
+              "readings": {
+                "PSM3": "100",
+                "PSM11": "100",
+                "Vision": "100"
+              },
+              "value": "100",
+              "glyphReading": {
+                "text": "100",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.0,
+                    "margin": 0.4019149013772175
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.0013684640522875814,
+                    "margin": 0.15932401960784318
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.004102839052287581,
+                    "margin": 0.15553010620915034
+                  }
+                ],
+                "sourceRect": [
+                  156.34300231933594,
+                  136.43399047851562,
+                  168.0679931640625,
+                  142.47900390625
+                ]
+              },
+              "verifiedValue": "100"
+            }
+          ]
+        },
+        {
+          "pdfPage": 549,
+          "printedPage": "9/21",
+          "sourceBounds": [
+            0.08,
+            0.23413558990412836,
+            0.55,
+            0.25011406769712385
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p549-1",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 549,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "108870403"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "108870403"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "108870403"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "108870403",
+                "PSM11": "108870403",
+                "Vision": "108870403"
+              },
+              "value": "108870403",
+              "bounds": [
+                0.13408280778722237,
+                0.23713558990412836,
+                0.22072936660268713,
+                0.24711406769712385
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "108870403"
+            },
+            {
+              "readings": {
+                "PSM3": "120",
+                "PSM11": "120",
+                "Vision": "120"
+              },
+              "value": "120",
+              "glyphReading": {
+                "text": "120",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.0,
+                    "margin": 0.39971923144257704
+                  },
+                  {
+                    "character": "2",
+                    "distance": 0.0,
+                    "margin": 0.2929445715786314
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.004853451797385621,
+                    "margin": 0.15000008169934645
+                  }
+                ],
+                "sourceRect": [
+                  156.34300231933594,
+                  145.45498657226562,
+                  168.0679931640625,
+                  151.49899291992188
+                ]
+              },
+              "verifiedValue": "120"
+            }
+          ]
+        },
+        {
+          "pdfPage": 549,
+          "printedPage": "9/21",
+          "sourceBounds": [
+            0.08,
+            0.24880982195265117,
+            0.55,
+            0.26478829974564666
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p549-1",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 549,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "108870404"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "108870404"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "108870404"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "108870404",
+                "PSM11": "108870404",
+                "Vision": "108870404"
+              },
+              "value": "108870404",
+              "bounds": [
+                0.13408280778722237,
+                0.25180982195265117,
+                0.22100356457362216,
+                0.26178829974564666
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "108870404"
+            },
+            {
+              "readings": {
+                "PSM3": "140",
+                "PSM11": "140",
+                "Vision": "140"
+              },
+              "value": "140",
+              "glyphReading": {
+                "text": "140",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.0,
+                    "margin": 0.401996941693344
+                  },
+                  {
+                    "character": "4",
+                    "distance": 0.0,
+                    "margin": 0.4010442927170868
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.0006714665032679737,
+                    "margin": 0.1570058006535948
+                  }
+                ],
+                "sourceRect": [
+                  156.34300231933594,
+                  154.4739990234375,
+                  168.0679931640625,
+                  160.51901245117188
+                ]
+              },
+              "verifiedValue": "140"
+            }
+          ]
+        },
+        {
+          "pdfPage": 549,
+          "printedPage": "9/21",
+          "sourceBounds": [
+            0.08,
+            0.2634840540011739,
+            0.55,
+            0.27946253179416947
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p549-1",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 549,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "108870405"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "108870405"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "108870405"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "108870405",
+                "PSM11": "108870405",
+                "Vision": "108870405"
+              },
+              "value": "108870405",
+              "bounds": [
+                0.13408280778722237,
+                0.2664840540011739,
+                0.22100356457362216,
+                0.27646253179416946
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "108870405"
+            },
+            {
+              "readings": {
+                "PSM3": "160",
+                "PSM11": "160",
+                "Vision": "160"
+              },
+              "value": "160",
+              "glyphReading": {
+                "text": "160",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.0,
+                    "margin": 0.40062558356676004
+                  },
+                  {
+                    "character": "6",
+                    "distance": 0.0,
+                    "margin": 0.15863468137254902
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.003439031862745098,
+                    "margin": 0.1563139093137255
+                  }
+                ],
+                "sourceRect": [
+                  156.34300231933594,
+                  163.4949951171875,
+                  168.0679931640625,
+                  169.53900146484375
+                ]
+              },
+              "verifiedValue": "160"
+            }
+          ]
+        },
+        {
+          "pdfPage": 549,
+          "printedPage": "9/21",
+          "sourceBounds": [
+            0.08,
+            0.27835394247701034,
+            0.55,
+            0.2941367638426922
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p549-1",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 549,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "108870406"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "108870406"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "108870406"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "108870406",
+                "PSM11": "108870406",
+                "Vision": "108870406"
+              },
+              "value": "108870406",
+              "bounds": [
+                0.13408280778722237,
+                0.28135394247701034,
+                0.22100356457362216,
+                0.2911367638426922
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "108870406"
+            },
+            {
+              "readings": {
+                "PSM3": "180",
+                "PSM11": "180",
+                "Vision": "180"
+              },
+              "value": "180",
+              "glyphReading": {
+                "text": "180",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.0,
+                    "margin": 0.40062558356676004
+                  },
+                  {
+                    "character": "8",
+                    "distance": 0.0,
+                    "margin": 0.11472886029411762
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.008971609477124182,
+                    "margin": 0.15316593137254902
+                  }
+                ],
+                "sourceRect": [
+                  156.34300231933594,
+                  172.5150146484375,
+                  168.0679931640625,
+                  178.55899047851562
+                ]
+              },
+              "verifiedValue": "180"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "width": 542,
+          "height": 444,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              239,
+              190
+            ],
+            "enhancedSize": [
+              478,
+              380
+            ]
+          },
+          "src": "/images/products/double-medical/u-ring/page-549-art-01.webp",
+          "imageCaption": {
+            "ru": "U-образное кольцо",
+            "en": "U-Ring"
+          },
+          "sourcePages": [
+            549
+          ]
+        }
+      ],
+      "keyParameters": []
+    },
+    {
+      "id": "trauma-p558-3",
+      "groupId": "trauma-p558-3",
+      "title": {
+        "ru": "U-образное кольцо",
+        "en": "U-Ring"
+      },
+      "unit": "mm",
+      "sourcePage": 558,
+      "sourcePages": [
+        558
+      ],
+      "printedPage": "9/30",
+      "hideDescriptionColumn": true,
+      "columns": [
+        {
+          "ru": "Позиция",
+          "en": "Item"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Диаметр",
+          "en": "Diameter"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "U-образное кольцо · Диаметр: 80",
+            "en": "U-Ring · Diameter: 80"
+          },
+          "100154701",
+          {
+            "ru": "80",
+            "en": "80"
+          }
+        ],
+        [
+          {
+            "ru": "U-образное кольцо · Диаметр: 100",
+            "en": "U-Ring · Diameter: 100"
+          },
+          "100154702",
+          {
+            "ru": "100",
+            "en": "100"
+          }
+        ],
+        [
+          {
+            "ru": "U-образное кольцо · Диаметр: 120",
+            "en": "U-Ring · Diameter: 120"
+          },
+          "100154703",
+          {
+            "ru": "120",
+            "en": "120"
+          }
+        ],
+        [
+          {
+            "ru": "U-образное кольцо · Диаметр: 140",
+            "en": "U-Ring · Diameter: 140"
+          },
+          "100154704",
+          {
+            "ru": "140",
+            "en": "140"
+          }
+        ],
+        [
+          {
+            "ru": "U-образное кольцо · Диаметр: 160",
+            "en": "U-Ring · Diameter: 160"
+          },
+          "100154705",
+          {
+            "ru": "160",
+            "en": "160"
+          }
+        ],
+        [
+          {
+            "ru": "U-образное кольцо · Диаметр: 180",
+            "en": "U-Ring · Diameter: 180"
+          },
+          "100154706",
+          {
+            "ru": "180",
+            "en": "180"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 558,
+          "printedPage": "9/30",
+          "sourceBounds": [
+            0.08,
+            0.7070371747211895,
+            0.55,
+            0.7228199960868714
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p558-3",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 558,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "100154701"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "100154701"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "100154701"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "100154701",
+                "PSM11": "100154701",
+                "Vision": "100154701"
+              },
+              "value": "100154701",
+              "bounds": [
+                0.11543734576364136,
+                0.7100371747211895,
+                0.199890320811626,
+                0.7198199960868714
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "100154701"
+            },
+            {
+              "readings": {
+                "PSM3": "80",
+                "PSM11": "",
+                "Vision": "80"
+              },
+              "value": "80",
+              "glyphReading": {
+                "text": "80",
+                "scores": [
+                  {
+                    "character": "8",
+                    "distance": 0.03087214052287582,
+                    "margin": 0.1022544730392157
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.0240093954248366,
+                    "margin": 0.13234783496732025
+                  }
+                ],
+                "sourceRect": [
+                  147.62899780273438,
+                  435.45001220703125,
+                  155.57000732421875,
+                  441.4940185546875
+                ]
+              },
+              "verifiedValue": "80"
+            }
+          ]
+        },
+        {
+          "pdfPage": 558,
+          "printedPage": "9/30",
+          "sourceBounds": [
+            0.08,
+            0.7217114067697123,
+            0.55,
+            0.7374942281353942
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p558-3",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 558,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "100154702"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "100154702"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "100154702"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "100154702",
+                "PSM11": "100154702",
+                "Vision": "100154702"
+              },
+              "value": "100154702",
+              "bounds": [
+                0.11543734576364136,
+                0.7247114067697124,
+                0.2018097066081711,
+                0.7344942281353942
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "100154702"
+            },
+            {
+              "readings": {
+                "PSM3": "100",
+                "PSM11": "100",
+                "Vision": "100"
+              },
+              "value": "100",
+              "glyphReading": {
+                "text": "100",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.0,
+                    "margin": 0.42697217428638123
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.01539266748366013,
+                    "margin": 0.1403186274509804
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.02276858660130719,
+                    "margin": 0.13499285130718955
+                  }
+                ],
+                "sourceRect": [
+                  148.1580047607422,
+                  444.4700012207031,
+                  159.88299560546875,
+                  450.5140075683594
+                ]
+              },
+              "verifiedValue": "100"
+            }
+          ]
+        },
+        {
+          "pdfPage": 558,
+          "printedPage": "9/30",
+          "sourceBounds": [
+            0.08,
+            0.7363856388182352,
+            0.55,
+            0.7523641166112307
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p558-3",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 558,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "100154703"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "100154703"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "100154703"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "100154703",
+                "PSM11": "100154703",
+                "Vision": "100154703"
+              },
+              "value": "100154703",
+              "bounds": [
+                0.11543734576364136,
+                0.7393856388182352,
+                0.2020839045791061,
+                0.7493641166112307
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "100154703"
+            },
+            {
+              "readings": {
+                "PSM3": "120",
+                "PSM11": "120",
+                "Vision": ""
+              },
+              "value": "120",
+              "glyphReading": {
+                "text": "120",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.0,
+                    "margin": 0.4256956219987995
+                  },
+                  {
+                    "character": "2",
+                    "distance": 0.0026884191176470584,
+                    "margin": 0.28595665391156455
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.018088745915032678,
+                    "margin": 0.13765318627450981
+                  }
+                ],
+                "sourceRect": [
+                  148.1580047607422,
+                  453.489990234375,
+                  159.88299560546875,
+                  459.53399658203125
+                ]
+              },
+              "verifiedValue": "120"
+            }
+          ]
+        },
+        {
+          "pdfPage": 558,
+          "printedPage": "9/30",
+          "sourceBounds": [
+            0.08,
+            0.751059870866758,
+            0.55,
+            0.7670383486597535
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p558-3",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 558,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "100154704"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "100154704"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "100154704"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "100154704",
+                "PSM11": "100154704",
+                "Vision": "100154704"
+              },
+              "value": "100154704",
+              "bounds": [
+                0.11543734576364136,
+                0.754059870866758,
+                0.20235810255004114,
+                0.7640383486597535
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "100154704"
+            },
+            {
+              "readings": {
+                "PSM3": "140",
+                "PSM11": "140",
+                "Vision": ""
+              },
+              "value": "140",
+              "glyphReading": {
+                "text": "140",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.0012561274509803922,
+                    "margin": 0.42301482843137256
+                  },
+                  {
+                    "character": "4",
+                    "distance": 0.005261948529411764,
+                    "margin": 0.3949755631419234
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.02337111928104575,
+                    "margin": 0.1337060866013072
+                  }
+                ],
+                "sourceRect": [
+                  148.1580047607422,
+                  462.510009765625,
+                  159.88299560546875,
+                  468.55401611328125
+                ]
+              },
+              "verifiedValue": "140"
+            }
+          ]
+        },
+        {
+          "pdfPage": 558,
+          "printedPage": "9/30",
+          "sourceBounds": [
+            0.08,
+            0.7657341029152808,
+            0.55,
+            0.7817125807082763
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p558-3",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 558,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "100154705"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "100154705"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "100154705"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "100154705",
+                "PSM11": "100154705",
+                "Vision": "100154705"
+              },
+              "value": "100154705",
+              "bounds": [
+                0.11543734576364136,
+                0.7687341029152808,
+                0.20235810255004114,
+                0.7787125807082763
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "100154705"
+            },
+            {
+              "readings": {
+                "PSM3": "160",
+                "PSM11": "160",
+                "Vision": "160"
+              },
+              "value": "160",
+              "glyphReading": {
+                "text": "160",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.0,
+                    "margin": 0.42149330773976257
+                  },
+                  {
+                    "character": "6",
+                    "distance": 0.0,
+                    "margin": 0.1678819444444444
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.005956392973856209,
+                    "margin": 0.1512919526143791
+                  }
+                ],
+                "sourceRect": [
+                  148.1580047607422,
+                  471.5299987792969,
+                  159.88299560546875,
+                  477.5740051269531
+                ]
+              },
+              "verifiedValue": "160"
+            }
+          ]
+        },
+        {
+          "pdfPage": 558,
+          "printedPage": "9/30",
+          "sourceBounds": [
+            0.08,
+            0.7804083349638036,
+            0.55,
+            0.796386812756799
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p558-3",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 558,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "100154706"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "100154706"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "100154706"
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "100154706",
+                "PSM11": "100154706",
+                "Vision": "100154706"
+              },
+              "value": "100154706",
+              "bounds": [
+                0.11543734576364136,
+                0.7834083349638036,
+                0.2020839045791061,
+                0.793386812756799
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "100154706"
+            },
+            {
+              "readings": {
+                "PSM3": "180",
+                "PSM11": "180",
+                "Vision": "180"
+              },
+              "value": "180",
+              "glyphReading": {
+                "text": "180",
+                "scores": [
+                  {
+                    "character": "1",
+                    "distance": 0.0,
+                    "margin": 0.42410258061557954
+                  },
+                  {
+                    "character": "8",
+                    "distance": 0.0,
+                    "margin": 0.13780126633986928
+                  },
+                  {
+                    "character": "0",
+                    "distance": 0.014557802287581698,
+                    "margin": 0.142805433006536
+                  }
+                ],
+                "sourceRect": [
+                  148.1580047607422,
+                  480.54998779296875,
+                  159.88299560546875,
+                  486.593994140625
+                ]
+              },
+              "verifiedValue": "180"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "width": 388,
+          "height": 460,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              162,
+              198
+            ],
+            "enhancedSize": [
+              324,
+              396
+            ]
+          },
+          "src": "/images/products/double-medical/u-ring/page-558-art-03.webp",
+          "imageCaption": {
+            "ru": "U-образное кольцо",
+            "en": "U-Ring"
+          },
+          "sourcePages": [
+            558
+          ]
+        }
+      ],
+      "keyParameters": []
+    }
+  ],
+  "refCodes": [
+    "108870401",
+    "108870402",
+    "108870403",
+    "108870404",
+    "108870405",
+    "108870406",
+    "100154701",
+    "100154702",
+    "100154703",
+    "100154704",
+    "100154705",
+    "100154706"
+  ],
+  "sourcePages": [
+    549,
+    558
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Trauma Catalogue — каталог продукции",
+    "en": "Double Medical Trauma Catalogue — product catalog"
+  },
+  "documentCover": "/catalogs/double-medical/trauma-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "catalogType": "list",
+  "importPartition": "trauma-part3",
+  "availabilityNote": {
+    "ru": "Изображения приведены для справки",
+    "en": "Images for reference only"
+  },
+  "imageDimensions": {
+    "/images/products/double-medical/u-ring/page-549-art-01.webp": {
+      "width": 542,
+      "height": 444
+    },
+    "/images/products/double-medical/u-ring/page-558-art-03.webp": {
+      "width": 388,
+      "height": 460
+    }
+  },
+  "relatedSystemSlugs": [],
+  "sourcePdf": "/catalogs/double-medical/trauma-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/trauma-catalogue/pages/549.webp",
+    "/catalogs/double-medical/trauma-catalogue/pages/558.webp"
+  ],
+  "sourcePageDimensions": {
+    "530": {
+      "width": 3647,
+      "height": 5111
+    },
+    "531": {
+      "width": 3647,
+      "height": 5111
+    },
+    "532": {
+      "width": 3647,
+      "height": 5111
+    },
+    "533": {
+      "width": 3647,
+      "height": 5111
+    },
+    "534": {
+      "width": 3647,
+      "height": 5111
+    },
+    "535": {
+      "width": 3647,
+      "height": 5111
+    },
+    "536": {
+      "width": 3647,
+      "height": 5111
+    },
+    "537": {
+      "width": 3647,
+      "height": 5111
+    },
+    "538": {
+      "width": 3647,
+      "height": 5111
+    },
+    "539": {
+      "width": 3647,
+      "height": 5111
+    },
+    "540": {
+      "width": 3647,
+      "height": 5111
+    },
+    "541": {
+      "width": 3647,
+      "height": 5111
+    },
+    "542": {
+      "width": 3647,
+      "height": 5111
+    },
+    "543": {
+      "width": 3647,
+      "height": 5111
+    },
+    "544": {
+      "width": 3647,
+      "height": 5111
+    },
+    "545": {
+      "width": 3647,
+      "height": 5111
+    },
+    "546": {
+      "width": 3647,
+      "height": 5111
+    },
+    "547": {
+      "width": 3647,
+      "height": 5111
+    },
+    "548": {
+      "width": 3647,
+      "height": 5111
+    },
+    "549": {
+      "width": 3647,
+      "height": 5111
+    },
+    "550": {
+      "width": 3647,
+      "height": 5111
+    },
+    "551": {
+      "width": 3647,
+      "height": 5111
+    },
+    "552": {
+      "width": 3647,
+      "height": 5111
+    },
+    "553": {
+      "width": 3647,
+      "height": 5111
+    },
+    "554": {
+      "width": 3647,
+      "height": 5111
+    },
+    "555": {
+      "width": 3647,
+      "height": 5111
+    },
+    "556": {
+      "width": 3647,
+      "height": 5111
+    },
+    "557": {
+      "width": 3647,
+      "height": 5111
+    },
+    "558": {
+      "width": 3647,
+      "height": 5111
+    },
+    "559": {
+      "width": 3647,
+      "height": 5111
+    },
+    "560": {
+      "width": 3647,
+      "height": 5111
+    },
+    "561": {
+      "width": 3647,
+      "height": 5111
+    },
+    "562": {
+      "width": 3647,
+      "height": 5111
+    },
+    "563": {
+      "width": 3647,
+      "height": 5111
+    },
+    "564": {
+      "width": 3647,
+      "height": 5111
+    },
+    "565": {
+      "width": 3647,
+      "height": 5111
+    },
+    "566": {
+      "width": 3647,
+      "height": 5111
+    },
+    "567": {
+      "width": 3647,
+      "height": 5111
+    },
+    "568": {
+      "width": 3647,
+      "height": 5111
+    },
+    "569": {
+      "width": 3647,
+      "height": 5111
+    },
+    "570": {
+      "width": 3647,
+      "height": 5111
+    },
+    "571": {
+      "width": 3647,
+      "height": 5111
+    },
+    "572": {
+      "width": 3647,
+      "height": 5111
+    },
+    "573": {
+      "width": 3647,
+      "height": 5111
+    },
+    "574": {
+      "width": 3647,
+      "height": 5111
+    },
+    "575": {
+      "width": 3647,
+      "height": 5111
+    },
+    "576": {
+      "width": 3647,
+      "height": 5111
+    },
+    "577": {
+      "width": 3647,
+      "height": 5111
+    },
+    "578": {
+      "width": 3647,
+      "height": 5111
+    },
+    "582": {
+      "width": 3647,
+      "height": 5111
+    },
+    "583": {
+      "width": 3647,
+      "height": 5111
+    },
+    "584": {
+      "width": 3647,
+      "height": 5111
+    },
+    "585": {
+      "width": 3647,
+      "height": 5111
+    },
+    "586": {
+      "width": 3647,
+      "height": 5111
+    },
+    "587": {
+      "width": 3647,
+      "height": 5111
+    },
+    "588": {
+      "width": 3647,
+      "height": 5111
+    },
+    "589": {
+      "width": 3647,
+      "height": 5111
+    },
+    "590": {
+      "width": 3647,
+      "height": 5111
+    },
+    "591": {
+      "width": 3647,
+      "height": 5111
+    },
+    "592": {
+      "width": 3647,
+      "height": 5111
+    },
+    "593": {
+      "width": 3647,
+      "height": 5111
+    },
+    "594": {
+      "width": 3647,
+      "height": 5111
+    },
+    "595": {
+      "width": 3647,
+      "height": 5111
+    },
+    "596": {
+      "width": 3647,
+      "height": 5111
+    },
+    "597": {
+      "width": 3647,
+      "height": 5111
+    },
+    "598": {
+      "width": 3647,
+      "height": 5111
+    },
+    "599": {
+      "width": 3647,
+      "height": 5111
+    },
+    "600": {
+      "width": 3647,
+      "height": 5111
+    },
+    "601": {
+      "width": 3647,
+      "height": 5111
+    },
+    "602": {
+      "width": 3647,
+      "height": 5111
+    },
+    "603": {
+      "width": 3647,
+      "height": 5111
+    },
+    "604": {
+      "width": 3647,
+      "height": 5111
+    },
+    "605": {
+      "width": 3647,
+      "height": 5111
+    },
+    "606": {
+      "width": 3647,
+      "height": 5111
+    },
+    "607": {
+      "width": 3647,
+      "height": 5111
+    },
+    "608": {
+      "width": 3647,
+      "height": 5111
+    },
+    "612": {
+      "width": 3647,
+      "height": 5111
+    },
+    "613": {
+      "width": 3647,
+      "height": 5111
+    },
+    "614": {
+      "width": 3647,
+      "height": 5111
+    },
+    "615": {
+      "width": 3647,
+      "height": 5111
+    },
+    "616": {
+      "width": 3647,
+      "height": 5111
+    },
+    "617": {
+      "width": 3647,
+      "height": 5111
+    },
+    "620": {
+      "width": 3647,
+      "height": 5111
+    },
+    "621": {
+      "width": 3647,
+      "height": 5111
+    },
+    "622": {
+      "width": 3647,
+      "height": 5111
+    },
+    "623": {
+      "width": 3647,
+      "height": 5111
+    },
+    "624": {
+      "width": 3647,
+      "height": 5111
+    },
+    "625": {
+      "width": 3647,
+      "height": 5111
+    },
+    "626": {
+      "width": 3647,
+      "height": 5111
+    },
+    "627": {
+      "width": 3647,
+      "height": 5111
+    },
+    "628": {
+      "width": 3647,
+      "height": 5111
+    },
+    "632": {
+      "width": 3647,
+      "height": 5111
+    },
+    "633": {
+      "width": 3647,
+      "height": 5111
+    },
+    "634": {
+      "width": 3647,
+      "height": 5111
+    },
+    "635": {
+      "width": 3647,
+      "height": 5111
+    },
+    "636": {
+      "width": 3647,
+      "height": 5111
+    },
+    "637": {
+      "width": 3647,
+      "height": 5111
+    },
+    "638": {
+      "width": 3647,
+      "height": 5111
+    },
+    "639": {
+      "width": 3647,
+      "height": 5111
+    },
+    "640": {
+      "width": 3647,
+      "height": 5111
+    },
+    "641": {
+      "width": 3647,
+      "height": 5111
+    },
+    "642": {
+      "width": 3647,
+      "height": 5111
+    },
+    "643": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "3f2755d7646453cd1d8981369406a66062322971a7cb98258e022ae9b9769999",
+    "importMethod": "600-DPI Tesseract PSM3/11 plus independent Apple Vision; source glyph reconciliation and Codex visual reading; Codex medical RU; native photo composites, original Real-ESRGAN weights exact 2x then rembg",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      528,
+      529,
+      579,
+      580,
+      581,
+      609,
+      610,
+      611,
+      618,
+      619,
+      629,
+      630,
+      631,
+      644
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "gallery.1.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.columns.2.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.0.2.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.1.2.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.rows.2.2.ru",
+      "specTables.0.rows.3.0.ru",
+      "specTables.0.rows.3.2.ru",
+      "specTables.0.rows.4.0.ru",
+      "specTables.0.rows.4.2.ru",
+      "specTables.0.rows.5.0.ru",
+      "specTables.0.rows.5.2.ru",
+      "specTables.0.images.0.imageCaption.ru",
+      "specTables.1.title.ru",
+      "specTables.1.columns.0.ru",
+      "specTables.1.columns.1.ru",
+      "specTables.1.columns.2.ru",
+      "specTables.1.rows.0.0.ru",
+      "specTables.1.rows.0.2.ru",
+      "specTables.1.rows.1.0.ru",
+      "specTables.1.rows.1.2.ru",
+      "specTables.1.rows.2.0.ru",
+      "specTables.1.rows.2.2.ru",
+      "specTables.1.rows.3.0.ru",
+      "specTables.1.rows.3.2.ru",
+      "specTables.1.rows.4.0.ru",
+      "specTables.1.rows.4.2.ru",
+      "specTables.1.rows.5.0.ru",
+      "specTables.1.rows.5.2.ru",
+      "specTables.1.images.0.imageCaption.ru",
+      "catalogTitle.ru",
+      "availabilityNote.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Owner authorized automatic publication after source review with zero real open flags; no REF inferred.",
+    "imageQA": "Codex visual review of all seven final contact sheets and source layouts; two QR tiles excluded; two multi-instrument composites split into five separate row photos; ambiguous 607 composite retained only as a general subgroup illustration"
+  },
+  "publishedAt": "2026-11-21T06:37:29.425430+00:00"
+}

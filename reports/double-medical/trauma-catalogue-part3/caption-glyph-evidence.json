@@ -1,0 +1,4372 @@
+[
+  {
+    "row": "566-01",
+    "sourcePage": 566,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "05.4",
+        "normalized": "Ø5.4",
+        "bounds": [
+          0.4041678091582122,
+          0.15143807474075524,
+          0.4387167534960241,
+          0.1637644296615144
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "05.4",
+        "normalized": "Ø5.4",
+        "bounds": [
+          0.4041678091582122,
+          0.15143807474075524,
+          0.4387167534960241,
+          0.1637644296615144
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "566-02",
+    "sourcePage": 566,
+    "evidence": [
+      {
+        "reader": "PSM11",
+        "raw": "04.0/95.4",
+        "normalized": "Ø4.0/Ø5.4",
+        "bounds": [
+          0.2506169454346038,
+          0.27157112111132853,
+          0.32629558541266795,
+          0.28409313245940127
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "566-03",
+    "sourcePage": 566,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "02.5/94.0",
+        "normalized": "Ø2.5/Ø4.0",
+        "bounds": [
+          0.25034274746366875,
+          0.4308354529446292,
+          0.32629558541266795,
+          0.443357464292702
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "02.5/94.0",
+        "normalized": "Ø2.5/Ø4.0",
+        "bounds": [
+          0.25034274746366875,
+          0.4308354529446292,
+          0.32629558541266795,
+          0.443357464292702
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "566-04",
+    "sourcePage": 566,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "04.0",
+        "normalized": "Ø4.0",
+        "bounds": [
+          0.30984370715656706,
+          0.5580121306984934,
+          0.34466684946531395,
+          0.5703384856192526
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "94.0",
+        "normalized": "Ø4.0",
+        "bounds": [
+          0.30984370715656706,
+          0.5580121306984934,
+          0.34466684946531395,
+          0.5703384856192526
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "566-05",
+    "sourcePage": 566,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "04.0",
+        "normalized": "Ø4.0",
+        "bounds": [
+          0.33726350425006857,
+          0.6613187243200939,
+          0.37181244858788043,
+          0.673645079240853
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "04.0",
+        "normalized": "Ø4.0",
+        "bounds": [
+          0.33726350425006857,
+          0.6613187243200939,
+          0.37181244858788043,
+          0.673645079240853
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "566-06",
+    "sourcePage": 566,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "@2.5,",
+        "normalized": "Ø2.5,",
+        "bounds": [
+          0.31669865642994244,
+          0.7704950107611035,
+          0.35563476830271457,
+          0.7828213656818627
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "@2.5,",
+        "normalized": "Ø2.5,",
+        "bounds": [
+          0.31669865642994244,
+          0.7704950107611035,
+          0.35563476830271457,
+          0.7828213656818627
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "566-07",
+    "sourcePage": 566,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "8.0/",
+        "normalized": "Ø8.0/",
+        "bounds": [
+          0.4258294488620784,
+          0.8550185873605948,
+          0.46613655058952563,
+          0.867344942281354
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM3",
+        "raw": "014.5",
+        "normalized": "Ø14.5",
+        "bounds": [
+          0.2508911434055388,
+          0.8712580708276267,
+          0.29558541266794625,
+          0.8835844257483858
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 2,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "08.0/",
+        "normalized": "Ø8.0/",
+        "bounds": [
+          0.4258294488620784,
+          0.8550185873605948,
+          0.46613655058952563,
+          0.867344942281354
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "014.5",
+        "normalized": "Ø14.5",
+        "bounds": [
+          0.2508911434055388,
+          0.8712580708276267,
+          0.29558541266794625,
+          0.8835844257483858
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 2,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "567-01",
+    "sourcePage": 567,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "93.0",
+        "normalized": "Ø3.0",
+        "bounds": [
+          0.42857142857142855,
+          0.15143807474075524,
+          0.4633945708801755,
+          0.163960086088828
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "93.0",
+        "normalized": "Ø3.0",
+        "bounds": [
+          0.42857142857142855,
+          0.15143807474075524,
+          0.4633945708801755,
+          0.163960086088828
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "567-02",
+    "sourcePage": 567,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "4.0/8.0",
+        "normalized": "Ø4.0/Ø8.0",
+        "bounds": [
+          0.2506169454346038,
+          0.3198982586577969,
+          0.326569783383603,
+          0.3324202700058697
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "04.0/98.0",
+        "normalized": "Ø4.0/Ø8.0",
+        "bounds": [
+          0.2506169454346038,
+          0.3198982586577969,
+          0.326569783383603,
+          0.3324202700058697
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "567-03",
+    "sourcePage": 567,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "92.5",
+        "normalized": "Ø2.5",
+        "bounds": [
+          0.381683575541541,
+          0.41518293875953827,
+          0.4167809158212229,
+          0.42770495010761106
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "2.5",
+        "normalized": "Ø2.5",
+        "bounds": [
+          0.381683575541541,
+          0.41518293875953827,
+          0.4167809158212229,
+          0.42770495010761106
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "568-02",
+    "sourcePage": 568,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "2.3",
+        "normalized": "Ø2.3",
+        "bounds": [
+          0.4782012613106663,
+          0.3028761494815105,
+          0.5130244036194133,
+          0.3152025044022696
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "2.3",
+        "normalized": "Ø2.3",
+        "bounds": [
+          0.4782012613106663,
+          0.3028761494815105,
+          0.5130244036194133,
+          0.3152025044022696
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "568-03",
+    "sourcePage": 568,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "02.3",
+        "normalized": "Ø2.3",
+        "bounds": [
+          0.31011790512750204,
+          0.40892193308550184,
+          0.344941047436249,
+          0.42144394443357464
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "02.3",
+        "normalized": "Ø2.3",
+        "bounds": [
+          0.31011790512750204,
+          0.40892193308550184,
+          0.344941047436249,
+          0.42144394443357464
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "568-05",
+    "sourcePage": 568,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "93.0",
+        "normalized": "Ø3.0",
+        "bounds": [
+          0.4288456265423636,
+          0.669340637839953,
+          0.4633945708801755,
+          0.6818626491880259
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "93.0",
+        "normalized": "Ø3.0",
+        "bounds": [
+          0.4288456265423636,
+          0.669340637839953,
+          0.4633945708801755,
+          0.6818626491880259
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "568-06",
+    "sourcePage": 568,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "03.0",
+        "normalized": "Ø3.0",
+        "bounds": [
+          0.2508911434055388,
+          0.8019956955585991,
+          0.2854400877433507,
+          0.8143220504793582
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "03.0",
+        "normalized": "Ø3.0",
+        "bounds": [
+          0.2508911434055388,
+          0.8019956955585991,
+          0.2854400877433507,
+          0.8143220504793582
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "570-01",
+    "sourcePage": 570,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "5.0/8.0,",
+        "normalized": "Ø5.0/Ø8.0,",
+        "bounds": [
+          0.25363312311488895,
+          0.1702210917628644,
+          0.33369893062791334,
+          0.1827431031109372
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "5.0/8.0,",
+        "normalized": "Ø5.0/Ø8.0,",
+        "bounds": [
+          0.25363312311488895,
+          0.1702210917628644,
+          0.33369893062791334,
+          0.1827431031109372
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "570-02",
+    "sourcePage": 570,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "5.0/8.0,",
+        "normalized": "Ø5.0/Ø8.0,",
+        "bounds": [
+          0.255278310940499,
+          0.49774995108589315,
+          0.33506992048258843,
+          0.510271962433966
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "5.0/8.0,",
+        "normalized": "Ø5.0/Ø8.0,",
+        "bounds": [
+          0.255278310940499,
+          0.49774995108589315,
+          0.33506992048258843,
+          0.510271962433966
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "570-03",
+    "sourcePage": 570,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "95.0,",
+        "normalized": "Ø5.0,",
+        "bounds": [
+          0.3145050726624623,
+          0.7061240461749169,
+          0.35344118453523443,
+          0.718450401095676
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "05.0,",
+        "normalized": "Ø5.0,",
+        "bounds": [
+          0.3145050726624623,
+          0.7061240461749169,
+          0.35344118453523443,
+          0.718450401095676
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "570-04",
+    "sourcePage": 570,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "@5.0,",
+        "normalized": "Ø5.0,",
+        "bounds": [
+          0.3145050726624623,
+          0.8012130698493446,
+          0.35344118453523443,
+          0.8137350811974173
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "05.0,",
+        "normalized": "Ø5.0,",
+        "bounds": [
+          0.3145050726624623,
+          0.8012130698493446,
+          0.35344118453523443,
+          0.8137350811974173
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "571-01",
+    "sourcePage": 571,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "93.5/@5.0",
+        "normalized": "Ø3.5/Ø5.0",
+        "bounds": [
+          0.46476556073485054,
+          0.15417726472314616,
+          0.5407183986838497,
+          0.16669927607121893
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "93.5/@5.0",
+        "normalized": "Ø3.5/Ø5.0",
+        "bounds": [
+          0.46476556073485054,
+          0.15417726472314616,
+          0.5407183986838497,
+          0.16669927607121893
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "571-02",
+    "sourcePage": 571,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "p3.5",
+        "normalized": "pØ3.5",
+        "bounds": [
+          0.31532766657526734,
+          0.41048718450401095,
+          0.35015080888401423,
+          0.42300919585208374
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "p3.5",
+        "normalized": "pØ3.5",
+        "bounds": [
+          0.31532766657526734,
+          0.41048718450401095,
+          0.35015080888401423,
+          0.42300919585208374
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "571-03",
+    "sourcePage": 571,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "03.5",
+        "normalized": "Ø3.5",
+        "bounds": [
+          0.38031258568686593,
+          0.5249461944824888,
+          0.4151357279956128,
+          0.5372725494032479
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "03.5",
+        "normalized": "Ø3.5",
+        "bounds": [
+          0.38031258568686593,
+          0.5249461944824888,
+          0.4151357279956128,
+          0.5372725494032479
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "571-04",
+    "sourcePage": 571,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "05.0",
+        "normalized": "Ø5.0",
+        "bounds": [
+          0.33561831642445844,
+          0.631578947368421,
+          0.3704414587332054,
+          0.6441009587164939
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "5.0",
+        "normalized": "Ø5.0",
+        "bounds": [
+          0.33561831642445844,
+          0.631578947368421,
+          0.3704414587332054,
+          0.6441009587164939
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "571-05",
+    "sourcePage": 571,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "04.0/98.0",
+        "normalized": "Ø4.0/Ø8.0",
+        "bounds": [
+          0.2492459555799287,
+          0.8149090197612991,
+          0.3251987935289279,
+          0.827431031109372
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "04.0/98.0",
+        "normalized": "Ø4.0/Ø8.0",
+        "bounds": [
+          0.2492459555799287,
+          0.8149090197612991,
+          0.3251987935289279,
+          0.827431031109372
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "572-01",
+    "sourcePage": 572,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "92.5/94.0",
+        "normalized": "Ø2.5/Ø4.0",
+        "bounds": [
+          0.44529750479846447,
+          0.15319898258657796,
+          0.5212503427474636,
+          0.16572099393465076
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "92.5/94.0",
+        "normalized": "Ø2.5/Ø4.0",
+        "bounds": [
+          0.44529750479846447,
+          0.15319898258657796,
+          0.5212503427474636,
+          0.16572099393465076
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "572-02",
+    "sourcePage": 572,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "94.0",
+        "normalized": "Ø4.0",
+        "bounds": [
+          0.31011790512750204,
+          0.3901389160633927,
+          0.344941047436249,
+          0.4026609274114655
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "04.0",
+        "normalized": "Ø4.0",
+        "bounds": [
+          0.31011790512750204,
+          0.3901389160633927,
+          0.344941047436249,
+          0.4026609274114655
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "572-03",
+    "sourcePage": 572,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "p2.5",
+        "normalized": "pØ2.5",
+        "bounds": [
+          0.31669865642994244,
+          0.4576403834865975,
+          0.35152179873868933,
+          0.4699667384073567
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "p2.5",
+        "normalized": "pØ2.5",
+        "bounds": [
+          0.31669865642994244,
+          0.4576403834865975,
+          0.35152179873868933,
+          0.4699667384073567
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "572-04",
+    "sourcePage": 572,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "2.5",
+        "normalized": "Ø2.5",
+        "bounds": [
+          0.381683575541541,
+          0.5670123263549207,
+          0.4165067178502879,
+          0.5793386812756799
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "2.5",
+        "normalized": "Ø2.5",
+        "bounds": [
+          0.381683575541541,
+          0.5670123263549207,
+          0.4165067178502879,
+          0.5793386812756799
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "572-05",
+    "sourcePage": 572,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "04.0",
+        "normalized": "Ø4.0",
+        "bounds": [
+          0.33698930627913354,
+          0.6632752885932303,
+          0.37181244858788043,
+          0.6757972999413031
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "04.0",
+        "normalized": "Ø4.0",
+        "bounds": [
+          0.33698930627913354,
+          0.6632752885932303,
+          0.37181244858788043,
+          0.6757972999413031
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "572-06",
+    "sourcePage": 572,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "03.0,",
+        "normalized": "Ø3.0,",
+        "bounds": [
+          0.33698930627913354,
+          0.7742124828800626,
+          0.37592541815190567,
+          0.7865388378008218
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "93.0,",
+        "normalized": "Ø3.0,",
+        "bounds": [
+          0.33698930627913354,
+          0.7742124828800626,
+          0.37592541815190567,
+          0.7865388378008218
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "574-01",
+    "sourcePage": 574,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "(6.0/8.0,",
+        "normalized": "(Ø6.0/Ø8.0,",
+        "bounds": [
+          0.2506169454346038,
+          0.1706124046174917,
+          0.3304085549766932,
+          0.18313441596556446
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "(6.0/8.0,",
+        "normalized": "(Ø6.0/Ø8.0,",
+        "bounds": [
+          0.2506169454346038,
+          0.1706124046174917,
+          0.3304085549766932,
+          0.18313441596556446
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "574-02",
+    "sourcePage": 574,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "6.0/8.0,",
+        "normalized": "Ø6.0/Ø8.0,",
+        "bounds": [
+          0.25034274746366875,
+          0.46311876345137937,
+          0.3304085549766932,
+          0.47564077479945216
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "6.0/8.0,",
+        "normalized": "Ø6.0/Ø8.0,",
+        "bounds": [
+          0.25034274746366875,
+          0.46311876345137937,
+          0.3304085549766932,
+          0.47564077479945216
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "574-03",
+    "sourcePage": 574,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "5.0/p8.0,",
+        "normalized": "Ø5.0/pØ8.0,",
+        "bounds": [
+          0.2508911434055388,
+          0.720602621796126,
+          0.33068275294762817,
+          0.7331246331441987
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "5.0/p8.0,",
+        "normalized": "Ø5.0/pØ8.0,",
+        "bounds": [
+          0.2508911434055388,
+          0.720602621796126,
+          0.33068275294762817,
+          0.7331246331441987
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "575-01",
+    "sourcePage": 575,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "5.0/8.0,",
+        "normalized": "Ø5.0/Ø8.0,",
+        "bounds": [
+          0.2492459555799287,
+          0.1680688710624144,
+          0.3293117630929531,
+          0.18059088241048718
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "5.0/8.0,",
+        "normalized": "Ø5.0/Ø8.0,",
+        "bounds": [
+          0.2492459555799287,
+          0.1680688710624144,
+          0.3293117630929531,
+          0.18059088241048718
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "575-02",
+    "sourcePage": 575,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "96.0,",
+        "normalized": "Ø6.0,",
+        "bounds": [
+          0.308746915272827,
+          0.3795734689884563,
+          0.3476830271455991,
+          0.3920954803365291
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "96.0,",
+        "normalized": "Ø6.0,",
+        "bounds": [
+          0.308746915272827,
+          0.3795734689884563,
+          0.3476830271455991,
+          0.3920954803365291
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "575-03",
+    "sourcePage": 575,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "~6.0,",
+        "normalized": "~Ø6.0,",
+        "bounds": [
+          0.308746915272827,
+          0.4545098806495793,
+          0.3476830271455991,
+          0.4670318919976521
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "~6.0,",
+        "normalized": "~Ø6.0,",
+        "bounds": [
+          0.308746915272827,
+          0.4545098806495793,
+          0.3476830271455991,
+          0.4670318919976521
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "575-04",
+    "sourcePage": 575,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "5.0,",
+        "normalized": "Ø5.0,",
+        "bounds": [
+          0.308746915272827,
+          0.538837800821757,
+          0.3476830271455991,
+          0.5513598121698298
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "5.0,",
+        "normalized": "Ø5.0,",
+        "bounds": [
+          0.308746915272827,
+          0.538837800821757,
+          0.3476830271455991,
+          0.5513598121698298
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "575-05",
+    "sourcePage": 575,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "@5.0,",
+        "normalized": "Ø5.0,",
+        "bounds": [
+          0.308746915272827,
+          0.6082958325180983,
+          0.3476830271455991,
+          0.6206221874388573
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "5.0,",
+        "normalized": "Ø5.0,",
+        "bounds": [
+          0.308746915272827,
+          0.6082958325180983,
+          0.3476830271455991,
+          0.6206221874388573
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "575-06",
+    "sourcePage": 575,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "4.5/",
+        "normalized": "Ø4.5/",
+        "bounds": [
+          0.4491362763915547,
+          0.7272549403247897,
+          0.4894433781190019,
+          0.7397769516728625
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM3",
+        "raw": "06.0",
+        "normalized": "Ø6.0",
+        "bounds": [
+          0.2492459555799287,
+          0.7409508902367443,
+          0.2840690978886756,
+          0.7532772451575034
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "4.5/",
+        "normalized": "Ø4.5/",
+        "bounds": [
+          0.4491362763915547,
+          0.7272549403247897,
+          0.4894433781190019,
+          0.7397769516728625
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "06.0",
+        "normalized": "Ø6.0",
+        "bounds": [
+          0.2492459555799287,
+          0.7409508902367443,
+          0.2840690978886756,
+          0.7532772451575034
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "576-01",
+    "sourcePage": 576,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "@4.5",
+        "normalized": "Ø4.5",
+        "bounds": [
+          0.3164244584590074,
+          0.15456857757777342,
+          0.3512476007677543,
+          0.16689493249853257
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "p4.5",
+        "normalized": "pØ4.5",
+        "bounds": [
+          0.3164244584590074,
+          0.15456857757777342,
+          0.3512476007677543,
+          0.16689493249853257
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "576-02",
+    "sourcePage": 576,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "04.5",
+        "normalized": "Ø4.5",
+        "bounds": [
+          0.381409377570606,
+          0.22833105067501466,
+          0.4162325198793529,
+          0.2406574055957738
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "04.5",
+        "normalized": "Ø4.5",
+        "bounds": [
+          0.381409377570606,
+          0.22833105067501466,
+          0.4162325198793529,
+          0.2406574055957738
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "576-03",
+    "sourcePage": 576,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "96.0",
+        "normalized": "Ø6.0",
+        "bounds": [
+          0.3367151083081985,
+          0.35100763060066525,
+          0.37153825061694545,
+          0.363529641948738
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "06.0",
+        "normalized": "Ø6.0",
+        "bounds": [
+          0.3367151083081985,
+          0.35100763060066525,
+          0.37153825061694545,
+          0.363529641948738
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "576-04",
+    "sourcePage": 576,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "03.5/p5.0",
+        "normalized": "Ø3.5/pØ5.0",
+        "bounds": [
+          0.25034274746366875,
+          0.507532772451575,
+          0.32629558541266795,
+          0.5200547837996479
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "03.5/p5.0",
+        "normalized": "Ø3.5/pØ5.0",
+        "bounds": [
+          0.25034274746366875,
+          0.507532772451575,
+          0.32629558541266795,
+          0.5200547837996479
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "576-05",
+    "sourcePage": 576,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "93.5",
+        "normalized": "Ø3.5",
+        "bounds": [
+          0.3164244584590074,
+          0.7350811974173351,
+          0.3512476007677543,
+          0.7474075523380943
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "p3.5",
+        "normalized": "pØ3.5",
+        "bounds": [
+          0.3164244584590074,
+          0.7350811974173351,
+          0.3512476007677543,
+          0.7474075523380943
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "576-06",
+    "sourcePage": 576,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "03.5",
+        "normalized": "Ø3.5",
+        "bounds": [
+          0.381409377570606,
+          0.8123654862062218,
+          0.4162325198793529,
+          0.8248874975542947
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "03.5",
+        "normalized": "Ø3.5",
+        "bounds": [
+          0.381409377570606,
+          0.8123654862062218,
+          0.4162325198793529,
+          0.8248874975542947
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "577-01",
+    "sourcePage": 577,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "5.0",
+        "normalized": "Ø5.0",
+        "bounds": [
+          0.33561831642445844,
+          0.15456857757777342,
+          0.37016726076227036,
+          0.16709058892584622
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "5.0",
+        "normalized": "Ø5.0",
+        "bounds": [
+          0.33561831642445844,
+          0.15456857757777342,
+          0.37016726076227036,
+          0.16709058892584622
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "577-02",
+    "sourcePage": 577,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "93.0,",
+        "normalized": "Ø3.0,",
+        "bounds": [
+          0.33561831642445844,
+          0.34435531207200154,
+          0.3742802303262956,
+          0.35687732342007433
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "93.0,",
+        "normalized": "Ø3.0,",
+        "bounds": [
+          0.33561831642445844,
+          0.34435531207200154,
+          0.3742802303262956,
+          0.35687732342007433
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "592-01",
+    "sourcePage": 592,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "92.0,",
+        "normalized": "Ø2.0,",
+        "bounds": [
+          0.3490540170002742,
+          0.15456857757777342,
+          0.38799012887304635,
+          0.16709058892584622
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "92.0,",
+        "normalized": "Ø2.0,",
+        "bounds": [
+          0.3490540170002742,
+          0.15456857757777342,
+          0.38799012887304635,
+          0.16709058892584622
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "592-03",
+    "sourcePage": 592,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "3.5",
+        "normalized": "Ø3.5",
+        "bounds": [
+          0.362763915547025,
+          0.35061631774603796,
+          0.39758705785577186,
+          0.36313832909411076
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "3.5",
+        "normalized": "Ø3.5",
+        "bounds": [
+          0.362763915547025,
+          0.35061631774603796,
+          0.39758705785577186,
+          0.36313832909411076
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "592-04",
+    "sourcePage": 592,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "95.0",
+        "normalized": "Ø5.0",
+        "bounds": [
+          0.362763915547025,
+          0.43650948933672473,
+          0.39758705785577186,
+          0.44883584425748385
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "05.0",
+        "normalized": "Ø5.0",
+        "bounds": [
+          0.362763915547025,
+          0.43650948933672473,
+          0.39758705785577186,
+          0.44883584425748385
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "592-05",
+    "sourcePage": 592,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "02.8,",
+        "normalized": "Ø2.8,",
+        "bounds": [
+          0.3490540170002742,
+          0.5222070045000978,
+          0.38799012887304635,
+          0.5347290158481706
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "02.8,",
+        "normalized": "Ø2.8,",
+        "bounds": [
+          0.3490540170002742,
+          0.5222070045000978,
+          0.38799012887304635,
+          0.5347290158481706
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "593-03",
+    "sourcePage": 593,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "2.8",
+        "normalized": "Ø2.8",
+        "bounds": [
+          0.36687688511105015,
+          0.3693993347681471,
+          0.4017000274197971,
+          0.3819213461162199
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "2.8",
+        "normalized": "Ø2.8",
+        "bounds": [
+          0.36687688511105015,
+          0.3693993347681471,
+          0.4017000274197971,
+          0.3819213461162199
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "594-07",
+    "sourcePage": 594,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "@2.5,",
+        "normalized": "Ø2.5,",
+        "bounds": [
+          0.3164244584590074,
+          0.7607121893954216,
+          0.35536057033177954,
+          0.7730385443161808
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "@2.5,",
+        "normalized": "Ø2.5,",
+        "bounds": [
+          0.3164244584590074,
+          0.7607121893954216,
+          0.35536057033177954,
+          0.7730385443161808
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "594-08",
+    "sourcePage": 594,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "p2.8,",
+        "normalized": "pØ2.8,",
+        "bounds": [
+          0.3164244584590074,
+          0.8579534337702993,
+          0.35536057033177954,
+          0.8702797886910585
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "p2.8,",
+        "normalized": "pØ2.8,",
+        "bounds": [
+          0.3164244584590074,
+          0.8579534337702993,
+          0.35536057033177954,
+          0.8702797886910585
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "595-01",
+    "sourcePage": 595,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "3.2,",
+        "normalized": "Ø3.2,",
+        "bounds": [
+          0.3175212503427475,
+          0.15437292115045978,
+          0.35618316424458457,
+          0.16689493249853257
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "3.2,",
+        "normalized": "Ø3.2,",
+        "bounds": [
+          0.3175212503427475,
+          0.15437292115045978,
+          0.35618316424458457,
+          0.16689493249853257
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "595-02",
+    "sourcePage": 595,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "94.3,",
+        "normalized": "Ø4.3,",
+        "bounds": [
+          0.3175212503427475,
+          0.24124437487771475,
+          0.35618316424458457,
+          0.2535707297984739
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "p4.3,",
+        "normalized": "pØ4.3,",
+        "bounds": [
+          0.3175212503427475,
+          0.24124437487771475,
+          0.35618316424458457,
+          0.2535707297984739
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "595-03",
+    "sourcePage": 595,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "92.8",
+        "normalized": "Ø2.8",
+        "bounds": [
+          0.4740882917466411,
+          0.3335942085697515,
+          0.508911434055388,
+          0.34592056349051065
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "92.8",
+        "normalized": "Ø2.8",
+        "bounds": [
+          0.4740882917466411,
+          0.3335942085697515,
+          0.508911434055388,
+          0.34592056349051065
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "595-04",
+    "sourcePage": 595,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "94.3",
+        "normalized": "Ø4.3",
+        "bounds": [
+          0.4740882917466411,
+          0.43631383290941106,
+          0.508911434055388,
+          0.44864018783017023
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "94.3",
+        "normalized": "Ø4.3",
+        "bounds": [
+          0.4740882917466411,
+          0.43631383290941106,
+          0.508911434055388,
+          0.44864018783017023
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "595-05",
+    "sourcePage": 595,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "3.5",
+        "normalized": "Ø3.5",
+        "bounds": [
+          0.3666026871401152,
+          0.5247505380551751,
+          0.40142582944886207,
+          0.5370768929759343
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "3.5",
+        "normalized": "Ø3.5",
+        "bounds": [
+          0.3666026871401152,
+          0.5247505380551751,
+          0.40142582944886207,
+          0.5370768929759343
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "595-06",
+    "sourcePage": 595,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "5.0",
+        "normalized": "Ø5.0",
+        "bounds": [
+          0.3666026871401152,
+          0.6163177460379573,
+          0.40142582944886207,
+          0.6288397573860302
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "5.0",
+        "normalized": "Ø5.0",
+        "bounds": [
+          0.3666026871401152,
+          0.6163177460379573,
+          0.40142582944886207,
+          0.6288397573860302
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "595-08",
+    "sourcePage": 595,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "92.5/93.5",
+        "normalized": "Ø2.5/Ø3.5",
+        "bounds": [
+          0.4049904030710173,
+          0.8186264918802583,
+          0.48094324102001645,
+          0.831148503228331
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "92.5/93.5",
+        "normalized": "Ø2.5/Ø3.5",
+        "bounds": [
+          0.4049904030710173,
+          0.8186264918802583,
+          0.48094324102001645,
+          0.831148503228331
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "596-01",
+    "sourcePage": 596,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "93.2/94.5",
+        "normalized": "Ø3.2/Ø4.5",
+        "bounds": [
+          0.4041678091582122,
+          0.15417726472314616,
+          0.4798464491362764,
+          0.16669927607121893
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "93.2/94.5",
+        "normalized": "Ø3.2/Ø4.5",
+        "bounds": [
+          0.4041678091582122,
+          0.15417726472314616,
+          0.4798464491362764,
+          0.16669927607121893
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          },
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "605-02",
+    "sourcePage": 605,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "01.5,",
+        "normalized": "Ø1.5,",
+        "bounds": [
+          0.3493282149712092,
+          0.2042653101154373,
+          0.3882643268439814,
+          0.21678732146351007
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "91.5,",
+        "normalized": "Ø1.5,",
+        "bounds": [
+          0.3493282149712092,
+          0.2042653101154373,
+          0.3882643268439814,
+          0.21678732146351007
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "605-03",
+    "sourcePage": 605,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "3.0",
+        "normalized": "Ø3.0",
+        "bounds": [
+          0.47902385522347135,
+          0.26022304832713755,
+          0.5135727995612832,
+          0.27274505967521034
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "3.0",
+        "normalized": "Ø3.0",
+        "bounds": [
+          0.47902385522347135,
+          0.26022304832713755,
+          0.5135727995612832,
+          0.27274505967521034
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "605-05",
+    "sourcePage": 605,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "3.0",
+        "normalized": "Ø3.0",
+        "bounds": [
+          0.44639429668220454,
+          0.43416161220896105,
+          0.4812174389909515,
+          0.44668362355703384
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "3.0",
+        "normalized": "Ø3.0",
+        "bounds": [
+          0.44639429668220454,
+          0.43416161220896105,
+          0.4812174389909515,
+          0.44668362355703384
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "605-06",
+    "sourcePage": 605,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "93.0,",
+        "normalized": "Ø3.0,",
+        "bounds": [
+          0.4129421442281327,
+          0.5169242809626297,
+          0.4518782561009049,
+          0.5292506358833887
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "93.0,",
+        "normalized": "Ø3.0,",
+        "bounds": [
+          0.4129421442281327,
+          0.5169242809626297,
+          0.4518782561009049,
+          0.5292506358833887
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "605-10",
+    "sourcePage": 605,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "03.0",
+        "normalized": "Ø3.0",
+        "bounds": [
+          0.34795722511653415,
+          0.8604969673253766,
+          0.38278036742528104,
+          0.8730189786734495
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "03.0",
+        "normalized": "Ø3.0",
+        "bounds": [
+          0.34795722511653415,
+          0.8604969673253766,
+          0.38278036742528104,
+          0.8730189786734495
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "620-01",
+    "sourcePage": 620,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "p3.5,",
+        "normalized": "pØ3.5,",
+        "bounds": [
+          0.3164244584590074,
+          0.15515554685971433,
+          0.35536057033177954,
+          0.16748190178047348
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "3.5,",
+        "normalized": "Ø3.5,",
+        "bounds": [
+          0.3164244584590074,
+          0.15515554685971433,
+          0.35536057033177954,
+          0.16748190178047348
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "620-05",
+    "sourcePage": 620,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "@3.5,",
+        "normalized": "Ø3.5,",
+        "bounds": [
+          0.345215245407184,
+          0.5677949520641753,
+          0.3838771593090211,
+          0.5803169634122481
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "@3.5,",
+        "normalized": "Ø3.5,",
+        "bounds": [
+          0.345215245407184,
+          0.5677949520641753,
+          0.3838771593090211,
+          0.5803169634122481
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "620-06",
+    "sourcePage": 620,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "@5.0,",
+        "normalized": "Ø5.0,",
+        "bounds": [
+          0.345215245407184,
+          0.6656231657209939,
+          0.3838771593090211,
+          0.6779495206417531
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "5.0,",
+        "normalized": "Ø5.0,",
+        "bounds": [
+          0.345215245407184,
+          0.6656231657209939,
+          0.3838771593090211,
+          0.6779495206417531
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "624-06",
+    "sourcePage": 624,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "2.5,",
+        "normalized": "Ø2.5,",
+        "bounds": [
+          0.3934740882917466,
+          0.7898649970651536,
+          0.4324102001645188,
+          0.8023870084132264
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "2.5,",
+        "normalized": "Ø2.5,",
+        "bounds": [
+          0.3934740882917466,
+          0.7898649970651536,
+          0.4324102001645188,
+          0.8023870084132264
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "624-07",
+    "sourcePage": 624,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "2.5,",
+        "normalized": "Ø2.5,",
+        "bounds": [
+          0.39237729640800656,
+          0.8599099980434357,
+          0.43131340828077874,
+          0.8722363529641949
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "2.5,",
+        "normalized": "Ø2.5,",
+        "bounds": [
+          0.39237729640800656,
+          0.8599099980434357,
+          0.43131340828077874,
+          0.8722363529641949
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "625-01",
+    "sourcePage": 625,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "3.5",
+        "normalized": "Ø3.5",
+        "bounds": [
+          0.41349054017000275,
+          0.15535120328702798,
+          0.44831368247874964,
+          0.16767755820778713
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "3.5",
+        "normalized": "Ø3.5",
+        "bounds": [
+          0.41349054017000275,
+          0.15535120328702798,
+          0.44831368247874964,
+          0.16767755820778713
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "625-02",
+    "sourcePage": 625,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "03.5",
+        "normalized": "Ø3.5",
+        "bounds": [
+          0.4658623526185906,
+          0.24359225200547838,
+          0.5006854949273375,
+          0.2559186069262375
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "03.5",
+        "normalized": "Ø3.5",
+        "bounds": [
+          0.4658623526185906,
+          0.24359225200547838,
+          0.5006854949273375,
+          0.2559186069262375
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "625-03",
+    "sourcePage": 625,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "04.5",
+        "normalized": "Ø4.5",
+        "bounds": [
+          0.4666849465313957,
+          0.3318333007239288,
+          0.5015080888401425,
+          0.34435531207200154
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "04.5",
+        "normalized": "Ø4.5",
+        "bounds": [
+          0.4666849465313957,
+          0.3318333007239288,
+          0.5015080888401425,
+          0.34435531207200154
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "625-04",
+    "sourcePage": 625,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "06.5",
+        "normalized": "Ø6.5",
+        "bounds": [
+          0.4666849465313957,
+          0.4202700058696928,
+          0.5015080888401425,
+          0.43259636079045194
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "06.5",
+        "normalized": "Ø6.5",
+        "bounds": [
+          0.4666849465313957,
+          0.4202700058696928,
+          0.5015080888401425,
+          0.43259636079045194
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "625-05",
+    "sourcePage": 625,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "3.5",
+        "normalized": "Ø3.5",
+        "bounds": [
+          0.34219906772689884,
+          0.5012717667775386,
+          0.37702221003564573,
+          0.5135981216982978
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "93.5",
+        "normalized": "Ø3.5",
+        "bounds": [
+          0.34219906772689884,
+          0.5012717667775386,
+          0.37702221003564573,
+          0.5135981216982978
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "625-06",
+    "sourcePage": 625,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "4.0",
+        "normalized": "Ø4.0",
+        "bounds": [
+          0.34219906772689884,
+          0.5869692819409118,
+          0.37702221003564573,
+          0.5994912932889845
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "94.0",
+        "normalized": "Ø4.0",
+        "bounds": [
+          0.34219906772689884,
+          0.5869692819409118,
+          0.37702221003564573,
+          0.5994912932889845
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "625-07",
+    "sourcePage": 625,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "2.5",
+        "normalized": "Ø2.5",
+        "bounds": [
+          0.34219906772689884,
+          0.674232048522794,
+          0.37702221003564573,
+          0.6865584034435531
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "2.5",
+        "normalized": "Ø2.5",
+        "bounds": [
+          0.34219906772689884,
+          0.674232048522794,
+          0.37702221003564573,
+          0.6865584034435531
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "625-08",
+    "sourcePage": 625,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "04.4",
+        "normalized": "Ø4.4",
+        "bounds": [
+          0.41732931176309296,
+          0.7579729994130308,
+          0.45215245407183985,
+          0.7702993543337898
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "04.4",
+        "normalized": "Ø4.4",
+        "bounds": [
+          0.41732931176309296,
+          0.7579729994130308,
+          0.45215245407183985,
+          0.7702993543337898
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "625-09",
+    "sourcePage": 625,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "03.8",
+        "normalized": "Ø3.8",
+        "bounds": [
+          0.418151905675898,
+          0.8462140481314812,
+          0.45297504798464494,
+          0.8587360594795539
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "03.8",
+        "normalized": "Ø3.8",
+        "bounds": [
+          0.418151905675898,
+          0.8462140481314812,
+          0.45297504798464494,
+          0.8587360594795539
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "626-01",
+    "sourcePage": 626,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "04.5,",
+        "normalized": "Ø4.5,",
+        "bounds": [
+          0.381683575541541,
+          0.15672079827822344,
+          0.42061968741431316,
+          0.16904715319898259
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "4.5,",
+        "normalized": "Ø4.5,",
+        "bounds": [
+          0.381683575541541,
+          0.15672079827822344,
+          0.42061968741431316,
+          0.16904715319898259
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "626-02",
+    "sourcePage": 626,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "96.5,",
+        "normalized": "Ø6.5,",
+        "bounds": [
+          0.38415135727995614,
+          0.26002739189982393,
+          0.42308746915272827,
+          0.27254940324789667
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "96.5,",
+        "normalized": "Ø6.5,",
+        "bounds": [
+          0.38415135727995614,
+          0.26002739189982393,
+          0.42308746915272827,
+          0.27254940324789667
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "626-03",
+    "sourcePage": 626,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "3.5,",
+        "normalized": "Ø3.5,",
+        "bounds": [
+          0.38415135727995614,
+          0.3533555077284289,
+          0.42308746915272827,
+          0.3658775190765017
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "3.5,",
+        "normalized": "Ø3.5,",
+        "bounds": [
+          0.38415135727995614,
+          0.3533555077284289,
+          0.42308746915272827,
+          0.3658775190765017
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "626-06",
+    "sourcePage": 626,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "4.5",
+        "normalized": "Ø4.5",
+        "bounds": [
+          0.38415135727995614,
+          0.6769712385051849,
+          0.41897449958870303,
+          0.689297593425944
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "4.5",
+        "normalized": "Ø4.5",
+        "bounds": [
+          0.38415135727995614,
+          0.6769712385051849,
+          0.41897449958870303,
+          0.689297593425944
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "626-07",
+    "sourcePage": 626,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "4.5",
+        "normalized": "Ø4.5",
+        "bounds": [
+          0.38415135727995614,
+          0.7749951085893172,
+          0.41897449958870303,
+          0.7873214635100763
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "4.5",
+        "normalized": "Ø4.5",
+        "bounds": [
+          0.38415135727995614,
+          0.7749951085893172,
+          0.41897449958870303,
+          0.7873214635100763
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "626-08",
+    "sourcePage": 626,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "06.5",
+        "normalized": "Ø6.5",
+        "bounds": [
+          0.38031258568686593,
+          0.8728233222461358,
+          0.41540992596654785,
+          0.885149677166895
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "06.5",
+        "normalized": "Ø6.5",
+        "bounds": [
+          0.38031258568686593,
+          0.8728233222461358,
+          0.41540992596654785,
+          0.885149677166895
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "627-01",
+    "sourcePage": 627,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "06.5",
+        "normalized": "Ø6.5",
+        "bounds": [
+          0.39703866191390186,
+          0.1702210917628644,
+          0.43186180422264875,
+          0.1827431031109372
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "06.5",
+        "normalized": "Ø6.5",
+        "bounds": [
+          0.39703866191390186,
+          0.1702210917628644,
+          0.43186180422264875,
+          0.1827431031109372
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "627-02",
+    "sourcePage": 627,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "3.5",
+        "normalized": "Ø3.5",
+        "bounds": [
+          0.39703866191390186,
+          0.28272353746820583,
+          0.43186180422264875,
+          0.29504989238896495
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "3.5",
+        "normalized": "Ø3.5",
+        "bounds": [
+          0.39703866191390186,
+          0.28272353746820583,
+          0.43186180422264875,
+          0.29504989238896495
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "627-03",
+    "sourcePage": 627,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "3.5",
+        "normalized": "Ø3.5",
+        "bounds": [
+          0.39703866191390186,
+          0.37839953042457447,
+          0.43186180422264875,
+          0.3907258853453336
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "3.5",
+        "normalized": "Ø3.5",
+        "bounds": [
+          0.39703866191390186,
+          0.37839953042457447,
+          0.43186180422264875,
+          0.3907258853453336
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "627-04",
+    "sourcePage": 627,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "p4.0,",
+        "normalized": "pØ4.0,",
+        "bounds": [
+          0.3742802303262956,
+          0.46507532772451576,
+          0.4132163421990677,
+          0.47759733907258856
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "p4.0,",
+        "normalized": "pØ4.0,",
+        "bounds": [
+          0.3742802303262956,
+          0.46507532772451576,
+          0.4132163421990677,
+          0.47759733907258856
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "627-05",
+    "sourcePage": 627,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "96.0,",
+        "normalized": "Ø6.0,",
+        "bounds": [
+          0.3742802303262956,
+          0.5556642535707298,
+          0.4132163421990677,
+          0.567990608491489
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "96.0,",
+        "normalized": "Ø6.0,",
+        "bounds": [
+          0.3742802303262956,
+          0.5556642535707298,
+          0.4132163421990677,
+          0.567990608491489
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "640-27",
+    "sourcePage": 640,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "8.0",
+        "normalized": "Ø8.0",
+        "bounds": [
+          0.3874417329311763,
+          0.7992565055762082,
+          0.4219906772689882,
+          0.8117785169242809
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "8.0",
+        "normalized": "Ø8.0",
+        "bounds": [
+          0.3874417329311763,
+          0.7992565055762082,
+          0.4219906772689882,
+          0.8117785169242809
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "640-28",
+    "sourcePage": 640,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "09.0",
+        "normalized": "Ø9.0",
+        "bounds": [
+          0.3874417329311763,
+          0.8141263940520446,
+          0.4219906772689882,
+          0.8264527489728037
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "09.0",
+        "normalized": "Ø9.0",
+        "bounds": [
+          0.3874417329311763,
+          0.8141263940520446,
+          0.4219906772689882,
+          0.8264527489728037
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "640-29",
+    "sourcePage": 640,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "10.0",
+        "normalized": "Ø10.0",
+        "bounds": [
+          0.3874417329311763,
+          0.8288006261005674,
+          0.43186180422264875,
+          0.8413226374486402
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 2,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "10.0",
+        "normalized": "Ø10.0",
+        "bounds": [
+          0.3874417329311763,
+          0.8288006261005674,
+          0.43186180422264875,
+          0.8413226374486402
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 2,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "640-30",
+    "sourcePage": 640,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "011.0",
+        "normalized": "Ø11.0",
+        "bounds": [
+          0.3874417329311763,
+          0.8436705145764039,
+          0.43049081436797365,
+          0.855996869497163
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 2,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "011.0",
+        "normalized": "Ø11.0",
+        "bounds": [
+          0.3874417329311763,
+          0.8436705145764039,
+          0.43049081436797365,
+          0.855996869497163
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 2,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "640-31",
+    "sourcePage": 640,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "012.0",
+        "normalized": "Ø12.0",
+        "bounds": [
+          0.3874417329311763,
+          0.8583447466249267,
+          0.43186180422264875,
+          0.8708667579729994
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 2,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "012.0",
+        "normalized": "Ø12.0",
+        "bounds": [
+          0.3874417329311763,
+          0.8583447466249267,
+          0.43186180422264875,
+          0.8708667579729994
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 2,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "640-32",
+    "sourcePage": 640,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "013.0",
+        "normalized": "Ø13.0",
+        "bounds": [
+          0.3874417329311763,
+          0.873214635100763,
+          0.43186180422264875,
+          0.8855409900215222
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 2,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "013.0",
+        "normalized": "Ø13.0",
+        "bounds": [
+          0.3874417329311763,
+          0.873214635100763,
+          0.43186180422264875,
+          0.8855409900215222
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 2,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "640-33",
+    "sourcePage": 640,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "012.5",
+        "normalized": "Ø12.5",
+        "bounds": [
+          0.3874417329311763,
+          0.8878888671492858,
+          0.43186180422264875,
+          0.9004108784973587
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 2,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "012.5",
+        "normalized": "Ø12.5",
+        "bounds": [
+          0.3874417329311763,
+          0.8878888671492858,
+          0.43186180422264875,
+          0.9004108784973587
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 2,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "643-02",
+    "sourcePage": 643,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "93.3,",
+        "normalized": "Ø3.3,",
+        "bounds": [
+          0.4633945708801755,
+          0.49501076110350223,
+          0.5023306827529477,
+          0.5073371160242613
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "93.3,",
+        "normalized": "Ø3.3,",
+        "bounds": [
+          0.4633945708801755,
+          0.49501076110350223,
+          0.5023306827529477,
+          0.5073371160242613
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "row": "643-05",
+    "sourcePage": 643,
+    "evidence": [
+      {
+        "reader": "PSM3",
+        "raw": "93.3",
+        "normalized": "Ø3.3",
+        "bounds": [
+          0.46449136276391556,
+          0.8039522598317355,
+          0.49931450507266245,
+          0.8164742711798083
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      },
+      {
+        "reader": "PSM11",
+        "raw": "93.3",
+        "normalized": "Ø3.3",
+        "bounds": [
+          0.46449136276391556,
+          0.8039522598317355,
+          0.49931450507266245,
+          0.8164742711798083
+        ],
+        "method": "600-DPI source phi glyph + counted printed digits before decimal",
+        "parts": [
+          {
+            "printedDigitsBeforeDecimal": 1,
+            "phiGlyph": 0
+          }
+        ]
+      }
+    ]
+  }
+]

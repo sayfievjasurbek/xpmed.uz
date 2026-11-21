@@ -1,0 +1,207 @@
+{
+  "assets": [
+    {
+      "name": "hero-stem",
+      "src": "/images/products/double-medical/anty-f-series/hero-stem.webp",
+      "width": 1216,
+      "height": 1872,
+      "imageType": "cutout",
+      "pdfPage": 1,
+      "captionFree": true,
+      "pdfImageXref": 14,
+      "sourceMethod": "Native embedded CMYK image converted to sRGB and transformed using PDF placement; cover excluded",
+      "maskMethod": "rembg reviewed; source alpha with exterior layout residue removed"
+    },
+    {
+      "name": "hotspot-stem",
+      "src": "/images/products/double-medical/anty-f-series/hotspot-stem.webp",
+      "width": 1196,
+      "height": 1324,
+      "imageType": "cutout",
+      "pdfPage": 2,
+      "captionFree": true,
+      "pdfImageXref": 21,
+      "sourceBounds": [
+        0.15897453817994137,
+        0.06751502686529957,
+        0.8804065364060396,
+        0.7059595126044527
+      ],
+      "nativeSize": [
+        595,
+        754
+      ],
+      "scale": 2,
+      "trimBounds": [
+        31,
+        60,
+        1163,
+        1320
+      ],
+      "padding": 32,
+      "maskMethod": "Manufacturer alpha retained after rembg comparison; holes and fine ribs preserved",
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exactly 2x",
+        "scale": 2,
+        "originalSize": [
+          595,
+          754
+        ],
+        "enhancedSize": [
+          1190,
+          1508
+        ]
+      }
+    },
+    {
+      "name": "feature-shoulder-coating",
+      "src": "/images/products/double-medical/anty-f-series/feature-shoulder-coating.webp",
+      "width": 220,
+      "height": 220,
+      "imageType": "cutout",
+      "pdfPage": 2,
+      "captionFree": true,
+      "sourceImage": "/images/products/double-medical/anty-f-series/hotspot-stem.webp"
+    },
+    {
+      "name": "feature-cable-holes",
+      "src": "/images/products/double-medical/anty-f-series/feature-cable-holes.webp",
+      "width": 220,
+      "height": 220,
+      "imageType": "cutout",
+      "pdfPage": 2,
+      "captionFree": true,
+      "sourceImage": "/images/products/double-medical/anty-f-series/hotspot-stem.webp"
+    },
+    {
+      "name": "feature-longitudinal-ribs",
+      "src": "/images/products/double-medical/anty-f-series/feature-longitudinal-ribs.webp",
+      "width": 220,
+      "height": 220,
+      "imageType": "cutout",
+      "pdfPage": 2,
+      "captionFree": true,
+      "sourceImage": "/images/products/double-medical/anty-f-series/hotspot-stem.webp"
+    },
+    {
+      "name": "feature-taper",
+      "src": "/images/products/double-medical/anty-f-series/feature-taper.webp",
+      "width": 220,
+      "height": 220,
+      "imageType": "cutout",
+      "pdfPage": 2,
+      "captionFree": true,
+      "sourceImage": "/images/products/double-medical/anty-f-series/hotspot-stem.webp"
+    },
+    {
+      "name": "feature-circular-cross-section",
+      "src": "/images/products/double-medical/anty-f-series/feature-circular-cross-section.webp",
+      "width": 220,
+      "height": 220,
+      "imageType": "cutout",
+      "pdfPage": 2,
+      "captionFree": true,
+      "sourceImage": "/images/products/double-medical/anty-f-series/hotspot-stem.webp"
+    },
+    {
+      "name": "feature-minimum-diameter",
+      "src": "/images/products/double-medical/anty-f-series/feature-minimum-diameter.webp",
+      "width": 159,
+      "height": 158,
+      "imageType": "cutout",
+      "pdfPage": 2,
+      "captionFree": true,
+      "sourceImage": "/images/products/double-medical/anty-f-series/hotspot-stem.webp"
+    },
+    {
+      "name": "technical-drawing",
+      "src": "/images/products/double-medical/anty-f-series/technical-drawing.webp",
+      "width": 1009,
+      "height": 1509,
+      "imageType": "scene",
+      "pdfPage": 2,
+      "captionFree": true,
+      "sourceBounds": [
+        0.6864776913241732,
+        0.4779682397631987,
+        0.8837788805171067,
+        0.6884603356199844
+      ],
+      "sourceMethod": "Vector drawing rendered at 600 DPI; white background retained"
+    }
+  ],
+  "hotspots": [
+    {
+      "featureId": "shoulder-coating",
+      "image": "/images/products/double-medical/anty-f-series/hotspot-stem.webp",
+      "x": 57.318,
+      "y": 10.322,
+      "pdfPage": 2,
+      "sourcePoint": [
+        352,
+        118
+      ],
+      "coordinateSpace": "percent-of-padded-image"
+    },
+    {
+      "featureId": "cable-holes",
+      "image": "/images/products/double-medical/anty-f-series/hotspot-stem.webp",
+      "x": 52.753,
+      "y": 19.492,
+      "pdfPage": 2,
+      "sourcePoint": [
+        331.7,
+        162.2
+      ],
+      "coordinateSpace": "percent-of-padded-image"
+    },
+    {
+      "featureId": "longitudinal-ribs",
+      "image": "/images/products/double-medical/anty-f-series/hotspot-stem.webp",
+      "x": 36.224,
+      "y": 38.516,
+      "pdfPage": 2,
+      "sourcePoint": [
+        258.2,
+        253.9
+      ],
+      "coordinateSpace": "percent-of-padded-image"
+    },
+    {
+      "featureId": "taper",
+      "image": "/images/products/double-medical/anty-f-series/hotspot-stem.webp",
+      "x": 36.022,
+      "y": 54.553,
+      "pdfPage": 2,
+      "sourcePoint": [
+        257.3,
+        331.2
+      ],
+      "coordinateSpace": "percent-of-padded-image"
+    },
+    {
+      "featureId": "circular-cross-section",
+      "image": "/images/products/double-medical/anty-f-series/hotspot-stem.webp",
+      "x": 10.002,
+      "y": 85.424,
+      "pdfPage": 2,
+      "sourcePoint": [
+        141.6,
+        480
+      ],
+      "coordinateSpace": "percent-of-padded-image"
+    },
+    {
+      "featureId": "minimum-diameter",
+      "image": "/images/products/double-medical/anty-f-series/hotspot-stem.webp",
+      "x": 4.178,
+      "y": 96.379,
+      "pdfPage": 2,
+      "sourcePoint": [
+        115.7,
+        532.8
+      ],
+      "coordinateSpace": "percent-of-padded-image"
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "layouts": [
+    {
+      "label": "ru desktop double-medical/anty-f-series",
+      "categoryLink": "/catalog/?category=joint-replacement",
+      "columns": 4,
+      "contained": true,
+      "count": 4,
+      "linkColor": "rgb(255, 255, 255)",
+      "noHorizontalOverflow": true,
+      "viewport": 1600,
+      "widths": [
+        302,
+        302,
+        302,
+        302
+      ]
+    },
+    {
+      "label": "ru desktop double-medical/cynthia-knee-system",
+      "categoryLink": "/catalog/?category=joint-replacement",
+      "columns": 4,
+      "contained": true,
+      "count": 4,
+      "linkColor": "rgb(255, 255, 255)",
+      "noHorizontalOverflow": true,
+      "viewport": 1600,
+      "widths": [
+        302,
+        302,
+        302,
+        302
+      ]
+    },
+    {
+      "label": "ru desktop double-medical/angel-shoulder-system",
+      "categoryLink": "/catalog/?category=joint-replacement",
+      "columns": 4,
+      "contained": true,
+      "count": 4,
+      "noHorizontalOverflow": true,
+      "viewport": 1600,
+      "widths": [
+        302,
+        302,
+        302,
+        302
+      ]
+    },
+    {
+      "label": "ru desktop conmed/system-5000",
+      "categoryLink": "/catalog/?category=electrosurgery",
+      "columns": 4,
+      "contained": true,
+      "count": 4,
+      "noHorizontalOverflow": true,
+      "viewport": 1600,
+      "widths": [
+        302,
+        302,
+        302,
+        302
+      ]
+    },
+    {
+      "label": "en desktop double-medical/anty-f-series",
+      "categoryLink": "/en/catalog/?category=joint-replacement",
+      "columns": 4,
+      "contained": true,
+      "count": 4,
+      "noHorizontalOverflow": true,
+      "viewport": 1600,
+      "widths": [
+        302,
+        302,
+        302,
+        302
+      ]
+    },
+    {
+      "label": "en desktop double-medical/cynthia-knee-system",
+      "categoryLink": "/en/catalog/?category=joint-replacement",
+      "columns": 4,
+      "contained": true,
+      "count": 4,
+      "noHorizontalOverflow": true,
+      "viewport": 1600,
+      "widths": [
+        302,
+        302,
+        302,
+        302
+      ]
+    },
+    {
+      "label": "en desktop double-medical/angel-shoulder-system",
+      "categoryLink": "/en/catalog/?category=joint-replacement",
+      "columns": 4,
+      "contained": true,
+      "count": 4,
+      "noHorizontalOverflow": true,
+      "viewport": 1600,
+      "widths": [
+        302,
+        302,
+        302,
+        302
+      ]
+    },
+    {
+      "label": "en desktop conmed/system-5000",
+      "categoryLink": "/en/catalog/?category=electrosurgery",
+      "columns": 4,
+      "contained": true,
+      "count": 4,
+      "noHorizontalOverflow": true,
+      "viewport": 1600,
+      "widths": [
+        302,
+        302,
+        302,
+        302
+      ]
+    },
+    {
+      "label": "ru mobile double-medical/anty-f-series",
+      "categoryLink": "/catalog/?category=joint-replacement",
+      "columns": 1,
+      "contained": true,
+      "count": 4,
+      "noHorizontalOverflow": true,
+      "viewport": 433,
+      "widths": [
+        393,
+        393,
+        393,
+        393
+      ]
+    },
+    {
+      "label": "ru mobile double-medical/cynthia-knee-system",
+      "categoryLink": "/catalog/?category=joint-replacement",
+      "columns": 1,
+      "contained": true,
+      "count": 4,
+      "noHorizontalOverflow": true,
+      "viewport": 433,
+      "widths": [
+        393,
+        393,
+        393,
+        393
+      ]
+    },
+    {
+      "label": "ru mobile double-medical/angel-shoulder-system",
+      "categoryLink": "/catalog/?category=joint-replacement",
+      "columns": 1,
+      "contained": true,
+      "count": 4,
+      "noHorizontalOverflow": true,
+      "viewport": 433,
+      "widths": [
+        393,
+        393,
+        393,
+        393
+      ]
+    },
+    {
+      "label": "ru mobile conmed/system-5000",
+      "categoryLink": "/catalog/?category=electrosurgery",
+      "columns": 1,
+      "contained": true,
+      "count": 4,
+      "noHorizontalOverflow": true,
+      "viewport": 433,
+      "widths": [
+        393,
+        393,
+        393,
+        393
+      ]
+    },
+    {
+      "label": "en mobile double-medical/anty-f-series",
+      "categoryLink": "/en/catalog/?category=joint-replacement",
+      "columns": 1,
+      "contained": true,
+      "count": 4,
+      "noHorizontalOverflow": true,
+      "viewport": 433,
+      "widths": [
+        393,
+        393,
+        393,
+        393
+      ]
+    },
+    {
+      "label": "en mobile double-medical/cynthia-knee-system",
+      "categoryLink": "/en/catalog/?category=joint-replacement",
+      "columns": 1,
+      "contained": true,
+      "count": 4,
+      "noHorizontalOverflow": true,
+      "viewport": 433,
+      "widths": [
+        393,
+        393,
+        393,
+        393
+      ]
+    },
+    {
+      "label": "en mobile double-medical/angel-shoulder-system",
+      "categoryLink": "/en/catalog/?category=joint-replacement",
+      "columns": 1,
+      "contained": true,
+      "count": 4,
+      "noHorizontalOverflow": true,
+      "viewport": 433,
+      "widths": [
+        393,
+        393,
+        393,
+        393
+      ]
+    },
+    {
+      "label": "en mobile conmed/system-5000",
+      "categoryLink": "/en/catalog/?category=electrosurgery",
+      "columns": 1,
+      "contained": true,
+      "count": 4,
+      "noHorizontalOverflow": true,
+      "viewport": 433,
+      "widths": [
+        393,
+        393,
+        393,
+        393
+      ]
+    },
+    {
+      "label": "ru tablet double-medical/anty-f-series",
+      "categoryLink": "/catalog/?category=joint-replacement",
+      "columns": 2,
+      "contained": true,
+      "count": 4,
+      "noHorizontalOverflow": true,
+      "viewport": 1000,
+      "widths": [
+        443,
+        443,
+        443,
+        443
+      ]
+    },
+    {
+      "label": "en tablet double-medical/anty-f-series",
+      "categoryLink": "/en/catalog/?category=joint-replacement",
+      "columns": 2,
+      "contained": true,
+      "count": 4,
+      "noHorizontalOverflow": true,
+      "viewport": 1000,
+      "widths": [
+        443,
+        443,
+        443,
+        443
+      ]
+    },
+    {
+      "label": "ru category-link source",
+      "categoryLink": "/catalog/?category=joint-replacement",
+      "columns": 4,
+      "contained": true,
+      "count": 4,
+      "noHorizontalOverflow": true,
+      "viewport": 1600,
+      "widths": [
+        302,
+        302,
+        302,
+        302
+      ]
+    },
+    {
+      "label": "en category-link source",
+      "categoryLink": "/en/catalog/?category=joint-replacement",
+      "columns": 4,
+      "contained": true,
+      "count": 4,
+      "noHorizontalOverflow": true,
+      "viewport": 1600,
+      "widths": [
+        302,
+        302,
+        302,
+        302
+      ]
+    }
+  ],
+  "categoryLinks": [
+    {
+      "lang": "ru",
+      "selected": [
+        "joint-replacement"
+      ],
+      "url": "http://127.0.0.1:4180/catalog/?category=joint-replacement",
+      "visibleCategories": [
+        "joint-replacement"
+      ]
+    },
+    {
+      "lang": "en",
+      "selected": [
+        "joint-replacement"
+      ],
+      "url": "http://127.0.0.1:4180/en/catalog/?category=joint-replacement",
+      "visibleCategories": [
+        "joint-replacement"
+      ]
+    }
+  ]
+}

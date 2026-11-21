@@ -1,0 +1,1450 @@
+{
+  "schemaVersion": 1,
+  "slug": "spinal-hooks",
+  "brand": "double-medical",
+  "category": "spine-implants",
+  "subcategory": "thoracolumbar",
+  "specialty": [
+    "spine",
+    "traumatology"
+  ],
+  "name": {
+    "ru": "Крючки для фиксации позвоночника",
+    "en": "Spinal Hooks"
+  },
+  "shortDescription": {
+    "ru": "Импланты и компоненты для хирургии позвоночника",
+    "en": "Implants and components for spine surgery"
+  },
+  "description": {
+    "ru": "Крючки для фиксации позвоночника. Каталожные номера, материалы и размеры компонентов приведены по официальному Spine Catalogue Double Medical. Выберите исполнение по таблицам ниже.",
+    "en": "Spinal Hooks. Component reference numbers, materials and dimensions are listed according to the official Double Medical Spine Catalogue. Select configurations from the tables below."
+  },
+  "heroImage": "/images/products/double-medical/spine-catalogue/page-051-xref-982.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "src": "/images/products/double-medical/spine-catalogue/page-051-xref-982.webp",
+      "width": 166,
+      "height": 242,
+      "imageType": "cutout",
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus; exact 2x downsample before rembg",
+        "scale": 2,
+        "originalSize": [
+          51,
+          89
+        ],
+        "enhancedSize": [
+          102,
+          178
+        ]
+      },
+      "sourcePages": [
+        51
+      ],
+      "imageCaption": {
+        "ru": "6.0 мм TINA Ламинарный крючок",
+        "en": "6.0mm TINA Lamina Hook"
+      }
+    }
+  ],
+  "variants": [],
+  "features": [],
+  "hotspots": [],
+  "components": [],
+  "specTables": [],
+  "referenceTables": [
+    {
+      "id": "spine-p51-1",
+      "groupId": "spine-p51-1",
+      "title": {
+        "ru": "6.0 мм TINA Ламинарный крючок",
+        "en": "6.0mm TINA Lamina Hook"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "6.0 мм TINA Ламинарный крючок",
+            "en": "6.0mm TINA Lamina Hook"
+          },
+          "087570000"
+        ],
+        [
+          {
+            "ru": "6.0 мм TINA Ламинарный крючок",
+            "en": "6.0mm TINA Lamina Hook"
+          },
+          "087570000"
+        ],
+        [
+          {
+            "ru": "6.0 мм TINA Ламинарный крючок",
+            "en": "6.0mm TINA Lamina Hook"
+          },
+          "087580000"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 51,
+          "printedPage": 49,
+          "sourceBounds": [
+            0.08,
+            0.2296354920759147,
+            0.56,
+            0.2456139698689102
+          ],
+          "bounds": [
+            0.08,
+            0.2296354920759147,
+            0.56,
+            0.2456139698689102
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "value": "087570000",
+              "pdfPage": 51,
+              "printedPage": 49,
+              "tableId": "spine-p51-1",
+              "row": 1,
+              "column": 2,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "087570000"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "087570000"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "087570000"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)",
+              "sourceBounds": [
+                0.08,
+                0.2296354920759147,
+                0.56,
+                0.2456139698689102
+              ]
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "087570000",
+                "PSM11": "087570000",
+                "Vision": "087570000"
+              },
+              "value": "087570000",
+              "bounds": [
+                0.12859884836852206,
+                0.2326354920759147,
+                0.2163421990677269,
+                0.2426139698689102
+              ],
+              "verification": "verified (three readers compared; exact agreement)"
+            }
+          ]
+        },
+        {
+          "pdfPage": 51,
+          "printedPage": 49,
+          "sourceBounds": [
+            0.08,
+            0.2443097241244375,
+            0.56,
+            0.260288201917433
+          ],
+          "bounds": [
+            0.08,
+            0.2443097241244375,
+            0.56,
+            0.260288201917433
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "value": "087570000",
+              "pdfPage": 51,
+              "printedPage": 49,
+              "tableId": "spine-p51-1",
+              "row": 2,
+              "column": 2,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "087570000"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "087570000"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "087570000"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)",
+              "sourceBounds": [
+                0.08,
+                0.2443097241244375,
+                0.56,
+                0.260288201917433
+              ]
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "087570000",
+                "PSM11": "087570000",
+                "Vision": "087570000"
+              },
+              "value": "087570000",
+              "bounds": [
+                0.12859884836852206,
+                0.2473097241244375,
+                0.2160680010967919,
+                0.257288201917433
+              ],
+              "verification": "verified (three readers compared; exact agreement)"
+            }
+          ]
+        },
+        {
+          "pdfPage": 51,
+          "printedPage": 49,
+          "sourceBounds": [
+            0.08,
+            0.2589839561729603,
+            0.56,
+            0.27496243396595577
+          ],
+          "bounds": [
+            0.08,
+            0.2589839561729603,
+            0.56,
+            0.27496243396595577
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "value": "087580000",
+              "pdfPage": 51,
+              "printedPage": 49,
+              "tableId": "spine-p51-1",
+              "row": 3,
+              "column": 2,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "087580000"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "087580000"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "087580000"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)",
+              "sourceBounds": [
+                0.08,
+                0.2589839561729603,
+                0.56,
+                0.27496243396595577
+              ]
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "087580000",
+                "PSM11": "087580000",
+                "Vision": "087580000"
+              },
+              "value": "087580000",
+              "bounds": [
+                0.12859884836852206,
+                0.2619839561729603,
+                0.2163421990677269,
+                0.27196243396595576
+              ],
+              "verification": "verified (three readers compared; exact agreement)"
+            }
+          ]
+        }
+      ],
+      "keyParameters": [
+        {
+          "parameter": {
+            "ru": "Материал",
+            "en": "Material"
+          },
+          "value": {
+            "ru": "Титановый сплав",
+            "en": "Titanium Alloy"
+          }
+        }
+      ],
+      "unit": null,
+      "sourcePages": [
+        51
+      ],
+      "sourcePdf": "/catalogs/double-medical/spine-catalogue/source.pdf",
+      "hideDescriptionColumn": true,
+      "images": [
+        {
+          "src": "/images/products/double-medical/spine-catalogue/page-051-xref-982.webp",
+          "width": 166,
+          "height": 242,
+          "imageType": "cutout",
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus; exact 2x downsample before rembg",
+            "scale": 2,
+            "originalSize": [
+              51,
+              89
+            ],
+            "enhancedSize": [
+              102,
+              178
+            ]
+          },
+          "sourcePages": [
+            51
+          ],
+          "imageCaption": {
+            "ru": "6.0 мм TINA Ламинарный крючок",
+            "en": "6.0mm TINA Lamina Hook"
+          }
+        }
+      ],
+      "rowDimensions": [
+        {},
+        {},
+        {}
+      ]
+    }
+  ],
+  "refCodes": [
+    "087570000",
+    "087580000"
+  ],
+  "sourcePages": [
+    51
+  ],
+  "sourcePdf": "/catalogs/double-medical/spine-catalogue/source.pdf",
+  "catalogTitle": {
+    "ru": "Double Medical Spine Catalogue — импланты",
+    "en": "Double Medical Spine Catalogue — implants"
+  },
+  "catalogEdition": null,
+  "documentCover": "/catalogs/double-medical/spine-catalogue/pages/001.webp",
+  "status": "published",
+  "isNew": false,
+  "catalogType": "system",
+  "imageDimensions": {
+    "/images/products/double-medical/spine-catalogue/page-051-xref-982.webp": {
+      "width": 166,
+      "height": 242
+    }
+  },
+  "relatedSystemSlugs": [
+    "anterior-thoracolumbar-spine-system-i",
+    "tina-spine-5-5-6-0-system",
+    "hobbit-spine-system",
+    "spinal-transconnectors"
+  ],
+  "sourcePageImages": [
+    "/catalogs/double-medical/spine-catalogue/pages/051.webp"
+  ],
+  "sourcePageDimensions": {
+    "3": {
+      "width": 3647,
+      "height": 5111
+    },
+    "4": {
+      "width": 3647,
+      "height": 5111
+    },
+    "5": {
+      "width": 3647,
+      "height": 5111
+    },
+    "6": {
+      "width": 3647,
+      "height": 5111
+    },
+    "7": {
+      "width": 3647,
+      "height": 5111
+    },
+    "8": {
+      "width": 3647,
+      "height": 5111
+    },
+    "9": {
+      "width": 3647,
+      "height": 5111
+    },
+    "10": {
+      "width": 3647,
+      "height": 5111
+    },
+    "11": {
+      "width": 3647,
+      "height": 5111
+    },
+    "12": {
+      "width": 3647,
+      "height": 5111
+    },
+    "13": {
+      "width": 3647,
+      "height": 5111
+    },
+    "14": {
+      "width": 3647,
+      "height": 5111
+    },
+    "15": {
+      "width": 3647,
+      "height": 5111
+    },
+    "16": {
+      "width": 3647,
+      "height": 5111
+    },
+    "17": {
+      "width": 3647,
+      "height": 5111
+    },
+    "18": {
+      "width": 3647,
+      "height": 5111
+    },
+    "19": {
+      "width": 3647,
+      "height": 5111
+    },
+    "20": {
+      "width": 3647,
+      "height": 5111
+    },
+    "21": {
+      "width": 3647,
+      "height": 5111
+    },
+    "22": {
+      "width": 3647,
+      "height": 5111
+    },
+    "23": {
+      "width": 3647,
+      "height": 5111
+    },
+    "24": {
+      "width": 3647,
+      "height": 5111
+    },
+    "25": {
+      "width": 3647,
+      "height": 5111
+    },
+    "26": {
+      "width": 3647,
+      "height": 5111
+    },
+    "27": {
+      "width": 3647,
+      "height": 5111
+    },
+    "28": {
+      "width": 3647,
+      "height": 5111
+    },
+    "29": {
+      "width": 3647,
+      "height": 5111
+    },
+    "30": {
+      "width": 3647,
+      "height": 5111
+    },
+    "31": {
+      "width": 3647,
+      "height": 5111
+    },
+    "32": {
+      "width": 3647,
+      "height": 5111
+    },
+    "33": {
+      "width": 3647,
+      "height": 5111
+    },
+    "34": {
+      "width": 3647,
+      "height": 5111
+    },
+    "35": {
+      "width": 3647,
+      "height": 5111
+    },
+    "36": {
+      "width": 3647,
+      "height": 5111
+    },
+    "37": {
+      "width": 3647,
+      "height": 5111
+    },
+    "38": {
+      "width": 3647,
+      "height": 5111
+    },
+    "39": {
+      "width": 3647,
+      "height": 5111
+    },
+    "40": {
+      "width": 3647,
+      "height": 5111
+    },
+    "41": {
+      "width": 3647,
+      "height": 5111
+    },
+    "42": {
+      "width": 3647,
+      "height": 5111
+    },
+    "43": {
+      "width": 3647,
+      "height": 5111
+    },
+    "44": {
+      "width": 3647,
+      "height": 5111
+    },
+    "45": {
+      "width": 3647,
+      "height": 5111
+    },
+    "46": {
+      "width": 3647,
+      "height": 5111
+    },
+    "47": {
+      "width": 3647,
+      "height": 5111
+    },
+    "48": {
+      "width": 3647,
+      "height": 5111
+    },
+    "49": {
+      "width": 3647,
+      "height": 5111
+    },
+    "50": {
+      "width": 3647,
+      "height": 5111
+    },
+    "51": {
+      "width": 3647,
+      "height": 5111
+    },
+    "52": {
+      "width": 3647,
+      "height": 5111
+    },
+    "53": {
+      "width": 3647,
+      "height": 5111
+    },
+    "54": {
+      "width": 3647,
+      "height": 5111
+    },
+    "55": {
+      "width": 3647,
+      "height": 5111
+    },
+    "56": {
+      "width": 3647,
+      "height": 5111
+    },
+    "57": {
+      "width": 3647,
+      "height": 5111
+    },
+    "58": {
+      "width": 3647,
+      "height": 5111
+    },
+    "59": {
+      "width": 3647,
+      "height": 5111
+    },
+    "60": {
+      "width": 3647,
+      "height": 5111
+    },
+    "61": {
+      "width": 3647,
+      "height": 5111
+    },
+    "62": {
+      "width": 3647,
+      "height": 5111
+    },
+    "63": {
+      "width": 3647,
+      "height": 5111
+    },
+    "64": {
+      "width": 3647,
+      "height": 5111
+    },
+    "65": {
+      "width": 3647,
+      "height": 5111
+    },
+    "66": {
+      "width": 3647,
+      "height": 5111
+    },
+    "67": {
+      "width": 3647,
+      "height": 5111
+    },
+    "68": {
+      "width": 3647,
+      "height": 5111
+    },
+    "69": {
+      "width": 3647,
+      "height": 5111
+    },
+    "70": {
+      "width": 3647,
+      "height": 5111
+    },
+    "71": {
+      "width": 3647,
+      "height": 5111
+    },
+    "72": {
+      "width": 3647,
+      "height": 5111
+    },
+    "73": {
+      "width": 3647,
+      "height": 5111
+    },
+    "74": {
+      "width": 3647,
+      "height": 5111
+    },
+    "75": {
+      "width": 3647,
+      "height": 5111
+    },
+    "76": {
+      "width": 3647,
+      "height": 5111
+    },
+    "77": {
+      "width": 3647,
+      "height": 5111
+    },
+    "78": {
+      "width": 3647,
+      "height": 5111
+    },
+    "79": {
+      "width": 3647,
+      "height": 5111
+    },
+    "80": {
+      "width": 3647,
+      "height": 5111
+    },
+    "81": {
+      "width": 3647,
+      "height": 5111
+    },
+    "82": {
+      "width": 3647,
+      "height": 5111
+    },
+    "83": {
+      "width": 3647,
+      "height": 5111
+    },
+    "84": {
+      "width": 3647,
+      "height": 5111
+    },
+    "85": {
+      "width": 3647,
+      "height": 5111
+    },
+    "86": {
+      "width": 3647,
+      "height": 5111
+    },
+    "87": {
+      "width": 3647,
+      "height": 5111
+    },
+    "88": {
+      "width": 3647,
+      "height": 5111
+    },
+    "89": {
+      "width": 3647,
+      "height": 5111
+    },
+    "90": {
+      "width": 3647,
+      "height": 5111
+    },
+    "91": {
+      "width": 3647,
+      "height": 5111
+    },
+    "92": {
+      "width": 3647,
+      "height": 5111
+    },
+    "93": {
+      "width": 3647,
+      "height": 5111
+    },
+    "94": {
+      "width": 3647,
+      "height": 5111
+    },
+    "95": {
+      "width": 3647,
+      "height": 5111
+    },
+    "96": {
+      "width": 3647,
+      "height": 5111
+    },
+    "97": {
+      "width": 3647,
+      "height": 5111
+    },
+    "98": {
+      "width": 3647,
+      "height": 5111
+    },
+    "99": {
+      "width": 3647,
+      "height": 5111
+    },
+    "100": {
+      "width": 3647,
+      "height": 5111
+    },
+    "101": {
+      "width": 3647,
+      "height": 5111
+    },
+    "102": {
+      "width": 3647,
+      "height": 5111
+    },
+    "103": {
+      "width": 3647,
+      "height": 5111
+    },
+    "104": {
+      "width": 3647,
+      "height": 5111
+    },
+    "105": {
+      "width": 3647,
+      "height": 5111
+    },
+    "106": {
+      "width": 3647,
+      "height": 5111
+    },
+    "107": {
+      "width": 3647,
+      "height": 5111
+    },
+    "108": {
+      "width": 3647,
+      "height": 5111
+    },
+    "109": {
+      "width": 3647,
+      "height": 5111
+    },
+    "110": {
+      "width": 3647,
+      "height": 5111
+    },
+    "111": {
+      "width": 3647,
+      "height": 5111
+    },
+    "112": {
+      "width": 3647,
+      "height": 5111
+    },
+    "113": {
+      "width": 3647,
+      "height": 5111
+    },
+    "114": {
+      "width": 3647,
+      "height": 5111
+    },
+    "115": {
+      "width": 3647,
+      "height": 5111
+    },
+    "116": {
+      "width": 3647,
+      "height": 5111
+    },
+    "117": {
+      "width": 3647,
+      "height": 5111
+    },
+    "118": {
+      "width": 3647,
+      "height": 5111
+    },
+    "119": {
+      "width": 3647,
+      "height": 5111
+    },
+    "120": {
+      "width": 3647,
+      "height": 5111
+    },
+    "121": {
+      "width": 3647,
+      "height": 5111
+    },
+    "122": {
+      "width": 3647,
+      "height": 5111
+    },
+    "123": {
+      "width": 3647,
+      "height": 5111
+    },
+    "124": {
+      "width": 3647,
+      "height": 5111
+    },
+    "125": {
+      "width": 3647,
+      "height": 5111
+    },
+    "126": {
+      "width": 3647,
+      "height": 5111
+    },
+    "127": {
+      "width": 3647,
+      "height": 5111
+    },
+    "128": {
+      "width": 3647,
+      "height": 5111
+    },
+    "129": {
+      "width": 3647,
+      "height": 5111
+    },
+    "130": {
+      "width": 3647,
+      "height": 5111
+    },
+    "131": {
+      "width": 3647,
+      "height": 5111
+    },
+    "132": {
+      "width": 3647,
+      "height": 5111
+    },
+    "133": {
+      "width": 3647,
+      "height": 5111
+    },
+    "134": {
+      "width": 3647,
+      "height": 5111
+    },
+    "135": {
+      "width": 3647,
+      "height": 5111
+    },
+    "136": {
+      "width": 3647,
+      "height": 5111
+    },
+    "137": {
+      "width": 3647,
+      "height": 5111
+    },
+    "138": {
+      "width": 3647,
+      "height": 5111
+    },
+    "139": {
+      "width": 3647,
+      "height": 5111
+    },
+    "140": {
+      "width": 3647,
+      "height": 5111
+    },
+    "141": {
+      "width": 3647,
+      "height": 5111
+    },
+    "142": {
+      "width": 3647,
+      "height": 5111
+    },
+    "143": {
+      "width": 3647,
+      "height": 5111
+    },
+    "144": {
+      "width": 3647,
+      "height": 5111
+    },
+    "145": {
+      "width": 3647,
+      "height": 5111
+    },
+    "146": {
+      "width": 3647,
+      "height": 5111
+    },
+    "147": {
+      "width": 3647,
+      "height": 5111
+    },
+    "148": {
+      "width": 3647,
+      "height": 5111
+    },
+    "149": {
+      "width": 3647,
+      "height": 5111
+    },
+    "150": {
+      "width": 3647,
+      "height": 5111
+    },
+    "151": {
+      "width": 3647,
+      "height": 5111
+    },
+    "152": {
+      "width": 3647,
+      "height": 5111
+    },
+    "153": {
+      "width": 3647,
+      "height": 5111
+    },
+    "154": {
+      "width": 3647,
+      "height": 5111
+    },
+    "155": {
+      "width": 3647,
+      "height": 5111
+    },
+    "156": {
+      "width": 3647,
+      "height": 5111
+    },
+    "157": {
+      "width": 3647,
+      "height": 5111
+    },
+    "158": {
+      "width": 3647,
+      "height": 5111
+    },
+    "159": {
+      "width": 3647,
+      "height": 5111
+    },
+    "160": {
+      "width": 3647,
+      "height": 5111
+    },
+    "161": {
+      "width": 3647,
+      "height": 5111
+    },
+    "162": {
+      "width": 3647,
+      "height": 5111
+    },
+    "163": {
+      "width": 3647,
+      "height": 5111
+    },
+    "164": {
+      "width": 3647,
+      "height": 5111
+    },
+    "165": {
+      "width": 3647,
+      "height": 5111
+    },
+    "166": {
+      "width": 3647,
+      "height": 5111
+    },
+    "167": {
+      "width": 3647,
+      "height": 5111
+    },
+    "168": {
+      "width": 3647,
+      "height": 5111
+    },
+    "169": {
+      "width": 3647,
+      "height": 5111
+    },
+    "170": {
+      "width": 3647,
+      "height": 5111
+    },
+    "171": {
+      "width": 3647,
+      "height": 5111
+    },
+    "172": {
+      "width": 3647,
+      "height": 5111
+    },
+    "173": {
+      "width": 3647,
+      "height": 5111
+    },
+    "174": {
+      "width": 3647,
+      "height": 5111
+    },
+    "175": {
+      "width": 3647,
+      "height": 5111
+    },
+    "176": {
+      "width": 3647,
+      "height": 5111
+    },
+    "177": {
+      "width": 3647,
+      "height": 5111
+    },
+    "178": {
+      "width": 3647,
+      "height": 5111
+    },
+    "179": {
+      "width": 3647,
+      "height": 5111
+    },
+    "180": {
+      "width": 3647,
+      "height": 5111
+    },
+    "181": {
+      "width": 3647,
+      "height": 5111
+    },
+    "182": {
+      "width": 3647,
+      "height": 5111
+    },
+    "183": {
+      "width": 3647,
+      "height": 5111
+    },
+    "184": {
+      "width": 3647,
+      "height": 5111
+    },
+    "185": {
+      "width": 3647,
+      "height": 5111
+    },
+    "186": {
+      "width": 3647,
+      "height": 5111
+    },
+    "187": {
+      "width": 3647,
+      "height": 5111
+    },
+    "188": {
+      "width": 3647,
+      "height": 5111
+    },
+    "189": {
+      "width": 3647,
+      "height": 5111
+    },
+    "190": {
+      "width": 3647,
+      "height": 5111
+    },
+    "191": {
+      "width": 3647,
+      "height": 5111
+    },
+    "192": {
+      "width": 3647,
+      "height": 5111
+    },
+    "193": {
+      "width": 3647,
+      "height": 5111
+    },
+    "194": {
+      "width": 3647,
+      "height": 5111
+    },
+    "195": {
+      "width": 3647,
+      "height": 5111
+    },
+    "196": {
+      "width": 3647,
+      "height": 5111
+    },
+    "197": {
+      "width": 3647,
+      "height": 5111
+    },
+    "198": {
+      "width": 3647,
+      "height": 5111
+    },
+    "199": {
+      "width": 3647,
+      "height": 5111
+    },
+    "200": {
+      "width": 3647,
+      "height": 5111
+    },
+    "201": {
+      "width": 3647,
+      "height": 5111
+    },
+    "202": {
+      "width": 3647,
+      "height": 5111
+    },
+    "203": {
+      "width": 3647,
+      "height": 5111
+    },
+    "204": {
+      "width": 3647,
+      "height": 5111
+    },
+    "205": {
+      "width": 3647,
+      "height": 5111
+    },
+    "206": {
+      "width": 3647,
+      "height": 5111
+    },
+    "207": {
+      "width": 3647,
+      "height": 5111
+    },
+    "208": {
+      "width": 3647,
+      "height": 5111
+    },
+    "209": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "d32e99d5106ebd5f18a76a32ff19d64da74f9ef96cc60ca536c0a533e630cb9c",
+    "importMethod": "Implants only: printed pages 2–207 (physical PDF 4–209); 600-DPI Tesseract PSM3/11 + Apple Vision; source-vector glyph comparison calibrated visually; Codex visual reading of unresolved crops; Real-ESRGAN 2x before rembg; Codex-authored medical Russian; additive legacy matches",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      210,
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      277,
+      278,
+      279,
+      280,
+      281,
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288,
+      289,
+      290,
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297,
+      298,
+      299,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320,
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328,
+      329,
+      330,
+      331,
+      332,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      341,
+      342,
+      343,
+      344,
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354,
+      355,
+      356,
+      357,
+      358,
+      359,
+      360,
+      361,
+      362,
+      363,
+      364,
+      365,
+      366,
+      367,
+      368,
+      369,
+      370,
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379,
+      380,
+      381,
+      382,
+      383,
+      384,
+      385,
+      386,
+      387,
+      388,
+      389,
+      390,
+      391,
+      392,
+      393,
+      394,
+      395,
+      396,
+      397,
+      398,
+      399,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405,
+      406,
+      407,
+      408,
+      409,
+      410,
+      411,
+      412
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "referenceTables.0.title.ru",
+      "referenceTables.0.columns.0.ru",
+      "referenceTables.0.columns.1.ru",
+      "referenceTables.0.rows.0.0.ru",
+      "referenceTables.0.rows.1.0.ru",
+      "referenceTables.0.rows.2.0.ru",
+      "referenceTables.0.keyParameters.0.parameter.ru",
+      "referenceTables.0.keyParameters.0.value.ru",
+      "referenceTables.0.images.0.imageCaption.ru",
+      "catalogTitle.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Published under owner authorization after source verification; zero real flags.",
+    "publishedAt": "2026-11-19T22:31:45.160857+00:00"
+  }
+}

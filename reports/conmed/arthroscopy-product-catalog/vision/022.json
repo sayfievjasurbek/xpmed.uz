@@ -1,0 +1,613 @@
+[
+  {
+    "alternatives" : [
+      "XPmed"
+    ],
+    "bounds" : [
+      0.1178962283343353,
+      0.053064935560981907,
+      0.23851924787509288,
+      0.074842041270845039
+    ],
+    "confidence" : 1,
+    "text" : "XPmed"
+  },
+  {
+    "alternatives" : [
+      "CCONMED"
+    ],
+    "bounds" : [
+      0.29938900909844302,
+      0.046511627540802847,
+      0.49287168530074221,
+      0.075581395598732004
+    ],
+    "confidence" : 1,
+    "text" : "CCONMED"
+  },
+  {
+    "alternatives" : [
+      "Master Arthroscopy"
+    ],
+    "bounds" : [
+      0.60243147141575604,
+      0.034681573201202576,
+      0.90276104852616335,
+      0.061504919778196054
+    ],
+    "confidence" : 1,
+    "text" : "Master Arthroscopy"
+  },
+  {
+    "alternatives" : [
+      "Shoulder Set"
+    ],
+    "bounds" : [
+      0.70672097920491039,
+      0.062500000140282785,
+      0.90427698808633206,
+      0.084325396965679644
+    ],
+    "confidence" : 1,
+    "text" : "Shoulder Set"
+  },
+  {
+    "alternatives" : [
+      "MASTER Arthroscopy Shoulder Instrument Set"
+    ],
+    "bounds" : [
+      0.10183299938380359,
+      0.14384920644166088,
+      0.46435844060261883,
+      0.1555232557963957
+    ],
+    "confidence" : 1,
+    "text" : "MASTER Arthroscopy Shoulder Instrument Set"
+  },
+  {
+    "alternatives" : [
+      "The MASTER Arthroscopy Shoulder Instrument Set is a comprehensive set of"
+    ],
+    "bounds" : [
+      0.099796332076716135,
+      0.16269841277855468,
+      0.53971486075424135,
+      0.17441860464329495
+    ],
+    "confidence" : 1,
+    "text" : "The MASTER Arthroscopy Shoulder Instrument Set is a comprehensive set of"
+  },
+  {
+    "alternatives" : [
+      "manual instruments that can be used for arthroscopic or mini-open shoulder"
+    ],
+    "bounds" : [
+      0.099796332258654516,
+      0.17584325418150093,
+      0.5356415494792951,
+      0.18750000021324698
+    ],
+    "confidence" : 1,
+    "text" : "manual instruments that can be used for arthroscopic or mini-open shoulder"
+  },
+  {
+    "alternatives" : [
+      "repairs. The set has been designed to allow flexibility in suture passing and suture"
+    ],
+    "bounds" : [
+      0.097759676614173924,
+      0.19040697685864305,
+      0.56619142793436694,
+      0.20213293665539722
+    ],
+    "confidence" : 1,
+    "text" : "repairs. The set has been designed to allow flexibility in suture passing and suture"
+  },
+  {
+    "alternatives" : [
+      "retrieving methods that are critical to success in these procedures."
+    ],
+    "bounds" : [
+      0.097759684859814205,
+      0.20337301584767986,
+      0.47861507007908577,
+      0.21511627896742291
+    ],
+    "confidence" : 1,
+    "text" : "retrieving methods that are critical to success in these procedures."
+  },
+  {
+    "alternatives" : [
+      "Raven™ Suture Retriever"
+    ],
+    "bounds" : [
+      0.10183299563407999,
+      0.24553571448060296,
+      0.28920570465105233,
+      0.25726744173631821
+    ],
+    "confidence" : 1,
+    "text" : "Raven™ Suture Retriever"
+  },
+  {
+    "alternatives" : [
+      "Raven™ Suture"
+    ],
+    "bounds" : [
+      0.61303462576315471,
+      0.23110465129520574,
+      0.7006109971696356,
+      0.2413194445988619
+    ],
+    "confidence" : 1,
+    "text" : "Raven™ Suture"
+  },
+  {
+    "alternatives" : [
+      "Retriever, Straight"
+    ],
+    "bounds" : [
+      0.61099796375028248,
+      0.24418604650496079,
+      0.7250509179876673,
+      0.25581395334969037
+    ],
+    "confidence" : 1,
+    "text" : "Retriever, Straight"
+  },
+  {
+    "alternatives" : [
+      "Raven Suture"
+    ],
+    "bounds" : [
+      0.76985743502523207,
+      0.23255813974824124,
+      0.85336048966926892,
+      0.24131944445977982
+    ],
+    "confidence" : 1,
+    "text" : "Raven Suture"
+  },
+  {
+    "alternatives" : [
+      "Retriever, 35° Up"
+    ],
+    "bounds" : [
+      0.76782077437012231,
+      0.24418604651534292,
+      0.8716904287430578,
+      0.2558139533600724
+    ],
+    "confidence" : 1,
+    "text" : "Retriever, 35° Up"
+  },
+  {
+    "alternatives" : [
+      "Straight, 3.5mm dia., 138mm..."
+    ],
+    "bounds" : [
+      0.099796340338370967,
+      0.2819767442036043,
+      0.26476578328688344,
+      0.29365079355833912
+    ],
+    "confidence" : 1,
+    "text" : "Straight, 3.5mm dia., 138mm..."
+  },
+  {
+    "alternatives" : [
+      "35° Up, 3.5mm dia., 138mm."
+    ],
+    "bounds" : [
+      0.099796340406372946,
+      0.29935515883572639,
+      0.25458248349043611,
+      0.31104651151344997
+    ],
+    "confidence" : 1,
+    "text" : "35° Up, 3.5mm dia., 138mm."
+  },
+  {
+    "alternatives" : [
+      "Cat. No."
+    ],
+    "bounds" : [
+      0.51932040447635441,
+      0.25864422590382852,
+      0.56621931132736814,
+      0.26751856467449808
+    ],
+    "confidence" : 1,
+    "text" : "Cat. No."
+  },
+  {
+    "alternatives" : [
+      ". GU1004"
+    ],
+    "bounds" : [
+      0.51724205137978096,
+      0.2817968945185203,
+      0.5682976624715752,
+      0.29233101261076966
+    ],
+    "confidence" : 1,
+    "text" : ". GU1004"
+  },
+  {
+    "alternatives" : [
+      ". GU1008"
+    ],
+    "bounds" : [
+      0.51731160991629999,
+      0.29935515894231535,
+      0.56822810393298717,
+      0.31104651162003916
+    ],
+    "confidence" : 1,
+    "text" : ". GU1008"
+  },
+  {
+    "alternatives" : [
+      "Suture Snare™"
+    ],
+    "bounds" : [
+      0.093638134576929641,
+      0.34863531787147228,
+      0.21186084473141395,
+      0.36357398457846579
+    ],
+    "confidence" : 1,
+    "text" : "Suture Snare™"
+  },
+  {
+    "alternatives" : [
+      "Straight, 3.5 dia., 138mm."
+    ],
+    "bounds" : [
+      0.095723012402749441,
+      0.3677325584949076,
+      0.23625254416547872,
+      0.38226744157776671
+    ],
+    "confidence" : 1,
+    "text" : "Straight, 3.5 dia., 138mm."
+  },
+  {
+    "alternatives" : [
+      ". GU1003"
+    ],
+    "bounds" : [
+      0.51723167900908695,
+      0.36757273256750944,
+      0.56830803483844528,
+      0.38097377919933761
+    ],
+    "confidence" : 1,
+    "text" : ". GU1003"
+  },
+  {
+    "alternatives" : [
+      "Suture Snare™"
+    ],
+    "bounds" : [
+      0.61089539320417419,
+      0.38191760714939127,
+      0.69664024833948035,
+      0.39569867218198684
+    ],
+    "confidence" : 1,
+    "text" : "Suture Snare™"
+  },
+  {
+    "alternatives" : [
+      "Straight"
+    ],
+    "bounds" : [
+      0.61099796447058219,
+      0.39389534930159376,
+      0.66395111952127117,
+      0.40843023238445286
+    ],
+    "confidence" : 1,
+    "text" : "Straight"
+  },
+  {
+    "alternatives" : [
+      "Katana® High-Strength"
+    ],
+    "bounds" : [
+      0.7678207765891627,
+      0.38070436487023129,
+      0.90631364201233067,
+      0.39534883676914268
+    ],
+    "confidence" : 1,
+    "text" : "Katana® High-Strength"
+  },
+  {
+    "alternatives" : [
+      "Suture Cutter"
+    ],
+    "bounds" : [
+      0.76776404087110417,
+      0.3922702503164377,
+      0.8534172212441673,
+      0.4071483539738121
+    ],
+    "confidence" : 1,
+    "text" : "Suture Cutter"
+  },
+  {
+    "alternatives" : [
+      "Katana® High-Strength Suture Cutter"
+    ],
+    "bounds" : [
+      0.097759674084068479,
+      0.41860465109861589,
+      0.38900203747397633,
+      0.43459302371969799
+    ],
+    "confidence" : 1,
+    "text" : "Katana® High-Strength Suture Cutter"
+  },
+  {
+    "alternatives" : [
+      ". GU1009"
+    ],
+    "bounds" : [
+      0.51731160991629999,
+      0.42151162803112363,
+      0.56822810393298717,
+      0.4331395348758531
+    ],
+    "confidence" : 1,
+    "text" : ". GU1009"
+  },
+  {
+    "alternatives" : [
+      "Suture Scissor"
+    ],
+    "bounds" : [
+      0.091649692170060554,
+      0.47093023291351233,
+      0.21588594627189467,
+      0.48546511599637143
+    ],
+    "confidence" : 1,
+    "text" : "Suture Scissor"
+  },
+  {
+    "alternatives" : [
+      "Straight, 3.4 dia., 136mm."
+    ],
+    "bounds" : [
+      0.095723012402749441,
+      0.48982558175072166,
+      0.23625254416547872,
+      0.50446428571761925
+    ],
+    "confidence" : 1,
+    "text" : "Straight, 3.4 dia., 136mm."
+  },
+  {
+    "alternatives" : [
+      ". GU1005"
+    ],
+    "bounds" : [
+      0.51718615200541918,
+      0.49099354614588109,
+      0.56835356184656138,
+      0.50319250049346131
+    ],
+    "confidence" : 1,
+    "text" : ". GU1005"
+  },
+  {
+    "alternatives" : [
+      "Tissue Grasper"
+    ],
+    "bounds" : [
+      0.097759676245757904,
+      0.53918650747285535,
+      0.22403258607603435,
+      0.55679563445698232
+    ],
+    "confidence" : 1,
+    "text" : "Tissue Grasper"
+  },
+  {
+    "alternatives" : [
+      "Straight, 3.5 dia., 142mm."
+    ],
+    "bounds" : [
+      0.095723013930244336,
+      0.55803571448190381,
+      0.2362525456929736,
+      0.57415674622793555
+    ],
+    "confidence" : 1,
+    "text" : "Straight, 3.5 dia., 142mm."
+  },
+  {
+    "alternatives" : [
+      "Suture Scissor"
+    ],
+    "bounds" : [
+      0.61099796421215202,
+      0.53633720931019324,
+      0.70468431872063819,
+      0.54796511615492272
+    ],
+    "confidence" : 1,
+    "text" : "Suture Scissor"
+  },
+  {
+    "alternatives" : [
+      "Tissue Grasper"
+    ],
+    "bounds" : [
+      0.76782077673829074,
+      0.53633720929565853,
+      0.86354378697521916,
+      0.54796511614038801
+    ],
+    "confidence" : 1,
+    "text" : "Tissue Grasper"
+  },
+  {
+    "alternatives" : [
+      ". GU1002"
+    ],
+    "bounds" : [
+      0.51731160991629999,
+      0.55952380951947545,
+      0.56822810393298717,
+      0.57267441872133051
+    ],
+    "confidence" : 1,
+    "text" : ". GU1002"
+  },
+  {
+    "alternatives" : [
+      "Accessories"
+    ],
+    "bounds" : [
+      0.095684449876067931,
+      0.6234326686749877,
+      0.17111799260780797,
+      0.63674175007045486
+    ],
+    "confidence" : 1,
+    "text" : "Accessories"
+  },
+  {
+    "alternatives" : [
+      "Loop Handled Knot Pusher."
+    ],
+    "bounds" : [
+      0.095723014208190946,
+      0.64087301606437086,
+      0.24032586803892375,
+      0.65552325542224354
+    ],
+    "confidence" : 1,
+    "text" : "Loop Handled Knot Pusher."
+  },
+  {
+    "alternatives" : [
+      "Switching Stick..."
+    ],
+    "bounds" : [
+      0.097642356380614317,
+      0.65949799402673581,
+      0.18952668822307128,
+      0.67480433103892079
+    ],
+    "confidence" : 1,
+    "text" : "Switching Stick..."
+  },
+  {
+    "alternatives" : [
+      "Instrument Tray..."
+    ],
+    "bounds" : [
+      0.09760217159504983,
+      0.67807907480079199,
+      0.19364019412050293,
+      0.69110697175758395
+    ],
+    "confidence" : 1,
+    "text" : "Instrument Tray..."
+  },
+  {
+    "alternatives" : [
+      "....6112"
+    ],
+    "bounds" : [
+      0.51731161031090289,
+      0.64244186050287011,
+      0.56822810432759008,
+      0.65552325593971716
+    ],
+    "confidence" : 1,
+    "text" : "....6112"
+  },
+  {
+    "alternatives" : [
+      ".... 2220"
+    ],
+    "bounds" : [
+      0.51731161011996607,
+      0.66133720938913454,
+      0.56822810413665314,
+      0.67441860482598159
+    ],
+    "confidence" : 1,
+    "text" : ".... 2220"
+  },
+  {
+    "alternatives" : [
+      ".MT1006"
+    ],
+    "bounds" : [
+      0.51731161101100476,
+      0.678779069978798,
+      0.56822810502769183,
+      0.69040697682352747
+    ],
+    "confidence" : 1,
+    "text" : ".MT1006"
+  },
+  {
+    "alternatives" : [
+      "Instrument Tray"
+    ],
+    "bounds" : [
+      0.61507128704237601,
+      0.80377906999533433,
+      0.71690427507575027,
+      0.81250000012888135
+    ],
+    "confidence" : 1,
+    "text" : "Instrument Tray"
+  },
+  {
+    "alternatives" : [
+      "Customer Service: (within U.S.) Phone: 800.237.0169 Fax 727.399.5256 Customer Service: (outside U.S.) Phone: 727.392.6464 Fax: 727.397.4540"
+    ],
+    "bounds" : [
+      0.05498982400067947,
+      0.96354166670400443,
+      0.5560081518649006,
+      0.97247023813257583
+    ],
+    "confidence" : 1,
+    "text" : "Customer Service: (within U.S.) Phone: 800.237.0169 Fax 727.399.5256 Customer Service: (outside U.S.) Phone: 727.392.6464 Fax: 727.397.4540"
+  },
+  {
+    "alternatives" : [
+      "All products may not be available in all markets."
+    ],
+    "bounds" : [
+      0.72912423803213744,
+      0.93303571414036546,
+      0.90020365877709563,
+      0.94196428556893685
+    ],
+    "confidence" : 1,
+    "text" : "All products may not be available in all markets."
+  },
+  {
+    "alternatives" : [
+      "SHOULDER ARTHROSCOPY PRODUCTS, 20"
+    ],
+    "bounds" : [
+      0.74134420327676354,
+      0.96220930255347381,
+      0.95519347920796138,
+      0.97098214265598737
+    ],
+    "confidence" : 1,
+    "text" : "SHOULDER ARTHROSCOPY PRODUCTS, 20"
+  }
+]

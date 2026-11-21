@@ -1,0 +1,43 @@
+{
+  "pdfPage": 10,
+  "pageRow": 6,
+  "visualReading": "VV220",
+  "visualReader": "Codex independent inspection of 600-DPI source table images; source-line crops retained",
+  "ocrReadings": {
+    "600dpi-psm3": "W220",
+    "600dpi-psm11": "W220",
+    "600dpi-code-crop-psm7": "W220",
+    "isolated-psm7-scale0.5-thresholdNone": "W220",
+    "isolated-psm7-scale0.5-threshold175": "W220",
+    "isolated-psm7-scale0.75-threshold210": "W220",
+    "isolated-psm7-scale1-thresholdNone": "W220",
+    "isolated-psm13-scale0.5-thresholdNone": "220",
+    "isolated-psm13-scale0.5-threshold175": "220",
+    "isolated-psm13-scale0.75-threshold210": "220",
+    "isolated-psm13-scale1-thresholdNone": "W220",
+    "Apple-Vision-accurate": "W220"
+  },
+  "matchedReaders": [],
+  "value": null,
+  "verificationStatus": "unresolved",
+  "manufacturerStatus": "confirmed on conmed.com",
+  "officialEvidence": [
+    {
+      "url": "https://www.conmed.com/-/media/conmed/documents/catalog/advancedsurgical_catalog.ashx",
+      "code": "VV220"
+    }
+  ],
+  "sourceBounds": [
+    0.8777147329289767,
+    0.3233324030142339,
+    0.9143024848366269,
+    0.33226346636896453
+  ],
+  "rowBounds": [
+    0.5289452320766902,
+    0.30303030303030304,
+    0.934,
+    0.3360071301247772
+  ],
+  "lineCrop": "reports/conmed/advanced-surgical-product-catalog/line-crops/010-06.png"
+}

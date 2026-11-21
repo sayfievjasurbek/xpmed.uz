@@ -1,0 +1,545 @@
+[
+  {
+    "row": "244-01",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Drill Sleeve, 08.0/06.5",
+      "PSM11": "Drill Sleeve, Ø8.0/06.5",
+      "Vision": "Drill Sleeve, Ø8.0/Ø6.5"
+    }
+  },
+  {
+    "row": "246-07",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Drill Sleeve, 0Ø10/08.5",
+      "PSM11": "Drill Sleeve, Ø10/08.5",
+      "Vision": "Drill Sleeve, Ø10/Ø8.5"
+    }
+  },
+  {
+    "row": "253-01",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Cleaning Brush, Ø0.9, length 145mm",
+      "PSM11": "Cleaning Brush, 00.9, length 145mm",
+      "Vision": "Cleaning Brush, ФО.9, length 145mm"
+    }
+  },
+  {
+    "row": "254-07",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Drill Sleeve, Ø6.5/05.0",
+      "PSM11": "Drill Sleeve, 06.5/05.0",
+      "Vision": "Drill Sleeve, Ø6.5/Ø5.0"
+    }
+  },
+  {
+    "row": "266-01",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Drill Sleeve, 08.0/06.5",
+      "PSM11": "Drill Sleeve, Ø8.0/06.5",
+      "Vision": "Drill Sleeve, Ø8.0/Ø6.5"
+    }
+  },
+  {
+    "row": "268-04",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Drill Sleeve, 010/08.5",
+      "PSM11": "Drill Sleeve, ©Ø10/08.5",
+      "Vision": "Drill Sleeve, Ø10/Ø8.5"
+    }
+  },
+  {
+    "row": "270-05",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Direct Measuring Device, for Ø2.0/02.5 Guide Wire",
+      "PSM11": "Direct Measuring Device, for Ø2.0/62.5 Guide Wire",
+      "Vision": ""
+    }
+  },
+  {
+    "row": "316-01",
+    "reader": "PSM3",
+    "text": "6/910.5/@8,",
+    "issue": "phi/decimal-part alignment",
+    "phiGlyphs": [
+      0,
+      3,
+      9
+    ],
+    "bounds": [
+      0.25034274746366875,
+      0.1706124046174917,
+      0.35179599670962436,
+      0.18313441596556446
+    ]
+  },
+  {
+    "row": "316-01",
+    "reader": "PSM11",
+    "text": "06/910.5/98,",
+    "issue": "phi/decimal-part alignment",
+    "phiGlyphs": [
+      0,
+      3,
+      9
+    ],
+    "bounds": [
+      0.25034274746366875,
+      0.1706124046174917,
+      0.35179599670962436,
+      0.18313441596556446
+    ]
+  },
+  {
+    "row": "316-01",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "DHSA Triple Reamer, 6/910.5/Ø8, length 250mm",
+      "PSM11": "DHSA Triple Reamer, 06/910.5/98, length 250mm",
+      "Vision": "DHSA Triple Reamer, фб/Ø10.5/Ø8, length 250mm"
+    }
+  },
+  {
+    "row": "390-04",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Protection Sleeve, 618",
+      "PSM11": "Protection Sleeve, 018",
+      "Vision": "Protection Sleeve, Ø18"
+    }
+  },
+  {
+    "row": "392-07",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Drill Sleeve, 610.9/03.2, for Spiral Blade",
+      "PSM11": "Drill Sleeve, 010.9/03.2, for Spiral Blade",
+      "Vision": "Drill Sleeve, Ø10.9/Ø3.2, for Spiral Blade"
+    }
+  },
+  {
+    "row": "393-03",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Dil Bit 0105/32 avid for Spiral Blade",
+      "PSM11": "Drill Bit, Ø10.5/03.2, cannulated, for Spiral Blade",
+      "Vision": "Drill Bit, Ø10.5/Ø3.2, cannulated, for Spiral Blade"
+    }
+  },
+  {
+    "row": "394-01",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Protection Sleeve, Ø11.0/08.2",
+      "PSM11": "Protection Sleeve, 011.0/08.2",
+      "Vision": "Protection Sleeve, Ø11.0/Ø8.2"
+    }
+  },
+  {
+    "row": "399-01",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Drill Bit, Ø17.5/03.2, cannulated",
+      "PSM11": "Drill Bit, 017.5/03.2, cannulated",
+      "Vision": "Drill Bit, Ø17.5/Ø3.2, cannulated"
+    }
+  },
+  {
+    "row": "401-04",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Drill Sleeve, Ø10.9/03.2",
+      "PSM11": "Drill Sleeve, 010.9/03.2",
+      "Vision": "Drill Sleeve, Ø10.9/Ø3.2"
+    }
+  },
+  {
+    "row": "401-07",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Drill Bit, Ø10.5/03.2, cannulated",
+      "PSM11": "Drill Bit, 010.5/03.2, cannulated",
+      "Vision": "Drill Bit, Ø10.5/Ø3.2, cannulated"
+    }
+  },
+  {
+    "row": "402-05",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Drill Sleeve, Ø8.2/04.2",
+      "PSM11": "Drill Sleeve, 08.2/04.2",
+      "Vision": "Drill Sleeve, Ø8.2/Ø4.2"
+    }
+  },
+  {
+    "row": "408-07",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Drill Bit, Ø17.5/03.2, cannulated",
+      "PSM11": "Drill Bit, 017.5/03.2, cannulated",
+      "Vision": ""
+    }
+  },
+  {
+    "row": "409-01",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Flexible Drill Bit, Ø17.5/03.2, cannulated",
+      "PSM11": "Flexible Drill Bit, Ø17.5/63.2, cannulated",
+      "Vision": "Flexible Drill Bit, Ø17.5/Ø3.2, cannulated"
+    }
+  },
+  {
+    "row": "410-07",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Drill Sleeve, Ø10.9/03.2",
+      "PSM11": "Drill Sleeve, 010.9/03.2",
+      "Vision": "Drill Sleeve, Ø10.9/Ø3.2"
+    }
+  },
+  {
+    "row": "412-01",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Protection Sleeve, 611.0/68.20",
+      "PSM11": "Protection Sleeve, 011.0/08.2",
+      "Vision": "Protection Sleeve, Ø11.0/Ø8.2"
+    }
+  },
+  {
+    "row": "412-02",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Drill Sleeve, Ø8.2/04.2",
+      "PSM11": "Drill Sleeve, 08.2/04.2",
+      "Vision": "Drill Sleeve, Ø8.2/Ø4.2"
+    }
+  },
+  {
+    "row": "435-07",
+    "reader": "PSM3",
+    "text": "010/98.1",
+    "issue": "phi/decimal-part alignment",
+    "phiGlyphs": [
+      0,
+      4
+    ],
+    "bounds": [
+      0.41787770770496296,
+      0.7802778321267854,
+      0.48642720043871673,
+      0.7927998434748581
+    ]
+  },
+  {
+    "row": "435-07",
+    "reader": "PSM11",
+    "text": "010/98.1",
+    "issue": "phi/decimal-part alignment",
+    "phiGlyphs": [
+      0,
+      4
+    ],
+    "bounds": [
+      0.41787770770496296,
+      0.7802778321267854,
+      0.48642720043871673,
+      0.7927998434748581
+    ]
+  },
+  {
+    "row": "436-01",
+    "reader": "PSM3",
+    "text": "98.1/@5",
+    "issue": "phi/decimal-part alignment",
+    "phiGlyphs": [
+      0,
+      5
+    ],
+    "bounds": [
+      0.35042500685494926,
+      0.15515554685971433,
+      0.4118453523443927,
+      0.16787321463510077
+    ]
+  },
+  {
+    "row": "436-01",
+    "reader": "PSM11",
+    "text": "98.1/@5",
+    "issue": "phi/decimal-part alignment",
+    "phiGlyphs": [
+      0,
+      5
+    ],
+    "bounds": [
+      0.35042500685494926,
+      0.15515554685971433,
+      0.4118453523443927,
+      0.16787321463510077
+    ]
+  },
+  {
+    "row": "440-06",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Drill Sleeve, for Guide Wire, i",
+      "PSM11": "Drill Sleeve, for Guide Wire, 012.9/03.3x71",
+      "Vision": "Drill Sleeve, for Guide Wire, Ø12.9/Ø3.3×71"
+    }
+  },
+  {
+    "row": "444-01",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Protection Sleeve, 69.5",
+      "PSM11": "Protection Sleeve, 09.5",
+      "Vision": "Protection Sleeve, Ø9.5"
+    }
+  },
+  {
+    "row": "447-01",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Protection Sleeve, Long, 010/08.1",
+      "PSM11": "Protection Sleeve, Long, Ø10/08.1",
+      "Vision": "Protection Sleeve, Long, Ø10/Ø8.1"
+    }
+  },
+  {
+    "row": "447-02",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Drill Sleeve, Ø8.1/04.2",
+      "PSM11": "Drill Sleeve, 08.1/04.2",
+      "Vision": "Drill Sleeve, 48.1/Ø4.2"
+    }
+  },
+  {
+    "row": "453-03",
+    "reader": "PSM3",
+    "text": "910/98.1",
+    "issue": "phi/decimal-part alignment",
+    "phiGlyphs": [
+      0,
+      4
+    ],
+    "bounds": [
+      0.45928160131615026,
+      0.42203091371551554,
+      0.527831094049904,
+      0.43455292506358834
+    ]
+  },
+  {
+    "row": "453-03",
+    "reader": "PSM11",
+    "text": "910/98.1",
+    "issue": "phi/decimal-part alignment",
+    "phiGlyphs": [
+      0,
+      4
+    ],
+    "bounds": [
+      0.45928160131615026,
+      0.42203091371551554,
+      0.527831094049904,
+      0.43455292506358834
+    ]
+  },
+  {
+    "row": "457-03",
+    "reader": "PSM3",
+    "text": "010/8.1",
+    "issue": "phi/decimal-part alignment",
+    "phiGlyphs": [
+      0,
+      4
+    ],
+    "bounds": [
+      0.4151357279956128,
+      0.3410291528076697,
+      0.48341102275843156,
+      0.3535511641557425
+    ]
+  },
+  {
+    "row": "457-03",
+    "reader": "PSM11",
+    "text": "10/98.1",
+    "issue": "phi/decimal-part alignment",
+    "phiGlyphs": [
+      0,
+      4
+    ],
+    "bounds": [
+      0.4151357279956128,
+      0.3410291528076697,
+      0.48341102275843156,
+      0.3535511641557425
+    ]
+  },
+  {
+    "row": "457-03",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Protection Sleeve, 010/8.1",
+      "PSM11": "Protection Sleeve, 10/98.1",
+      "Vision": "Protection Sleeve, 410/48.1"
+    }
+  },
+  {
+    "row": "457-04",
+    "reader": "PSM3",
+    "text": "8.1/5",
+    "issue": "phi/decimal-part alignment",
+    "phiGlyphs": [
+      0,
+      5
+    ],
+    "bounds": [
+      0.36578009322731014,
+      0.42613969868910195,
+      0.4269262407458185,
+      0.43866171003717475
+    ]
+  },
+  {
+    "row": "457-04",
+    "reader": "PSM11",
+    "text": "8.1/5",
+    "issue": "phi/decimal-part alignment",
+    "phiGlyphs": [
+      0,
+      5
+    ],
+    "bounds": [
+      0.36578009322731014,
+      0.42613969868910195,
+      0.4269262407458185,
+      0.43866171003717475
+    ]
+  },
+  {
+    "row": "471-01",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Protection Sleeve, 012.0/ 08.0x188mm",
+      "PSM11": "Protection Sleeve, 012.0/ O8.0x188mm",
+      "Vision": "Protection Sleeve, Ø12.0/ Ø8.0×188mm"
+    }
+  },
+  {
+    "row": "471-02",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Drill Sleeve, 08.0/03.2",
+      "PSM11": "Drill Sleeve, Ø8.0/03.2",
+      "Vision": "Drill Sleeve, Ø8.0/Ø3.2"
+    }
+  },
+  {
+    "row": "484-01",
+    "reader": "PSM11",
+    "text": "8.1/910",
+    "issue": "phi/decimal-part alignment",
+    "phiGlyphs": [
+      0,
+      5
+    ],
+    "bounds": [
+      0.40087743350699206,
+      0.15378595186851887,
+      0.47189470797916094,
+      0.16630796321659166
+    ]
+  },
+  {
+    "row": "484-01",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "",
+      "PSM11": "Protection Sleeve, 8.1/910",
+      "Vision": "Protection Sleeve, 48.1/Ø10"
+    }
+  },
+  {
+    "row": "493-05",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "SP Drill Bit,",
+      "PSM11": "SP Drill Bit, 04.3, length 320mm",
+      "Vision": "SP Drill Bit, Ø4.3, length 320mm"
+    }
+  },
+  {
+    "row": "493-06",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "SP Drill Bit, 04.3, length 260mm",
+      "PSM11": "SP Drill Bit, 04.3, length 280mm",
+      "Vision": "SP Drill Bit, Ø4.3, length 280mm"
+    }
+  },
+  {
+    "row": "499-02",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "DTN Drill Sleeve, 65.5/03.3",
+      "PSM11": "DTN Drill Sleeve, 05.5/03.3",
+      "Vision": "DTN Drill Sleeve, Ø5.5/Ø3.3"
+    }
+  },
+  {
+    "row": "505-07",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "",
+      "PSM11": "Fibular Nail Tap, 03.5",
+      "Vision": "Fibular Nail Tap, Ø3.5"
+    }
+  },
+  {
+    "row": "510-03",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Proximal Protection Sleeve, Ø7.7/06.7",
+      "PSM11": "Proximal Protection Sleeve, 07.7/06.7",
+      "Vision": "Proximal Protection Sleeve, Ø7.7/Ø6.7"
+    }
+  },
+  {
+    "row": "510-04",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Forearm Nail Reaming Drill, cannulated, 03.2300",
+      "PSM11": "Forearm Nail Reaming Drill, cannulated, 03.2x300",
+      "Vision": "Forearm Nail Reaming Diill, cannulated, Ø3.2×300"
+    }
+  },
+  {
+    "row": "512-02",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Forearm Nail Protection Sleeve, Ø8.0/05.0",
+      "PSM11": "Forearm Nail Protection Sleeve, 08.0/05.0",
+      "Vision": "Forearm Nail Protection Sleeve, Ø8.0/Ø5.0"
+    }
+  },
+  {
+    "row": "516-07",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Double Drill Guide, Ø3.2/64.5",
+      "PSM11": "Double Drill Guide, 03.2/04.5",
+      "Vision": "Double Drill Guide, Ø3.2/Ø4.5"
+    }
+  }
+]

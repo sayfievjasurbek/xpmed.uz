@@ -1,0 +1,239 @@
+{
+  "id": 182,
+  "bounds": [
+    0.5030326746233614,
+    0.25844264582751886,
+    0.5840344355312072,
+    0.27351381523862683
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "UHDS500XL",
+      "confidence": 42.907352,
+      "words": [
+        {
+          "text": "UHDS500XL",
+          "confidence": 42.907352,
+          "pixelBounds": [
+            2580,
+            1880,
+            2895,
+            1939
+          ],
+          "lineId": "10.3.4",
+          "bounds": [
+            0.5047935824691842,
+            0.26234998604521353,
+            0.5664253570729798,
+            0.27058331007535585
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "UHDSSOOXL",
+      "confidence": 64.977066,
+      "words": [
+        {
+          "text": "UHDSSOOXL",
+          "confidence": 64.977066,
+          "pixelBounds": [
+            2580,
+            1880,
+            2895,
+            1939
+          ],
+          "lineId": "20.1.1",
+          "bounds": [
+            0.5047935824691842,
+            0.26234998604521353,
+            0.5664253570729798,
+            0.27058331007535585
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "URDSS00XL",
+      "confidence": 59.728134,
+      "words": [
+        {
+          "text": "URDSS00XL",
+          "confidence": 59.728134,
+          "pixelBounds": [
+            9,
+            29,
+            324,
+            86
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "UHDS5500XL",
+      "confidence": 52.556389,
+      "words": [
+        {
+          "text": "UHDS5500XL",
+          "confidence": 52.556389,
+          "pixelBounds": [
+            9,
+            29,
+            324,
+            86
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale0.6-psm7",
+      "text": "UHD5500XL",
+      "confidence": 46.064526,
+      "words": [
+        {
+          "text": "UHD5500XL",
+          "confidence": 46.064526,
+          "pixelBounds": [
+            26,
+            26,
+            214,
+            60
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        0,
+        19,
+        334,
+        96
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale0.6-psm8",
+      "text": "~UHDS500XL_",
+      "confidence": 1.737328,
+      "words": [
+        {
+          "text": "~UHDS500XL_",
+          "confidence": 1.737328,
+          "pixelBounds": [
+            26,
+            26,
+            214,
+            60
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        0,
+        19,
+        334,
+        96
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale0.6-psm13",
+      "text": "~UHDS500XL_",
+      "confidence": 1.737328,
+      "words": [
+        {
+          "text": "~UHDS500XL_",
+          "confidence": 1.737328,
+          "pixelBounds": [
+            26,
+            26,
+            214,
+            60
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        0,
+        19,
+        334,
+        96
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale1-psm7",
+      "text": "URDSSO0OXL",
+      "confidence": 21.209955,
+      "words": [
+        {
+          "text": "URDSSO0OXL",
+          "confidence": 21.209955,
+          "pixelBounds": [
+            29,
+            30,
+            344,
+            87
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        0,
+        19,
+        334,
+        96
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale1-psm8",
+      "text": "UHD5500XL-",
+      "confidence": 31.751204,
+      "words": [
+        {
+          "text": "UHD5500XL-",
+          "confidence": 31.751204,
+          "pixelBounds": [
+            29,
+            30,
+            344,
+            87
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        0,
+        19,
+        334,
+        96
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale1-psm13",
+      "text": "UHD5500XL-",
+      "confidence": 31.751204,
+      "words": [
+        {
+          "text": "UHD5500XL-",
+          "confidence": 31.751204,
+          "pixelBounds": [
+            29,
+            30,
+            344,
+            87
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        0,
+        19,
+        334,
+        96
+      ]
+    }
+  ]
+}

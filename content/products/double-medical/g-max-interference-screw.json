@@ -1,0 +1,566 @@
+{
+  "slug": "g-max-interference-screw",
+  "brand": "double-medical",
+  "category": "sports-medicine",
+  "subcategory": "sports-interference-screws",
+  "specialty": [
+    "sports",
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Интерферентный винт G-Max",
+    "en": "G-Max Interference Screw"
+  },
+  "shortDescription": {
+    "ru": "Интерферентный винт из PEEK.",
+    "en": "PEEK interference screw."
+  },
+  "description": {
+    "ru": "Интерферентный винт из PEEK. Таблицы ниже содержат варианты и каталожные номера, приведённые в каталоге Double Medical.",
+    "en": "PEEK interference screw. The tables below list the variants and catalog numbers printed in the Double Medical catalog."
+  },
+  "heroImage": "/images/products/double-medical/sports-medicine-catalogue/page-009-image-01.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "src": "/images/products/double-medical/sports-medicine-catalogue/page-009-image-01.webp",
+      "width": 674,
+      "height": 446,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x",
+        "scale": 2,
+        "originalSize": [
+          305,
+          191
+        ],
+        "enhancedSize": [
+          610,
+          382
+        ]
+      },
+      "imageCaption": {
+        "ru": "Интерферентный винт G-Max",
+        "en": "G-Max Interference Screw"
+      },
+      "sourcePages": [
+        9
+      ]
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [
+    {
+      "id": "sports-p9-1",
+      "groupId": "sports-p9-1",
+      "title": {
+        "ru": "Интерферентный винт G-Max",
+        "en": "G-Max Interference Screw"
+      },
+      "description": {
+        "ru": "Материал: PEEK. Показания: Фиксация мягких тканей, связок и сухожилий к кости.",
+        "en": "Material: PEEK. Indication: Fixation of soft tissue, ligaments and tendons to bone."
+      },
+      "unit": "mm",
+      "columns": [
+        {
+          "ru": "Размер",
+          "en": "Size"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "6×23",
+            "en": "6×23"
+          },
+          "152150623S"
+        ],
+        [
+          {
+            "ru": "7×28",
+            "en": "7×28"
+          },
+          "152150728S"
+        ],
+        [
+          {
+            "ru": "8×28",
+            "en": "8×28"
+          },
+          "152150828S"
+        ],
+        [
+          {
+            "ru": "9×28",
+            "en": "9×28"
+          },
+          "152150928S"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 9,
+          "sourceBounds": [
+            0.08,
+            0.26604527962044666,
+            0.8,
+            0.2880452796204467
+          ],
+          "codeEvidence": [
+            {
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "text": "152150623S",
+                  "bounds": [
+                    0.10175486369746299,
+                    0.27004527962044667,
+                    0.1996707996117374,
+                    0.2837337899929717
+                  ]
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "152150623S",
+                  "bounds": [
+                    0.10467618861279593,
+                    0.27114150153502653,
+                    0.25963607904519664,
+                    0.28035166061959255
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "15215062358",
+                  "bounds": [
+                    0.10467618861279593,
+                    0.27114150153502653,
+                    0.1980043044414009,
+                    0.28035166061959255
+                  ]
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)",
+              "verifiedValue": "152150623S"
+            }
+          ]
+        },
+        {
+          "pdfPage": 9,
+          "sourceBounds": [
+            0.08,
+            0.28202938099330543,
+            0.8,
+            0.30402938099330545
+          ],
+          "codeEvidence": [
+            {
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "text": "152150728S",
+                  "bounds": [
+                    0.10175379197443493,
+                    0.28602938099330544,
+                    0.19967187133473893,
+                    0.2997264328060374
+                  ]
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "152150728S",
+                  "bounds": [
+                    0.10487184504010957,
+                    0.2871895060005582,
+                    0.26002739189982393,
+                    0.2963996650851242
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "1521507285",
+                  "bounds": [
+                    0.10487184504010957,
+                    0.2871895060005582,
+                    0.19780864801408726,
+                    0.2963996650851242
+                  ]
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)",
+              "verifiedValue": "152150728S"
+            }
+          ]
+        },
+        {
+          "pdfPage": 9,
+          "sourceBounds": [
+            0.08,
+            0.2980495485335857,
+            0.8,
+            0.3200495485335857
+          ],
+          "codeEvidence": [
+            {
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "text": "152150828S",
+                  "bounds": [
+                    0.1017618019744368,
+                    0.3020495485335857,
+                    0.1996638585451133,
+                    0.31568300975918606
+                  ]
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "152150828S",
+                  "bounds": [
+                    0.10467618861279593,
+                    0.3032375104660899,
+                    0.26002739189982393,
+                    0.3124476695506559
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "152150828S",
+                  "bounds": [
+                    0.10467618861279593,
+                    0.3032375104660899,
+                    0.1980043044414009,
+                    0.3124476695506559
+                  ]
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)",
+              "verifiedValue": "152150828S"
+            }
+          ]
+        },
+        {
+          "pdfPage": 9,
+          "sourceBounds": [
+            0.08,
+            0.31431395337169277,
+            0.8,
+            0.3363139533716928
+          ],
+          "codeEvidence": [
+            {
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "text": "152150928S",
+                  "bounds": [
+                    0.10183299336726868,
+                    0.31831395337169277,
+                    0.19959266994375838,
+                    0.3313953488085397
+                  ]
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "152150928S",
+                  "bounds": [
+                    0.10487184504010957,
+                    0.3191459670667039,
+                    0.26002739189982393,
+                    0.3283561261512699
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "1521509285",
+                  "bounds": [
+                    0.10487184504010957,
+                    0.3191459670667039,
+                    0.19780864801408726,
+                    0.3283561261512699
+                  ]
+                }
+              ],
+              "visualReading": null,
+              "verificationStatus": "verified (three readers compared)",
+              "verifiedValue": "152150928S"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        9
+      ],
+      "rowImages": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "images": [
+        {
+          "src": "/images/products/double-medical/sports-medicine-catalogue/page-009-image-01.webp",
+          "width": 674,
+          "height": 446,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x",
+            "scale": 2,
+            "originalSize": [
+              305,
+              191
+            ],
+            "enhancedSize": [
+              610,
+              382
+            ]
+          },
+          "imageCaption": {
+            "ru": "Интерферентный винт G-Max",
+            "en": "G-Max Interference Screw"
+          },
+          "sourcePages": [
+            9
+          ]
+        }
+      ]
+    }
+  ],
+  "refCodes": [
+    "152150623S",
+    "152150728S",
+    "152150828S",
+    "152150928S"
+  ],
+  "sourcePages": [
+    9
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical — каталог спортивной медицины",
+    "en": "Double Medical — Sports Medicine Catalogue"
+  },
+  "documentCover": "/catalogs/double-medical/sports-medicine-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "catalogType": "list",
+  "imageDimensions": {
+    "/images/products/double-medical/sports-medicine-catalogue/page-009-image-01.webp": {
+      "width": 674,
+      "height": 446
+    }
+  },
+  "relatedSystemSlugs": [
+    "knee-repair-and-reconstruction-instrument-set"
+  ],
+  "indications": {
+    "ru": "Фиксация мягких тканей, связок и сухожилий к кости.",
+    "en": "Fixation of soft tissue, ligaments and tendons to bone."
+  },
+  "sourcePdf": "/catalogs/double-medical/sports-medicine-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/sports-medicine-catalogue/pages/009.webp"
+  ],
+  "sourcePageDimensions": {
+    "3": {
+      "width": 5111,
+      "height": 7166
+    },
+    "4": {
+      "width": 5111,
+      "height": 7166
+    },
+    "5": {
+      "width": 5111,
+      "height": 7166
+    },
+    "6": {
+      "width": 5111,
+      "height": 7166
+    },
+    "7": {
+      "width": 5111,
+      "height": 7166
+    },
+    "8": {
+      "width": 5111,
+      "height": 7166
+    },
+    "9": {
+      "width": 5111,
+      "height": 7166
+    },
+    "10": {
+      "width": 5111,
+      "height": 7166
+    },
+    "11": {
+      "width": 5111,
+      "height": 7166
+    },
+    "12": {
+      "width": 5111,
+      "height": 7166
+    },
+    "13": {
+      "width": 5111,
+      "height": 7166
+    },
+    "14": {
+      "width": 5111,
+      "height": 7166
+    },
+    "15": {
+      "width": 5111,
+      "height": 7166
+    },
+    "16": {
+      "width": 5111,
+      "height": 7166
+    },
+    "17": {
+      "width": 5111,
+      "height": 7166
+    },
+    "18": {
+      "width": 5111,
+      "height": 7166
+    },
+    "19": {
+      "width": 5111,
+      "height": 7166
+    },
+    "20": {
+      "width": 5111,
+      "height": 7166
+    },
+    "21": {
+      "width": 5111,
+      "height": 7166
+    },
+    "22": {
+      "width": 5111,
+      "height": 7166
+    },
+    "23": {
+      "width": 5111,
+      "height": 7166
+    },
+    "24": {
+      "width": 5111,
+      "height": 7166
+    },
+    "25": {
+      "width": 5111,
+      "height": 7166
+    },
+    "26": {
+      "width": 5111,
+      "height": 7166
+    },
+    "27": {
+      "width": 5111,
+      "height": 7166
+    },
+    "28": {
+      "width": 5111,
+      "height": 7166
+    },
+    "29": {
+      "width": 5111,
+      "height": 7166
+    },
+    "30": {
+      "width": 5111,
+      "height": 7166
+    },
+    "31": {
+      "width": 5111,
+      "height": 7166
+    },
+    "32": {
+      "width": 5111,
+      "height": 7166
+    },
+    "33": {
+      "width": 5111,
+      "height": 7166
+    },
+    "34": {
+      "width": 5111,
+      "height": 7166
+    },
+    "35": {
+      "width": 5111,
+      "height": 7166
+    },
+    "36": {
+      "width": 5111,
+      "height": 7166
+    },
+    "37": {
+      "width": 5111,
+      "height": 7166
+    },
+    "38": {
+      "width": 5111,
+      "height": 7166
+    },
+    "39": {
+      "width": 5111,
+      "height": 7166
+    }
+  },
+  "review": {
+    "sourceSha256": "0564b2ce17c049fc1e77ab714414dcbe4f74e00e785b2ae3e0895b169868e09e",
+    "importMethod": "600-DPI PSM3/PSM11 + independent Apple Vision; Codex visual source review and professional medical RU; Real-ESRGAN exact 2x and rembg/source-alpha preservation",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      39,
+      40
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.description.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.rows.3.0.ru",
+      "specTables.0.images.0.imageCaption.ru",
+      "catalogTitle.ru",
+      "indications.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Authorized automatic publication after source review; no open real flags."
+  },
+  "publishedAt": "2026-11-21T07:18:29.381490+00:00"
+}

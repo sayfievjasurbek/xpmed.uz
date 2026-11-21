@@ -1,0 +1,37 @@
+{
+  "pdfPage": 6,
+  "pageRow": 8,
+  "visualReading": "iAS5-100LP",
+  "visualReader": "Codex independent inspection of 600-DPI source table images; source-line crops retained",
+  "ocrReadings": {
+    "600dpi-psm3": "iAS5-100LP",
+    "600dpi-psm11": "IASS-100LP",
+    "600dpi-code-crop-psm7": "X IASS-100LP",
+    "Apple-Vision-accurate": "IAS5-100LP"
+  },
+  "matchedReaders": [
+    "600dpi-psm3"
+  ],
+  "value": "iAS5-100LP",
+  "verificationStatus": "verified (visual + OCR)",
+  "manufacturerStatus": "confirmed on conmed.com",
+  "officialEvidence": [
+    {
+      "url": "https://www.conmed.com/-/media/conmed/documents/catalog/advancedsurgical_catalog.ashx",
+      "code": "iAS5-100LP"
+    }
+  ],
+  "sourceBounds": [
+    0.8481706124046174,
+    0.4496232207647223,
+    0.913715515554686,
+    0.4588333798492883
+  ],
+  "rowBounds": [
+    0.5289452320766902,
+    0.4295900178253119,
+    0.934,
+    0.4625668449197861
+  ],
+  "lineCrop": "reports/conmed/advanced-surgical-product-catalog/line-crops/006-08.png"
+}

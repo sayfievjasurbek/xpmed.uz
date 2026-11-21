@@ -1,0 +1,1 @@
+import {validateSystem} from '../src/catalog-data.mjs';let text='';for await(const c of process.stdin)text+=c;let errors;try{errors=validateSystem(JSON.parse(text))}catch(e){errors=[e.message]}console.log(JSON.stringify(errors));process.exitCode=errors.length?1:0;

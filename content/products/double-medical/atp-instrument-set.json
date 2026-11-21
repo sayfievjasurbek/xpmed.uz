@@ -1,0 +1,4443 @@
+{
+  "slug": "atp-instrument-set",
+  "brand": "double-medical",
+  "category": "spine-instrument-sets",
+  "subcategory": "spine-mis",
+  "specialty": [
+    "spine"
+  ],
+  "name": {
+    "ru": "Набор инструментов ATP",
+    "en": "ATP Instrument Set"
+  },
+  "setCode": "113739600",
+  "setCodeEvidence": [
+    {
+      "cy": 0.11964390530228917,
+      "bounds": [
+        0.27173018919659997,
+        0.11367638426922325,
+        0.3723608445297505,
+        0.1256114263353551
+      ],
+      "readings": {
+        "PSM3": "113739600",
+        "PSM11": "113739600",
+        "Vision": "113739600"
+      },
+      "value": "113739600",
+      "pdfPage": 367
+    }
+  ],
+  "catalogType": "list",
+  "importPartition": "spine-instruments",
+  "shortDescription": {
+    "ru": "Инструменты для хирургии позвоночника",
+    "en": "Spine surgery instruments"
+  },
+  "description": {
+    "ru": "Набор инструментов ATP. Комплектация и каталожные номера приведены по Spine Catalogue Double Medical.",
+    "en": "ATP Instrument Set. Contents and catalog numbers are listed according to the Double Medical Spine Catalogue."
+  },
+  "heroImage": "/images/products/double-medical/spine-instruments/art-367-01.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "src": "/images/products/double-medical/spine-instruments/art-367-01.webp",
+      "width": 990,
+      "height": 218,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          463,
+          79
+        ],
+        "enhancedSize": [
+          926,
+          158
+        ]
+      },
+      "imageCaption": {
+        "ru": "Кюретка Dingo ATP",
+        "en": "ATP Dingo Curette"
+      },
+      "sourcePages": [
+        367
+      ]
+    },
+    {
+      "src": "/images/products/double-medical/spine-instruments/art-367-02.webp",
+      "width": 996,
+      "height": 211,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          466,
+          75
+        ],
+        "enhancedSize": [
+          932,
+          150
+        ]
+      },
+      "imageCaption": {
+        "ru": "Кольцевая кюретка Dingo ATP, левая",
+        "en": "ATP Dingo Ring Curette, left"
+      },
+      "sourcePages": [
+        367
+      ]
+    },
+    {
+      "src": "/images/products/double-medical/spine-instruments/art-367-03.webp",
+      "width": 980,
+      "height": 248,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          458,
+          92
+        ],
+        "enhancedSize": [
+          916,
+          184
+        ]
+      },
+      "imageCaption": {
+        "ru": "Кольцевая кюретка Dingo ATP, правая",
+        "en": "ATP Dingo Ring Curette, right"
+      },
+      "sourcePages": [
+        367
+      ]
+    },
+    {
+      "src": "/images/products/double-medical/spine-instruments/art-367-04.webp",
+      "width": 990,
+      "height": 222,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          465,
+          79
+        ],
+        "enhancedSize": [
+          930,
+          158
+        ]
+      },
+      "imageCaption": {
+        "ru": "Рашпиль Dingo ATP",
+        "en": "ATP Dingo Rasp"
+      },
+      "sourcePages": [
+        367
+      ]
+    },
+    {
+      "src": "/images/products/double-medical/spine-instruments/art-367-05.webp",
+      "width": 984,
+      "height": 205,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          460,
+          71
+        ],
+        "enhancedSize": [
+          920,
+          142
+        ]
+      },
+      "imageCaption": {
+        "ru": "Элеватор Dingo ATP, левый",
+        "en": "ATP Dingo Elevator, left"
+      },
+      "sourcePages": [
+        367
+      ]
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [
+    {
+      "id": "spine-set-113739600-p367",
+      "groupId": "spine-set-113739600-p367",
+      "title": {
+        "ru": "Инструменты · стр. 365",
+        "en": "Instruments · p. 365"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Кюретка Dingo ATP",
+            "en": "ATP Dingo Curette"
+          },
+          "113737460"
+        ],
+        [
+          {
+            "ru": "Кольцевая кюретка Dingo ATP, левая",
+            "en": "ATP Dingo Ring Curette, left"
+          },
+          "113737470"
+        ],
+        [
+          {
+            "ru": "Кольцевая кюретка Dingo ATP, правая",
+            "en": "ATP Dingo Ring Curette, right"
+          },
+          "113737480"
+        ],
+        [
+          {
+            "ru": "Рашпиль Dingo ATP",
+            "en": "ATP Dingo Rasp"
+          },
+          "113737490"
+        ],
+        [
+          {
+            "ru": "Элеватор Dingo ATP, левый",
+            "en": "ATP Dingo Elevator, left"
+          },
+          "113737500"
+        ],
+        [
+          {
+            "ru": "Элеватор Dingo ATP, правый",
+            "en": "ATP Dingo Elevator, right"
+          },
+          "113737510"
+        ],
+        [
+          {
+            "ru": "Инструмент для подготовки межпозвонкового пространства ATP, 4 мм",
+            "en": "ATP Intervertebral Space Preparer, 4mm"
+          },
+          "113737520"
+        ],
+        [
+          {
+            "ru": "Инструмент для подготовки межпозвонкового пространства ATP, 6 мм",
+            "en": "ATP Intervertebral Space Preparer, 6mm"
+          },
+          "113737530"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 367,
+          "printedPage": 365,
+          "bounds": [
+            0.13408280778722237,
+            0.14687282332224613,
+            0.56,
+            0.19883584425748385
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.14687282332224613,
+            0.56,
+            0.19883584425748385
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.14987282332224613,
+            0.2196325747189471,
+            0.159655644687928
+          ],
+          "sourceRowId": "367-01",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p367",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 367,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737460",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.14987282332224613,
+                    0.2196325747189471,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737460",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.14987282332224613,
+                    0.2196325747189471,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737460",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.14987282332224613,
+                    0.2196325747189471,
+                    0.159655644687928
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Dingo Curette",
+            "PSM11": "ATP Dingo Curette",
+            "Vision": "ATP Dingo Curette"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 367,
+          "printedPage": 365,
+          "bounds": [
+            0.13408280778722237,
+            0.23491821561338289,
+            0.56,
+            0.2870279788691058
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.23491821561338289,
+            0.56,
+            0.2870279788691058
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.2379182156133829,
+            0.2196325747189471,
+            0.2478966934063784
+          ],
+          "sourceRowId": "367-02",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p367",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 367,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737470",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.2379182156133829,
+                    0.2196325747189471,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737470",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.2379182156133829,
+                    0.2196325747189471,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737470",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.2379182156133829,
+                    0.2196325747189471,
+                    0.2478966934063784
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Dingo Ring Curette, left",
+            "PSM11": "ATP Dingo Ring Curette, left",
+            "Vision": "ATP Dingo Ring Curette, left"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 367,
+          "printedPage": 365,
+          "bounds": [
+            0.13408280778722237,
+            0.3231592643318333,
+            0.56,
+            0.3752690275875562
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.3231592643318333,
+            0.56,
+            0.3752690275875562
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.3261592643318333,
+            0.2196325747189471,
+            0.3361377421248288
+          ],
+          "sourceRowId": "367-03",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p367",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 367,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737480",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.3261592643318333,
+                    0.2196325747189471,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737480",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.3261592643318333,
+                    0.2196325747189471,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737480",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.3261592643318333,
+                    0.2196325747189471,
+                    0.3361377421248288
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Dingo Ring Curette, right b..",
+            "PSM11": "ATP Dingo Ring Curette, right",
+            "Vision": "ATP Dingo Ring Curette, right"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 367,
+          "printedPage": 365,
+          "bounds": [
+            0.13408280778722237,
+            0.4114003130502837,
+            0.56,
+            0.4635100763060066
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.4114003130502837,
+            0.56,
+            0.4635100763060066
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.4144003130502837,
+            0.2196325747189471,
+            0.4243787908432792
+          ],
+          "sourceRowId": "367-04",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p367",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 367,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737490",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.4144003130502837,
+                    0.2196325747189471,
+                    0.4243787908432792
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737490",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.4144003130502837,
+                    0.2196325747189471,
+                    0.4243787908432792
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737490",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.4144003130502837,
+                    0.2196325747189471,
+                    0.4243787908432792
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Dingo Rasp",
+            "PSM11": "ATP Dingo Rasp",
+            "Vision": "ATP Dingo Rasp"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 367,
+          "printedPage": 365,
+          "bounds": [
+            0.13408280778722237,
+            0.4996413617687341,
+            0.56,
+            0.551751125024457
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.4996413617687341,
+            0.56,
+            0.551751125024457
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.5026413617687341,
+            0.2196325747189471,
+            0.5126198395617296
+          ],
+          "sourceRowId": "367-05",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p367",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 367,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737500",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.5026413617687341,
+                    0.2196325747189471,
+                    0.5126198395617296
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737500",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.5026413617687341,
+                    0.2196325747189471,
+                    0.5126198395617296
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737500",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.5026413617687341,
+                    0.2196325747189471,
+                    0.5126198395617296
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Dingo Elevator, left",
+            "PSM11": "ATP Dingo Elevator, left",
+            "Vision": "ATP Dingo Elevator, left"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 367,
+          "printedPage": 365,
+          "bounds": [
+            0.13408280778722237,
+            0.5878824104871845,
+            0.56,
+            0.6399921737429074
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.5878824104871845,
+            0.56,
+            0.6399921737429074
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.5908824104871845,
+            0.2196325747189471,
+            0.60086088828018
+          ],
+          "sourceRowId": "367-06",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p367",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 367,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737510",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.5908824104871845,
+                    0.2196325747189471,
+                    0.60086088828018
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737510",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.5908824104871845,
+                    0.2196325747189471,
+                    0.60086088828018
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737510",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.5908824104871845,
+                    0.2196325747189471,
+                    0.60086088828018
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Dingo Elevator, right &",
+            "PSM11": "ATP Dingo Elevator, right",
+            "Vision": "ATP Dingo Elevator, right"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 367,
+          "printedPage": 365,
+          "bounds": [
+            0.13408280778722237,
+            0.6761234592056349,
+            0.56,
+            0.7282332224613578
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.6761234592056349,
+            0.56,
+            0.7282332224613578
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.6791234592056349,
+            0.2196325747189471,
+            0.6891019369986304
+          ],
+          "sourceRowId": "367-07",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p367",
+              "row": 7,
+              "column": 2,
+              "pdfPage": 367,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737520",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.6791234592056349,
+                    0.2196325747189471,
+                    0.6891019369986304
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737520",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.6791234592056349,
+                    0.2196325747189471,
+                    0.6891019369986304
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737520",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.6791234592056349,
+                    0.2196325747189471,
+                    0.6891019369986304
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Intervertebral Space Preparer, 4mm",
+            "PSM11": "ATP Intervertebral Space Preparer, 4mm",
+            "Vision": "ATP Intervertebral Space Preparer, 4mm"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 367,
+          "printedPage": 365,
+          "bounds": [
+            0.13408280778722237,
+            0.7643645079240853,
+            0.56,
+            0.8323429857170809
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.7643645079240853,
+            0.56,
+            0.8323429857170809
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.7673645079240853,
+            0.2196325747189471,
+            0.7773429857170808
+          ],
+          "sourceRowId": "367-08",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p367",
+              "row": 8,
+              "column": 2,
+              "pdfPage": 367,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737530",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.7673645079240853,
+                    0.2196325747189471,
+                    0.7773429857170808
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737530",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.7673645079240853,
+                    0.2196325747189471,
+                    0.7773429857170808
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737530",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.7673645079240853,
+                    0.2196325747189471,
+                    0.7773429857170808
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Intervertebral Space Preparer, 6mm",
+            "PSM11": "ATP Intervertebral Space Preparer, 6mm",
+            "Vision": "ATP Intervertebral Space Preparer, 6mm"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        }
+      ],
+      "rowImages": [
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-367-01.webp",
+          "width": 990,
+          "height": 218,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              463,
+              79
+            ],
+            "enhancedSize": [
+              926,
+              158
+            ]
+          },
+          "imageCaption": {
+            "ru": "Кюретка Dingo ATP",
+            "en": "ATP Dingo Curette"
+          },
+          "sourcePages": [
+            367
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-367-02.webp",
+          "width": 996,
+          "height": 211,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              466,
+              75
+            ],
+            "enhancedSize": [
+              932,
+              150
+            ]
+          },
+          "imageCaption": {
+            "ru": "Кольцевая кюретка Dingo ATP, левая",
+            "en": "ATP Dingo Ring Curette, left"
+          },
+          "sourcePages": [
+            367
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-367-03.webp",
+          "width": 980,
+          "height": 248,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              458,
+              92
+            ],
+            "enhancedSize": [
+              916,
+              184
+            ]
+          },
+          "imageCaption": {
+            "ru": "Кольцевая кюретка Dingo ATP, правая",
+            "en": "ATP Dingo Ring Curette, right"
+          },
+          "sourcePages": [
+            367
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-367-04.webp",
+          "width": 990,
+          "height": 222,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              465,
+              79
+            ],
+            "enhancedSize": [
+              930,
+              158
+            ]
+          },
+          "imageCaption": {
+            "ru": "Рашпиль Dingo ATP",
+            "en": "ATP Dingo Rasp"
+          },
+          "sourcePages": [
+            367
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-367-05.webp",
+          "width": 984,
+          "height": 205,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              460,
+              71
+            ],
+            "enhancedSize": [
+              920,
+              142
+            ]
+          },
+          "imageCaption": {
+            "ru": "Элеватор Dingo ATP, левый",
+            "en": "ATP Dingo Elevator, left"
+          },
+          "sourcePages": [
+            367
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-367-06.webp",
+          "width": 1000,
+          "height": 213,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              468,
+              76
+            ],
+            "enhancedSize": [
+              936,
+              152
+            ]
+          },
+          "imageCaption": {
+            "ru": "Элеватор Dingo ATP, правый",
+            "en": "ATP Dingo Elevator, right"
+          },
+          "sourcePages": [
+            367
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-367-07.webp",
+          "width": 990,
+          "height": 212,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              463,
+              74
+            ],
+            "enhancedSize": [
+              926,
+              148
+            ]
+          },
+          "imageCaption": {
+            "ru": "Инструмент для подготовки межпозвонкового пространства ATP, 4 мм",
+            "en": "ATP Intervertebral Space Preparer, 4mm"
+          },
+          "sourcePages": [
+            367
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-367-08.webp",
+          "width": 930,
+          "height": 198,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              433,
+              68
+            ],
+            "enhancedSize": [
+              866,
+              136
+            ]
+          },
+          "imageCaption": {
+            "ru": "Инструмент для подготовки межпозвонкового пространства ATP, 6 мм",
+            "en": "ATP Intervertebral Space Preparer, 6mm"
+          },
+          "sourcePages": [
+            367
+          ]
+        }
+      ],
+      "sourcePage": 367,
+      "sourcePages": [
+        367
+      ],
+      "printedPage": 365,
+      "catalogNumberTable": true
+    },
+    {
+      "id": "spine-set-113739600-p368",
+      "groupId": "spine-set-113739600-p368",
+      "title": {
+        "ru": "Инструменты · стр. 366",
+        "en": "Instruments · p. 366"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Пробный имплант ATP, 9 мм×5°",
+            "en": "ATP Trial Implant, 9mm×5°"
+          },
+          "113737540"
+        ],
+        [
+          {
+            "ru": "Пробный имплант ATP, 10 ммx5°",
+            "en": "ATP Trial Implant, 10mmx5°"
+          },
+          "113737550"
+        ],
+        [
+          {
+            "ru": "Пробный имплант ATP, 11 ммx5°",
+            "en": "ATP Trial Implant, 11mmx5°"
+          },
+          "113737560"
+        ],
+        [
+          {
+            "ru": "Пробный имплант ATP, 12 ммx5°",
+            "en": "ATP Trial Implant, 12mmx5°"
+          },
+          "113737570"
+        ],
+        [
+          {
+            "ru": "Пробный имплант ATP, 13 ммx5°",
+            "en": "ATP Trial Implant, 13mmx5°"
+          },
+          "113737580"
+        ],
+        [
+          {
+            "ru": "Пробный имплант ATP, 14 ммx5°",
+            "en": "ATP Trial Implant, 14mmx5°"
+          },
+          "113737590"
+        ],
+        [
+          {
+            "ru": "Пробный имплант ATP, 15 мм×5°",
+            "en": "ATP Trial Implant, 15mm×5°"
+          },
+          "113737600"
+        ],
+        [
+          {
+            "ru": "Пробный имплант ATP, 11 ммx10°",
+            "en": "ATP Trial Implant, 11mmx10°"
+          },
+          "113737610"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 368,
+          "printedPage": 366,
+          "bounds": [
+            0.11132437619961612,
+            0.14687282332224613,
+            0.56,
+            0.19883584425748385
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.14687282332224613,
+            0.56,
+            0.19883584425748385
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.14987282332224613,
+            0.19687414313134083,
+            0.159655644687928
+          ],
+          "sourceRowId": "368-01",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p368",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 368,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737540",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.14987282332224613,
+                    0.19687414313134083,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737540",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.14987282332224613,
+                    0.19687414313134083,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737540",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.14987282332224613,
+                    0.19687414313134083,
+                    0.159655644687928
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Trial Implant, 9mmx5°",
+            "PSM11": "ATP Trial Implant, 9mmx5°",
+            "Vision": "ATP Trial Implant, 9mm×5°"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 368,
+          "printedPage": 366,
+          "bounds": [
+            0.11132437619961612,
+            0.23491821561338289,
+            0.56,
+            0.2870279788691058
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.23491821561338289,
+            0.56,
+            0.2870279788691058
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.2379182156133829,
+            0.19687414313134083,
+            0.2478966934063784
+          ],
+          "sourceRowId": "368-02",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p368",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 368,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737550",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.2379182156133829,
+                    0.19687414313134083,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737550",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.2379182156133829,
+                    0.19687414313134083,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737550",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.2379182156133829,
+                    0.19687414313134083,
+                    0.2478966934063784
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Trial Implant, 10mmx5°",
+            "PSM11": "ATP Trial Implant, 10mmx5°",
+            "Vision": "ATP Trial Implant, 10mmx5°"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 368,
+          "printedPage": 366,
+          "bounds": [
+            0.11132437619961612,
+            0.3231592643318333,
+            0.56,
+            0.3752690275875562
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.3231592643318333,
+            0.56,
+            0.3752690275875562
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.3261592643318333,
+            0.19687414313134083,
+            0.3361377421248288
+          ],
+          "sourceRowId": "368-03",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p368",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 368,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737560",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.3261592643318333,
+                    0.19687414313134083,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737560",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.3261592643318333,
+                    0.19687414313134083,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737560",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.3261592643318333,
+                    0.19687414313134083,
+                    0.3361377421248288
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Trial Implant, 14mmx5°",
+            "PSM11": "ATP Trial Implant, 14mmx5°",
+            "Vision": "ATP Trial Implant, 11mmx5°"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 368,
+          "printedPage": 366,
+          "bounds": [
+            0.11132437619961612,
+            0.4114003130502837,
+            0.56,
+            0.4635100763060066
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.4114003130502837,
+            0.56,
+            0.4635100763060066
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.4144003130502837,
+            0.19687414313134083,
+            0.4243787908432792
+          ],
+          "sourceRowId": "368-04",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p368",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 368,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737570",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.4144003130502837,
+                    0.19687414313134083,
+                    0.4243787908432792
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737570",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.4144003130502837,
+                    0.19687414313134083,
+                    0.4243787908432792
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737570",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.4144003130502837,
+                    0.19687414313134083,
+                    0.4243787908432792
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Trial Implant, 12mmx5°",
+            "PSM11": "ATP Trial Implant, 12mmx5°",
+            "Vision": "ATP Trial Implant, 12mmx5°"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 368,
+          "printedPage": 366,
+          "bounds": [
+            0.11132437619961612,
+            0.4996413617687341,
+            0.56,
+            0.551751125024457
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.4996413617687341,
+            0.56,
+            0.551751125024457
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.5026413617687341,
+            0.19687414313134083,
+            0.5126198395617296
+          ],
+          "sourceRowId": "368-05",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p368",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 368,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737580",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5026413617687341,
+                    0.19687414313134083,
+                    0.5126198395617296
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737580",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5026413617687341,
+                    0.19687414313134083,
+                    0.5126198395617296
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737580",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5026413617687341,
+                    0.19687414313134083,
+                    0.5126198395617296
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Trial Implant, 13mmx5°",
+            "PSM11": "ATP Trial Implant, 13mmx5°",
+            "Vision": "ATP Trial Implant, 13mmx5°"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 368,
+          "printedPage": 366,
+          "bounds": [
+            0.11132437619961612,
+            0.5878824104871845,
+            0.56,
+            0.6399921737429074
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.5878824104871845,
+            0.56,
+            0.6399921737429074
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.5908824104871845,
+            0.19687414313134083,
+            0.60086088828018
+          ],
+          "sourceRowId": "368-06",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p368",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 368,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737590",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5908824104871845,
+                    0.19687414313134083,
+                    0.60086088828018
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737590",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5908824104871845,
+                    0.19687414313134083,
+                    0.60086088828018
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737590",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.5908824104871845,
+                    0.19687414313134083,
+                    0.60086088828018
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Trial Implant, 144mmx5°",
+            "PSM11": "ATP Trial Implant, 144mmx5°",
+            "Vision": "ATP Trial Implant, 14mmx5°"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 368,
+          "printedPage": 366,
+          "bounds": [
+            0.11132437619961612,
+            0.6761234592056349,
+            0.56,
+            0.7282332224613578
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.6761234592056349,
+            0.56,
+            0.7282332224613578
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.6791234592056349,
+            0.19687414313134083,
+            0.6891019369986304
+          ],
+          "sourceRowId": "368-07",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p368",
+              "row": 7,
+              "column": 2,
+              "pdfPage": 368,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737600",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.6791234592056349,
+                    0.19687414313134083,
+                    0.6891019369986304
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737600",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.6791234592056349,
+                    0.19687414313134083,
+                    0.6891019369986304
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737600",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.6791234592056349,
+                    0.19687414313134083,
+                    0.6891019369986304
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Trial Implant, 145mmx5°",
+            "PSM11": "ATP Trial Implant, 15mmx5° \\\\\\",
+            "Vision": "ATP Trial Implant, 15mmx5°"
+          },
+          "descriptionVerification": "Codex visual source crop"
+        },
+        {
+          "pdfPage": 368,
+          "printedPage": 366,
+          "bounds": [
+            0.11132437619961612,
+            0.7643645079240853,
+            0.56,
+            0.8323429857170809
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.7643645079240853,
+            0.56,
+            0.8323429857170809
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.7673645079240853,
+            0.19687414313134083,
+            0.7773429857170808
+          ],
+          "sourceRowId": "368-08",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p368",
+              "row": 8,
+              "column": 2,
+              "pdfPage": 368,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737610",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.7673645079240853,
+                    0.19687414313134083,
+                    0.7773429857170808
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737610",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.7673645079240853,
+                    0.19687414313134083,
+                    0.7773429857170808
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737610",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.7673645079240853,
+                    0.19687414313134083,
+                    0.7773429857170808
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Trial Implant, 171mmx10°",
+            "PSM11": "ATP Trial Implant, 171mmx10°",
+            "Vision": "ATP Trial Implant, 11mmx10°"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        }
+      ],
+      "rowImages": [
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-368-01.webp",
+          "width": 926,
+          "height": 198,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              431,
+              69
+            ],
+            "enhancedSize": [
+              862,
+              138
+            ]
+          },
+          "imageCaption": {
+            "ru": "Пробный имплант ATP, 9 мм×5°",
+            "en": "ATP Trial Implant, 9mm×5°"
+          },
+          "sourcePages": [
+            368
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-368-02.webp",
+          "width": 926,
+          "height": 198,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              431,
+              68
+            ],
+            "enhancedSize": [
+              862,
+              136
+            ]
+          },
+          "imageCaption": {
+            "ru": "Пробный имплант ATP, 10 ммx5°",
+            "en": "ATP Trial Implant, 10mmx5°"
+          },
+          "sourcePages": [
+            368
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-368-03.webp",
+          "width": 926,
+          "height": 200,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              431,
+              70
+            ],
+            "enhancedSize": [
+              862,
+              140
+            ]
+          },
+          "imageCaption": {
+            "ru": "Пробный имплант ATP, 11 ммx5°",
+            "en": "ATP Trial Implant, 11mmx5°"
+          },
+          "sourcePages": [
+            368
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-368-04.webp",
+          "width": 928,
+          "height": 202,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              432,
+              70
+            ],
+            "enhancedSize": [
+              864,
+              140
+            ]
+          },
+          "imageCaption": {
+            "ru": "Пробный имплант ATP, 12 ммx5°",
+            "en": "ATP Trial Implant, 12mmx5°"
+          },
+          "sourcePages": [
+            368
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-368-05.webp",
+          "width": 926,
+          "height": 198,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              431,
+              68
+            ],
+            "enhancedSize": [
+              862,
+              136
+            ]
+          },
+          "imageCaption": {
+            "ru": "Пробный имплант ATP, 13 ммx5°",
+            "en": "ATP Trial Implant, 13mmx5°"
+          },
+          "sourcePages": [
+            368
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-368-06.webp",
+          "width": 926,
+          "height": 197,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              431,
+              68
+            ],
+            "enhancedSize": [
+              862,
+              136
+            ]
+          },
+          "imageCaption": {
+            "ru": "Пробный имплант ATP, 14 ммx5°",
+            "en": "ATP Trial Implant, 14mmx5°"
+          },
+          "sourcePages": [
+            368
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-368-07.webp",
+          "width": 900,
+          "height": 198,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              418,
+              68
+            ],
+            "enhancedSize": [
+              836,
+              136
+            ]
+          },
+          "imageCaption": {
+            "ru": "Пробный имплант ATP, 15 мм×5°",
+            "en": "ATP Trial Implant, 15mm×5°"
+          },
+          "sourcePages": [
+            368
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-368-08.webp",
+          "width": 897,
+          "height": 176,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              418,
+              57
+            ],
+            "enhancedSize": [
+              836,
+              114
+            ]
+          },
+          "imageCaption": {
+            "ru": "Пробный имплант ATP, 11 ммx10°",
+            "en": "ATP Trial Implant, 11mmx10°"
+          },
+          "sourcePages": [
+            368
+          ]
+        }
+      ],
+      "sourcePage": 368,
+      "sourcePages": [
+        368
+      ],
+      "printedPage": 366,
+      "catalogNumberTable": true
+    },
+    {
+      "id": "spine-set-113739600-p369",
+      "groupId": "spine-set-113739600-p369",
+      "title": {
+        "ru": "Инструменты · стр. 367",
+        "en": "Instruments · p. 367"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Пробный имплант ATP, 12 ммx10°",
+            "en": "ATP Trial Implant, 12mmx10°"
+          },
+          "113737620"
+        ],
+        [
+          {
+            "ru": "Пробный имплант ATP, 13 ммx10°",
+            "en": "ATP Trial Implant, 13mmx10°"
+          },
+          "113737630"
+        ],
+        [
+          {
+            "ru": "Пробный имплант ATP, 14 ммx10°",
+            "en": "ATP Trial Implant, 14mmx10°"
+          },
+          "113737640"
+        ],
+        [
+          {
+            "ru": "Пробный имплант ATP, 15 ммx10°",
+            "en": "ATP Trial Implant, 15mmx10°"
+          },
+          "113737650"
+        ],
+        [
+          {
+            "ru": "Импактор ATP, для кейджа",
+            "en": "ATP Impactor, for cage"
+          },
+          "113737680"
+        ],
+        [
+          {
+            "ru": "Рукоятка с быстросъёмным соединением ATP",
+            "en": "ATP Handle with Quick Coupling"
+          },
+          "113737690"
+        ],
+        [
+          {
+            "ru": "Протектор замыкательной пластинки ATP, левый",
+            "en": "ATP End Plate Protector, left"
+          },
+          "113737700"
+        ],
+        [
+          {
+            "ru": "Протектор замыкательной пластинки ATP, правый",
+            "en": "ATP End Plate Protector, right"
+          },
+          "113737710"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 369,
+          "printedPage": 367,
+          "bounds": [
+            0.13408280778722237,
+            0.14687282332224613,
+            0.56,
+            0.19883584425748385
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.14687282332224613,
+            0.56,
+            0.19883584425748385
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.14987282332224613,
+            0.2196325747189471,
+            0.159655644687928
+          ],
+          "sourceRowId": "369-01",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p369",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 369,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737620",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.14987282332224613,
+                    0.2196325747189471,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737620",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.14987282332224613,
+                    0.2196325747189471,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737620",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.14987282332224613,
+                    0.2196325747189471,
+                    0.159655644687928
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Trial Implant, 12mmx10°",
+            "PSM11": "ATP Trial Implant, 12mmx10°",
+            "Vision": "ATP Trial Implant, 12mmx10°"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 369,
+          "printedPage": 367,
+          "bounds": [
+            0.13408280778722237,
+            0.23491821561338289,
+            0.56,
+            0.2870279788691058
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.23491821561338289,
+            0.56,
+            0.2870279788691058
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.2379182156133829,
+            0.2196325747189471,
+            0.2478966934063784
+          ],
+          "sourceRowId": "369-02",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p369",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 369,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737630",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.2379182156133829,
+                    0.2196325747189471,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737630",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.2379182156133829,
+                    0.2196325747189471,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737630",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.2379182156133829,
+                    0.2196325747189471,
+                    0.2478966934063784
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Trial Implant, 13mmx10°",
+            "PSM11": "ATP Trial Implant, 13mmx10° »",
+            "Vision": "ATP Trial Implant, 13mmx10°"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 369,
+          "printedPage": 367,
+          "bounds": [
+            0.13408280778722237,
+            0.3231592643318333,
+            0.56,
+            0.3752690275875562
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.3231592643318333,
+            0.56,
+            0.3752690275875562
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.3261592643318333,
+            0.2196325747189471,
+            0.3361377421248288
+          ],
+          "sourceRowId": "369-03",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p369",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 369,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737640",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.3261592643318333,
+                    0.2196325747189471,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737640",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.3261592643318333,
+                    0.2196325747189471,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737640",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.3261592643318333,
+                    0.2196325747189471,
+                    0.3361377421248288
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Trial Implant, 144mmx10°",
+            "PSM11": "ATP Trial Implant, 144mmx10°",
+            "Vision": "ATP Trial Implant, 14mmx10°"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 369,
+          "printedPage": 367,
+          "bounds": [
+            0.13408280778722237,
+            0.4114003130502837,
+            0.56,
+            0.4635100763060066
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.4114003130502837,
+            0.56,
+            0.4635100763060066
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.4144003130502837,
+            0.2196325747189471,
+            0.4243787908432792
+          ],
+          "sourceRowId": "369-04",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p369",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 369,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737650",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.4144003130502837,
+                    0.2196325747189471,
+                    0.4243787908432792
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737650",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.4144003130502837,
+                    0.2196325747189471,
+                    0.4243787908432792
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737650",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.4144003130502837,
+                    0.2196325747189471,
+                    0.4243787908432792
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Trial Implant, 145mmx10°",
+            "PSM11": "ATP Trial Implant, 15mmx10°",
+            "Vision": "ATP Trial Implant, 15mmx10°"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 369,
+          "printedPage": 367,
+          "bounds": [
+            0.13408280778722237,
+            0.4996413617687341,
+            0.56,
+            0.551751125024457
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.4996413617687341,
+            0.56,
+            0.551751125024457
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.5026413617687341,
+            0.2196325747189471,
+            0.5126198395617296
+          ],
+          "sourceRowId": "369-05",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p369",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 369,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737680",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.5026413617687341,
+                    0.2196325747189471,
+                    0.5126198395617296
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737680",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.5026413617687341,
+                    0.2196325747189471,
+                    0.5126198395617296
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737680",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.5026413617687341,
+                    0.2196325747189471,
+                    0.5126198395617296
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Impactor, for cage",
+            "PSM11": "ATP Impactor, for cage",
+            "Vision": "ATP Impactor, for cage"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 369,
+          "printedPage": 367,
+          "bounds": [
+            0.13408280778722237,
+            0.5878824104871845,
+            0.56,
+            0.6399921737429074
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.5878824104871845,
+            0.56,
+            0.6399921737429074
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.5908824104871845,
+            0.2196325747189471,
+            0.60086088828018
+          ],
+          "sourceRowId": "369-06",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p369",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 369,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737690",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.5908824104871845,
+                    0.2196325747189471,
+                    0.60086088828018
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737690",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.5908824104871845,
+                    0.2196325747189471,
+                    0.60086088828018
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737690",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.5908824104871845,
+                    0.2196325747189471,
+                    0.60086088828018
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Handle with Quick Coupling",
+            "PSM11": "ATP Handle with Quick Coupling",
+            "Vision": "ATP Handle with Quick Coupling"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 369,
+          "printedPage": 367,
+          "bounds": [
+            0.13408280778722237,
+            0.6761234592056349,
+            0.56,
+            0.7282332224613578
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.6761234592056349,
+            0.56,
+            0.7282332224613578
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.6791234592056349,
+            0.2196325747189471,
+            0.6891019369986304
+          ],
+          "sourceRowId": "369-07",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p369",
+              "row": 7,
+              "column": 2,
+              "pdfPage": 369,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737700",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.6791234592056349,
+                    0.2196325747189471,
+                    0.6891019369986304
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737700",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.6791234592056349,
+                    0.2196325747189471,
+                    0.6891019369986304
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737700",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.6791234592056349,
+                    0.2196325747189471,
+                    0.6891019369986304
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP End Plate Protector, left",
+            "PSM11": "ATP End Plate Protector, left",
+            "Vision": "ATP End Plate Protector, left"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 369,
+          "printedPage": 367,
+          "bounds": [
+            0.13408280778722237,
+            0.7643645079240853,
+            0.56,
+            0.8323429857170809
+          ],
+          "sourceBounds": [
+            0.13408280778722237,
+            0.7643645079240853,
+            0.56,
+            0.8323429857170809
+          ],
+          "codeBounds": [
+            0.13408280778722237,
+            0.7673645079240853,
+            0.2196325747189471,
+            0.7773429857170808
+          ],
+          "sourceRowId": "369-08",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p369",
+              "row": 8,
+              "column": 2,
+              "pdfPage": 369,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737710",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.7673645079240853,
+                    0.2196325747189471,
+                    0.7773429857170808
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737710",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.7673645079240853,
+                    0.2196325747189471,
+                    0.7773429857170808
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737710",
+                  "bounds": [
+                    0.13408280778722237,
+                    0.7673645079240853,
+                    0.2196325747189471,
+                    0.7773429857170808
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP End Plate Protector, right a",
+            "PSM11": "ATP End Plate Protector, right SSinsss-",
+            "Vision": "ATP End Plate Protector, right"
+          },
+          "descriptionVerification": "Codex visual source crop"
+        }
+      ],
+      "rowImages": [
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-369-01.webp",
+          "width": 900,
+          "height": 198,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              418,
+              69
+            ],
+            "enhancedSize": [
+              836,
+              138
+            ]
+          },
+          "imageCaption": {
+            "ru": "Пробный имплант ATP, 12 ммx10°",
+            "en": "ATP Trial Implant, 12mmx10°"
+          },
+          "sourcePages": [
+            369
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-369-02.webp",
+          "width": 902,
+          "height": 193,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              419,
+              66
+            ],
+            "enhancedSize": [
+              838,
+              132
+            ]
+          },
+          "imageCaption": {
+            "ru": "Пробный имплант ATP, 13 ммx10°",
+            "en": "ATP Trial Implant, 13mmx10°"
+          },
+          "sourcePages": [
+            369
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-369-03.webp",
+          "width": 900,
+          "height": 205,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              418,
+              71
+            ],
+            "enhancedSize": [
+              836,
+              142
+            ]
+          },
+          "imageCaption": {
+            "ru": "Пробный имплант ATP, 14 ммx10°",
+            "en": "ATP Trial Implant, 14mmx10°"
+          },
+          "sourcePages": [
+            369
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-369-04.webp",
+          "width": 902,
+          "height": 198,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              419,
+              69
+            ],
+            "enhancedSize": [
+              838,
+              138
+            ]
+          },
+          "imageCaption": {
+            "ru": "Пробный имплант ATP, 15 ммx10°",
+            "en": "ATP Trial Implant, 15mmx10°"
+          },
+          "sourcePages": [
+            369
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-369-05.webp",
+          "width": 930,
+          "height": 144,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              433,
+              40
+            ],
+            "enhancedSize": [
+              866,
+              80
+            ]
+          },
+          "imageCaption": {
+            "ru": "Импактор ATP, для кейджа",
+            "en": "ATP Impactor, for cage"
+          },
+          "sourcePages": [
+            369
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-369-06.webp",
+          "width": 826,
+          "height": 391,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              381,
+              166
+            ],
+            "enhancedSize": [
+              762,
+              332
+            ]
+          },
+          "imageCaption": {
+            "ru": "Рукоятка с быстросъёмным соединением ATP",
+            "en": "ATP Handle with Quick Coupling"
+          },
+          "sourcePages": [
+            369
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-369-07.webp",
+          "width": 970,
+          "height": 174,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              453,
+              57
+            ],
+            "enhancedSize": [
+              906,
+              114
+            ]
+          },
+          "imageCaption": {
+            "ru": "Протектор замыкательной пластинки ATP, левый",
+            "en": "ATP End Plate Protector, left"
+          },
+          "sourcePages": [
+            369
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-369-08.webp",
+          "width": 962,
+          "height": 172,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              449,
+              55
+            ],
+            "enhancedSize": [
+              898,
+              110
+            ]
+          },
+          "imageCaption": {
+            "ru": "Протектор замыкательной пластинки ATP, правый",
+            "en": "ATP End Plate Protector, right"
+          },
+          "sourcePages": [
+            369
+          ]
+        }
+      ],
+      "sourcePage": 369,
+      "sourcePages": [
+        369
+      ],
+      "printedPage": 367,
+      "catalogNumberTable": true
+    },
+    {
+      "id": "spine-set-113739600-p370",
+      "groupId": "spine-set-113739600-p370",
+      "title": {
+        "ru": "Инструменты · стр. 368",
+        "en": "Instruments · p. 368"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Скользящий молоток ATP",
+            "en": "ATP Slide Hammer"
+          },
+          "113737720"
+        ],
+        [
+          {
+            "ru": "Разборный держатель импланта ATP, для кейджа",
+            "en": "ATP Detachable Implant Holder, for cage"
+          },
+          "113739710"
+        ],
+        [
+          {
+            "ru": "Стержень разборного держателя импланта ATP",
+            "en": "ATP Detachable Implant Holder Shaft"
+          },
+          "113739720"
+        ],
+        [
+          {
+            "ru": "Контейнер инструментов — ATP",
+            "en": "ATP Instrument Case"
+          },
+          "113739410"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 370,
+          "printedPage": 368,
+          "bounds": [
+            0.11132437619961612,
+            0.14687282332224613,
+            0.56,
+            0.19883584425748385
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.14687282332224613,
+            0.56,
+            0.19883584425748385
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.14987282332224613,
+            0.19687414313134083,
+            0.159655644687928
+          ],
+          "sourceRowId": "370-01",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p370",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 370,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113737720",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.14987282332224613,
+                    0.19687414313134083,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113737720",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.14987282332224613,
+                    0.19687414313134083,
+                    0.159655644687928
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113737720",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.14987282332224613,
+                    0.19687414313134083,
+                    0.159655644687928
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Slide Hammer",
+            "PSM11": "ATP Slide Hammer at",
+            "Vision": "ATP Slide Hammer"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 370,
+          "printedPage": 368,
+          "bounds": [
+            0.11132437619961612,
+            0.23491821561338289,
+            0.56,
+            0.2870279788691058
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.23491821561338289,
+            0.56,
+            0.2870279788691058
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.2379182156133829,
+            0.19687414313134083,
+            0.2478966934063784
+          ],
+          "sourceRowId": "370-02",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p370",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 370,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113739710",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.2379182156133829,
+                    0.19687414313134083,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113739710",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.2379182156133829,
+                    0.19687414313134083,
+                    0.2478966934063784
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113739710",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.2379182156133829,
+                    0.19687414313134083,
+                    0.2478966934063784
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Detachable Implant Holder, for cage",
+            "PSM11": "eee OES \"i ATP Detachable Implant Holder, for cage",
+            "Vision": "ATP Detachable Implant Holder, for cage"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 370,
+          "printedPage": 368,
+          "bounds": [
+            0.11132437619961612,
+            0.3231592643318333,
+            0.56,
+            0.3752690275875562
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.3231592643318333,
+            0.56,
+            0.3752690275875562
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.3261592643318333,
+            0.19687414313134083,
+            0.3361377421248288
+          ],
+          "sourceRowId": "370-03",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p370",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 370,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113739720",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.3261592643318333,
+                    0.19687414313134083,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113739720",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.3261592643318333,
+                    0.19687414313134083,
+                    0.3361377421248288
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113739720",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.3261592643318333,
+                    0.19687414313134083,
+                    0.3361377421248288
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Detachable Implant Holder Shaft",
+            "PSM11": "ATP Detachable Implant Holder Shaft",
+            "Vision": "ATP Detachable Implant Holder Shaft"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        },
+        {
+          "pdfPage": 370,
+          "printedPage": 368,
+          "bounds": [
+            0.11132437619961612,
+            0.4114003130502837,
+            0.56,
+            0.47937879084327917
+          ],
+          "sourceBounds": [
+            0.11132437619961612,
+            0.4114003130502837,
+            0.56,
+            0.47937879084327917
+          ],
+          "codeBounds": [
+            0.11132437619961612,
+            0.4144003130502837,
+            0.19687414313134083,
+            0.4243787908432792
+          ],
+          "sourceRowId": "370-04",
+          "codeEvidence": [
+            {
+              "tableId": "spine-set-113739600-p370",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 370,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "113739410",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.4144003130502837,
+                    0.19687414313134083,
+                    0.4243787908432792
+                  ]
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "113739410",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.4144003130502837,
+                    0.19687414313134083,
+                    0.4243787908432792
+                  ]
+                },
+                {
+                  "reader": "Vision",
+                  "text": "113739410",
+                  "bounds": [
+                    0.11132437619961612,
+                    0.4144003130502837,
+                    0.19687414313134083,
+                    0.4243787908432792
+                  ]
+                }
+              ],
+              "verificationStatus": "verified (three independent reads compared; at least two agree exactly)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "ATP Instrument Case",
+            "PSM11": "ATP Instrument Case",
+            "Vision": "ATP Instrument Case"
+          },
+          "descriptionVerification": "Independent source readers; typography normalized, raw readings retained"
+        }
+      ],
+      "rowImages": [
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-370-01.webp",
+          "width": 922,
+          "height": 194,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              429,
+              67
+            ],
+            "enhancedSize": [
+              858,
+              134
+            ]
+          },
+          "imageCaption": {
+            "ru": "Скользящий молоток ATP",
+            "en": "ATP Slide Hammer"
+          },
+          "sourcePages": [
+            370
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-370-02.webp",
+          "width": 908,
+          "height": 458,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              424,
+              198
+            ],
+            "enhancedSize": [
+              848,
+              396
+            ]
+          },
+          "imageCaption": {
+            "ru": "Разборный держатель импланта ATP, для кейджа",
+            "en": "ATP Detachable Implant Holder, for cage"
+          },
+          "sourcePages": [
+            370
+          ]
+        },
+        {
+          "src": "/images/products/double-medical/spine-instruments/art-370-03.webp",
+          "width": 984,
+          "height": 141,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              460,
+              42
+            ],
+            "enhancedSize": [
+              920,
+              84
+            ]
+          },
+          "imageCaption": {
+            "ru": "Стержень разборного держателя импланта ATP",
+            "en": "ATP Detachable Implant Holder Shaft"
+          },
+          "sourcePages": [
+            370
+          ]
+        },
+        null
+      ],
+      "sourcePage": 370,
+      "sourcePages": [
+        370
+      ],
+      "printedPage": 368,
+      "catalogNumberTable": true
+    }
+  ],
+  "referenceTables": [],
+  "refCodes": [
+    "113739600",
+    "113737460",
+    "113737470",
+    "113737480",
+    "113737490",
+    "113737500",
+    "113737510",
+    "113737520",
+    "113737530",
+    "113737540",
+    "113737550",
+    "113737560",
+    "113737570",
+    "113737580",
+    "113737590",
+    "113737600",
+    "113737610",
+    "113737620",
+    "113737630",
+    "113737640",
+    "113737650",
+    "113737680",
+    "113737690",
+    "113737700",
+    "113737710",
+    "113737720",
+    "113739710",
+    "113739720",
+    "113739410"
+  ],
+  "sourcePages": [
+    367,
+    368,
+    369,
+    370
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Spine Catalogue — каталог продукции",
+    "en": "Double Medical Spine Catalogue — product catalog"
+  },
+  "documentCover": "/catalogs/double-medical/spine-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "relatedSystemSlugs": [
+    "olif-system"
+  ],
+  "relatedRelationship": "Clinical family/context; no additional compatibility claim",
+  "imageDimensions": {
+    "/images/products/double-medical/spine-instruments/art-367-01.webp": {
+      "width": 990,
+      "height": 218
+    },
+    "/images/products/double-medical/spine-instruments/art-367-02.webp": {
+      "width": 996,
+      "height": 211
+    },
+    "/images/products/double-medical/spine-instruments/art-367-03.webp": {
+      "width": 980,
+      "height": 248
+    },
+    "/images/products/double-medical/spine-instruments/art-367-04.webp": {
+      "width": 990,
+      "height": 222
+    },
+    "/images/products/double-medical/spine-instruments/art-367-05.webp": {
+      "width": 984,
+      "height": 205
+    },
+    "/images/products/double-medical/spine-instruments/art-367-06.webp": {
+      "width": 1000,
+      "height": 213
+    },
+    "/images/products/double-medical/spine-instruments/art-367-07.webp": {
+      "width": 990,
+      "height": 212
+    },
+    "/images/products/double-medical/spine-instruments/art-367-08.webp": {
+      "width": 930,
+      "height": 198
+    },
+    "/images/products/double-medical/spine-instruments/art-368-01.webp": {
+      "width": 926,
+      "height": 198
+    },
+    "/images/products/double-medical/spine-instruments/art-368-02.webp": {
+      "width": 926,
+      "height": 198
+    },
+    "/images/products/double-medical/spine-instruments/art-368-03.webp": {
+      "width": 926,
+      "height": 200
+    },
+    "/images/products/double-medical/spine-instruments/art-368-04.webp": {
+      "width": 928,
+      "height": 202
+    },
+    "/images/products/double-medical/spine-instruments/art-368-05.webp": {
+      "width": 926,
+      "height": 198
+    },
+    "/images/products/double-medical/spine-instruments/art-368-06.webp": {
+      "width": 926,
+      "height": 197
+    },
+    "/images/products/double-medical/spine-instruments/art-368-07.webp": {
+      "width": 900,
+      "height": 198
+    },
+    "/images/products/double-medical/spine-instruments/art-368-08.webp": {
+      "width": 897,
+      "height": 176
+    },
+    "/images/products/double-medical/spine-instruments/art-369-01.webp": {
+      "width": 900,
+      "height": 198
+    },
+    "/images/products/double-medical/spine-instruments/art-369-02.webp": {
+      "width": 902,
+      "height": 193
+    },
+    "/images/products/double-medical/spine-instruments/art-369-03.webp": {
+      "width": 900,
+      "height": 205
+    },
+    "/images/products/double-medical/spine-instruments/art-369-04.webp": {
+      "width": 902,
+      "height": 198
+    },
+    "/images/products/double-medical/spine-instruments/art-369-05.webp": {
+      "width": 930,
+      "height": 144
+    },
+    "/images/products/double-medical/spine-instruments/art-369-06.webp": {
+      "width": 826,
+      "height": 391
+    },
+    "/images/products/double-medical/spine-instruments/art-369-07.webp": {
+      "width": 970,
+      "height": 174
+    },
+    "/images/products/double-medical/spine-instruments/art-369-08.webp": {
+      "width": 962,
+      "height": 172
+    },
+    "/images/products/double-medical/spine-instruments/art-370-01.webp": {
+      "width": 922,
+      "height": 194
+    },
+    "/images/products/double-medical/spine-instruments/art-370-02.webp": {
+      "width": 908,
+      "height": 458
+    },
+    "/images/products/double-medical/spine-instruments/art-370-03.webp": {
+      "width": 984,
+      "height": 141
+    }
+  },
+  "sourcePdf": "/catalogs/double-medical/spine-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/spine-catalogue/pages/367.webp",
+    "/catalogs/double-medical/spine-catalogue/pages/368.webp",
+    "/catalogs/double-medical/spine-catalogue/pages/369.webp",
+    "/catalogs/double-medical/spine-catalogue/pages/370.webp"
+  ],
+  "sourcePageDimensions": {
+    "210": {
+      "width": 3647,
+      "height": 5111
+    },
+    "211": {
+      "width": 3647,
+      "height": 5111
+    },
+    "212": {
+      "width": 3647,
+      "height": 5111
+    },
+    "213": {
+      "width": 3647,
+      "height": 5111
+    },
+    "214": {
+      "width": 3647,
+      "height": 5111
+    },
+    "215": {
+      "width": 3647,
+      "height": 5111
+    },
+    "216": {
+      "width": 3647,
+      "height": 5111
+    },
+    "217": {
+      "width": 3647,
+      "height": 5111
+    },
+    "218": {
+      "width": 3647,
+      "height": 5111
+    },
+    "219": {
+      "width": 3647,
+      "height": 5111
+    },
+    "220": {
+      "width": 3647,
+      "height": 5111
+    },
+    "221": {
+      "width": 3647,
+      "height": 5111
+    },
+    "222": {
+      "width": 3647,
+      "height": 5111
+    },
+    "223": {
+      "width": 3647,
+      "height": 5111
+    },
+    "224": {
+      "width": 3647,
+      "height": 5111
+    },
+    "225": {
+      "width": 3647,
+      "height": 5111
+    },
+    "226": {
+      "width": 3647,
+      "height": 5111
+    },
+    "227": {
+      "width": 3647,
+      "height": 5111
+    },
+    "228": {
+      "width": 3647,
+      "height": 5111
+    },
+    "229": {
+      "width": 3647,
+      "height": 5111
+    },
+    "230": {
+      "width": 3647,
+      "height": 5111
+    },
+    "231": {
+      "width": 3647,
+      "height": 5111
+    },
+    "232": {
+      "width": 3647,
+      "height": 5111
+    },
+    "233": {
+      "width": 3647,
+      "height": 5111
+    },
+    "234": {
+      "width": 3647,
+      "height": 5111
+    },
+    "235": {
+      "width": 3647,
+      "height": 5111
+    },
+    "236": {
+      "width": 3647,
+      "height": 5111
+    },
+    "237": {
+      "width": 3647,
+      "height": 5111
+    },
+    "238": {
+      "width": 3647,
+      "height": 5111
+    },
+    "239": {
+      "width": 3647,
+      "height": 5111
+    },
+    "240": {
+      "width": 3647,
+      "height": 5111
+    },
+    "241": {
+      "width": 3647,
+      "height": 5111
+    },
+    "242": {
+      "width": 3647,
+      "height": 5111
+    },
+    "243": {
+      "width": 3647,
+      "height": 5111
+    },
+    "244": {
+      "width": 3647,
+      "height": 5111
+    },
+    "245": {
+      "width": 3647,
+      "height": 5111
+    },
+    "246": {
+      "width": 3647,
+      "height": 5111
+    },
+    "247": {
+      "width": 3647,
+      "height": 5111
+    },
+    "248": {
+      "width": 3647,
+      "height": 5111
+    },
+    "249": {
+      "width": 3647,
+      "height": 5111
+    },
+    "250": {
+      "width": 3647,
+      "height": 5111
+    },
+    "251": {
+      "width": 3647,
+      "height": 5111
+    },
+    "252": {
+      "width": 3647,
+      "height": 5111
+    },
+    "253": {
+      "width": 3647,
+      "height": 5111
+    },
+    "254": {
+      "width": 3647,
+      "height": 5111
+    },
+    "255": {
+      "width": 3647,
+      "height": 5111
+    },
+    "256": {
+      "width": 3647,
+      "height": 5111
+    },
+    "257": {
+      "width": 3647,
+      "height": 5111
+    },
+    "258": {
+      "width": 3647,
+      "height": 5111
+    },
+    "259": {
+      "width": 3647,
+      "height": 5111
+    },
+    "260": {
+      "width": 3647,
+      "height": 5111
+    },
+    "261": {
+      "width": 3647,
+      "height": 5111
+    },
+    "262": {
+      "width": 3647,
+      "height": 5111
+    },
+    "263": {
+      "width": 3647,
+      "height": 5111
+    },
+    "264": {
+      "width": 3647,
+      "height": 5111
+    },
+    "265": {
+      "width": 3647,
+      "height": 5111
+    },
+    "266": {
+      "width": 3647,
+      "height": 5111
+    },
+    "267": {
+      "width": 3647,
+      "height": 5111
+    },
+    "268": {
+      "width": 3647,
+      "height": 5111
+    },
+    "269": {
+      "width": 3647,
+      "height": 5111
+    },
+    "270": {
+      "width": 3647,
+      "height": 5111
+    },
+    "271": {
+      "width": 3647,
+      "height": 5111
+    },
+    "272": {
+      "width": 3647,
+      "height": 5111
+    },
+    "273": {
+      "width": 3647,
+      "height": 5111
+    },
+    "274": {
+      "width": 3647,
+      "height": 5111
+    },
+    "275": {
+      "width": 3647,
+      "height": 5111
+    },
+    "276": {
+      "width": 3647,
+      "height": 5111
+    },
+    "277": {
+      "width": 3647,
+      "height": 5111
+    },
+    "278": {
+      "width": 3647,
+      "height": 5111
+    },
+    "279": {
+      "width": 3647,
+      "height": 5111
+    },
+    "280": {
+      "width": 3647,
+      "height": 5111
+    },
+    "281": {
+      "width": 3647,
+      "height": 5111
+    },
+    "282": {
+      "width": 3647,
+      "height": 5111
+    },
+    "283": {
+      "width": 3647,
+      "height": 5111
+    },
+    "284": {
+      "width": 3647,
+      "height": 5111
+    },
+    "285": {
+      "width": 3647,
+      "height": 5111
+    },
+    "286": {
+      "width": 3647,
+      "height": 5111
+    },
+    "287": {
+      "width": 3647,
+      "height": 5111
+    },
+    "288": {
+      "width": 3647,
+      "height": 5111
+    },
+    "289": {
+      "width": 3647,
+      "height": 5111
+    },
+    "290": {
+      "width": 3647,
+      "height": 5111
+    },
+    "291": {
+      "width": 3647,
+      "height": 5111
+    },
+    "292": {
+      "width": 3647,
+      "height": 5111
+    },
+    "293": {
+      "width": 3647,
+      "height": 5111
+    },
+    "294": {
+      "width": 3647,
+      "height": 5111
+    },
+    "295": {
+      "width": 3647,
+      "height": 5111
+    },
+    "296": {
+      "width": 3647,
+      "height": 5111
+    },
+    "297": {
+      "width": 3647,
+      "height": 5111
+    },
+    "298": {
+      "width": 3647,
+      "height": 5111
+    },
+    "299": {
+      "width": 3647,
+      "height": 5111
+    },
+    "300": {
+      "width": 3647,
+      "height": 5111
+    },
+    "301": {
+      "width": 3647,
+      "height": 5111
+    },
+    "302": {
+      "width": 3647,
+      "height": 5111
+    },
+    "303": {
+      "width": 3647,
+      "height": 5111
+    },
+    "304": {
+      "width": 3647,
+      "height": 5111
+    },
+    "305": {
+      "width": 3647,
+      "height": 5111
+    },
+    "306": {
+      "width": 3647,
+      "height": 5111
+    },
+    "307": {
+      "width": 3647,
+      "height": 5111
+    },
+    "308": {
+      "width": 3647,
+      "height": 5111
+    },
+    "309": {
+      "width": 3647,
+      "height": 5111
+    },
+    "310": {
+      "width": 3647,
+      "height": 5111
+    },
+    "311": {
+      "width": 3647,
+      "height": 5111
+    },
+    "312": {
+      "width": 3647,
+      "height": 5111
+    },
+    "313": {
+      "width": 3647,
+      "height": 5111
+    },
+    "314": {
+      "width": 3647,
+      "height": 5111
+    },
+    "315": {
+      "width": 3647,
+      "height": 5111
+    },
+    "316": {
+      "width": 3647,
+      "height": 5111
+    },
+    "317": {
+      "width": 3647,
+      "height": 5111
+    },
+    "318": {
+      "width": 3647,
+      "height": 5111
+    },
+    "319": {
+      "width": 3647,
+      "height": 5111
+    },
+    "320": {
+      "width": 3647,
+      "height": 5111
+    },
+    "321": {
+      "width": 3647,
+      "height": 5111
+    },
+    "322": {
+      "width": 3647,
+      "height": 5111
+    },
+    "323": {
+      "width": 3647,
+      "height": 5111
+    },
+    "324": {
+      "width": 3647,
+      "height": 5111
+    },
+    "325": {
+      "width": 3647,
+      "height": 5111
+    },
+    "326": {
+      "width": 3647,
+      "height": 5111
+    },
+    "327": {
+      "width": 3647,
+      "height": 5111
+    },
+    "328": {
+      "width": 3647,
+      "height": 5111
+    },
+    "329": {
+      "width": 3647,
+      "height": 5111
+    },
+    "330": {
+      "width": 3647,
+      "height": 5111
+    },
+    "331": {
+      "width": 3647,
+      "height": 5111
+    },
+    "332": {
+      "width": 3647,
+      "height": 5111
+    },
+    "333": {
+      "width": 3647,
+      "height": 5111
+    },
+    "334": {
+      "width": 3647,
+      "height": 5111
+    },
+    "335": {
+      "width": 3647,
+      "height": 5111
+    },
+    "336": {
+      "width": 3647,
+      "height": 5111
+    },
+    "337": {
+      "width": 3647,
+      "height": 5111
+    },
+    "338": {
+      "width": 3647,
+      "height": 5111
+    },
+    "339": {
+      "width": 3647,
+      "height": 5111
+    },
+    "340": {
+      "width": 3647,
+      "height": 5111
+    },
+    "341": {
+      "width": 3647,
+      "height": 5111
+    },
+    "342": {
+      "width": 3647,
+      "height": 5111
+    },
+    "343": {
+      "width": 3647,
+      "height": 5111
+    },
+    "344": {
+      "width": 3647,
+      "height": 5111
+    },
+    "345": {
+      "width": 3647,
+      "height": 5111
+    },
+    "346": {
+      "width": 3647,
+      "height": 5111
+    },
+    "347": {
+      "width": 3647,
+      "height": 5111
+    },
+    "348": {
+      "width": 3647,
+      "height": 5111
+    },
+    "349": {
+      "width": 3647,
+      "height": 5111
+    },
+    "350": {
+      "width": 3647,
+      "height": 5111
+    },
+    "351": {
+      "width": 3647,
+      "height": 5111
+    },
+    "352": {
+      "width": 3647,
+      "height": 5111
+    },
+    "353": {
+      "width": 3647,
+      "height": 5111
+    },
+    "354": {
+      "width": 3647,
+      "height": 5111
+    },
+    "355": {
+      "width": 3647,
+      "height": 5111
+    },
+    "356": {
+      "width": 3647,
+      "height": 5111
+    },
+    "357": {
+      "width": 3647,
+      "height": 5111
+    },
+    "358": {
+      "width": 3647,
+      "height": 5111
+    },
+    "359": {
+      "width": 3647,
+      "height": 5111
+    },
+    "360": {
+      "width": 3647,
+      "height": 5111
+    },
+    "361": {
+      "width": 3647,
+      "height": 5111
+    },
+    "362": {
+      "width": 3647,
+      "height": 5111
+    },
+    "363": {
+      "width": 3647,
+      "height": 5111
+    },
+    "364": {
+      "width": 3647,
+      "height": 5111
+    },
+    "365": {
+      "width": 3647,
+      "height": 5111
+    },
+    "366": {
+      "width": 3647,
+      "height": 5111
+    },
+    "367": {
+      "width": 3647,
+      "height": 5111
+    },
+    "368": {
+      "width": 3647,
+      "height": 5111
+    },
+    "369": {
+      "width": 3647,
+      "height": 5111
+    },
+    "370": {
+      "width": 3647,
+      "height": 5111
+    },
+    "371": {
+      "width": 3647,
+      "height": 5111
+    },
+    "372": {
+      "width": 3647,
+      "height": 5111
+    },
+    "373": {
+      "width": 3647,
+      "height": 5111
+    },
+    "374": {
+      "width": 3647,
+      "height": 5111
+    },
+    "375": {
+      "width": 3647,
+      "height": 5111
+    },
+    "376": {
+      "width": 3647,
+      "height": 5111
+    },
+    "377": {
+      "width": 3647,
+      "height": 5111
+    },
+    "378": {
+      "width": 3647,
+      "height": 5111
+    },
+    "379": {
+      "width": 3647,
+      "height": 5111
+    },
+    "380": {
+      "width": 3647,
+      "height": 5111
+    },
+    "381": {
+      "width": 3647,
+      "height": 5111
+    },
+    "382": {
+      "width": 3647,
+      "height": 5111
+    },
+    "383": {
+      "width": 3647,
+      "height": 5111
+    },
+    "384": {
+      "width": 3647,
+      "height": 5111
+    },
+    "385": {
+      "width": 3647,
+      "height": 5111
+    },
+    "386": {
+      "width": 3647,
+      "height": 5111
+    },
+    "387": {
+      "width": 3647,
+      "height": 5111
+    },
+    "388": {
+      "width": 3647,
+      "height": 5111
+    },
+    "389": {
+      "width": 3647,
+      "height": 5111
+    },
+    "390": {
+      "width": 3647,
+      "height": 5111
+    },
+    "391": {
+      "width": 3647,
+      "height": 5111
+    },
+    "392": {
+      "width": 3647,
+      "height": 5111
+    },
+    "393": {
+      "width": 3647,
+      "height": 5111
+    },
+    "394": {
+      "width": 3647,
+      "height": 5111
+    },
+    "395": {
+      "width": 3647,
+      "height": 5111
+    },
+    "396": {
+      "width": 3647,
+      "height": 5111
+    },
+    "397": {
+      "width": 3647,
+      "height": 5111
+    },
+    "398": {
+      "width": 3647,
+      "height": 5111
+    },
+    "399": {
+      "width": 3647,
+      "height": 5111
+    },
+    "400": {
+      "width": 3647,
+      "height": 5111
+    },
+    "401": {
+      "width": 3647,
+      "height": 5111
+    },
+    "402": {
+      "width": 3647,
+      "height": 5111
+    },
+    "403": {
+      "width": 3647,
+      "height": 5111
+    },
+    "404": {
+      "width": 3647,
+      "height": 5111
+    },
+    "405": {
+      "width": 3647,
+      "height": 5111
+    },
+    "406": {
+      "width": 3647,
+      "height": 5111
+    },
+    "407": {
+      "width": 3647,
+      "height": 5111
+    },
+    "408": {
+      "width": 3647,
+      "height": 5111
+    },
+    "409": {
+      "width": 3647,
+      "height": 5111
+    },
+    "410": {
+      "width": 3647,
+      "height": 5111
+    },
+    "411": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "d32e99d5106ebd5f18a76a32ff19d64da74f9ef96cc60ca536c0a533e630cb9c",
+    "importMethod": "600-DPI Tesseract PSM3 + PSM11 + independent Apple Vision accurate; exact REF agreement; Codex-authored RU medical terminology; native photo composites, Real-ESRGAN 2x before rembg",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      412
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "gallery.1.imageCaption.ru",
+      "gallery.2.imageCaption.ru",
+      "gallery.3.imageCaption.ru",
+      "gallery.4.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.rows.3.0.ru",
+      "specTables.0.rows.4.0.ru",
+      "specTables.0.rows.5.0.ru",
+      "specTables.0.rows.6.0.ru",
+      "specTables.0.rows.7.0.ru",
+      "specTables.0.rowImages.0.imageCaption.ru",
+      "specTables.0.rowImages.1.imageCaption.ru",
+      "specTables.0.rowImages.2.imageCaption.ru",
+      "specTables.0.rowImages.3.imageCaption.ru",
+      "specTables.0.rowImages.4.imageCaption.ru",
+      "specTables.0.rowImages.5.imageCaption.ru",
+      "specTables.0.rowImages.6.imageCaption.ru",
+      "specTables.0.rowImages.7.imageCaption.ru",
+      "specTables.1.title.ru",
+      "specTables.1.columns.0.ru",
+      "specTables.1.columns.1.ru",
+      "specTables.1.rows.0.0.ru",
+      "specTables.1.rows.1.0.ru",
+      "specTables.1.rows.2.0.ru",
+      "specTables.1.rows.3.0.ru",
+      "specTables.1.rows.4.0.ru",
+      "specTables.1.rows.5.0.ru",
+      "specTables.1.rows.6.0.ru",
+      "specTables.1.rows.7.0.ru",
+      "specTables.1.rowImages.0.imageCaption.ru",
+      "specTables.1.rowImages.1.imageCaption.ru",
+      "specTables.1.rowImages.2.imageCaption.ru",
+      "specTables.1.rowImages.3.imageCaption.ru",
+      "specTables.1.rowImages.4.imageCaption.ru",
+      "specTables.1.rowImages.5.imageCaption.ru",
+      "specTables.1.rowImages.6.imageCaption.ru",
+      "specTables.1.rowImages.7.imageCaption.ru",
+      "specTables.2.title.ru",
+      "specTables.2.columns.0.ru",
+      "specTables.2.columns.1.ru",
+      "specTables.2.rows.0.0.ru",
+      "specTables.2.rows.1.0.ru",
+      "specTables.2.rows.2.0.ru",
+      "specTables.2.rows.3.0.ru",
+      "specTables.2.rows.4.0.ru",
+      "specTables.2.rows.5.0.ru",
+      "specTables.2.rows.6.0.ru",
+      "specTables.2.rows.7.0.ru",
+      "specTables.2.rowImages.0.imageCaption.ru",
+      "specTables.2.rowImages.1.imageCaption.ru",
+      "specTables.2.rowImages.2.imageCaption.ru",
+      "specTables.2.rowImages.3.imageCaption.ru",
+      "specTables.2.rowImages.4.imageCaption.ru",
+      "specTables.2.rowImages.5.imageCaption.ru",
+      "specTables.2.rowImages.6.imageCaption.ru",
+      "specTables.2.rowImages.7.imageCaption.ru",
+      "specTables.3.title.ru",
+      "specTables.3.columns.0.ru",
+      "specTables.3.columns.1.ru",
+      "specTables.3.rows.0.0.ru",
+      "specTables.3.rows.1.0.ru",
+      "specTables.3.rows.2.0.ru",
+      "specTables.3.rows.3.0.ru",
+      "specTables.3.rowImages.0.imageCaption.ru",
+      "specTables.3.rowImages.1.imageCaption.ru",
+      "specTables.3.rowImages.2.imageCaption.ru",
+      "catalogTitle.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Published automatically under owner instruction: no open real source flags"
+  },
+  "publishedAt": "2026-11-19T23:53:18.016141+00:00"
+}

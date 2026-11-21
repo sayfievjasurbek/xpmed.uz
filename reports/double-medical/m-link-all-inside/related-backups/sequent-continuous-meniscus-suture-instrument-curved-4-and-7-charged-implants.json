@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "slug": "sequent-continuous-meniscus-suture-instrument-curved-4-and-7-charged-implants",
+  "brand": "conmed",
+  "category": "sports-medicine",
+  "subcategory": "knee",
+  "specialty": [
+    "sports",
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Инструмент Sequent",
+    "en": "Sequent instrument"
+  },
+  "shortDescription": {
+    "ru": "Восстановление мениска",
+    "en": "Meniscal repair"
+  },
+  "description": {
+    "ru": "Инструмент для восстановления мениска Sequent™ представляет собой систему с несколькими имплантами из PEEK. Она позволяет независимо натягивать и фиксировать швы в любой конфигурации. Технология обеспечивает простую технику реконструкции мениска с потенциальной возможностью более быстрого восстановления и снижения риска повреждения мениска и суставного хряща.\n\nМалые, средние и большие разрывы мениска можно восстанавливать с использованием трёх или шести непрерывных швов. Предусмотрены две конфигурации инструмента, позволяющие выбрать вариант для восстановления практически любого разрыва мениска. На исходной странице указан изогнутый инструмент с 4 или 7 предварительно заряженными имплантами.",
+    "en": "The Sequent™ Meniscus Repair Instrument is a multi-implant system made from PEEK. It allows individually tensioned and fixed stitches in any configuration. The technology provides a simple meniscus reconstruction technique with the potential for faster recovery and reduced risk of meniscal and cartilage injury.\n\nSmall, medium and large meniscal tears can be repaired using three or six continuous stitches. Two instrument configurations allow surgeons to select the appropriate instrument for virtually any meniscal tear. The original page specifies a curved instrument with 4 or 7 preloaded implants."
+  },
+  "heroImage": "/images/products/conmed/sequent-continuous-meniscus-suture-instrument-curved-4-and-7-charged-implants/sequent.webp",
+  "imageType": "cutout",
+  "gallery": [
+    "/images/products/conmed/sequent-continuous-meniscus-suture-instrument-curved-4-and-7-charged-implants/sequent.webp"
+  ],
+  "features": [],
+  "hotspots": [],
+  "components": [
+    {
+      "id": "sequent",
+      "name": {
+        "ru": "Инструмент Sequent",
+        "en": "Sequent instrument"
+      },
+      "image": "/images/products/conmed/sequent-continuous-meniscus-suture-instrument-curved-4-and-7-charged-implants/sequent.webp",
+      "refCodes": [],
+      "sizes": [],
+      "variants": [],
+      "legacyDocuments": [
+        {
+          "type": "product-page",
+          "ru": "https://xpmed.uz/product/conmed/kolennyj-sustav/instrument-dlya-nepreryvnogo-shva-meniska-sequent-izognutyj-4-i-7-zaryazhennyh-implanta/",
+          "en": "https://xpmed.uz/product/conmed-en/knee-joint/sequent-continuous-meniscus-suture-instrument-curved-4-and-7-charged-implants/"
+        }
+      ]
+    }
+  ],
+  "specTables": [
+    {
+      "id": "legacy-sequent-characteristics",
+      "title": {
+        "ru": "Характеристики Sequent",
+        "en": "Sequent characteristics"
+      },
+      "unit": null,
+      "columns": [
+        {
+          "ru": "Параметр",
+          "en": "Parameter"
+        },
+        {
+          "ru": "Значение",
+          "en": "Value"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Материал имплантов",
+            "en": "Implant material"
+          },
+          "PEEK"
+        ],
+        [
+          {
+            "ru": "Форма инструмента",
+            "en": "Instrument shape"
+          },
+          {
+            "ru": "Изогнутый",
+            "en": "Curved"
+          }
+        ],
+        [
+          {
+            "ru": "Предварительно заряженные импланты",
+            "en": "Preloaded implants"
+          },
+          [
+            "4",
+            "7"
+          ]
+        ],
+        [
+          {
+            "ru": "Непрерывные швы",
+            "en": "Continuous stitches"
+          },
+          [
+            "3",
+            "6"
+          ]
+        ]
+      ],
+      "legend": null,
+      "headerType": "parameter-values"
+    }
+  ],
+  "refCodes": [],
+  "sourcePdf": null,
+  "sourcePages": [],
+  "catalogEdition": null,
+  "isNew": false,
+  "status": "published",
+  "legacyId": "sequent",
+  "legacyBrand": "conmed",
+  "review": {
+    "flags": [],
+    "notes": [
+      "Migrated existing catalog content; no additional dimensions or reference codes inferred.",
+      "Full descriptions and source-supported characteristics imported from original XPMED RU/EN pages on 2026-11-18. Medical terminology and grammar normalized; no dimensions or REF codes inferred."
+    ]
+  },
+  "imageDimensions": {
+    "/images/products/conmed/sequent-continuous-meniscus-suture-instrument-curved-4-and-7-charged-implants/sequent.webp": {
+      "width": 640,
+      "height": 640
+    }
+  },
+  "subcategories": [
+    "knee"
+  ],
+  "legacySources": [
+    {
+      "productId": "sequent",
+      "language": "ru",
+      "url": "https://xpmed.uz/product/conmed/kolennyj-sustav/instrument-dlya-nepreryvnogo-shva-meniska-sequent-izognutyj-4-i-7-zaryazhennyh-implanta/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    },
+    {
+      "productId": "sequent",
+      "language": "en",
+      "url": "https://xpmed.uz/product/conmed-en/knee-joint/sequent-continuous-meniscus-suture-instrument-curved-4-and-7-charged-implants/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    }
+  ]
+}

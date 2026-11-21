@@ -1,0 +1,1085 @@
+{
+  "slug": "cpt-cemented-hip-stem",
+  "brand": "double-medical",
+  "category": "joint-replacement",
+  "subcategory": "hip",
+  "specialty": [
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Цементная бедренная ножка CPT",
+    "en": "CPT Cemented Hip Stem"
+  },
+  "catalogType": "system",
+  "shortDescription": {
+    "ru": "Компоненты для эндопротезирования",
+    "en": "Joint replacement components"
+  },
+  "description": {
+    "ru": "Цементная бедренная ножка CPT. Материалы и доступные исполнения приведены в таблицах каталожных номеров.",
+    "en": "CPT Cemented Hip Stem. Materials and available configurations are listed in the reference tables."
+  },
+  "heroImage": "/images/products/double-medical/joint-catalogue/cpt-cemented-stem-complete.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "src": "/images/products/double-medical/joint-catalogue/cpt-cemented-stem-complete.webp",
+      "width": 260,
+      "height": 580,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "PDF mask/blend compositing at 150 DPI, Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          99,
+          258
+        ],
+        "enhancedSize": [
+          198,
+          516
+        ]
+      },
+      "sourcePages": [
+        7
+      ],
+      "imageCaption": {
+        "ru": "Цементная бедренная ножка CPT",
+        "en": "CPT Cemented Hip Stem"
+      }
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [],
+  "referenceTables": [
+    {
+      "id": "joint-cpt-cemented-hip-stem-p7-1",
+      "title": {
+        "ru": "Цементная бедренная ножка CPT",
+        "en": "CPT Cemented Hip Stem"
+      },
+      "unit": "mm",
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Размер / Длина",
+          "en": "Size / Length"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Цементная бедренная ножка CPT · 0 / 120",
+            "en": "CPT Cemented Hip Stem · 0 / 120"
+          },
+          "130090000S",
+          {
+            "ru": "0 / 120",
+            "en": "0 / 120"
+          }
+        ],
+        [
+          {
+            "ru": "Цементная бедренная ножка CPT · 1 / 135",
+            "en": "CPT Cemented Hip Stem · 1 / 135"
+          },
+          "130100001S",
+          {
+            "ru": "1 / 135",
+            "en": "1 / 135"
+          }
+        ],
+        [
+          {
+            "ru": "Цементная бедренная ножка CPT · 2 / 135",
+            "en": "CPT Cemented Hip Stem · 2 / 135"
+          },
+          "130110002S",
+          {
+            "ru": "2 / 135",
+            "en": "2 / 135"
+          }
+        ],
+        [
+          {
+            "ru": "Цементная бедренная ножка CPT · 3 / 135",
+            "en": "CPT Cemented Hip Stem · 3 / 135"
+          },
+          "130120003S",
+          {
+            "ru": "3 / 135",
+            "en": "3 / 135"
+          }
+        ],
+        [
+          {
+            "ru": "Цементная бедренная ножка CPT · 4 / 135",
+            "en": "CPT Cemented Hip Stem · 4 / 135"
+          },
+          "130130004S",
+          {
+            "ru": "4 / 135",
+            "en": "4 / 135"
+          }
+        ],
+        [
+          {
+            "ru": "Цементная бедренная ножка CPT · 5 / 135",
+            "en": "CPT Cemented Hip Stem · 5 / 135"
+          },
+          "130140005S",
+          {
+            "ru": "5 / 135",
+            "en": "5 / 135"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 7,
+          "sourceBounds": [
+            0.14313134082807788,
+            0.2533750733711602,
+            0.6,
+            0.26178829974564666
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-cpt-cemented-hip-stem-p7-1",
+              "row": 1,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130090000S",
+                  "line": "130090000S",
+                  "confidence": 91.334175,
+                  "bounds": [
+                    0.14313134082807788,
+                    0.2533750733711602,
+                    0.236358650945983,
+                    0.26178829974564666
+                  ],
+                  "cy": 0.2575816865584034
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130090000S",
+                  "line": "130090000S",
+                  "confidence": 91.334175,
+                  "bounds": [
+                    0.14313134082807788,
+                    0.2533750733711602,
+                    0.236358650945983,
+                    0.26178829974564666
+                  ],
+                  "cy": 0.2575816865584034
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130090000S",
+                  "line": "130090000S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.138430406483939,
+                    0.252659727812825,
+                    0.2383516694357773,
+                    0.2662356213587326
+                  ],
+                  "cy": 0.2594476745857788
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "120",
+            "PSM11": "120",
+            "Vision": "120"
+          },
+          "itemVerification": "Codex visual full-table comparison at 600 DPI",
+          "bounds": [
+            0.14313134082807788,
+            0.2533750733711602,
+            0.6,
+            0.26178829974564666
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 7,
+          "sourceBounds": [
+            0.14313134082807788,
+            0.265897084719233,
+            0.6,
+            0.27431031109371945
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-cpt-cemented-hip-stem-p7-1",
+              "row": 2,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130100001S",
+                  "line": "130100001S",
+                  "confidence": 89.24115,
+                  "bounds": [
+                    0.14313134082807788,
+                    0.265897084719233,
+                    0.236358650945983,
+                    0.27431031109371945
+                  ],
+                  "cy": 0.27010369790647626
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130100001S",
+                  "line": "130100001S",
+                  "confidence": 89.24115,
+                  "bounds": [
+                    0.14313134082807788,
+                    0.265897084719233,
+                    0.236358650945983,
+                    0.27431031109371945
+                  ],
+                  "cy": 0.27010369790647626
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130100001S",
+                  "line": "130100001S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1404305850144523,
+                    0.26414715741360695,
+                    0.2383881510325204,
+                    0.27800400549455984
+                  ],
+                  "cy": 0.2710755814540834
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "135",
+            "PSM11": "135",
+            "Vision": "1 135"
+          },
+          "itemVerification": "Codex visual full-table comparison at 600 DPI",
+          "bounds": [
+            0.14313134082807788,
+            0.265897084719233,
+            0.6,
+            0.27431031109371945
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 7,
+          "sourceBounds": [
+            0.14313134082807788,
+            0.2782234396399922,
+            0.6,
+            0.2868323224417922
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-cpt-cemented-hip-stem-p7-1",
+              "row": 3,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130110002S",
+                  "line": "130110002S",
+                  "confidence": 89.440506,
+                  "bounds": [
+                    0.14313134082807788,
+                    0.2782234396399922,
+                    0.23553605703317795,
+                    0.2868323224417922
+                  ],
+                  "cy": 0.2825278810408922
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130110002S",
+                  "line": "130110002S",
+                  "confidence": 90.4496,
+                  "bounds": [
+                    0.14313134082807788,
+                    0.2782234396399922,
+                    0.23553605703317795,
+                    0.2868323224417922
+                  ],
+                  "cy": 0.2825278810408922
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130110002S",
+                  "line": "130110002S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13845622303620064,
+                    0.27747234319989067,
+                    0.23832585635360856,
+                    0.2908416101488933
+                  ],
+                  "cy": 0.284156976674392
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "135",
+            "PSM11": "135",
+            "Vision": "2 135"
+          },
+          "itemVerification": "Codex visual full-table comparison at 600 DPI",
+          "bounds": [
+            0.14313134082807788,
+            0.2782234396399922,
+            0.6,
+            0.2868323224417922
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 7,
+          "sourceBounds": [
+            0.14313134082807788,
+            0.290745450988065,
+            0.6,
+            0.29915867736255136
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-cpt-cemented-hip-stem-p7-1",
+              "row": 4,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130120003S",
+                  "line": "130120003S",
+                  "confidence": 89.491577,
+                  "bounds": [
+                    0.14313134082807788,
+                    0.290745450988065,
+                    0.236358650945983,
+                    0.29915867736255136
+                  ],
+                  "cy": 0.29495206417530817
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130120003S",
+                  "line": "130120003S",
+                  "confidence": 89.491577,
+                  "bounds": [
+                    0.14313134082807788,
+                    0.290745450988065,
+                    0.236358650945983,
+                    0.29915867736255136
+                  ],
+                  "cy": 0.29495206417530817
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130120003S",
+                  "line": "130120003S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1384584002754797,
+                    0.2891089109542315,
+                    0.2383236754536905,
+                    0.3024608566042414
+                  ],
+                  "cy": 0.29578488377923645
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "135",
+            "PSM11": "135",
+            "Vision": "3 135"
+          },
+          "itemVerification": "Codex visual full-table comparison at 600 DPI",
+          "bounds": [
+            0.14313134082807788,
+            0.290745450988065,
+            0.6,
+            0.29915867736255136
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 7,
+          "sourceBounds": [
+            0.14313134082807788,
+            0.3032674623361377,
+            0.6,
+            0.31168068871062415
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-cpt-cemented-hip-stem-p7-1",
+              "row": 5,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130130004S",
+                  "line": "130130004S",
+                  "confidence": 90.611115,
+                  "bounds": [
+                    0.14313134082807788,
+                    0.3032674623361377,
+                    0.236358650945983,
+                    0.31168068871062415
+                  ],
+                  "cy": 0.3074740755233809
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130130004S",
+                  "line": "130130004S",
+                  "confidence": 90.611115,
+                  "bounds": [
+                    0.14313134082807788,
+                    0.3032674623361377,
+                    0.236358650945983,
+                    0.31168068871062415
+                  ],
+                  "cy": 0.3074740755233809
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130130004S",
+                  "line": "130130004S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1384202913477464,
+                    0.3020374141942779,
+                    0.23836178624505464,
+                    0.3156951439713567
+                  ],
+                  "cy": 0.3088662790828173
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "135",
+            "PSM11": "135",
+            "Vision": "4 135"
+          },
+          "itemVerification": "Codex visual full-table comparison at 600 DPI",
+          "bounds": [
+            0.14313134082807788,
+            0.3032674623361377,
+            0.6,
+            0.31168068871062415
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 7,
+          "sourceBounds": [
+            0.14313134082807788,
+            0.3155938172568969,
+            0.6,
+            0.32420270005869695
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-cpt-cemented-hip-stem-p7-1",
+              "row": 6,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "130140005S",
+                  "line": "130140005S",
+                  "confidence": 91.430954,
+                  "bounds": [
+                    0.14313134082807788,
+                    0.3155938172568969,
+                    0.236358650945983,
+                    0.32420270005869695
+                  ],
+                  "cy": 0.3198982586577969
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "130140005S",
+                  "line": "130140005S",
+                  "confidence": 91.430954,
+                  "bounds": [
+                    0.14313134082807788,
+                    0.3155938172568969,
+                    0.236358650945983,
+                    0.32420270005869695
+                  ],
+                  "cy": 0.3198982586577969
+                },
+                {
+                  "reader": "Vision",
+                  "text": "130140005S",
+                  "line": "130140005S",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13847479908645524,
+                    0.3138828805503493,
+                    0.23830727688136488,
+                    0.32710549169004033
+                  ],
+                  "cy": 0.3204941861201948
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "135",
+            "PSM11": "135",
+            "Vision": "5 135"
+          },
+          "itemVerification": "Codex visual full-table comparison at 600 DPI",
+          "bounds": [
+            0.14313134082807788,
+            0.3155938172568969,
+            0.6,
+            0.32420270005869695
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "keyParameters": [
+        {
+          "parameter": {
+            "ru": "Материал",
+            "en": "Material"
+          },
+          "value": {
+            "ru": "Кобальт-хромовый сплав",
+            "en": "Cobalt chromium"
+          }
+        }
+      ],
+      "sourcePages": [
+        7
+      ],
+      "sourcePdf": "/catalogs/double-medical/joint-catalogue/source.pdf",
+      "hideDescriptionColumn": true,
+      "images": [
+        {
+          "src": "/images/products/double-medical/joint-catalogue/cpt-cemented-stem-complete.webp",
+          "width": 260,
+          "height": 580,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "PDF mask/blend compositing at 150 DPI, Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              99,
+              258
+            ],
+            "enhancedSize": [
+              198,
+              516
+            ]
+          },
+          "sourcePages": [
+            7
+          ],
+          "imageCaption": {
+            "ru": "Цементная бедренная ножка CPT",
+            "en": "CPT Cemented Hip Stem"
+          }
+        }
+      ]
+    }
+  ],
+  "refCodes": [
+    "130090000S",
+    "130100001S",
+    "130110002S",
+    "130120003S",
+    "130130004S",
+    "130140005S"
+  ],
+  "sourcePages": [
+    7
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Joint Catalogue — каталог продукции",
+    "en": "Double Medical Joint Catalogue"
+  },
+  "documentCover": "/catalogs/double-medical/joint-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "relatedSystemSlugs": [
+    "cemented-hip-stem-instrument-set"
+  ],
+  "imageDimensions": {
+    "/images/products/double-medical/joint-catalogue/cpt-cemented-stem-complete.webp": {
+      "width": 260,
+      "height": 580
+    }
+  },
+  "sourcePdf": "/catalogs/double-medical/joint-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/joint-catalogue/pages/007.webp"
+  ],
+  "sourcePageDimensions": {
+    "1": {
+      "width": 3647,
+      "height": 5111
+    },
+    "2": {
+      "width": 3647,
+      "height": 5111
+    },
+    "3": {
+      "width": 3647,
+      "height": 5111
+    },
+    "4": {
+      "width": 3647,
+      "height": 5111
+    },
+    "5": {
+      "width": 3647,
+      "height": 5111
+    },
+    "6": {
+      "width": 3647,
+      "height": 5111
+    },
+    "7": {
+      "width": 3647,
+      "height": 5111
+    },
+    "8": {
+      "width": 3647,
+      "height": 5111
+    },
+    "9": {
+      "width": 3647,
+      "height": 5111
+    },
+    "10": {
+      "width": 3647,
+      "height": 5111
+    },
+    "11": {
+      "width": 3647,
+      "height": 5111
+    },
+    "12": {
+      "width": 3647,
+      "height": 5111
+    },
+    "13": {
+      "width": 3647,
+      "height": 5111
+    },
+    "14": {
+      "width": 3647,
+      "height": 5111
+    },
+    "15": {
+      "width": 3647,
+      "height": 5111
+    },
+    "16": {
+      "width": 3647,
+      "height": 5111
+    },
+    "17": {
+      "width": 3647,
+      "height": 5111
+    },
+    "18": {
+      "width": 3647,
+      "height": 5111
+    },
+    "19": {
+      "width": 3647,
+      "height": 5111
+    },
+    "20": {
+      "width": 3647,
+      "height": 5111
+    },
+    "21": {
+      "width": 3647,
+      "height": 5111
+    },
+    "22": {
+      "width": 3647,
+      "height": 5111
+    },
+    "23": {
+      "width": 3647,
+      "height": 5111
+    },
+    "24": {
+      "width": 3647,
+      "height": 5111
+    },
+    "25": {
+      "width": 3647,
+      "height": 5111
+    },
+    "26": {
+      "width": 3647,
+      "height": 5111
+    },
+    "27": {
+      "width": 3647,
+      "height": 5111
+    },
+    "28": {
+      "width": 3647,
+      "height": 5111
+    },
+    "29": {
+      "width": 3647,
+      "height": 5111
+    },
+    "30": {
+      "width": 3647,
+      "height": 5111
+    },
+    "31": {
+      "width": 3647,
+      "height": 5111
+    },
+    "32": {
+      "width": 3647,
+      "height": 5111
+    },
+    "33": {
+      "width": 3647,
+      "height": 5111
+    },
+    "34": {
+      "width": 3647,
+      "height": 5111
+    },
+    "35": {
+      "width": 3647,
+      "height": 5111
+    },
+    "36": {
+      "width": 3647,
+      "height": 5111
+    },
+    "37": {
+      "width": 3647,
+      "height": 5111
+    },
+    "38": {
+      "width": 3647,
+      "height": 5111
+    },
+    "39": {
+      "width": 3647,
+      "height": 5111
+    },
+    "40": {
+      "width": 3647,
+      "height": 5111
+    },
+    "41": {
+      "width": 3647,
+      "height": 5111
+    },
+    "42": {
+      "width": 3647,
+      "height": 5111
+    },
+    "43": {
+      "width": 3647,
+      "height": 5111
+    },
+    "44": {
+      "width": 3647,
+      "height": 5111
+    },
+    "45": {
+      "width": 3647,
+      "height": 5111
+    },
+    "46": {
+      "width": 3647,
+      "height": 5111
+    },
+    "47": {
+      "width": 3647,
+      "height": 5111
+    },
+    "48": {
+      "width": 3647,
+      "height": 5111
+    },
+    "49": {
+      "width": 3647,
+      "height": 5111
+    },
+    "50": {
+      "width": 3647,
+      "height": 5111
+    },
+    "51": {
+      "width": 3647,
+      "height": 5111
+    },
+    "52": {
+      "width": 3647,
+      "height": 5111
+    },
+    "53": {
+      "width": 3647,
+      "height": 5111
+    },
+    "54": {
+      "width": 3647,
+      "height": 5111
+    },
+    "55": {
+      "width": 3647,
+      "height": 5111
+    },
+    "56": {
+      "width": 3647,
+      "height": 5111
+    },
+    "57": {
+      "width": 3647,
+      "height": 5111
+    },
+    "58": {
+      "width": 3647,
+      "height": 5111
+    },
+    "59": {
+      "width": 3647,
+      "height": 5111
+    },
+    "60": {
+      "width": 3647,
+      "height": 5111
+    },
+    "61": {
+      "width": 3647,
+      "height": 5111
+    },
+    "62": {
+      "width": 3647,
+      "height": 5111
+    },
+    "63": {
+      "width": 3647,
+      "height": 5111
+    },
+    "64": {
+      "width": 3647,
+      "height": 5111
+    },
+    "65": {
+      "width": 3647,
+      "height": 5111
+    },
+    "66": {
+      "width": 3647,
+      "height": 5111
+    },
+    "67": {
+      "width": 3647,
+      "height": 5111
+    },
+    "68": {
+      "width": 3647,
+      "height": 5111
+    },
+    "69": {
+      "width": 3647,
+      "height": 5111
+    },
+    "70": {
+      "width": 3647,
+      "height": 5111
+    },
+    "71": {
+      "width": 3647,
+      "height": 5111
+    },
+    "72": {
+      "width": 3647,
+      "height": 5111
+    },
+    "73": {
+      "width": 3647,
+      "height": 5111
+    },
+    "74": {
+      "width": 3647,
+      "height": 5111
+    },
+    "75": {
+      "width": 3647,
+      "height": 5111
+    },
+    "76": {
+      "width": 3647,
+      "height": 5111
+    },
+    "77": {
+      "width": 3647,
+      "height": 5111
+    },
+    "78": {
+      "width": 3647,
+      "height": 5111
+    },
+    "79": {
+      "width": 3647,
+      "height": 5111
+    },
+    "80": {
+      "width": 3647,
+      "height": 5111
+    },
+    "81": {
+      "width": 3647,
+      "height": 5111
+    },
+    "82": {
+      "width": 3647,
+      "height": 5111
+    },
+    "83": {
+      "width": 3647,
+      "height": 5111
+    },
+    "84": {
+      "width": 3647,
+      "height": 5111
+    },
+    "85": {
+      "width": 3647,
+      "height": 5111
+    },
+    "86": {
+      "width": 3647,
+      "height": 5111
+    },
+    "87": {
+      "width": 3647,
+      "height": 5111
+    },
+    "88": {
+      "width": 3647,
+      "height": 5111
+    },
+    "89": {
+      "width": 3647,
+      "height": 5111
+    },
+    "90": {
+      "width": 3647,
+      "height": 5111
+    },
+    "91": {
+      "width": 3647,
+      "height": 5111
+    },
+    "92": {
+      "width": 3647,
+      "height": 5111
+    },
+    "93": {
+      "width": 3647,
+      "height": 5111
+    },
+    "94": {
+      "width": 3647,
+      "height": 5111
+    },
+    "95": {
+      "width": 3647,
+      "height": 5111
+    },
+    "96": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "049dc47f4db1409b0ab7b002cc1e8beaaf86705c6ae23efac7eff3832b23e1e5",
+    "importMethod": "600-DPI PSM3/PSM11 + independent Vision + Codex visual row checks; additive REF merges",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      71,
+      81,
+      94,
+      95,
+      96
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "referenceTables.0.title.ru",
+      "referenceTables.0.columns.0.ru",
+      "referenceTables.0.columns.1.ru",
+      "referenceTables.0.columns.2.ru",
+      "referenceTables.0.rows.0.0.ru",
+      "referenceTables.0.rows.0.2.ru",
+      "referenceTables.0.rows.1.0.ru",
+      "referenceTables.0.rows.1.2.ru",
+      "referenceTables.0.rows.2.0.ru",
+      "referenceTables.0.rows.2.2.ru",
+      "referenceTables.0.rows.3.0.ru",
+      "referenceTables.0.rows.3.2.ru",
+      "referenceTables.0.rows.4.0.ru",
+      "referenceTables.0.rows.4.2.ru",
+      "referenceTables.0.rows.5.0.ru",
+      "referenceTables.0.rows.5.2.ru",
+      "referenceTables.0.keyParameters.0.parameter.ru",
+      "referenceTables.0.keyParameters.0.value.ru",
+      "referenceTables.0.images.0.imageCaption.ru",
+      "catalogTitle.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Published under owner authorization: zero real flags after 600-DPI source verification."
+  },
+  "publishedAt": "2026-11-19T17:19:02.390736+00:00"
+}

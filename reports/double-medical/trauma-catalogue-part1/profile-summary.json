@@ -1,0 +1,89 @@
+{
+  "systems": 224,
+  "implantSystems": 205,
+  "instrumentSets": 19,
+  "photosReady": 670,
+  "photosExpected": 670,
+  "flags": [
+    {
+      "code": "source-diameter-conflict",
+      "pdfPage": 50,
+      "sourcePages": [
+        50
+      ],
+      "path": "specTables.1.keyParameters",
+      "message": {
+        "ru": "В заголовке указан винт 4.0 мм, в строке Diameter напечатано 3.5 мм. Оба исходных значения сохранены.",
+        "en": "The title specifies 4.0 mm, while the Diameter line prints 3.5 mm. Both source values are retained."
+      },
+      "readings": [
+        "Title: 4.0mm",
+        "Diameter:3.5mm"
+      ]
+    },
+    {
+      "code": "source-diameter-conflict",
+      "pdfPage": 51,
+      "sourcePages": [
+        51
+      ],
+      "path": "specTables.1.keyParameters",
+      "message": {
+        "ru": "В заголовке указан винт 4.0 мм, в строке Diameter напечатано 3.5 мм. Оба исходных значения сохранены.",
+        "en": "The title specifies 4.0 mm, while the Diameter line prints 3.5 mm. Both source values are retained."
+      },
+      "readings": [
+        "Title: 4.0mm",
+        "Diameter:3.5mm"
+      ]
+    },
+    {
+      "code": "source-ref-prefix-outlier",
+      "pdfPage": 146,
+      "sourcePages": [
+        146
+      ],
+      "path": "specTables.0.rows.1.1",
+      "message": {
+        "ru": "REF 031990008 отличается от префикса 0261 остальных строк. Код подтверждён тремя чтениями и сохранён; требуется подтверждение производителя.",
+        "en": "REF 031990008 differs from the 0261 prefix of the other rows. All three readers confirm the printed code; manufacturer confirmation is required."
+      },
+      "readings": {
+        "PSM3": "031990008",
+        "PSM11": "031990008",
+        "Vision": "031990008"
+      }
+    },
+    {
+      "code": "source-ref-missing",
+      "pdfPage": 61,
+      "sourcePages": [
+        61
+      ],
+      "path": "specTables.3.rows.4.1",
+      "message": {
+        "ru": "Каталожный номер костодержателя не напечатан в исходном PDF.",
+        "en": "The source PDF does not print a catalog number for the self-centering bone-holding forceps."
+      },
+      "readings": [
+        "Source code cell is empty"
+      ]
+    },
+    {
+      "code": "duplicate-ref-different-instruments",
+      "pdfPage": 205,
+      "sourcePages": [
+        205
+      ],
+      "path": "specTables.1.rows",
+      "message": {
+        "ru": "REF 110021300 напечатан для гибочных щипцов и костного крючка. Коды сохранены без предположений.",
+        "en": "REF 110021300 is printed for both bending pliers and a bone hook. Neither code has been guessed or changed."
+      },
+      "readings": [
+        "110021300 — Bending Pliers for Reconstruction Plates",
+        "110021300 — Bone Hook, sharp, medium"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": 198,
+  "bounds": [
+    0.8379964781843083,
+    0.3964554842310913,
+    0.9240853062023088,
+    0.41152665364219926
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "HD5501XL",
+      "confidence": 91.262917,
+      "words": [
+        {
+          "text": "HD5501XL",
+          "confidence": 91.262917,
+          "pixelBounds": [
+            4284,
+            2873,
+            4568,
+            2932
+          ],
+          "lineId": "19.1.2",
+          "bounds": [
+            0.838192134611622,
+            0.4009210159084566,
+            0.893758559968695,
+            0.40915433993859895
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "HD5501XL",
+      "confidence": 42.042053,
+      "words": [
+        {
+          "text": "HD5501XL",
+          "confidence": 42.042053,
+          "pixelBounds": [
+            4284,
+            2873,
+            4568,
+            2932
+          ],
+          "lineId": "40.1.1",
+          "bounds": [
+            0.838192134611622,
+            0.4009210159084566,
+            0.893758559968695,
+            0.40915433993859895
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "HDS501XL",
+      "confidence": 43.235916,
+      "words": [
+        {
+          "text": "HDS501XL",
+          "confidence": 43.235916,
+          "pixelBounds": [
+            2,
+            33,
+            285,
+            90
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "HD5501XL",
+      "confidence": 77.665848,
+      "words": [
+        {
+          "text": "HD5501XL",
+          "confidence": 77.665848,
+          "pixelBounds": [
+            2,
+            33,
+            285,
+            90
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": 185,
+  "bounds": [
+    0.5030326746233614,
+    0.3124476695506559,
+    0.5840344355312072,
+    0.32751883896176387
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "UHD1000",
+      "confidence": 90.760605,
+      "words": [
+        {
+          "text": "UHD1000",
+          "confidence": 90.760605,
+          "pixelBounds": [
+            2643,
+            2266,
+            2891,
+            2324
+          ],
+          "lineId": "10.3.7",
+          "bounds": [
+            0.5171199373899432,
+            0.31621546190343286,
+            0.5656427313637253,
+            0.3243092380686575
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "UnD1000",
+      "confidence": 7.324295,
+      "words": [
+        {
+          "text": "UnD1000",
+          "confidence": 7.324295,
+          "pixelBounds": [
+            2643,
+            2266,
+            2891,
+            2324
+          ],
+          "lineId": "29.1.1",
+          "bounds": [
+            0.5171199373899432,
+            0.31621546190343286,
+            0.5656427313637253,
+            0.3243092380686575
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "... UHD1000",
+      "confidence": 51.77235,
+      "words": [
+        {
+          "text": "...",
+          "confidence": 51.77235,
+          "pixelBounds": [
+            2,
+            76,
+            42,
+            84
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "UHD1000",
+          "confidence": 84.583748,
+          "pixelBounds": [
+            72,
+            27,
+            320,
+            85
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": ". UHD1000",
+      "confidence": 25.942665,
+      "words": [
+        {
+          "text": ".",
+          "confidence": 33.639297,
+          "pixelBounds": [
+            2,
+            76,
+            42,
+            84
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "UHD1000",
+          "confidence": 25.942665,
+          "pixelBounds": [
+            72,
+            27,
+            320,
+            85
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

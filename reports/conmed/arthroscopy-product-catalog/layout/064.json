@@ -1,0 +1,458 @@
+{
+  "pdfPage": 64,
+  "officialPage": 84,
+  "alignment": [
+    [
+      0.9708740508645056,
+      0.0002299666221083422,
+      0.014403443874893288
+    ],
+    [
+      -0.0005189990771446244,
+      0.9788668109432517,
+      0.0115024281671732
+    ]
+  ],
+  "alignmentMatches": 28,
+  "alignmentInliers": 28,
+  "category": "small-joint-arthroscopy",
+  "title": {
+    "en": "Small Joint Probes, Curettes and Dissectors",
+    "ru": "Зонды, кюретки и диссекторы для мелких суставов"
+  },
+  "groups": [
+    {
+      "title": "Small Joint Probe",
+      "page": 64,
+      "officialPage": 84,
+      "headingBounds": [
+        0.43019655850544036,
+        0.1415360684631847,
+        0.5671854295557481,
+        0.15620764001278822
+      ],
+      "rows": [
+        {
+          "description": "65mm Small Joint Probe, 70° Tip",
+          "codes": [
+            {
+              "candidate": "26.3003",
+              "sourceBounds": [
+                0.8508100607939844,
+                0.24810535399503555,
+                0.8966469106277577,
+                0.2606615168944547
+              ],
+              "officialBounds": [
+                527.2020263671875,
+                191.79689025878906,
+                556.0938720703125,
+                201.97589111328125
+              ],
+              "officialCode": "26.3003"
+            }
+          ],
+          "rowBounds": [
+            0.4302216478051666,
+            0.24833018748193794,
+            0.8966469106277577,
+            0.2606615168944547
+          ],
+          "pdfPage": 64,
+          "officialPage": 84
+        },
+        {
+          "description": "90mm Small Joint Probe, 70° Tip",
+          "codes": [
+            {
+              "candidate": "26.7003",
+              "sourceBounds": [
+                0.8515139346947227,
+                0.26602494567601875,
+                0.8966440523011697,
+                0.27858148637251007
+              ],
+              "officialBounds": [
+                527.64306640625,
+                206.29591369628906,
+                556.0894165039062,
+                216.47491455078125
+              ],
+              "officialCode": "26.7003"
+            }
+          ],
+          "rowBounds": [
+            0.43024018800197067,
+            0.26625014552100806,
+            0.8966440523011697,
+            0.27858148637251007
+          ],
+          "pdfPage": 64,
+          "officialPage": 84
+        },
+        {
+          "description": "90mm Small Joint Probe, 30° Tip",
+          "codes": [
+            {
+              "candidate": "26.7103",
+              "sourceBounds": [
+                0.8524604542951023,
+                0.28394440764615636,
+                0.8966511670420451,
+                0.2965014505192737
+              ],
+              "officialBounds": [
+                528.237060546875,
+                220.79493713378906,
+                556.0912475585938,
+                230.97393798828125
+              ],
+              "officialCode": "26.7103"
+            }
+          ],
+          "rowBounds": [
+            0.43024444637886367,
+            0.28417011119469504,
+            0.8966511670420451,
+            0.2965014505192737
+          ],
+          "pdfPage": 64,
+          "officialPage": 84
+        },
+        {
+          "description": "Instrument Stabilizer Ball",
+          "codes": [
+            {
+              "candidate": "326.000",
+              "sourceBounds": [
+                0.8510226361645713,
+                0.3018651442091012,
+                0.896663897684987,
+                0.31442141166395066
+              ],
+              "officialBounds": [
+                527.3280639648438,
+                235.29396057128906,
+                556.0966186523438,
+                245.47296142578125
+              ],
+              "officialCode": "326.000"
+            }
+          ],
+          "rowBounds": [
+            0.43024865634280784,
+            0.30209007689426204,
+            0.896663897684987,
+            0.31442141166395066
+          ],
+          "pdfPage": 64,
+          "officialPage": 84
+        }
+      ],
+      "features": [
+        {
+          "text": "Designed for 360° rotation in joint",
+          "bounds": [
+            0.4373399782752912,
+            0.16128262467337864,
+            0.6411124925460651,
+            0.1751521982189505
+          ],
+          "officialStartX": 266.5799865722656
+        },
+        {
+          "text": "Lightweight for fingertip control",
+          "bounds": [
+            0.4373434626158352,
+            0.1761139305612043,
+            0.6244209651293633,
+            0.18999243817040845
+          ],
+          "officialStartX": 266.5799865722656
+        },
+        {
+          "text": "Indexed handle for proper orientation",
+          "bounds": [
+            0.4373469469585944,
+            0.1909452458785263,
+            0.655698585061513,
+            0.20480703530734967
+          ],
+          "officialStartX": 266.5799865722656
+        },
+        {
+          "text": "Angled tip for ease of insertion",
+          "bounds": [
+            0.4373504313013536,
+            0.2057765611958483,
+            0.6215024361417153,
+            0.2196566326851368
+          ],
+          "officialStartX": 266.5799865722656
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Small Joint Curette/Dissector — 2.75mm dia., 65mm",
+      "page": 64,
+      "officialPage": 84,
+      "headingBounds": [
+        0.43031476512773675,
+        0.6446896928404461,
+        0.5431249223615747,
+        0.6578106940250725
+      ],
+      "rows": [
+        {
+          "description": "Curette/Dissector",
+          "codes": [
+            {
+              "candidate": "26.3006",
+              "sourceBounds": [
+                0.8507932223630188,
+                0.6627630466509078,
+                0.8967271885766177,
+                0.6753191764939253
+              ],
+              "officialBounds": [
+                527.1300048828125,
+                527.2958984375,
+                556.0830688476562,
+                537.4749145507812
+              ],
+              "officialCode": "26.3006"
+            }
+          ],
+          "rowBounds": [
+            0.43031906393348923,
+            0.6629878190608757,
+            0.8967271885766177,
+            0.6753191764939253
+          ],
+          "pdfPage": 64,
+          "officialPage": 84
+        },
+        {
+          "description": "Open Curette",
+          "codes": [
+            {
+              "candidate": "22.6005",
+              "sourceBounds": [
+                0.8509972809620975,
+                0.6806828300816289,
+                0.8967296556566812,
+                0.6932390676892037
+              ],
+              "officialBounds": [
+                527.2559814453125,
+                541.7948608398438,
+                556.0819702148438,
+                551.973876953125
+              ],
+              "officialCode": "22.6005"
+            }
+          ],
+          "rowBounds": [
+            0.43032327387971114,
+            0.680907709324472,
+            0.8967296556566812,
+            0.6932390676892037
+          ],
+          "pdfPage": 64,
+          "officialPage": 84
+        },
+        {
+          "description": "Dissector",
+          "codes": [
+            {
+              "candidate": "22.6008",
+              "sourceBounds": [
+                0.8509730240943949,
+                0.6986027355626987,
+                0.8967382227682995,
+                0.7111589556235949
+              ],
+              "officialBounds": [
+                527.238037109375,
+                556.2938232421875,
+                556.084716796875,
+                566.4728393554688
+              ],
+              "officialCode": "22.6008"
+            }
+          ],
+          "rowBounds": [
+            0.43032748382593305,
+            0.6988275995880684,
+            0.8967382227682995,
+            0.7111589556235949
+          ],
+          "pdfPage": 64,
+          "officialPage": 84
+        }
+      ],
+      "features": [
+        {
+          "text": "Uniquely designed for a wide range of applications",
+          "bounds": [
+            0.43743187781778087,
+            0.5524585755972425,
+            0.7323540651917265,
+            0.5662794327914751
+          ],
+          "officialStartX": 266.5799865722656
+        },
+        {
+          "text": "Atraumatic dissector tip useful to test ligament integrity and for lysis of adhesions",
+          "bounds": [
+            0.4374350717986435,
+            0.5660539479714544,
+            0.8432224763247677,
+            0.5798155400680791
+          ],
+          "officialStartX": 266.5799865722656
+        },
+        {
+          "text": "Angle-faced curette tip is tapered for ease of insertion and protection of articular surfaces",
+          "bounds": [
+            0.4374414113474198,
+            0.5932446927457581,
+            0.8476898270454165,
+            0.6070039001245306
+          ],
+          "officialStartX": 266.5799560546875
+        },
+        {
+          "text": "Handle indexed on each end for proper orientation with joint",
+          "bounds": [
+            0.43744779930914507,
+            0.6204354374941818,
+            0.7862534535153723,
+            0.6342274902626144
+          ],
+          "officialStartX": 266.5799560546875
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Small Joint Curette/Dissector — 2.75mm dia., 90mm",
+      "page": 64,
+      "officialPage": 84,
+      "headingBounds": [
+        0.4303472418094635,
+        0.7219311403502718,
+        0.5431573990433016,
+        0.7350521415348982
+      ],
+      "rows": [
+        {
+          "description": "Open Curette",
+          "codes": [
+            {
+              "candidate": "22.7005",
+              "sourceBounds": [
+                0.8516537541218925,
+                0.7400040515082386,
+                0.896753662052687,
+                0.7525606272128781
+              ],
+              "officialBounds": [
+                527.6610107421875,
+                589.7918701171875,
+                556.0883178710938,
+                599.9708862304688
+              ],
+              "officialCode": "22.7005"
+            }
+          ],
+          "rowBounds": [
+            0.430351540615216,
+            0.7402292665707013,
+            0.896753662052687,
+            0.7525606272128781
+          ],
+          "pdfPage": 64,
+          "officialPage": 84
+        },
+        {
+          "description": "Dissector",
+          "codes": [
+            {
+              "candidate": "22.7008",
+              "sourceBounds": [
+                0.85162949725419,
+                0.7579239569893085,
+                0.8967622291643054,
+                0.7704805151472692
+              ],
+              "officialBounds": [
+                527.64306640625,
+                604.2908325195312,
+                556.091064453125,
+                614.4698486328125
+              ],
+              "officialCode": "22.7008"
+            }
+          ],
+          "rowBounds": [
+            0.43035575056143793,
+            0.7581491568342977,
+            0.8967622291643054,
+            0.7704805151472692
+          ],
+          "pdfPage": 64,
+          "officialPage": 84
+        }
+      ],
+      "features": [
+        {
+          "text": "Uniquely designed for a wide range of applications",
+          "bounds": [
+            0.43743187781778087,
+            0.5524585755972425,
+            0.7323540651917265,
+            0.5662794327914751
+          ],
+          "officialStartX": 266.5799865722656
+        },
+        {
+          "text": "Atraumatic dissector tip useful to test ligament integrity and for lysis of adhesions",
+          "bounds": [
+            0.4374350717986435,
+            0.5660539479714544,
+            0.8432224763247677,
+            0.5798155400680791
+          ],
+          "officialStartX": 266.5799865722656
+        },
+        {
+          "text": "Angle-faced curette tip is tapered for ease of insertion and protection of articular surfaces",
+          "bounds": [
+            0.4374414113474198,
+            0.5932446927457581,
+            0.8476898270454165,
+            0.6070039001245306
+          ],
+          "officialStartX": 266.5799560546875
+        },
+        {
+          "text": "Handle indexed on each end for proper orientation with joint",
+          "bounds": [
+            0.43744779930914507,
+            0.6204354374941818,
+            0.7862534535153723,
+            0.6342274902626144
+          ],
+          "officialStartX": 266.5799560546875
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 9
+}

@@ -1,0 +1,16 @@
+#!/usr/bin/env python3
+"""Freeze the source audit and publish only the reviewed Anty system."""
+import json,datetime,secrets,random
+from pathlib import Path
+R=Path(__file__).resolve().parents[1];p=R/'content/products/double-medical/anty-f-series.json';s=json.loads(p.read_text());folder=R/'reports/double-medical/anty-f-series';folder.mkdir(exist_ok=True)
+if s['review']['flags']:raise ValueError('Open real flags prevent publication')
+T=s['specTables'][0];seed=secrets.randbits(64);rng=random.Random(seed);pool=[(r,c)for r in range(len(T['rows']))for c in range(1,len(T['columns']))];sample=[]
+for r,c in rng.sample(pool,20):sample.append({'row':r+1,'size':T['rows'][r][0],'column':T['columns'][c],'columnIndex':c+1,'value':T['rows'][r][c],'pdfPage':2,'sourceBounds':T['rowSources'][r]['sourceBounds']})
+(folder/'sample-20.json').write_text(json.dumps({'seed':seed,'selection':'Random sample without replacement from body cells, excluding size labels; rows count size rows only, not the two header levels.','samples':sample},ensure_ascii=False,indent=2)+'\n')
+s['status']='published';s['review'].update(publishedAt=datetime.datetime.now(datetime.timezone.utc).isoformat(),publicationReason='Owner authorized publication with zero real flags after visual source verification.',headerTranslations='Chinese source headers translated using the owner-supplied medical terminology.',symbolPolicy='No source legend; owner-supplied availability clarification rendered exactly. No meanings inferred.',imageReview='Hero, page-2 stem, six close-ups and technical drawing compared visually with source. Native originals and rembg candidates retained.',omittedContent=['Cover background and logos','Footer contacts'],missingSourceSizes=['11#']);p.write_text(json.dumps(s,ensure_ascii=False,indent=2)+'\n')
+# The only existing hip family lacked its subcategory; this makes related links reciprocal.
+pbg=R/'content/products/double-medical/pbg-proximal-bone-growth-cementless-stem.json';other=json.loads(pbg.read_text());other['subcategory']='hip';other['subcategories']=['hip'];pbg.write_text(json.dumps(other,ensure_ascii=False,indent=2)+'\n')
+rpath=R/'reports/double-medical/anty-f-series.json';report=json.loads(rpath.read_text());report.update(status='published',published=1,drafts=0,sizeRows=11,size11Present=False,hotspots=6,headerLevels=2,openRealFlags=[],sampleFile='reports/double-medical/anty-f-series/sample-20.json',sampleSeed=seed);report['systems'][0]['status']='published';rpath.write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
+lines=['# Anty F-series Femoral Revision Stem System','','1 system published locally / 1 size table / 11 source sizes / 6 hotspots / 0 open real flags.','', 'RU and EN; two merged header levels retained. Size 11# is absent from the source and was not added. Technical drawing retains its white background. Related to the PBG hip system.','', '## Random sample of 20 values','', 'Rows count body size rows only; both header levels are excluded. All samples come from PDF page 2.','', '| Row | Size | Column | Value |','|---:|---|---|---|']
+for x in sample:lines.append(f'| {x["row"]} | {x["size"]} | {x["column"]["ru"]} | {x["value"]} |')
+(folder/'report.md').write_text('\n'.join(lines)+'\n');print('Published Anty; sample seed',seed)

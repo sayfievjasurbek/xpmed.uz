@@ -1,0 +1,687 @@
+{
+  "pdfPage": 44,
+  "officialPage": 46,
+  "bands": [
+    {
+      "bounds": [
+        0.09110374304817909,
+        0.6842554679959462,
+        0.8537869627973268,
+        0.7212503533039939
+      ],
+      "cells": [
+        {
+          "bounds": [
+            0.09110374304817909,
+            0.6842554679959462,
+            0.4724452067480322,
+            0.7212503533039939
+          ],
+          "texts": {
+            "PSM3": "Oral Elite High Speed Drill Max",
+            "PSM11": "Oral Elite High Speed Drill Max",
+            "Vision": "Oral Max Elite High Speed Drill"
+          },
+          "officialText": "Oral Max Elite High Speed Drill",
+          "candidate": null,
+          "officialCandidates": []
+        },
+        {
+          "bounds": [
+            0.4724452067480322,
+            0.6842554679959462,
+            0.8537869627973268,
+            0.7212503533039939
+          ],
+          "texts": {
+            "PSM3": "PRO7OOODE",
+            "PSM11": "PRO7OOODE",
+            "Vision": "PRO7000DE"
+          },
+          "officialText": "PRO7000DE",
+          "candidate": "PRO7000DE",
+          "officialCandidates": [
+            "PRO7000DE"
+          ],
+          "value": null,
+          "matchedReaders": [
+            "Vision"
+          ],
+          "id": "044-001-02"
+        }
+      ]
+    },
+    {
+      "bounds": [
+        0.09110374304817909,
+        0.7212500693831551,
+        0.8537869627973268,
+        0.7583994786077715
+      ],
+      "cells": [
+        {
+          "bounds": [
+            0.09110374304817909,
+            0.7212500693831551,
+            0.4724452067480322,
+            0.7583994786077715
+          ],
+          "texts": {
+            "PSM3": "Orthopedic High Speed Drill",
+            "PSM11": "Orthopedic High Speed Drill",
+            "Vision": "Orthopedic High Speed Drill"
+          },
+          "officialText": "Orthopedic High Speed Drill",
+          "candidate": null,
+          "officialCandidates": []
+        },
+        {
+          "bounds": [
+            0.4724452067480322,
+            0.7212500693831551,
+            0.8537869627973268,
+            0.7583994786077715
+          ],
+          "texts": {
+            "PSM3": "PRO7OOOSE",
+            "PSM11": "PRO7OOOSE",
+            "Vision": "PRO7000SE"
+          },
+          "officialText": "PRO7000SE",
+          "candidate": "PRO7000SE",
+          "officialCandidates": [
+            "PRO7000SE"
+          ],
+          "value": null,
+          "matchedReaders": [
+            "Vision"
+          ],
+          "id": "044-002-02"
+        }
+      ]
+    },
+    {
+      "bounds": [
+        0.09110374304817909,
+        0.7583992656671423,
+        0.8537869627973268,
+        0.7955486748917587
+      ],
+      "cells": [
+        {
+          "bounds": [
+            0.09110374304817909,
+            0.7583992656671423,
+            0.4724452067480322,
+            0.7955486748917587
+          ],
+          "texts": {
+            "PSM3": "Medium Speed Drill",
+            "PSM11": "Medium Speed Drill",
+            "Vision": "Medium Speed Drill"
+          },
+          "officialText": "Medium Speed Drill",
+          "candidate": null,
+          "officialCandidates": []
+        },
+        {
+          "bounds": [
+            0.4724452067480322,
+            0.7583992656671423,
+            0.8537869627973268,
+            0.7955486748917587
+          ],
+          "texts": {
+            "PSM3": "PRO7100SE",
+            "PSM11": "PRO7100SE",
+            "Vision": "PRO7100SE"
+          },
+          "officialText": "PRO7100SE",
+          "candidate": "PRO7100SE",
+          "officialCandidates": [
+            "PRO7100SE"
+          ],
+          "value": "PRO7100SE",
+          "matchedReaders": [
+            "PSM3",
+            "PSM11",
+            "Vision"
+          ],
+          "id": "044-003-02"
+        }
+      ]
+    },
+    {
+      "bounds": [
+        0.09110374304817909,
+        0.7955483199907101,
+        0.8537869627973268,
+        0.8326975162746973
+      ],
+      "cells": [
+        {
+          "bounds": [
+            0.09110374304817909,
+            0.7955483199907101,
+            0.4724452067480322,
+            0.8326975162746973
+          ],
+          "texts": {
+            "PSM3": "Sagittal Saw",
+            "PSM11": "Sagittal Saw",
+            "Vision": "Sagittal Saw"
+          },
+          "officialText": "Sagittal Saw",
+          "candidate": null,
+          "officialCandidates": []
+        },
+        {
+          "bounds": [
+            0.4724452067480322,
+            0.7955483199907101,
+            0.8537869627973268,
+            0.8326975162746973
+          ],
+          "texts": {
+            "PSM3": "PRO7200SE",
+            "PSM11": "PRO7200SE",
+            "Vision": "PRO7200SE"
+          },
+          "officialText": "PRO7200SE",
+          "candidate": "PRO7200SE",
+          "officialCandidates": [
+            "PRO7200SE"
+          ],
+          "value": "PRO7200SE",
+          "matchedReaders": [
+            "PSM3",
+            "PSM11",
+            "Vision"
+          ],
+          "id": "044-004-02"
+        }
+      ]
+    },
+    {
+      "bounds": [
+        0.09110374304817909,
+        0.8326975162746973,
+        0.8537869627973268,
+        0.8698467125586846
+      ],
+      "cells": [
+        {
+          "bounds": [
+            0.09110374304817909,
+            0.8326975162746973,
+            0.4724452067480322,
+            0.8698467125586846
+          ],
+          "texts": {
+            "PSM3": "Oscillating Saw",
+            "PSM11": "Oscillating Saw",
+            "Vision": "Oscillating Saw"
+          },
+          "officialText": "Oscillating Saw",
+          "candidate": null,
+          "officialCandidates": []
+        },
+        {
+          "bounds": [
+            0.4724452067480322,
+            0.8326975162746973,
+            0.8537869627973268,
+            0.8698467125586846
+          ],
+          "texts": {
+            "PSM3": "PRO7300SE",
+            "PSM11": "PRO7300SE",
+            "Vision": "PRO7300SE"
+          },
+          "officialText": "PRO7300SE",
+          "candidate": "PRO7300SE",
+          "officialCandidates": [
+            "PRO7300SE"
+          ],
+          "value": "PRO7300SE",
+          "matchedReaders": [
+            "PSM3",
+            "PSM11",
+            "Vision"
+          ],
+          "id": "044-005-02"
+        }
+      ]
+    },
+    {
+      "bounds": [
+        0.09110374304817909,
+        0.8698467125586846,
+        0.8537869627973268,
+        0.9068413139458935
+      ],
+      "cells": [
+        {
+          "bounds": [
+            0.09110374304817909,
+            0.8698467125586846,
+            0.4724452067480322,
+            0.9068413139458935
+          ],
+          "texts": {
+            "PSM3": "Reciprocating Saw",
+            "PSM11": "Reciprocating Saw",
+            "Vision": "Reciprocating Saw"
+          },
+          "officialText": "Reciprocating Saw",
+          "candidate": null,
+          "officialCandidates": []
+        },
+        {
+          "bounds": [
+            0.4724452067480322,
+            0.8698467125586846,
+            0.8537869627973268,
+            0.9068413139458935
+          ],
+          "texts": {
+            "PSM3": "PRO7400SE",
+            "PSM11": "PRO7400SE",
+            "Vision": "PRO7400SE"
+          },
+          "officialText": "PRO7400SE",
+          "candidate": "PRO7400SE",
+          "officialCandidates": [
+            "PRO7400SE"
+          ],
+          "value": "PRO7400SE",
+          "matchedReaders": [
+            "PSM3",
+            "PSM11",
+            "Vision"
+          ],
+          "id": "044-006-02"
+        }
+      ]
+    }
+  ],
+  "vision": [
+    {
+      "alternatives": [
+        "MicroPower\u2122 +"
+      ],
+      "bounds": [
+        0.09361790211315679,
+        0.033142299976218426,
+        0.3320440151091799,
+        0.06278793215995937
+      ],
+      "confidence": 1,
+      "text": "MicroPower\u2122 +"
+    },
+    {
+      "alternatives": [
+        "Indications for Use: Small Bone"
+      ],
+      "bounds": [
+        0.0896130386592013,
+        0.07412790772322653,
+        0.4052953132348924,
+        0.09156976704421527
+      ],
+      "confidence": 1,
+      "text": "Indications for Use: Small Bone"
+    },
+    {
+      "alternatives": [
+        "XPmed CONMED"
+      ],
+      "bounds": [
+        0.7026476627679391,
+        0.04935515919443256,
+        0.9490834940209272,
+        0.06976744153265069
+      ],
+      "confidence": 1,
+      "text": "XPmed CONMED"
+    },
+    {
+      "alternatives": [
+        "MEDICAL COMPANY"
+      ],
+      "bounds": [
+        0.7107942985767992,
+        0.06395348845893634,
+        0.7657841146614899,
+        0.07122093000036589
+      ],
+      "confidence": 1,
+      "text": "MEDICAL COMPANY"
+    },
+    {
+      "alternatives": [
+        "BAXILMAXELIT"
+      ],
+      "bounds": [
+        0.2899678474961591,
+        0.1831128653892531,
+        0.3593342707409272,
+        0.20694207386924046
+      ],
+      "confidence": 1,
+      "text": "BAXILMAXELIT"
+    },
+    {
+      "alternatives": [
+        "PRO7000DE"
+      ],
+      "bounds": [
+        0.283095725888862,
+        0.2296511630040552,
+        0.36048879743089357,
+        0.2383720926645495
+      ],
+      "confidence": 1,
+      "text": "PRO7000DE"
+    },
+    {
+      "alternatives": [
+        "PRO7000SE"
+      ],
+      "bounds": [
+        0.6048879846464995,
+        0.22965116314940393,
+        0.6822810561885311,
+        0.23837209280989835
+      ],
+      "confidence": 1,
+      "text": "PRO7000SE"
+    },
+    {
+      "alternatives": [
+        "\u041a\u0410L\u041e\u0412\u041e"
+      ],
+      "bounds": [
+        0.29531568240197187,
+        0.33284883771002394,
+        0.3360488792069894,
+        0.34738372079288304
+      ],
+      "confidence": 0.30000001192092896,
+      "text": "\u041a\u0410L\u041e\u0412\u041e"
+    },
+    {
+      "alternatives": [
+        "PRO7100SE"
+      ],
+      "bounds": [
+        0.23014256534402527,
+        0.3909883722556555,
+        0.30753564219161633,
+        0.4011627905082673
+      ],
+      "confidence": 1,
+      "text": "PRO7100SE"
+    },
+    {
+      "alternatives": [
+        "PRO7200SE"
+      ],
+      "bounds": [
+        0.5539714896363162,
+        0.3909883723063807,
+        0.6313645611783477,
+        0.39970930196687515
+      ],
+      "confidence": 1,
+      "text": "PRO7200SE"
+    },
+    {
+      "alternatives": [
+        "PRO7300SE"
+      ],
+      "bounds": [
+        0.2789034953943987,
+        0.5489906656631125,
+        0.35857104436853265,
+        0.5614744507398594
+      ],
+      "confidence": 1,
+      "text": "PRO7300SE"
+    },
+    {
+      "alternatives": [
+        "PRO7400SE"
+      ],
+      "bounds": [
+        0.6047463328325291,
+        0.5489326327972639,
+        0.6803860496056352,
+        0.5615324832550761
+      ],
+      "confidence": 1,
+      "text": "PRO7400SE"
+    },
+    {
+      "alternatives": [
+        "Attachments on page 49"
+      ],
+      "bounds": [
+        0.08757637544133419,
+        0.6191860463041056,
+        0.24032586279695506,
+        0.6322674417409525
+      ],
+      "confidence": 1,
+      "text": "Attachments on page 49"
+    },
+    {
+      "alternatives": [
+        "Handpieces"
+      ],
+      "bounds": [
+        0.10791105487100489,
+        0.6423319431461659,
+        0.20573456793914965,
+        0.6570866614044333
+      ],
+      "confidence": 1,
+      "text": "Handpieces"
+    },
+    {
+      "alternatives": [
+        "Oral Max Elite High Speed Drill"
+      ],
+      "bounds": [
+        0.10386965229977688,
+        0.6946924601713486,
+        0.29124236131674924,
+        0.7078488373052176
+      ],
+      "confidence": 1,
+      "text": "Oral Max Elite High Speed Drill"
+    },
+    {
+      "alternatives": [
+        "Removable Lever"
+      ],
+      "bounds": [
+        0.617107947056067,
+        0.66715116301859,
+        0.7087576352249919,
+        0.6758720926790844
+      ],
+      "confidence": 1,
+      "text": "Removable Lever"
+    },
+    {
+      "alternatives": [
+        "PRO7000DE"
+      ],
+      "bounds": [
+        0.6292543028152595,
+        0.6944826998913085,
+        0.7047579160710429,
+        0.7052266026805304
+      ],
+      "confidence": 1,
+      "text": "PRO7000DE"
+    },
+    {
+      "alternatives": [
+        "Orthopedic High Speed Drill"
+      ],
+      "bounds": [
+        0.10386965626862181,
+        0.7311046510461113,
+        0.27698574335314136,
+        0.7442956348259581
+      ],
+      "confidence": 1,
+      "text": "Orthopedic High Speed Drill"
+    },
+    {
+      "alternatives": [
+        "PRO7000SE"
+      ],
+      "bounds": [
+        0.6293279017344425,
+        0.73255813989359,
+        0.70264765651403,
+        0.7412790695540843
+      ],
+      "confidence": 1,
+      "text": "PRO7000SE"
+    },
+    {
+      "alternatives": [
+        "Medium Speed Drill"
+      ],
+      "bounds": [
+        0.10386965454276925,
+        0.7688492063205369,
+        0.2281059086446034,
+        0.7805232556752717
+      ],
+      "confidence": 1,
+      "text": "Medium Speed Drill"
+    },
+    {
+      "alternatives": [
+        "PRO7100SE"
+      ],
+      "bounds": [
+        0.6313645638196714,
+        0.7732558141813808,
+        0.7026476575652572,
+        0.7819767438418751
+      ],
+      "confidence": 1,
+      "text": "PRO7100SE"
+    },
+    {
+      "alternatives": [
+        "Sagittal Saw"
+      ],
+      "bounds": [
+        0.10177592304987941,
+        0.8050723924073878,
+        0.18131979943255067,
+        0.8199276078811684
+      ],
+      "confidence": 1,
+      "text": "Sagittal Saw"
+    },
+    {
+      "alternatives": [
+        "PRO7200SE"
+      ],
+      "bounds": [
+        0.6293279017344425,
+        0.8154069771028924,
+        0.70264765651403,
+        0.8241279067633868
+      ],
+      "confidence": 1,
+      "text": "PRO7200SE"
+    },
+    {
+      "alternatives": [
+        "Oscillating Saw"
+      ],
+      "bounds": [
+        0.1038529073829295,
+        0.8429618112544888,
+        0.18738945602395926,
+        0.8547126077390576
+      ],
+      "confidence": 1,
+      "text": "Oscillating Saw"
+    },
+    {
+      "alternatives": [
+        "PRO7300SE"
+      ],
+      "bounds": [
+        0.6293279014289435,
+        0.8531976747530862,
+        0.702647656208531,
+        0.8619186044135806
+      ],
+      "confidence": 1,
+      "text": "PRO7300SE"
+    },
+    {
+      "alternatives": [
+        "Reciprocating Saw"
+      ],
+      "bounds": [
+        0.10175050475972705,
+        0.8790258108382121,
+        0.20374847447067,
+        0.8927765144000857
+      ],
+      "confidence": 1,
+      "text": "Reciprocating Saw"
+    },
+    {
+      "alternatives": [
+        "PRO7400SE"
+      ],
+      "bounds": [
+        0.6313645642270035,
+        0.8895348840665235,
+        0.7026476579725892,
+        0.8997093023191355
+      ],
+      "confidence": 1,
+      "text": "PRO7400SE"
+    },
+    {
+      "alternatives": [
+        "All products may not be available in all markets."
+      ],
+      "bounds": [
+        0.0427698603590175,
+        0.9330357142372647,
+        0.24032586924043917,
+        0.9419642856658361
+      ],
+      "confidence": 1,
+      "text": "All products may not be available in all markets."
+    },
+    {
+      "alternatives": [
+        "41 HALL\u00aePOWERED INSTRUMENTS"
+      ],
+      "bounds": [
+        0.04480651963453273,
+        0.9635416667040044,
+        0.2219959287870558,
+        0.9724702381325758
+      ],
+      "confidence": 1,
+      "text": "41 HALL\u00aePOWERED INSTRUMENTS"
+    }
+  ]
+}

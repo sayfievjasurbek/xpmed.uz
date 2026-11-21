@@ -1,0 +1,79 @@
+{
+  "pdfPage": 109,
+  "officialPage": 138,
+  "alignment": [
+    [
+      0.9707412310577933,
+      0.002503156964119495,
+      0.012537465373693811
+    ],
+    [
+      -0.0005206078978381275,
+      0.9753012322293965,
+      -0.5537884588890754
+    ]
+  ],
+  "alignmentMatches": 25,
+  "alignmentInliers": 25,
+  "category": "arthroscopy-fluid-management",
+  "title": {
+    "en": "Gravity Tubing and Suction Devices",
+    "ru": "Трубки для гравитационной подачи и аспирационные устройства"
+  },
+  "groups": [
+    {
+      "title": "PuddleVac® Floor Suction Device",
+      "page": 109,
+      "officialPage": 138,
+      "headingBounds": [
+        0.4290797069209124,
+        0.16747794864475551,
+        0.6829616851000403,
+        0.1820328936361013
+      ],
+      "rows": [
+        {
+          "description": "PuddleVac Floor Suction Device, Single-Use (30 per Box)",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "9321",
+              "sourceBounds": [
+                0.8635437884940456,
+                0.2805232559294111,
+                0.8961303464686156,
+                0.2906976741820231
+              ],
+              "officialCode": "9321",
+              "officialBounds": [
+                537.865966796875,
+                676.796875,
+                555.4420776367188,
+                686.9758911132812
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.27261046505571707,
+            0.9061303464686156,
+            0.2946104650557171
+          ],
+          "pdfPage": 109,
+          "officialPage": 138
+        }
+      ],
+      "features": [],
+      "notes": [
+        "The PuddleVac floor suction device provides a simple solution to a problem often",
+        "encountered during procedures utilizing fluid distension media – pools of fluid",
+        "on the operating room floor. Suction should be set at a stan­dard hospital suction",
+        "level of approximately 300 mmHg. The PuddleVac is easily moved wherever it is",
+        "needed. A single PuddleVac can collect an average of 700ml of fluid per minute."
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 1
+}

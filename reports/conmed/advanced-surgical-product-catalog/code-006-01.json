@@ -1,0 +1,40 @@
+{
+  "pdfPage": 6,
+  "pageRow": 1,
+  "visualReading": "ASM-EVAC1",
+  "visualReader": "Codex independent inspection of 600-DPI source table images; source-line crops retained",
+  "ocrReadings": {
+    "600dpi-psm3": "ASM-EVAC1",
+    "600dpi-psm11": "ASM-EVAC1",
+    "600dpi-code-crop-psm7": "ASM-EVAC1",
+    "Apple-Vision-accurate": "ASM-EVAC1"
+  },
+  "matchedReaders": [
+    "600dpi-psm3",
+    "600dpi-psm11",
+    "600dpi-code-crop-psm7",
+    "Apple-Vision-accurate"
+  ],
+  "value": "ASM-EVAC1",
+  "verificationStatus": "verified (visual + OCR)",
+  "manufacturerStatus": "confirmed on conmed.com",
+  "officialEvidence": [
+    {
+      "url": "https://www.conmed.com/-/media/conmed/documents/catalog/advancedsurgical_catalog.ashx",
+      "code": "ASM-EVAC1"
+    }
+  ],
+  "sourceBounds": [
+    0.8450401095675993,
+    0.17903991068936645,
+    0.9113676384269224,
+    0.18811052190901478
+  ],
+  "rowBounds": [
+    0.5289452320766902,
+    0.15953654188948307,
+    0.934,
+    0.1925133689839572
+  ],
+  "lineCrop": "reports/conmed/advanced-surgical-product-catalog/line-crops/006-01.png"
+}

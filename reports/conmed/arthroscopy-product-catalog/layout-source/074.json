@@ -1,0 +1,706 @@
+{
+  "pdfPage": 74,
+  "officialPage": 100,
+  "alignment": [
+    [
+      0.9695280060956699,
+      0.0001032825556117951,
+      0.014910276595368083
+    ],
+    [
+      -0.00025813901852913217,
+      0.979055368816957,
+      0.01081849458498461
+    ]
+  ],
+  "alignmentMatches": 9,
+  "alignmentInliers": 9,
+  "category": "arthroscopy-manual-instruments",
+  "title": {
+    "en": "Shutt",
+    "ru": "Ручные инструменты Shutt"
+  },
+  "groups": [
+    {
+      "title": "Micro-Scissors — 2.75mm dia., 130mm",
+      "page": 74,
+      "officialPage": 100,
+      "headingBounds": [
+        0.4306825810607312,
+        0.161232511552473,
+        0.5501783724790663,
+        0.17438457705329644
+      ],
+      "rows": [
+        {
+          "description": "Straight",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "2.10011",
+              "sourceBounds": [
+                0.8449430458029357,
+                0.1999202527786621,
+                0.8984378082819511,
+                0.21287044514688191
+              ],
+              "officialCode": "2.10011",
+              "officialBounds": [
+                529.6409912109375,
+                152.57191467285156,
+                556.43505859375,
+                162.75091552734375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.193395348962772,
+            0.9084378082819511,
+            0.21539534896277202
+          ],
+          "pdfPage": 74,
+          "officialPage": 100
+        },
+        {
+          "description": "30° Right",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "2.11211",
+              "sourceBounds": [
+                0.8472505102421655,
+                0.21802325576368176,
+                0.8981670042588527,
+                0.22965116260841123
+              ],
+              "officialCode": "2.11211",
+              "officialBounds": [
+                530.5140380859375,
+                167.07093811035156,
+                556.4386596679688,
+                177.24993896484375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.21083720918604648,
+            0.9081670042588527,
+            0.2328372091860465
+          ],
+          "pdfPage": 74,
+          "officialPage": 100
+        },
+        {
+          "description": "15° Up",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "2.16311",
+              "sourceBounds": [
+                0.8431771893303635,
+                0.23536706362527893,
+                0.8981670054150541,
+                0.24854651154109797
+              ],
+              "officialCode": "2.16311",
+              "officialBounds": [
+                529.677001953125,
+                181.56996154785156,
+                556.433837890625,
+                191.74896240234375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.22895678758318844,
+            0.9081670054150541,
+            0.25095678758318846
+          ],
+          "pdfPage": 74,
+          "officialPage": 100
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Micro-Scissors — 3.4mm dia., 130mm",
+      "page": 74,
+      "officialPage": 100,
+      "headingBounds": [
+        0.43067855562992446,
+        0.2582691038925144,
+        0.5433306083434091,
+        0.271422991554205
+      ],
+      "rows": [
+        {
+          "description": "Straight",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "1.10011",
+              "sourceBounds": [
+                0.8411405285485969,
+                0.27761627915294285,
+                0.8981670056672892,
+                0.2906976745897898
+              ],
+              "officialCode": "1.10011",
+              "officialBounds": [
+                530.0910034179688,
+                215.06800842285156,
+                556.4234008789062,
+                225.24700927734375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.2711569768713663,
+            0.9081670056672893,
+            0.2931569768713663
+          ],
+          "pdfPage": 74,
+          "officialPage": 100
+        },
+        {
+          "description": "30° Left",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "1.12111",
+              "sourceBounds": [
+                0.843177189029956,
+                0.2965116280819957,
+                0.8981670051146466,
+                0.3081395349267252
+              ],
+              "officialCode": "1.12111",
+              "officialBounds": [
+                530.9730224609375,
+                229.56703186035156,
+                556.4359741210938,
+                239.74603271484375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.28932558150436044,
+            0.9081670051146467,
+            0.31132558150436046
+          ],
+          "pdfPage": 74,
+          "officialPage": 100
+        },
+        {
+          "description": "30° Right",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "1.12211",
+              "sourceBounds": [
+                0.8429962829656271,
+                0.312102706931247,
+                0.8983479116790094,
+                0.32597868810317276
+              ],
+              "officialCode": "1.12211",
+              "officialBounds": [
+                530.2440185546875,
+                244.06605529785156,
+                556.4342041015625,
+                254.24505615234375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.30604069751720986,
+            0.9083479116790094,
+            0.3280406975172099
+          ],
+          "pdfPage": 74,
+          "officialPage": 100
+        },
+        {
+          "description": "Series 210®",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "S210MSC",
+              "sourceBounds": [
+                0.8391038703710406,
+                0.3283730161118199,
+                0.9002036642521771,
+                0.34449404785785154
+              ],
+              "officialCode": "S210MSC",
+              "officialBounds": [
+                523.5347900390625,
+                258.5719299316406,
+                556.43603515625,
+                268.75091552734375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3234335319848357,
+            0.9102036642521771,
+            0.34543353198483573
+          ],
+          "pdfPage": 74,
+          "officialPage": 100
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Alligator Grasper — 2.75mm dia., 130mm",
+      "page": 74,
+      "officialPage": 100,
+      "headingBounds": [
+        0.43070774966130837,
+        0.3998154297879191,
+        0.5502035410756637,
+        0.4129674575634917
+      ],
+      "rows": [
+        {
+          "description": "Straight, w/Ratchet",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "12.1002",
+              "sourceBounds": [
+                0.8450845042101621,
+                0.4168891033580977,
+                0.9023696697979467,
+                0.4319481061662599
+              ],
+              "officialCode": "12.1002",
+              "officialBounds": [
+                529.3980102539062,
+                329.5708923339844,
+                556.4395751953125,
+                339.7498779296875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.4114186047621788,
+            0.9123696697979468,
+            0.4334186047621788
+          ],
+          "pdfPage": 74,
+          "officialPage": 100
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Alligator Grasper — 3.4mm dia., 130mm",
+      "page": 74,
+      "officialPage": 100,
+      "headingBounds": [
+        0.430712118042098,
+        0.44122500413268356,
+        0.5433641707516029,
+        0.4543788540691233
+      ],
+      "rows": [
+        {
+          "description": "Straight, w/Ratchet",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "11.1002",
+              "sourceBounds": [
+                0.843066801557299,
+                0.4605160463051421,
+                0.8982773925830427,
+                0.47407697719300024
+              ],
+              "officialCode": "11.1002",
+              "officialBounds": [
+                529.9739990234375,
+                363.0688781738281,
+                556.4342041015625,
+                373.24786376953125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.45429651174907115,
+            0.9082773925830427,
+            0.47629651174907117
+          ],
+          "pdfPage": 74,
+          "officialPage": 100
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Alligator Grasper — 4.5mm dia., 130mm",
+      "page": 74,
+      "officialPage": 100,
+      "headingBounds": [
+        0.4307164864228876,
+        0.482634578477448,
+        0.5433685391323926,
+        0.49578842841388776
+      ],
+      "rows": [
+        {
+          "description": "Straight, w/Ratchet",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "18.1002",
+              "sourceBounds": [
+                0.8430924390547115,
+                0.5012701259304105,
+                0.8982517571536472,
+                0.5147182460400291
+              ],
+              "officialCode": "18.1002",
+              "officialBounds": [
+                529.281005859375,
+                396.5668640136719,
+                556.43505859375,
+                406.745849609375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.4949941859852198,
+            0.9082517571536473,
+            0.5169941859852198
+          ],
+          "pdfPage": 74,
+          "officialPage": 100
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Grasping Forceps — 2.75mm dia., 130mm",
+      "page": 74,
+      "officialPage": 100,
+      "headingBounds": [
+        0.43072848441679107,
+        0.5963682121640507,
+        0.5502242758311464,
+        0.6095202399396232
+      ],
+      "rows": [
+        {
+          "description": "Straight, w/Ratchet",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "12.1001",
+              "sourceBounds": [
+                0.845213849045231,
+                0.613343253673954,
+                0.9002036651299217,
+                0.6294642854199858
+              ],
+              "officialCode": "12.1001",
+              "officialBounds": [
+                529.5240478515625,
+                488.5708923339844,
+                556.4378051757812,
+                498.7498779296875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.6084037695469698,
+            0.9102036651299217,
+            0.6304037695469699
+          ],
+          "pdfPage": 74,
+          "officialPage": 100
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Grasping Forceps — 3.4mm dia., 130mm",
+      "page": 74,
+      "officialPage": 100,
+      "headingBounds": [
+        0.43073290113942886,
+        0.637777748770692,
+        0.5433849538489338,
+        0.6509315987071318
+      ],
+      "rows": [
+        {
+          "description": "Straight, w/Ratchet",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "11.1001",
+              "sourceBounds": [
+                0.8430443852028798,
+                0.6538258575074953,
+                0.9003364692402255,
+                0.6703020496791069
+              ],
+              "officialCode": "11.1001",
+              "officialBounds": [
+                530.1000366210938,
+                522.06884765625,
+                556.4324340820312,
+                532.2478637695312
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.649063953593301,
+            0.9103364692402255,
+            0.6710639535933011
+          ],
+          "pdfPage": 74,
+          "officialPage": 100
+        },
+        {
+          "description": "Straight, w/o Ratchet",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "16.1001",
+              "sourceBounds": [
+                0.8472505099926747,
+                0.6744186046980009,
+                0.8981670040093619,
+                0.6875000001348479
+              ],
+              "officialCode": "16.1001",
+              "officialBounds": [
+                529.3800048828125,
+                536.56787109375,
+                556.4403076171875,
+                546.7468872070312
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.6679593024164244,
+            0.9081670040093619,
+            0.6899593024164244
+          ],
+          "pdfPage": 74,
+          "officialPage": 100
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Grasping Forceps — 4.5mm dia., 130mm",
+      "page": 74,
+      "officialPage": 100,
+      "headingBounds": [
+        0.43073911195241393,
+        0.6971107407281864,
+        0.543391164661919,
+        0.7102645906646261
+      ],
+      "rows": [
+        {
+          "description": "Straight, w/Ratchet",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "18.1001",
+              "sourceBounds": [
+                0.8411405285485969,
+                0.7165697675250359,
+                0.8981670056672892,
+                0.7296511629618829
+              ],
+              "officialCode": "18.1001",
+              "officialBounds": [
+                529.406982421875,
+                570.0657958984375,
+                556.4332275390625,
+                580.2448120117188
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.7101104652434594,
+            0.9081670056672893,
+            0.7321104652434595
+          ],
+          "pdfPage": 74,
+          "officialPage": 100
+        },
+        {
+          "description": "Series 210",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "S210GSP",
+              "sourceBounds": [
+                0.8429601095453594,
+                0.7334663742198586,
+                0.8983840848678016,
+                0.7461847887232892
+              ],
+              "officialCode": "S210GSP",
+              "officialBounds": [
+                525.2219848632812,
+                584.5648193359375,
+                556.441162109375,
+                594.7438354492188
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.726825581471574,
+            0.9083840848678016,
+            0.748825581471574
+          ],
+          "pdfPage": 74,
+          "officialPage": 100
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Custom Grasping Forceps — 2.75mm dia., 130mm",
+      "page": 74,
+      "officialPage": 100,
+      "headingBounds": [
+        0.4307473788442963,
+        0.7768506790280136,
+        0.5502431702586518,
+        0.7900027068035862
+      ],
+      "rows": [
+        {
+          "description": "Straight, w/o Ratchet",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "17.1001",
+              "sourceBounds": [
+                0.8513238286155517,
+                0.7936046514273205,
+                0.9002036669037966,
+                0.8081395345101796
+              ],
+              "officialCode": "17.1001",
+              "officialBounds": [
+                530.37890625,
+                634.5708618164062,
+                556.4429931640625,
+                644.7498779296875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.78787209296875,
+            0.9102036669037966,
+            0.8098720929687501
+          ],
+          "pdfPage": 74,
+          "officialPage": 100
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Custom Grasping Forceps — 4.5mm dia., 130mm",
+      "page": 74,
+      "officialPage": 100,
+      "headingBounds": [
+        0.43075174722508597,
+        0.8182602533727781,
+        0.543403799934591,
+        0.8314141033092178
+      ],
+      "rows": [
+        {
+          "description": "Straight, w/o Ratchet",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "19.1001",
+              "sourceBounds": [
+                0.843121191707517,
+                0.8370886735264028,
+                0.8982230028472564,
+                0.8504113268048747
+              ],
+              "officialCode": "19.1001",
+              "officialBounds": [
+                529.4879150390625,
+                668.0689086914062,
+                556.4359130859375,
+                678.2479248046875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.8307500001656388,
+            0.9082230028472564,
+            0.8527500001656388
+          ],
+          "pdfPage": 74,
+          "officialPage": 100
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 17
+}

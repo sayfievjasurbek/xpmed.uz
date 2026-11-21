@@ -1,0 +1,97 @@
+{
+  "page": 34,
+  "groups": [
+    {
+      "title": "Conductive Gel (for use with reusable dispersive electrodes)",
+      "headerBounds": [
+        0.5289452320766902,
+        0.1389443993562379,
+        0.9285763691881305,
+        0.15961823720081308
+      ],
+      "end": 0.2083543139003242,
+      "rows": [
+        {
+          "candidate": "60-0641-001",
+          "bounds": [
+            0.8366268831931128,
+            0.17945855428411944,
+            0.9119546077088633,
+            0.18838961763885012
+          ],
+          "cy": 0.1839240859614848,
+          "description": "ASPENGEL Conductive Gel, Nonstaining; 8.45 fluid ounce, 12/case 1/pkg",
+          "rowBounds": [
+            0.5289452320766902,
+            0.15961823720081308,
+            0.934,
+            0.1925133689839572
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cables for Dispersive Electrodes",
+      "headerBounds": [
+        0.5289452320766902,
+        0.2083543139003242,
+        0.9285763691881305,
+        0.2290281517448994
+      ],
+      "end": 0.885,
+      "rows": [
+        {
+          "candidate": "1229",
+          "bounds": [
+            0.885149677166895,
+            0.2636059168294725,
+            0.9144981412639405,
+            0.2725369801842032
+          ],
+          "cy": 0.26807144850683784,
+          "description": "Cable for use with all ARM-equipped and Valleylap REM-equipped generators. 10 (3.05m),1/ea",
+          "rowBounds": [
+            0.5289452320766902,
+            0.22905525846702318,
+            0.934,
+            0.27629233511586454
+          ]
+        },
+        {
+          "candidate": "T229-5M",
+          "bounds": [
+            0.8614752494619449,
+            0.3120290259559029,
+            0.9141068284093132,
+            0.3209600893106335
+          ],
+          "cy": 0.31649455763326817,
+          "description": "Cable for use with all ARM-equipped and Valleylad REM-equipped generators. 15 (4.57m),1/ea",
+          "rowBounds": [
+            0.5289452320766902,
+            0.27718360071301246,
+            0.934,
+            0.3253119429590018
+          ]
+        },
+        {
+          "candidate": "1228",
+          "bounds": [
+            0.885149677166895,
+            0.36045213508233326,
+            0.9143024848366269,
+            0.3693831984370639
+          ],
+          "cy": 0.3649176667596986,
+          "description": "Cable for use with single dispersive electrodes and non-contact quality monitoring generators; 10 (305m), 1/ea",
+          "rowBounds": [
+            0.5289452320766902,
+            0.3253119429590018,
+            0.934,
+            0.37344028520499106
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,701 @@
+{
+  "status": "draft-only",
+  "catalogNumbersChanged": false,
+  "systems": [
+    {
+      "slug": "camera-systems",
+      "name": {
+        "ru": "Системы хирургических видеокамер",
+        "en": "Camera Systems"
+      },
+      "sourcePages": [
+        4
+      ],
+      "specialty": [
+        "surgery",
+        "orthopedics",
+        "sports"
+      ],
+      "remainingFlags": [
+        {
+          "path": "components",
+          "code": "source-association-review",
+          "message": {
+            "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+            "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+          },
+          "sourcePages": [
+            4
+          ],
+          "pdfPage": 4,
+          "printedPage": 2,
+          "sourceBounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "translatedFieldsAwaitingReview": 46,
+      "unverifiedCodes": 0
+    },
+    {
+      "slug": "light-sources-and-light-guides",
+      "name": {
+        "ru": "Источники света и световоды",
+        "en": "Light Sources and Light Guides"
+      },
+      "sourcePages": [
+        5
+      ],
+      "specialty": [
+        "surgery",
+        "orthopedics",
+        "sports"
+      ],
+      "remainingFlags": [
+        {
+          "path": "components",
+          "code": "source-association-review",
+          "message": {
+            "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+            "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+          },
+          "sourcePages": [
+            5
+          ],
+          "pdfPage": 5,
+          "printedPage": 3,
+          "sourceBounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "translatedFieldsAwaitingReview": 113,
+      "unverifiedCodes": 0
+    },
+    {
+      "slug": "medical-monitors",
+      "name": {
+        "ru": "Медицинские мониторы",
+        "en": "Medical Monitors"
+      },
+      "sourcePages": [
+        6
+      ],
+      "specialty": [
+        "surgery",
+        "orthopedics",
+        "sports"
+      ],
+      "remainingFlags": [
+        {
+          "path": "components",
+          "code": "source-association-review",
+          "message": {
+            "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+            "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+          },
+          "sourcePages": [
+            6
+          ],
+          "pdfPage": 6,
+          "printedPage": 4,
+          "sourceBounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "translatedFieldsAwaitingReview": 70,
+      "unverifiedCodes": 0
+    },
+    {
+      "slug": "surgical-video-carts-and-accessories",
+      "name": {
+        "ru": "Хирургические видеостойки и принадлежности",
+        "en": "Surgical Video Carts and Accessories"
+      },
+      "sourcePages": [
+        7
+      ],
+      "specialty": [
+        "surgery",
+        "orthopedics",
+        "sports"
+      ],
+      "remainingFlags": [
+        {
+          "path": "components",
+          "code": "source-association-review",
+          "message": {
+            "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+            "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+          },
+          "sourcePages": [
+            7
+          ],
+          "pdfPage": 7,
+          "printedPage": 5,
+          "sourceBounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "translatedFieldsAwaitingReview": 92,
+      "unverifiedCodes": 0
+    },
+    {
+      "slug": "looking-glass",
+      "name": {
+        "ru": "Система Looking Glass",
+        "en": "Looking Glass"
+      },
+      "sourcePages": [
+        8
+      ],
+      "specialty": [
+        "surgery",
+        "orthopedics",
+        "sports"
+      ],
+      "remainingFlags": [
+        {
+          "path": "componentGroups.looking-glass-light-source",
+          "code": "source-prose-review",
+          "message": {
+            "ru": "В исходном названии адаптера напечатано «A cml»; сохранено без предположения ACMI. Проверьте наименование.",
+            "en": "Printed English adapter name is malformed (\"A cml\"); preserved in both languages rather than inferring ACMI. Requires source-name review."
+          },
+          "sourcePages": [
+            8
+          ],
+          "pdfPage": 8,
+          "printedPage": 6,
+          "sourceBounds": [
+            0.494718,
+            0.323985,
+            0.90669,
+            0.33738
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "path": "components",
+          "code": "source-association-review",
+          "message": {
+            "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+            "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+          },
+          "sourcePages": [
+            8
+          ],
+          "pdfPage": 8,
+          "printedPage": 6,
+          "sourceBounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "translatedFieldsAwaitingReview": 100,
+      "unverifiedCodes": 0
+    },
+    {
+      "slug": "conmed-arthroscopes",
+      "name": {
+        "ru": "Артроскопы CONMED",
+        "en": "CONMED arthroscopes"
+      },
+      "sourcePages": [
+        9,
+        10,
+        11
+      ],
+      "specialty": [
+        "orthopedics",
+        "sports"
+      ],
+      "remainingFlags": [
+        {
+          "path": "componentGroups.bridge-cannulas",
+          "code": "source-note",
+          "message": {
+            "ru": "В узком шрифте префикс каталожных номеров визуально неоднозначен: O/0. Ручные чтения OC… являются кандидатами, а не подтверждёнными номерами; требуется сравнение обоих проходов OCR и проверка по оригиналу.",
+            "en": "The narrow typeface makes the catalog-number prefix visually ambiguous: O/0. Manual OC… readings are candidates, not confirmed codes; compare both OCR passes and verify against the original."
+          },
+          "sourcePages": [
+            13
+          ],
+          "pdfPage": 13,
+          "printedPage": 11,
+          "sourceBounds": [
+            0.427,
+            0.156,
+            0.91,
+            0.519
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "path": "componentGroups.pressure-sensing-cannula",
+          "code": "source-note",
+          "message": {
+            "ru": "В строке длины 5.0\" (127 мм) код внутренней канюли не напечатан; значение оставлено пустым. Код 83234 повторён в обеих строках адаптера притока, как в источнике.",
+            "en": "The inner-cannula code is not printed for the 5.0\" (127mm) row and is left empty. Code 83234 is repeated in both inflow-adapter rows exactly as printed."
+          },
+          "sourcePages": [
+            13
+          ],
+          "pdfPage": 13,
+          "printedPage": 11,
+          "sourceBounds": [
+            0.427,
+            0.588,
+            0.91,
+            0.65
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "path": "components",
+          "code": "source-association-review",
+          "message": {
+            "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+            "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+          },
+          "sourcePages": [
+            10
+          ],
+          "pdfPage": 10,
+          "printedPage": 8,
+          "sourceBounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "path": "components",
+          "code": "source-association-review",
+          "message": {
+            "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+            "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+          },
+          "sourcePages": [
+            9
+          ],
+          "pdfPage": 9,
+          "printedPage": 7,
+          "sourceBounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "translatedFieldsAwaitingReview": 160,
+      "unverifiedCodes": 0
+    },
+    {
+      "slug": "sheath-and-bridge-systems",
+      "name": {
+        "ru": "Системы тубусов и мосты",
+        "en": "Sheath and bridge systems"
+      },
+      "sourcePages": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "specialty": [
+        "orthopedics",
+        "sports"
+      ],
+      "remainingFlags": [
+        {
+          "path": "componentGroups.bridge-cannulas",
+          "code": "source-note",
+          "message": {
+            "ru": "В узком шрифте префикс каталожных номеров визуально неоднозначен: O/0. Ручные чтения OC… являются кандидатами, а не подтверждёнными номерами; требуется сравнение обоих проходов OCR и проверка по оригиналу.",
+            "en": "The narrow typeface makes the catalog-number prefix visually ambiguous: O/0. Manual OC… readings are candidates, not confirmed codes; compare both OCR passes and verify against the original."
+          },
+          "sourcePages": [
+            13
+          ],
+          "pdfPage": 13,
+          "printedPage": 11,
+          "sourceBounds": [
+            0.427,
+            0.156,
+            0.91,
+            0.519
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "path": "componentGroups.pressure-sensing-cannula",
+          "code": "source-note",
+          "message": {
+            "ru": "В строке длины 5.0\" (127 мм) код внутренней канюли не напечатан; значение оставлено пустым. Код 83234 повторён в обеих строках адаптера притока, как в источнике.",
+            "en": "The inner-cannula code is not printed for the 5.0\" (127mm) row and is left empty. Code 83234 is repeated in both inflow-adapter rows exactly as printed."
+          },
+          "sourcePages": [
+            13
+          ],
+          "pdfPage": 13,
+          "printedPage": 11,
+          "sourceBounds": [
+            0.427,
+            0.588,
+            0.91,
+            0.65
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "path": "components",
+          "code": "source-association-review",
+          "message": {
+            "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+            "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+          },
+          "sourcePages": [
+            10
+          ],
+          "pdfPage": 10,
+          "printedPage": 8,
+          "sourceBounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "path": "components",
+          "code": "source-association-review",
+          "message": {
+            "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+            "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+          },
+          "sourcePages": [
+            9
+          ],
+          "pdfPage": 9,
+          "printedPage": 7,
+          "sourceBounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "translatedFieldsAwaitingReview": 432,
+      "unverifiedCodes": 0
+    },
+    {
+      "slug": "cannulas",
+      "name": {
+        "ru": "Канюли",
+        "en": "Cannulas"
+      },
+      "sourcePages": [
+        13
+      ],
+      "specialty": [
+        "orthopedics",
+        "sports"
+      ],
+      "remainingFlags": [
+        {
+          "path": "componentGroups.bridge-cannulas",
+          "code": "source-note",
+          "message": {
+            "ru": "В узком шрифте префикс каталожных номеров визуально неоднозначен: O/0. Ручные чтения OC… являются кандидатами, а не подтверждёнными номерами; требуется сравнение обоих проходов OCR и проверка по оригиналу.",
+            "en": "The narrow typeface makes the catalog-number prefix visually ambiguous: O/0. Manual OC… readings are candidates, not confirmed codes; compare both OCR passes and verify against the original."
+          },
+          "sourcePages": [
+            13
+          ],
+          "pdfPage": 13,
+          "printedPage": 11,
+          "sourceBounds": [
+            0.427,
+            0.156,
+            0.91,
+            0.519
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "path": "componentGroups.pressure-sensing-cannula",
+          "code": "source-note",
+          "message": {
+            "ru": "В строке длины 5.0\" (127 мм) код внутренней канюли не напечатан; значение оставлено пустым. Код 83234 повторён в обеих строках адаптера притока, как в источнике.",
+            "en": "The inner-cannula code is not printed for the 5.0\" (127mm) row and is left empty. Code 83234 is repeated in both inflow-adapter rows exactly as printed."
+          },
+          "sourcePages": [
+            13
+          ],
+          "pdfPage": 13,
+          "printedPage": 11,
+          "sourceBounds": [
+            0.427,
+            0.588,
+            0.91,
+            0.65
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "path": "components",
+          "code": "source-association-review",
+          "message": {
+            "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+            "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+          },
+          "sourcePages": [
+            10
+          ],
+          "pdfPage": 10,
+          "printedPage": 8,
+          "sourceBounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "translatedFieldsAwaitingReview": 176,
+      "unverifiedCodes": 0
+    },
+    {
+      "slug": "uhd-laparoscopes",
+      "name": {
+        "ru": "Лапароскопы UHD",
+        "en": "UHD Laparoscopes"
+      },
+      "sourcePages": [
+        14
+      ],
+      "specialty": [
+        "surgery"
+      ],
+      "remainingFlags": [
+        {
+          "path": "components",
+          "code": "source-association-review",
+          "message": {
+            "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+            "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+          },
+          "sourcePages": [
+            14
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "sourceBounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "translatedFieldsAwaitingReview": 57,
+      "unverifiedCodes": 0
+    },
+    {
+      "slug": "hd-laparoscopes",
+      "name": {
+        "ru": "Лапароскопы HD",
+        "en": "HD Laparoscopes"
+      },
+      "sourcePages": [
+        15
+      ],
+      "specialty": [
+        "surgery"
+      ],
+      "remainingFlags": [
+        {
+          "path": "componentGroups.hd-5-5mm-laparoscope",
+          "code": "image-association-review",
+          "message": {
+            "ru": "На странице изображения лапароскопов перекрываются; кадр может включать соседний стержень. Сверьте с оригиналом.",
+            "en": "The three angled laparoscope illustrations overlap vertically in the page layout; cropping bounding rectangles may include a neighboring shaft. Visually review the isolated cutouts against the full source page."
+          },
+          "sourcePages": [
+            15
+          ],
+          "pdfPage": 15,
+          "printedPage": 13,
+          "sourceBounds": [
+            0.052,
+            0.144,
+            0.398,
+            0.4
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "path": "componentGroups.hd-5-5mm-extended-laparoscope",
+          "code": "image-association-review",
+          "message": {
+            "ru": "На странице изображения лапароскопов перекрываются; кадр может включать соседний стержень. Сверьте с оригиналом.",
+            "en": "The three angled laparoscope illustrations overlap vertically in the page layout; cropping bounding rectangles may include a neighboring shaft. Visually review the isolated cutouts against the full source page."
+          },
+          "sourcePages": [
+            15
+          ],
+          "pdfPage": 15,
+          "printedPage": 13,
+          "sourceBounds": [
+            0.052,
+            0.328,
+            0.398,
+            0.579
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "path": "componentGroups.hd-10mm-laparoscope",
+          "code": "image-association-review",
+          "message": {
+            "ru": "На странице изображения лапароскопов перекрываются; кадр может включать соседний стержень. Сверьте с оригиналом.",
+            "en": "The three angled laparoscope illustrations overlap vertically in the page layout; cropping bounding rectangles may include a neighboring shaft. Visually review the isolated cutouts against the full source page."
+          },
+          "sourcePages": [
+            15
+          ],
+          "pdfPage": 15,
+          "printedPage": 13,
+          "sourceBounds": [
+            0.052,
+            0.518,
+            0.398,
+            0.76
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "path": "componentGroups.2dhd-laparoscope",
+          "code": "image-association-review",
+          "message": {
+            "ru": "На странице изображения лапароскопов перекрываются; кадр может включать соседний стержень. Сверьте с оригиналом.",
+            "en": "The three angled laparoscope illustrations overlap vertically in the page layout; cropping bounding rectangles may include a neighboring shaft. Visually review the isolated cutouts against the full source page."
+          },
+          "sourcePages": [
+            15
+          ],
+          "pdfPage": 15,
+          "printedPage": 13,
+          "sourceBounds": [
+            0.052,
+            0.747,
+            0.335,
+            0.904
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "path": "components",
+          "code": "source-association-review",
+          "message": {
+            "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+            "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+          },
+          "sourcePages": [
+            15
+          ],
+          "pdfPage": 15,
+          "printedPage": 13,
+          "sourceBounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "translatedFieldsAwaitingReview": 104,
+      "unverifiedCodes": 0
+    },
+    {
+      "slug": "sterilization-trays",
+      "name": {
+        "ru": "Лотки для стерилизации",
+        "en": "Sterilization Trays"
+      },
+      "sourcePages": [
+        16
+      ],
+      "specialty": [
+        "surgery",
+        "orthopedics",
+        "sports"
+      ],
+      "remainingFlags": [
+        {
+          "path": "components",
+          "code": "source-association-review",
+          "message": {
+            "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+            "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+          },
+          "sourcePages": [
+            16
+          ],
+          "pdfPage": 16,
+          "printedPage": 14,
+          "sourceBounds": [
+            0,
+            0,
+            1,
+            1
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "translatedFieldsAwaitingReview": 74,
+      "unverifiedCodes": 0
+    }
+  ],
+  "resolvedSpecialtyFlags": 13,
+  "remainingFlagCount": 24,
+  "remainingFlagsByCode": {
+    "source-association-review": 13,
+    "source-prose-review": 1,
+    "source-note": 6,
+    "image-association-review": 4
+  }
+}

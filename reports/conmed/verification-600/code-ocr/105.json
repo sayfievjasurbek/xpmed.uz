@@ -1,0 +1,239 @@
+{
+  "id": 105,
+  "bounds": [
+    0.7440813930737624,
+    0.2725369801842032,
+    0.8039522598317355,
+    0.2874686017303935
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "11900",
+      "confidence": 89.520493,
+      "words": [
+        {
+          "text": "11900",
+          "confidence": 89.520493,
+          "pixelBounds": [
+            3852,
+            1977,
+            4022,
+            2035
+          ],
+          "lineId": "13.1.9",
+          "bounds": [
+            0.7536685580121307,
+            0.2758861289422272,
+            0.786930150655449,
+            0.28397990510745186
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "11900",
+      "confidence": 84.137634,
+      "words": [
+        {
+          "text": "11900",
+          "confidence": 84.137634,
+          "pixelBounds": [
+            3846,
+            1977,
+            4022,
+            2035
+          ],
+          "lineId": "17.1.1",
+          "bounds": [
+            0.7524946194482489,
+            0.2758861289422272,
+            0.786930150655449,
+            0.28397990510745186
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "11900",
+      "confidence": 10.671616,
+      "words": [
+        {
+          "text": "11900",
+          "confidence": 10.671616,
+          "pixelBounds": [
+            9,
+            24,
+            219,
+            82
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "11900",
+      "confidence": 5.605621,
+      "words": [
+        {
+          "text": "11900",
+          "confidence": 5.605621,
+          "pixelBounds": [
+            9,
+            24,
+            219,
+            82
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale0.6-psm7",
+      "text": "11900",
+      "confidence": 90.15876,
+      "words": [
+        {
+          "text": "11900",
+          "confidence": 90.15876,
+          "pixelBounds": [
+            23,
+            26,
+            128,
+            61
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        39,
+        14,
+        229,
+        92
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale0.6-psm8",
+      "text": "T1900.",
+      "confidence": 31.022228,
+      "words": [
+        {
+          "text": "T1900.",
+          "confidence": 31.022228,
+          "pixelBounds": [
+            23,
+            26,
+            128,
+            61
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        39,
+        14,
+        229,
+        92
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale0.6-psm13",
+      "text": "T1900.",
+      "confidence": 31.022228,
+      "words": [
+        {
+          "text": "T1900.",
+          "confidence": 31.022228,
+          "pixelBounds": [
+            23,
+            26,
+            128,
+            61
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        39,
+        14,
+        229,
+        92
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale1-psm7",
+      "text": "11900",
+      "confidence": 79.892586,
+      "words": [
+        {
+          "text": "11900",
+          "confidence": 79.892586,
+          "pixelBounds": [
+            25,
+            30,
+            200,
+            88
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        39,
+        14,
+        229,
+        92
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale1-psm8",
+      "text": "71900",
+      "confidence": 59.645691,
+      "words": [
+        {
+          "text": "71900",
+          "confidence": 59.645691,
+          "pixelBounds": [
+            25,
+            30,
+            200,
+            88
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        39,
+        14,
+        229,
+        92
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale1-psm13",
+      "text": "71900",
+      "confidence": 59.645691,
+      "words": [
+        {
+          "text": "71900",
+          "confidence": 59.645691,
+          "pixelBounds": [
+            25,
+            30,
+            200,
+            88
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        39,
+        14,
+        229,
+        92
+      ]
+    }
+  ]
+}

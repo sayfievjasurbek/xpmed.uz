@@ -1,49 +1,51 @@
-const legacy = 'https://xpmed.uz';
-const category = '/product-category/';
-const textFragment = (text) => '#:~:text=' + encodeURIComponent(text);
-
-const paths = {
-  catalog: ['/katalog/', '/catalog/'],
-  double: [category + 'double-medical/', category + 'double-medical-en/'],
-  conmed: [category + 'conmed/', category + 'conmed-en/'],
-  synimed: [category + 'synimed/', category + 'synimed-en/'],
-  trauma: [category + 'double-medical/trauma/', category + 'double-medical-en/trauma-en/'],
-  hip: [
-    category + 'double-medical/stenocostal-plate-ru/sistema-dlya-tazobedrennogo-sustava-joint/',
-    category + 'double-medical-en/stenocostal-plate/hip-joint-system/',
-  ],
-  spineSystems: [
-    category + 'double-medical/stenocostal-plate-ru/spinalnaya-sistema/',
-    category + 'double-medical-en/stenocostal-plate/spine-system/',
-  ],
-  conmedImplants: [category + 'conmed/implant/', category + 'conmed-en/implant-en/'],
-  knee: [category + 'conmed/kolennyj-sustav/', category + 'conmed-en/knee-joint/'],
-  shoulder: [category + 'conmed/plechevoj-sustav/', category + 'conmed-en/shoulder-joint/'],
-  cement: [category + 'synimed/czement-2/', category + 'synimed-en/cement/'],
-  needles: [
-    category + 'synimed/igla/',
-    '/product/synimed-en/cement/vertebroplastiya-uchun-sinicem-steril-punching-kanulasi/',
-  ],
-  company: ['/o-nas/', '/about-us/'],
-  certificates: ['/' + textFragment('Сертификаты'), '/homepage/' + textFragment('Certificates')],
-  clients: ['/' + textFragment('Наши клиенты'), '/homepage/' + textFragment('Our clients')],
-  partners: [
-    '/' + textFragment('Компании, продукты которых мы поставляем'),
-    '/homepage/' + textFragment('Companies whose products we supply'),
-  ],
-  contacts: ['/kontakty/', '/contacts/'],
+export const catalogSlugs = {
+  spinendos: 'spinendos/',
+  all: '',
+  double: 'double-medical/',
+  conmed: 'conmed/',
+  synimed: 'synimed/',
+  new: 'new/',
+  'BIOTECHNI S.A.S.': 'biotechni/',
+  'ge-healthcare': 'ge-healthcare/',
 };
 
-const specialtyDestinations = {
-  orthopedics: 'double',
-  traumatology: 'trauma',
-  spine: 'spineSystems',
-  sports: 'conmed',
-  surgery: 'conmed',
+export function homeRoute(lang) {
+  return lang === 'en' ? '/en/' : '/';
+}
+
+export function catalogRoute(lang, scope = 'all', filters = {}) {
+  const query = new URLSearchParams(filters).toString();
+  const taxonomy=parseTaxonomyScope(scope);
+  const path = taxonomy ? areaRoute(lang,taxonomy.area,taxonomy.subcategory) : homeRoute(lang) + 'catalog/' + catalogSlugs[scope];
+  return query ? path + '?' + query + '#catalog-results' : path;
+}
+
+const categoryDestinations = {
+  trauma: ['double', { category: 'trauma' }],
+  hip: ['double', { category: 'joint-replacement' }],
+  spineSystems: ['double', { category: 'spine' }],
+  conmedImplants: ['conmed', { category: 'arthroscopy' }],
+  knee: ['conmed', { subcategory: 'knee' }],
+  shoulder: ['conmed', { subcategory: 'shoulder' }],
+  cement: ['synimed', { category: 'bone-cements' }],
+  needles: ['synimed', { q: 'cannula' }],
 };
+
+export const specialties = ['orthopedics', 'traumatology', 'spine', 'sports', 'surgery'];
 
 export function destination(key, lang) {
-  return legacy + paths[specialtyDestinations[key] ?? key][lang === 'en' ? 1 : 0];
+  if (key === 'contacts') return homeRoute(lang) + 'contacts/';
+  if (key === 'catalogs') return homeRoute(lang) + 'catalogs/';
+  if (key === 'catalog') return catalogRoute(lang);
+  if (key === 'brands') return homeRoute(lang)+'brands/';
+  if (specialties.includes(key)) return catalogRoute(lang, 'all', { specialty: key });
+  if (areaKeys.includes(key)) return areaRoute(lang,key);
+  if (Object.hasOwn(catalogSlugs, key)) return catalogRoute(lang, key);
+  if (Object.hasOwn(categoryDestinations, key)) return catalogRoute(lang, ...categoryDestinations[key]);
+  if (key === 'certificates' || key === 'clients') return homeRoute(lang) + 'about/#' + key;
+  if (key === 'partners') return homeRoute(lang) + 'contacts/#partnership';
+  if (key === 'company') return homeRoute(lang) + 'about/';
+  return homeRoute(lang) + 'contacts/';
 }
 
 export const brands = {
@@ -52,18 +54,27 @@ export const brands = {
   synimed: ['cement', 'needles'],
 };
 
-export const specialties = Object.keys(specialtyDestinations);
 export const about = ['company', 'certificates', 'clients', 'partners'];
 
 export const contact = {
-  phone: '+998 55 500 8282',
-  tel: '+998555008282',
-  email: 'xpmedcompany@mail.ru',
+  phones: [
+    { label: '+998 95 476 66 60', tel: '+998954766660' },
+    { label: '+998 77 371 66 60', tel: '+998773716660' },
+    { label: '+998 99 022 66 60', tel: '+998990226660' },
+  ],
+  phone: '+998 95 476 66 60',
+  tel: '+998954766660',
+  email: 'info@xpmed.com',
+  website: 'https://www.xpmed.uz',
+  coordinates: { latitude: 41.269680, longitude: 69.240328 },
 };
 
 export const socialLinks = {
-  telegram: 'https://t.me/xpme',
-  instagram: 'https://www.instagram.com/xpmed.uz/',
-  facebook: 'https://www.facebook.com/xpmed.uz/',
+  telegram: null,
+  instagram: null,
+  facebook: null,
   youtube: 'https://www.youtube.com/watch?v=E3vn7Gq2PFI',
 };
+
+export function brandCatalogRoute(lang,brand){if(['unassigned','unspecified'].includes(brand))return catalogRoute(lang);const key=brand==='double-medical'?'double':brand==='biotechni'?'BIOTECHNI S.A.S.':brand;return Object.hasOwn(catalogSlugs,key)?catalogRoute(lang,key):homeRoute(lang)+'catalog/'+encodeURIComponent(brand)+'/';}
+import {areaKeys,areaRoute,parseTaxonomyScope} from './clinical-taxonomy.mjs';

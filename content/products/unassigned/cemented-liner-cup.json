@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "slug": "cemented-liner-cup",
+  "brand": "unassigned",
+  "category": "joint-replacement",
+  "subcategory": "",
+  "specialty": [
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Чашка и вкладыш",
+    "en": "Cemented liner and cup"
+  },
+  "shortDescription": {
+    "ru": "Цементная фиксация",
+    "en": "Cemented fixation"
+  },
+  "description": {
+    "ru": "Вертлужные компоненты для эндопротезирования тазобедренного сустава.",
+    "en": "Acetabular components for hip replacement."
+  },
+  "heroImage": "/images/products/unassigned/cemented-liner-cup/cemented-cup.webp",
+  "imageType": "cutout",
+  "gallery": [
+    "/images/products/unassigned/cemented-liner-cup/cemented-cup.webp"
+  ],
+  "features": [],
+  "hotspots": [],
+  "components": [
+    {
+      "id": "cup",
+      "name": {
+        "ru": "Чашка и вкладыш",
+        "en": "Cemented liner and cup"
+      },
+      "image": "/images/products/unassigned/cemented-liner-cup/cemented-cup.webp",
+      "refCodes": [],
+      "sizes": [],
+      "variants": [],
+      "legacyDocuments": [
+        {
+          "type": "product-page",
+          "ru": "https://xpmed.uz/product/novinki-2/cemented-liner-cup/",
+          "en": "https://xpmed.uz/product/new/cemented-liner-cup-2/"
+        }
+      ]
+    }
+  ],
+  "specTables": [],
+  "refCodes": [],
+  "sourcePdf": null,
+  "sourcePages": [],
+  "catalogEdition": null,
+  "isNew": true,
+  "status": "published",
+  "legacyId": "cup",
+  "legacyBrand": "unspecified",
+  "review": {
+    "flags": [],
+    "notes": [
+      "Migrated existing catalog content; no additional dimensions or reference codes inferred."
+    ]
+  },
+  "imageDimensions": {
+    "/images/products/unassigned/cemented-liner-cup/cemented-cup.webp": {
+      "width": 640,
+      "height": 640
+    }
+  },
+  "subcategories": [],
+  "legacySources": [
+    {
+      "productId": "cup",
+      "language": "ru",
+      "url": "https://xpmed.uz/product/novinki-2/cemented-liner-cup/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    },
+    {
+      "productId": "cup",
+      "language": "en",
+      "url": "https://xpmed.uz/product/new/cemented-liner-cup-2/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    }
+  ]
+}

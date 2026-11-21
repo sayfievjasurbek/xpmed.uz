@@ -1,0 +1,117 @@
+{
+  "id": 29,
+  "bounds": [
+    0.8370181960477402,
+    0.505023723137036,
+    0.9090197612991586,
+    0.52093217973765
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "VP8578",
+      "confidence": 75.22245,
+      "words": [
+        {
+          "text": "VP8578",
+          "confidence": 75.22245,
+          "pixelBounds": [
+            4364,
+            3655,
+            4576,
+            3714
+          ],
+          "lineId": "8.1.14",
+          "bounds": [
+            0.853844648796713,
+            0.5100474462740721,
+            0.8953238113872041,
+            0.5182807703042144
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "VP8578",
+      "confidence": 84.931618,
+      "words": [
+        {
+          "text": "VP8578",
+          "confidence": 84.931618,
+          "pixelBounds": [
+            4364,
+            3655,
+            4576,
+            3714
+          ],
+          "lineId": "68.1.1",
+          "bounds": [
+            0.853844648796713,
+            0.5100474462740721,
+            0.8953238113872041,
+            0.5182807703042144
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "ve VP89/8",
+      "confidence": 34.003906,
+      "words": [
+        {
+          "text": "ve",
+          "confidence": 34.003906,
+          "pixelBounds": [
+            6,
+            85,
+            81,
+            94
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "VP89/8",
+          "confidence": 66.445763,
+          "pixelBounds": [
+            96,
+            37,
+            298,
+            95
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "_.. VP8578",
+      "confidence": 8.169785,
+      "words": [
+        {
+          "text": "_..",
+          "confidence": 8.169785,
+          "pixelBounds": [
+            6,
+            85,
+            81,
+            94
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "VP8578",
+          "confidence": 53.637463,
+          "pixelBounds": [
+            104,
+            37,
+            295,
+            95
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

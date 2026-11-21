@@ -1,0 +1,4752 @@
+{
+  "slug": "hip-stem-revision-instrument-set",
+  "brand": "double-medical",
+  "category": "arthroplasty-instrument-sets",
+  "subcategory": "hip",
+  "specialty": [
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Набор инструментов для ревизии бедренной ножки",
+    "en": "Hip Stem Revision Instrument Set"
+  },
+  "catalogType": "list",
+  "shortDescription": {
+    "ru": "Инструменты для эндопротезирования",
+    "en": "Arthroplasty instruments"
+  },
+  "description": {
+    "ru": "Набор инструментов для ревизии бедренной ножки. Каталожные номера и комплектация приведены по Joint Catalogue Double Medical.",
+    "en": "Hip Stem Revision Instrument Set. Catalog numbers and contents are listed according to the Double Medical Joint Catalogue."
+  },
+  "heroImage": "/images/products/double-medical/joint-catalogue/page-091-xref-1362.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "src": "/images/products/double-medical/joint-catalogue/page-091-xref-1362.webp",
+      "width": 564,
+      "height": 380,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          274,
+          208
+        ],
+        "enhancedSize": [
+          548,
+          416
+        ]
+      },
+      "sourcePages": [
+        91
+      ],
+      "imageCaption": {
+        "ru": "Контейнер: Набор инструментов для ревизии бедренной ножки",
+        "en": "Hip Stem Revision Instrument Case"
+      }
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [
+    {
+      "id": "joint-hip-stem-revision-instrument-set-p88",
+      "title": {
+        "ru": "Инструменты · страница 88",
+        "en": "Instruments · page 88"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Экстрактор эндопротеза II",
+            "en": "Prosthesis Extractor II"
+          },
+          "117413600"
+        ],
+        [
+          {
+            "ru": "Скользящий молоток",
+            "en": "Slided Hammer"
+          },
+          "117413700"
+        ],
+        [
+          {
+            "ru": "Остеотом, плоский, короткий наконечник",
+            "en": "Osteotome, Flat, short tip"
+          },
+          "117410200"
+        ],
+        [
+          {
+            "ru": "Остеотом, V-образный",
+            "en": "Osteotome, V shape"
+          },
+          "117410300"
+        ],
+        [
+          {
+            "ru": "Остеотом, плоский, длинный наконечник",
+            "en": "Osteotome, Flat, long tip"
+          },
+          "117410400"
+        ],
+        [
+          {
+            "ru": "Остеотом, крестообразный",
+            "en": "Osteotome, Cruciform"
+          },
+          "117410500"
+        ],
+        [
+          {
+            "ru": "Остеотом, полукруглый",
+            "en": "Osteotome, Semicircle"
+          },
+          "117410600"
+        ],
+        [
+          {
+            "ru": "Остеотом, дугообразный",
+            "en": "Osteotome, Arc-shaped"
+          },
+          "117413900"
+        ],
+        [
+          {
+            "ru": "Остеотом, ступенчатый",
+            "en": "Osteotome, Terrace shape"
+          },
+          "117410700"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 88,
+          "sourceBounds": [
+            0.13929256923498767,
+            0.18587360594795538,
+            0.65,
+            0.19467814517706908
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p88",
+              "row": 1,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117413600",
+                  "line": "117413600",
+                  "confidence": 96.559814,
+                  "bounds": [
+                    0.13929256923498767,
+                    0.18587360594795538,
+                    0.22895530573073758,
+                    0.19467814517706908
+                  ],
+                  "cy": 0.19027587556251224
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117413600",
+                  "line": "117413600",
+                  "confidence": 94.012833,
+                  "bounds": [
+                    0.13929256923498767,
+                    0.18587360594795538,
+                    0.22895530573073758,
+                    0.19467814517706908
+                  ],
+                  "cy": 0.19027587556251224
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117413600",
+                  "line": "117413600",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13645621150998555,
+                    0.18459302313913462,
+                    0.23014256783246426,
+                    0.19767441857598167
+                  ],
+                  "cy": 0.19113372085755814
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Prosthesis Extractor II",
+            "PSM11": "Prosthesis Extractor II",
+            "Vision": "Prosthesis Extractor II"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13929256923498767,
+            0.18587360594795538,
+            0.65,
+            0.19467814517706908
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 88,
+          "sourceBounds": [
+            0.13929256923498767,
+            0.2504402269614557,
+            0.65,
+            0.25904910976325574
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p88",
+              "row": 2,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117413700",
+                  "line": "117413700",
+                  "confidence": 96.164101,
+                  "bounds": [
+                    0.13929256923498767,
+                    0.2504402269614557,
+                    0.22895530573073758,
+                    0.25904910976325574
+                  ],
+                  "cy": 0.2547446683623557
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117413700",
+                  "line": "117413700",
+                  "confidence": 89.397751,
+                  "bounds": [
+                    0.13929256923498767,
+                    0.2504402269614557,
+                    0.22895530573073758,
+                    0.25904910976325574
+                  ],
+                  "cy": 0.2547446683623557
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117413700",
+                  "line": "117413700",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1343703529792659,
+                    0.24836061610926807,
+                    0.23019176275479902,
+                    0.2618138026136927
+                  ],
+                  "cy": 0.2550872093614804
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Slided Hammer",
+            "PSM11": "Slided Hammer",
+            "Vision": "Slided Hammer"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13929256923498767,
+            0.2504402269614557,
+            0.65,
+            0.25904910976325574
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 88,
+          "sourceBounds": [
+            0.13929256923498767,
+            0.31481119154764237,
+            0.65,
+            0.32361573077675604
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p88",
+              "row": 3,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117410200",
+                  "line": "117410200",
+                  "confidence": 95.931091,
+                  "bounds": [
+                    0.13929256923498767,
+                    0.31481119154764237,
+                    0.22895530573073758,
+                    0.32361573077675604
+                  ],
+                  "cy": 0.3192134611621992
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117410200",
+                  "line": "117410200",
+                  "confidence": 87.754395,
+                  "bounds": [
+                    0.13929256923498767,
+                    0.31481119154764237,
+                    0.22895530573073758,
+                    0.32361573077675604
+                  ],
+                  "cy": 0.3192134611621992
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117410200",
+                  "line": "117410200",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13645621150998555,
+                    0.31395348837580805,
+                    0.23014256783246426,
+                    0.32558139522053753
+                  ],
+                  "cy": 0.3197674417981728
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Osteotome, Flat, short tip",
+            "PSM11": "Osteotome, Flat, short tip",
+            "Vision": "Osteotome, Flat, short tip"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13929256923498767,
+            0.31481119154764237,
+            0.65,
+            0.32361573077675604
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 88,
+          "sourceBounds": [
+            0.13929256923498767,
+            0.3793778125611426,
+            0.65,
+            0.3881823517902563
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p88",
+              "row": 4,
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "text": "117410300",
+                  "line": "117410300",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1343619652320454,
+                    0.37483411882658735,
+                    0.23223681143532784,
+                    0.3926077413848177
+                  ],
+                  "cy": 0.3837209301057025
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "117410300",
+                  "line": "117410300",
+                  "confidence": 96.701958,
+                  "bounds": [
+                    0.13929256923498767,
+                    0.3793778125611426,
+                    0.22895530573073758,
+                    0.3881823517902563
+                  ],
+                  "cy": 0.3837800821756995
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117410300",
+                  "line": "117410300",
+                  "confidence": 74.26638,
+                  "bounds": [
+                    0.13929256923498767,
+                    0.3793778125611426,
+                    0.22895530573073758,
+                    0.3881823517902563
+                  ],
+                  "cy": 0.3837800821756995
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Osteotome, V shape —",
+            "PSM11": "Osteotome, V shape",
+            "Vision": ""
+          },
+          "itemVerification": "verified (Codex visual 600-DPI row)",
+          "bounds": [
+            0.13929256923498767,
+            0.3793778125611426,
+            0.65,
+            0.3881823517902563
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 88,
+          "sourceBounds": [
+            0.13929256923498767,
+            0.4439444335746429,
+            0.65,
+            0.45255331637644297
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p88",
+              "row": 5,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117410400",
+                  "line": "117410400",
+                  "confidence": 94.910217,
+                  "bounds": [
+                    0.13929256923498767,
+                    0.4439444335746429,
+                    0.22895530573073758,
+                    0.45255331637644297
+                  ],
+                  "cy": 0.44824887497554294
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117410400",
+                  "line": "117410400",
+                  "confidence": 85.327637,
+                  "bounds": [
+                    0.13929256923498767,
+                    0.4439444335746429,
+                    0.22895530573073758,
+                    0.45255331637644297
+                  ],
+                  "cy": 0.44824887497554294
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117410400",
+                  "line": "117410400 Osteotome, Flat, long tip",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13441955490345153,
+                    0.44186046490675546,
+                    0.21507128252133317,
+                    0.45784883752783756
+                  ],
+                  "cy": 0.4498546512172965
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Osteotome, Flat, long tip",
+            "PSM11": "Osteotome, Flat, long tip",
+            "Vision": "Osteotome, Flat, long tip"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13929256923498767,
+            0.4439444335746429,
+            0.65,
+            0.45255331637644297
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 88,
+          "sourceBounds": [
+            0.13929256923498767,
+            0.5083153981608296,
+            0.65,
+            0.5171199373899432
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p88",
+              "row": 6,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117410500",
+                  "line": "117410500",
+                  "confidence": 96.446136,
+                  "bounds": [
+                    0.13929256923498767,
+                    0.5083153981608296,
+                    0.22895530573073758,
+                    0.5171199373899432
+                  ],
+                  "cy": 0.5127176677753864
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117410500",
+                  "line": "117410500",
+                  "confidence": 77.266449,
+                  "bounds": [
+                    0.13929256923498767,
+                    0.5083153981608296,
+                    0.22895530573073758,
+                    0.5171199373899432
+                  ],
+                  "cy": 0.5127176677753864
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117410500",
+                  "line": "117410500",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13434009582704184,
+                    0.5055367130268479,
+                    0.23225868247847078,
+                    0.5206260773057321
+                  ],
+                  "cy": 0.51308139516629
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Osteotome, Cruciform",
+            "PSM11": "Osteotome, Cruciform",
+            "Vision": ""
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13929256923498767,
+            0.5083153981608296,
+            0.65,
+            0.5171199373899432
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 88,
+          "sourceBounds": [
+            0.13929256923498767,
+            0.5728820191743299,
+            0.65,
+            0.5816865584034435
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p88",
+              "row": 7,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117410600",
+                  "line": "117410600",
+                  "confidence": 96.354294,
+                  "bounds": [
+                    0.13929256923498767,
+                    0.5728820191743299,
+                    0.22895530573073758,
+                    0.5816865584034435
+                  ],
+                  "cy": 0.5772842887888867
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117410600",
+                  "line": "117410600",
+                  "confidence": 89.172081,
+                  "bounds": [
+                    0.13929256923498767,
+                    0.5728820191743299,
+                    0.22895530573073758,
+                    0.5816865584034435
+                  ],
+                  "cy": 0.5772842887888867
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117410600",
+                  "line": "117410600",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13436940345020618,
+                    0.5696097835733419,
+                    0.2322293725992463,
+                    0.5859134723341296
+                  ],
+                  "cy": 0.5777616279537358
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Osteotome, Semicircle",
+            "PSM11": "Osteotome, Semicircle",
+            "Vision": ""
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13929256923498767,
+            0.5728820191743299,
+            0.65,
+            0.5816865584034435
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 88,
+          "sourceBounds": [
+            0.13929256923498767,
+            0.6374486401878302,
+            0.65,
+            0.6460575229896303
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p88",
+              "row": 8,
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "text": "117413900",
+                  "line": "117413900",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13437060167284537,
+                    0.6335670960975222,
+                    0.23222817437551432,
+                    0.6498631365416692
+                  ],
+                  "cy": 0.6417151163195957
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "117413900",
+                  "line": "117413900",
+                  "confidence": 96.540199,
+                  "bounds": [
+                    0.13929256923498767,
+                    0.6374486401878302,
+                    0.22895530573073758,
+                    0.6460575229896303
+                  ],
+                  "cy": 0.6417530815887302
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117413900",
+                  "line": "117413900",
+                  "confidence": 80.733727,
+                  "bounds": [
+                    0.13929256923498767,
+                    0.6374486401878302,
+                    0.22895530573073758,
+                    0.6460575229896303
+                  ],
+                  "cy": 0.6417530815887302
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Osteotome, Arc-shaped",
+            "PSM11": "Osteotome, Arc-shaped",
+            "Vision": ""
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13929256923498767,
+            0.6374486401878302,
+            0.65,
+            0.6460575229896303
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 88,
+          "sourceBounds": [
+            0.13929256923498767,
+            0.7018196047740168,
+            0.65,
+            0.7106241440031305
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p88",
+              "row": 9,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117410700",
+                  "line": "117410700",
+                  "confidence": 95.707611,
+                  "bounds": [
+                    0.13929256923498767,
+                    0.7018196047740168,
+                    0.22895530573073758,
+                    0.7106241440031305
+                  ],
+                  "cy": 0.7062218743885736
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117410700",
+                  "line": "117410700",
+                  "confidence": 74.230415,
+                  "bounds": [
+                    0.13929256923498767,
+                    0.7018196047740168,
+                    0.22895530573073758,
+                    0.7106241440031305
+                  ],
+                  "cy": 0.7062218743885736
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117410700",
+                  "line": "117410700",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13645621150998555,
+                    0.7005813952321578,
+                    0.23014256783246426,
+                    0.7136627906690048
+                  ],
+                  "cy": 0.7071220929505813
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Osteotome, Terrace shape",
+            "PSM11": "Osteotome, Terrace shape",
+            "Vision": "Osteotome, Terrace shape"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13929256923498767,
+            0.7018196047740168,
+            0.65,
+            0.7106241440031305
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "rowImages": [
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-088-xref-1323.webp",
+          "width": 1164,
+          "height": 193,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              764,
+              535
+            ],
+            "enhancedSize": [
+              1528,
+              1070
+            ]
+          },
+          "sourcePages": [
+            88
+          ],
+          "imageCaption": {
+            "ru": "Экстрактор эндопротеза II",
+            "en": "Prosthesis Extractor II"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-088-xref-1307.webp",
+          "width": 1320,
+          "height": 259,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              913,
+              655
+            ],
+            "enhancedSize": [
+              1826,
+              1310
+            ]
+          },
+          "sourcePages": [
+            88
+          ],
+          "imageCaption": {
+            "ru": "Скользящий молоток",
+            "en": "Slided Hammer"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-088-xref-1309.webp",
+          "width": 1313,
+          "height": 220,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              891,
+              638
+            ],
+            "enhancedSize": [
+              1782,
+              1276
+            ]
+          },
+          "sourcePages": [
+            88
+          ],
+          "imageCaption": {
+            "ru": "Остеотом, плоский, короткий наконечник",
+            "en": "Osteotome, Flat, short tip"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-088-xref-1311.webp",
+          "width": 1357,
+          "height": 218,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              733,
+              628
+            ],
+            "enhancedSize": [
+              1466,
+              1256
+            ]
+          },
+          "sourcePages": [
+            88
+          ],
+          "imageCaption": {
+            "ru": "Остеотом, V-образный",
+            "en": "Osteotome, V shape"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-088-xref-1319.webp",
+          "width": 1362,
+          "height": 201,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              765,
+              552
+            ],
+            "enhancedSize": [
+              1530,
+              1104
+            ]
+          },
+          "sourcePages": [
+            88
+          ],
+          "imageCaption": {
+            "ru": "Остеотом, плоский, длинный наконечник",
+            "en": "Osteotome, Flat, long tip"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-088-xref-1321.webp",
+          "width": 1383,
+          "height": 191,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              748,
+              508
+            ],
+            "enhancedSize": [
+              1496,
+              1016
+            ]
+          },
+          "sourcePages": [
+            88
+          ],
+          "imageCaption": {
+            "ru": "Остеотом, крестообразный",
+            "en": "Osteotome, Cruciform"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-088-xref-1313.webp",
+          "width": 1332,
+          "height": 222,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              742,
+              645
+            ],
+            "enhancedSize": [
+              1484,
+              1290
+            ]
+          },
+          "sourcePages": [
+            88
+          ],
+          "imageCaption": {
+            "ru": "Остеотом, полукруглый",
+            "en": "Osteotome, Semicircle"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-088-xref-1315.webp",
+          "width": 1340,
+          "height": 198,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              762,
+              537
+            ],
+            "enhancedSize": [
+              1524,
+              1074
+            ]
+          },
+          "sourcePages": [
+            88
+          ],
+          "imageCaption": {
+            "ru": "Остеотом, дугообразный",
+            "en": "Osteotome, Arc-shaped"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-088-xref-1317.webp",
+          "width": 1354,
+          "height": 208,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              752,
+              579
+            ],
+            "enhancedSize": [
+              1504,
+              1158
+            ]
+          },
+          "sourcePages": [
+            88
+          ],
+          "imageCaption": {
+            "ru": "Остеотом, ступенчатый",
+            "en": "Osteotome, Terrace shape"
+          }
+        }
+      ],
+      "rowImageLabel": {
+        "ru": "Инструмент",
+        "en": "Instrument"
+      },
+      "sourcePages": [
+        88
+      ]
+    },
+    {
+      "id": "joint-hip-stem-revision-instrument-set-p89",
+      "title": {
+        "ru": "Инструменты · страница 89",
+        "en": "Instruments · page 89"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Экстрактор ацетабулярной чашки, φ48×345мм",
+            "en": "Acetabular Cup Extractor, φ48×345mm"
+          },
+          "117410800"
+        ],
+        [
+          {
+            "ru": "Экстрактор ацетабулярной чашки, 652x345мм",
+            "en": "Acetabular Cup Extractor, 652x345mm"
+          },
+          "117410900"
+        ],
+        [
+          {
+            "ru": "Экстрактор ацетабулярной чашки, φ56×345мм",
+            "en": "Acetabular Cup Extractor, φ56×345mm"
+          },
+          "117411000"
+        ],
+        [
+          {
+            "ru": "Метчик для цементной фиксации, M11",
+            "en": "Tap for Cemented, M11"
+          },
+          "117411100"
+        ],
+        [
+          {
+            "ru": "Метчик для цементной фиксации, M9",
+            "en": "Tap for Cemented, M9"
+          },
+          "117413500"
+        ],
+        [
+          {
+            "ru": "Кюретка, 380×6мм",
+            "en": "Curette, 380×6mm"
+          },
+          "117411200"
+        ],
+        [
+          {
+            "ru": "Кюретка, 380x7мм",
+            "en": "Curette, 380x7mm"
+          },
+          "117411300"
+        ],
+        [
+          {
+            "ru": "Обратная кюретка, малый",
+            "en": "Reverse Curette, small"
+          },
+          "117411400"
+        ],
+        [
+          {
+            "ru": "Обратная кюретка, большой",
+            "en": "Reverse Curette, large"
+          },
+          "117413800"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 89,
+          "sourceBounds": [
+            0.13874417329311764,
+            0.18626491880258267,
+            0.65,
+            0.19506945803169634
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p89",
+              "row": 1,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117410800",
+                  "line": "117410800",
+                  "confidence": 96.302864,
+                  "bounds": [
+                    0.13874417329311764,
+                    0.18626491880258267,
+                    0.22813271181793254,
+                    0.19506945803169634
+                  ],
+                  "cy": 0.1906671884171395
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117410800",
+                  "line": "117410800",
+                  "confidence": 96.302864,
+                  "bounds": [
+                    0.13874417329311764,
+                    0.18626491880258267,
+                    0.22813271181793254,
+                    0.19506945803169634
+                  ],
+                  "cy": 0.1906671884171395
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117410800",
+                  "line": "117410800",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13435872621126552,
+                    0.18438620166116393,
+                    0.2302033899995951,
+                    0.19933472867939306
+                  ],
+                  "cy": 0.1918604651702785
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Acetabular Cup Extractor, 648x345mm",
+            "PSM11": "Acetabular Cup Extractor, 648x345mm",
+            "Vision": "Acetabular Cup Extractor, $48×345mm"
+          },
+          "itemVerification": "verified (Codex visual 600-DPI row + OCR)",
+          "bounds": [
+            0.13874417329311764,
+            0.18626491880258267,
+            0.65,
+            0.19506945803169634
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 89,
+          "sourceBounds": [
+            0.13874417329311764,
+            0.2514185090980239,
+            0.65,
+            0.26022304832713755
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p89",
+              "row": 2,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117410900",
+                  "line": "117410900",
+                  "confidence": 96.493919,
+                  "bounds": [
+                    0.13874417329311764,
+                    0.2514185090980239,
+                    0.22813271181793254,
+                    0.26022304832713755
+                  ],
+                  "cy": 0.2558207787125807
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117410900",
+                  "line": "117410900",
+                  "confidence": 91.427917,
+                  "bounds": [
+                    0.13874417329311764,
+                    0.2514185090980239,
+                    0.22813271181793254,
+                    0.26022304832713755
+                  ],
+                  "cy": 0.2558207787125807
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117410900",
+                  "line": "117410900",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13439553259813244,
+                    0.2470295361828505,
+                    0.2322032464917869,
+                    0.2660518590192269
+                  ],
+                  "cy": 0.2565406976010387
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Acetabular Cup Extractor, 652x345mm",
+            "PSM11": "Acetabular Cup Extractor, 652x345mm",
+            "Vision": ""
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13874417329311764,
+            0.2514185090980239,
+            0.65,
+            0.26022304832713755
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 89,
+          "sourceBounds": [
+            0.13874417329311764,
+            0.3167677558207787,
+            0.65,
+            0.3255722950498924
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p89",
+              "row": 3,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117411000",
+                  "line": "117411000",
+                  "confidence": 96.104889,
+                  "bounds": [
+                    0.13874417329311764,
+                    0.3167677558207787,
+                    0.22813271181793254,
+                    0.3255722950498924
+                  ],
+                  "cy": 0.32117002543533557
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117411000",
+                  "line": "117411000",
+                  "confidence": 92.778648,
+                  "bounds": [
+                    0.13874417329311764,
+                    0.3167677558207787,
+                    0.22813271181793254,
+                    0.3255722950498924
+                  ],
+                  "cy": 0.32117002543533557
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117411000",
+                  "line": "117411000",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13441955386192203,
+                    0.3139534887492681,
+                    0.23217922218695786,
+                    0.3284883718321272
+                  ],
+                  "cy": 0.32122093029069765
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Acetabular Cup Extractor, 656x345mm",
+            "PSM11": "Acetabular Cup Extractor, 656x345mm",
+            "Vision": "Acetabular Cup Extractor, $56×345mm"
+          },
+          "itemVerification": "verified (Codex visual 600-DPI row + OCR)",
+          "bounds": [
+            0.13874417329311764,
+            0.3167677558207787,
+            0.65,
+            0.3255722950498924
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 89,
+          "sourceBounds": [
+            0.13874417329311764,
+            0.3819213461162199,
+            0.65,
+            0.3907258853453336
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p89",
+              "row": 4,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117411100",
+                  "line": "117411100",
+                  "confidence": 95.165794,
+                  "bounds": [
+                    0.13874417329311764,
+                    0.3819213461162199,
+                    0.22813271181793254,
+                    0.3907258853453336
+                  ],
+                  "cy": 0.3863236157307768
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117411100",
+                  "line": "117411100",
+                  "confidence": 84.828247,
+                  "bounds": [
+                    0.13874417329311764,
+                    0.3819213461162199,
+                    0.22813271181793254,
+                    0.3907258853453336
+                  ],
+                  "cy": 0.3863236157307768
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117411100",
+                  "line": "117411100",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1344195540248548,
+                    0.37790697736469947,
+                    0.23217922234989063,
+                    0.3953488366856881
+                  ],
+                  "cy": 0.3866279070251938
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Tap for Cemented, M11",
+            "PSM11": "Tap for Cemented, M11",
+            "Vision": "Tap for Cemented, M11"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13874417329311764,
+            0.3819213461162199,
+            0.65,
+            0.3907258853453336
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 89,
+          "sourceBounds": [
+            0.13874417329311764,
+            0.44707493641166113,
+            0.65,
+            0.4560751320680884
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p89",
+              "row": 5,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117413500",
+                  "line": "117413500",
+                  "confidence": 96.126915,
+                  "bounds": [
+                    0.13874417329311764,
+                    0.44707493641166113,
+                    0.22813271181793254,
+                    0.4560751320680884
+                  ],
+                  "cy": 0.4515750342398748
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117413500",
+                  "line": "117413500",
+                  "confidence": 70.51226,
+                  "bounds": [
+                    0.13874417329311764,
+                    0.44707493641166113,
+                    0.22813271181793254,
+                    0.4560751320680884
+                  ],
+                  "cy": 0.4515750342398748
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117413500",
+                  "line": "117413500",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13438831675007346,
+                    0.4432243559163639,
+                    0.23221046234068002,
+                    0.4608454113982897
+                  ],
+                  "cy": 0.4520348836573268
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Tap for Cemented, M9",
+            "PSM11": "Tap for Cemented, M9",
+            "Vision": ""
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13874417329311764,
+            0.44707493641166113,
+            0.65,
+            0.4560751320680884
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 89,
+          "sourceBounds": [
+            0.13874417329311764,
+            0.512424183134416,
+            0.65,
+            0.5212287223635297
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p89",
+              "row": 6,
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "text": "117411200",
+                  "line": "117411200",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13439813058390362,
+                    0.508653955099369,
+                    0.2322006486425055,
+                    0.5247762773332654
+                  ],
+                  "cy": 0.5167151162163172
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "117411200",
+                  "line": "117411200",
+                  "confidence": 95.994232,
+                  "bounds": [
+                    0.13874417329311764,
+                    0.512424183134416,
+                    0.22813271181793254,
+                    0.5212287223635297
+                  ],
+                  "cy": 0.5168264527489728
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117411200",
+                  "line": "117411200",
+                  "confidence": 94.333916,
+                  "bounds": [
+                    0.13874417329311764,
+                    0.512424183134416,
+                    0.22813271181793254,
+                    0.5212287223635297
+                  ],
+                  "cy": 0.5168264527489728
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Curette, 380xé6mm",
+            "PSM11": "Curette, 380xé6mm",
+            "Vision": ""
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13874417329311764,
+            0.512424183134416,
+            0.65,
+            0.5212287223635297
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 89,
+          "sourceBounds": [
+            0.13874417329311764,
+            0.5775777734298572,
+            0.65,
+            0.5863823126589709
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p89",
+              "row": 7,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117411300",
+                  "line": "117411300",
+                  "confidence": 96.211357,
+                  "bounds": [
+                    0.13874417329311764,
+                    0.5775777734298572,
+                    0.22813271181793254,
+                    0.5863823126589709
+                  ],
+                  "cy": 0.581980043044414
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117411300",
+                  "line": "117411300",
+                  "confidence": 90.412628,
+                  "bounds": [
+                    0.13874417329311764,
+                    0.5775777734298572,
+                    0.22813271181793254,
+                    0.5863823126589709
+                  ],
+                  "cy": 0.581980043044414
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117411300",
+                  "line": "117411300",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13439681453135757,
+                    0.5740600480357537,
+                    0.2362752849250229,
+                    0.5916376261867905
+                  ],
+                  "cy": 0.5828488371112721
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Curette, 380x7mm",
+            "PSM11": "Curette, 380x7mm",
+            "Vision": ""
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13874417329311764,
+            0.5775777734298572,
+            0.65,
+            0.5863823126589709
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 89,
+          "sourceBounds": [
+            0.13874417329311764,
+            0.642927020152612,
+            0.65,
+            0.6517315593817257
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p89",
+              "row": 8,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117411400",
+                  "line": "117411400",
+                  "confidence": 96.036041,
+                  "bounds": [
+                    0.13874417329311764,
+                    0.642927020152612,
+                    0.22813271181793254,
+                    0.6517315593817257
+                  ],
+                  "cy": 0.6473292897671689
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117411400",
+                  "line": "117411400",
+                  "confidence": 62.201393,
+                  "bounds": [
+                    0.13874417329311764,
+                    0.642927020152612,
+                    0.22813271181793254,
+                    0.6517315593817257
+                  ],
+                  "cy": 0.6473292897671689
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117411400",
+                  "line": "117411400",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13441955422852078,
+                    0.6395348835386596,
+                    0.23217922255355664,
+                    0.6555232561597417
+                  ],
+                  "cy": 0.6475290698492007
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Reverse Curette, small",
+            "PSM11": "Reverse Curette, small",
+            "Vision": "Reverse Curette, small"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13874417329311764,
+            0.642927020152612,
+            0.65,
+            0.6517315593817257
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 89,
+          "sourceBounds": [
+            0.13874417329311764,
+            0.7080806104480533,
+            0.65,
+            0.7168851496771669
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p89",
+              "row": 9,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117413800",
+                  "line": "117413800",
+                  "confidence": 96.201775,
+                  "bounds": [
+                    0.13874417329311764,
+                    0.7080806104480533,
+                    0.22813271181793254,
+                    0.7168851496771669
+                  ],
+                  "cy": 0.7124828800626101
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117413800",
+                  "line": "117413800",
+                  "confidence": 68.119972,
+                  "bounds": [
+                    0.13874417329311764,
+                    0.7080806104480533,
+                    0.22813271181793254,
+                    0.7168851496771669
+                  ],
+                  "cy": 0.7124828800626101
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117413800",
+                  "line": "117413800",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1343742180959659,
+                    0.7062242331514957,
+                    0.23018789774139026,
+                    0.7196478595365337
+                  ],
+                  "cy": 0.7129360463440146
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Reverse Curette, large",
+            "PSM11": "Reverse Curette, large",
+            "Vision": "Reverse Curette, large"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13874417329311764,
+            0.7080806104480533,
+            0.65,
+            0.7168851496771669
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "rowImages": [
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-089-xref-1331.webp",
+          "width": 1010,
+          "height": 188,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              554,
+              137
+            ],
+            "enhancedSize": [
+              1108,
+              274
+            ]
+          },
+          "sourcePages": [
+            89
+          ],
+          "imageCaption": {
+            "ru": "Экстрактор ацетабулярной чашки, φ48×345мм",
+            "en": "Acetabular Cup Extractor, φ48×345mm"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-089-xref-1331.webp",
+          "width": 1010,
+          "height": 188,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              554,
+              137
+            ],
+            "enhancedSize": [
+              1108,
+              274
+            ]
+          },
+          "sourcePages": [
+            89
+          ],
+          "imageCaption": {
+            "ru": "Экстрактор ацетабулярной чашки, 652x345мм",
+            "en": "Acetabular Cup Extractor, 652x345mm"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-089-xref-1331.webp",
+          "width": 1010,
+          "height": 188,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              554,
+              137
+            ],
+            "enhancedSize": [
+              1108,
+              274
+            ]
+          },
+          "sourcePages": [
+            89
+          ],
+          "imageCaption": {
+            "ru": "Экстрактор ацетабулярной чашки, φ56×345мм",
+            "en": "Acetabular Cup Extractor, φ56×345mm"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-089-xref-1333.webp",
+          "width": 1145,
+          "height": 268,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              594,
+              208
+            ],
+            "enhancedSize": [
+              1188,
+              416
+            ]
+          },
+          "sourcePages": [
+            89
+          ],
+          "imageCaption": {
+            "ru": "Метчик для цементной фиксации, M11",
+            "en": "Tap for Cemented, M11"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-089-xref-1333.webp",
+          "width": 1145,
+          "height": 268,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              594,
+              208
+            ],
+            "enhancedSize": [
+              1188,
+              416
+            ]
+          },
+          "sourcePages": [
+            89
+          ],
+          "imageCaption": {
+            "ru": "Метчик для цементной фиксации, M9",
+            "en": "Tap for Cemented, M9"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-089-xref-1335.webp",
+          "width": 846,
+          "height": 140,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              497,
+              151
+            ],
+            "enhancedSize": [
+              994,
+              302
+            ]
+          },
+          "sourcePages": [
+            89
+          ],
+          "imageCaption": {
+            "ru": "Кюретка, 380xé6мм",
+            "en": "Curette, 380xé6mm"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-089-xref-1335.webp",
+          "width": 846,
+          "height": 140,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              497,
+              151
+            ],
+            "enhancedSize": [
+              994,
+              302
+            ]
+          },
+          "sourcePages": [
+            89
+          ],
+          "imageCaption": {
+            "ru": "Кюретка, 380x7мм",
+            "en": "Curette, 380x7mm"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-089-xref-1337.webp",
+          "width": 902,
+          "height": 143,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              450,
+              166
+            ],
+            "enhancedSize": [
+              900,
+              332
+            ]
+          },
+          "sourcePages": [
+            89
+          ],
+          "imageCaption": {
+            "ru": "Обратная кюретка, малый",
+            "en": "Reverse Curette, small"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-089-xref-1337.webp",
+          "width": 902,
+          "height": 143,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              450,
+              166
+            ],
+            "enhancedSize": [
+              900,
+              332
+            ]
+          },
+          "sourcePages": [
+            89
+          ],
+          "imageCaption": {
+            "ru": "Обратная кюретка, большой",
+            "en": "Reverse Curette, large"
+          }
+        }
+      ],
+      "rowImageLabel": {
+        "ru": "Инструмент",
+        "en": "Instrument"
+      },
+      "sourcePages": [
+        89
+      ]
+    },
+    {
+      "id": "joint-hip-stem-revision-instrument-set-p90",
+      "title": {
+        "ru": "Инструменты · страница 90",
+        "en": "Instruments · page 90"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 165x10мм, прямой",
+            "en": "Saw Blade, with Quick Coupling, 165x10mm, straight"
+          },
+          "117411500"
+        ],
+        [
+          {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 165x12мм, прямой",
+            "en": "Saw Blade, with Quick Coupling, 165x12mm, straight"
+          },
+          "117411600"
+        ],
+        [
+          {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 165x8мм, прямой",
+            "en": "Saw Blade, with Quick Coupling, 165x8mm, straight"
+          },
+          "117411700"
+        ],
+        [
+          {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 100x8мм, прямой",
+            "en": "Saw Blade, with Quick Coupling, 100x8mm, straight"
+          },
+          "117411800"
+        ],
+        [
+          {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 100x10мм, прямой",
+            "en": "Saw Blade, with Quick Coupling, 100x10mm, straight"
+          },
+          "117411900"
+        ],
+        [
+          {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 100x12мм, прямой",
+            "en": "Saw Blade, with Quick Coupling, 100x12mm, straight"
+          },
+          "117412000"
+        ],
+        [
+          {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 80×8мм, прямой",
+            "en": "Saw Blade, with Quick Coupling, 80×8mm, straight"
+          },
+          "117412100"
+        ],
+        [
+          {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 80x10мм, прямой",
+            "en": "Saw Blade, with Quick Coupling, 80x10mm, straight"
+          },
+          "117412200"
+        ],
+        [
+          {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 80x12мм, прямой",
+            "en": "Saw Blade, with Quick Coupling, 80x12mm, straight"
+          },
+          "117412300"
+        ],
+        [
+          {
+            "ru": "Рукоятка для пильного полотна",
+            "en": "Handle for Saw Blade"
+          },
+          "117412500"
+        ],
+        [
+          {
+            "ru": "Соединитель",
+            "en": "Connector"
+          },
+          "117412600"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 90,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.18548229309332812,
+            0.65,
+            0.19409117589512814
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p90",
+              "row": 1,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117411500",
+                  "line": "117411500",
+                  "confidence": 95.294632,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.18548229309332812,
+                    0.22895530573073758,
+                    0.19409117589512814
+                  ],
+                  "cy": 0.18978673449422812
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117411500",
+                  "line": "117411500",
+                  "confidence": 91.823883,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.18548229309332812,
+                    0.22895530573073758,
+                    0.19409117589512814
+                  ],
+                  "cy": 0.18978673449422812
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117411500",
+                  "line": "117411500",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13645621150998555,
+                    0.18459302325952898,
+                    0.23014256783246426,
+                    0.19622093010425845
+                  ],
+                  "cy": 0.1904069766818937
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Saw Blade, with Quick Coupling, 165x10mm, straight",
+            "PSM11": "Saw Blade, with Quick Coupling, 165x10mm, straight",
+            "Vision": "Saw Blade, with Quick Coupling, 165×10mm, straight"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13956676720592268,
+            0.18548229309332812,
+            0.65,
+            0.19409117589512814
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 90,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.22872236352964195,
+            0.65,
+            0.23733124633144198
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p90",
+              "row": 2,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117411600",
+                  "line": "117411600",
+                  "confidence": 95.440216,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.22872236352964195,
+                    0.22895530573073758,
+                    0.23733124633144198
+                  ],
+                  "cy": 0.23302680493054195
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117411600",
+                  "line": "117411600",
+                  "confidence": 90.29203,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.22872236352964195,
+                    0.22895530573073758,
+                    0.23733124633144198
+                  ],
+                  "cy": 0.23302680493054195
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117411600",
+                  "line": "117411600",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13849287234776997,
+                    0.22819767452194983,
+                    0.23014256736709762,
+                    0.23837209277456173
+                  ],
+                  "cy": 0.23328488364825578
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Saw Blade, with Quick Coupling, 165x12mm, straight",
+            "PSM11": "Saw Blade, with Quick Coupling, 165*12mm, straight",
+            "Vision": "Saw Blade, with Quick Coupling, 165×12mm, straight"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13956676720592268,
+            0.22872236352964195,
+            0.65,
+            0.23733124633144198
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 90,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.27215809039326944,
+            0.65,
+            0.28076697319506944
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p90",
+              "row": 3,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117411700",
+                  "line": "117411700",
+                  "confidence": 95.032898,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.27215809039326944,
+                    0.22895530573073758,
+                    0.28076697319506944
+                  ],
+                  "cy": 0.27646253179416946
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117411700",
+                  "line": "117411700",
+                  "confidence": 93.043297,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.27215809039326944,
+                    0.22895530573073758,
+                    0.28076697319506944
+                  ],
+                  "cy": 0.27646253179416946
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117411700",
+                  "line": "117411700",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13645621017160908,
+                    0.2718023257096951,
+                    0.2301425664940878,
+                    0.28343023255442445
+                  ],
+                  "cy": 0.2776162791320598
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Saw Blade, with Quick Coupling, 165x8mm, straight",
+            "PSM11": "Saw Blade, with Quick Coupling, 165x8mm, straight",
+            "Vision": "Saw Blade, with Quick Coupling, 165×8mm, straight"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13956676720592268,
+            0.27215809039326944,
+            0.65,
+            0.28076697319506944
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 90,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.3153981608295833,
+            0.65,
+            0.3240070436313833
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p90",
+              "row": 4,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117411800",
+                  "line": "117411800",
+                  "confidence": 94.927658,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.3153981608295833,
+                    0.22895530573073758,
+                    0.3240070436313833
+                  ],
+                  "cy": 0.3197026022304833
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117411800",
+                  "line": "117411800",
+                  "confidence": 86.64743,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.3153981608295833,
+                    0.22895530573073758,
+                    0.3240070436313833
+                  ],
+                  "cy": 0.3197026022304833
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117411800",
+                  "line": "117411800",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13849287132944002,
+                    0.3154069765474752,
+                    0.23014256634876767,
+                    0.324127907154075
+                  ],
+                  "cy": 0.3197674418507751
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Saw Blade, with Quick Coupling, 100x8mm, straight",
+            "PSM11": "Saw Blade, with Quick Coupling, 100x8mm, straight",
+            "Vision": "Saw Blade, with Quick Coupling, 100x8mm, straight"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13956676720592268,
+            0.3153981608295833,
+            0.65,
+            0.3240070436313833
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 90,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.3586382312658971,
+            0.65,
+            0.3672471140676971
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p90",
+              "row": 5,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117411900",
+                  "line": "117411900",
+                  "confidence": 95.297005,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.3586382312658971,
+                    0.22895530573073758,
+                    0.3672471140676971
+                  ],
+                  "cy": 0.36294267266679714
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117411900",
+                  "line": "117411900",
+                  "confidence": 64.754265,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.3586382312658971,
+                    0.22895530573073758,
+                    0.3672471140676971
+                  ],
+                  "cy": 0.36294267266679714
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117411900",
+                  "line": "117411900",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13639775828139336,
+                    0.3559102711990545,
+                    0.23020102089255454,
+                    0.37083391469724813
+                  ],
+                  "cy": 0.3633720929481513
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Saw Blade, with Quick Coupling, 100x10mm, straight",
+            "PSM11": "Saw Blade, with Quick Coupling, 100x10mm, straight",
+            "Vision": "Saw Blade, with Quick Coupling, 100×10mm, straight"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13956676720592268,
+            0.3586382312658971,
+            0.65,
+            0.3672471140676971
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 90,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.4018783017022109,
+            0.65,
+            0.41048718450401095
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p90",
+              "row": 6,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117412000",
+                  "line": "117412000",
+                  "confidence": 96.547409,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.4018783017022109,
+                    0.22895530573073758,
+                    0.41048718450401095
+                  ],
+                  "cy": 0.4061827431031109
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117412000",
+                  "line": "117412000",
+                  "confidence": 84.809608,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.4018783017022109,
+                    0.22895530573073758,
+                    0.41048718450401095
+                  ],
+                  "cy": 0.4061827431031109
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117412000",
+                  "line": "117412000",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13638927006716997,
+                    0.39948626483670435,
+                    0.2302095092740845,
+                    0.41446722340442965
+                  ],
+                  "cy": 0.406976744120567
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Saw Blade, with Quick Coupling, 100x12mm, straight",
+            "PSM11": "Saw Blade, with Quick Coupling, 100x12mm, straight",
+            "Vision": "Saw Blade, with Quick Coupling, 100×12mm, straight"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13956676720592268,
+            0.4018783017022109,
+            0.65,
+            0.41048718450401095
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 90,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.4453140285658384,
+            0.65,
+            0.4539229113676384
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p90",
+              "row": 7,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117412100",
+                  "line": "117412100",
+                  "confidence": 95.728874,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.4453140285658384,
+                    0.22895530573073758,
+                    0.4539229113676384
+                  ],
+                  "cy": 0.4496184699667384
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117412100",
+                  "line": "117412100",
+                  "confidence": 91.748276,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.4453140285658384,
+                    0.22895530573073758,
+                    0.4539229113676384
+                  ],
+                  "cy": 0.4496184699667384
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117412100",
+                  "line": "117412100",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13638550035347394,
+                    0.44307816296653324,
+                    0.23021327882308718,
+                    0.4580846275916951
+                  ],
+                  "cy": 0.45058139527911417
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Saw Blade, with Quick Coupling, 80x8mm, straight",
+            "PSM11": "Saw Blade, with Quick Coupling, 808mm, straight",
+            "Vision": ""
+          },
+          "itemVerification": "verified (Codex visual 600-DPI row)",
+          "bounds": [
+            0.13956676720592268,
+            0.4453140285658384,
+            0.65,
+            0.4539229113676384
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 90,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.48855409900215224,
+            0.65,
+            0.49716298180395224
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p90",
+              "row": 8,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117412200",
+                  "line": "117412200",
+                  "confidence": 96.182907,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.48855409900215224,
+                    0.22895530573073758,
+                    0.49716298180395224
+                  ],
+                  "cy": 0.4928585404030522
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117412200",
+                  "line": "117412200",
+                  "confidence": 89.377304,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.48855409900215224,
+                    0.22895530573073758,
+                    0.49716298180395224
+                  ],
+                  "cy": 0.4928585404030522
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117412200",
+                  "line": "117412200",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13641844088625213,
+                    0.48677939836700723,
+                    0.230180338288148,
+                    0.5001392061534946
+                  ],
+                  "cy": 0.4934593022602509
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Saw Blade, with Quick Coupling, 80x10mm, straight",
+            "PSM11": "Saw Blade, with Quick Coupling, 80x10mm, straight",
+            "Vision": ""
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13956676720592268,
+            0.48855409900215224,
+            0.65,
+            0.49716298180395224
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 90,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.531794169438466,
+            0.65,
+            0.5404030522402661
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p90",
+              "row": 9,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117412300",
+                  "line": "117412300",
+                  "confidence": 96.401764,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.531794169438466,
+                    0.22895530573073758,
+                    0.5404030522402661
+                  ],
+                  "cy": 0.536098610839366
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117412300",
+                  "line": "117412300",
+                  "confidence": 86.864975,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.531794169438466,
+                    0.22895530573073758,
+                    0.5404030522402661
+                  ],
+                  "cy": 0.536098610839366
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117412300",
+                  "line": "117412300",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13635995601576156,
+                    0.5301625577215257,
+                    0.2302388233288099,
+                    0.5439653491201947
+                  ],
+                  "cy": 0.5370639534208601
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Saw Blade, with Quick Coupling, 80x12mm, straight",
+            "PSM11": "Saw Blade, with Quick Coupling, 80x12mm, straight",
+            "Vision": ""
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13956676720592268,
+            0.531794169438466,
+            0.65,
+            0.5404030522402661
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 90,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.5750342398747799,
+            0.65,
+            0.5836431226765799
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p90",
+              "row": 10,
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "text": "117412500",
+                  "line": "117412500",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13438660818887602,
+                    0.5711177203274665,
+                    0.23221216818537424,
+                    0.5873125123483551
+                  ],
+                  "cy": 0.5792151163379109
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "117412500",
+                  "line": "117412500",
+                  "confidence": 96.498779,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.5750342398747799,
+                    0.22895530573073758,
+                    0.5836431226765799
+                  ],
+                  "cy": 0.5793386812756799
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117412500",
+                  "line": "117412500",
+                  "confidence": 61.68346,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.5750342398747799,
+                    0.22895530573073758,
+                    0.5836431226765799
+                  ],
+                  "cy": 0.5793386812756799
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Handle for Saw Blade",
+            "PSM11": "Handle for Saw Blade",
+            "Vision": "Handle for Saw Blade"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13956676720592268,
+            0.5750342398747799,
+            0.65,
+            0.5836431226765799
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 90,
+          "sourceBounds": [
+            0.13956676720592268,
+            0.6617100371747212,
+            0.65,
+            0.6703189199765213
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p90",
+              "row": 11,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117412600",
+                  "line": "117412600",
+                  "confidence": 95.622902,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.6617100371747212,
+                    0.22895530573073758,
+                    0.6703189199765213
+                  ],
+                  "cy": 0.6660144785756212
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117412600",
+                  "line": "117412600",
+                  "confidence": 87.757385,
+                  "bounds": [
+                    0.13956676720592268,
+                    0.6617100371747212,
+                    0.22895530573073758,
+                    0.6703189199765213
+                  ],
+                  "cy": 0.6660144785756212
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117412600",
+                  "line": "117412600",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13645621065991648,
+                    0.6584302322214357,
+                    0.23217922828554624,
+                    0.6744186048425178
+                  ],
+                  "cy": 0.6664244185319768
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Connector",
+            "PSM11": "Connector",
+            "Vision": "Connector"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.13956676720592268,
+            0.6617100371747212,
+            0.65,
+            0.6703189199765213
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "rowImages": [
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-090-xref-1347.webp",
+          "width": 811,
+          "height": 144,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              446,
+              145
+            ],
+            "enhancedSize": [
+              892,
+              290
+            ]
+          },
+          "sourcePages": [
+            90
+          ],
+          "imageCaption": {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 165x10мм, прямой",
+            "en": "Saw Blade, with Quick Coupling, 165x10mm, straight"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-090-xref-1347.webp",
+          "width": 811,
+          "height": 144,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              446,
+              145
+            ],
+            "enhancedSize": [
+              892,
+              290
+            ]
+          },
+          "sourcePages": [
+            90
+          ],
+          "imageCaption": {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 165x12мм, прямой",
+            "en": "Saw Blade, with Quick Coupling, 165x12mm, straight"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-090-xref-1347.webp",
+          "width": 811,
+          "height": 144,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              446,
+              145
+            ],
+            "enhancedSize": [
+              892,
+              290
+            ]
+          },
+          "sourcePages": [
+            90
+          ],
+          "imageCaption": {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 165x8мм, прямой",
+            "en": "Saw Blade, with Quick Coupling, 165x8mm, straight"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-090-xref-1347.webp",
+          "width": 811,
+          "height": 144,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              446,
+              145
+            ],
+            "enhancedSize": [
+              892,
+              290
+            ]
+          },
+          "sourcePages": [
+            90
+          ],
+          "imageCaption": {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 100x8мм, прямой",
+            "en": "Saw Blade, with Quick Coupling, 100x8mm, straight"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-090-xref-1347.webp",
+          "width": 811,
+          "height": 144,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              446,
+              145
+            ],
+            "enhancedSize": [
+              892,
+              290
+            ]
+          },
+          "sourcePages": [
+            90
+          ],
+          "imageCaption": {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 100x10мм, прямой",
+            "en": "Saw Blade, with Quick Coupling, 100x10mm, straight"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-090-xref-1347.webp",
+          "width": 811,
+          "height": 144,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              446,
+              145
+            ],
+            "enhancedSize": [
+              892,
+              290
+            ]
+          },
+          "sourcePages": [
+            90
+          ],
+          "imageCaption": {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 100x12мм, прямой",
+            "en": "Saw Blade, with Quick Coupling, 100x12mm, straight"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-090-xref-1345.webp",
+          "width": 940,
+          "height": 168,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              545,
+              116
+            ],
+            "enhancedSize": [
+              1090,
+              232
+            ]
+          },
+          "sourcePages": [
+            90
+          ],
+          "imageCaption": {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 80×8мм, прямой",
+            "en": "Saw Blade, with Quick Coupling, 80×8mm, straight"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-090-xref-1345.webp",
+          "width": 940,
+          "height": 168,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              545,
+              116
+            ],
+            "enhancedSize": [
+              1090,
+              232
+            ]
+          },
+          "sourcePages": [
+            90
+          ],
+          "imageCaption": {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 80x10мм, прямой",
+            "en": "Saw Blade, with Quick Coupling, 80x10mm, straight"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-090-xref-1345.webp",
+          "width": 940,
+          "height": 168,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              545,
+              116
+            ],
+            "enhancedSize": [
+              1090,
+              232
+            ]
+          },
+          "sourcePages": [
+            90
+          ],
+          "imageCaption": {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 80x12мм, прямой",
+            "en": "Saw Blade, with Quick Coupling, 80x12mm, straight"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-090-xref-1345.webp",
+          "width": 940,
+          "height": 168,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              545,
+              116
+            ],
+            "enhancedSize": [
+              1090,
+              232
+            ]
+          },
+          "sourcePages": [
+            90
+          ],
+          "imageCaption": {
+            "ru": "Рукоятка для пильного полотна",
+            "en": "Handle for Saw Blade"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-090-xref-1349.webp",
+          "width": 1011,
+          "height": 216,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              542,
+              141
+            ],
+            "enhancedSize": [
+              1084,
+              282
+            ]
+          },
+          "sourcePages": [
+            90
+          ],
+          "imageCaption": {
+            "ru": "Соединитель",
+            "en": "Connector"
+          }
+        }
+      ],
+      "rowImageLabel": {
+        "ru": "Инструмент",
+        "en": "Instrument"
+      },
+      "sourcePages": [
+        90
+      ]
+    },
+    {
+      "id": "joint-hip-stem-revision-instrument-set-p91",
+      "title": {
+        "ru": "Инструменты · страница 91",
+        "en": "Instruments · page 91"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 74x10мм, изогнутый",
+            "en": "Saw Blade, with Quick Coupling, 74x10mm, curved"
+          },
+          "117412700"
+        ],
+        [
+          {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 78x10мм, изогнутый",
+            "en": "Saw Blade, with Quick Coupling, 78x10mm, curved"
+          },
+          "117412800"
+        ],
+        [
+          {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 110x10мм, изогнутый",
+            "en": "Saw Blade, with Quick Coupling, 110x10mm, curved"
+          },
+          "117412900"
+        ],
+        [
+          {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 165x12мм, дугообразный",
+            "en": "Saw Blade, with Quick Coupling, 165x12mm, Arc-shaped"
+          },
+          "117413000"
+        ],
+        [
+          {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 165x14мм, дугообразный",
+            "en": "Saw Blade, with Quick Coupling, 165x14mm, Arc-shaped"
+          },
+          "117413100"
+        ],
+        [
+          {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 165x16мм, дугообразный",
+            "en": "Saw Blade, with Quick Coupling, 165x16mm, Arc-shaped"
+          },
+          "117413200"
+        ],
+        [
+          {
+            "ru": "Костные кусачки, прямой",
+            "en": "Rongeur, straight"
+          },
+          "117413300"
+        ],
+        [
+          {
+            "ru": "T-образный ключ",
+            "en": "T-wrench"
+          },
+          "117412400"
+        ],
+        [
+          {
+            "ru": "Контейнер: Набор инструментов для ревизии бедренной ножки",
+            "en": "Hip Stem Revision Instrument Case"
+          },
+          "117414000"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 91,
+          "sourceBounds": [
+            0.1384699753221826,
+            0.18880845235765994,
+            0.65,
+            0.19780864801408726
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p91",
+              "row": 1,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117412700",
+                  "line": "117412700",
+                  "confidence": 95.975761,
+                  "bounds": [
+                    0.1384699753221826,
+                    0.18880845235765994,
+                    0.22785851384699754,
+                    0.19780864801408726
+                  ],
+                  "cy": 0.19330855018587362
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117412700",
+                  "line": "117412700",
+                  "confidence": 83.183372,
+                  "bounds": [
+                    0.1384699753221826,
+                    0.18880845235765994,
+                    0.22785851384699754,
+                    0.19780864801408726
+                  ],
+                  "cy": 0.19330855018587362
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117412700",
+                  "line": "117412700",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13439601024238157,
+                    0.1874206179572493,
+                    0.2301661084958345,
+                    0.20211426605336413
+                  ],
+                  "cy": 0.1947674420053067
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Saw Blade, with Quick Coupling, 74x10mm, curved",
+            "PSM11": "Saw Blade, with Quick Coupling, 74*10mm, curved",
+            "Vision": "Saw Blade, with Quick Coupling, 74×10mm, curved"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1384699753221826,
+            0.18880845235765994,
+            0.65,
+            0.19780864801408726
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 91,
+          "sourceBounds": [
+            0.1384699753221826,
+            0.2549403247896693,
+            0.65,
+            0.26394052044609667
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p91",
+              "row": 2,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117412800",
+                  "line": "117412800",
+                  "confidence": 96.031456,
+                  "bounds": [
+                    0.1384699753221826,
+                    0.2549403247896693,
+                    0.22785851384699754,
+                    0.26394052044609667
+                  ],
+                  "cy": 0.259440422617883
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117412800",
+                  "line": "117412800",
+                  "confidence": 82.63858,
+                  "bounds": [
+                    0.1384699753221826,
+                    0.2549403247896693,
+                    0.22785851384699754,
+                    0.26394052044609667
+                  ],
+                  "cy": 0.259440422617883
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117412800",
+                  "line": "117412800",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13441955093405739,
+                    0.25290697700092934,
+                    0.23014256855968718,
+                    0.26744186008378845
+                  ],
+                  "cy": 0.2601744185423589
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Saw Blade, with Quick Coupling, 78x10mm, curved",
+            "PSM11": "Saw Blade, with Quick Coupling, 78x10mm, curved",
+            "Vision": "Saw Blade, with Quick Coupling, 78×10mm, curved"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1384699753221826,
+            0.2549403247896693,
+            0.65,
+            0.26394052044609667
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 91,
+          "sourceBounds": [
+            0.1384699753221826,
+            0.32126785364899235,
+            0.65,
+            0.330072392878106
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p91",
+              "row": 3,
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "text": "117412900",
+                  "line": "117412900",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13432138826921552,
+                    0.3165638065684433,
+                    0.236350707539325,
+                    0.3345989837690029
+                  ],
+                  "cy": 0.3255813951687231
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "117412900",
+                  "line": "117412900",
+                  "confidence": 95.974724,
+                  "bounds": [
+                    0.1384699753221826,
+                    0.32126785364899235,
+                    0.22785851384699754,
+                    0.330072392878106
+                  ],
+                  "cy": 0.32567012326354916
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117412900",
+                  "line": "117412900",
+                  "confidence": 71.4076,
+                  "bounds": [
+                    0.1384699753221826,
+                    0.32126785364899235,
+                    0.22785851384699754,
+                    0.330072392878106
+                  ],
+                  "cy": 0.32567012326354916
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Saw Blade, with Quick Coupling, 110x10mm, curved",
+            "PSM11": "Saw Blade, with Quick Coupling, 110x10mm, curved",
+            "Vision": "Saw Blade, with Quick Coupling, 110×10mm, curved"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1384699753221826,
+            0.32126785364899235,
+            0.65,
+            0.330072392878106
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 91,
+          "sourceBounds": [
+            0.1384699753221826,
+            0.38739972608100176,
+            0.65,
+            0.39639992173742905
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p91",
+              "row": 4,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117413000",
+                  "line": "117413000",
+                  "confidence": 96.367538,
+                  "bounds": [
+                    0.1384699753221826,
+                    0.38739972608100176,
+                    0.22785851384699754,
+                    0.39639992173742905
+                  ],
+                  "cy": 0.3918998239092154
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117413000",
+                  "line": "117413000",
+                  "confidence": 89.147774,
+                  "bounds": [
+                    0.1384699753221826,
+                    0.38739972608100176,
+                    0.22785851384699754,
+                    0.39639992173742905
+                  ],
+                  "cy": 0.3918998239092154
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117413000",
+                  "line": "117413000 Saw Blade, with Quick Coupling, 165×12mm, Arc-shaped",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13441955557216975,
+                    0.3851686508089862,
+                    0.20921753206457283,
+                    0.4011627908890294
+                  ],
+                  "cy": 0.3931657208490078
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Saw Blade, with Quick Coupling, 165*12mm, Arc-shaped",
+            "PSM11": "Saw Blade, with Quick Coupling, 165x12mm, Arc-shaped",
+            "Vision": "Saw Blade, with Quick Coupling, 165×12mm, Arc-shaped"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1384699753221826,
+            0.38739972608100176,
+            0.65,
+            0.39639992173742905
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 91,
+          "sourceBounds": [
+            0.1384699753221826,
+            0.45353159851301117,
+            0.65,
+            0.46253179416943846
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p91",
+              "row": 5,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117413100",
+                  "line": "117413100",
+                  "confidence": 95.979591,
+                  "bounds": [
+                    0.1384699753221826,
+                    0.45353159851301117,
+                    0.22785851384699754,
+                    0.46253179416943846
+                  ],
+                  "cy": 0.4580316963412248
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117413100",
+                  "line": "117413100",
+                  "confidence": 88.401985,
+                  "bounds": [
+                    0.1384699753221826,
+                    0.45353159851301117,
+                    0.22785851384699754,
+                    0.46253179416943846
+                  ],
+                  "cy": 0.4580316963412248
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117413100",
+                  "line": "117413100 Saw Blade, with Quick Coupling, 165×14mm, Arc-shaped",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13441955354132892,
+                    0.45203488361678457,
+                    0.209217530033732,
+                    0.46802325623786667
+                  ],
+                  "cy": 0.4600290699273256
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Saw Blade, with Quick Coupling, 165x14mm, Arc-shaped",
+            "PSM11": "Saw Blade, with Quick Coupling, 165x14mm, Arc-shaped",
+            "Vision": "Saw Blade, with Quick Coupling, 165×14mm, Arc-shaped"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1384699753221826,
+            0.45353159851301117,
+            0.65,
+            0.46253179416943846
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 91,
+          "sourceBounds": [
+            0.1384699753221826,
+            0.5196634709450205,
+            0.65,
+            0.5286636666014478
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p91",
+              "row": 6,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117413200",
+                  "line": "117413200",
+                  "confidence": 95.968697,
+                  "bounds": [
+                    0.1384699753221826,
+                    0.5196634709450205,
+                    0.22785851384699754,
+                    0.5286636666014478
+                  ],
+                  "cy": 0.5241635687732342
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117413200",
+                  "line": "117413200",
+                  "confidence": 73.065552,
+                  "bounds": [
+                    0.1384699753221826,
+                    0.5196634709450205,
+                    0.22785851384699754,
+                    0.5286636666014478
+                  ],
+                  "cy": 0.5241635687732342
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117413200",
+                  "line": "117413200 Saw Blade, with Quick Coupling, 165×16mm, Arc-shaped",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13441956345276518,
+                    0.515873015995962,
+                    0.20951318124937712,
+                    0.5349702382181842
+                  ],
+                  "cy": 0.5254216271070731
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Saw Blade, with Quick Coupling, 165x16mm, Arc-shaped",
+            "PSM11": "Saw Blade, with Quick Coupling, 165*16mm, Arc-shaped",
+            "Vision": "Saw Blade, with Quick Coupling, 165×16mm, Arc-shaped"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1384699753221826,
+            0.5196634709450205,
+            0.65,
+            0.5286636666014478
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 91,
+          "sourceBounds": [
+            0.1384699753221826,
+            0.5859909998043435,
+            0.65,
+            0.5947955390334573
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p91",
+              "row": 7,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117413300",
+                  "line": "117413300",
+                  "confidence": 96.380981,
+                  "bounds": [
+                    0.1384699753221826,
+                    0.5859909998043435,
+                    0.22785851384699754,
+                    0.5947955390334573
+                  ],
+                  "cy": 0.5903932694189005
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117413300",
+                  "line": "117413300",
+                  "confidence": 89.021744,
+                  "bounds": [
+                    0.1384699753221826,
+                    0.5859909998043435,
+                    0.22785851384699754,
+                    0.5947955390334573
+                  ],
+                  "cy": 0.5903932694189005
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117413300",
+                  "line": "117413300 |",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13437235900314304,
+                    0.5812512837930486,
+                    0.22627468294534736,
+                    0.600434211817825
+                  ],
+                  "cy": 0.5908427478054368
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Rongeur, straight",
+            "PSM11": "Rongeur, straight",
+            "Vision": ""
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1384699753221826,
+            0.5859909998043435,
+            0.65,
+            0.5947955390334573
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 91,
+          "sourceBounds": [
+            0.1384699753221826,
+            0.652122872236353,
+            0.65,
+            0.6609274114654666
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p91",
+              "row": 8,
+              "readings": [
+                {
+                  "reader": "PSM11",
+                  "text": "117412400",
+                  "line": "117412400",
+                  "confidence": 96.263138,
+                  "bounds": [
+                    0.1384699753221826,
+                    0.652122872236353,
+                    0.22785851384699754,
+                    0.6609274114654666
+                  ],
+                  "cy": 0.6565251418509098
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117412400",
+                  "line": "117412400",
+                  "confidence": 65.814957,
+                  "bounds": [
+                    0.1384699753221826,
+                    0.652122872236353,
+                    0.22785851384699754,
+                    0.6609274114654666
+                  ],
+                  "cy": 0.6565251418509098
+                },
+                {
+                  "reader": "Vision",
+                  "text": "117412400",
+                  "line": "117412400",
+                  "confidence": 1,
+                  "bounds": [
+                    0.13433275734314584,
+                    0.6480244728654041,
+                    0.232266019577662,
+                    0.667382504198843
+                  ],
+                  "cy": 0.6577034885321236
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "T-wrench",
+            "PSM11": "T-wrench",
+            "Vision": "T-wrench"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1384699753221826,
+            0.652122872236353,
+            0.65,
+            0.6609274114654666
+          ],
+          "coordinateSpace": "normalized"
+        },
+        {
+          "pdfPage": 91,
+          "sourceBounds": [
+            0.1384699753221826,
+            0.7182547446683624,
+            0.65,
+            0.7272549403247897
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "joint-hip-stem-revision-instrument-set-p91",
+              "row": 9,
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "text": "117414000",
+                  "line": "117414000",
+                  "confidence": 1,
+                  "bounds": [
+                    0.1344195544065729,
+                    0.715116279207117,
+                    0.23014256142845768,
+                    0.7296511622899761
+                  ],
+                  "cy": 0.7223837207485465
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "117414000",
+                  "line": "117414000",
+                  "confidence": 96.240723,
+                  "bounds": [
+                    0.1384699753221826,
+                    0.7182547446683624,
+                    0.22785851384699754,
+                    0.7272549403247897
+                  ],
+                  "cy": 0.722754842496576
+                },
+                {
+                  "reader": "PSM3",
+                  "text": "117414000",
+                  "line": "117414000",
+                  "confidence": 75.818344,
+                  "bounds": [
+                    0.1384699753221826,
+                    0.7182547446683624,
+                    0.22785851384699754,
+                    0.7272549403247897
+                  ],
+                  "cy": 0.722754842496576
+                }
+              ],
+              "verificationStatus": "verified (three-reader comparison with table-pattern candidates)"
+            }
+          ],
+          "itemReadings": {
+            "PSM3": "Hip Stem Revision Instrument Case",
+            "PSM11": "Hip Stem Revision Instrument Case",
+            "Vision": "Hip Stem Revision Instrument Case"
+          },
+          "itemVerification": "two-reader agreement",
+          "bounds": [
+            0.1384699753221826,
+            0.7182547446683624,
+            0.65,
+            0.7272549403247897
+          ],
+          "coordinateSpace": "normalized"
+        }
+      ],
+      "rowImages": [
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-091-xref-1357.webp",
+          "width": 773,
+          "height": 251,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              374,
+              117
+            ],
+            "enhancedSize": [
+              748,
+              234
+            ]
+          },
+          "sourcePages": [
+            91
+          ],
+          "imageCaption": {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 74x10мм, изогнутый",
+            "en": "Saw Blade, with Quick Coupling, 74x10mm, curved"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-091-xref-1357.webp",
+          "width": 773,
+          "height": 251,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              374,
+              117
+            ],
+            "enhancedSize": [
+              748,
+              234
+            ]
+          },
+          "sourcePages": [
+            91
+          ],
+          "imageCaption": {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 78x10мм, изогнутый",
+            "en": "Saw Blade, with Quick Coupling, 78x10mm, curved"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-091-xref-1357.webp",
+          "width": 773,
+          "height": 251,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              374,
+              117
+            ],
+            "enhancedSize": [
+              748,
+              234
+            ]
+          },
+          "sourcePages": [
+            91
+          ],
+          "imageCaption": {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 110x10мм, изогнутый",
+            "en": "Saw Blade, with Quick Coupling, 110x10mm, curved"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-091-xref-1358.webp",
+          "width": 773,
+          "height": 156,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              425,
+              94
+            ],
+            "enhancedSize": [
+              850,
+              188
+            ]
+          },
+          "sourcePages": [
+            91
+          ],
+          "imageCaption": {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 165x12мм, дугообразный",
+            "en": "Saw Blade, with Quick Coupling, 165x12mm, Arc-shaped"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-091-xref-1358.webp",
+          "width": 773,
+          "height": 156,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              425,
+              94
+            ],
+            "enhancedSize": [
+              850,
+              188
+            ]
+          },
+          "sourcePages": [
+            91
+          ],
+          "imageCaption": {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 165x14мм, дугообразный",
+            "en": "Saw Blade, with Quick Coupling, 165x14mm, Arc-shaped"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-091-xref-1358.webp",
+          "width": 773,
+          "height": 156,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              425,
+              94
+            ],
+            "enhancedSize": [
+              850,
+              188
+            ]
+          },
+          "sourcePages": [
+            91
+          ],
+          "imageCaption": {
+            "ru": "Пильное полотно, с быстросъёмным соединением, 165x16мм, дугообразный",
+            "en": "Saw Blade, with Quick Coupling, 165x16mm, Arc-shaped"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-091-xref-1360.webp",
+          "width": 954,
+          "height": 444,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              513,
+              244
+            ],
+            "enhancedSize": [
+              1026,
+              488
+            ]
+          },
+          "sourcePages": [
+            91
+          ],
+          "imageCaption": {
+            "ru": "Костные кусачки, прямой",
+            "en": "Rongeur, straight"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-091-xref-1362.webp",
+          "width": 564,
+          "height": 380,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              274,
+              208
+            ],
+            "enhancedSize": [
+              548,
+              416
+            ]
+          },
+          "sourcePages": [
+            91
+          ],
+          "imageCaption": {
+            "ru": "T-образный ключ",
+            "en": "T-wrench"
+          }
+        },
+        {
+          "src": "/images/products/double-medical/joint-catalogue/page-091-xref-1362.webp",
+          "width": 564,
+          "height": 380,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus, downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              274,
+              208
+            ],
+            "enhancedSize": [
+              548,
+              416
+            ]
+          },
+          "sourcePages": [
+            91
+          ],
+          "imageCaption": {
+            "ru": "Контейнер: Набор инструментов для ревизии бедренной ножки",
+            "en": "Hip Stem Revision Instrument Case"
+          }
+        }
+      ],
+      "rowImageLabel": {
+        "ru": "Инструмент",
+        "en": "Instrument"
+      },
+      "sourcePages": [
+        91
+      ]
+    }
+  ],
+  "referenceTables": [],
+  "refCodes": [
+    "117410000",
+    "117413600",
+    "117413700",
+    "117410200",
+    "117410300",
+    "117410400",
+    "117410500",
+    "117410600",
+    "117413900",
+    "117410700",
+    "117410800",
+    "117410900",
+    "117411000",
+    "117411100",
+    "117413500",
+    "117411200",
+    "117411300",
+    "117411400",
+    "117413800",
+    "117411500",
+    "117411600",
+    "117411700",
+    "117411800",
+    "117411900",
+    "117412000",
+    "117412100",
+    "117412200",
+    "117412300",
+    "117412500",
+    "117412600",
+    "117412700",
+    "117412800",
+    "117412900",
+    "117413000",
+    "117413100",
+    "117413200",
+    "117413300",
+    "117412400",
+    "117414000"
+  ],
+  "sourcePages": [
+    88,
+    89,
+    90,
+    91
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Joint Catalogue — каталог продукции",
+    "en": "Double Medical Joint Catalogue"
+  },
+  "documentCover": "/catalogs/double-medical/joint-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "relatedSystemSlugs": [
+    "anty-f-series",
+    "pbg-proximal-bone-growth-cementless-stem"
+  ],
+  "setCode": "117410000",
+  "imageDimensions": {
+    "/images/products/double-medical/joint-catalogue/page-088-xref-1323.webp": {
+      "width": 1164,
+      "height": 193
+    },
+    "/images/products/double-medical/joint-catalogue/page-088-xref-1307.webp": {
+      "width": 1320,
+      "height": 259
+    },
+    "/images/products/double-medical/joint-catalogue/page-088-xref-1309.webp": {
+      "width": 1313,
+      "height": 220
+    },
+    "/images/products/double-medical/joint-catalogue/page-088-xref-1311.webp": {
+      "width": 1357,
+      "height": 218
+    },
+    "/images/products/double-medical/joint-catalogue/page-088-xref-1319.webp": {
+      "width": 1362,
+      "height": 201
+    },
+    "/images/products/double-medical/joint-catalogue/page-088-xref-1321.webp": {
+      "width": 1383,
+      "height": 191
+    },
+    "/images/products/double-medical/joint-catalogue/page-088-xref-1313.webp": {
+      "width": 1332,
+      "height": 222
+    },
+    "/images/products/double-medical/joint-catalogue/page-088-xref-1315.webp": {
+      "width": 1340,
+      "height": 198
+    },
+    "/images/products/double-medical/joint-catalogue/page-088-xref-1317.webp": {
+      "width": 1354,
+      "height": 208
+    },
+    "/images/products/double-medical/joint-catalogue/page-089-xref-1331.webp": {
+      "width": 1010,
+      "height": 188
+    },
+    "/images/products/double-medical/joint-catalogue/page-089-xref-1333.webp": {
+      "width": 1145,
+      "height": 268
+    },
+    "/images/products/double-medical/joint-catalogue/page-089-xref-1335.webp": {
+      "width": 846,
+      "height": 140
+    },
+    "/images/products/double-medical/joint-catalogue/page-089-xref-1337.webp": {
+      "width": 902,
+      "height": 143
+    },
+    "/images/products/double-medical/joint-catalogue/page-090-xref-1347.webp": {
+      "width": 811,
+      "height": 144
+    },
+    "/images/products/double-medical/joint-catalogue/page-090-xref-1345.webp": {
+      "width": 940,
+      "height": 168
+    },
+    "/images/products/double-medical/joint-catalogue/page-090-xref-1349.webp": {
+      "width": 1011,
+      "height": 216
+    },
+    "/images/products/double-medical/joint-catalogue/page-091-xref-1357.webp": {
+      "width": 773,
+      "height": 251
+    },
+    "/images/products/double-medical/joint-catalogue/page-091-xref-1358.webp": {
+      "width": 773,
+      "height": 156
+    },
+    "/images/products/double-medical/joint-catalogue/page-091-xref-1360.webp": {
+      "width": 954,
+      "height": 444
+    },
+    "/images/products/double-medical/joint-catalogue/page-091-xref-1362.webp": {
+      "width": 564,
+      "height": 380
+    }
+  },
+  "sourcePdf": "/catalogs/double-medical/joint-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/joint-catalogue/pages/088.webp",
+    "/catalogs/double-medical/joint-catalogue/pages/089.webp",
+    "/catalogs/double-medical/joint-catalogue/pages/090.webp",
+    "/catalogs/double-medical/joint-catalogue/pages/091.webp"
+  ],
+  "sourcePageDimensions": {
+    "1": {
+      "width": 3647,
+      "height": 5111
+    },
+    "2": {
+      "width": 3647,
+      "height": 5111
+    },
+    "3": {
+      "width": 3647,
+      "height": 5111
+    },
+    "4": {
+      "width": 3647,
+      "height": 5111
+    },
+    "5": {
+      "width": 3647,
+      "height": 5111
+    },
+    "6": {
+      "width": 3647,
+      "height": 5111
+    },
+    "7": {
+      "width": 3647,
+      "height": 5111
+    },
+    "8": {
+      "width": 3647,
+      "height": 5111
+    },
+    "9": {
+      "width": 3647,
+      "height": 5111
+    },
+    "10": {
+      "width": 3647,
+      "height": 5111
+    },
+    "11": {
+      "width": 3647,
+      "height": 5111
+    },
+    "12": {
+      "width": 3647,
+      "height": 5111
+    },
+    "13": {
+      "width": 3647,
+      "height": 5111
+    },
+    "14": {
+      "width": 3647,
+      "height": 5111
+    },
+    "15": {
+      "width": 3647,
+      "height": 5111
+    },
+    "16": {
+      "width": 3647,
+      "height": 5111
+    },
+    "17": {
+      "width": 3647,
+      "height": 5111
+    },
+    "18": {
+      "width": 3647,
+      "height": 5111
+    },
+    "19": {
+      "width": 3647,
+      "height": 5111
+    },
+    "20": {
+      "width": 3647,
+      "height": 5111
+    },
+    "21": {
+      "width": 3647,
+      "height": 5111
+    },
+    "22": {
+      "width": 3647,
+      "height": 5111
+    },
+    "23": {
+      "width": 3647,
+      "height": 5111
+    },
+    "24": {
+      "width": 3647,
+      "height": 5111
+    },
+    "25": {
+      "width": 3647,
+      "height": 5111
+    },
+    "26": {
+      "width": 3647,
+      "height": 5111
+    },
+    "27": {
+      "width": 3647,
+      "height": 5111
+    },
+    "28": {
+      "width": 3647,
+      "height": 5111
+    },
+    "29": {
+      "width": 3647,
+      "height": 5111
+    },
+    "30": {
+      "width": 3647,
+      "height": 5111
+    },
+    "31": {
+      "width": 3647,
+      "height": 5111
+    },
+    "32": {
+      "width": 3647,
+      "height": 5111
+    },
+    "33": {
+      "width": 3647,
+      "height": 5111
+    },
+    "34": {
+      "width": 3647,
+      "height": 5111
+    },
+    "35": {
+      "width": 3647,
+      "height": 5111
+    },
+    "36": {
+      "width": 3647,
+      "height": 5111
+    },
+    "37": {
+      "width": 3647,
+      "height": 5111
+    },
+    "38": {
+      "width": 3647,
+      "height": 5111
+    },
+    "39": {
+      "width": 3647,
+      "height": 5111
+    },
+    "40": {
+      "width": 3647,
+      "height": 5111
+    },
+    "41": {
+      "width": 3647,
+      "height": 5111
+    },
+    "42": {
+      "width": 3647,
+      "height": 5111
+    },
+    "43": {
+      "width": 3647,
+      "height": 5111
+    },
+    "44": {
+      "width": 3647,
+      "height": 5111
+    },
+    "45": {
+      "width": 3647,
+      "height": 5111
+    },
+    "46": {
+      "width": 3647,
+      "height": 5111
+    },
+    "47": {
+      "width": 3647,
+      "height": 5111
+    },
+    "48": {
+      "width": 3647,
+      "height": 5111
+    },
+    "49": {
+      "width": 3647,
+      "height": 5111
+    },
+    "50": {
+      "width": 3647,
+      "height": 5111
+    },
+    "51": {
+      "width": 3647,
+      "height": 5111
+    },
+    "52": {
+      "width": 3647,
+      "height": 5111
+    },
+    "53": {
+      "width": 3647,
+      "height": 5111
+    },
+    "54": {
+      "width": 3647,
+      "height": 5111
+    },
+    "55": {
+      "width": 3647,
+      "height": 5111
+    },
+    "56": {
+      "width": 3647,
+      "height": 5111
+    },
+    "57": {
+      "width": 3647,
+      "height": 5111
+    },
+    "58": {
+      "width": 3647,
+      "height": 5111
+    },
+    "59": {
+      "width": 3647,
+      "height": 5111
+    },
+    "60": {
+      "width": 3647,
+      "height": 5111
+    },
+    "61": {
+      "width": 3647,
+      "height": 5111
+    },
+    "62": {
+      "width": 3647,
+      "height": 5111
+    },
+    "63": {
+      "width": 3647,
+      "height": 5111
+    },
+    "64": {
+      "width": 3647,
+      "height": 5111
+    },
+    "65": {
+      "width": 3647,
+      "height": 5111
+    },
+    "66": {
+      "width": 3647,
+      "height": 5111
+    },
+    "67": {
+      "width": 3647,
+      "height": 5111
+    },
+    "68": {
+      "width": 3647,
+      "height": 5111
+    },
+    "69": {
+      "width": 3647,
+      "height": 5111
+    },
+    "70": {
+      "width": 3647,
+      "height": 5111
+    },
+    "71": {
+      "width": 3647,
+      "height": 5111
+    },
+    "72": {
+      "width": 3647,
+      "height": 5111
+    },
+    "73": {
+      "width": 3647,
+      "height": 5111
+    },
+    "74": {
+      "width": 3647,
+      "height": 5111
+    },
+    "75": {
+      "width": 3647,
+      "height": 5111
+    },
+    "76": {
+      "width": 3647,
+      "height": 5111
+    },
+    "77": {
+      "width": 3647,
+      "height": 5111
+    },
+    "78": {
+      "width": 3647,
+      "height": 5111
+    },
+    "79": {
+      "width": 3647,
+      "height": 5111
+    },
+    "80": {
+      "width": 3647,
+      "height": 5111
+    },
+    "81": {
+      "width": 3647,
+      "height": 5111
+    },
+    "82": {
+      "width": 3647,
+      "height": 5111
+    },
+    "83": {
+      "width": 3647,
+      "height": 5111
+    },
+    "84": {
+      "width": 3647,
+      "height": 5111
+    },
+    "85": {
+      "width": 3647,
+      "height": 5111
+    },
+    "86": {
+      "width": 3647,
+      "height": 5111
+    },
+    "87": {
+      "width": 3647,
+      "height": 5111
+    },
+    "88": {
+      "width": 3647,
+      "height": 5111
+    },
+    "89": {
+      "width": 3647,
+      "height": 5111
+    },
+    "90": {
+      "width": 3647,
+      "height": 5111
+    },
+    "91": {
+      "width": 3647,
+      "height": 5111
+    },
+    "92": {
+      "width": 3647,
+      "height": 5111
+    },
+    "93": {
+      "width": 3647,
+      "height": 5111
+    },
+    "94": {
+      "width": 3647,
+      "height": 5111
+    },
+    "95": {
+      "width": 3647,
+      "height": 5111
+    },
+    "96": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "049dc47f4db1409b0ab7b002cc1e8beaaf86705c6ae23efac7eff3832b23e1e5",
+    "importMethod": "600-DPI PSM3/PSM11 + independent Vision + Codex visual row checks; additive REF merges",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      71,
+      81,
+      94,
+      95,
+      96
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.rows.3.0.ru",
+      "specTables.0.rows.4.0.ru",
+      "specTables.0.rows.5.0.ru",
+      "specTables.0.rows.6.0.ru",
+      "specTables.0.rows.7.0.ru",
+      "specTables.0.rows.8.0.ru",
+      "specTables.0.rowImages.0.imageCaption.ru",
+      "specTables.0.rowImages.1.imageCaption.ru",
+      "specTables.0.rowImages.2.imageCaption.ru",
+      "specTables.0.rowImages.3.imageCaption.ru",
+      "specTables.0.rowImages.4.imageCaption.ru",
+      "specTables.0.rowImages.5.imageCaption.ru",
+      "specTables.0.rowImages.6.imageCaption.ru",
+      "specTables.0.rowImages.7.imageCaption.ru",
+      "specTables.0.rowImages.8.imageCaption.ru",
+      "specTables.0.rowImageLabel.ru",
+      "specTables.1.title.ru",
+      "specTables.1.columns.0.ru",
+      "specTables.1.columns.1.ru",
+      "specTables.1.rows.0.0.ru",
+      "specTables.1.rows.1.0.ru",
+      "specTables.1.rows.2.0.ru",
+      "specTables.1.rows.3.0.ru",
+      "specTables.1.rows.4.0.ru",
+      "specTables.1.rows.5.0.ru",
+      "specTables.1.rows.6.0.ru",
+      "specTables.1.rows.7.0.ru",
+      "specTables.1.rows.8.0.ru",
+      "specTables.1.rowImages.0.imageCaption.ru",
+      "specTables.1.rowImages.1.imageCaption.ru",
+      "specTables.1.rowImages.2.imageCaption.ru",
+      "specTables.1.rowImages.3.imageCaption.ru",
+      "specTables.1.rowImages.4.imageCaption.ru",
+      "specTables.1.rowImages.5.imageCaption.ru",
+      "specTables.1.rowImages.6.imageCaption.ru",
+      "specTables.1.rowImages.7.imageCaption.ru",
+      "specTables.1.rowImages.8.imageCaption.ru",
+      "specTables.1.rowImageLabel.ru",
+      "specTables.2.title.ru",
+      "specTables.2.columns.0.ru",
+      "specTables.2.columns.1.ru",
+      "specTables.2.rows.0.0.ru",
+      "specTables.2.rows.1.0.ru",
+      "specTables.2.rows.2.0.ru",
+      "specTables.2.rows.3.0.ru",
+      "specTables.2.rows.4.0.ru",
+      "specTables.2.rows.5.0.ru",
+      "specTables.2.rows.6.0.ru",
+      "specTables.2.rows.7.0.ru",
+      "specTables.2.rows.8.0.ru",
+      "specTables.2.rows.9.0.ru",
+      "specTables.2.rows.10.0.ru",
+      "specTables.2.rowImages.0.imageCaption.ru",
+      "specTables.2.rowImages.1.imageCaption.ru",
+      "specTables.2.rowImages.2.imageCaption.ru",
+      "specTables.2.rowImages.3.imageCaption.ru",
+      "specTables.2.rowImages.4.imageCaption.ru",
+      "specTables.2.rowImages.5.imageCaption.ru",
+      "specTables.2.rowImages.6.imageCaption.ru",
+      "specTables.2.rowImages.7.imageCaption.ru",
+      "specTables.2.rowImages.8.imageCaption.ru",
+      "specTables.2.rowImages.9.imageCaption.ru",
+      "specTables.2.rowImages.10.imageCaption.ru",
+      "specTables.2.rowImageLabel.ru",
+      "specTables.3.title.ru",
+      "specTables.3.columns.0.ru",
+      "specTables.3.columns.1.ru",
+      "specTables.3.rows.0.0.ru",
+      "specTables.3.rows.1.0.ru",
+      "specTables.3.rows.2.0.ru",
+      "specTables.3.rows.3.0.ru",
+      "specTables.3.rows.4.0.ru",
+      "specTables.3.rows.5.0.ru",
+      "specTables.3.rows.6.0.ru",
+      "specTables.3.rows.7.0.ru",
+      "specTables.3.rows.8.0.ru",
+      "specTables.3.rowImages.0.imageCaption.ru",
+      "specTables.3.rowImages.1.imageCaption.ru",
+      "specTables.3.rowImages.2.imageCaption.ru",
+      "specTables.3.rowImages.3.imageCaption.ru",
+      "specTables.3.rowImages.4.imageCaption.ru",
+      "specTables.3.rowImages.5.imageCaption.ru",
+      "specTables.3.rowImages.6.imageCaption.ru",
+      "specTables.3.rowImages.7.imageCaption.ru",
+      "specTables.3.rowImages.8.imageCaption.ru",
+      "specTables.3.rowImageLabel.ru",
+      "catalogTitle.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Published under owner authorization: zero real flags after 600-DPI source verification."
+  },
+  "publishedAt": "2026-11-19T17:19:05.167522+00:00"
+}

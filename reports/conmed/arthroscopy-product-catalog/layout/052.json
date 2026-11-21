@@ -1,0 +1,862 @@
+{
+  "pdfPage": 52,
+  "officialPage": 72,
+  "alignment": [
+    [
+      0.9699938655635858,
+      -0.000474373475222465,
+      0.015310240398378548
+    ],
+    [
+      0.0009954364577949393,
+      0.8876110197694295,
+      0.02734802300213807
+    ]
+  ],
+  "alignmentMatches": 58,
+  "alignmentInliers": 40,
+  "category": "hip-arthroscopy",
+  "title": {
+    "en": "Bridge System",
+    "ru": "Системы мостов"
+  },
+  "groups": [
+    {
+      "title": "DoubleLatch® Bridge System",
+      "page": 52,
+      "officialPage": 72,
+      "headingBounds": [
+        0.4289214200957042,
+        0.14504467080797742,
+        0.650148977448411,
+        0.15864191010581177
+      ],
+      "rows": [
+        {
+          "description": "Single Stopcock Doublelatch Hip Bridge",
+          "codes": [
+            {
+              "candidate": "DLH100",
+              "sourceBounds": [
+                0.8525888023943101,
+                0.23671403146292652,
+                0.8948402365101773,
+                0.24816521725320126
+              ],
+              "officialBounds": [
+                528.3359985351562,
+                186.04689025878906,
+                554.9976196289062,
+                196.22589111328125
+              ],
+              "officialCode": "DLH100"
+            }
+          ],
+          "rowBounds": [
+            0.4288726608527785,
+            0.23627920139851,
+            0.8948402365101773,
+            0.24816521725320126
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        },
+        {
+          "description": "Double Stopcock Doublelatch Hip Bridge",
+          "codes": [
+            {
+              "candidate": "DLH200",
+              "sourceBounds": [
+                0.851667200508241,
+                0.2529624544218164,
+                0.8948342608944332,
+                0.2644145798549111
+              ],
+              "officialBounds": [
+                527.760009765625,
+                200.54591369628906,
+                554.9993286132812,
+                210.72491455078125
+              ],
+              "officialCode": "DLH200"
+            }
+          ],
+          "rowBounds": [
+            0.42886397656977926,
+            0.25252856122050527,
+            0.8948342608944332,
+            0.2644145798549111
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        },
+        {
+          "description": "Double Stopcock Doublelatch Reverse Hip Bridge",
+          "codes": [
+            {
+              "candidate": "DLH202",
+              "sourceBounds": [
+                0.851786887705508,
+                0.26921194598243,
+                0.894819869062575,
+                0.28066393381965055
+              ],
+              "officialBounds": [
+                527.8410034179688,
+                215.04493713378906,
+                554.9957275390625,
+                225.22393798828125
+              ],
+              "officialCode": "DLH202"
+            }
+          ],
+          "rowBounds": [
+            0.42885529228678004,
+            0.26877792104250053,
+            0.894819869062575,
+            0.28066393381965055
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        },
+        {
+          "description": "5.8mm DoubleLatch Hip Conical Obturator",
+          "codes": [
+            {
+              "candidate": "DLH580",
+              "sourceBounds": [
+                0.8515499982062705,
+                0.28546107161346773,
+                0.8948113782558084,
+                0.2969132938401968
+              ],
+              "officialBounds": [
+                527.697021484375,
+                229.54396057128906,
+                554.995849609375,
+                239.72296142578125
+              ],
+              "officialCode": "DLH580"
+            }
+          ],
+          "rowBounds": [
+            0.4288466080037808,
+            0.28502728086449575,
+            0.8948113782558084,
+            0.2969132938401968
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        },
+        {
+          "description": "5.8mm DoubleLatch Hip Cannulated Obturator",
+          "codes": [
+            {
+              "candidate": "DLH581",
+              "sourceBounds": [
+                0.8518408151311873,
+                0.3017107387924805,
+                0.8947997918293216,
+                0.3131626506839264
+              ],
+              "officialBounds": [
+                527.885986328125,
+                244.04298400878906,
+                554.9940185546875,
+                254.22198486328125
+              ],
+              "officialCode": "DLH581"
+            }
+          ],
+          "rowBounds": [
+            0.42883797208983976,
+            0.30127664073612875,
+            0.8947997918293216,
+            0.3131626506839264
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        },
+        {
+          "description": "4.6mm DoubleLatch Hip Conical Obturator",
+          "codes": [
+            {
+              "candidate": "DLH460",
+              "sourceBounds": [
+                0.8514327958951606,
+                0.3179597059059642,
+                0.8947926553561825,
+                0.32941201209433
+              ],
+              "officialBounds": [
+                527.634033203125,
+                258.5420227050781,
+                554.9949951171875,
+                268.72100830078125
+              ],
+              "officialCode": "DLH460"
+            }
+          ],
+          "rowBounds": [
+            0.42882923942864304,
+            0.3175260176093313,
+            0.8947926553561825,
+            0.32941201209433
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        },
+        {
+          "description": "4.6mm DoubleLatch Hip Cannulated Obturator",
+          "codes": [
+            {
+              "candidate": "DLH461",
+              "sourceBounds": [
+                0.8516951718321781,
+                0.3342093096962831,
+                0.8947925807838083,
+                0.3456613465501565
+              ],
+              "officialBounds": [
+                527.8050537109375,
+                273.041015625,
+                555.0004272460938,
+                283.2200012207031
+              ],
+              "officialCode": "DLH461"
+            }
+          ],
+          "rowBounds": [
+            0.4288206035329806,
+            0.3337753432792741,
+            0.8947925807838083,
+            0.3456613465501565
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        },
+        {
+          "description": "5.8mm DoubleLatch Hip Cannula Straight",
+          "codes": [
+            {
+              "candidate": "DLH582",
+              "sourceBounds": [
+                0.8516721703262524,
+                0.35045862062381083,
+                0.8947737390168814,
+                0.36191066174653175
+              ],
+              "officialBounds": [
+                527.7960205078125,
+                287.5400085449219,
+                554.9940185546875,
+                297.718994140625
+              ],
+              "officialCode": "DLH582"
+            }
+          ],
+          "rowBounds": [
+            0.4288119676373182,
+            0.35002466894921697,
+            0.8947737390168814,
+            0.36191066174653175
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        },
+        {
+          "description": "5.8mm DoubleLatch Hip Cannula Fenestrated",
+          "codes": [
+            {
+              "candidate": "DLH583",
+              "sourceBounds": [
+                0.8514495013483825,
+                0.36670772664666024,
+                0.8947622493467895,
+                0.3781599844878466
+              ],
+              "officialBounds": [
+                527.6610107421875,
+                302.03900146484375,
+                554.9922485351562,
+                312.2179870605469
+              ],
+              "officialCode": "DLH583"
+            }
+          ],
+          "rowBounds": [
+            0.4288032350035396,
+            0.36627399451988424,
+            0.8947622493467895,
+            0.3781599844878466
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        },
+        {
+          "description": "4.6mm DoubleLatch Hip Cannula Straight",
+          "codes": [
+            {
+              "candidate": "DLH462",
+              "sourceBounds": [
+                0.8515406508196338,
+                0.3829571547193044,
+                0.8947664312515304,
+                0.3944093233117961
+              ],
+              "officialBounds": [
+                527.7239990234375,
+                316.5379943847656,
+                555.0003662109375,
+                326.71697998046875
+              ],
+              "officialCode": "DLH462"
+            }
+          ],
+          "rowBounds": [
+            0.42879450236976097,
+            0.38252332009055146,
+            0.8947664312515304,
+            0.3944093233117961
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        },
+        {
+          "description": "4.6mm DoubleLatch Hip Cannula Fenestrated",
+          "codes": [
+            {
+              "candidate": "DLH463",
+              "sourceBounds": [
+                0.8513750573303528,
+                0.39920631931471207,
+                0.8947605523921813,
+                0.41065865181109135
+              ],
+              "officialBounds": [
+                527.625,
+                331.0369873046875,
+                555.0021362304688,
+                341.2159729003906
+              ],
+              "officialCode": "DLH463"
+            }
+          ],
+          "rowBounds": [
+            0.42878581810504046,
+            0.3987726457108566,
+            0.8947605523921813,
+            0.41065865181109135
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        },
+        {
+          "description": "Replacement Seals",
+          "codes": [
+            {
+              "candidate": "DL1008",
+              "sourceBounds": [
+                0.853991071635781,
+                0.4154583384784922,
+                0.8947489659839732,
+                0.4269079744531307
+              ],
+              "officialBounds": [
+                529.281005859375,
+                345.5359802246094,
+                555.0003051757812,
+                355.7149658203125
+              ],
+              "officialCode": "DL1008"
+            }
+          ],
+          "rowBounds": [
+            0.4287771338403199,
+            0.4150219713311616,
+            0.8947489659839732,
+            0.4269079744531307
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        },
+        {
+          "description": "Replacement Cannula seal cap",
+          "codes": [
+            {
+              "candidate": "DL1009",
+              "sourceBounds": [
+                0.8539396291236772,
+                0.43170762021901626,
+                0.8947331230986502,
+                0.44315729272704707
+              ],
+              "officialBounds": [
+                529.2540283203125,
+                360.03497314453125,
+                554.9957885742188,
+                370.2139587402344
+              ],
+              "officialCode": "DL1009"
+            }
+          ],
+          "rowBounds": [
+            0.4287684495755994,
+            0.4312712969514666,
+            0.8947331230986502,
+            0.44315729272704707
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        },
+        {
+          "description": "Seal Cap Installation and Removal Tool",
+          "codes": [
+            {
+              "candidate": "DL1010",
+              "sourceBounds": [
+                0.8551149226637648,
+                0.44795816087244056,
+                0.8947302431209047,
+                0.45940662430388346
+              ],
+              "officialBounds": [
+                530.0010375976562,
+                374.5339660644531,
+                554.9994506835938,
+                384.71295166015625
+              ],
+              "officialCode": "DL1010"
+            }
+          ],
+          "rowBounds": [
+            0.42875981367993704,
+            0.4475206226214094,
+            0.8947302431209047,
+            0.45940662430388346
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        },
+        {
+          "description": "4.6mm DoubleLatch Hip Cannulated Obturator w/ Handle",
+          "codes": [
+            {
+              "candidate": "HPS-H46",
+              "sourceBounds": [
+                0.8458484974118454,
+                0.4641979859245228,
+                0.8947214621180679,
+                0.475655949824913
+              ],
+              "officialBounds": [
+                524.1600341796875,
+                389.032958984375,
+                554.9993896484375,
+                399.2119445800781
+              ],
+              "officialCode": "HPS-H46"
+            }
+          ],
+          "rowBounds": [
+            0.42875112941521654,
+            0.46376994824171447,
+            0.8947214621180679,
+            0.475655949824913
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        },
+        {
+          "description": "5.8mm DoubleLatch Hip Cannulated Obturator w/ Handle",
+          "codes": [
+            {
+              "candidate": "HPS-H58",
+              "sourceBounds": [
+                0.8458968886357137,
+                0.4804473701173861,
+                0.8947144224013237,
+                0.49190527713290194
+              ],
+              "officialBounds": [
+                524.196044921875,
+                403.5319519042969,
+                555.0004272460938,
+                413.7109375
+              ],
+              "officialCode": "HPS-H58"
+            }
+          ],
+          "rowBounds": [
+            0.428742445150496,
+            0.4800192738620195,
+            0.8947144224013237,
+            0.49190527713290194
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        }
+      ],
+      "features": [
+        {
+          "text": "Quick-to-connect system offers durability and enhanced ergonomics",
+          "bounds": [
+            0.4360471554869222,
+            0.16296111836665023,
+            0.8319676283010811,
+            0.1760427736925497
+          ],
+          "officialStartX": 265.50189208984375
+        },
+        {
+          "text": "Custom quick latch handles have been engineered for optimal hip joint insertion",
+          "bounds": [
+            0.43604056697100263,
+            0.17528904064635864,
+            0.8958208692001312,
+            0.1884362393725901
+          ],
+          "officialStartX": 265.50189208984375
+        },
+        {
+          "text": "Simplified portal transfer with the DoubleLatch Bridge attachment",
+          "bounds": [
+            0.43603397845051345,
+            0.18761697147648962,
+            0.8170306136968508,
+            0.20068332006832573
+          ],
+          "officialStartX": 265.50189208984375
+        },
+        {
+          "text": "Quicklatch® family of HD scopes provide excellent image quality and ease of use",
+          "bounds": [
+            0.43602738993002427,
+            0.19994490230662057,
+            0.897971530343477,
+            0.21309432162773814
+          ],
+          "officialStartX": 265.50189208984375
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Portal Dilators",
+      "page": 52,
+      "officialPage": 72,
+      "headingBounds": [
+        0.4287179292879768,
+        0.5255294449162881,
+        0.5406753343852884,
+        0.5390145393944203
+      ],
+      "rows": [
+        {
+          "description": "Portal Dilator, Small 4.6mm",
+          "codes": [
+            {
+              "candidate": "HPS-PDS",
+              "sourceBounds": [
+                0.8456538938695907,
+                0.561155834730486,
+                0.8946767059178874,
+                0.5726139524086604
+              ],
+              "officialBounds": [
+                524.0699462890625,
+                475.5469055175781,
+                555.0038452148438,
+                485.72589111328125
+              ],
+              "officialCode": "HPS-PDS"
+            }
+          ],
+          "rowBounds": [
+            0.42869911785631715,
+            0.5607279433797977,
+            0.8946767059178874,
+            0.5726139524086604
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        },
+        {
+          "description": "Portal Dilator, Medium 5.2mm",
+          "codes": [
+            {
+              "candidate": "HPS-PDM",
+              "sourceBounds": [
+                0.8427494508329832,
+                0.5774021886373021,
+                0.8946579608890768,
+                0.5888632677043111
+              ],
+              "officialBounds": [
+                522.242919921875,
+                490.0458984375,
+                554.9974975585938,
+                500.2248840332031
+              ],
+              "officialCode": "HPS-PDM"
+            }
+          ],
+          "rowBounds": [
+            0.42869048196065473,
+            0.5769772690497406,
+            0.8946579608890768,
+            0.5888632677043111
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        },
+        {
+          "description": "Portal Dilator, Large 6.0mm",
+          "codes": [
+            {
+              "candidate": "HPS-PDL",
+              "sourceBounds": [
+                0.8464067542217479,
+                0.5936552764028058,
+                0.8946478255526125,
+                0.6051125918354834
+              ],
+              "officialBounds": [
+                524.555908203125,
+                504.5448913574219,
+                554.99658203125,
+                514.723876953125
+              ],
+              "officialCode": "HPS-PDL"
+            }
+          ],
+          "rowBounds": [
+            0.42868174932687614,
+            0.5932265946204077,
+            0.8946478255526125,
+            0.6051125918354834
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        }
+      ],
+      "features": [
+        {
+          "text": "Three available sizes provide maximum access precision and flexibility",
+          "bounds": [
+            0.4358406657930212,
+            0.5434458979478421,
+            0.8412282692424365,
+            0.5565372772742554
+          ],
+          "officialStartX": 265.4999084472656
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Hip Accessories and Procedure Accessories",
+      "page": 52,
+      "officialPage": 72,
+      "headingBounds": [
+        0.4286575797979321,
+        0.6387222645054947,
+        0.7727569587745513,
+        0.6524455899584689
+      ],
+      "rows": [
+        {
+          "description": "Switching StickPack®, 2 Switching Sticks, 2 Guidewires",
+          "codes": [
+            {
+              "candidate": "HPS-SSP",
+              "sourceBounds": [
+                0.846233601815422,
+                0.6866772145553632,
+                0.8946072043472729,
+                0.6981347001971967
+              ],
+              "officialBounds": [
+                524.47802734375,
+                587.546875,
+                555.0023193359375,
+                597.7258911132812
+              ],
+              "officialCode": "HPS-SSP"
+            }
+          ],
+          "rowBounds": [
+            0.428632179864062,
+            0.6862486595974452,
+            0.8946072043472729,
+            0.6981347001971967
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        },
+        {
+          "description": "Hip Access Needle Pack, 2/Pk",
+          "codes": [
+            {
+              "candidate": "HPS-NDL",
+              "sourceBounds": [
+                0.8454118336653248,
+                0.7029257399665924,
+                0.8945887495145323,
+                0.7143840499923642
+              ],
+              "officialBounds": [
+                523.9650268554688,
+                602.0458984375,
+                554.9961547851562,
+                612.2249145507812
+              ],
+              "officialCode": "HPS-NDL"
+            }
+          ],
+          "rowBounds": [
+            0.4286282841178173,
+            0.7024980243335788,
+            0.8945887495145323,
+            0.7143840499923642
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        },
+        {
+          "description": "Disposable Banana Blade",
+          "codes": [
+            {
+              "candidate": "HPS-BLD",
+              "sourceBounds": [
+                0.8458453393482708,
+                0.7191754851736203,
+                0.894594092294947,
+                0.7306333558059298
+              ],
+              "officialBounds": [
+                524.2440185546875,
+                616.5448608398438,
+                555.0050048828125,
+                626.723876953125
+              ],
+              "officialCode": "HPS-BLD"
+            }
+          ],
+          "rowBounds": [
+            0.42861959987137543,
+            0.7187473157521936,
+            0.894594092294947,
+            0.7306333558059298
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        },
+        {
+          "description": "Arthroscopy Cannula, 6/Box",
+          "codes": [
+            {
+              "candidate": "HPS-CAN",
+              "sourceBounds": [
+                0.8444530098250768,
+                0.7354233566544375,
+                0.8945798939758789,
+                0.7468826415658398
+              ],
+              "officialBounds": [
+                523.3710327148438,
+                631.0438232421875,
+                555.0015258789062,
+                641.2228393554688
+              ],
+              "officialCode": "HPS-CAN"
+            }
+          ],
+          "rowBounds": [
+            0.42861091562493364,
+            0.7349966071708084,
+            0.8945798939758789,
+            0.7468826415658398
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        },
+        {
+          "description": "Universal Blade Handle",
+          "codes": [
+            {
+              "candidate": "HPS-BHNDL",
+              "sourceBounds": [
+                0.8301226343834361,
+                0.7516580191324364,
+                0.8945824313143648,
+                0.7631320129037957
+              ],
+              "officialBounds": [
+                514.3350219726562,
+                645.5428466796875,
+                555.0086059570312,
+                655.7218627929688
+              ],
+              "officialCode": "HPS-BHNDL"
+            }
+          ],
+          "rowBounds": [
+            0.4286022313419344,
+            0.7512459669928037,
+            0.8945824313143648,
+            0.7631320129037957
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        },
+        {
+          "description": "Cannulated Obturator",
+          "codes": [
+            {
+              "candidate": "9837",
+              "sourceBounds": [
+                0.8665458148952834,
+                0.7679447664140122,
+                0.8945653308152517,
+                0.7793813640888205
+              ],
+              "officialBounds": [
+                537.321044921875,
+                660.0418701171875,
+                555.0032958984375,
+                670.2208862304688
+              ],
+              "officialCode": "9837"
+            }
+          ],
+          "rowBounds": [
+            0.4285935470589352,
+            0.7674953268147989,
+            0.8945653308152517,
+            0.7793813640888205
+          ],
+          "pdfPage": 52,
+          "officialPage": 72
+        }
+      ],
+      "features": [
+        {
+          "text": "Specifically engineered for hip arthroscopy, these products will assist you through joint entry and other key procedure steps",
+          "bounds": [
+            0.4357803163212553,
+            0.6566386833353587,
+            0.8629118912678037,
+            0.6697523769698659
+          ],
+          "officialStartX": 265.5
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 25
+}

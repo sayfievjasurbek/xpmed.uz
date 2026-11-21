@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "slug": "anchor-3-3mm-poplok-single-strand-2-hifi",
+  "brand": "conmed",
+  "category": "arthroscopy",
+  "subcategory": "shoulder",
+  "specialty": [
+    "sports",
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Анкер POPLOK 3,3 мм",
+    "en": "POPLOK 3.3 mm anchor"
+  },
+  "shortDescription": {
+    "ru": "Фиксация мягких тканей плеча",
+    "en": "Shoulder soft tissue fixation"
+  },
+  "description": {
+    "ru": "Безузловой анкерный фиксатор POPLOK диаметром 3.3 мм изготовлен из PEEK — рентгенонегативного полимера. В комплект входит одна нить #2 HIFI.",
+    "en": "The POPLOK knotless anchor has a diameter of 3.3 mm and is made from PEEK, a radiolucent polymer. One #2 HIFI suture is included."
+  },
+  "heroImage": "/images/products/conmed/anchor-3-3mm-poplok-single-strand-2-hifi/poplok.webp",
+  "imageType": "cutout",
+  "gallery": [
+    "/images/products/conmed/anchor-3-3mm-poplok-single-strand-2-hifi/poplok.webp"
+  ],
+  "features": [],
+  "hotspots": [],
+  "components": [
+    {
+      "id": "poplok",
+      "name": {
+        "ru": "Анкер POPLOK 3,3 мм",
+        "en": "POPLOK 3.3 mm anchor"
+      },
+      "image": "/images/products/conmed/anchor-3-3mm-poplok-single-strand-2-hifi/poplok.webp",
+      "refCodes": [],
+      "sizes": [],
+      "variants": [],
+      "legacyDocuments": [
+        {
+          "type": "product-page",
+          "ru": "https://xpmed.uz/product/conmed/plechevoj-sustav/yakor-33-mm-poplok-s-odnoj-nityu-2-hifi/",
+          "en": "https://xpmed.uz/product/conmed-en/shoulder-joint/anchor-3-3mm-poplok-single-strand-2-hifi/"
+        }
+      ]
+    }
+  ],
+  "specTables": [
+    {
+      "id": "legacy-poplok-characteristics",
+      "title": {
+        "ru": "Характеристики POPLOK",
+        "en": "POPLOK characteristics"
+      },
+      "unit": null,
+      "columns": [
+        {
+          "ru": "Параметр",
+          "en": "Parameter"
+        },
+        {
+          "ru": "Значение",
+          "en": "Value"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Диаметр",
+            "en": "Diameter"
+          },
+          {
+            "ru": "3.3 мм",
+            "en": "3.3 mm"
+          }
+        ],
+        [
+          {
+            "ru": "Материал",
+            "en": "Material"
+          },
+          "PEEK"
+        ],
+        [
+          {
+            "ru": "Фиксация",
+            "en": "Fixation"
+          },
+          {
+            "ru": "Безузловая",
+            "en": "Knotless"
+          }
+        ],
+        [
+          {
+            "ru": "Нить в комплекте",
+            "en": "Included suture"
+          },
+          {
+            "ru": "1 × #2 HIFI",
+            "en": "1 × #2 HIFI"
+          }
+        ]
+      ],
+      "legend": null,
+      "headerType": "parameter-values"
+    }
+  ],
+  "refCodes": [],
+  "sourcePdf": null,
+  "sourcePages": [],
+  "catalogEdition": null,
+  "isNew": false,
+  "status": "published",
+  "legacyId": "poplok",
+  "legacyBrand": "conmed",
+  "review": {
+    "flags": [],
+    "notes": [
+      "Migrated existing catalog content; no additional dimensions or reference codes inferred.",
+      "Full descriptions and source-supported characteristics imported from original XPMED RU/EN pages on 2026-11-18. Medical terminology and grammar normalized; no dimensions or REF codes inferred."
+    ]
+  },
+  "imageDimensions": {
+    "/images/products/conmed/anchor-3-3mm-poplok-single-strand-2-hifi/poplok.webp": {
+      "width": 640,
+      "height": 640
+    }
+  },
+  "subcategories": [
+    "shoulder"
+  ],
+  "legacySources": [
+    {
+      "productId": "poplok",
+      "language": "ru",
+      "url": "https://xpmed.uz/product/conmed/plechevoj-sustav/yakor-33-mm-poplok-s-odnoj-nityu-2-hifi/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    },
+    {
+      "productId": "poplok",
+      "language": "en",
+      "url": "https://xpmed.uz/product/conmed-en/shoulder-joint/anchor-3-3mm-poplok-single-strand-2-hifi/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    }
+  ]
+}

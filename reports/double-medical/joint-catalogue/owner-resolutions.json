@@ -1,0 +1,90 @@
+{
+  "sourceSha256": "049dc47f4db1409b0ab7b002cc1e8beaaf86705c6ae23efac7eff3832b23e1e5",
+  "authority": "Explicit owner instructions in this chat",
+  "corrections": [
+    {
+      "system": "amity-a-ve-acetabular-liner",
+      "pages": [
+        13
+      ],
+      "correction": "p.13 Amity A Series Acetabular Liner: remove copied REF(Ti coating) header; material is UHMWPE.",
+      "resolution": "owner-confirmed"
+    },
+    {
+      "system": "accurate-ps-knee-instrument-set",
+      "pages": [
+        59
+      ],
+      "correction": "p.59 REF 11516140 has 8 digits, probably 115161400, confirm with Double Medical",
+      "resolution": "owner-confirmed: code withheld; excluded from request-by-code"
+    },
+    {
+      "system": "apollo-62-72-cup-instrument-set",
+      "pages": [
+        82
+      ],
+      "correction": "p.82 merge each two-line Apollo 10° Trial Liner item into one size row, retaining both printed REF codes in order; six sizes Ø62/36, Ø64/36, Ø66/36, Ø68/36, Ø70/36, Ø72/36. Two catalog numbers per size; confirm with sales.",
+      "resolution": "owner-confirmed",
+      "printedPairs": [
+        {
+          "size": "62/36",
+          "REFs": [
+            "113099200",
+            "113099300"
+          ]
+        },
+        {
+          "size": "64/36",
+          "REFs": [
+            "113099400",
+            "113099500"
+          ]
+        },
+        {
+          "size": "66/36",
+          "REFs": [
+            "113099600",
+            "113099700"
+          ]
+        },
+        {
+          "size": "68/36",
+          "REFs": [
+            "115091300",
+            "115662500"
+          ]
+        },
+        {
+          "size": "70/36",
+          "REFs": [
+            "115662600",
+            "115662700"
+          ]
+        },
+        {
+          "size": "72/36",
+          "REFs": [
+            "115662800",
+            "115662900"
+          ]
+        }
+      ]
+    },
+    {
+      "system": "angel-shoulder-system",
+      "pages": [
+        34
+      ],
+      "correction": "p.34 REF 13Y010001S: 107mm×6.7m → 107 mm × 6.7 mm",
+      "resolution": "owner-confirmed; matches Angel brochure"
+    },
+    {
+      "system": "angel-shoulder-system",
+      "pages": [
+        36
+      ],
+      "correction": "p.36 REF 13Y081015S: Reverse Humeral Stem Adapter Tray fourth row 5 → 15 mm",
+      "resolution": "owner-confirmed; matches Angel brochure"
+    }
+  ]
+}

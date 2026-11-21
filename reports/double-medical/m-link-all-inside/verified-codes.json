@@ -1,0 +1,394 @@
+[
+  {
+    "REF": "151250000S",
+    "name": {
+      "ru": "Система менискового шва с прямой иглой",
+      "en": "Meniscal Repair System with Straight Needle"
+    },
+    "pdfPage": 11,
+    "verification": {
+      "tableId": "m-link-implants",
+      "row": 1,
+      "readings": [
+        {
+          "reader": "PSM3",
+          "value": "151250000S",
+          "pdfPage": 11,
+          "sourceBounds": [
+            0.10721972216787322,
+            0.23611498744069215,
+            0.1964390530228918,
+            0.24504605079542283
+          ],
+          "confidence": 59.380646
+        },
+        {
+          "reader": "PSM11",
+          "value": "151250000S",
+          "pdfPage": 11,
+          "sourceBounds": [
+            0.10721972216787322,
+            0.23611498744069215,
+            0.1964390530228918,
+            0.24504605079542283
+          ],
+          "confidence": 88.241493
+        },
+        {
+          "reader": "Vision",
+          "value": "151250000S",
+          "pdfPage": 11,
+          "sourceBounds": [
+            0.10386965361357273,
+            0.23546511633089673,
+            0.1975560081220589,
+            0.2470930231756262
+          ],
+          "confidence": 1
+        },
+        {
+          "reader": "Codex visual 600-DPI crop",
+          "value": "151250000S",
+          "pdfPage": 11
+        }
+      ],
+      "verificationStatus": "verified (visual + three independent OCR readings)"
+    }
+  },
+  {
+    "REF": "151260000S",
+    "name": {
+      "ru": "Система менискового шва с изогнутой иглой, 20°",
+      "en": "Meniscal Repair System with Curved Needle, 20°"
+    },
+    "pdfPage": 11,
+    "verification": {
+      "tableId": "m-link-implants",
+      "row": 2,
+      "readings": [
+        {
+          "reader": "PSM3",
+          "value": "151260000S",
+          "pdfPage": 11,
+          "sourceBounds": [
+            0.10721972216787322,
+            0.2548144013396595,
+            0.1964390530228918,
+            0.2636059168294725
+          ],
+          "confidence": 43.727486
+        },
+        {
+          "reader": "PSM11",
+          "value": "151260000S",
+          "pdfPage": 11,
+          "sourceBounds": [
+            0.10721972216787322,
+            0.2548144013396595,
+            0.1964390530228918,
+            0.2636059168294725
+          ],
+          "confidence": 90.245163
+        },
+        {
+          "reader": "Vision",
+          "value": "151260000S",
+          "pdfPage": 11,
+          "sourceBounds": [
+            0.10386965697420376,
+            0.25436046514594923,
+            0.19959266721113222,
+            0.2659883719906787
+          ],
+          "confidence": 1
+        },
+        {
+          "reader": "Codex visual 600-DPI crop",
+          "value": "151260000S",
+          "pdfPage": 11
+        }
+      ],
+      "verificationStatus": "verified (visual + three independent OCR readings)"
+    }
+  },
+  {
+    "REF": "152910270S",
+    "name": {
+      "ru": "Система менискового шва с изогнутой иглой, 27°",
+      "en": "Meniscal Repair System with Curved Needle, 27°"
+    },
+    "pdfPage": 11,
+    "verification": {
+      "tableId": "m-link-implants",
+      "row": 3,
+      "readings": [
+        {
+          "reader": "PSM3",
+          "value": "152910270S",
+          "pdfPage": 11,
+          "sourceBounds": [
+            0.10721972216787322,
+            0.2733742673737092,
+            0.1964390530228918,
+            0.28230533072843983
+          ],
+          "confidence": 67.98764
+        },
+        {
+          "reader": "PSM11",
+          "value": "152910270S",
+          "pdfPage": 11,
+          "sourceBounds": [
+            0.10721972216787322,
+            0.2733742673737092,
+            0.1964390530228918,
+            0.28230533072843983
+          ],
+          "confidence": 90.344643
+        },
+        {
+          "reader": "Vision",
+          "value": "152910270S",
+          "pdfPage": 11,
+          "sourceBounds": [
+            0.10386965303379883,
+            0.273255814081788,
+            0.197556007542285,
+            0.2848837209265176
+          ],
+          "confidence": 1
+        },
+        {
+          "reader": "Codex visual 600-DPI crop",
+          "value": "152910270S",
+          "pdfPage": 11
+        }
+      ],
+      "verificationStatus": "verified (visual + three independent OCR readings)"
+    }
+  },
+  {
+    "REF": "114301400",
+    "name": {
+      "ru": "Менисковый глубиномер-зонд, многоразовый",
+      "en": "Meniscal Depth Probe, reusable"
+    },
+    "pdfPage": 12,
+    "verification": {
+      "tableId": "m-link-instruments",
+      "row": 1,
+      "readings": [
+        {
+          "reader": "PSM3",
+          "value": "114301400",
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.08863236157307768,
+            0.21183365894501816,
+            0.17667775386421444,
+            0.22048562656991347
+          ],
+          "confidence": 95.290497
+        },
+        {
+          "reader": "PSM11",
+          "value": "114301400",
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.08863236157307768,
+            0.21183365894501816,
+            0.1768734102915281,
+            0.22048562656991347
+          ],
+          "confidence": 96.587662
+        },
+        {
+          "reader": "Vision",
+          "value": "114301400",
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.08551609473663924,
+            0.20922456014223378,
+            0.17924968994672918,
+            0.2239149744498432
+          ],
+          "confidence": 1
+        },
+        {
+          "reader": "Codex visual 600-DPI crop",
+          "value": "114301400",
+          "pdfPage": 12
+        }
+      ],
+      "verificationStatus": "verified (visual + three independent OCR readings)"
+    }
+  },
+  {
+    "REF": "114301300",
+    "name": {
+      "ru": "Канюля с продольным пазом, многоразовая",
+      "en": "Slotted Cannula, reusable"
+    },
+    "pdfPage": 12,
+    "verification": {
+      "tableId": "m-link-instruments",
+      "row": 2,
+      "readings": [
+        {
+          "reader": "PSM3",
+          "value": "114301300",
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.08863236157307768,
+            0.3397990510745186,
+            0.1768734102915281,
+            0.3483114708344962
+          ],
+          "confidence": 95.925529
+        },
+        {
+          "reader": "PSM11",
+          "value": "114301300",
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.08863236157307768,
+            0.3397990510745186,
+            0.1768734102915281,
+            0.3483114708344962
+          ],
+          "confidence": 96.040665
+        },
+        {
+          "reader": "Vision",
+          "value": "114301300",
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.08545998552850338,
+            0.33550961333233675,
+            0.18134245966114204,
+            0.3519903865466466
+          ],
+          "confidence": 1
+        },
+        {
+          "reader": "Codex visual 600-DPI crop",
+          "value": "114301300",
+          "pdfPage": 12
+        }
+      ],
+      "verificationStatus": "verified (visual + three independent OCR readings)"
+    }
+  },
+  {
+    "REF": "115012500",
+    "name": {
+      "ru": "Менисковый алмазный рашпиль 40°, многоразовый",
+      "en": "40° Diamond Rasp, reusable"
+    },
+    "pdfPage": 12,
+    "verification": {
+      "tableId": "m-link-instruments",
+      "row": 3,
+      "readings": [
+        {
+          "reader": "PSM3",
+          "value": "115012500",
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.08863236157307768,
+            0.467764443204019,
+            0.1768734102915281,
+            0.47627686296399663
+          ],
+          "confidence": 96.549637
+        },
+        {
+          "reader": "PSM11",
+          "value": "115012500",
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.08863236157307768,
+            0.467764443204019,
+            0.1768734102915281,
+            0.47627686296399663
+          ],
+          "confidence": 95.974815
+        },
+        {
+          "reader": "Vision",
+          "value": "115012500",
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.08550228475016343,
+            0.46499264652259,
+            0.17926350070290267,
+            0.4797747952168252
+          ],
+          "confidence": 1
+        },
+        {
+          "reader": "Codex visual 600-DPI crop",
+          "value": "115012500",
+          "pdfPage": 12
+        }
+      ],
+      "verificationStatus": "verified (visual + three independent OCR readings)"
+    }
+  },
+  {
+    "REF": "114302600",
+    "name": {
+      "ru": "Инструмент для продвижения узла и обрезания нити, многоразовый",
+      "en": "Knot Pusher/Suture Cutter, reusable"
+    },
+    "pdfPage": 12,
+    "verification": {
+      "tableId": "m-link-instruments",
+      "row": 4,
+      "readings": [
+        {
+          "reader": "PSM3",
+          "value": "114302600",
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.08863236157307768,
+            0.5955902874686018,
+            0.1768734102915281,
+            0.604242255093497
+          ],
+          "confidence": 96.555084
+        },
+        {
+          "reader": "PSM11",
+          "value": "114302600",
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.08863236157307768,
+            0.5955902874686018,
+            0.1768734102915281,
+            0.604242255093497
+          ],
+          "confidence": 95.492424
+        },
+        {
+          "reader": "Vision",
+          "value": "114302600",
+          "pdfPage": 12,
+          "sourceBounds": [
+            0.08537385306995769,
+            0.5924589850402266,
+            0.17939193237932835,
+            0.6081224101678919
+          ],
+          "confidence": 1
+        },
+        {
+          "reader": "Codex visual 600-DPI crop",
+          "value": "114302600",
+          "pdfPage": 12
+        }
+      ],
+      "verificationStatus": "verified (visual + three independent OCR readings)"
+    }
+  }
+]

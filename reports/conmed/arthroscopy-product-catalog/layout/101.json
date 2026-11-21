@@ -1,0 +1,116 @@
+{
+  "pdfPage": 101,
+  "officialPage": 127,
+  "alignment": [
+    [
+      0.9701305360854038,
+      0.00023422202391954852,
+      0.014735563187315687
+    ],
+    [
+      0.0008445210935016646,
+      0.977953252817319,
+      0.011005167591207567
+    ]
+  ],
+  "alignmentMatches": 26,
+  "alignmentInliers": 26,
+  "category": "arthroscopy-resection",
+  "title": {
+    "en": "Micro Hub Blades",
+    "ru": "Шейверные насадки с микроразъёмом"
+  },
+  "groups": [
+    {
+      "title": "Great White® Blade — 5,000rpm Max., 13.0cm Working Length, 6 per Box",
+      "page": 101,
+      "officialPage": 127,
+      "headingBounds": [
+        0.1008467541417901,
+        0.2932867212823117,
+        0.3892071202448465,
+        0.3067067830606661
+      ],
+      "rows": [
+        {
+          "description": "4.2mm, Micro Hub, Sterling®, Shaver, Great White",
+          "codes": [
+            {
+              "candidate": "M9299A",
+              "sourceBounds": [
+                0.5211984319686932,
+                0.31193493579131687,
+                0.5669017427026047,
+                0.324543641935825
+              ],
+              "officialBounds": [
+                319.453125,
+                243.3523712158203,
+                348.2828369140625,
+                253.5313720703125
+              ],
+              "officialCode": "M9299A"
+            }
+          ],
+          "rowBounds": [
+            0.10085113250352815,
+            0.31156780788582383,
+            0.5669017427026047,
+            0.324543641935825
+          ],
+          "pdfPage": 101,
+          "officialPage": 127
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Mako Blade — 5,000rpm Max., 13.0cm Working Length, 6 per Box",
+      "page": 101,
+      "officialPage": 127,
+      "headingBounds": [
+        0.10089555041031101,
+        0.4970270388100955,
+        0.38925591650434227,
+        0.5104470629056662
+      ],
+      "rows": [
+        {
+          "description": "4.2mm, Micro Hub, Sterling, Shaver, Mako",
+          "codes": [
+            {
+              "candidate": "M9298A",
+              "sourceBounds": [
+                0.5211804208584329,
+                0.5156739516301235,
+                0.5669450721951077,
+                0.5282826923316587
+              ],
+              "officialBounds": [
+                319.4109802246094,
+                408.3514099121094,
+                348.2793884277344,
+                418.5303955078125
+              ],
+              "officialCode": "M9298A"
+            }
+          ],
+          "rowBounds": [
+            0.10089992876302394,
+            0.5153080877308239,
+            0.5669450721951077,
+            0.5282826923316587
+          ],
+          "pdfPage": 101,
+          "officialPage": 127
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 2
+}

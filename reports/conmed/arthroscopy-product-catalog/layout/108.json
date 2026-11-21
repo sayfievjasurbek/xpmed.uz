@@ -1,0 +1,213 @@
+{
+  "pdfPage": 108,
+  "officialPage": 134,
+  "alignment": [
+    [
+      0.9702073923496864,
+      -0.00046650780758398754,
+      0.014861148145699726
+    ],
+    [
+      -0.0009683169902925441,
+      0.9790197907555143,
+      0.011524740051885763
+    ]
+  ],
+  "alignmentMatches": 30,
+  "alignmentInliers": 30,
+  "category": "arthroscopy-fluid-management",
+  "title": {
+    "en": "10k Fluid System",
+    "ru": "Система управления жидкостью 10k"
+  },
+  "groups": [
+    {
+      "title": "10k® Irrigation System Console — Technical Specifications:",
+      "page": 108,
+      "officialPage": 134,
+      "headingBounds": [
+        0.4285084363798481,
+        0.25461933394012043,
+        0.570594753099852,
+        0.26766092026518284
+      ],
+      "rows": [
+        {
+          "description": "10k Irrigation System Console",
+          "codes": [
+            {
+              "candidate": "10k",
+              "sourceBounds": [
+                0.8753002294968494,
+                0.3503521908718376,
+                0.8945415191793431,
+                0.3629155926393962
+              ],
+              "officialBounds": [
+                542.8610229492188,
+                274.7969055175781,
+                555.0020751953125,
+                284.97589111328125
+              ],
+              "officialCode": "10k"
+            }
+          ],
+          "rowBounds": [
+            0.428462606691109,
+            0.3507981578532032,
+            0.8945415191793431,
+            0.3629155926393962
+          ],
+          "pdfPage": 108,
+          "officialPage": 134
+        }
+      ],
+      "features": [
+        {
+          "text": "Maximum Flow: 2000ml/min",
+          "bounds": [
+            0.4356615288509039,
+            0.2142882155463388,
+            0.6096390773809297,
+            0.22809526660247678
+          ],
+          "officialStartX": 265.4989929199219
+        },
+        {
+          "text": "Set Pressure Ranges: 30 – 150mmHg",
+          "bounds": [
+            0.4356550495757986,
+            0.2278857126401654,
+            0.6629082816521068,
+            0.24163959181784306
+          ],
+          "officialStartX": 265.4989929199219
+        },
+        {
+          "text": "Weight: 7 lbs",
+          "bounds": [
+            0.43563620077549214,
+            0.2674420678222064,
+            0.520295959081838,
+            0.2813382626371849
+          ],
+          "officialStartX": 265.4989929199219
+        },
+        {
+          "text": "Dimensions: 7.75\"w x 6.5\"h x 8\"d",
+          "bounds": [
+            0.4356297215003868,
+            0.281039564916033,
+            0.637779595119357,
+            0.29481849853949127
+          ],
+          "officialStartX": 265.4989929199219
+        },
+        {
+          "text": "Voltage: 100-240V",
+          "bounds": [
+            0.4356232422252815,
+            0.2946370620098595,
+            0.5524978854498522,
+            0.308501104709061
+          ],
+          "officialStartX": 265.4989929199219
+        },
+        {
+          "text": "Includes: 10' (3M) power cord",
+          "bounds": [
+            0.43561676295017615,
+            0.30823455910368613,
+            0.6161828049426764,
+            0.3220350345037217
+          ],
+          "officialStartX": 265.4989929199219
+        }
+      ],
+      "notes": [
+        "Setup and priming are faster and easier than any arthroscopy pump system in the",
+        "world. The 10k® pump can be used in arthroscopy and laparoscopy."
+      ],
+      "keyParameters": []
+    },
+    {
+      "title": "10k Autoclavable Remote Control",
+      "page": 108,
+      "officialPage": 134,
+      "headingBounds": [
+        0.4284403183424286,
+        0.39726820638933646,
+        0.6873088391094287,
+        0.41175692986053053
+      ],
+      "rows": [
+        {
+          "description": "10K Autoclavable Remote Control",
+          "codes": [
+            {
+              "candidate": "C7115",
+              "sourceBounds": [
+                0.8610862790032617,
+                0.4764521993064066,
+                0.8944754395448585,
+                0.4890014807695464
+              ],
+              "officialBounds": [
+                533.932861328125,
+                376.7969055175781,
+                554.998291015625,
+                386.97589111328125
+              ],
+              "officialCode": "C7115"
+            }
+          ],
+          "rowBounds": [
+            0.4284023810010152,
+            0.4768840401408151,
+            0.8944754395448585,
+            0.4890014807695464
+          ],
+          "pdfPage": 108,
+          "officialPage": 134
+        }
+      ],
+      "features": [
+        {
+          "text": "Flow Control",
+          "bounds": [
+            0.4355583043261232,
+            0.43061205195492175,
+            0.516036120871043,
+            0.44451242056335094
+          ],
+          "officialStartX": 265.4989013671875
+        },
+        {
+          "text": "Pressure Control",
+          "bounds": [
+            0.43555182505101786,
+            0.4442095490487483,
+            0.5393890568016083,
+            0.45808660375665966
+          ],
+          "officialStartX": 265.4989013671875
+        },
+        {
+          "text": "Tamponade Assist",
+          "bounds": [
+            0.43554534577591253,
+            0.4578070461425749,
+            0.548605974900969,
+            0.47167489542445434
+          ],
+          "officialStartX": 265.4989013671875
+        }
+      ],
+      "notes": [
+        "The C7115 provides full control of the 10K console from within the sterile field."
+      ],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 2
+}

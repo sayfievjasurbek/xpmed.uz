@@ -1,0 +1,45 @@
+{
+  "pdfPage": 19,
+  "pageRow": 5,
+  "visualReading": "VSTR0804",
+  "visualReader": "Codex independent inspection of 600-DPI source table images; source-line crops retained",
+  "ocrReadings": {
+    "600dpi-psm3": "VSTRO804",
+    "600dpi-psm11": "VSTRO804",
+    "600dpi-code-crop-psm7": "VSTRO804",
+    "isolated-psm7-scale0.5-thresholdNone": "VSTRO804",
+    "isolated-psm7-scale0.5-threshold175": "VSTRO804",
+    "isolated-psm7-scale0.75-threshold210": "VSTRO804",
+    "isolated-psm7-scale1-thresholdNone": "VSTRO804",
+    "isolated-psm13-scale0.5-thresholdNone": "——VSTRO8O4",
+    "isolated-psm13-scale0.5-threshold175": "——VSTRO8O4",
+    "isolated-psm13-scale0.75-threshold210": "-VSTROB04",
+    "isolated-psm13-scale1-thresholdNone": "- -VSTRO804",
+    "Apple-Vision-accurate": "VSTR0804"
+  },
+  "matchedReaders": [
+    "Apple-Vision-accurate"
+  ],
+  "value": "VSTR0804",
+  "verificationStatus": "verified (visual + OCR)",
+  "manufacturerStatus": "confirmed on conmed.com",
+  "officialEvidence": [
+    {
+      "url": "https://www.conmed.com/-/media/conmed/documents/catalog/advancedsurgical_catalog.ashx",
+      "code": "VSTR0804"
+    }
+  ],
+  "sourceBounds": [
+    0.8548229309332812,
+    0.48032375104660896,
+    0.9144981412639405,
+    0.4893943622662573
+  ],
+  "rowBounds": [
+    0.5289452320766902,
+    0.46078431372549017,
+    0.934,
+    0.49376114081996436
+  ],
+  "lineCrop": "reports/conmed/advanced-surgical-product-catalog/line-crops/019-05.png"
+}

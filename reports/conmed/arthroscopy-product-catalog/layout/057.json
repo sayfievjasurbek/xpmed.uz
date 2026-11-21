@@ -1,0 +1,214 @@
+{
+  "pdfPage": 57,
+  "officialPage": 77,
+  "alignment": [
+    [
+      0.9701862789157234,
+      0.0012317447747466305,
+      0.014598477366130869
+    ],
+    [
+      -0.0013782991971536566,
+      0.9780490725265586,
+      0.011709711002568644
+    ]
+  ],
+  "alignmentMatches": 11,
+  "alignmentInliers": 11,
+  "category": "hip-arthroscopy",
+  "title": {
+    "en": "Hip Suture Passers",
+    "ru": "Проводники шовного материала для тазобедренного сустава"
+  },
+  "groups": [
+    {
+      "title": "™ Suture Passer",
+      "page": 57,
+      "officialPage": 77,
+      "headingBounds": [
+        0.22193980363153196,
+        0.14156246268696643,
+        0.34144985664418465,
+        0.15612518857577348
+      ],
+      "rows": [
+        {
+          "description": "Spectrum MVP, Medium Crecent Hook, Extended Length, Disposable, Packaged Sterile, 3 per Box",
+          "codes": [
+            {
+              "candidate": "C6400EL",
+              "sourceBounds": [
+                0.5204785226446277,
+                0.2256138035332647,
+                0.5677053874585587,
+                0.23811688745610193
+              ],
+              "officialBounds": [
+                318.9420166015625,
+                173.79591369628906,
+                348.7230529785156,
+                183.97491455078125
+              ],
+              "officialCode": "C6400EL"
+            }
+          ],
+          "rowBounds": [
+            0.11586673424914166,
+            0.2138406963874677,
+            0.5677053874585587,
+            0.23811688745610193
+          ],
+          "pdfPage": 57,
+          "officialPage": 77
+        },
+        {
+          "description": "Spectrum MVP, 45° Right Hook, Extended Length, Disposable, Packaged Sterile, 3 per Box",
+          "codes": [
+            {
+              "candidate": "C6410EL",
+              "sourceBounds": [
+                0.5205166228229481,
+                0.2558666975039792,
+                0.5677434876368791,
+                0.26836978142681644
+              ],
+              "officialBounds": [
+                318.9420166015625,
+                198.29396057128906,
+                348.7230529785156,
+                208.47296142578125
+              ],
+              "officialCode": "C6410EL"
+            }
+          ],
+          "rowBounds": [
+            0.11590488280611497,
+            0.24409359028945288,
+            0.5677434876368791,
+            0.26836978142681644
+          ],
+          "pdfPage": 57,
+          "officialPage": 77
+        },
+        {
+          "description": "Spectrum MVP, 45° Left Hook, Extended Length, Disposable, Packaged Sterile, 3 per Box",
+          "codes": [
+            {
+              "candidate": "C6420EL",
+              "sourceBounds": [
+                0.5205547230012685,
+                0.28611959147469374,
+                0.5677815878151995,
+                0.29862267539753096
+              ],
+              "officialBounds": [
+                318.9420166015625,
+                222.79200744628906,
+                348.7230529785156,
+                232.97100830078125
+              ],
+              "officialCode": "C6420EL"
+            }
+          ],
+          "rowBounds": [
+            0.1159429829844354,
+            0.2743464842601674,
+            0.5677815878151995,
+            0.29862267539753096
+          ],
+          "pdfPage": 57,
+          "officialPage": 77
+        }
+      ],
+      "features": [
+        {
+          "text": "Low profile 1.8mm suture hook the Spectrum MVP suture passer effectively passes and retrieves suture while preserving labral tissue",
+          "bounds": [
+            0.10866528610409917,
+            0.16145729496967667,
+            0.5520232058960011,
+            0.17479428637206235
+          ],
+          "officialStartX": 59.218902587890625
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Raven",
+      "page": 57,
+      "officialPage": 77,
+      "headingBounds": [
+        0.10186926658907458,
+        0.4282327772553375,
+        0.1495696272749728,
+        0.4428975104624202
+      ],
+      "rows": [
+        {
+          "description": "Extended Length Raven Straight",
+          "codes": [
+            {
+              "candidate": "GU1004EL",
+              "sourceBounds": [
+                0.5120687857501816,
+                0.4472937971669966,
+                0.5679758935760856,
+                0.4597845306230023
+              ],
+              "officialBounds": [
+                313.46099853515625,
+                353.2969055175781,
+                348.71759033203125,
+                363.47589111328125
+              ],
+              "officialCode": "GU1004EL"
+            }
+          ],
+          "rowBounds": [
+            0.10189400570532459,
+            0.44787651368475684,
+            0.5679758935760856,
+            0.4597845306230023
+          ],
+          "pdfPage": 57,
+          "officialPage": 77
+        },
+        {
+          "description": "Extended Length Raven 35° Up",
+          "codes": [
+            {
+              "candidate": "GU1008EL",
+              "sourceBounds": [
+                0.5121626935798061,
+                0.46519865359160373,
+                0.5680113116143782,
+                0.47768947014137625
+              ],
+              "officialBounds": [
+                313.5060119628906,
+                367.7958984375,
+                348.7257080078125,
+                377.9748840332031
+              ],
+              "officialCode": "GU1008EL"
+            }
+          ],
+          "rowBounds": [
+            0.1019165550219511,
+            0.46578147148513405,
+            0.5680113116143782,
+            0.47768947014137625
+          ],
+          "pdfPage": 57,
+          "officialPage": 77
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 5
+}

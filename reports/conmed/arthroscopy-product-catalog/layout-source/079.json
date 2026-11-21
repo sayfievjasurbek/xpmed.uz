@@ -1,0 +1,167 @@
+{
+  "pdfPage": 79,
+  "officialPage": 105,
+  "alignment": [
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      0.0
+    ]
+  ],
+  "alignmentMatches": 2,
+  "alignmentInliers": 0,
+  "category": "arthroscopy-manual-instruments",
+  "title": {
+    "en": "Concept",
+    "ru": "Ручные инструменты Concept"
+  },
+  "groups": [
+    {
+      "title": "Linear Alligator Grasper — 3.3mm dia., 130mm",
+      "page": 79,
+      "officialPage": 105,
+      "headingBounds": [
+        0.08823529411764706,
+        0.1527662758875375,
+        0.2044265098821104,
+        0.16623219576748935
+      ],
+      "rows": [
+        {
+          "description": "2.7mm Tip",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6861",
+              "sourceBounds": [
+                0.5091649718452718,
+                0.19912790686006487,
+                0.5682281046924065,
+                0.21230158731692272
+              ],
+              "officialCode": "C6861",
+              "officialBounds": [
+                325.3589782714844,
+                151.79689025878906,
+                348.00653076171875,
+                161.97589111328125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.1927147470884938,
+            0.5782281046924065,
+            0.2147147470884938
+          ],
+          "pdfPage": 79,
+          "officialPage": 105
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Linear Wide Bite Punch — 3.3mm dia., 130mm",
+      "page": 79,
+      "officialPage": 105,
+      "headingBounds": [
+        0.08823529411764706,
+        0.3547864971738873,
+        0.2044265098821104,
+        0.3682523785215436
+      ],
+      "rows": [
+        {
+          "description": "15° Blunt Nose",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6866",
+              "sourceBounds": [
+                0.5170419815549286,
+                0.37741266976957033,
+                0.568497732637093,
+                0.39293616731699244
+              ],
+              "officialCode": "C6866",
+              "officialBounds": [
+                325.16998291015625,
+                295.7958984375,
+                347.99761962890625,
+                305.9748840332031
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.37217441854328137,
+            0.578497732637093,
+            0.3941744185432814
+          ],
+          "pdfPage": 79,
+          "officialPage": 105
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Linear Punch Scissor — 3.3mm dia., 130mm",
+      "page": 79,
+      "officialPage": 105,
+      "headingBounds": [
+        0.08823529411764706,
+        0.5530188204062105,
+        0.2044265098821104,
+        0.5664847017538668
+      ],
+      "rows": [
+        {
+          "description": "Straight",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6809",
+              "sourceBounds": [
+                0.513238289248897,
+                0.5711805553552005,
+                0.5682281053335877,
+                0.585813491863137
+              ],
+              "officialCode": "C6809",
+              "officialBounds": [
+                325.20599365234375,
+                452.7958984375,
+                348.0021057128906,
+                462.9748840332031
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5654970236091688,
+            0.5782281053335877,
+            0.5874970236091688
+          ],
+          "pdfPage": 79,
+          "officialPage": 105
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 3
+}

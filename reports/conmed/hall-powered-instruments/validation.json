@@ -1,0 +1,28 @@
+{
+  "tests": {
+    "javascript": 61,
+    "python": 19,
+    "total": 80,
+    "passed": 80,
+    "failed": 0,
+    "skipped": 0
+  },
+  "build": "140 published systems; draft pages and admin excluded",
+  "browserChecks": {
+    "languages": [
+      "ru",
+      "en"
+    ],
+    "desktop": true,
+    "mobile": true,
+    "combinedDimensionFilters": true,
+    "rowSearch": true,
+    "drawingEnlargement": true,
+    "imageNativeSizeLimit": true,
+    "noPageOverflow": true,
+    "megaMenuCategory": true,
+    "existingRequestSelectionPreserved": true
+  },
+  "preview": "preview-desktop.png",
+  "newlyPublishedLanguageUrlsChecked": 10
+}

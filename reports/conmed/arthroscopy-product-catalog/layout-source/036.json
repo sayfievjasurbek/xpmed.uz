@@ -1,0 +1,212 @@
+{
+  "pdfPage": 36,
+  "officialPage": 52,
+  "alignment": [
+    [
+      0.9668139152264709,
+      -0.003278001968555336,
+      0.019217697815545446
+    ],
+    [
+      -0.02358731727020988,
+      0.652945454770636,
+      0.011876366014237222
+    ]
+  ],
+  "alignmentMatches": 10,
+  "alignmentInliers": 9,
+  "category": "knee-arthroscopy",
+  "title": {
+    "en": "Cruciate Reconstruction Accessories",
+    "ru": "Принадлежности для реконструкции крестообразных связок"
+  },
+  "groups": [
+    {
+      "title": "Graft Passing Guide Pins",
+      "page": 36,
+      "officialPage": 52,
+      "headingBounds": [
+        0.4307209695776949,
+        0.16372605690102415,
+        0.62368652735989,
+        0.1688524769746277
+      ],
+      "rows": [
+        {
+          "description": "2 Pin Passer, Drill Tip",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C8623",
+              "sourceBounds": [
+                0.8553971482062542,
+                0.15843023294984948,
+                0.8981670060452736,
+                0.1729651160327086
+              ],
+              "officialCode": "C8623",
+              "officialBounds": [
+                532.3579711914062,
+                212.29689025878906,
+                555.0010986328125,
+                222.47589111328125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.15269767449127902,
+            0.9081670060452736,
+            0.17469767449127904
+          ],
+          "pdfPage": 36,
+          "officialPage": 52
+        },
+        {
+          "description": "2 Pin Passer, Trocar Tip",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "8623",
+              "sourceBounds": [
+                0.8594704688814779,
+                0.17732558185973324,
+                0.8961303462712716,
+                0.19196428582663083
+              ],
+              "officialCode": "8623",
+              "officialBounds": [
+                537.281005859375,
+                226.79591369628906,
+                555.0029296875,
+                236.97491455078125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.17164493384318202,
+            0.9061303462712716,
+            0.19364493384318204
+          ],
+          "pdfPage": 36,
+          "officialPage": 52
+        },
+        {
+          "description": "Graft Passing Guide Pin, 2.4mm (.09375\") dia. x 43.18cm (17\")",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C8675S",
+              "sourceBounds": [
+                0.8492871684831688,
+                0.19622093035207067,
+                0.8981670067714137,
+                0.20930232578891772
+              ],
+              "officialCode": "C8675S",
+              "officialBounds": [
+                527.9660034179688,
+                241.29493713378906,
+                554.9957885742188,
+                251.47393798828125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.18976162807049418,
+            0.9081670067714137,
+            0.2117616280704942
+          ],
+          "pdfPage": 36,
+          "officialPage": 52
+        },
+        {
+          "description": "XACTPIN® Graft Passing Guide Pin, 2.4mm (.09375\") dia. x 43.18cm (17\")",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C8677S",
+              "sourceBounds": [
+                0.8472505080656536,
+                0.2135416665193166,
+                0.8961303463538984,
+                0.22674418616319092
+              ],
+              "officialCode": "C8677S",
+              "officialBounds": [
+                527.9050903320312,
+                255.79689025878906,
+                555.0014038085938,
+                265.97589111328125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.20714292634125375,
+            0.9061303463538984,
+            0.22914292634125377
+          ],
+          "pdfPage": 36,
+          "officialPage": 52
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Magnetic Retriever",
+      "page": 36,
+      "officialPage": 52,
+      "headingBounds": [
+        0.4294275660231829,
+        0.42135920666847837,
+        0.5760450061175656,
+        0.42761637976452205
+      ],
+      "rows": [
+        {
+          "description": "Magnetic Retriever",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "9970",
+              "sourceBounds": [
+                0.8635437884940456,
+                0.4476744187201087,
+                0.8961303464686156,
+                0.4578488369727207
+              ],
+              "officialCode": "9970",
+              "officialBounds": [
+                537.4970092773438,
+                540.296875,
+                554.9946899414062,
+                550.4758911132812
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.4397616278464147,
+            0.9061303464686156,
+            0.4617616278464147
+          ],
+          "pdfPage": 36,
+          "officialPage": 52
+        }
+      ],
+      "features": [],
+      "notes": [
+        "For recovery of ferrous metallic objects utilizing magnetic attraction"
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 5
+}

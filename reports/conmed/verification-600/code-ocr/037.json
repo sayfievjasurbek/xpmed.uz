@@ -1,0 +1,250 @@
+{
+  "id": 37,
+  "bounds": [
+    0.8199960868714538,
+    0.24755791236394084,
+    0.9170416748190178,
+    0.26723416131733185
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "AVA1SIC",
+      "confidence": 43.160347,
+      "words": [
+        {
+          "text": "AVA1SIC",
+          "confidence": 43.160347,
+          "pixelBounds": [
+            4372,
+            1826,
+            4626,
+            1887
+          ],
+          "lineId": "9.2.7",
+          "bounds": [
+            0.8554099002152221,
+            0.2548144013396595,
+            0.9051066327528859,
+            0.2633268210996372
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "AV415IC",
+      "confidence": 18.911505,
+      "words": [
+        {
+          "text": "AV415IC",
+          "confidence": 18.911505,
+          "pixelBounds": [
+            4372,
+            1826,
+            4626,
+            1887
+          ],
+          "lineId": "21.1.1",
+          "bounds": [
+            0.8554099002152221,
+            0.2548144013396595,
+            0.9051066327528859,
+            0.2633268210996372
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "sre AVATSIC",
+      "confidence": 16.043158,
+      "words": [
+        {
+          "text": "sre",
+          "confidence": 16.043158,
+          "pixelBounds": [
+            6,
+            104,
+            151,
+            112
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "AVATSIC",
+          "confidence": 38.872955,
+          "pixelBounds": [
+            194,
+            52,
+            435,
+            113
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "coeneAVAASIC",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "coeneAVAASIC",
+          "confidence": 0.0,
+          "pixelBounds": [
+            6,
+            52,
+            435,
+            113
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale0.6-psm7",
+      "text": "AV41SIC",
+      "confidence": 84.460236,
+      "words": [
+        {
+          "text": "AV41SIC",
+          "confidence": 84.460236,
+          "pixelBounds": [
+            20,
+            26,
+            179,
+            63
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        170,
+        42,
+        445,
+        123
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale0.6-psm8",
+      "text": "“AVAISIC.",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "“AVAISIC.",
+          "confidence": 0.0,
+          "pixelBounds": [
+            20,
+            26,
+            179,
+            63
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        170,
+        42,
+        445,
+        123
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale0.6-psm13",
+      "text": "“AVAISIC.",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "“AVAISIC.",
+          "confidence": 0.0,
+          "pixelBounds": [
+            20,
+            26,
+            179,
+            63
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        170,
+        42,
+        445,
+        123
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale1-psm7",
+      "text": "AVAISIC",
+      "confidence": 74.156525,
+      "words": [
+        {
+          "text": "AVAISIC",
+          "confidence": 74.156525,
+          "pixelBounds": [
+            20,
+            30,
+            285,
+            91
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        170,
+        42,
+        445,
+        123
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale1-psm8",
+      "text": "AVAISIC",
+      "confidence": 30.621128,
+      "words": [
+        {
+          "text": "AVAISIC",
+          "confidence": 30.621128,
+          "pixelBounds": [
+            20,
+            30,
+            285,
+            91
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        170,
+        42,
+        445,
+        123
+      ]
+    },
+    {
+      "reader": "600dpi-tight-crop-scale1-psm13",
+      "text": "AVAISIC",
+      "confidence": 30.621128,
+      "words": [
+        {
+          "text": "AVAISIC",
+          "confidence": 30.621128,
+          "pixelBounds": [
+            20,
+            30,
+            285,
+            91
+          ],
+          "lineId": "1.1.1"
+        }
+      ],
+      "cropBoundsInCodeCrop": [
+        170,
+        42,
+        445,
+        123
+      ]
+    }
+  ]
+}

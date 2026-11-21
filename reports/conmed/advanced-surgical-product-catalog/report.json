@@ -1,0 +1,406 @@
+{
+  "catalog": "CONMED Advanced Surgical Product Catalog",
+  "pages": 44,
+  "sourcePdf": "/catalogs/conmed/advanced-surgical-product-catalog/source.pdf",
+  "systemsCreated": 25,
+  "published": 25,
+  "drafts": 0,
+  "catalogNumbersFound": 352,
+  "catalogNumbersVerified": 352,
+  "catalogNumbersConfirmedOnConmedCom": 345,
+  "uniquePrintedCodes": 345,
+  "imagesExtracted": 147,
+  "imagePipeline": "Original embedded photos (no vector captions), Real-ESRGAN x4plus downsampled to exactly 2x, then rembg; originals retained; native-size rendering caps.",
+  "nonProductPages": [
+    1,
+    2,
+    3,
+    4,
+    9,
+    22,
+    40,
+    43,
+    44
+  ],
+  "systems": [
+    {
+      "slug": "abc-dissecting-probes",
+      "name": {
+        "ru": "Зонды ABC® для диссекции",
+        "en": "ABC® Dissecting Probes"
+      },
+      "pages": [
+        25
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 5
+    },
+    {
+      "slug": "abc-laparoscopic-probes",
+      "name": {
+        "ru": "Лапароскопические зонды ABC®",
+        "en": "ABC® Laparoscopic Probes"
+      },
+      "pages": [
+        24
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 3
+    },
+    {
+      "slug": "active-electrodes",
+      "name": {
+        "ru": "Активные электроды",
+        "en": "Active Electrodes"
+      },
+      "pages": [
+        32,
+        33
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 17
+    },
+    {
+      "slug": "airseal-intelligent-flow-system",
+      "name": {
+        "ru": "Интеллектуальная система инсуффляции AirSeal®",
+        "en": "AirSeal® Intelligent Flow System"
+      },
+      "pages": [
+        5
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 2
+    },
+    {
+      "slug": "airseal-tube-sets-access-ports",
+      "name": {
+        "ru": "Трубчатые комплекты и порты доступа AirSeal®",
+        "en": "AirSeal® Tube Sets & Access Ports"
+      },
+      "pages": [
+        6
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 16
+    },
+    {
+      "slug": "bluview-trocars",
+      "name": {
+        "ru": "Троакары BluView",
+        "en": "BluView Trocars"
+      },
+      "pages": [
+        7
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 1
+    },
+    {
+      "slug": "detachatip-laparoscopic-instruments",
+      "name": {
+        "ru": "Лапароскопические инструменты DetachaTip®",
+        "en": "DetachaTip® Laparoscopic Instruments"
+      },
+      "pages": [
+        41
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 6
+    },
+    {
+      "slug": "dispersive-electrodes",
+      "name": {
+        "ru": "Нейтральные электроды",
+        "en": "Dispersive Electrodes"
+      },
+      "pages": [
+        26,
+        27,
+        34,
+        35
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 9
+    },
+    {
+      "slug": "electrosurgical-cables-adapters",
+      "name": {
+        "ru": "Электрохирургические кабели и адаптеры",
+        "en": "Electrosurgical Cables & Adapters"
+      },
+      "pages": [
+        38
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 14
+    },
+    {
+      "slug": "electrosurgical-forceps",
+      "name": {
+        "ru": "Электрохирургические пинцеты (многоразовые, нестерильные)",
+        "en": "Electrosurgical Forceps (Reusable, Non-Sterile)"
+      },
+      "pages": [
+        36,
+        37
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 7
+    },
+    {
+      "slug": "electrosurgical-pencils",
+      "name": {
+        "ru": "Электрохирургические рукоятки",
+        "en": "Electrosurgical Pencils"
+      },
+      "pages": [
+        30,
+        31
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 2
+    },
+    {
+      "slug": "helixar-system",
+      "name": {
+        "ru": "Система HelixAR™",
+        "en": "HelixAR™ System"
+      },
+      "pages": [
+        23
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 3
+    },
+    {
+      "slug": "insufflation-needles-accessories",
+      "name": {
+        "ru": "Инсуффляционные иглы и принадлежности",
+        "en": "Insufflation Needles & Accessories"
+      },
+      "pages": [
+        8
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 5
+    },
+    {
+      "slug": "laparoscopic-disposable-scissors",
+      "name": {
+        "ru": "Одноразовые лапароскопические ножницы",
+        "en": "Disposable Scissors"
+      },
+      "pages": [
+        42
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 6
+    },
+    {
+      "slug": "laparoscopic-electrodes-accessory-cables",
+      "name": {
+        "ru": "Лапароскопические электроды и соединительные кабели",
+        "en": "Laparoscopic Electrodes & Accessory Cables"
+      },
+      "pages": [
+        39
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 5
+    },
+    {
+      "slug": "laparoscopic-smoke-solutions",
+      "name": {
+        "ru": "Лапароскопические системы эвакуации дыма",
+        "en": "Laparoscopic Solutions"
+      },
+      "pages": [
+        16
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 4
+    },
+    {
+      "slug": "plumepen-smoke-evacuation-pencils",
+      "name": {
+        "ru": "Электрохирургические рукоятки PlumePen® с эвакуацией дыма",
+        "en": "PlumePen® Smoke Evacuation Pencils"
+      },
+      "pages": [
+        11
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 5
+    },
+    {
+      "slug": "smoke-evacuation-accessories",
+      "name": {
+        "ru": "Принадлежности для эвакуации хирургического дыма",
+        "en": "Accessories"
+      },
+      "pages": [
+        20,
+        21
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 9
+    },
+    {
+      "slug": "smoke-evacuation-tubing-adapters",
+      "name": {
+        "ru": "Адаптеры трубок для эвакуации дыма",
+        "en": "Smoke Evacuation Tubing Adapters"
+      },
+      "pages": [
+        15
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 2
+    },
+    {
+      "slug": "smoke-evacuation-tubing",
+      "name": {
+        "ru": "Трубки для эвакуации хирургического дыма",
+        "en": "Smoke Evacuation Tubing"
+      },
+      "pages": [
+        13,
+        14
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 7
+    },
+    {
+      "slug": "surgical-smoke-evacuators",
+      "name": {
+        "ru": "Эвакуаторы хирургического дыма",
+        "en": "Surgical Smoke Evacuators"
+      },
+      "pages": [
+        10
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 3
+    },
+    {
+      "slug": "surgical-smoke-filters",
+      "name": {
+        "ru": "Фильтры для эвакуации хирургического дыма",
+        "en": "Filters"
+      },
+      "pages": [
+        17,
+        18,
+        19
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 9
+    },
+    {
+      "slug": "surgical-smoke-pencil-adapters",
+      "name": {
+        "ru": "Адаптеры эвакуации дыма для электрохирургических рукояток",
+        "en": "Surgical Smoke Pencil Adapters"
+      },
+      "pages": [
+        12
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 3
+    },
+    {
+      "slug": "system-2450",
+      "name": {
+        "ru": "Электрохирургическая система System 2450™",
+        "en": "System 2450™"
+      },
+      "pages": [
+        29
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 2
+    },
+    {
+      "slug": "system-5000",
+      "name": {
+        "ru": "Электрохирургическая система System 5000™",
+        "en": "System 5000™"
+      },
+      "pages": [
+        28
+      ],
+      "status": "published",
+      "openFlags": 0,
+      "images": 2
+    }
+  ],
+  "openRealFlags": [],
+  "verificationReport": "reports/conmed/advanced-surgical-product-catalog/verification.json",
+  "brandNote": {
+    "sourcePages": [
+      3
+    ],
+    "text": {
+      "en": "CONMED develops surgical and patient-monitoring products. Its Advanced Surgical portfolio supports laparoscopic, robotic and open surgery, gastroenterology and pulmonology.",
+      "ru": "CONMED разрабатывает хирургические изделия и средства мониторинга пациентов. Направление Advanced Surgical охватывает лапароскопическую, роботическую и открытую хирургию, гастроэнтерологию и пульмонологию."
+    }
+  },
+  "finishedAt": "2026-11-18T18:49:39.374718+00:00",
+  "sourceCatalogCorrections": [
+    {
+      "system": "electrosurgical-forceps",
+      "pdfPage": 36,
+      "code": "130187",
+      "sourceReading": "6 (15m)",
+      "corrected": {
+        "ru": "15 см (6″)",
+        "en": "6″ (15 cm)"
+      },
+      "basis": "Owner verified typo against next source row, which prints 6 (15cm).",
+      "publicNote": false
+    }
+  ],
+  "ownerResolutionDate": "2026-11-18T19:09:37.483070+00:00",
+  "lengthAudit": {
+    "systemsReviewed": 25,
+    "changedFields": 470,
+    "detailsFile": "length-corrections.json"
+  },
+  "codeResolutions": {
+    "values": [
+      "PP012SEO",
+      "VV120",
+      "VV220",
+      "VV220NF",
+      "VVWM01",
+      "iAS5-75LP"
+    ],
+    "basis": "Owner source verification; PP012SEO independently confirmed on conmed.com",
+    "officialUrl": "https://www.conmed.com/en/products/smoke-evacuation/laparoscopic-solutions-and-accessories"
+  }
+}

@@ -1,0 +1,615 @@
+{
+  "pdfPage": 9,
+  "officialPage": 9,
+  "alignment": [
+    [
+      0.9698213341629428,
+      -0.0002473227296309177,
+      0.014923150727119614
+    ],
+    [
+      0.0006779396184932179,
+      0.9780947065745861,
+      0.011072410946980383
+    ]
+  ],
+  "alignmentMatches": 37,
+  "alignmentInliers": 35,
+  "category": "shoulder-arthroscopy",
+  "title": {
+    "en": "Rotator Cuff Repair",
+    "ru": "Восстановление вращательной манжеты"
+  },
+  "groups": [
+    {
+      "title": "Y-Knot® RC All-Suture Anchor — Implants",
+      "page": 9,
+      "officialPage": 9,
+      "headingBounds": [
+        0.10042288258243312,
+        0.29879459377345186,
+        0.15000880983213644,
+        0.312000203382676
+      ],
+      "rows": [
+        {
+          "description": "Y-Knot® RC All-Suture Anchor w/two #2 Hi-Fi® sutures",
+          "codes": [
+            {
+              "candidate": "YRC02",
+              "sourceBounds": [
+                0.5304364785155983,
+                0.3278773779031249,
+                0.5663095999691635,
+                0.34047317884651884
+              ],
+              "officialBounds": [
+                325.36212158203125,
+                256.2370300292969,
+                348.00164794921875,
+                266.416015625
+              ],
+              "officialCode": "YRC02"
+            }
+          ],
+          "rowBounds": [
+            0.1146871484018968,
+            0.31523207781572915,
+            0.5663095999691635,
+            0.34047317884651884
+          ],
+          "pdfPage": 9,
+          "officialPage": 9
+        },
+        {
+          "description": "Y-Knot® RC All-Suture Anchor w/three #2 Hi-Fi® sutures",
+          "codes": [
+            {
+              "candidate": "YRC03",
+              "sourceBounds": [
+                0.5303717624222162,
+                0.3581340178886814,
+                0.5662933894119376,
+                0.3707298527391709
+              ],
+              "officialBounds": [
+                325.32611083984375,
+                280.73699951171875,
+                347.9962463378906,
+                290.9159851074219
+              ],
+              "officialCode": "YRC03"
+            }
+          ],
+          "rowBounds": [
+            0.11467949667788306,
+            0.3454925830477751,
+            0.5662933894119376,
+            0.3707298527391709
+          ],
+          "pdfPage": 9,
+          "officialPage": 9
+        },
+        {
+          "description": "Y-Knot® RC All-Suture Anchor w/ two 1.3mm Hi-Fi® Ribbons (White/Blue and Blue)",
+          "codes": [
+            {
+              "candidate": "YRC02R",
+              "sourceBounds": [
+                0.5230970828352978,
+                0.3883856555414689,
+                0.5662951689343646,
+                0.4009865768957699
+              ],
+              "officialBounds": [
+                320.74029541015625,
+                305.23699951171875,
+                348.002197265625,
+                315.4159851074219
+              ],
+              "officialCode": "YRC02R"
+            }
+          ],
+          "rowBounds": [
+            0.11467184593068536,
+            0.3757492252357979,
+            0.5697180735640766,
+            0.4009889696278918
+          ],
+          "pdfPage": 9,
+          "officialPage": 9
+        },
+        {
+          "description": "Y-Knot® RC All-Suture Anchor w/ three 1.3mm Hi-Fi® Ribbons (White/Blue, Blue, and White/Black)",
+          "codes": [
+            {
+              "candidate": "YRC03R",
+              "sourceBounds": [
+                0.5229468170878591,
+                0.4186422734130145,
+                0.5662903714349398,
+                0.4312432964547965
+              ],
+              "officialBounds": [
+                320.6502990722656,
+                329.73699951171875,
+                348.0039978027344,
+                339.9159851074219
+              ],
+              "officialCode": "YRC03R"
+            }
+          ],
+          "rowBounds": [
+            0.11466419516442784,
+            0.40600594280028957,
+            0.5662903714349398,
+            0.4312432964547965
+          ],
+          "pdfPage": 9,
+          "officialPage": 9
+        },
+        {
+          "description": "Y-Knot® RC All-Suture Anchor with Hi-Fi®Tape (Blue/Blue) and one #2 Hi-Fi suture",
+          "codes": [
+            {
+              "candidate": "YRC02STA",
+              "sourceBounds": [
+                0.5099309780643588,
+                0.4488886540791333,
+                0.566287218505465,
+                0.461498773451482
+              ],
+              "officialBounds": [
+                312.4415588378906,
+                354.2359924316406,
+                348.0068359375,
+                364.41497802734375
+              ],
+              "officialCode": "YRC02STA"
+            }
+          ],
+          "rowBounds": [
+            0.11464783347125095,
+            0.43626265427553335,
+            0.566287218505465,
+            0.461498773451482
+          ],
+          "pdfPage": 9,
+          "officialPage": 9
+        },
+        {
+          "description": "Y-Knot® RC All-Suture Anchor with Hi-Fi Tape (White/Black) and one #2 suture",
+          "codes": [
+            {
+              "candidate": "YRC02STB",
+              "sourceBounds": [
+                0.5090620759587134,
+                0.47914476959829566,
+                0.5662854677146921,
+                0.4917554951402664
+              ],
+              "officialBounds": [
+                311.8980712890625,
+                378.7359924316406,
+                348.01055908203125,
+                388.91497802734375
+              ],
+              "officialCode": "YRC02STB"
+            }
+          ],
+          "rowBounds": [
+            0.1146488939463999,
+            0.46651813421753857,
+            0.5662854677146921,
+            0.4917554951402664
+          ],
+          "pdfPage": 9,
+          "officialPage": 9
+        },
+        {
+          "description": "Y-Knot® RC All-Suture Anchor with/two #2 Hi-Fi® sutures with needles",
+          "codes": [
+            {
+              "candidate": "YRC02N",
+              "sourceBounds": [
+                0.5225407049057708,
+                0.5094121582640982,
+                0.5662636953811483,
+                0.5220134465452342
+              ],
+              "officialBounds": [
+                320.40850830078125,
+                403.23699951171875,
+                348.00164794921875,
+                413.4159851074219
+              ],
+              "officialCode": "YRC02N"
+            }
+          ],
+          "rowBounds": [
+            0.11464124318014239,
+            0.4967748517820302,
+            0.5662636953811483,
+            0.5220134465452342
+          ],
+          "pdfPage": 9,
+          "officialPage": 9
+        },
+        {
+          "description": "Y-Knot® RC All-Suture Anchor with/three #2 Hi-Fi® sutures with needles",
+          "codes": [
+            {
+              "candidate": "YRC03N",
+              "sourceBounds": [
+                0.5223903907978772,
+                0.5396687761018382,
+                0.5662602519744576,
+                0.5522701670508199
+              ],
+              "officialBounds": [
+                320.3184814453125,
+                427.73699951171875,
+                348.0043029785156,
+                437.9159851074219
+              ],
+              "officialCode": "YRC03N"
+            }
+          ],
+          "rowBounds": [
+            0.11463359209939775,
+            0.5270328130582561,
+            0.5662602519744576,
+            0.5522701670508199
+          ],
+          "pdfPage": 9,
+          "officialPage": 9
+        }
+      ],
+      "features": [
+        {
+          "text": "Self-Punching = Simpler Technique",
+          "bounds": [
+            0.10759035598586354,
+            0.15724631133268846,
+            0.3175230040792875,
+            0.17136054055702318
+          ],
+          "officialStartX": 58.500404357910156
+        },
+        {
+          "text": "360° FormFit ™ Fixation = Strong Purchase (602N pullout)",
+          "bounds": [
+            0.1075866086741607,
+            0.17206591867691148,
+            0.19448512147642602,
+            0.1860941520852252
+          ],
+          "officialStartX": 58.500404357910156
+        },
+        {
+          "text": "Small Size = Less Bone Removal (2.8mm footprint, expands subcortically to 5.0mm)",
+          "bounds": [
+            0.10758396156042191,
+            0.1868855362122723,
+            0.5405787116841884,
+            0.2011557032044602
+          ],
+          "officialStartX": 58.5010986328125
+        },
+        {
+          "text": "All-Suture = Less Invasive",
+          "bounds": [
+            0.10757646088719443,
+            0.2165247697406098,
+            0.26983415758800816,
+            0.23060568189972275
+          ],
+          "officialStartX": 58.501094818115234
+        },
+        {
+          "text": "Available double- or triple-loaded",
+          "bounds": [
+            0.10757271357310912,
+            0.2313443865068914,
+            0.3082001270707756,
+            0.2454521204632268
+          ],
+          "officialStartX": 58.501094818115234
+        },
+        {
+          "text": "Available with 1.3mm tieable Hi-Fi® Ribbon, 2mm Hi-Fi® Tape, double or triple-loaded with #2 Hi-Fi® sutures with or without needles",
+          "bounds": [
+            0.10756896625902379,
+            0.246164003273173,
+            0.4726547627977681,
+            0.2603866994906275
+          ],
+          "officialStartX": 58.501094818115234
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Y-Knot® RC All-Suture Anchor — Instruments (for Hard Bone)",
+      "page": 9,
+      "officialPage": 9,
+      "headingBounds": [
+        0.10036109634451788,
+        0.562459016265401,
+        0.25943706394102173,
+        0.5757411256202049
+      ],
+      "rows": [
+        {
+          "description": "2.8mm Y-Knot RC Disposable Broaching Punch",
+          "codes": [
+            {
+              "candidate": "Y-DBP28",
+              "sourceBounds": [
+                0.5190197974156378,
+                0.5810353699652213,
+                0.5662454872711339,
+                0.5936391067578487
+              ],
+              "officialBounds": [
+                318.1980895996094,
+                461.2349853515625,
+                348.0015869140625,
+                471.4139709472656
+              ],
+              "officialCode": "Y-DBP28"
+            }
+          ],
+          "rowBounds": [
+            0.1003564730980523,
+            0.5807427094056247,
+            0.5662454872711339,
+            0.5936391067578487
+          ],
+          "pdfPage": 9,
+          "officialPage": 9
+        },
+        {
+          "description": "2.8mm Y-Knot RC Reusable Broaching Punch",
+          "codes": [
+            {
+              "candidate": "Y-BP28",
+              "sourceBounds": [
+                0.5269735145266059,
+                0.5989467262756784,
+                0.5662480685679556,
+                0.611544904941473
+              ],
+              "officialBounds": [
+                323.2200927734375,
+                475.7339782714844,
+                348.0060729980469,
+                485.9129638671875
+              ],
+              "officialCode": "Y-BP28"
+            }
+          ],
+          "rowBounds": [
+            0.10035194540801966,
+            0.5986485026198141,
+            0.5662480685679556,
+            0.611544904941473
+          ],
+          "pdfPage": 9,
+          "officialPage": 9
+        },
+        {
+          "description": "2.8mm Y-Knot RC Disposable Drill Bit",
+          "codes": [
+            {
+              "candidate": "Y28D",
+              "sourceBounds": [
+                0.5380220589419783,
+                0.6168602459805339,
+                0.5662420900642793,
+                0.6294506971414919
+              ],
+              "officialBounds": [
+                330.195068359375,
+                490.23297119140625,
+                348.0051574707031,
+                500.4119567871094
+              ],
+              "officialCode": "Y28D"
+            }
+          ],
+          "rowBounds": [
+            0.10034741771798703,
+            0.6165542958340033,
+            0.5662420900642793,
+            0.6294506971414919
+          ],
+          "pdfPage": 9,
+          "officialPage": 9
+        },
+        {
+          "description": "Y-Knot RC Drill Guide",
+          "codes": [
+            {
+              "candidate": "Y-DGRC",
+              "sourceBounds": [
+                0.5247828706704257,
+                0.6347567876960921,
+                0.5662395935133478,
+                0.6473564917755198
+              ],
+              "officialBounds": [
+                321.8434143066406,
+                504.7319641113281,
+                348.0064392089844,
+                514.9109497070312
+              ],
+              "officialCode": "Y-DGRC"
+            }
+          ],
+          "rowBounds": [
+            0.10034289002795438,
+            0.6344600890481927,
+            0.5662395935133478,
+            0.6473564917755198
+          ],
+          "pdfPage": 9,
+          "officialPage": 9
+        },
+        {
+          "description": "Y-Knot RC Inline Drill Guide",
+          "codes": [
+            {
+              "candidate": "Y-DGRCA",
+              "sourceBounds": [
+                0.5173130846555403,
+                0.652657362429101,
+                0.5662274248619281,
+                0.6652623173366463
+              ],
+              "officialBounds": [
+                317.13250732421875,
+                519.23095703125,
+                348.0016174316406,
+                529.4099731445312
+              ],
+              "officialCode": "Y-DGRCA"
+            }
+          ],
+          "rowBounds": [
+            0.10033836233792173,
+            0.6523658822623821,
+            0.5662274248619281,
+            0.6652623173366463
+          ],
+          "pdfPage": 9,
+          "officialPage": 9
+        },
+        {
+          "description": "Y-Knot RC Slotted Drill Guide (Used with YRC02N and YRC03N)",
+          "codes": [
+            {
+              "candidate": "Y-DGRCN",
+              "sourceBounds": [
+                0.5167665813581853,
+                0.6705627390948166,
+                0.5662257504482583,
+                0.6831680748571365
+              ],
+              "officialBounds": [
+                316.7904968261719,
+                533.7299194335938,
+                348.00341796875,
+                543.908935546875
+              ],
+              "officialCode": "Y-DGRCN"
+            }
+          ],
+          "rowBounds": [
+            0.100333834657419,
+            0.6702716377883372,
+            0.5662257504482583,
+            0.6831680748571365
+          ],
+          "pdfPage": 9,
+          "officialPage": 9
+        },
+        {
+          "description": "Y-Knot RC Drill Guide Obturator",
+          "codes": [
+            {
+              "candidate": "Y-OBRC",
+              "sourceBounds": [
+                0.5249683876117657,
+                0.68847423114017,
+                0.5662296374868893,
+                0.7010738362652795
+              ],
+              "officialBounds": [
+                321.96905517578125,
+                548.2288818359375,
+                348.00872802734375,
+                558.4078979492188
+              ],
+              "officialCode": "Y-OBRC"
+            }
+          ],
+          "rowBounds": [
+            0.10032930697691626,
+            0.6881773933142922,
+            0.5662296374868893,
+            0.7010738362652795
+          ],
+          "pdfPage": 9,
+          "officialPage": 9
+        }
+      ],
+      "features": [
+        {
+          "text": "Self-Punching = Simpler Technique",
+          "bounds": [
+            0.10759035598586354,
+            0.15724631133268846,
+            0.3175230040792875,
+            0.17136054055702318
+          ],
+          "officialStartX": 58.500404357910156
+        },
+        {
+          "text": "360° FormFit ™ Fixation = Strong Purchase (602N pullout)",
+          "bounds": [
+            0.1075866086741607,
+            0.17206591867691148,
+            0.19448512147642602,
+            0.1860941520852252
+          ],
+          "officialStartX": 58.500404357910156
+        },
+        {
+          "text": "Small Size = Less Bone Removal (2.8mm footprint, expands subcortically to 5.0mm)",
+          "bounds": [
+            0.10758396156042191,
+            0.1868855362122723,
+            0.5405787116841884,
+            0.2011557032044602
+          ],
+          "officialStartX": 58.5010986328125
+        },
+        {
+          "text": "All-Suture = Less Invasive",
+          "bounds": [
+            0.10757646088719443,
+            0.2165247697406098,
+            0.26983415758800816,
+            0.23060568189972275
+          ],
+          "officialStartX": 58.501094818115234
+        },
+        {
+          "text": "Available double- or triple-loaded",
+          "bounds": [
+            0.10757271357310912,
+            0.2313443865068914,
+            0.3082001270707756,
+            0.2454521204632268
+          ],
+          "officialStartX": 58.501094818115234
+        },
+        {
+          "text": "Available with 1.3mm tieable Hi-Fi® Ribbon, 2mm Hi-Fi® Tape, double or triple-loaded with #2 Hi-Fi® sutures with or without needles",
+          "bounds": [
+            0.10756896625902379,
+            0.246164003273173,
+            0.4726547627977681,
+            0.2603866994906275
+          ],
+          "officialStartX": 58.501094818115234
+        }
+      ],
+      "notes": [],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 15
+}

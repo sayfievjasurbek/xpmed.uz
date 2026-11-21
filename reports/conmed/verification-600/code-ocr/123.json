@@ -1,0 +1,106 @@
+{
+  "id": 123,
+  "bounds": [
+    0.5130111524163569,
+    0.2725369801842032,
+    0.5840344355312072,
+    0.2874686017303935
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "DLH100",
+      "confidence": 88.762627,
+      "words": [
+        {
+          "text": "DLH100",
+          "confidence": 88.762627,
+          "pixelBounds": [
+            2686,
+            1975,
+            2893,
+            2033
+          ],
+          "lineId": "14.1.9",
+          "bounds": [
+            0.5255331637644297,
+            0.2756070332123918,
+            0.5660340442183526,
+            0.28370080937761655
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "DLH100",
+      "confidence": 90.28199,
+      "words": [
+        {
+          "text": "DLH100",
+          "confidence": 90.28199,
+          "pixelBounds": [
+            2686,
+            1975,
+            2893,
+            2033
+          ],
+          "lineId": "28.1.1",
+          "bounds": [
+            0.5255331637644297,
+            0.2756070332123918,
+            0.5660340442183526,
+            0.28370080937761655
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": ".. DLH100",
+      "confidence": 10.462456,
+      "words": [
+        {
+          "text": "..",
+          "confidence": 63.46833,
+          "pixelBounds": [
+            0,
+            71,
+            40,
+            79
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "DLH100",
+          "confidence": 10.462456,
+          "pixelBounds": [
+            65,
+            22,
+            271,
+            80
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": ".DLH100",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": ".DLH100",
+          "confidence": 0.0,
+          "pixelBounds": [
+            0,
+            22,
+            271,
+            80
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

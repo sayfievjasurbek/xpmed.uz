@@ -1,0 +1,780 @@
+{
+  "schemaVersion": 1,
+  "slug": "anty-f-series",
+  "brand": "double-medical",
+  "catalogType": "system",
+  "category": "joint-replacement",
+  "subcategory": "hip",
+  "specialty": [
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Ревизионная бедренная ножка Anty F-series",
+    "en": "Anty F-series Femoral Revision Stem System"
+  },
+  "shortDescription": {
+    "ru": "Ревизионная бедренная ножка с конусностью 2° и 8 продольными рёбрами.",
+    "en": "Femoral revision stem with a 2° taper and 8 longitudinal ribs."
+  },
+  "description": {
+    "ru": "Anty F-series — система ревизионных бедренных ножек Double Medical. Конструкция включает покрытие плеча ножки для остеоинтеграции, отверстия для серкляжа и острые продольные рёбра для первичной стабильности. Круглое поперечное сечение позволяет регулировать антеверсию; размеры и варианты длины приведены в таблице производителя.",
+    "en": "Anty F-series is a Double Medical femoral revision stem system. Its design includes shoulder coating for bone integration, cable holes and sharp longitudinal ribs for initial stability. A circular cross-section allows anteversion adjustment; manufacturer dimensions and length options are listed in the specification table."
+  },
+  "heroImage": "/images/products/double-medical/anty-f-series/hero-stem.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "name": "technical-drawing",
+      "src": "/images/products/double-medical/anty-f-series/technical-drawing.webp",
+      "width": 1009,
+      "height": 1509,
+      "imageType": "scene",
+      "pdfPage": 2,
+      "captionFree": true,
+      "sourceBounds": [
+        0.6864776913241732,
+        0.4779682397631987,
+        0.8837788805171067,
+        0.6884603356199844
+      ],
+      "sourceMethod": "Vector drawing rendered at 600 DPI; white background retained",
+      "imageCaption": {
+        "ru": "Технический чертёж Anty F-series: размеры и поперечные сечения",
+        "en": "Anty F-series technical drawing: dimensions and cross-sections"
+      }
+    }
+  ],
+  "variants": [],
+  "features": [
+    {
+      "id": "shoulder-coating",
+      "title": {
+        "ru": "Покрытие плеча ножки",
+        "en": "Shoulder coating"
+      },
+      "text": {
+        "ru": "Покрытие плеча ножки способствует остеоинтеграции.",
+        "en": "The shoulder coating design is beneficial for bone integration."
+      },
+      "image": "/images/products/double-medical/anty-f-series/feature-shoulder-coating.webp",
+      "sourcePages": [
+        2
+      ]
+    },
+    {
+      "id": "cable-holes",
+      "title": {
+        "ru": "Отверстия для серкляжа",
+        "en": "Cable holes"
+      },
+      "text": {
+        "ru": "Отверстия облегчают фиксацию костных фрагментов и мягких тканей.",
+        "en": "Cable holes facilitate fixation of bone fragments and soft tissues."
+      },
+      "image": "/images/products/double-medical/anty-f-series/feature-cable-holes.webp",
+      "sourcePages": [
+        2
+      ]
+    },
+    {
+      "id": "longitudinal-ribs",
+      "title": {
+        "ru": "8 острых продольных рёбер",
+        "en": "8 sharp longitudinal ribs"
+      },
+      "text": {
+        "ru": "8 острых продольных рёбер увеличивают площадь контакта ножки, обеспечивая ротационную и первичную аксиальную стабильность.",
+        "en": "8 sharp longitudinal ribs increase the stem contact surface and enhance anti-rotation and initial axial stability."
+      },
+      "image": "/images/products/double-medical/anty-f-series/feature-longitudinal-ribs.webp",
+      "sourcePages": [
+        2
+      ]
+    },
+    {
+      "id": "taper",
+      "title": {
+        "ru": "Конусность 2°",
+        "en": "2° taper"
+      },
+      "text": {
+        "ru": "Конусность 2° обеспечивает преимущественно диафизарную фиксацию.",
+        "en": "The 2° taper provides fixation predominantly in the diaphysis."
+      },
+      "image": "/images/products/double-medical/anty-f-series/feature-taper.webp",
+      "sourcePages": [
+        2
+      ]
+    },
+    {
+      "id": "circular-cross-section",
+      "title": {
+        "ru": "Круглое поперечное сечение",
+        "en": "Circular cross-section"
+      },
+      "text": {
+        "ru": "Круглое поперечное сечение облегчает регулировку антеверсии бедренного компонента.",
+        "en": "The circular cross-section facilitates adjustment of femoral anteversion."
+      },
+      "image": "/images/products/double-medical/anty-f-series/feature-circular-cross-section.webp",
+      "sourcePages": [
+        2
+      ]
+    },
+    {
+      "id": "minimum-diameter",
+      "title": {
+        "ru": "Минимальный диаметр тела ножки 13 мм",
+        "en": "Minimum stem body diameter 13 mm"
+      },
+      "text": {
+        "ru": "Минимальный диаметр тела ножки составляет 13 мм, что позволяет использовать её в узких костномозговых каналах.",
+        "en": "The minimum stem body diameter is 13 mm, sized to fit small canals."
+      },
+      "image": "/images/products/double-medical/anty-f-series/feature-minimum-diameter.webp",
+      "sourcePages": [
+        2
+      ]
+    }
+  ],
+  "hotspots": [
+    {
+      "featureId": "shoulder-coating",
+      "image": "/images/products/double-medical/anty-f-series/hotspot-stem.webp",
+      "x": 57.318,
+      "y": 10.322,
+      "pdfPage": 2,
+      "sourcePoint": [
+        352,
+        118
+      ],
+      "coordinateSpace": "percent-of-padded-image"
+    },
+    {
+      "featureId": "cable-holes",
+      "image": "/images/products/double-medical/anty-f-series/hotspot-stem.webp",
+      "x": 52.753,
+      "y": 19.492,
+      "pdfPage": 2,
+      "sourcePoint": [
+        331.7,
+        162.2
+      ],
+      "coordinateSpace": "percent-of-padded-image"
+    },
+    {
+      "featureId": "longitudinal-ribs",
+      "image": "/images/products/double-medical/anty-f-series/hotspot-stem.webp",
+      "x": 36.224,
+      "y": 38.516,
+      "pdfPage": 2,
+      "sourcePoint": [
+        258.2,
+        253.9
+      ],
+      "coordinateSpace": "percent-of-padded-image"
+    },
+    {
+      "featureId": "taper",
+      "image": "/images/products/double-medical/anty-f-series/hotspot-stem.webp",
+      "x": 36.022,
+      "y": 54.553,
+      "pdfPage": 2,
+      "sourcePoint": [
+        257.3,
+        331.2
+      ],
+      "coordinateSpace": "percent-of-padded-image"
+    },
+    {
+      "featureId": "circular-cross-section",
+      "image": "/images/products/double-medical/anty-f-series/hotspot-stem.webp",
+      "x": 10.002,
+      "y": 85.424,
+      "pdfPage": 2,
+      "sourcePoint": [
+        141.6,
+        480
+      ],
+      "coordinateSpace": "percent-of-padded-image"
+    },
+    {
+      "featureId": "minimum-diameter",
+      "image": "/images/products/double-medical/anty-f-series/hotspot-stem.webp",
+      "x": 4.178,
+      "y": 96.379,
+      "pdfPage": 2,
+      "sourcePoint": [
+        115.7,
+        532.8
+      ],
+      "coordinateSpace": "percent-of-padded-image"
+    }
+  ],
+  "components": [],
+  "specTables": [
+    {
+      "id": "anty-f-series-sizes",
+      "title": {
+        "ru": "Размеры ревизионной бедренной ножки Anty F-series",
+        "en": "Anty F-series femoral revision stem specifications"
+      },
+      "unit": "mm",
+      "columns": [
+        {
+          "ru": "Размер",
+          "en": "Size"
+        },
+        {
+          "ru": "Длина ножки 170",
+          "en": "Stem length 170"
+        },
+        {
+          "ru": "Длина ножки 205",
+          "en": "Stem length 205"
+        },
+        {
+          "ru": "Длина ножки 245",
+          "en": "Stem length 245"
+        },
+        {
+          "ru": "Длина ножки 285",
+          "en": "Stem length 285"
+        },
+        {
+          "ru": "Длина шейки",
+          "en": "Neck length"
+        },
+        {
+          "ru": "Высота шейки",
+          "en": "Neck height"
+        },
+        {
+          "ru": "Проксимальный наружный диаметр — 170",
+          "en": "Proximal outer diameter — 170"
+        },
+        {
+          "ru": "Проксимальный наружный диаметр — 205",
+          "en": "Proximal outer diameter — 205"
+        },
+        {
+          "ru": "Проксимальный наружный диаметр — 245",
+          "en": "Proximal outer diameter — 245"
+        },
+        {
+          "ru": "Проксимальный наружный диаметр — 285",
+          "en": "Proximal outer diameter — 285"
+        },
+        {
+          "ru": "Диаметр средней части",
+          "en": "Mid-section diameter"
+        },
+        {
+          "ru": "Дистальный диаметр",
+          "en": "Distal diameter"
+        }
+      ],
+      "headerRows": [
+        [
+          {
+            "value": {
+              "ru": "Размер",
+              "en": "Size"
+            },
+            "rowspan": 2
+          },
+          {
+            "value": {
+              "ru": "Длина ножки",
+              "en": "Stem length"
+            },
+            "colspan": 4
+          },
+          "",
+          "",
+          "",
+          {
+            "value": {
+              "ru": "Длина шейки",
+              "en": "Neck length"
+            },
+            "rowspan": 2
+          },
+          {
+            "value": {
+              "ru": "Высота шейки",
+              "en": "Neck height"
+            },
+            "rowspan": 2
+          },
+          {
+            "value": {
+              "ru": "Проксимальный наружный диаметр",
+              "en": "Proximal outer diameter"
+            },
+            "colspan": 4
+          },
+          "",
+          "",
+          "",
+          {
+            "value": {
+              "ru": "Диаметр средней части",
+              "en": "Mid-section diameter"
+            },
+            "rowspan": 2
+          },
+          {
+            "value": {
+              "ru": "Дистальный диаметр",
+              "en": "Distal diameter"
+            },
+            "rowspan": 2
+          }
+        ],
+        [
+          "",
+          "170",
+          "205",
+          "245",
+          "285",
+          "",
+          "",
+          "170",
+          "205",
+          "245",
+          "285",
+          "",
+          ""
+        ]
+      ],
+      "headersVerified": true,
+      "rows": [
+        [
+          "1# / 14mm",
+          "●",
+          "●",
+          "●",
+          "○",
+          "42",
+          "22",
+          "13",
+          "14",
+          "15",
+          "16",
+          "14",
+          "9"
+        ],
+        [
+          "2# / 15mm",
+          "●",
+          "●",
+          "●",
+          "○",
+          "42",
+          "22",
+          "14",
+          "15",
+          "16",
+          "17",
+          "15",
+          "10"
+        ],
+        [
+          "3# / 16mm",
+          "●",
+          "●",
+          "●",
+          "○",
+          "42",
+          "22",
+          "15",
+          "16",
+          "17",
+          "17",
+          "16",
+          "11"
+        ],
+        [
+          "4# / 17mm",
+          "●",
+          "●",
+          "●",
+          "○",
+          "42",
+          "22",
+          "16",
+          "17",
+          "17",
+          "17",
+          "17",
+          "12"
+        ],
+        [
+          "5# / 18mm",
+          "●",
+          "●",
+          "●",
+          "○",
+          "44",
+          "24",
+          "17",
+          "18",
+          "17",
+          "17",
+          "18",
+          "13"
+        ],
+        [
+          "6# / 19mm",
+          "●",
+          "●",
+          "●",
+          "○",
+          "44",
+          "24",
+          "18",
+          "19",
+          "20",
+          "21",
+          "19",
+          "14"
+        ],
+        [
+          "7# / 20mm",
+          "●",
+          "●",
+          "●",
+          "○",
+          "44",
+          "24",
+          "19",
+          "20",
+          "21",
+          "21",
+          "20",
+          "15"
+        ],
+        [
+          "8# / 21mm",
+          "●",
+          "●",
+          "●",
+          "○",
+          "44",
+          "24",
+          "20",
+          "21",
+          "21",
+          "21",
+          "21",
+          "16"
+        ],
+        [
+          "9# / 22mm",
+          "×",
+          "●",
+          "●",
+          "○",
+          "46",
+          "26",
+          "×",
+          "22",
+          "21",
+          "21",
+          "22",
+          "17"
+        ],
+        [
+          "10# / 23mm",
+          "×",
+          "○",
+          "○",
+          "○",
+          "46",
+          "26",
+          "×",
+          "23",
+          "24",
+          "25",
+          "23",
+          "18"
+        ],
+        [
+          "12# / 25mm",
+          "×",
+          "×",
+          "×",
+          "○",
+          "46",
+          "26",
+          "×",
+          "×",
+          "×",
+          "25",
+          "25",
+          "20"
+        ]
+      ],
+      "legend": {
+        "ru": "● / ○ / × — наличие уточняйте у менеджера",
+        "en": "● / ○ / × — please confirm availability with your manager"
+      },
+      "sourcePages": [
+        2
+      ],
+      "sourceBounds": [
+        0.085,
+        0.735,
+        0.914,
+        0.889
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 2,
+          "sourceBounds": [
+            0.08479059370274825,
+            0.7588740119732257,
+            0.9147600589854186,
+            0.7703464126672986
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "sourceBounds": [
+            0.08479059370274825,
+            0.7703464126672986,
+            0.9147600589854186,
+            0.7818188133613715
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "sourceBounds": [
+            0.08479059370274825,
+            0.7818188133613715,
+            0.9147600589854186,
+            0.7932923769952005
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "sourceBounds": [
+            0.08479059370274825,
+            0.7932923769952005,
+            0.9147600589854186,
+            0.8047647776892733
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "sourceBounds": [
+            0.08479059370274825,
+            0.8047647776892733,
+            0.9147600589854186,
+            0.8162371783833463
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "sourceBounds": [
+            0.08479059370274825,
+            0.8162371783833463,
+            0.9147600589854186,
+            0.8277095790774192
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "sourceBounds": [
+            0.08479059370274825,
+            0.8277095790774192,
+            0.9147600589854186,
+            0.839181979771492
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "sourceBounds": [
+            0.08479059370274825,
+            0.839181979771492,
+            0.9147600589854186,
+            0.850654380465565
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "sourceBounds": [
+            0.08479059370274825,
+            0.850654380465565,
+            0.9147600589854186,
+            0.8621267811596377
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "sourceBounds": [
+            0.08479059370274825,
+            0.8621267811596377,
+            0.9147600589854186,
+            0.8736003447934668
+          ]
+        },
+        {
+          "pdfPage": 2,
+          "sourceBounds": [
+            0.08479059370274825,
+            0.8736003447934668,
+            0.9147600589854186,
+            0.8852274164751028
+          ]
+        }
+      ],
+      "sourceHeaders": {
+        "长度": "Stem length",
+        "颈长": "Neck length",
+        "颈高": "Neck height",
+        "近端外直径": "Proximal outer diameter",
+        "中段外直径": "Mid-section diameter",
+        "远端外直径": "Distal diameter"
+      },
+      "sourceSizeLabelLayout": "Two printed size fields combined as size # / diameter, as explicitly requested. No values changed."
+    }
+  ],
+  "refCodes": [],
+  "sourcePages": [
+    1,
+    2
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Anty F-series — каталог продукции",
+    "en": "Double Medical Anty F-series — Product Catalog"
+  },
+  "isNew": true,
+  "status": "published",
+  "relatedSystemSlugs": [
+    "pbg-proximal-bone-growth-cementless-stem"
+  ],
+  "imageDimensions": {
+    "/images/products/double-medical/anty-f-series/hero-stem.webp": {
+      "width": 1216,
+      "height": 1872
+    },
+    "/images/products/double-medical/anty-f-series/hotspot-stem.webp": {
+      "width": 1196,
+      "height": 1324
+    },
+    "/images/products/double-medical/anty-f-series/feature-shoulder-coating.webp": {
+      "width": 220,
+      "height": 220
+    },
+    "/images/products/double-medical/anty-f-series/feature-cable-holes.webp": {
+      "width": 220,
+      "height": 220
+    },
+    "/images/products/double-medical/anty-f-series/feature-longitudinal-ribs.webp": {
+      "width": 220,
+      "height": 220
+    },
+    "/images/products/double-medical/anty-f-series/feature-taper.webp": {
+      "width": 220,
+      "height": 220
+    },
+    "/images/products/double-medical/anty-f-series/feature-circular-cross-section.webp": {
+      "width": 220,
+      "height": 220
+    },
+    "/images/products/double-medical/anty-f-series/feature-minimum-diameter.webp": {
+      "width": 159,
+      "height": 158
+    },
+    "/images/products/double-medical/anty-f-series/technical-drawing.webp": {
+      "width": 1009,
+      "height": 1509
+    }
+  },
+  "sourcePdf": "/catalogs/double-medical/anty-f-series/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/anty-f-series/pages/001.webp",
+    "/catalogs/double-medical/anty-f-series/pages/002.webp"
+  ],
+  "sourcePageDimensions": {
+    "1": [
+      5111,
+      7166
+    ],
+    "2": [
+      5111,
+      7166
+    ]
+  },
+  "review": {
+    "sourceSha256": "b6bc9aa481910bd8d2963e5744991bf419a8c13fe8bb42ed5c3da4759cec007e",
+    "importMethod": "600-DPI two-setting Tesseract OCR; complete matrix visually transcribed and checked cell by cell, with Chinese header translations supplied by owner; page-2 callouts mapped onto native stem coordinates.",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "skippedSourcePages": [],
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "features.0.title.ru",
+      "features.0.text.ru",
+      "features.1.title.ru",
+      "features.1.text.ru",
+      "features.2.title.ru",
+      "features.2.text.ru",
+      "features.3.title.ru",
+      "features.3.text.ru",
+      "features.4.title.ru",
+      "features.4.text.ru",
+      "features.5.title.ru",
+      "features.5.text.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.columns.2.ru",
+      "specTables.0.columns.3.ru",
+      "specTables.0.columns.4.ru",
+      "specTables.0.columns.5.ru",
+      "specTables.0.columns.6.ru",
+      "specTables.0.columns.7.ru",
+      "specTables.0.columns.8.ru",
+      "specTables.0.columns.9.ru",
+      "specTables.0.columns.10.ru",
+      "specTables.0.columns.11.ru",
+      "specTables.0.columns.12.ru",
+      "specTables.0.headerRows.0.0.value.ru",
+      "specTables.0.headerRows.0.1.value.ru",
+      "specTables.0.headerRows.0.5.value.ru",
+      "specTables.0.headerRows.0.6.value.ru",
+      "specTables.0.headerRows.0.7.value.ru",
+      "specTables.0.headerRows.0.11.value.ru",
+      "specTables.0.headerRows.0.12.value.ru",
+      "specTables.0.legend.ru",
+      "catalogTitle.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publishedAt": "2026-11-18T22:01:04.307863+00:00",
+    "publicationReason": "Owner authorized publication with zero real flags after visual source verification.",
+    "headerTranslations": "Chinese source headers translated using the owner-supplied medical terminology.",
+    "symbolPolicy": "No source legend; owner-supplied availability clarification rendered exactly. No meanings inferred.",
+    "imageReview": "Hero, page-2 stem, six close-ups and technical drawing compared visually with source. Native originals and rembg candidates retained.",
+    "omittedContent": [
+      "Cover background and logos",
+      "Footer contacts"
+    ],
+    "missingSourceSizes": [
+      "11#"
+    ]
+  }
+}

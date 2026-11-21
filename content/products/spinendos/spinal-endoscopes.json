@@ -1,0 +1,2007 @@
+{
+  "schemaVersion": 1,
+  "slug": "spinal-endoscopes",
+  "brand": "spinendos",
+  "brandName": {
+    "ru": "SPINENDOS",
+    "en": "SPINENDOS"
+  },
+  "category": "endoscopic-spine-surgery",
+  "subcategory": "",
+  "specialty": [
+    "spine"
+  ],
+  "catalogType": "list",
+  "name": {
+    "ru": "Спинальные эндоскопы",
+    "en": "Spinal endoscopes"
+  },
+  "shortDescription": {
+    "ru": "Эндоскопы для трансфораминального и интерламинарного доступа, стеноза и шейного отдела.",
+    "en": "Endoscopes for spinal access, stenosis and the cervical spine."
+  },
+  "description": {
+    "ru": "В каталоге описаны трансфораминальный и интерламинарный эндоскопические доступы к позвоночнику с использованием направляющей спицы, последовательных дилататоров и рабочего тубуса. Эндоскопическая визуализация сочетается с применением специализированных инструментов для работы с диском, костными структурами и мягкими тканями. Эндоскопы для трансфораминального и интерламинарного доступа, стеноза и шейного отдела.",
+    "en": "The catalog describes transforaminal and interlaminar endoscopic spinal approaches using a guide wire, sequential dilators and a working tube. Endoscopic visualization is combined with specialized instruments for disc tissue, bone and soft tissue work. Endoscopes for spinal access, stenosis and the cervical spine."
+  },
+  "heroImage": "/images/products/spinendos/endoscopic-spine-surgery/page-019-xref-609.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "name": "page-004-xref-95",
+      "pdfPage": 4,
+      "bounds": [
+        0.17856886762764887,
+        0.4644991872058492,
+        0.7690158872776977,
+        0.6545220981914389
+      ],
+      "originalSize": [
+        732,
+        215
+      ],
+      "pdfImageXref": 95,
+      "src": "/images/products/spinendos/endoscopic-spine-surgery/page-004-xref-95.webp",
+      "width": 1464,
+      "height": 430,
+      "imageType": "scene",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          732,
+          215
+        ],
+        "enhancedSize": [
+          1464,
+          430
+        ]
+      },
+      "maskMethod": "Source-reviewed rembg; white-background source-ink protection only; failed masks retained as scenes",
+      "imageCaption": {
+        "ru": "Спинальный эндоскоп 30° направление обзора, рабочий канал 2.8 мм наружный диаметр 5.3 мм, рабочая длина 181 мм",
+        "en": "Spinal endoscope 30° direction of view, WC2.8 mm OD5.3 mm, WL181 mm"
+      }
+    },
+    {
+      "name": "page-019-xref-609",
+      "pdfPage": 19,
+      "bounds": [
+        0.27742974810493004,
+        0.5291525575794847,
+        0.908382177634084,
+        0.7316191475591546
+      ],
+      "originalSize": [
+        1612,
+        684
+      ],
+      "pdfImageXref": 609,
+      "src": "/images/products/spinendos/endoscopic-spine-surgery/page-019-xref-609.webp",
+      "width": 3288,
+      "height": 1432,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          1612,
+          684
+        ],
+        "enhancedSize": [
+          3224,
+          1368
+        ]
+      },
+      "captionRemoval": {
+        "method": "Source-reviewed caption-only rectangle on exact 2x image",
+        "bounds": [
+          0,
+          370,
+          1450,
+          700
+        ]
+      },
+      "maskMethod": "Source-reviewed rembg; white-background source-ink protection only; failed masks retained as scenes",
+      "imageCaption": {
+        "ru": "Эндоскопы для лечения стеноза: 15° направление обзора, рабочий канал 7.1 мм наружный диаметр 10.0 мм, 100 мм длина",
+        "en": "Stenosis endoscopes: 15° direction of view, WC7.1 mm OD10.0 mm, 100 mm length"
+      }
+    },
+    {
+      "name": "page-019-xref-594",
+      "pdfPage": 19,
+      "bounds": [
+        0.11617590476988557,
+        0.7345831383152625,
+        0.8927975498197934,
+        0.9379379743872245
+      ],
+      "originalSize": [
+        980,
+        319
+      ],
+      "pdfImageXref": 594,
+      "src": "/images/products/spinendos/endoscopic-spine-surgery/page-019-xref-594.webp",
+      "width": 1960,
+      "height": 638,
+      "imageType": "scene",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          980,
+          319
+        ],
+        "enhancedSize": [
+          1960,
+          638
+        ]
+      },
+      "maskMethod": "Source-reviewed rembg; white-background source-ink protection only; failed masks retained as scenes",
+      "imageCaption": {
+        "ru": "Эндоскоп для шейного отдела: 6° направление обзора, рабочий канал 2.2 мм наружный диаметр 3.6 мм, 110 мм длина",
+        "en": "Cervical endoscope: 6° direction of view, WC2.2 mm OD3.6 mm, 110 mm length"
+      }
+    }
+  ],
+  "variants": [],
+  "features": [
+    {
+      "title": {
+        "ru": "Защита оптики",
+        "en": "Optical durability"
+      },
+      "text": {
+        "ru": "Сапфировые стёкла повышают устойчивость линзовой системы к повреждениям.",
+        "en": "Sapphire glasses ensure highest stability against damage to the lens system."
+      },
+      "image": null,
+      "sourcePages": [
+        4
+      ]
+    },
+    {
+      "title": {
+        "ru": "Равномерная яркость",
+        "en": "Uniform image brightness"
+      },
+      "text": {
+        "ru": "Оптимизированная укладка стекловолокна обеспечивает равномерную яркость изображения.",
+        "en": "Optimised glass fibre arrangements ensure uniform image brightness."
+      },
+      "image": null,
+      "sourcePages": [
+        4
+      ]
+    },
+    {
+      "title": {
+        "ru": "Детализация Full HD",
+        "en": "Full HD detail"
+      },
+      "text": {
+        "ru": "Стержневая линзовая система, разработанная с помощью CAD, повышает детализацию изображения Full HD.",
+        "en": "CAD-designed rod-lens systems provide Full HD pictures with increased detail resolution."
+      },
+      "image": null,
+      "sourcePages": [
+        4
+      ]
+    }
+  ],
+  "hotspots": [],
+  "components": [
+    {
+      "name": {
+        "ru": "Спинальный эндоскоп 30° направление обзора, рабочий канал 2.8 мм наружный диаметр 5.3 мм, рабочая длина 181 мм",
+        "en": "Spinal endoscope 30° direction of view, WC2.8 mm OD5.3 mm, WL181 mm"
+      },
+      "image": "/images/products/spinendos/endoscopic-spine-surgery/page-004-xref-95.webp",
+      "imageType": "scene",
+      "refCodes": [
+        "SP081280.030"
+      ],
+      "groupId": "page-004-group-01",
+      "pdfPage": 4,
+      "sourceBounds": [
+        0.454705537076893,
+        0.6641082891431761,
+        0.5613382899628253,
+        0.6733184482277421
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "004-001",
+          "pdfPage": 4,
+          "tableId": "page-004-group-01",
+          "row": 1,
+          "column": 2,
+          "bounds": [
+            0.454705537076893,
+            0.6641082891431761,
+            0.5613382899628253,
+            0.6733184482277421
+          ],
+          "coordinateSpace": "normalized",
+          "value": "SP081280.030",
+          "candidate": "SP081280.030",
+          "verificationStatus": "verified (three independent OCR readings)",
+          "readings": [
+            {
+              "reader": "Vision",
+              "raw": "SP081280.030",
+              "code": "SP081280.030",
+              "line": "SP081280.030",
+              "confidence": 1
+            },
+            {
+              "reader": "PSM3",
+              "raw": "SP081280.030",
+              "code": "SP081280.030",
+              "line": "SP081280.030 Spinal endoscope 30° direction of view, WC2.8mm 0D5.3mm,",
+              "confidence": 57.802727
+            },
+            {
+              "reader": "PSM11",
+              "raw": "SP081280.030",
+              "code": "SP081280.030",
+              "line": "SP081280.030",
+              "confidence": 82.395149
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": {
+        "ru": "Спинальный эндоскоп 30° направление обзора, рабочий канал 2.8 мм наружный диаметр 5.3 мм, рабочая длина 130 мм",
+        "en": "Spinal endoscope 30° direction of view, WC2.8 mm OD5.3 mm, WL130 mm"
+      },
+      "image": "/images/products/spinendos/endoscopic-spine-surgery/page-004-xref-95.webp",
+      "imageType": "scene",
+      "refCodes": [
+        "SP081280.032"
+      ],
+      "groupId": "page-004-group-01",
+      "pdfPage": 4,
+      "sourceBounds": [
+        0.454705537076893,
+        0.7002511861568518,
+        0.560946977108198,
+        0.7094613452414178
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "004-002",
+          "pdfPage": 4,
+          "tableId": "page-004-group-01",
+          "row": 2,
+          "column": 2,
+          "bounds": [
+            0.454705537076893,
+            0.7002511861568518,
+            0.560946977108198,
+            0.7094613452414178
+          ],
+          "coordinateSpace": "normalized",
+          "value": "SP081280.032",
+          "candidate": "SP081280.032",
+          "verificationStatus": "verified (three independent OCR readings)",
+          "readings": [
+            {
+              "reader": "Vision",
+              "raw": "SP081280.032",
+              "code": "SP081280.032",
+              "line": "SP081280.032",
+              "confidence": 1
+            },
+            {
+              "reader": "PSM3",
+              "raw": "SP081280.032",
+              "code": "SP081280.032",
+              "line": "SP081280.032 Spinal endoscope 30° direction of view, WC2.8mm 0D5.3mm,",
+              "confidence": 56.765285
+            },
+            {
+              "reader": "PSM11",
+              "raw": "SP081280.032",
+              "code": "SP081280.032",
+              "line": "SP081280.032",
+              "confidence": 80.929764
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": {
+        "ru": "Спинальный эндоскоп, 30° направление обзора рабочий канал 3.75 мм наружный диаметр 6.3 мм, рабочая длина 181 мм",
+        "en": "Spinal endoscope, 30° direction of view WC3.75 mm OD6.3 mm, WL181 mm"
+      },
+      "image": "/images/products/spinendos/endoscopic-spine-surgery/page-004-xref-95.webp",
+      "imageType": "scene",
+      "refCodes": [
+        "SP081375.030"
+      ],
+      "groupId": "page-004-group-01",
+      "pdfPage": 4,
+      "sourceBounds": [
+        0.454705537076893,
+        0.7895618197041585,
+        0.5613382899628253,
+        0.7989115266536422
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "004-003",
+          "pdfPage": 4,
+          "tableId": "page-004-group-01",
+          "row": 3,
+          "column": 2,
+          "bounds": [
+            0.454705537076893,
+            0.7895618197041585,
+            0.5613382899628253,
+            0.7989115266536422
+          ],
+          "coordinateSpace": "normalized",
+          "value": "SP081375.030",
+          "candidate": "SP081375.030",
+          "verificationStatus": "verified (three independent OCR readings)",
+          "readings": [
+            {
+              "reader": "Vision",
+              "raw": "SP081375.030",
+              "code": "SP081375.030",
+              "line": "SP081375.030 Same, 30° direction of view WC3.75mm 0D6.3mm, WL181 mm",
+              "confidence": 1
+            },
+            {
+              "reader": "PSM3",
+              "raw": "SP081375.030",
+              "code": "SP081375.030",
+              "line": "SP081375.030 Same, 30° direction of view WC3.75mm 0D6.3mm, WL181mm",
+              "confidence": 62.518658
+            },
+            {
+              "reader": "PSM11",
+              "raw": "SP081375.030",
+              "code": "SP081375.030",
+              "line": "SP081375.030 Same, 30° direction of view WC3.75mm 0D6.3mm, WL181mm",
+              "confidence": 62.518658
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": {
+        "ru": "Спинальный эндоскоп, 30° направление обзора рабочий канал 4.3 мм наружный диаметр 7.0 мм, рабочая длина 181 мм",
+        "en": "Spinal endoscope, 30° direction of view WC4.3 mm OD7.0 mm, WL181 mm"
+      },
+      "image": "/images/products/spinendos/endoscopic-spine-surgery/page-004-xref-95.webp",
+      "imageType": "scene",
+      "refCodes": [
+        "SP081430.030"
+      ],
+      "groupId": "page-004-group-01",
+      "pdfPage": 4,
+      "sourceBounds": [
+        0.454705537076893,
+        0.8827797934691599,
+        0.5613382899628253,
+        0.8921295004186436
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "004-004",
+          "pdfPage": 4,
+          "tableId": "page-004-group-01",
+          "row": 4,
+          "column": 2,
+          "bounds": [
+            0.454705537076893,
+            0.8827797934691599,
+            0.5613382899628253,
+            0.8921295004186436
+          ],
+          "coordinateSpace": "normalized",
+          "value": "SP081430.030",
+          "candidate": "SP081430.030",
+          "verificationStatus": "verified (three independent OCR readings)",
+          "readings": [
+            {
+              "reader": "Vision",
+              "raw": "SP081430.030",
+              "code": "SP081430.030",
+              "line": "SP081430.030 Same, 30° direction of view WC4.3mm OD7.0mm, WL181 mm",
+              "confidence": 1
+            },
+            {
+              "reader": "PSM3",
+              "raw": "SP081430.030",
+              "code": "SP081430.030",
+              "line": "SP081430.030 Same, 30° direction of view WC4.3mm 0D7.0mm, WL181mm",
+              "confidence": 52.457268
+            },
+            {
+              "reader": "PSM11",
+              "raw": "SP081430.030",
+              "code": "SP081430.030",
+              "line": "SP081430.030 Same, 30° direction of view WC4.3mm 0D7.0mm, WL181mm",
+              "confidence": 52.457268
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": {
+        "ru": "Спинальный эндоскоп, 30° направление обзора рабочий канал 4.3 мм наружный диаметр 7.0 мм, рабочая длина 208 мм",
+        "en": "Spinal endoscope, 30° direction of view WC4.3 mm OD7.0 mm, WL208 mm"
+      },
+      "image": "/images/products/spinendos/endoscopic-spine-surgery/page-004-xref-95.webp",
+      "imageType": "scene",
+      "refCodes": [
+        "SP081430.031"
+      ],
+      "groupId": "page-004-group-01",
+      "pdfPage": 4,
+      "sourceBounds": [
+        0.454705537076893,
+        0.89952553725928,
+        0.5584034435531208,
+        0.9088752442087636
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "004-005",
+          "pdfPage": 4,
+          "tableId": "page-004-group-01",
+          "row": 5,
+          "column": 2,
+          "bounds": [
+            0.454705537076893,
+            0.89952553725928,
+            0.5584034435531208,
+            0.9088752442087636
+          ],
+          "coordinateSpace": "normalized",
+          "value": "SP081430.031",
+          "candidate": "SP081430.031",
+          "verificationStatus": "verified (three independent OCR readings)",
+          "readings": [
+            {
+              "reader": "Vision",
+              "raw": "SP081430.031",
+              "code": "SP081430.031",
+              "line": "SP081430.031 Same, 30° direction of view WC4.3mm OD7.0mm, WL208mm",
+              "confidence": 1
+            },
+            {
+              "reader": "PSM3",
+              "raw": "SP081430.031",
+              "code": "SP081430.031",
+              "line": "SP081430.031 Same, 30° direction of view WC4.3mm 0D7.0mm, WL208mm",
+              "confidence": 83.140656
+            },
+            {
+              "reader": "PSM11",
+              "raw": "SP081430.031",
+              "code": "SP081430.031",
+              "line": "SP081430.031 Same, 30° direction of view WC4.3mm 0D7.0mm, WL208mm",
+              "confidence": 83.140656
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": {
+        "ru": "Спинальный эндоскоп, 30° направление обзора рабочий канал 4.3 мм наружный диаметр 7.0 мм, рабочая длина 130 мм",
+        "en": "Spinal endoscope, 30° direction of view WC4.3 mm OD7.0 mm, WL130 mm"
+      },
+      "image": "/images/products/spinendos/endoscopic-spine-surgery/page-004-xref-95.webp",
+      "imageType": "scene",
+      "refCodes": [
+        "SP081430.032"
+      ],
+      "groupId": "page-004-group-01",
+      "pdfPage": 4,
+      "sourceBounds": [
+        0.454705537076893,
+        0.9176667596985766,
+        0.560946977108198,
+        0.9270164666480603
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "004-006",
+          "pdfPage": 4,
+          "tableId": "page-004-group-01",
+          "row": 6,
+          "column": 2,
+          "bounds": [
+            0.454705537076893,
+            0.9176667596985766,
+            0.560946977108198,
+            0.9270164666480603
+          ],
+          "coordinateSpace": "normalized",
+          "value": "SP081430.032",
+          "candidate": "SP081430.032",
+          "verificationStatus": "verified (three independent OCR readings)",
+          "readings": [
+            {
+              "reader": "Vision",
+              "raw": "SP081430.032",
+              "code": "SP081430.032",
+              "line": "SP081430.032 Same, 30° direction of view WC4.3mm OD7.0mm, WL130mm",
+              "confidence": 1
+            },
+            {
+              "reader": "PSM3",
+              "raw": "SP081430.032",
+              "code": "SP081430.032",
+              "line": "SP081430.032 Same, 30° direction of view WC4.3mm 0D7.0mm, WL130mm",
+              "confidence": 82.942909
+            },
+            {
+              "reader": "PSM11",
+              "raw": "SP081430.032",
+              "code": "SP081430.032",
+              "line": "SP081430.032 Same, 30° direction of view WC4.3mm 0D7.0mm, WL130mm",
+              "confidence": 82.942909
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": {
+        "ru": "Эндоскопы для лечения стеноза: 15° направление обзора, рабочий канал 7.1 мм наружный диаметр 10.0 мм, 100 мм длина",
+        "en": "Stenosis endoscopes: 15° direction of view, WC7.1 mm OD10.0 mm, 100 mm length"
+      },
+      "image": "/images/products/spinendos/endoscopic-spine-surgery/page-019-xref-609.webp",
+      "imageType": "cutout",
+      "refCodes": [
+        "SP081710.100"
+      ],
+      "groupId": "page-019-group-56",
+      "pdfPage": 19,
+      "sourceBounds": [
+        0.15476423400508707,
+        0.6117778397990511,
+        0.26139698689101937,
+        0.6211275467485348
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "019-011",
+          "pdfPage": 19,
+          "tableId": "page-019-group-56",
+          "row": 1,
+          "column": 2,
+          "bounds": [
+            0.15476423400508707,
+            0.6117778397990511,
+            0.26139698689101937,
+            0.6211275467485348
+          ],
+          "coordinateSpace": "normalized",
+          "value": "SP081710.100",
+          "candidate": "SP081710.100",
+          "verificationStatus": "verified (three independent OCR readings)",
+          "readings": [
+            {
+              "reader": "Vision",
+              "raw": "SP081710.100",
+              "code": "SP081710.100",
+              "line": "SP081710.100",
+              "confidence": 1
+            },
+            {
+              "reader": "PSM3",
+              "raw": "SP081710.100",
+              "code": "SP081710.100",
+              "line": "SP081710.100 = 15° ditection of view, WC7.1mm 0D10.0mm,",
+              "confidence": 41.084137
+            },
+            {
+              "reader": "PSM11",
+              "raw": "SP081710.100",
+              "code": "SP081710.100",
+              "line": "SP081710.100",
+              "confidence": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": {
+        "ru": "Эндоскопы для лечения стеноза: 15° направление обзора, рабочий канал 7.1 мм наружный диаметр 10.0 мм, 139 мм длина",
+        "en": "Stenosis endoscopes: 15° direction of view, WC7.1 mm OD10.0 mm, 139 mm length"
+      },
+      "image": "/images/products/spinendos/endoscopic-spine-surgery/page-019-xref-609.webp",
+      "imageType": "cutout",
+      "refCodes": [
+        "SP081710.139"
+      ],
+      "groupId": "page-019-group-56",
+      "pdfPage": 19,
+      "sourceBounds": [
+        0.15456857757777342,
+        0.6427574658107731,
+        0.2610056740363921,
+        0.6523862684900921
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "019-012",
+          "pdfPage": 19,
+          "tableId": "page-019-group-56",
+          "row": 2,
+          "column": 2,
+          "bounds": [
+            0.15456857757777342,
+            0.6427574658107731,
+            0.2610056740363921,
+            0.6523862684900921
+          ],
+          "coordinateSpace": "normalized",
+          "value": "SP081710.139",
+          "candidate": "SP081710.139",
+          "verificationStatus": "verified (three independent OCR readings)",
+          "readings": [
+            {
+              "reader": "Vision",
+              "raw": "SP081710.139",
+              "code": "SP081710.139",
+              "line": "SP081710.139",
+              "confidence": 1
+            },
+            {
+              "reader": "PSM3",
+              "raw": "SP081710.139",
+              "code": "SP081710.139",
+              "line": "SP081710.139 15° direction of view, WC7.1mm 0D10.0mm,",
+              "confidence": 54.609528
+            },
+            {
+              "reader": "PSM11",
+              "raw": "SP081710.139",
+              "code": "SP081710.139",
+              "line": "SP081710.139",
+              "confidence": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": {
+        "ru": "Эндоскопы для лечения стеноза: 15° направление обзора, рабочий канал 7.1 мм наружный диаметр 10.0 мм, 181 мм длина",
+        "en": "Stenosis endoscopes: 15° direction of view, WC7.1 mm OD10.0 mm, 181 mm length"
+      },
+      "image": "/images/products/spinendos/endoscopic-spine-surgery/page-019-xref-609.webp",
+      "imageType": "cutout",
+      "refCodes": [
+        "SP081710.181"
+      ],
+      "groupId": "page-019-group-56",
+      "pdfPage": 19,
+      "sourceBounds": [
+        0.15051787093580687,
+        0.6751461509693555,
+        0.262924085622003,
+        0.6925864075876736
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "019-013",
+          "pdfPage": 19,
+          "tableId": "page-019-group-56",
+          "row": 3,
+          "column": 2,
+          "bounds": [
+            0.15051787093580687,
+            0.6751461509693555,
+            0.262924085622003,
+            0.6925864075876736
+          ],
+          "coordinateSpace": "normalized",
+          "value": "SP081710.181",
+          "candidate": "SP081710.181",
+          "verificationStatus": "verified (visual + OCR)",
+          "readings": [
+            {
+              "reader": "Vision",
+              "raw": "SP081710.181",
+              "code": "SP081710.181",
+              "line": "SP081710.181",
+              "confidence": 1
+            },
+            {
+              "reader": "PSM11",
+              "raw": "9P081710.181",
+              "code": "9P081710.181",
+              "line": "9P081710.181",
+              "confidence": 31.624088
+            }
+          ],
+          "visualReading": {
+            "value": "SP081710.181",
+            "author": "codex",
+            "method": "Visual reading of supplied 600-DPI caption/row crop",
+            "crop": "reports/spinendos/endoscopic-spine-surgery-system/line-crops/019-013.png"
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "ru": "Эндоскоп для шейного отдела: 6° направление обзора, рабочий канал 2.2 мм наружный диаметр 3.6 мм, 110 мм длина",
+        "en": "Cervical endoscope: 6° direction of view, WC2.2 mm OD3.6 mm, 110 mm length"
+      },
+      "image": "/images/products/spinendos/endoscopic-spine-surgery/page-019-xref-594.webp",
+      "imageType": "scene",
+      "refCodes": [
+        "SP081220.006"
+      ],
+      "groupId": "page-019-group-57",
+      "pdfPage": 19,
+      "sourceBounds": [
+        0.15476423400508707,
+        0.8382640245604243,
+        0.26120133046370575,
+        0.8476137315099079
+      ],
+      "coordinateSpace": "normalized",
+      "codeEvidence": [
+        {
+          "id": "019-014",
+          "pdfPage": 19,
+          "tableId": "page-019-group-57",
+          "row": 1,
+          "column": 2,
+          "bounds": [
+            0.15476423400508707,
+            0.8382640245604243,
+            0.26120133046370575,
+            0.8476137315099079
+          ],
+          "coordinateSpace": "normalized",
+          "value": "SP081220.006",
+          "candidate": "SP081220.006",
+          "verificationStatus": "verified (visual + OCR)",
+          "readings": [
+            {
+              "reader": "Vision",
+              "raw": "SP081220.006",
+              "code": "SP081220.006",
+              "line": "SP081220.006 6° direction of view, WC2.2mm OD3.6mm,",
+              "confidence": 1
+            },
+            {
+              "reader": "PSM11",
+              "raw": "SP081220.006",
+              "code": "SP081220.006",
+              "line": "SP081220.006 _ 6° direction of view, WC2.2mm 0D3.6mm,",
+              "confidence": 13.108788
+            }
+          ],
+          "visualReading": {
+            "value": "SP081220.006",
+            "author": "codex",
+            "method": "Visual reading of supplied 600-DPI caption/row crop",
+            "crop": "reports/spinendos/endoscopic-spine-surgery-system/line-crops/019-014.png"
+          }
+        }
+      ]
+    }
+  ],
+  "componentGroups": [
+    {
+      "id": "page-004-group-01",
+      "name": {
+        "ru": "Спинальные эндоскопы",
+        "en": "Spinal endoscopes"
+      },
+      "images": [
+        {
+          "name": "page-004-xref-95",
+          "pdfPage": 4,
+          "bounds": [
+            0.17856886762764887,
+            0.4644991872058492,
+            0.7690158872776977,
+            0.6545220981914389
+          ],
+          "originalSize": [
+            732,
+            215
+          ],
+          "pdfImageXref": 95,
+          "src": "/images/products/spinendos/endoscopic-spine-surgery/page-004-xref-95.webp",
+          "width": 1464,
+          "height": 430,
+          "imageType": "scene",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              732,
+              215
+            ],
+            "enhancedSize": [
+              1464,
+              430
+            ]
+          },
+          "maskMethod": "Source-reviewed rembg; white-background source-ink protection only; failed masks retained as scenes",
+          "imageCaption": {
+            "ru": "Спинальный эндоскоп 30° направление обзора, рабочий канал 2.8 мм наружный диаметр 5.3 мм, рабочая длина 181 мм",
+            "en": "Spinal endoscope 30° direction of view, WC2.8 mm OD5.3 mm, WL181 mm"
+          }
+        }
+      ]
+    },
+    {
+      "id": "page-019-group-56",
+      "name": {
+        "ru": "Эндоскопы для лечения стеноза",
+        "en": "Stenosis endoscopes"
+      },
+      "images": [
+        {
+          "name": "page-019-xref-609",
+          "pdfPage": 19,
+          "bounds": [
+            0.27742974810493004,
+            0.5291525575794847,
+            0.908382177634084,
+            0.7316191475591546
+          ],
+          "originalSize": [
+            1612,
+            684
+          ],
+          "pdfImageXref": 609,
+          "src": "/images/products/spinendos/endoscopic-spine-surgery/page-019-xref-609.webp",
+          "width": 3288,
+          "height": 1432,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              1612,
+              684
+            ],
+            "enhancedSize": [
+              3224,
+              1368
+            ]
+          },
+          "captionRemoval": {
+            "method": "Source-reviewed caption-only rectangle on exact 2x image",
+            "bounds": [
+              0,
+              370,
+              1450,
+              700
+            ]
+          },
+          "maskMethod": "Source-reviewed rembg; white-background source-ink protection only; failed masks retained as scenes",
+          "imageCaption": {
+            "ru": "Эндоскопы для лечения стеноза: 15° направление обзора, рабочий канал 7.1 мм наружный диаметр 10.0 мм, 100 мм длина",
+            "en": "Stenosis endoscopes: 15° direction of view, WC7.1 mm OD10.0 mm, 100 mm length"
+          }
+        }
+      ]
+    },
+    {
+      "id": "page-019-group-57",
+      "name": {
+        "ru": "Эндоскоп для шейного отдела",
+        "en": "Cervical endoscope"
+      },
+      "images": [
+        {
+          "name": "page-019-xref-594",
+          "pdfPage": 19,
+          "bounds": [
+            0.11617590476988557,
+            0.7345831383152625,
+            0.8927975498197934,
+            0.9379379743872245
+          ],
+          "originalSize": [
+            980,
+            319
+          ],
+          "pdfImageXref": 594,
+          "src": "/images/products/spinendos/endoscopic-spine-surgery/page-019-xref-594.webp",
+          "width": 1960,
+          "height": 638,
+          "imageType": "scene",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              980,
+              319
+            ],
+            "enhancedSize": [
+              1960,
+              638
+            ]
+          },
+          "maskMethod": "Source-reviewed rembg; white-background source-ink protection only; failed masks retained as scenes",
+          "imageCaption": {
+            "ru": "Эндоскоп для шейного отдела: 6° направление обзора, рабочий канал 2.2 мм наружный диаметр 3.6 мм, 110 мм длина",
+            "en": "Cervical endoscope: 6° direction of view, WC2.2 mm OD3.6 mm, 110 mm length"
+          }
+        }
+      ]
+    }
+  ],
+  "specTables": [
+    {
+      "id": "page-004-group-01",
+      "groupId": "page-004-group-01",
+      "title": {
+        "ru": "Спинальные эндоскопы",
+        "en": "Spinal endoscopes"
+      },
+      "unit": null,
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "Кат. №",
+          "en": "Cat. No."
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Спинальный эндоскоп 30° направление обзора, рабочий канал 2.8 мм наружный диаметр 5.3 мм, рабочая длина 181 мм",
+            "en": "Spinal endoscope 30° direction of view, WC2.8 mm OD5.3 mm, WL181 mm"
+          },
+          "SP081280.030"
+        ],
+        [
+          {
+            "ru": "Спинальный эндоскоп 30° направление обзора, рабочий канал 2.8 мм наружный диаметр 5.3 мм, рабочая длина 130 мм",
+            "en": "Spinal endoscope 30° direction of view, WC2.8 mm OD5.3 mm, WL130 mm"
+          },
+          "SP081280.032"
+        ],
+        [
+          {
+            "ru": "Спинальный эндоскоп, 30° направление обзора рабочий канал 3.75 мм наружный диаметр 6.3 мм, рабочая длина 181 мм",
+            "en": "Spinal endoscope, 30° direction of view WC3.75 mm OD6.3 mm, WL181 mm"
+          },
+          "SP081375.030"
+        ],
+        [
+          {
+            "ru": "Спинальный эндоскоп, 30° направление обзора рабочий канал 4.3 мм наружный диаметр 7.0 мм, рабочая длина 181 мм",
+            "en": "Spinal endoscope, 30° direction of view WC4.3 mm OD7.0 mm, WL181 mm"
+          },
+          "SP081430.030"
+        ],
+        [
+          {
+            "ru": "Спинальный эндоскоп, 30° направление обзора рабочий канал 4.3 мм наружный диаметр 7.0 мм, рабочая длина 208 мм",
+            "en": "Spinal endoscope, 30° direction of view WC4.3 mm OD7.0 mm, WL208 mm"
+          },
+          "SP081430.031"
+        ],
+        [
+          {
+            "ru": "Спинальный эндоскоп, 30° направление обзора рабочий канал 4.3 мм наружный диаметр 7.0 мм, рабочая длина 130 мм",
+            "en": "Spinal endoscope, 30° direction of view WC4.3 mm OD7.0 mm, WL130 mm"
+          },
+          "SP081430.032"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 4,
+          "bounds": [
+            0.454705537076893,
+            0.6641082891431761,
+            0.5613382899628253,
+            0.6733184482277421
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "004-001",
+              "pdfPage": 4,
+              "tableId": "page-004-group-01",
+              "row": 1,
+              "column": 2,
+              "bounds": [
+                0.454705537076893,
+                0.6641082891431761,
+                0.5613382899628253,
+                0.6733184482277421
+              ],
+              "coordinateSpace": "normalized",
+              "value": "SP081280.030",
+              "candidate": "SP081280.030",
+              "verificationStatus": "verified (three independent OCR readings)",
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "raw": "SP081280.030",
+                  "code": "SP081280.030",
+                  "line": "SP081280.030",
+                  "confidence": 1
+                },
+                {
+                  "reader": "PSM3",
+                  "raw": "SP081280.030",
+                  "code": "SP081280.030",
+                  "line": "SP081280.030 Spinal endoscope 30° direction of view, WC2.8mm 0D5.3mm,",
+                  "confidence": 57.802727
+                },
+                {
+                  "reader": "PSM11",
+                  "raw": "SP081280.030",
+                  "code": "SP081280.030",
+                  "line": "SP081280.030",
+                  "confidence": 82.395149
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "pdfPage": 4,
+          "bounds": [
+            0.454705537076893,
+            0.7002511861568518,
+            0.560946977108198,
+            0.7094613452414178
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "004-002",
+              "pdfPage": 4,
+              "tableId": "page-004-group-01",
+              "row": 2,
+              "column": 2,
+              "bounds": [
+                0.454705537076893,
+                0.7002511861568518,
+                0.560946977108198,
+                0.7094613452414178
+              ],
+              "coordinateSpace": "normalized",
+              "value": "SP081280.032",
+              "candidate": "SP081280.032",
+              "verificationStatus": "verified (three independent OCR readings)",
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "raw": "SP081280.032",
+                  "code": "SP081280.032",
+                  "line": "SP081280.032",
+                  "confidence": 1
+                },
+                {
+                  "reader": "PSM3",
+                  "raw": "SP081280.032",
+                  "code": "SP081280.032",
+                  "line": "SP081280.032 Spinal endoscope 30° direction of view, WC2.8mm 0D5.3mm,",
+                  "confidence": 56.765285
+                },
+                {
+                  "reader": "PSM11",
+                  "raw": "SP081280.032",
+                  "code": "SP081280.032",
+                  "line": "SP081280.032",
+                  "confidence": 80.929764
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "pdfPage": 4,
+          "bounds": [
+            0.454705537076893,
+            0.7895618197041585,
+            0.5613382899628253,
+            0.7989115266536422
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "004-003",
+              "pdfPage": 4,
+              "tableId": "page-004-group-01",
+              "row": 3,
+              "column": 2,
+              "bounds": [
+                0.454705537076893,
+                0.7895618197041585,
+                0.5613382899628253,
+                0.7989115266536422
+              ],
+              "coordinateSpace": "normalized",
+              "value": "SP081375.030",
+              "candidate": "SP081375.030",
+              "verificationStatus": "verified (three independent OCR readings)",
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "raw": "SP081375.030",
+                  "code": "SP081375.030",
+                  "line": "SP081375.030 Same, 30° direction of view WC3.75mm 0D6.3mm, WL181 mm",
+                  "confidence": 1
+                },
+                {
+                  "reader": "PSM3",
+                  "raw": "SP081375.030",
+                  "code": "SP081375.030",
+                  "line": "SP081375.030 Same, 30° direction of view WC3.75mm 0D6.3mm, WL181mm",
+                  "confidence": 62.518658
+                },
+                {
+                  "reader": "PSM11",
+                  "raw": "SP081375.030",
+                  "code": "SP081375.030",
+                  "line": "SP081375.030 Same, 30° direction of view WC3.75mm 0D6.3mm, WL181mm",
+                  "confidence": 62.518658
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "pdfPage": 4,
+          "bounds": [
+            0.454705537076893,
+            0.8827797934691599,
+            0.5613382899628253,
+            0.8921295004186436
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "004-004",
+              "pdfPage": 4,
+              "tableId": "page-004-group-01",
+              "row": 4,
+              "column": 2,
+              "bounds": [
+                0.454705537076893,
+                0.8827797934691599,
+                0.5613382899628253,
+                0.8921295004186436
+              ],
+              "coordinateSpace": "normalized",
+              "value": "SP081430.030",
+              "candidate": "SP081430.030",
+              "verificationStatus": "verified (three independent OCR readings)",
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "raw": "SP081430.030",
+                  "code": "SP081430.030",
+                  "line": "SP081430.030 Same, 30° direction of view WC4.3mm OD7.0mm, WL181 mm",
+                  "confidence": 1
+                },
+                {
+                  "reader": "PSM3",
+                  "raw": "SP081430.030",
+                  "code": "SP081430.030",
+                  "line": "SP081430.030 Same, 30° direction of view WC4.3mm 0D7.0mm, WL181mm",
+                  "confidence": 52.457268
+                },
+                {
+                  "reader": "PSM11",
+                  "raw": "SP081430.030",
+                  "code": "SP081430.030",
+                  "line": "SP081430.030 Same, 30° direction of view WC4.3mm 0D7.0mm, WL181mm",
+                  "confidence": 52.457268
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "pdfPage": 4,
+          "bounds": [
+            0.454705537076893,
+            0.89952553725928,
+            0.5584034435531208,
+            0.9088752442087636
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "004-005",
+              "pdfPage": 4,
+              "tableId": "page-004-group-01",
+              "row": 5,
+              "column": 2,
+              "bounds": [
+                0.454705537076893,
+                0.89952553725928,
+                0.5584034435531208,
+                0.9088752442087636
+              ],
+              "coordinateSpace": "normalized",
+              "value": "SP081430.031",
+              "candidate": "SP081430.031",
+              "verificationStatus": "verified (three independent OCR readings)",
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "raw": "SP081430.031",
+                  "code": "SP081430.031",
+                  "line": "SP081430.031 Same, 30° direction of view WC4.3mm OD7.0mm, WL208mm",
+                  "confidence": 1
+                },
+                {
+                  "reader": "PSM3",
+                  "raw": "SP081430.031",
+                  "code": "SP081430.031",
+                  "line": "SP081430.031 Same, 30° direction of view WC4.3mm 0D7.0mm, WL208mm",
+                  "confidence": 83.140656
+                },
+                {
+                  "reader": "PSM11",
+                  "raw": "SP081430.031",
+                  "code": "SP081430.031",
+                  "line": "SP081430.031 Same, 30° direction of view WC4.3mm 0D7.0mm, WL208mm",
+                  "confidence": 83.140656
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "pdfPage": 4,
+          "bounds": [
+            0.454705537076893,
+            0.9176667596985766,
+            0.560946977108198,
+            0.9270164666480603
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "004-006",
+              "pdfPage": 4,
+              "tableId": "page-004-group-01",
+              "row": 6,
+              "column": 2,
+              "bounds": [
+                0.454705537076893,
+                0.9176667596985766,
+                0.560946977108198,
+                0.9270164666480603
+              ],
+              "coordinateSpace": "normalized",
+              "value": "SP081430.032",
+              "candidate": "SP081430.032",
+              "verificationStatus": "verified (three independent OCR readings)",
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "raw": "SP081430.032",
+                  "code": "SP081430.032",
+                  "line": "SP081430.032 Same, 30° direction of view WC4.3mm OD7.0mm, WL130mm",
+                  "confidence": 1
+                },
+                {
+                  "reader": "PSM3",
+                  "raw": "SP081430.032",
+                  "code": "SP081430.032",
+                  "line": "SP081430.032 Same, 30° direction of view WC4.3mm 0D7.0mm, WL130mm",
+                  "confidence": 82.942909
+                },
+                {
+                  "reader": "PSM11",
+                  "raw": "SP081430.032",
+                  "code": "SP081430.032",
+                  "line": "SP081430.032 Same, 30° direction of view WC4.3mm 0D7.0mm, WL130mm",
+                  "confidence": 82.942909
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        4
+      ],
+      "images": [
+        {
+          "name": "page-004-xref-95",
+          "pdfPage": 4,
+          "bounds": [
+            0.17856886762764887,
+            0.4644991872058492,
+            0.7690158872776977,
+            0.6545220981914389
+          ],
+          "originalSize": [
+            732,
+            215
+          ],
+          "pdfImageXref": 95,
+          "src": "/images/products/spinendos/endoscopic-spine-surgery/page-004-xref-95.webp",
+          "width": 1464,
+          "height": 430,
+          "imageType": "scene",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              732,
+              215
+            ],
+            "enhancedSize": [
+              1464,
+              430
+            ]
+          },
+          "maskMethod": "Source-reviewed rembg; white-background source-ink protection only; failed masks retained as scenes",
+          "imageCaption": {
+            "ru": "Спинальный эндоскоп 30° направление обзора, рабочий канал 2.8 мм наружный диаметр 5.3 мм, рабочая длина 181 мм",
+            "en": "Spinal endoscope 30° direction of view, WC2.8 mm OD5.3 mm, WL181 mm"
+          }
+        }
+      ],
+      "keyParameters": [
+        {
+          "parameter": {
+            "ru": "Автоклавирование",
+            "en": "Autoclaving"
+          },
+          "value": {
+            "ru": "134 °C; 2.3 бар",
+            "en": "134 °C; 2.3 bar"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Окуляр",
+            "en": "Eyepiece"
+          },
+          "value": {
+            "ru": "Съёмный; C-mount или SPINENDOS QuickSnap",
+            "en": "Removable; C-mount or SPINENDOS QuickSnap"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Подключение световода",
+            "en": "Light guide connection"
+          },
+          "value": {
+            "ru": "3-ступенчатые адаптеры",
+            "en": "3-step light post adaptors"
+          }
+        }
+      ]
+    },
+    {
+      "id": "page-019-group-56",
+      "groupId": "page-019-group-56",
+      "title": {
+        "ru": "Эндоскопы для лечения стеноза",
+        "en": "Stenosis endoscopes"
+      },
+      "unit": null,
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "Кат. №",
+          "en": "Cat. No."
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Эндоскопы для лечения стеноза: 15° направление обзора, рабочий канал 7.1 мм наружный диаметр 10.0 мм, 100 мм длина",
+            "en": "Stenosis endoscopes: 15° direction of view, WC7.1 mm OD10.0 mm, 100 mm length"
+          },
+          "SP081710.100"
+        ],
+        [
+          {
+            "ru": "Эндоскопы для лечения стеноза: 15° направление обзора, рабочий канал 7.1 мм наружный диаметр 10.0 мм, 139 мм длина",
+            "en": "Stenosis endoscopes: 15° direction of view, WC7.1 mm OD10.0 mm, 139 mm length"
+          },
+          "SP081710.139"
+        ],
+        [
+          {
+            "ru": "Эндоскопы для лечения стеноза: 15° направление обзора, рабочий канал 7.1 мм наружный диаметр 10.0 мм, 181 мм длина",
+            "en": "Stenosis endoscopes: 15° direction of view, WC7.1 mm OD10.0 mm, 181 mm length"
+          },
+          "SP081710.181"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 19,
+          "bounds": [
+            0.15476423400508707,
+            0.6117778397990511,
+            0.26139698689101937,
+            0.6211275467485348
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "019-011",
+              "pdfPage": 19,
+              "tableId": "page-019-group-56",
+              "row": 1,
+              "column": 2,
+              "bounds": [
+                0.15476423400508707,
+                0.6117778397990511,
+                0.26139698689101937,
+                0.6211275467485348
+              ],
+              "coordinateSpace": "normalized",
+              "value": "SP081710.100",
+              "candidate": "SP081710.100",
+              "verificationStatus": "verified (three independent OCR readings)",
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "raw": "SP081710.100",
+                  "code": "SP081710.100",
+                  "line": "SP081710.100",
+                  "confidence": 1
+                },
+                {
+                  "reader": "PSM3",
+                  "raw": "SP081710.100",
+                  "code": "SP081710.100",
+                  "line": "SP081710.100 = 15° ditection of view, WC7.1mm 0D10.0mm,",
+                  "confidence": 41.084137
+                },
+                {
+                  "reader": "PSM11",
+                  "raw": "SP081710.100",
+                  "code": "SP081710.100",
+                  "line": "SP081710.100",
+                  "confidence": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "pdfPage": 19,
+          "bounds": [
+            0.15456857757777342,
+            0.6427574658107731,
+            0.2610056740363921,
+            0.6523862684900921
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "019-012",
+              "pdfPage": 19,
+              "tableId": "page-019-group-56",
+              "row": 2,
+              "column": 2,
+              "bounds": [
+                0.15456857757777342,
+                0.6427574658107731,
+                0.2610056740363921,
+                0.6523862684900921
+              ],
+              "coordinateSpace": "normalized",
+              "value": "SP081710.139",
+              "candidate": "SP081710.139",
+              "verificationStatus": "verified (three independent OCR readings)",
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "raw": "SP081710.139",
+                  "code": "SP081710.139",
+                  "line": "SP081710.139",
+                  "confidence": 1
+                },
+                {
+                  "reader": "PSM3",
+                  "raw": "SP081710.139",
+                  "code": "SP081710.139",
+                  "line": "SP081710.139 15° direction of view, WC7.1mm 0D10.0mm,",
+                  "confidence": 54.609528
+                },
+                {
+                  "reader": "PSM11",
+                  "raw": "SP081710.139",
+                  "code": "SP081710.139",
+                  "line": "SP081710.139",
+                  "confidence": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "pdfPage": 19,
+          "bounds": [
+            0.15051787093580687,
+            0.6751461509693555,
+            0.262924085622003,
+            0.6925864075876736
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "019-013",
+              "pdfPage": 19,
+              "tableId": "page-019-group-56",
+              "row": 3,
+              "column": 2,
+              "bounds": [
+                0.15051787093580687,
+                0.6751461509693555,
+                0.262924085622003,
+                0.6925864075876736
+              ],
+              "coordinateSpace": "normalized",
+              "value": "SP081710.181",
+              "candidate": "SP081710.181",
+              "verificationStatus": "verified (visual + OCR)",
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "raw": "SP081710.181",
+                  "code": "SP081710.181",
+                  "line": "SP081710.181",
+                  "confidence": 1
+                },
+                {
+                  "reader": "PSM11",
+                  "raw": "9P081710.181",
+                  "code": "9P081710.181",
+                  "line": "9P081710.181",
+                  "confidence": 31.624088
+                }
+              ],
+              "visualReading": {
+                "value": "SP081710.181",
+                "author": "codex",
+                "method": "Visual reading of supplied 600-DPI caption/row crop",
+                "crop": "reports/spinendos/endoscopic-spine-surgery-system/line-crops/019-013.png"
+              }
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        19
+      ],
+      "images": [
+        {
+          "name": "page-019-xref-609",
+          "pdfPage": 19,
+          "bounds": [
+            0.27742974810493004,
+            0.5291525575794847,
+            0.908382177634084,
+            0.7316191475591546
+          ],
+          "originalSize": [
+            1612,
+            684
+          ],
+          "pdfImageXref": 609,
+          "src": "/images/products/spinendos/endoscopic-spine-surgery/page-019-xref-609.webp",
+          "width": 3288,
+          "height": 1432,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              1612,
+              684
+            ],
+            "enhancedSize": [
+              3224,
+              1368
+            ]
+          },
+          "captionRemoval": {
+            "method": "Source-reviewed caption-only rectangle on exact 2x image",
+            "bounds": [
+              0,
+              370,
+              1450,
+              700
+            ]
+          },
+          "maskMethod": "Source-reviewed rembg; white-background source-ink protection only; failed masks retained as scenes",
+          "imageCaption": {
+            "ru": "Эндоскопы для лечения стеноза: 15° направление обзора, рабочий канал 7.1 мм наружный диаметр 10.0 мм, 100 мм длина",
+            "en": "Stenosis endoscopes: 15° direction of view, WC7.1 mm OD10.0 mm, 100 mm length"
+          }
+        }
+      ]
+    },
+    {
+      "id": "page-019-group-57",
+      "groupId": "page-019-group-57",
+      "title": {
+        "ru": "Эндоскоп для шейного отдела",
+        "en": "Cervical endoscope"
+      },
+      "unit": null,
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "Кат. №",
+          "en": "Cat. No."
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Эндоскоп для шейного отдела: 6° направление обзора, рабочий канал 2.2 мм наружный диаметр 3.6 мм, 110 мм длина",
+            "en": "Cervical endoscope: 6° direction of view, WC2.2 mm OD3.6 mm, 110 mm length"
+          },
+          "SP081220.006"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 19,
+          "bounds": [
+            0.15476423400508707,
+            0.8382640245604243,
+            0.26120133046370575,
+            0.8476137315099079
+          ],
+          "coordinateSpace": "normalized",
+          "codeEvidence": [
+            {
+              "id": "019-014",
+              "pdfPage": 19,
+              "tableId": "page-019-group-57",
+              "row": 1,
+              "column": 2,
+              "bounds": [
+                0.15476423400508707,
+                0.8382640245604243,
+                0.26120133046370575,
+                0.8476137315099079
+              ],
+              "coordinateSpace": "normalized",
+              "value": "SP081220.006",
+              "candidate": "SP081220.006",
+              "verificationStatus": "verified (visual + OCR)",
+              "readings": [
+                {
+                  "reader": "Vision",
+                  "raw": "SP081220.006",
+                  "code": "SP081220.006",
+                  "line": "SP081220.006 6° direction of view, WC2.2mm OD3.6mm,",
+                  "confidence": 1
+                },
+                {
+                  "reader": "PSM11",
+                  "raw": "SP081220.006",
+                  "code": "SP081220.006",
+                  "line": "SP081220.006 _ 6° direction of view, WC2.2mm 0D3.6mm,",
+                  "confidence": 13.108788
+                }
+              ],
+              "visualReading": {
+                "value": "SP081220.006",
+                "author": "codex",
+                "method": "Visual reading of supplied 600-DPI caption/row crop",
+                "crop": "reports/spinendos/endoscopic-spine-surgery-system/line-crops/019-014.png"
+              }
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        19
+      ],
+      "images": [
+        {
+          "name": "page-019-xref-594",
+          "pdfPage": 19,
+          "bounds": [
+            0.11617590476988557,
+            0.7345831383152625,
+            0.8927975498197934,
+            0.9379379743872245
+          ],
+          "originalSize": [
+            980,
+            319
+          ],
+          "pdfImageXref": 594,
+          "src": "/images/products/spinendos/endoscopic-spine-surgery/page-019-xref-594.webp",
+          "width": 1960,
+          "height": 638,
+          "imageType": "scene",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              980,
+              319
+            ],
+            "enhancedSize": [
+              1960,
+              638
+            ]
+          },
+          "maskMethod": "Source-reviewed rembg; white-background source-ink protection only; failed masks retained as scenes",
+          "imageCaption": {
+            "ru": "Эндоскоп для шейного отдела: 6° направление обзора, рабочий канал 2.2 мм наружный диаметр 3.6 мм, 110 мм длина",
+            "en": "Cervical endoscope: 6° direction of view, WC2.2 mm OD3.6 mm, 110 mm length"
+          }
+        }
+      ]
+    }
+  ],
+  "refCodes": [
+    "SP081280.030",
+    "SP081280.032",
+    "SP081375.030",
+    "SP081430.030",
+    "SP081430.031",
+    "SP081430.032",
+    "SP081710.100",
+    "SP081710.139",
+    "SP081710.181",
+    "SP081220.006"
+  ],
+  "sourcePages": [
+    4,
+    19
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "SPINENDOS Endoscopic Spine Surgery System — каталог продукции",
+    "en": "SPINENDOS Endoscopic Spine Surgery System — Product Catalog"
+  },
+  "isNew": true,
+  "status": "published",
+  "relatedSystemSlugs": [
+    "spinendos/guiding-cannulas-guide-wires-and-dilators",
+    "spinendos/working-tubes",
+    "spinendos/trephines-reamers-drills-and-protection-tubes",
+    "spinendos/forceps-punches-and-scissors",
+    "spinendos/handles-hammer-and-accessories"
+  ],
+  "imageDimensions": {
+    "/images/products/spinendos/endoscopic-spine-surgery/page-004-xref-95.webp": {
+      "width": 1464,
+      "height": 430
+    },
+    "/images/products/spinendos/endoscopic-spine-surgery/page-019-xref-609.webp": {
+      "width": 3288,
+      "height": 1432
+    },
+    "/images/products/spinendos/endoscopic-spine-surgery/page-019-xref-594.webp": {
+      "width": 1960,
+      "height": 638
+    }
+  },
+  "sourcePdf": "/catalogs/spinendos/endoscopic-spine-surgery-system/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/spinendos/endoscopic-spine-surgery-system/pages/004.webp",
+    "/catalogs/spinendos/endoscopic-spine-surgery-system/pages/019.webp"
+  ],
+  "sourcePageDimensions": {
+    "1": {
+      "width": 5111,
+      "height": 7166
+    },
+    "2": {
+      "width": 5111,
+      "height": 7166
+    },
+    "3": {
+      "width": 5111,
+      "height": 7166
+    },
+    "4": {
+      "width": 5111,
+      "height": 7166
+    },
+    "5": {
+      "width": 5111,
+      "height": 7166
+    },
+    "6": {
+      "width": 5111,
+      "height": 7166
+    },
+    "7": {
+      "width": 5111,
+      "height": 7166
+    },
+    "8": {
+      "width": 5111,
+      "height": 7166
+    },
+    "9": {
+      "width": 5111,
+      "height": 7166
+    },
+    "10": {
+      "width": 5111,
+      "height": 7166
+    },
+    "11": {
+      "width": 5111,
+      "height": 7166
+    },
+    "12": {
+      "width": 5111,
+      "height": 7166
+    },
+    "13": {
+      "width": 5111,
+      "height": 7166
+    },
+    "14": {
+      "width": 5111,
+      "height": 7166
+    },
+    "15": {
+      "width": 5111,
+      "height": 7166
+    },
+    "16": {
+      "width": 5111,
+      "height": 7166
+    },
+    "17": {
+      "width": 5111,
+      "height": 7166
+    },
+    "18": {
+      "width": 5111,
+      "height": 7166
+    },
+    "19": {
+      "width": 5111,
+      "height": 7166
+    },
+    "20": {
+      "width": 5111,
+      "height": 7166
+    }
+  },
+  "review": {
+    "sourceSha256": "bf5f6a1a58ca73e2eeab772c1ad98f5bdfe8c3021b51029d4494814199b8d034",
+    "importMethod": "600-DPI Tesseract PSM3/11 and independent Apple Vision; Codex visual review of every disagreement; caption/photo regions mapped from the supplied PDF; Codex-authored Russian medical terminology; Real-ESRGAN exact 2x followed by rembg.",
+    "flags": [],
+    "status": "published-source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      20
+    ],
+    "translatedFields": [
+      "brandName.ru",
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "gallery.1.imageCaption.ru",
+      "gallery.2.imageCaption.ru",
+      "features.0.title.ru",
+      "features.0.text.ru",
+      "features.1.title.ru",
+      "features.1.text.ru",
+      "features.2.title.ru",
+      "features.2.text.ru",
+      "components.0.name.ru",
+      "components.1.name.ru",
+      "components.2.name.ru",
+      "components.3.name.ru",
+      "components.4.name.ru",
+      "components.5.name.ru",
+      "components.6.name.ru",
+      "components.7.name.ru",
+      "components.8.name.ru",
+      "components.9.name.ru",
+      "componentGroups.0.name.ru",
+      "componentGroups.0.images.0.imageCaption.ru",
+      "componentGroups.1.name.ru",
+      "componentGroups.1.images.0.imageCaption.ru",
+      "componentGroups.2.name.ru",
+      "componentGroups.2.images.0.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.rows.3.0.ru",
+      "specTables.0.rows.4.0.ru",
+      "specTables.0.rows.5.0.ru",
+      "specTables.0.images.0.imageCaption.ru",
+      "specTables.0.keyParameters.0.parameter.ru",
+      "specTables.0.keyParameters.0.value.ru",
+      "specTables.0.keyParameters.1.parameter.ru",
+      "specTables.0.keyParameters.1.value.ru",
+      "specTables.0.keyParameters.2.parameter.ru",
+      "specTables.0.keyParameters.2.value.ru",
+      "specTables.1.title.ru",
+      "specTables.1.columns.0.ru",
+      "specTables.1.columns.1.ru",
+      "specTables.1.rows.0.0.ru",
+      "specTables.1.rows.1.0.ru",
+      "specTables.1.rows.2.0.ru",
+      "specTables.1.images.0.imageCaption.ru",
+      "specTables.2.title.ru",
+      "specTables.2.columns.0.ru",
+      "specTables.2.columns.1.ru",
+      "specTables.2.rows.0.0.ru",
+      "specTables.2.images.0.imageCaption.ru",
+      "catalogTitle.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publishedAt": "2026-11-19T11:33:54.913253+00:00",
+    "publicationReason": "Owner explicitly authorized publishing systems with zero real flags."
+  },
+  "documentCover": "/catalogs/spinendos/endoscopic-spine-surgery-system/pages/001.webp"
+}

@@ -1,0 +1,117 @@
+{
+  "id": 32,
+  "bounds": [
+    0.8370181960477402,
+    0.559028746860173,
+    0.9090197612991586,
+    0.574937203460787
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "VP8565",
+      "confidence": 90.298553,
+      "words": [
+        {
+          "text": "VP8565",
+          "confidence": 90.298553,
+          "pixelBounds": [
+            4362,
+            4041,
+            4576,
+            4099
+          ],
+          "lineId": "8.1.17",
+          "bounds": [
+            0.8534533359420857,
+            0.5639129221322914,
+            0.8953238113872041,
+            0.572006698297516
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "VP8565",
+      "confidence": 81.848114,
+      "words": [
+        {
+          "text": "VP8565",
+          "confidence": 81.848114,
+          "pixelBounds": [
+            4362,
+            4041,
+            4576,
+            4099
+          ],
+          "lineId": "75.1.1",
+          "bounds": [
+            0.8534533359420857,
+            0.5639129221322914,
+            0.8953238113872041,
+            0.572006698297516
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "... VP8565",
+      "confidence": 54.560211,
+      "words": [
+        {
+          "text": "...",
+          "confidence": 54.560211,
+          "pixelBounds": [
+            6,
+            84,
+            46,
+            92
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "VP8565",
+          "confidence": 56.053406,
+          "pixelBounds": [
+            84,
+            35,
+            298,
+            93
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": ".. VP8565",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "..",
+          "confidence": 28.482777,
+          "pixelBounds": [
+            6,
+            84,
+            46,
+            92
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "VP8565",
+          "confidence": 0.0,
+          "pixelBounds": [
+            84,
+            35,
+            298,
+            93
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

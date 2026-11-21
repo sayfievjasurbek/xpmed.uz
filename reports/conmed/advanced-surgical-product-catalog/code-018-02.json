@@ -1,0 +1,40 @@
+{
+  "pdfPage": 18,
+  "pageRow": 2,
+  "visualReading": "BILF200",
+  "visualReader": "Codex independent inspection of 600-DPI source table images; source-line crops retained",
+  "ocrReadings": {
+    "600dpi-psm3": "BILF200",
+    "600dpi-psm11": "BILF200",
+    "600dpi-code-crop-psm7": "BILF200",
+    "Apple-Vision-accurate": "BILF200"
+  },
+  "matchedReaders": [
+    "600dpi-psm3",
+    "600dpi-psm11",
+    "600dpi-code-crop-psm7",
+    "Apple-Vision-accurate"
+  ],
+  "value": "BILF200",
+  "verificationStatus": "verified (visual + OCR)",
+  "manufacturerStatus": "confirmed on conmed.com",
+  "officialEvidence": [
+    {
+      "url": "https://www.conmed.com/-/media/conmed/documents/catalog/advancedsurgical_catalog.ashx",
+      "code": "BILF200"
+    }
+  ],
+  "sourceBounds": [
+    0.8687145372725494,
+    0.25620987998883615,
+    0.9143024848366269,
+    0.26514094334356686
+  ],
+  "rowBounds": [
+    0.5289452320766902,
+    0.25133689839572193,
+    0.934,
+    0.26916221033868093
+  ],
+  "lineCrop": "reports/conmed/advanced-surgical-product-catalog/line-crops/018-02.png"
+}

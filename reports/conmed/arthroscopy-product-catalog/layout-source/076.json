@@ -1,0 +1,244 @@
+{
+  "pdfPage": 76,
+  "officialPage": 102,
+  "alignment": [
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      0.0
+    ]
+  ],
+  "alignmentMatches": 2,
+  "alignmentInliers": 0,
+  "category": "arthroscopy-manual-instruments",
+  "title": {
+    "en": "Concept",
+    "ru": "Ручные инструменты Concept"
+  },
+  "groups": [
+    {
+      "title": "Rotary Punch — 3.3mm dia., 130mm",
+      "page": 76,
+      "officialPage": 102,
+      "headingBounds": [
+        0.4288235334009906,
+        0.1527662758875375,
+        0.5450147740981158,
+        0.16623219576748935
+      ],
+      "rows": [
+        {
+          "description": "90º Left",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6850",
+              "sourceBounds": [
+                0.8513238286233877,
+                0.20058139562660104,
+                0.8981670058776308,
+                0.21081349225324608
+              ],
+              "officialCode": "C6850",
+              "officialBounds": [
+                533.636962890625,
+                151.79689025878906,
+                556.4419555664062,
+                161.97589111328125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.19269744393992355,
+            0.9081670058776308,
+            0.21469744393992357
+          ],
+          "pdfPage": 76,
+          "officialPage": 102
+        },
+        {
+          "description": "90º Right",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6851",
+              "sourceBounds": [
+                0.8452138508351444,
+                0.21802325589913008,
+                0.8981670058858333,
+                0.22819767415174197
+              ],
+              "officialCode": "C6851",
+              "officialBounds": [
+                534.0419921875,
+                166.29591369628906,
+                556.442138671875,
+                176.47491455078125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.210110465025436,
+            0.9081670058858333,
+            0.23211046502543603
+          ],
+          "pdfPage": 76,
+          "officialPage": 102
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Linear Wide Bite Punch — 3.3mm dia., 130mm",
+      "page": 76,
+      "officialPage": 102,
+      "headingBounds": [
+        0.4288235334009906,
+        0.3592056890930792,
+        0.5450147740981158,
+        0.37267157044073546
+      ],
+      "rows": [
+        {
+          "description": "Straight",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6855",
+              "sourceBounds": [
+                0.8574338080840546,
+                0.3793604655079891,
+                0.9002036659230738,
+                0.3938953485908482
+              ],
+              "officialCode": "C6855",
+              "officialBounds": [
+                533.636962890625,
+                299.2958984375,
+                556.4419555664062,
+                309.4748840332031
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3736279070494186,
+            0.9102036659230738,
+            0.39562790704941864
+          ],
+          "pdfPage": 76,
+          "officialPage": 102
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Linear Wide Bite Punch — 3.3mm dia., 130mm",
+      "page": 76,
+      "officialPage": 102,
+      "headingBounds": [
+        0.4288235334009906,
+        0.5574380123254025,
+        0.5450147740981158,
+        0.5709038936730587
+      ],
+      "rows": [
+        {
+          "description": "15° Up",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6856",
+              "sourceBounds": [
+                0.8574338087383314,
+                0.5726744185005054,
+                0.9002036665773507,
+                0.5886627911215875
+              ],
+              "officialCode": "C6856",
+              "officialBounds": [
+                533.6190185546875,
+                456.2958984375,
+                556.4376220703125,
+                466.4748840332031
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.5676686048110464,
+            0.9102036665773507,
+            0.5896686048110464
+          ],
+          "pdfPage": 76,
+          "officialPage": 102
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "Linear Wide Bite Punch — 3.3mm dia., 130mm",
+      "page": 76,
+      "officialPage": 102,
+      "headingBounds": [
+        0.42882368299696183,
+        0.756932961820352,
+        0.545014923694087,
+        0.7703988431680082
+      ],
+      "rows": [
+        {
+          "description": "15° Upswept",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "C6857",
+              "sourceBounds": [
+                0.8553971480458672,
+                0.771802325734612,
+                0.8981670058848865,
+                0.7834821430213608
+              ],
+              "officialCode": "C6857",
+              "officialBounds": [
+                533.7720947265625,
+                614.2958984375,
+                556.4421997070312,
+                624.4749145507812
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.7646422343779864,
+            0.9081670058848865,
+            0.7866422343779864
+          ],
+          "pdfPage": 76,
+          "officialPage": 102
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 5
+}

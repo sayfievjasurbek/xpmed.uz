@@ -1,0 +1,58 @@
+{
+  "sha256": "7c38f8e98475b4a1ba9017daa75c7437fce1592f973c345df8c60326aa146562",
+  "layoutReviewed": true,
+  "variantSupplement": {
+    "slug": "cynthia-knee-system",
+    "variantId": "revision"
+  },
+  "comparisons": [
+    {
+      "parameter": "Distal femoral augments",
+      "guide": "5 / 10 / 15 mm",
+      "existing": "5 / 10 / 15 mm",
+      "result": "match"
+    },
+    {
+      "parameter": "Offset connector",
+      "guide": "+2 / +4 / +6 mm; +0 denotes no offset connector",
+      "existing": "2 / 4 / 6 mm",
+      "result": "match"
+    },
+    {
+      "parameter": "Extension stem lengths",
+      "guide": "80 / 120 / 160 mm",
+      "existing": "80 / 120 / 160 mm",
+      "result": "match; reamer markers 120 / 160 / 220 mm are different measurements"
+    },
+    {
+      "parameter": "Valgus angle",
+      "guide": "6\u00b0",
+      "existing": "6\u00b0",
+      "result": "match"
+    },
+    {
+      "parameter": "Tibial posterior slope",
+      "guide": null,
+      "existing": "0\u00b0",
+      "result": "not specified in guide; no change"
+    },
+    {
+      "parameter": "Tibial platform keel",
+      "guide": "25 mm",
+      "existing": "25 mm",
+      "result": "match"
+    },
+    {
+      "parameter": "Femoral length table Platform Keel",
+      "guide": "55 mm",
+      "existing": null,
+      "result": "source femoral table retained exactly; distinct from tibial keel 25 mm"
+    },
+    {
+      "parameter": "Chapter 5.2 inventory",
+      "guide": "Distal augments 5 / 10 mm; posterior augments 5 mm",
+      "existing": "Distal 5 / 10 / 15 mm; posterior 5 / 10 mm",
+      "result": "inventory subset differs from available product range; both retained"
+    }
+  ]
+}

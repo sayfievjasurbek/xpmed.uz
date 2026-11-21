@@ -1,0 +1,7393 @@
+{
+  "slug": "marathon-instrument-set",
+  "brand": "double-medical",
+  "category": "trauma-instrument-sets",
+  "subcategory": "trauma-foot-ankle",
+  "subcategories": [
+    "trauma-foot-ankle"
+  ],
+  "specialty": [
+    "traumatology",
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Набор инструментов MARATHON",
+    "en": "MARATHON Instrument Set"
+  },
+  "shortDescription": {
+    "ru": "Инструменты для травматологии",
+    "en": "Trauma surgery instruments"
+  },
+  "description": {
+    "ru": "Набор инструментов MARATHON. Характеристики и каталожные номера приведены по Trauma Catalogue Double Medical.",
+    "en": "MARATHON Instrument Set. Specifications and reference numbers are listed according to the Double Medical Trauma Catalogue."
+  },
+  "heroImage": "/images/products/double-medical/marathon-instrument-set/page-175-art-01.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "width": 500,
+      "height": 186,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          218,
+          61
+        ],
+        "enhancedSize": [
+          436,
+          122
+        ]
+      },
+      "src": "/images/products/double-medical/marathon-instrument-set/page-175-art-01.webp",
+      "imageCaption": {
+        "ru": "Сверлильная втулка, для спицы-проводника, 1.6",
+        "en": "Drill Sleeve, for Guide Wire, 1.6"
+      },
+      "sourcePages": [
+        175
+      ]
+    },
+    {
+      "width": 634,
+      "height": 90,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          285,
+          13
+        ],
+        "enhancedSize": [
+          570,
+          26
+        ]
+      },
+      "src": "/images/products/double-medical/marathon-instrument-set/page-175-art-02.webp",
+      "imageCaption": {
+        "ru": "Сверло, с быстросъёмным соединением, Ø2.0, полукруглое",
+        "en": "Drill Bit, with Quick Coupling, Ø2.0, semicircle"
+      },
+      "sourcePages": [
+        175
+      ]
+    },
+    {
+      "width": 626,
+      "height": 90,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          282,
+          13
+        ],
+        "enhancedSize": [
+          564,
+          26
+        ]
+      },
+      "src": "/images/products/double-medical/marathon-instrument-set/page-175-art-03.webp",
+      "imageCaption": {
+        "ru": "Сверло, с быстросъёмным соединением, Ø2.2, полукруглое",
+        "en": "Drill Bit, with Quick Coupling, Ø2.2, semicircle"
+      },
+      "sourcePages": [
+        175
+      ]
+    },
+    {
+      "width": 638,
+      "height": 90,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          287,
+          13
+        ],
+        "enhancedSize": [
+          574,
+          26
+        ]
+      },
+      "src": "/images/products/double-medical/marathon-instrument-set/page-175-art-04.webp",
+      "imageCaption": {
+        "ru": "Сверло, с быстросъёмным соединением, Ø2.7, полукруглое",
+        "en": "Drill Bit, with Quick Coupling, Ø2.7, semicircle"
+      },
+      "sourcePages": [
+        175
+      ]
+    },
+    {
+      "width": 630,
+      "height": 90,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          283,
+          13
+        ],
+        "enhancedSize": [
+          566,
+          26
+        ]
+      },
+      "src": "/images/products/double-medical/marathon-instrument-set/page-175-art-05.webp",
+      "imageCaption": {
+        "ru": "Сверло, с быстросъёмным соединением, Ø2.5, полукруглое",
+        "en": "Drill Bit, with Quick Coupling, Ø2.5, semicircle"
+      },
+      "sourcePages": [
+        175
+      ]
+    },
+    {
+      "width": 860,
+      "height": 100,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          399,
+          18
+        ],
+        "enhancedSize": [
+          798,
+          36
+        ]
+      },
+      "src": "/images/products/double-medical/marathon-instrument-set/page-175-art-06.webp",
+      "imageCaption": {
+        "ru": "Метчик, для кортикальных винтов 3.5",
+        "en": "Tap, for Cortex Screws 3.5"
+      },
+      "sourcePages": [
+        175
+      ]
+    }
+  ],
+  "features": [],
+  "components": [
+    {
+      "id": "trauma-175-01",
+      "groupId": "trauma-set-175-p175",
+      "name": {
+        "ru": "Спица-проводник, Ø1.5, длина 150 мм",
+        "en": "Guide Wire, Ø1.5, length 150mm"
+      },
+      "image": "",
+      "refCodes": [
+        "110060100"
+      ],
+      "sourcePages": [
+        175
+      ],
+      "sourceBounds": [
+        0.08,
+        0.1489598904324007,
+        0.56,
+        0.24004365483223683
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 175,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p175",
+          "row": 1,
+          "column": 2,
+          "pdfPage": 175,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "110060100"
+            },
+            {
+              "reader": "PSM11",
+              "text": "110060100"
+            },
+            {
+              "reader": "Vision",
+              "text": "110060100"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-175-02",
+      "groupId": "trauma-set-175-p175",
+      "name": {
+        "ru": "Сверлильная втулка, для спицы-проводника, 1.6",
+        "en": "Drill Sleeve, for Guide Wire, 1.6"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-175-art-01.webp",
+      "refCodes": [
+        "112250100"
+      ],
+      "sourcePages": [
+        175
+      ],
+      "sourceBounds": [
+        0.08,
+        0.23935315985130112,
+        0.56,
+        0.3280268421883388
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 175,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p175",
+          "row": 2,
+          "column": 2,
+          "pdfPage": 175,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112250100"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112250100"
+            },
+            {
+              "reader": "Vision",
+              "text": "112250100"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-175-03",
+      "groupId": "trauma-set-175-p175",
+      "name": {
+        "ru": "Сверло, с быстросъёмным соединением, Ø2.0, полукруглое",
+        "en": "Drill Bit, with Quick Coupling, Ø2.0, semicircle"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-175-art-02.webp",
+      "refCodes": [
+        "112250200"
+      ],
+      "sourcePages": [
+        175
+      ],
+      "sourceBounds": [
+        0.08,
+        0.32720289571512423,
+        0.56,
+        0.4292781566402738
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 175,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p175",
+          "row": 3,
+          "column": 2,
+          "pdfPage": 175,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112250200"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112250200"
+            },
+            {
+              "reader": "Vision",
+              "text": "112250200"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-175-04",
+      "groupId": "trauma-set-175-p175",
+      "name": {
+        "ru": "Сверло, с быстросъёмным соединением, Ø2.2, полукруглое",
+        "en": "Drill Bit, with Quick Coupling, Ø2.2, semicircle"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-175-art-03.webp",
+      "refCodes": [
+        "112250500"
+      ],
+      "sourcePages": [
+        175
+      ],
+      "sourceBounds": [
+        0.08,
+        0.42855292506358833,
+        0.56,
+        0.5430980500032146
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 175,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p175",
+          "row": 4,
+          "column": 2,
+          "pdfPage": 175,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112250500"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112250500"
+            },
+            {
+              "reader": "Vision",
+              "text": "112250500"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-175-05",
+      "groupId": "trauma-set-175-p175",
+      "name": {
+        "ru": "Сверло, с быстросъёмным соединением, Ø2.7, полукруглое",
+        "en": "Drill Bit, with Quick Coupling, Ø2.7, semicircle"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-175-art-04.webp",
+      "refCodes": [
+        "112250800"
+      ],
+      "sourcePages": [
+        175
+      ],
+      "sourceBounds": [
+        0.08,
+        0.5422293093328115,
+        0.56,
+        0.6661682215831067
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 175,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p175",
+          "row": 5,
+          "column": 2,
+          "pdfPage": 175,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112250800"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112250800"
+            },
+            {
+              "reader": "Vision",
+              "text": "112250800"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-175-06",
+      "groupId": "trauma-set-175-p175",
+      "name": {
+        "ru": "Сверло, с быстросъёмным соединением, Ø2.5, полукруглое",
+        "en": "Drill Bit, with Quick Coupling, Ø2.5, semicircle"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-175-art-05.webp",
+      "refCodes": [
+        "112251100"
+      ],
+      "sourcePages": [
+        175
+      ],
+      "sourceBounds": [
+        0.08,
+        0.6652972021130894,
+        0.56,
+        0.7560739472889597
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 175,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p175",
+          "row": 6,
+          "column": 2,
+          "pdfPage": 175,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112251100"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112251100"
+            },
+            {
+              "reader": "Vision",
+              "text": "112251100"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-175-07",
+      "groupId": "trauma-set-175-p175",
+      "name": {
+        "ru": "Метчик, для кортикальных винтов 3.5",
+        "en": "Tap, for Cortex Screws 3.5"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-175-art-06.webp",
+      "refCodes": [
+        "110015800"
+      ],
+      "sourcePages": [
+        175
+      ],
+      "sourceBounds": [
+        0.08,
+        0.7552991586773625,
+        0.56,
+        0.8433586314532548
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 175,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p175",
+          "row": 7,
+          "column": 2,
+          "pdfPage": 175,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "110015800"
+            },
+            {
+              "reader": "PSM11",
+              "text": "110015800"
+            },
+            {
+              "reader": "Vision",
+              "text": "110015800"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-175-08",
+      "groupId": "trauma-set-175-p175",
+      "name": {
+        "ru": "Стержень отвёртки, со шлицем Torx • '",
+        "en": "Screwdriver Shaft, torxdrive • '"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-175-art-07.webp",
+      "refCodes": [
+        "112251600"
+      ],
+      "sourcePages": [
+        175
+      ],
+      "sourceBounds": [
+        0.08,
+        0.8425619252592448,
+        0.56,
+        0.93
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 175,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p175",
+          "row": 8,
+          "column": 2,
+          "pdfPage": 175,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112251600"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112251600"
+            },
+            {
+              "reader": "Vision",
+              "text": "112251600"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-176-01",
+      "groupId": "trauma-set-175-p176",
+      "name": {
+        "ru": "Стержень отвёртки, прямоугольный",
+        "en": "Screwdriver Shaft, rectangular"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-176-art-01.webp",
+      "refCodes": [
+        "112251300"
+      ],
+      "sourcePages": [
+        176
+      ],
+      "sourceBounds": [
+        0.08,
+        0.1489598904324007,
+        0.56,
+        0.23616449145563945
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 176,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p176",
+          "row": 1,
+          "column": 2,
+          "pdfPage": 176,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112251300"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112251300"
+            },
+            {
+              "reader": "Vision",
+              "text": "112251300"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-176-02",
+      "groupId": "trauma-set-175-p176",
+      "name": {
+        "ru": "Глубиномер, 3.5",
+        "en": "Depth Gauge, 3.5"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-176-art-02.webp",
+      "refCodes": [
+        "110040400"
+      ],
+      "sourcePages": [
+        176
+      ],
+      "sourceBounds": [
+        0.08,
+        0.23544003130502836,
+        0.56,
+        0.31615616933027096
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 176,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p176",
+          "row": 2,
+          "column": 2,
+          "pdfPage": 176,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "110040400"
+            },
+            {
+              "reader": "PSM11",
+              "text": "110040400"
+            },
+            {
+              "reader": "Vision",
+              "text": "110040400"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-176-03",
+      "groupId": "trauma-set-175-p176",
+      "name": {
+        "ru": "Сверлильная втулка, быстрое позиционирование, Ø2.1/Ø4.7",
+        "en": "Drill Sleeve, quick guiding, Ø2.1/Ø4.7"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-176-art-03.webp",
+      "refCodes": [
+        "112250300"
+      ],
+      "sourcePages": [
+        176
+      ],
+      "sourceBounds": [
+        0.08,
+        0.315463510076306,
+        0.56,
+        0.4132169124855169
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 176,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p176",
+          "row": 3,
+          "column": 2,
+          "pdfPage": 176,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112250300"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112250300"
+            },
+            {
+              "reader": "Vision",
+              "text": "112250300"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-176-04",
+      "groupId": "trauma-set-175-p176",
+      "name": {
+        "ru": "Сверлильная втулка, со шкалой, Ø2.1/Ø7.0",
+        "en": "Drill Sleeve, with Scale, Ø2.1/Ø7.0"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-176-art-04.webp",
+      "refCodes": [
+        "112250400"
+      ],
+      "sourcePages": [
+        176
+      ],
+      "sourceBounds": [
+        0.08,
+        0.4125090980238701,
+        0.56,
+        0.5060902193231351
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 176,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p176",
+          "row": 4,
+          "column": 2,
+          "pdfPage": 176,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112250400"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112250400"
+            },
+            {
+              "reader": "Vision",
+              "text": "112250400"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-176-05",
+      "groupId": "trauma-set-175-p176",
+      "name": {
+        "ru": "Сверлильная втулка, быстрое позиционирование, Ø2.3/Ø4.7",
+        "en": "Drill Sleeve, quick guiding, Ø2.3/Ø4.7"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-176-art-05.webp",
+      "refCodes": [
+        "112250600"
+      ],
+      "sourcePages": [
+        176
+      ],
+      "sourceBounds": [
+        0.08,
+        0.5052502445705341,
+        0.56,
+        0.5963432808043541
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 176,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p176",
+          "row": 5,
+          "column": 2,
+          "pdfPage": 176,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112250600"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112250600"
+            },
+            {
+              "reader": "Vision",
+              "text": "112250600"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-176-06",
+      "groupId": "trauma-set-175-p176",
+      "name": {
+        "ru": "Сверлильная втулка, со шкалой, Ø2.3/Ø7.0",
+        "en": "Drill Sleeve, with Scale, Ø2.3/Ø7.0"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-176-art-06.webp",
+      "refCodes": [
+        "112250700"
+      ],
+      "sourcePages": [
+        176
+      ],
+      "sourceBounds": [
+        0.08,
+        0.5956435139894345,
+        0.56,
+        0.683628562107518
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 176,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p176",
+          "row": 6,
+          "column": 2,
+          "pdfPage": 176,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112250700"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112250700"
+            },
+            {
+              "reader": "Vision",
+              "text": "112250700"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-176-07",
+      "groupId": "trauma-set-175-p176",
+      "name": {
+        "ru": "Сверлильная втулка, быстрое позиционирование, Ø2.8/Ø4.7",
+        "en": "Drill Sleeve, quick guiding, Ø2.8/Ø4.7"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-176-art-07.webp",
+      "refCodes": [
+        "112250900"
+      ],
+      "sourcePages": [
+        176
+      ],
+      "sourceBounds": [
+        0.08,
+        0.6829062805713167,
+        0.56,
+        0.780513149296461
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 176,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p176",
+          "row": 7,
+          "column": 2,
+          "pdfPage": 176,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112250900"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112250900"
+            },
+            {
+              "reader": "Vision",
+              "text": "112250900"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-176-08",
+      "groupId": "trauma-set-175-p176",
+      "name": {
+        "ru": "Сверлильная втулка, со шкалой, Ø2.8/Ø7.0",
+        "en": "Drill Sleeve, with Scale, Ø2.8/Ø7.0"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-176-art-08.webp",
+      "refCodes": [
+        "112251000"
+      ],
+      "sourcePages": [
+        176
+      ],
+      "sourceBounds": [
+        0.08,
+        0.7797562120915672,
+        0.56,
+        0.93
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 176,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p176",
+          "row": 8,
+          "column": 2,
+          "pdfPage": 176,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112251000"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112251000"
+            },
+            {
+              "reader": "Vision",
+              "text": "112251000"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-177-01",
+      "groupId": "trauma-set-175-p177",
+      "name": {
+        "ru": "Контейнер для сверлильных втулок, для стопы и голеностопного сустава",
+        "en": "Drill Sleeve Box, for Foot & Ankle"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-177-art-01.webp",
+      "refCodes": [
+        "112252100"
+      ],
+      "sourcePages": [
+        177
+      ],
+      "sourceBounds": [
+        0.08,
+        0.14954685971434162,
+        0.56,
+        0.2687256777874492
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 177,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p177",
+          "row": 1,
+          "column": 2,
+          "pdfPage": 177,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112252100"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112252100"
+            },
+            {
+              "reader": "Vision",
+              "text": "112252100"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-177-02",
+      "groupId": "trauma-set-175-p177",
+      "name": {
+        "ru": "Контейнер инструментов — Набор инструментов MARATHON",
+        "en": "Screw Case"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-177-art-02.webp",
+      "refCodes": [
+        "112258200"
+      ],
+      "sourcePages": [
+        177
+      ],
+      "sourceBounds": [
+        0.08,
+        0.26791899823909215,
+        0.56,
+        0.47210067681709855
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 177,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p177",
+          "row": 2,
+          "column": 2,
+          "pdfPage": 177,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112258200"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112258200"
+            },
+            {
+              "reader": "Vision",
+              "text": "112258200"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-177-03",
+      "groupId": "trauma-set-175-p177",
+      "name": {
+        "ru": "Щипцы для винтов, самоудерживающиеся",
+        "en": "Screw Forceps, self-holding"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-177-art-03.webp",
+      "refCodes": [
+        "110011200"
+      ],
+      "sourcePages": [
+        177
+      ],
+      "sourceBounds": [
+        0.08,
+        0.4714016826452749,
+        0.56,
+        0.5942984782712113
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 177,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p177",
+          "row": 3,
+          "column": 2,
+          "pdfPage": 177,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "110011200"
+            },
+            {
+              "reader": "PSM11",
+              "text": "110011200"
+            },
+            {
+              "reader": "Vision",
+              "text": "110011200"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-177-04",
+      "groupId": "trauma-set-175-p177",
+      "name": {
+        "ru": "Двухканальный направитель сверла, 92.5/93.5",
+        "en": "Double Drill Guide, 92.5/93.5"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-177-art-04.webp",
+      "refCodes": [
+        "110010100"
+      ],
+      "sourcePages": [
+        177
+      ],
+      "sourceBounds": [
+        0.08,
+        0.5934912932889845,
+        0.56,
+        0.6920032854580562
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 177,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p177",
+          "row": 4,
+          "column": 2,
+          "pdfPage": 177,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "110010100"
+            },
+            {
+              "reader": "PSM11",
+              "text": "110010100"
+            },
+            {
+              "reader": "Vision",
+              "text": "110010100"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-177-05",
+      "groupId": "trauma-set-175-p177",
+      "name": {
+        "ru": "Рукоятка, для динамометрической отвёртки, 2.0Н·м",
+        "en": "Handle, for Torque Indicating Screwdriver, 2.0N.m"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-177-art-05.webp",
+      "refCodes": [
+        "112251500"
+      ],
+      "sourcePages": [
+        177
+      ],
+      "sourceBounds": [
+        0.08,
+        0.6911238505184896,
+        0.56,
+        0.7795283180170531
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 177,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p177",
+          "row": 5,
+          "column": 2,
+          "pdfPage": 177,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112251500"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112251500"
+            },
+            {
+              "reader": "Vision",
+              "text": "112251500"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-177-06",
+      "groupId": "trauma-set-175-p177",
+      "name": {
+        "ru": "Рукоятка, с быстросъёмным соединением, синяя",
+        "en": "Handle, with Quick Coupling, blue"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-177-art-06.webp",
+      "refCodes": [
+        "111601100"
+      ],
+      "sourcePages": [
+        177
+      ],
+      "sourceBounds": [
+        0.08,
+        0.7787779299549991,
+        0.56,
+        0.93
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 177,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p177",
+          "row": 6,
+          "column": 2,
+          "pdfPage": 177,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "111601100"
+            },
+            {
+              "reader": "PSM11",
+              "text": "111601100"
+            },
+            {
+              "reader": "Vision",
+              "text": "111601100"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-178-01",
+      "groupId": "trauma-set-175-p178",
+      "name": {
+        "ru": "Гибочный инструмент",
+        "en": "Bending Iron"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-178-art-01.webp",
+      "refCodes": [
+        "112251900"
+      ],
+      "sourcePages": [
+        178
+      ],
+      "sourceBounds": [
+        0.08,
+        0.14954685971434162,
+        0.56,
+        0.27274019264098
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 178,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p178",
+          "row": 1,
+          "column": 2,
+          "pdfPage": 178,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112251900"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112251900"
+            },
+            {
+              "reader": "Vision",
+              "text": "112251900"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-178-02",
+      "groupId": "trauma-set-175-p178",
+      "name": {
+        "ru": "Отвёртка, со шлицем Torx",
+        "en": "Screwdriver, torxdrive"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-178-art-02.webp",
+      "refCodes": [
+        "112251700"
+      ],
+      "sourcePages": [
+        178
+      ],
+      "sourceBounds": [
+        0.08,
+        0.2720277832126785,
+        0.56,
+        0.37957789049547996
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 178,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p178",
+          "row": 2,
+          "column": 2,
+          "pdfPage": 178,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112251700"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112251700"
+            },
+            {
+              "reader": "Vision",
+              "text": "112251700"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-178-03",
+      "groupId": "trauma-set-175-p178",
+      "name": {
+        "ru": "Отвёртка, прямоугольная",
+        "en": "Screwdriver, rectangular"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-178-art-03.webp",
+      "refCodes": [
+        "112251800"
+      ],
+      "sourcePages": [
+        178
+      ],
+      "sourceBounds": [
+        0.08,
+        0.37885619252592445,
+        0.56,
+        0.47385517033684804
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 178,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p178",
+          "row": 3,
+          "column": 2,
+          "pdfPage": 178,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112251800"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112251800"
+            },
+            {
+              "reader": "Vision",
+              "text": "112251800"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-178-04",
+      "groupId": "trauma-set-175-p178",
+      "name": {
+        "ru": "Костный ретрактор",
+        "en": "Bone Retractor"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-178-art-04.webp",
+      "refCodes": [
+        "112252200"
+      ],
+      "sourcePages": [
+        178
+      ],
+      "sourceBounds": [
+        0.08,
+        0.472966934063784,
+        0.56,
+        0.5785894465259157
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 178,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p178",
+          "row": 4,
+          "column": 2,
+          "pdfPage": 178,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112252200"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112252200"
+            },
+            {
+              "reader": "Vision",
+              "text": "112252200"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-178-05",
+      "groupId": "trauma-set-175-p178",
+      "name": {
+        "ru": "Костный ретрактор II",
+        "en": "Bone Retractor II"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-178-art-05.webp",
+      "refCodes": [
+        "112252300"
+      ],
+      "sourcePages": [
+        178
+      ],
+      "sourceBounds": [
+        0.08,
+        0.5778387791038936,
+        0.56,
+        0.6812365233221542
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 178,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p178",
+          "row": 5,
+          "column": 2,
+          "pdfPage": 178,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112252300"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112252300"
+            },
+            {
+              "reader": "Vision",
+              "text": "112252300"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-178-06",
+      "groupId": "trauma-set-175-p178",
+      "name": {
+        "ru": "Костный рычаг II",
+        "en": "Bone Lever II"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-178-art-06.webp",
+      "refCodes": [
+        "112252400"
+      ],
+      "sourcePages": [
+        178
+      ],
+      "sourceBounds": [
+        0.08,
+        0.6803627470162394,
+        0.56,
+        0.7831856940654548
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 178,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p178",
+          "row": 6,
+          "column": 2,
+          "pdfPage": 178,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112252400"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112252400"
+            },
+            {
+              "reader": "Vision",
+              "text": "112252400"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-178-07",
+      "groupId": "trauma-set-175-p178",
+      "name": {
+        "ru": "Костный рычаг",
+        "en": "Bone Lever"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-178-art-07.webp",
+      "refCodes": [
+        "112252500"
+      ],
+      "sourcePages": [
+        178
+      ],
+      "sourceBounds": [
+        0.08,
+        0.7822997456466445,
+        0.56,
+        0.93
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 178,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p178",
+          "row": 7,
+          "column": 2,
+          "pdfPage": 178,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112252500"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112252500"
+            },
+            {
+              "reader": "Vision",
+              "text": "112252500"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-179-01",
+      "groupId": "trauma-set-175-p179",
+      "name": {
+        "ru": "Распатор III",
+        "en": "Periosteal Elevator III"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-179-art-01.webp",
+      "refCodes": [
+        "112252600"
+      ],
+      "sourcePages": [
+        179
+      ],
+      "sourceBounds": [
+        0.08,
+        0.14837292115045977,
+        0.56,
+        0.2606575354844797
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 179,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p179",
+          "row": 1,
+          "column": 2,
+          "pdfPage": 179,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112252600"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112252600"
+            },
+            {
+              "reader": "Vision",
+              "text": "112252600"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-179-02",
+      "groupId": "trauma-set-175-p179",
+      "name": {
+        "ru": "Распатор II",
+        "en": "Periosteal Elevator II"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-179-art-02.webp",
+      "refCodes": [
+        "112252700"
+      ],
+      "sourcePages": [
+        179
+      ],
+      "sourceBounds": [
+        0.08,
+        0.259897084719233,
+        0.56,
+        0.3610364798106353
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 179,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p179",
+          "row": 2,
+          "column": 2,
+          "pdfPage": 179,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112252700"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112252700"
+            },
+            {
+              "reader": "Vision",
+              "text": "112252700"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-179-03",
+      "groupId": "trauma-set-175-p179",
+      "name": {
+        "ru": "Распатор I",
+        "en": "Periosteal Elevator I"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-179-art-03.webp",
+      "refCodes": [
+        "112252800"
+      ],
+      "sourcePages": [
+        179
+      ],
+      "sourceBounds": [
+        0.08,
+        0.3602688319311289,
+        0.56,
+        0.4727642971466515
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 179,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p179",
+          "row": 3,
+          "column": 2,
+          "pdfPage": 179,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112252800"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112252800"
+            },
+            {
+              "reader": "Vision",
+              "text": "112252800"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-179-04",
+      "groupId": "trauma-set-175-p179",
+      "name": {
+        "ru": "Остеотом I",
+        "en": "Osteotome I"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-179-art-04.webp",
+      "refCodes": [
+        "112252900"
+      ],
+      "sourcePages": [
+        179
+      ],
+      "sourceBounds": [
+        0.08,
+        0.4719886519272158,
+        0.56,
+        0.5743254271483613
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 179,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p179",
+          "row": 4,
+          "column": 2,
+          "pdfPage": 179,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112252900"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112252900"
+            },
+            {
+              "reader": "Vision",
+              "text": "112252900"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-179-05",
+      "groupId": "trauma-set-175-p179",
+      "name": {
+        "ru": "Остеотом II",
+        "en": "Osteotome II"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-179-art-05.webp",
+      "refCodes": [
+        "112253000"
+      ],
+      "sourcePages": [
+        179
+      ],
+      "sourceBounds": [
+        0.08,
+        0.5735343377029936,
+        0.56,
+        0.6726465811709774
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 179,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p179",
+          "row": 5,
+          "column": 2,
+          "pdfPage": 179,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112253000"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112253000"
+            },
+            {
+              "reader": "Vision",
+              "text": "112253000"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-179-06",
+      "groupId": "trauma-set-175-p179",
+      "name": {
+        "ru": "Остеотом III",
+        "en": "Osteotome III"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-179-art-06.webp",
+      "refCodes": [
+        "112253100"
+      ],
+      "sourcePages": [
+        179
+      ],
+      "sourceBounds": [
+        0.08,
+        0.6717538642144394,
+        0.56,
+        0.7869915088843316
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 179,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p179",
+          "row": 6,
+          "column": 2,
+          "pdfPage": 179,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112253100"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112253100"
+            },
+            {
+              "reader": "Vision",
+              "text": "112253100"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-179-07",
+      "groupId": "trauma-set-175-p179",
+      "name": {
+        "ru": "Гибочные щипцы",
+        "en": "Bending Pliers"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-179-art-07.webp",
+      "refCodes": [
+        "111970300"
+      ],
+      "sourcePages": [
+        179
+      ],
+      "sourceBounds": [
+        0.08,
+        0.7862128741929172,
+        0.56,
+        0.93
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 179,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p179",
+          "row": 7,
+          "column": 2,
+          "pdfPage": 179,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "111970300"
+            },
+            {
+              "reader": "PSM11",
+              "text": "111970300"
+            },
+            {
+              "reader": "Vision",
+              "text": "111970300"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-180-01",
+      "groupId": "trauma-set-175-p180",
+      "name": {
+        "ru": "Репозиционные щипцы",
+        "en": "Reduction Forceps"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-180-art-01.webp",
+      "refCodes": [
+        "112253200"
+      ],
+      "sourcePages": [
+        180
+      ],
+      "sourceBounds": [
+        0.08,
+        0.14837292115045977,
+        0.56,
+        0.2576914969614589
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 180,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p180",
+          "row": 1,
+          "column": 2,
+          "pdfPage": 180,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112253200"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112253200"
+            },
+            {
+              "reader": "Vision",
+              "text": "112253200"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-180-02",
+      "groupId": "trauma-set-175-p180",
+      "name": {
+        "ru": "Расширяющие щипцы",
+        "en": "Spreader Forceps"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-180-art-02.webp",
+      "refCodes": [
+        "112253300"
+      ],
+      "sourcePages": [
+        180
+      ],
+      "sourceBounds": [
+        0.08,
+        0.25696223830952847,
+        0.56,
+        0.3645308369478481
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 180,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p180",
+          "row": 2,
+          "column": 2,
+          "pdfPage": 180,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112253300"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112253300"
+            },
+            {
+              "reader": "Vision",
+              "text": "112253300"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-180-03",
+      "groupId": "trauma-set-175-p180",
+      "name": {
+        "ru": "Расширяющие щипцы II",
+        "en": "Spreader Forceps II"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-180-art-03.webp",
+      "refCodes": [
+        "112253400"
+      ],
+      "sourcePages": [
+        180
+      ],
+      "sourceBounds": [
+        0.08,
+        0.3637906476227744,
+        0.56,
+        0.5076784594294895
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 180,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p180",
+          "row": 3,
+          "column": 2,
+          "pdfPage": 180,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112253400"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112253400"
+            },
+            {
+              "reader": "Vision",
+              "text": "112253400"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-180-04",
+      "groupId": "trauma-set-175-p180",
+      "name": {
+        "ru": "Расширяющие щипцы III",
+        "en": "Spreader Forceps III"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-180-art-04.webp",
+      "refCodes": [
+        "112253500"
+      ],
+      "sourcePages": [
+        180
+      ],
+      "sourceBounds": [
+        0.08,
+        0.5068154959890432,
+        0.56,
+        0.6543171547845652
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 180,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p180",
+          "row": 4,
+          "column": 2,
+          "pdfPage": 180,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112253500"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112253500"
+            },
+            {
+              "reader": "Vision",
+              "text": "112253500"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-180-05",
+      "groupId": "trauma-set-175-p180",
+      "name": {
+        "ru": "Костные кусачки",
+        "en": "Bone Rongeur"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-180-art-05.webp",
+      "refCodes": [
+        "112253600"
+      ],
+      "sourcePages": [
+        180
+      ],
+      "sourceBounds": [
+        0.08,
+        0.6535578164742711,
+        0.56,
+        0.7695344526236988
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 180,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p180",
+          "row": 5,
+          "column": 2,
+          "pdfPage": 180,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112253600"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112253600"
+            },
+            {
+              "reader": "Vision",
+              "text": "112253600"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-180-06",
+      "groupId": "trauma-set-175-p180",
+      "name": {
+        "ru": "Костные кусачки II",
+        "en": "Bone Rongeur II"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-180-art-06.webp",
+      "refCodes": [
+        "112253700"
+      ],
+      "sourcePages": [
+        180
+      ],
+      "sourceBounds": [
+        0.08,
+        0.7687994521620035,
+        0.56,
+        0.93
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 180,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p180",
+          "row": 6,
+          "column": 2,
+          "pdfPage": 180,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112253700"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112253700"
+            },
+            {
+              "reader": "Vision",
+              "text": "112253700"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-181-01",
+      "groupId": "trauma-set-175-p181",
+      "name": {
+        "ru": "Кусачки",
+        "en": "Cutting Pliers"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-181-art-01.webp",
+      "refCodes": [
+        "112253800"
+      ],
+      "sourcePages": [
+        181
+      ],
+      "sourceBounds": [
+        0.08,
+        0.1511121111328507,
+        0.56,
+        0.27031386813223124
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 181,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p181",
+          "row": 1,
+          "column": 2,
+          "pdfPage": 181,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112253800"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112253800"
+            },
+            {
+              "reader": "Vision",
+              "text": "112253800"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-181-02",
+      "groupId": "trauma-set-175-p181",
+      "name": {
+        "ru": "Удерживающая втулка, для винтов",
+        "en": "Holding Sleeve, for Screws"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-181-art-02.webp",
+      "refCodes": [
+        "112259900"
+      ],
+      "sourcePages": [
+        181
+      ],
+      "sourceBounds": [
+        0.08,
+        0.26948424965760126,
+        0.56,
+        0.37330987307415253
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 181,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p181",
+          "row": 2,
+          "column": 2,
+          "pdfPage": 181,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112259900"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112259900"
+            },
+            {
+              "reader": "Vision",
+              "text": "112259900"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-181-03",
+      "groupId": "trauma-set-175-p181",
+      "name": {
+        "ru": "Спица-проводник, 42.0, длина 230 мм",
+        "en": "Guide Wire, 42.0, length 230mm"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-181-art-03.webp",
+      "refCodes": [
+        "112254500"
+      ],
+      "sourcePages": [
+        181
+      ],
+      "sourceBounds": [
+        0.08,
+        0.3725951868518881,
+        0.56,
+        0.4736888671618806
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 181,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p181",
+          "row": 3,
+          "column": 2,
+          "pdfPage": 181,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112254500"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112254500"
+            },
+            {
+              "reader": "Vision",
+              "text": "112254500"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-181-04",
+      "groupId": "trauma-set-175-p181",
+      "name": {
+        "ru": "Репозиционные щипцы, изогнутый",
+        "en": "Reduction Forceps, curved"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-181-art-04.webp",
+      "refCodes": [
+        "110223300"
+      ],
+      "sourcePages": [
+        181
+      ],
+      "sourceBounds": [
+        0.08,
+        0.472966934063784,
+        0.56,
+        0.93
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 181,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p181",
+          "row": 4,
+          "column": 2,
+          "pdfPage": 181,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "110223300"
+            },
+            {
+              "reader": "PSM11",
+              "text": "110223300"
+            },
+            {
+              "reader": "Vision",
+              "text": "110223300"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    },
+    {
+      "id": "trauma-182-01",
+      "groupId": "trauma-set-175-p182",
+      "name": {
+        "ru": "Контейнер инструментов — Набор инструментов MARATHON",
+        "en": "MARATHON Instrument Case"
+      },
+      "image": "/images/products/double-medical/marathon-instrument-set/page-182-art-01.webp",
+      "refCodes": [
+        "112258100"
+      ],
+      "sourcePages": [
+        182
+      ],
+      "sourceBounds": [
+        0.08,
+        0.1511121111328507,
+        0.56,
+        0.93
+      ],
+      "coordinateSpace": "normalized",
+      "pdfPage": 182,
+      "codeEvidence": [
+        {
+          "tableId": "trauma-set-175-p182",
+          "row": 1,
+          "column": 2,
+          "pdfPage": 182,
+          "readings": [
+            {
+              "reader": "PSM3",
+              "text": "112258100"
+            },
+            {
+              "reader": "PSM11",
+              "text": "112258100"
+            },
+            {
+              "reader": "Vision",
+              "text": "112258100"
+            }
+          ],
+          "verificationStatus": "verified (three readers compared; exact agreement)"
+        }
+      ]
+    }
+  ],
+  "specTables": [
+    {
+      "id": "trauma-set-175-p175",
+      "groupId": "trauma-set-175-p175",
+      "title": {
+        "ru": "Инструменты · 3/34",
+        "en": "Instruments · 3/34"
+      },
+      "unit": "mm",
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Спица-проводник, Ø1.5, длина 150 мм",
+            "en": "Guide Wire, Ø1.5, length 150mm"
+          },
+          "110060100"
+        ],
+        [
+          {
+            "ru": "Сверлильная втулка, для спицы-проводника, 1.6",
+            "en": "Drill Sleeve, for Guide Wire, 1.6"
+          },
+          "112250100"
+        ],
+        [
+          {
+            "ru": "Сверло, с быстросъёмным соединением, Ø2.0, полукруглое",
+            "en": "Drill Bit, with Quick Coupling, Ø2.0, semicircle"
+          },
+          "112250200"
+        ],
+        [
+          {
+            "ru": "Сверло, с быстросъёмным соединением, Ø2.2, полукруглое",
+            "en": "Drill Bit, with Quick Coupling, Ø2.2, semicircle"
+          },
+          "112250500"
+        ],
+        [
+          {
+            "ru": "Сверло, с быстросъёмным соединением, Ø2.7, полукруглое",
+            "en": "Drill Bit, with Quick Coupling, Ø2.7, semicircle"
+          },
+          "112250800"
+        ],
+        [
+          {
+            "ru": "Сверло, с быстросъёмным соединением, Ø2.5, полукруглое",
+            "en": "Drill Bit, with Quick Coupling, Ø2.5, semicircle"
+          },
+          "112251100"
+        ],
+        [
+          {
+            "ru": "Метчик, для кортикальных винтов 3.5",
+            "en": "Tap, for Cortex Screws 3.5"
+          },
+          "110015800"
+        ],
+        [
+          {
+            "ru": "Стержень отвёртки, со шлицем Torx • '",
+            "en": "Screwdriver Shaft, torxdrive • '"
+          },
+          "112251600"
+        ]
+      ],
+      "rowImages": [
+        null,
+        {
+          "width": 500,
+          "height": 186,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              218,
+              61
+            ],
+            "enhancedSize": [
+              436,
+              122
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-175-art-01.webp",
+          "imageCaption": {
+            "ru": "Сверлильная втулка, для спицы-проводника, 1.6",
+            "en": "Drill Sleeve, for Guide Wire, 1.6"
+          },
+          "sourcePages": [
+            175
+          ]
+        },
+        {
+          "width": 634,
+          "height": 90,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              285,
+              13
+            ],
+            "enhancedSize": [
+              570,
+              26
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-175-art-02.webp",
+          "imageCaption": {
+            "ru": "Сверло, с быстросъёмным соединением, Ø2.0, полукруглое",
+            "en": "Drill Bit, with Quick Coupling, Ø2.0, semicircle"
+          },
+          "sourcePages": [
+            175
+          ]
+        },
+        {
+          "width": 626,
+          "height": 90,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              282,
+              13
+            ],
+            "enhancedSize": [
+              564,
+              26
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-175-art-03.webp",
+          "imageCaption": {
+            "ru": "Сверло, с быстросъёмным соединением, Ø2.2, полукруглое",
+            "en": "Drill Bit, with Quick Coupling, Ø2.2, semicircle"
+          },
+          "sourcePages": [
+            175
+          ]
+        },
+        {
+          "width": 638,
+          "height": 90,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              287,
+              13
+            ],
+            "enhancedSize": [
+              574,
+              26
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-175-art-04.webp",
+          "imageCaption": {
+            "ru": "Сверло, с быстросъёмным соединением, Ø2.7, полукруглое",
+            "en": "Drill Bit, with Quick Coupling, Ø2.7, semicircle"
+          },
+          "sourcePages": [
+            175
+          ]
+        },
+        {
+          "width": 630,
+          "height": 90,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              283,
+              13
+            ],
+            "enhancedSize": [
+              566,
+              26
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-175-art-05.webp",
+          "imageCaption": {
+            "ru": "Сверло, с быстросъёмным соединением, Ø2.5, полукруглое",
+            "en": "Drill Bit, with Quick Coupling, Ø2.5, semicircle"
+          },
+          "sourcePages": [
+            175
+          ]
+        },
+        {
+          "width": 860,
+          "height": 100,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              399,
+              18
+            ],
+            "enhancedSize": [
+              798,
+              36
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-175-art-06.webp",
+          "imageCaption": {
+            "ru": "Метчик, для кортикальных винтов 3.5",
+            "en": "Tap, for Cortex Screws 3.5"
+          },
+          "sourcePages": [
+            175
+          ]
+        },
+        {
+          "width": 860,
+          "height": 106,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              398,
+              21
+            ],
+            "enhancedSize": [
+              796,
+              42
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-175-art-07.webp",
+          "imageCaption": {
+            "ru": "Стержень отвёртки, со шлицем Torx • '",
+            "en": "Screwdriver Shaft, torxdrive • '"
+          },
+          "sourcePages": [
+            175
+          ]
+        }
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 175,
+          "sourceBounds": [
+            0.08,
+            0.1489598904324007,
+            0.56,
+            0.24004365483223683
+          ],
+          "printedPage": "3/34",
+          "sourceRowId": "175-01",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p175",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 175,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "110060100"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "110060100"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "110060100"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Guide Wire, 01.5, length 150mm",
+            "PSM11": "Guide Wire, 01.5, length 150mm",
+            "Vision": "Guide Wire, 41.5, length 150mm"
+          }
+        },
+        {
+          "pdfPage": 175,
+          "sourceBounds": [
+            0.08,
+            0.23935315985130112,
+            0.56,
+            0.3280268421883388
+          ],
+          "printedPage": "3/34",
+          "sourceRowId": "175-02",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p175",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 175,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112250100"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112250100"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112250100"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Drill Sleeve, for Guide Wire, 1.6",
+            "PSM11": "Drill Sleeve, for Guide Wire, 1.6",
+            "Vision": "Drill Sleeve, for Guide Wire, $1.6"
+          }
+        },
+        {
+          "pdfPage": 175,
+          "sourceBounds": [
+            0.08,
+            0.32720289571512423,
+            0.56,
+            0.4292781566402738
+          ],
+          "printedPage": "3/34",
+          "sourceRowId": "175-03",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p175",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 175,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112250200"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112250200"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112250200"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Drill Bit, with Quick Coupling, 02.0, semicircle",
+            "PSM11": "Drill Bit, with Quick Coupling, 02.0, semicircle",
+            "Vision": "Drill Bit, with Quick Coupling, $2.0, semicircle"
+          }
+        },
+        {
+          "pdfPage": 175,
+          "sourceBounds": [
+            0.08,
+            0.42855292506358833,
+            0.56,
+            0.5430980500032146
+          ],
+          "printedPage": "3/34",
+          "sourceRowId": "175-04",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p175",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 175,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112250500"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112250500"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112250500"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Drill Bit, with Quick Coupling, 2.2, semicircle",
+            "PSM11": "Drill Bit, with Quick Coupling, 2.2, semicircle",
+            "Vision": "Drill Bit, with Quick Coupling, $2.2, semicircle"
+          }
+        },
+        {
+          "pdfPage": 175,
+          "sourceBounds": [
+            0.08,
+            0.5422293093328115,
+            0.56,
+            0.6661682215831067
+          ],
+          "printedPage": "3/34",
+          "sourceRowId": "175-05",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p175",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 175,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112250800"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112250800"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112250800"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Drill Bit, with Quick Coupling, 02.7, semicircle",
+            "PSM11": "Drill Bit, with Quick Coupling, 02.7, semicircle",
+            "Vision": "Drill Bit, with Quick Coupling, $2.7, semicircle"
+          }
+        },
+        {
+          "pdfPage": 175,
+          "sourceBounds": [
+            0.08,
+            0.6652972021130894,
+            0.56,
+            0.7560739472889597
+          ],
+          "printedPage": "3/34",
+          "sourceRowId": "175-06",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p175",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 175,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112251100"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112251100"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112251100"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Drill Bit, with Quick Coupling, 2.5, semicircle",
+            "PSM11": "Drill Bit, with Quick Coupling, 2.5, semicircle",
+            "Vision": "Drill Bit, with Quick Coupling, $2.5, semicircle"
+          }
+        },
+        {
+          "pdfPage": 175,
+          "sourceBounds": [
+            0.08,
+            0.7552991586773625,
+            0.56,
+            0.8433586314532548
+          ],
+          "printedPage": "3/34",
+          "sourceRowId": "175-07",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p175",
+              "row": 7,
+              "column": 2,
+              "pdfPage": 175,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "110015800"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "110015800"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "110015800"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Tap, for Cortex Screws 3.5",
+            "PSM11": "Tap, for Cortex Screws 3.5",
+            "Vision": "Tap, for Cortex Screws ф3.5"
+          }
+        },
+        {
+          "pdfPage": 175,
+          "sourceBounds": [
+            0.08,
+            0.8425619252592448,
+            0.56,
+            0.93
+          ],
+          "printedPage": "3/34",
+          "sourceRowId": "175-08",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p175",
+              "row": 8,
+              "column": 2,
+              "pdfPage": 175,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112251600"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112251600"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112251600"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Screwdriver Shaft, torxdrive",
+            "PSM11": "Screwdriver Shaft, torxdrive SS=ees—a_amm",
+            "Vision": "Screwdriver Shaft, torxdrive • '"
+          }
+        }
+      ],
+      "sourcePage": 175,
+      "sourcePages": [
+        175
+      ],
+      "printedPage": "3/34",
+      "images": []
+    },
+    {
+      "id": "trauma-set-175-p176",
+      "groupId": "trauma-set-175-p176",
+      "title": {
+        "ru": "Инструменты · 3/35",
+        "en": "Instruments · 3/35"
+      },
+      "unit": "mm",
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Стержень отвёртки, прямоугольный",
+            "en": "Screwdriver Shaft, rectangular"
+          },
+          "112251300"
+        ],
+        [
+          {
+            "ru": "Глубиномер, 3.5",
+            "en": "Depth Gauge, 3.5"
+          },
+          "110040400"
+        ],
+        [
+          {
+            "ru": "Сверлильная втулка, быстрое позиционирование, Ø2.1/Ø4.7",
+            "en": "Drill Sleeve, quick guiding, Ø2.1/Ø4.7"
+          },
+          "112250300"
+        ],
+        [
+          {
+            "ru": "Сверлильная втулка, со шкалой, Ø2.1/Ø7.0",
+            "en": "Drill Sleeve, with Scale, Ø2.1/Ø7.0"
+          },
+          "112250400"
+        ],
+        [
+          {
+            "ru": "Сверлильная втулка, быстрое позиционирование, Ø2.3/Ø4.7",
+            "en": "Drill Sleeve, quick guiding, Ø2.3/Ø4.7"
+          },
+          "112250600"
+        ],
+        [
+          {
+            "ru": "Сверлильная втулка, со шкалой, Ø2.3/Ø7.0",
+            "en": "Drill Sleeve, with Scale, Ø2.3/Ø7.0"
+          },
+          "112250700"
+        ],
+        [
+          {
+            "ru": "Сверлильная втулка, быстрое позиционирование, Ø2.8/Ø4.7",
+            "en": "Drill Sleeve, quick guiding, Ø2.8/Ø4.7"
+          },
+          "112250900"
+        ],
+        [
+          {
+            "ru": "Сверлильная втулка, со шкалой, Ø2.8/Ø7.0",
+            "en": "Drill Sleeve, with Scale, Ø2.8/Ø7.0"
+          },
+          "112251000"
+        ]
+      ],
+      "rowImages": [
+        {
+          "width": 858,
+          "height": 106,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              397,
+              21
+            ],
+            "enhancedSize": [
+              794,
+              42
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-176-art-01.webp",
+          "imageCaption": {
+            "ru": "Стержень отвёртки, прямоугольный",
+            "en": "Screwdriver Shaft, rectangular"
+          },
+          "sourcePages": [
+            176
+          ]
+        },
+        {
+          "width": 858,
+          "height": 128,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              397,
+              32
+            ],
+            "enhancedSize": [
+              794,
+              64
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-176-art-02.webp",
+          "imageCaption": {
+            "ru": "Глубиномер, 3.5",
+            "en": "Depth Gauge, 3.5"
+          },
+          "sourcePages": [
+            176
+          ]
+        },
+        {
+          "width": 270,
+          "height": 166,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              104,
+              51
+            ],
+            "enhancedSize": [
+              208,
+              102
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-176-art-03.webp",
+          "imageCaption": {
+            "ru": "Сверлильная втулка, быстрое позиционирование, Ø2.1/Ø4.7",
+            "en": "Drill Sleeve, quick guiding, Ø2.1/Ø4.7"
+          },
+          "sourcePages": [
+            176
+          ]
+        },
+        {
+          "width": 628,
+          "height": 158,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              282,
+              47
+            ],
+            "enhancedSize": [
+              564,
+              94
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-176-art-04.webp",
+          "imageCaption": {
+            "ru": "Сверлильная втулка, со шкалой, Ø2.1/Ø7.0",
+            "en": "Drill Sleeve, with Scale, Ø2.1/Ø7.0"
+          },
+          "sourcePages": [
+            176
+          ]
+        },
+        {
+          "width": 274,
+          "height": 166,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              105,
+              51
+            ],
+            "enhancedSize": [
+              210,
+              102
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-176-art-05.webp",
+          "imageCaption": {
+            "ru": "Сверлильная втулка, быстрое позиционирование, Ø2.3/Ø4.7",
+            "en": "Drill Sleeve, quick guiding, Ø2.3/Ø4.7"
+          },
+          "sourcePages": [
+            176
+          ]
+        },
+        {
+          "width": 626,
+          "height": 158,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              281,
+              47
+            ],
+            "enhancedSize": [
+              562,
+              94
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-176-art-06.webp",
+          "imageCaption": {
+            "ru": "Сверлильная втулка, со шкалой, Ø2.3/Ø7.0",
+            "en": "Drill Sleeve, with Scale, Ø2.3/Ø7.0"
+          },
+          "sourcePages": [
+            176
+          ]
+        },
+        {
+          "width": 274,
+          "height": 168,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              105,
+              52
+            ],
+            "enhancedSize": [
+              210,
+              104
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-176-art-07.webp",
+          "imageCaption": {
+            "ru": "Сверлильная втулка, быстрое позиционирование, Ø2.8/Ø4.7",
+            "en": "Drill Sleeve, quick guiding, Ø2.8/Ø4.7"
+          },
+          "sourcePages": [
+            176
+          ]
+        },
+        {
+          "width": 624,
+          "height": 160,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              280,
+              48
+            ],
+            "enhancedSize": [
+              560,
+              96
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-176-art-08.webp",
+          "imageCaption": {
+            "ru": "Сверлильная втулка, со шкалой, Ø2.8/Ø7.0",
+            "en": "Drill Sleeve, with Scale, Ø2.8/Ø7.0"
+          },
+          "sourcePages": [
+            176
+          ]
+        }
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 176,
+          "sourceBounds": [
+            0.08,
+            0.1489598904324007,
+            0.56,
+            0.23616449145563945
+          ],
+          "printedPage": "3/35",
+          "sourceRowId": "176-01",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p176",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 176,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112251300"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112251300"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112251300"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Screwdriver Shaft, rectangular",
+            "PSM11": "Screwdriver Shaft, rectangular",
+            "Vision": "Screwdriver Shaft, rectangular"
+          }
+        },
+        {
+          "pdfPage": 176,
+          "sourceBounds": [
+            0.08,
+            0.23544003130502836,
+            0.56,
+            0.31615616933027096
+          ],
+          "printedPage": "3/35",
+          "sourceRowId": "176-02",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p176",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 176,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "110040400"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "110040400"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "110040400"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Depth Gauge, 3.5",
+            "PSM11": "Depth Gauge, 3.5",
+            "Vision": "Depth Gauge, $3.5"
+          }
+        },
+        {
+          "pdfPage": 176,
+          "sourceBounds": [
+            0.08,
+            0.315463510076306,
+            0.56,
+            0.4132169124855169
+          ],
+          "printedPage": "3/35",
+          "sourceRowId": "176-03",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p176",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 176,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112250300"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112250300"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112250300"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Drill Sleeve, quick guiding, 02.1/p4.7",
+            "PSM11": "Drill Sleeve, quick guiding, 2.1/4.",
+            "Vision": "Drill Sleeve, quick guiding, 42.1/44.7"
+          }
+        },
+        {
+          "pdfPage": 176,
+          "sourceBounds": [
+            0.08,
+            0.4125090980238701,
+            0.56,
+            0.5060902193231351
+          ],
+          "printedPage": "3/35",
+          "sourceRowId": "176-04",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p176",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 176,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112250400"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112250400"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112250400"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Drill Sleeve, with Scale, o2.1/p7.0",
+            "PSM11": "Drill Sleeve, with Scale, o2.1/p7.0",
+            "Vision": "Drill Sleeve, with Scale, 42.1/ф7.0"
+          }
+        },
+        {
+          "pdfPage": 176,
+          "sourceBounds": [
+            0.08,
+            0.5052502445705341,
+            0.56,
+            0.5963432808043541
+          ],
+          "printedPage": "3/35",
+          "sourceRowId": "176-05",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p176",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 176,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112250600"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112250600"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112250600"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Drill Sleeve, quick guiding, 2.3/4.7",
+            "PSM11": "Drill Sleeve, quick guiding, 2.3/4.7",
+            "Vision": "Drill Sleeve, quick guiding, 42.3/44.7"
+          }
+        },
+        {
+          "pdfPage": 176,
+          "sourceBounds": [
+            0.08,
+            0.5956435139894345,
+            0.56,
+            0.683628562107518
+          ],
+          "printedPage": "3/35",
+          "sourceRowId": "176-06",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p176",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 176,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112250700"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112250700"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112250700"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Drill Sleeve, with Scale, 02.3/97.0",
+            "PSM11": "Drill Sleeve, with Scale, 02.3/97.0",
+            "Vision": "Drill Sleeve, with Scale, 42.3/q7.0"
+          }
+        },
+        {
+          "pdfPage": 176,
+          "sourceBounds": [
+            0.08,
+            0.6829062805713167,
+            0.56,
+            0.780513149296461
+          ],
+          "printedPage": "3/35",
+          "sourceRowId": "176-07",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p176",
+              "row": 7,
+              "column": 2,
+              "pdfPage": 176,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112250900"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112250900"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112250900"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Drill Sleeve, quick guiding, 02.8/94.7",
+            "PSM11": "Drill Sleeve, quick guiding, 02.8/94.7",
+            "Vision": "Drill Sleeve, quick guiding, 42.8/44.7"
+          }
+        },
+        {
+          "pdfPage": 176,
+          "sourceBounds": [
+            0.08,
+            0.7797562120915672,
+            0.56,
+            0.93
+          ],
+          "printedPage": "3/35",
+          "sourceRowId": "176-08",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p176",
+              "row": 8,
+              "column": 2,
+              "pdfPage": 176,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112251000"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112251000"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112251000"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Drill Sleeve, with Scale, 92.8/97.0",
+            "PSM11": "Drill Sleeve, with Scale, 02.8/97.0",
+            "Vision": "Drill Sleeve, with Scale, ф2.8/ф7.0"
+          }
+        }
+      ],
+      "sourcePage": 176,
+      "sourcePages": [
+        176
+      ],
+      "printedPage": "3/35",
+      "images": []
+    },
+    {
+      "id": "trauma-set-175-p177",
+      "groupId": "trauma-set-175-p177",
+      "title": {
+        "ru": "Инструменты · 3/36",
+        "en": "Instruments · 3/36"
+      },
+      "unit": "mm",
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Контейнер для сверлильных втулок, для стопы и голеностопного сустава",
+            "en": "Drill Sleeve Box, for Foot & Ankle"
+          },
+          "112252100"
+        ],
+        [
+          {
+            "ru": "Контейнер инструментов — Набор инструментов MARATHON",
+            "en": "Screw Case"
+          },
+          "112258200"
+        ],
+        [
+          {
+            "ru": "Щипцы для винтов, самоудерживающиеся",
+            "en": "Screw Forceps, self-holding"
+          },
+          "110011200"
+        ],
+        [
+          {
+            "ru": "Двухканальный направитель сверла, 92.5/93.5",
+            "en": "Double Drill Guide, 92.5/93.5"
+          },
+          "110010100"
+        ],
+        [
+          {
+            "ru": "Рукоятка, для динамометрической отвёртки, 2.0Н·м",
+            "en": "Handle, for Torque Indicating Screwdriver, 2.0N.m"
+          },
+          "112251500"
+        ],
+        [
+          {
+            "ru": "Рукоятка, с быстросъёмным соединением, синяя",
+            "en": "Handle, with Quick Coupling, blue"
+          },
+          "111601100"
+        ]
+      ],
+      "rowImages": [
+        {
+          "width": 630,
+          "height": 292,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              284,
+              114
+            ],
+            "enhancedSize": [
+              568,
+              228
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-177-art-01.webp",
+          "imageCaption": {
+            "ru": "Контейнер для сверлильных втулок, для стопы и голеностопного сустава",
+            "en": "Drill Sleeve Box, for Foot & Ankle"
+          },
+          "sourcePages": [
+            177
+          ]
+        },
+        {
+          "width": 478,
+          "height": 346,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              207,
+              141
+            ],
+            "enhancedSize": [
+              414,
+              282
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-177-art-02.webp",
+          "imageCaption": {
+            "ru": "Контейнер инструментов — Набор инструментов MARATHON",
+            "en": "Screw Case"
+          },
+          "sourcePages": [
+            177
+          ]
+        },
+        {
+          "width": 712,
+          "height": 152,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              324,
+              44
+            ],
+            "enhancedSize": [
+              648,
+              88
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-177-art-03.webp",
+          "imageCaption": {
+            "ru": "Щипцы для винтов, самоудерживающиеся",
+            "en": "Screw Forceps, self-holding"
+          },
+          "sourcePages": [
+            177
+          ]
+        },
+        {
+          "width": 866,
+          "height": 276,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              401,
+              106
+            ],
+            "enhancedSize": [
+              802,
+              212
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-177-art-04.webp",
+          "imageCaption": {
+            "ru": "Двухканальный направитель сверла, 92.5/93.5",
+            "en": "Double Drill Guide, 92.5/93.5"
+          },
+          "sourcePages": [
+            177
+          ]
+        },
+        {
+          "width": 405,
+          "height": 165,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              179,
+              70
+            ],
+            "enhancedSize": [
+              358,
+              140
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-177-art-05.webp",
+          "imageCaption": {
+            "ru": "Рукоятка, для динамометрической отвёртки, 2.0Н·м",
+            "en": "Handle, for Torque Indicating Screwdriver, 2.0N.m"
+          },
+          "sourcePages": [
+            177
+          ]
+        },
+        {
+          "width": 511,
+          "height": 156,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              231,
+              58
+            ],
+            "enhancedSize": [
+              462,
+              116
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-177-art-06.webp",
+          "imageCaption": {
+            "ru": "Рукоятка, с быстросъёмным соединением, синяя",
+            "en": "Handle, with Quick Coupling, blue"
+          },
+          "sourcePages": [
+            177
+          ]
+        }
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 177,
+          "sourceBounds": [
+            0.08,
+            0.14954685971434162,
+            0.56,
+            0.2687256777874492
+          ],
+          "printedPage": "3/36",
+          "sourceRowId": "177-01",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p177",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 177,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112252100"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112252100"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112252100"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Drill Sleeve Box, for Foot & Ankle",
+            "PSM11": "Drill Sleeve Box, for Foot & Ankle",
+            "Vision": "Drill Sleeve Box, for Foot & Ankle"
+          }
+        },
+        {
+          "pdfPage": 177,
+          "sourceBounds": [
+            0.08,
+            0.26791899823909215,
+            0.56,
+            0.47210067681709855
+          ],
+          "printedPage": "3/36",
+          "sourceRowId": "177-02",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p177",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 177,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112258200"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112258200"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112258200"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Screw Case",
+            "PSM11": "Screw Case",
+            "Vision": "Screw Case"
+          }
+        },
+        {
+          "pdfPage": 177,
+          "sourceBounds": [
+            0.08,
+            0.4714016826452749,
+            0.56,
+            0.5942984782712113
+          ],
+          "printedPage": "3/36",
+          "sourceRowId": "177-03",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p177",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 177,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "110011200"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "110011200"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "110011200"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Screw Forceps, self-holding",
+            "PSM11": "Screw Forceps, self-holding",
+            "Vision": "Screw Forceps, self-holding"
+          }
+        },
+        {
+          "pdfPage": 177,
+          "sourceBounds": [
+            0.08,
+            0.5934912932889845,
+            0.56,
+            0.6920032854580562
+          ],
+          "printedPage": "3/36",
+          "sourceRowId": "177-04",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p177",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 177,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "110010100"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "110010100"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "110010100"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Double Drill Guide, 92.5/93.5",
+            "PSM11": "Double Drill Guide, 92.5/93.5",
+            "Vision": "Double Drill Guide, ф2.5/ф3.5"
+          }
+        },
+        {
+          "pdfPage": 177,
+          "sourceBounds": [
+            0.08,
+            0.6911238505184896,
+            0.56,
+            0.7795283180170531
+          ],
+          "printedPage": "3/36",
+          "sourceRowId": "177-05",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p177",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 177,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112251500"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112251500"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112251500"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Handle, for Torque Indicating Screwdriver, 2.0N.m",
+            "PSM11": "Handle, for Torque Indicating Screwdriver, 2.0N.m",
+            "Vision": "Handle, for Torque Indicating Screwdriver, 2.0N.m"
+          }
+        },
+        {
+          "pdfPage": 177,
+          "sourceBounds": [
+            0.08,
+            0.7787779299549991,
+            0.56,
+            0.93
+          ],
+          "printedPage": "3/36",
+          "sourceRowId": "177-06",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p177",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 177,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111601100"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111601100"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111601100"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Handle, with Quick Coupling, blue",
+            "PSM11": "Handle, with Quick Coupling, blue",
+            "Vision": "Handle, with Quick Coupling, blue"
+          }
+        }
+      ],
+      "sourcePage": 177,
+      "sourcePages": [
+        177
+      ],
+      "printedPage": "3/36",
+      "images": []
+    },
+    {
+      "id": "trauma-set-175-p178",
+      "groupId": "trauma-set-175-p178",
+      "title": {
+        "ru": "Инструменты · 3/37",
+        "en": "Instruments · 3/37"
+      },
+      "unit": "mm",
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Гибочный инструмент",
+            "en": "Bending Iron"
+          },
+          "112251900"
+        ],
+        [
+          {
+            "ru": "Отвёртка, со шлицем Torx",
+            "en": "Screwdriver, torxdrive"
+          },
+          "112251700"
+        ],
+        [
+          {
+            "ru": "Отвёртка, прямоугольная",
+            "en": "Screwdriver, rectangular"
+          },
+          "112251800"
+        ],
+        [
+          {
+            "ru": "Костный ретрактор",
+            "en": "Bone Retractor"
+          },
+          "112252200"
+        ],
+        [
+          {
+            "ru": "Костный ретрактор II",
+            "en": "Bone Retractor II"
+          },
+          "112252300"
+        ],
+        [
+          {
+            "ru": "Костный рычаг II",
+            "en": "Bone Lever II"
+          },
+          "112252400"
+        ],
+        [
+          {
+            "ru": "Костный рычаг",
+            "en": "Bone Lever"
+          },
+          "112252500"
+        ]
+      ],
+      "rowImages": [
+        {
+          "width": 858,
+          "height": 151,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              397,
+              44
+            ],
+            "enhancedSize": [
+              794,
+              88
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-178-art-01.webp",
+          "imageCaption": {
+            "ru": "Гибочный инструмент",
+            "en": "Bending Iron"
+          },
+          "sourcePages": [
+            178
+          ]
+        },
+        {
+          "width": 624,
+          "height": 156,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              280,
+              46
+            ],
+            "enhancedSize": [
+              560,
+              92
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-178-art-02.webp",
+          "imageCaption": {
+            "ru": "Отвёртка, со шлицем Torx",
+            "en": "Screwdriver, torxdrive"
+          },
+          "sourcePages": [
+            178
+          ]
+        },
+        {
+          "width": 624,
+          "height": 154,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              280,
+              45
+            ],
+            "enhancedSize": [
+              560,
+              90
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-178-art-03.webp",
+          "imageCaption": {
+            "ru": "Отвёртка, прямоугольная",
+            "en": "Screwdriver, rectangular"
+          },
+          "sourcePages": [
+            178
+          ]
+        },
+        {
+          "width": 858,
+          "height": 202,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              397,
+              69
+            ],
+            "enhancedSize": [
+              794,
+              138
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-178-art-04.webp",
+          "imageCaption": {
+            "ru": "Костный ретрактор",
+            "en": "Bone Retractor"
+          },
+          "sourcePages": [
+            178
+          ]
+        },
+        {
+          "width": 858,
+          "height": 186,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              397,
+              61
+            ],
+            "enhancedSize": [
+              794,
+              122
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-178-art-05.webp",
+          "imageCaption": {
+            "ru": "Костный ретрактор II",
+            "en": "Bone Retractor II"
+          },
+          "sourcePages": [
+            178
+          ]
+        },
+        {
+          "width": 858,
+          "height": 126,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              397,
+              31
+            ],
+            "enhancedSize": [
+              794,
+              62
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-178-art-06.webp",
+          "imageCaption": {
+            "ru": "Костный рычаг II",
+            "en": "Bone Lever II"
+          },
+          "sourcePages": [
+            178
+          ]
+        },
+        {
+          "width": 858,
+          "height": 128,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              397,
+              32
+            ],
+            "enhancedSize": [
+              794,
+              64
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-178-art-07.webp",
+          "imageCaption": {
+            "ru": "Костный рычаг",
+            "en": "Bone Lever"
+          },
+          "sourcePages": [
+            178
+          ]
+        }
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 178,
+          "sourceBounds": [
+            0.08,
+            0.14954685971434162,
+            0.56,
+            0.27274019264098
+          ],
+          "printedPage": "3/37",
+          "sourceRowId": "178-01",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p178",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 178,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112251900"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112251900"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112251900"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Bending Iron",
+            "PSM11": "Bending Iron",
+            "Vision": "Bending Iron"
+          }
+        },
+        {
+          "pdfPage": 178,
+          "sourceBounds": [
+            0.08,
+            0.2720277832126785,
+            0.56,
+            0.37957789049547996
+          ],
+          "printedPage": "3/37",
+          "sourceRowId": "178-02",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p178",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 178,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112251700"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112251700"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112251700"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Screwdriver, torxdrive",
+            "PSM11": "Screwdriver, torxdrive",
+            "Vision": "Screwdriver, torxdrive"
+          }
+        },
+        {
+          "pdfPage": 178,
+          "sourceBounds": [
+            0.08,
+            0.37885619252592445,
+            0.56,
+            0.47385517033684804
+          ],
+          "printedPage": "3/37",
+          "sourceRowId": "178-03",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p178",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 178,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112251800"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112251800"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112251800"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Screwdriver, rectangular",
+            "PSM11": "Screwdriver, rectangular",
+            "Vision": "Screwdriver, rectangular"
+          }
+        },
+        {
+          "pdfPage": 178,
+          "sourceBounds": [
+            0.08,
+            0.472966934063784,
+            0.56,
+            0.5785894465259157
+          ],
+          "printedPage": "3/37",
+          "sourceRowId": "178-04",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p178",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 178,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112252200"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112252200"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112252200"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Bone Retractor |",
+            "PSM11": "Bone Retractor |",
+            "Vision": "Bone Retractor I"
+          }
+        },
+        {
+          "pdfPage": 178,
+          "sourceBounds": [
+            0.08,
+            0.5778387791038936,
+            0.56,
+            0.6812365233221542
+          ],
+          "printedPage": "3/37",
+          "sourceRowId": "178-05",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p178",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 178,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112252300"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112252300"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112252300"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Bone Retractor I]",
+            "PSM11": "Bone Retractor II",
+            "Vision": "Bone Retractor II"
+          }
+        },
+        {
+          "pdfPage": 178,
+          "sourceBounds": [
+            0.08,
+            0.6803627470162394,
+            0.56,
+            0.7831856940654548
+          ],
+          "printedPage": "3/37",
+          "sourceRowId": "178-06",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p178",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 178,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112252400"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112252400"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112252400"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Bone Lever II",
+            "PSM11": "Bone Lever II",
+            "Vision": "Bone Lever II"
+          }
+        },
+        {
+          "pdfPage": 178,
+          "sourceBounds": [
+            0.08,
+            0.7822997456466445,
+            0.56,
+            0.93
+          ],
+          "printedPage": "3/37",
+          "sourceRowId": "178-07",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p178",
+              "row": 7,
+              "column": 2,
+              "pdfPage": 178,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112252500"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112252500"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112252500"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Bone Lever |",
+            "PSM11": "Bone Lever |",
+            "Vision": "Bone Lever I"
+          }
+        }
+      ],
+      "sourcePage": 178,
+      "sourcePages": [
+        178
+      ],
+      "printedPage": "3/37",
+      "images": []
+    },
+    {
+      "id": "trauma-set-175-p179",
+      "groupId": "trauma-set-175-p179",
+      "title": {
+        "ru": "Инструменты · 3/38",
+        "en": "Instruments · 3/38"
+      },
+      "unit": "mm",
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Распатор III",
+            "en": "Periosteal Elevator III"
+          },
+          "112252600"
+        ],
+        [
+          {
+            "ru": "Распатор II",
+            "en": "Periosteal Elevator II"
+          },
+          "112252700"
+        ],
+        [
+          {
+            "ru": "Распатор I",
+            "en": "Periosteal Elevator I"
+          },
+          "112252800"
+        ],
+        [
+          {
+            "ru": "Остеотом I",
+            "en": "Osteotome I"
+          },
+          "112252900"
+        ],
+        [
+          {
+            "ru": "Остеотом II",
+            "en": "Osteotome II"
+          },
+          "112253000"
+        ],
+        [
+          {
+            "ru": "Остеотом III",
+            "en": "Osteotome III"
+          },
+          "112253100"
+        ],
+        [
+          {
+            "ru": "Гибочные щипцы",
+            "en": "Bending Pliers"
+          },
+          "111970300"
+        ]
+      ],
+      "rowImages": [
+        {
+          "width": 864,
+          "height": 182,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              400,
+              59
+            ],
+            "enhancedSize": [
+              800,
+              118
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-179-art-01.webp",
+          "imageCaption": {
+            "ru": "Распатор III",
+            "en": "Periosteal Elevator III"
+          },
+          "sourcePages": [
+            179
+          ]
+        },
+        {
+          "width": 864,
+          "height": 166,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              400,
+              51
+            ],
+            "enhancedSize": [
+              800,
+              102
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-179-art-02.webp",
+          "imageCaption": {
+            "ru": "Распатор II",
+            "en": "Periosteal Elevator II"
+          },
+          "sourcePages": [
+            179
+          ]
+        },
+        {
+          "width": 864,
+          "height": 164,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              400,
+              50
+            ],
+            "enhancedSize": [
+              800,
+              100
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-179-art-03.webp",
+          "imageCaption": {
+            "ru": "Распатор I",
+            "en": "Periosteal Elevator I"
+          },
+          "sourcePages": [
+            179
+          ]
+        },
+        {
+          "width": 628,
+          "height": 144,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              282,
+              40
+            ],
+            "enhancedSize": [
+              564,
+              80
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-179-art-04.webp",
+          "imageCaption": {
+            "ru": "Остеотом I",
+            "en": "Osteotome I"
+          },
+          "sourcePages": [
+            179
+          ]
+        },
+        {
+          "width": 628,
+          "height": 144,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              282,
+              40
+            ],
+            "enhancedSize": [
+              564,
+              80
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-179-art-05.webp",
+          "imageCaption": {
+            "ru": "Остеотом II",
+            "en": "Osteotome II"
+          },
+          "sourcePages": [
+            179
+          ]
+        },
+        {
+          "width": 630,
+          "height": 148,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              283,
+              42
+            ],
+            "enhancedSize": [
+              566,
+              84
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-179-art-06.webp",
+          "imageCaption": {
+            "ru": "Остеотом III",
+            "en": "Osteotome III"
+          },
+          "sourcePages": [
+            179
+          ]
+        },
+        {
+          "width": 536,
+          "height": 361,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              236,
+              149
+            ],
+            "enhancedSize": [
+              472,
+              298
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-179-art-07.webp",
+          "imageCaption": {
+            "ru": "Гибочные щипцы",
+            "en": "Bending Pliers"
+          },
+          "sourcePages": [
+            179
+          ]
+        }
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 179,
+          "sourceBounds": [
+            0.08,
+            0.14837292115045977,
+            0.56,
+            0.2606575354844797
+          ],
+          "printedPage": "3/38",
+          "sourceRowId": "179-01",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p179",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 179,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112252600"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112252600"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112252600"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Periosteal Elevator III",
+            "PSM11": "Periosteal Elevator III",
+            "Vision": "Periosteal Elevator III"
+          }
+        },
+        {
+          "pdfPage": 179,
+          "sourceBounds": [
+            0.08,
+            0.259897084719233,
+            0.56,
+            0.3610364798106353
+          ],
+          "printedPage": "3/38",
+          "sourceRowId": "179-02",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p179",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 179,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112252700"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112252700"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112252700"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Periosteal Elevator II",
+            "PSM11": "Periosteal Elevator II",
+            "Vision": "Periosteal Elevator II"
+          }
+        },
+        {
+          "pdfPage": 179,
+          "sourceBounds": [
+            0.08,
+            0.3602688319311289,
+            0.56,
+            0.4727642971466515
+          ],
+          "printedPage": "3/38",
+          "sourceRowId": "179-03",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p179",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 179,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112252800"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112252800"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112252800"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Periosteal Elevator |",
+            "PSM11": "Periosteal Elevator [",
+            "Vision": "Periosteal Elevator I"
+          }
+        },
+        {
+          "pdfPage": 179,
+          "sourceBounds": [
+            0.08,
+            0.4719886519272158,
+            0.56,
+            0.5743254271483613
+          ],
+          "printedPage": "3/38",
+          "sourceRowId": "179-04",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p179",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 179,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112252900"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112252900"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112252900"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Osteotome |",
+            "PSM11": "Osteotome [",
+            "Vision": "Osteotome I"
+          }
+        },
+        {
+          "pdfPage": 179,
+          "sourceBounds": [
+            0.08,
+            0.5735343377029936,
+            0.56,
+            0.6726465811709774
+          ],
+          "printedPage": "3/38",
+          "sourceRowId": "179-05",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p179",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 179,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112253000"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112253000"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112253000"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Osteotome II",
+            "PSM11": "Osteotome II",
+            "Vision": "Osteotome II"
+          }
+        },
+        {
+          "pdfPage": 179,
+          "sourceBounds": [
+            0.08,
+            0.6717538642144394,
+            0.56,
+            0.7869915088843316
+          ],
+          "printedPage": "3/38",
+          "sourceRowId": "179-06",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p179",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 179,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112253100"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112253100"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112253100"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Osteotome III",
+            "PSM11": "Osteotome III",
+            "Vision": "Osteotome III"
+          }
+        },
+        {
+          "pdfPage": 179,
+          "sourceBounds": [
+            0.08,
+            0.7862128741929172,
+            0.56,
+            0.93
+          ],
+          "printedPage": "3/38",
+          "sourceRowId": "179-07",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p179",
+              "row": 7,
+              "column": 2,
+              "pdfPage": 179,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "111970300"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "111970300"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "111970300"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Bending Pliers",
+            "PSM11": "Bending Pliers",
+            "Vision": "Bending Pliers"
+          }
+        }
+      ],
+      "sourcePage": 179,
+      "sourcePages": [
+        179
+      ],
+      "printedPage": "3/38",
+      "images": []
+    },
+    {
+      "id": "trauma-set-175-p180",
+      "groupId": "trauma-set-175-p180",
+      "title": {
+        "ru": "Инструменты · 3/39",
+        "en": "Instruments · 3/39"
+      },
+      "unit": "mm",
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Репозиционные щипцы",
+            "en": "Reduction Forceps"
+          },
+          "112253200"
+        ],
+        [
+          {
+            "ru": "Расширяющие щипцы",
+            "en": "Spreader Forceps"
+          },
+          "112253300"
+        ],
+        [
+          {
+            "ru": "Расширяющие щипцы II",
+            "en": "Spreader Forceps II"
+          },
+          "112253400"
+        ],
+        [
+          {
+            "ru": "Расширяющие щипцы III",
+            "en": "Spreader Forceps III"
+          },
+          "112253500"
+        ],
+        [
+          {
+            "ru": "Костные кусачки",
+            "en": "Bone Rongeur"
+          },
+          "112253600"
+        ],
+        [
+          {
+            "ru": "Костные кусачки II",
+            "en": "Bone Rongeur II"
+          },
+          "112253700"
+        ]
+      ],
+      "rowImages": [
+        {
+          "width": 658,
+          "height": 326,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              297,
+              131
+            ],
+            "enhancedSize": [
+              594,
+              262
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-180-art-01.webp",
+          "imageCaption": {
+            "ru": "Репозиционные щипцы",
+            "en": "Reduction Forceps"
+          },
+          "sourcePages": [
+            180
+          ]
+        },
+        {
+          "width": 658,
+          "height": 306,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              297,
+              121
+            ],
+            "enhancedSize": [
+              594,
+              242
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-180-art-02.webp",
+          "imageCaption": {
+            "ru": "Расширяющие щипцы",
+            "en": "Spreader Forceps"
+          },
+          "sourcePages": [
+            180
+          ]
+        },
+        {
+          "width": 704,
+          "height": 364,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              320,
+              150
+            ],
+            "enhancedSize": [
+              640,
+              300
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-180-art-03.webp",
+          "imageCaption": {
+            "ru": "Расширяющие щипцы II",
+            "en": "Spreader Forceps II"
+          },
+          "sourcePages": [
+            180
+          ]
+        },
+        {
+          "width": 674,
+          "height": 478,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              305,
+              207
+            ],
+            "enhancedSize": [
+              610,
+              414
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-180-art-04.webp",
+          "imageCaption": {
+            "ru": "Расширяющие щипцы III",
+            "en": "Spreader Forceps III"
+          },
+          "sourcePages": [
+            180
+          ]
+        },
+        {
+          "width": 652,
+          "height": 384,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              294,
+              160
+            ],
+            "enhancedSize": [
+              588,
+              320
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-180-art-05.webp",
+          "imageCaption": {
+            "ru": "Костные кусачки",
+            "en": "Bone Rongeur"
+          },
+          "sourcePages": [
+            180
+          ]
+        },
+        {
+          "width": 652,
+          "height": 474,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              294,
+              205
+            ],
+            "enhancedSize": [
+              588,
+              410
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-180-art-06.webp",
+          "imageCaption": {
+            "ru": "Костные кусачки II",
+            "en": "Bone Rongeur II"
+          },
+          "sourcePages": [
+            180
+          ]
+        }
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 180,
+          "sourceBounds": [
+            0.08,
+            0.14837292115045977,
+            0.56,
+            0.2576914969614589
+          ],
+          "printedPage": "3/39",
+          "sourceRowId": "180-01",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p180",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 180,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112253200"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112253200"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112253200"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Reduction Forceps",
+            "PSM11": "Reduction Forceps",
+            "Vision": "Reduction Forceps"
+          }
+        },
+        {
+          "pdfPage": 180,
+          "sourceBounds": [
+            0.08,
+            0.25696223830952847,
+            0.56,
+            0.3645308369478481
+          ],
+          "printedPage": "3/39",
+          "sourceRowId": "180-02",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p180",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 180,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112253300"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112253300"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112253300"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Spreader Forceps |",
+            "PSM11": "Spreader Forceps |",
+            "Vision": "Spreader Forceps I"
+          }
+        },
+        {
+          "pdfPage": 180,
+          "sourceBounds": [
+            0.08,
+            0.3637906476227744,
+            0.56,
+            0.5076784594294895
+          ],
+          "printedPage": "3/39",
+          "sourceRowId": "180-03",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p180",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 180,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112253400"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112253400"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112253400"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Spreader Forceps II",
+            "PSM11": "Spreader Forceps II",
+            "Vision": "Spreader Forceps II"
+          }
+        },
+        {
+          "pdfPage": 180,
+          "sourceBounds": [
+            0.08,
+            0.5068154959890432,
+            0.56,
+            0.6543171547845652
+          ],
+          "printedPage": "3/39",
+          "sourceRowId": "180-04",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p180",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 180,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112253500"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112253500"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112253500"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Spreader Forceps III]",
+            "PSM11": "Spreader Forceps III",
+            "Vision": "Spreader Forceps III"
+          }
+        },
+        {
+          "pdfPage": 180,
+          "sourceBounds": [
+            0.08,
+            0.6535578164742711,
+            0.56,
+            0.7695344526236988
+          ],
+          "printedPage": "3/39",
+          "sourceRowId": "180-05",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p180",
+              "row": 5,
+              "column": 2,
+              "pdfPage": 180,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112253600"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112253600"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112253600"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Bone Rongeur |",
+            "PSM11": "Bone Rongeur |",
+            "Vision": "Bone Rongeur I"
+          }
+        },
+        {
+          "pdfPage": 180,
+          "sourceBounds": [
+            0.08,
+            0.7687994521620035,
+            0.56,
+            0.93
+          ],
+          "printedPage": "3/39",
+          "sourceRowId": "180-06",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p180",
+              "row": 6,
+              "column": 2,
+              "pdfPage": 180,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112253700"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112253700"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112253700"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Bone Rongeur II",
+            "PSM11": "Bone Rongeur II",
+            "Vision": "Bone Rongeur II"
+          }
+        }
+      ],
+      "sourcePage": 180,
+      "sourcePages": [
+        180
+      ],
+      "printedPage": "3/39",
+      "images": []
+    },
+    {
+      "id": "trauma-set-175-p181",
+      "groupId": "trauma-set-175-p181",
+      "title": {
+        "ru": "Инструменты · 3/40",
+        "en": "Instruments · 3/40"
+      },
+      "unit": "mm",
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Кусачки",
+            "en": "Cutting Pliers"
+          },
+          "112253800"
+        ],
+        [
+          {
+            "ru": "Удерживающая втулка, для винтов",
+            "en": "Holding Sleeve, for Screws"
+          },
+          "112259900"
+        ],
+        [
+          {
+            "ru": "Спица-проводник, 42.0, длина 230 мм",
+            "en": "Guide Wire, 42.0, length 230mm"
+          },
+          "112254500"
+        ],
+        [
+          {
+            "ru": "Репозиционные щипцы, изогнутый",
+            "en": "Reduction Forceps, curved"
+          },
+          "110223300"
+        ]
+      ],
+      "rowImages": [
+        {
+          "width": 568,
+          "height": 310,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              252,
+              123
+            ],
+            "enhancedSize": [
+              504,
+              246
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-181-art-01.webp",
+          "imageCaption": {
+            "ru": "Кусачки",
+            "en": "Cutting Pliers"
+          },
+          "sourcePages": [
+            181
+          ]
+        },
+        {
+          "width": 558,
+          "height": 164,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              247,
+              50
+            ],
+            "enhancedSize": [
+              494,
+              100
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-181-art-02.webp",
+          "imageCaption": {
+            "ru": "Удерживающая втулка, для винтов",
+            "en": "Holding Sleeve, for Screws"
+          },
+          "sourcePages": [
+            181
+          ]
+        },
+        {
+          "width": 688,
+          "height": 79,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              325,
+              30
+            ],
+            "enhancedSize": [
+              650,
+              60
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-181-art-03.webp",
+          "imageCaption": {
+            "ru": "Спица-проводник, 42.0, длина 230 мм",
+            "en": "Guide Wire, 42.0, length 230mm"
+          },
+          "sourcePages": [
+            181
+          ]
+        },
+        {
+          "width": 603,
+          "height": 275,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              288,
+              115
+            ],
+            "enhancedSize": [
+              576,
+              230
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-181-art-04.webp",
+          "imageCaption": {
+            "ru": "Репозиционные щипцы, изогнутый",
+            "en": "Reduction Forceps, curved"
+          },
+          "sourcePages": [
+            181
+          ]
+        }
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 181,
+          "sourceBounds": [
+            0.08,
+            0.1511121111328507,
+            0.56,
+            0.27031386813223124
+          ],
+          "printedPage": "3/40",
+          "sourceRowId": "181-01",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p181",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 181,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112253800"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112253800"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112253800"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Cutting Pliers",
+            "PSM11": "Cutting Pliers",
+            "Vision": "Cutting Pliers"
+          }
+        },
+        {
+          "pdfPage": 181,
+          "sourceBounds": [
+            0.08,
+            0.26948424965760126,
+            0.56,
+            0.37330987307415253
+          ],
+          "printedPage": "3/40",
+          "sourceRowId": "181-02",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p181",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 181,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112259900"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112259900"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112259900"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Holding Sleeve, for Screws",
+            "PSM11": "Holding Sleeve, for Screws",
+            "Vision": "Holding Sleeve, for Screws"
+          }
+        },
+        {
+          "pdfPage": 181,
+          "sourceBounds": [
+            0.08,
+            0.3725951868518881,
+            0.56,
+            0.4736888671618806
+          ],
+          "printedPage": "3/40",
+          "sourceRowId": "181-03",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p181",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 181,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112254500"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112254500"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112254500"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Guide Wire, 02.0, length 230mm",
+            "PSM11": "Guide Wire, 92.0, length 230mm",
+            "Vision": "Guide Wire, 42.0, length 230mm"
+          }
+        },
+        {
+          "pdfPage": 181,
+          "sourceBounds": [
+            0.08,
+            0.472966934063784,
+            0.56,
+            0.93
+          ],
+          "printedPage": "3/40",
+          "sourceRowId": "181-04",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p181",
+              "row": 4,
+              "column": 2,
+              "pdfPage": 181,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "110223300"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "110223300"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "110223300"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "Reduction Forceps, curved",
+            "PSM11": "Reduction Forceps, curved",
+            "Vision": "Reduction Forceps, curved"
+          }
+        }
+      ],
+      "sourcePage": 181,
+      "sourcePages": [
+        181
+      ],
+      "printedPage": "3/40",
+      "images": []
+    },
+    {
+      "id": "trauma-set-175-p182",
+      "groupId": "trauma-set-175-p182",
+      "title": {
+        "ru": "Инструменты · 3/41",
+        "en": "Instruments · 3/41"
+      },
+      "unit": "mm",
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Контейнер инструментов — Набор инструментов MARATHON",
+            "en": "MARATHON Instrument Case"
+          },
+          "112258100"
+        ]
+      ],
+      "rowImages": [
+        {
+          "width": 602,
+          "height": 330,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              269,
+              133
+            ],
+            "enhancedSize": [
+              538,
+              266
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-182-art-01.webp",
+          "imageCaption": {
+            "ru": "Контейнер инструментов — Набор инструментов MARATHON",
+            "en": "MARATHON Instrument Case"
+          },
+          "sourcePages": [
+            182
+          ]
+        }
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 182,
+          "sourceBounds": [
+            0.08,
+            0.1511121111328507,
+            0.56,
+            0.93
+          ],
+          "printedPage": "3/41",
+          "sourceRowId": "182-01",
+          "codeEvidence": [
+            {
+              "tableId": "trauma-set-175-p182",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 182,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "112258100"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "112258100"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "112258100"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "descriptionReadings": {
+            "PSM3": "MARATHON Instrument Case",
+            "PSM11": "MARATHON Instrument Case",
+            "Vision": "MARATHON Instrument Case"
+          }
+        }
+      ],
+      "sourcePage": 182,
+      "sourcePages": [
+        182
+      ],
+      "printedPage": "3/41",
+      "images": [
+        {
+          "width": 602,
+          "height": 342,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              269,
+              139
+            ],
+            "enhancedSize": [
+              538,
+              278
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-182-art-02.webp",
+          "imageCaption": {
+            "ru": "Контейнер инструментов — Набор инструментов MARATHON",
+            "en": "MARATHON Instrument Case"
+          },
+          "sourcePages": [
+            182
+          ]
+        },
+        {
+          "width": 602,
+          "height": 334,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              269,
+              135
+            ],
+            "enhancedSize": [
+              538,
+              270
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-182-art-03.webp",
+          "imageCaption": {
+            "ru": "Контейнер инструментов — Набор инструментов MARATHON",
+            "en": "MARATHON Instrument Case"
+          },
+          "sourcePages": [
+            182
+          ]
+        },
+        {
+          "width": 602,
+          "height": 332,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              269,
+              134
+            ],
+            "enhancedSize": [
+              538,
+              268
+            ]
+          },
+          "src": "/images/products/double-medical/marathon-instrument-set/page-182-art-04.webp",
+          "imageCaption": {
+            "ru": "Контейнер инструментов — Набор инструментов MARATHON",
+            "en": "MARATHON Instrument Case"
+          },
+          "sourcePages": [
+            182
+          ]
+        }
+      ]
+    }
+  ],
+  "refCodes": [
+    "112258000",
+    "110060100",
+    "112250100",
+    "112250200",
+    "112250500",
+    "112250800",
+    "112251100",
+    "110015800",
+    "112251600",
+    "112251300",
+    "110040400",
+    "112250300",
+    "112250400",
+    "112250600",
+    "112250700",
+    "112250900",
+    "112251000",
+    "112252100",
+    "112258200",
+    "110011200",
+    "110010100",
+    "112251500",
+    "111601100",
+    "112251900",
+    "112251700",
+    "112251800",
+    "112252200",
+    "112252300",
+    "112252400",
+    "112252500",
+    "112252600",
+    "112252700",
+    "112252800",
+    "112252900",
+    "112253000",
+    "112253100",
+    "111970300",
+    "112253200",
+    "112253300",
+    "112253400",
+    "112253500",
+    "112253600",
+    "112253700",
+    "112253800",
+    "112259900",
+    "112254500",
+    "110223300",
+    "112258100"
+  ],
+  "sourcePages": [
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Trauma Catalogue — каталог продукции",
+    "en": "Double Medical Trauma Catalogue — product catalog"
+  },
+  "documentCover": "/catalogs/double-medical/trauma-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "catalogType": "list",
+  "importPartition": "trauma-part1",
+  "availabilityNote": {
+    "ru": "Изображения приведены для справки",
+    "en": "Images for reference only"
+  },
+  "imageDimensions": {
+    "/images/products/double-medical/marathon-instrument-set/page-175-art-01.webp": {
+      "width": 500,
+      "height": 186
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-175-art-02.webp": {
+      "width": 634,
+      "height": 90
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-175-art-03.webp": {
+      "width": 626,
+      "height": 90
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-175-art-04.webp": {
+      "width": 638,
+      "height": 90
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-175-art-05.webp": {
+      "width": 630,
+      "height": 90
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-175-art-06.webp": {
+      "width": 860,
+      "height": 100
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-175-art-07.webp": {
+      "width": 860,
+      "height": 106
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-176-art-01.webp": {
+      "width": 858,
+      "height": 106
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-176-art-02.webp": {
+      "width": 858,
+      "height": 128
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-176-art-03.webp": {
+      "width": 270,
+      "height": 166
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-176-art-04.webp": {
+      "width": 628,
+      "height": 158
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-176-art-05.webp": {
+      "width": 274,
+      "height": 166
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-176-art-06.webp": {
+      "width": 626,
+      "height": 158
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-176-art-07.webp": {
+      "width": 274,
+      "height": 168
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-176-art-08.webp": {
+      "width": 624,
+      "height": 160
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-177-art-01.webp": {
+      "width": 630,
+      "height": 292
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-177-art-02.webp": {
+      "width": 478,
+      "height": 346
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-177-art-03.webp": {
+      "width": 712,
+      "height": 152
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-177-art-04.webp": {
+      "width": 866,
+      "height": 276
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-177-art-05.webp": {
+      "width": 405,
+      "height": 165
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-177-art-06.webp": {
+      "width": 511,
+      "height": 156
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-178-art-01.webp": {
+      "width": 858,
+      "height": 151
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-178-art-02.webp": {
+      "width": 624,
+      "height": 156
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-178-art-03.webp": {
+      "width": 624,
+      "height": 154
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-178-art-04.webp": {
+      "width": 858,
+      "height": 202
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-178-art-05.webp": {
+      "width": 858,
+      "height": 186
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-178-art-06.webp": {
+      "width": 858,
+      "height": 126
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-178-art-07.webp": {
+      "width": 858,
+      "height": 128
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-179-art-01.webp": {
+      "width": 864,
+      "height": 182
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-179-art-02.webp": {
+      "width": 864,
+      "height": 166
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-179-art-03.webp": {
+      "width": 864,
+      "height": 164
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-179-art-04.webp": {
+      "width": 628,
+      "height": 144
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-179-art-05.webp": {
+      "width": 628,
+      "height": 144
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-179-art-06.webp": {
+      "width": 630,
+      "height": 148
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-179-art-07.webp": {
+      "width": 536,
+      "height": 361
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-180-art-01.webp": {
+      "width": 658,
+      "height": 326
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-180-art-02.webp": {
+      "width": 658,
+      "height": 306
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-180-art-03.webp": {
+      "width": 704,
+      "height": 364
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-180-art-04.webp": {
+      "width": 674,
+      "height": 478
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-180-art-05.webp": {
+      "width": 652,
+      "height": 384
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-180-art-06.webp": {
+      "width": 652,
+      "height": 474
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-181-art-01.webp": {
+      "width": 568,
+      "height": 310
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-181-art-02.webp": {
+      "width": 558,
+      "height": 164
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-181-art-03.webp": {
+      "width": 688,
+      "height": 79
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-181-art-04.webp": {
+      "width": 603,
+      "height": 275
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-182-art-01.webp": {
+      "width": 602,
+      "height": 330
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-182-art-02.webp": {
+      "width": 602,
+      "height": 342
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-182-art-03.webp": {
+      "width": 602,
+      "height": 334
+    },
+    "/images/products/double-medical/marathon-instrument-set/page-182-art-04.webp": {
+      "width": 602,
+      "height": 332
+    }
+  },
+  "relatedSystemSlugs": [
+    "md-calcaneal-locking-plate-curved",
+    "md-calcaneal-locking-plate-flat",
+    "md-ap-and-pt-calcaneal-locking-plate",
+    "md-posterior-tuberosity-calcaneal-locking-plate",
+    "md-anterior-process-calcaneal-locking-plate",
+    "md-fifth-metatarsal-locking-plate",
+    "md-distal-lateral-fibular-locking-plate",
+    "md-distal-medial-tibial-locking-plate",
+    "md-distal-anterior-tibial-locking-plate",
+    "md-distal-tibial-t-locking-plate",
+    "md-distal-tibial-l-locking-plate",
+    "md-distal-tibial-hook-locking-plate",
+    "mt-ap-and-pt-calcaneal-locking-plate",
+    "mt-posterior-tuberosity-calcaneal-locking-plate",
+    "mt-anterior-process-calcaneal-locking-plate",
+    "mt-calcaneal-locking-plate",
+    "mt-first-mtc-fusion-locking-plate",
+    "mt-l-locking-plate-for-metatarsal",
+    "mt-straight-fusion-locking-plate",
+    "mt-first-mtp-fusion-locking-plate",
+    "mt-x-locking-plate",
+    "mt-x-locking-plate-oblique",
+    "mt-talus-locking-plate",
+    "mt-cuboid-locking-plate",
+    "mt-navicular-locking-plate",
+    "mt-first-mtc-plantar-fusion-locking-plate",
+    "mt-first-metatarsal-osteotomy-locking-plate",
+    "mt-calcaneal-step-locking-plate",
+    "mt-lateral-column-lengthening-locking-plate",
+    "mt-t-locking-plate",
+    "mt-distal-first-metatarsal-t-locking-plate",
+    "mt-mis-posterior-calcaneal-locking-plate",
+    "mt-proximal-first-metatarsal-t-locking-plate",
+    "mt-first-metarsal-l-locking-plate",
+    "mt-calcaneal-fusion-locking-plate",
+    "dmt-osteotomy-locking-plate",
+    "mt-2-7mm-locking-screw-torxdrive-self-tapping",
+    "mt-3-0mm-locking-screw-torxdrive-self-tapping",
+    "mt-3-5mm-locking-screw-torxdrive-self-tapping",
+    "mt-4-0mm-locking-screw-torxdrive-self-tapping",
+    "mt-2-7mm-cortex-screw-square-self-tapping",
+    "mt-3-5mm-cortex-screw-square-self-tapping"
+  ],
+  "setCode": "112258000",
+  "setCodes": [
+    "112258000"
+  ],
+  "setCodeEvidence": [
+    {
+      "cy": 0.12248092349833692,
+      "bounds": [
+        0.2599396764463943,
+        0.1166112306789278,
+        0.36057033177954484,
+        0.12835061631774602
+      ],
+      "readings": {
+        "PSM3": "112258000",
+        "PSM11": "112258000",
+        "Vision": "112258000"
+      },
+      "value": "112258000",
+      "pdfPage": 175
+    }
+  ],
+  "sourcePdf": "/catalogs/double-medical/trauma-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/trauma-catalogue/pages/175.webp",
+    "/catalogs/double-medical/trauma-catalogue/pages/176.webp",
+    "/catalogs/double-medical/trauma-catalogue/pages/177.webp",
+    "/catalogs/double-medical/trauma-catalogue/pages/178.webp",
+    "/catalogs/double-medical/trauma-catalogue/pages/179.webp",
+    "/catalogs/double-medical/trauma-catalogue/pages/180.webp",
+    "/catalogs/double-medical/trauma-catalogue/pages/181.webp",
+    "/catalogs/double-medical/trauma-catalogue/pages/182.webp"
+  ],
+  "sourcePageDimensions": {
+    "6": {
+      "width": 3647,
+      "height": 5111
+    },
+    "7": {
+      "width": 3647,
+      "height": 5111
+    },
+    "8": {
+      "width": 3647,
+      "height": 5111
+    },
+    "9": {
+      "width": 3647,
+      "height": 5111
+    },
+    "10": {
+      "width": 3647,
+      "height": 5111
+    },
+    "11": {
+      "width": 3647,
+      "height": 5111
+    },
+    "12": {
+      "width": 3647,
+      "height": 5111
+    },
+    "13": {
+      "width": 3647,
+      "height": 5111
+    },
+    "14": {
+      "width": 3647,
+      "height": 5111
+    },
+    "15": {
+      "width": 3647,
+      "height": 5111
+    },
+    "16": {
+      "width": 3647,
+      "height": 5111
+    },
+    "17": {
+      "width": 3647,
+      "height": 5111
+    },
+    "18": {
+      "width": 3647,
+      "height": 5111
+    },
+    "19": {
+      "width": 3647,
+      "height": 5111
+    },
+    "20": {
+      "width": 3647,
+      "height": 5111
+    },
+    "21": {
+      "width": 3647,
+      "height": 5111
+    },
+    "22": {
+      "width": 3647,
+      "height": 5111
+    },
+    "23": {
+      "width": 3647,
+      "height": 5111
+    },
+    "24": {
+      "width": 3647,
+      "height": 5111
+    },
+    "25": {
+      "width": 3647,
+      "height": 5111
+    },
+    "26": {
+      "width": 3647,
+      "height": 5111
+    },
+    "27": {
+      "width": 3647,
+      "height": 5111
+    },
+    "28": {
+      "width": 3647,
+      "height": 5111
+    },
+    "29": {
+      "width": 3647,
+      "height": 5111
+    },
+    "30": {
+      "width": 3647,
+      "height": 5111
+    },
+    "31": {
+      "width": 3647,
+      "height": 5111
+    },
+    "32": {
+      "width": 3647,
+      "height": 5111
+    },
+    "33": {
+      "width": 3647,
+      "height": 5111
+    },
+    "34": {
+      "width": 3647,
+      "height": 5111
+    },
+    "35": {
+      "width": 3647,
+      "height": 5111
+    },
+    "36": {
+      "width": 3647,
+      "height": 5111
+    },
+    "37": {
+      "width": 3647,
+      "height": 5111
+    },
+    "38": {
+      "width": 3647,
+      "height": 5111
+    },
+    "39": {
+      "width": 3647,
+      "height": 5111
+    },
+    "40": {
+      "width": 3647,
+      "height": 5111
+    },
+    "41": {
+      "width": 3647,
+      "height": 5111
+    },
+    "42": {
+      "width": 3647,
+      "height": 5111
+    },
+    "43": {
+      "width": 3647,
+      "height": 5111
+    },
+    "44": {
+      "width": 3647,
+      "height": 5111
+    },
+    "45": {
+      "width": 3647,
+      "height": 5111
+    },
+    "46": {
+      "width": 3647,
+      "height": 5111
+    },
+    "47": {
+      "width": 3647,
+      "height": 5111
+    },
+    "48": {
+      "width": 3647,
+      "height": 5111
+    },
+    "49": {
+      "width": 3647,
+      "height": 5111
+    },
+    "50": {
+      "width": 3647,
+      "height": 5111
+    },
+    "51": {
+      "width": 3647,
+      "height": 5111
+    },
+    "52": {
+      "width": 3647,
+      "height": 5111
+    },
+    "53": {
+      "width": 3647,
+      "height": 5111
+    },
+    "54": {
+      "width": 3647,
+      "height": 5111
+    },
+    "55": {
+      "width": 3647,
+      "height": 5111
+    },
+    "56": {
+      "width": 3647,
+      "height": 5111
+    },
+    "57": {
+      "width": 3647,
+      "height": 5111
+    },
+    "58": {
+      "width": 3647,
+      "height": 5111
+    },
+    "59": {
+      "width": 3647,
+      "height": 5111
+    },
+    "60": {
+      "width": 3647,
+      "height": 5111
+    },
+    "61": {
+      "width": 3647,
+      "height": 5111
+    },
+    "62": {
+      "width": 3647,
+      "height": 5111
+    },
+    "63": {
+      "width": 3647,
+      "height": 5111
+    },
+    "64": {
+      "width": 3647,
+      "height": 5111
+    },
+    "65": {
+      "width": 3647,
+      "height": 5111
+    },
+    "66": {
+      "width": 3647,
+      "height": 5111
+    },
+    "67": {
+      "width": 3647,
+      "height": 5111
+    },
+    "68": {
+      "width": 3647,
+      "height": 5111
+    },
+    "69": {
+      "width": 3647,
+      "height": 5111
+    },
+    "70": {
+      "width": 3647,
+      "height": 5111
+    },
+    "71": {
+      "width": 3647,
+      "height": 5111
+    },
+    "72": {
+      "width": 3647,
+      "height": 5111
+    },
+    "73": {
+      "width": 3647,
+      "height": 5111
+    },
+    "74": {
+      "width": 3647,
+      "height": 5111
+    },
+    "75": {
+      "width": 3647,
+      "height": 5111
+    },
+    "76": {
+      "width": 3647,
+      "height": 5111
+    },
+    "77": {
+      "width": 3647,
+      "height": 5111
+    },
+    "80": {
+      "width": 3647,
+      "height": 5111
+    },
+    "81": {
+      "width": 3647,
+      "height": 5111
+    },
+    "82": {
+      "width": 3647,
+      "height": 5111
+    },
+    "83": {
+      "width": 3647,
+      "height": 5111
+    },
+    "84": {
+      "width": 3647,
+      "height": 5111
+    },
+    "85": {
+      "width": 3647,
+      "height": 5111
+    },
+    "86": {
+      "width": 3647,
+      "height": 5111
+    },
+    "87": {
+      "width": 3647,
+      "height": 5111
+    },
+    "88": {
+      "width": 3647,
+      "height": 5111
+    },
+    "89": {
+      "width": 3647,
+      "height": 5111
+    },
+    "90": {
+      "width": 3647,
+      "height": 5111
+    },
+    "91": {
+      "width": 3647,
+      "height": 5111
+    },
+    "92": {
+      "width": 3647,
+      "height": 5111
+    },
+    "93": {
+      "width": 3647,
+      "height": 5111
+    },
+    "94": {
+      "width": 3647,
+      "height": 5111
+    },
+    "95": {
+      "width": 3647,
+      "height": 5111
+    },
+    "96": {
+      "width": 3647,
+      "height": 5111
+    },
+    "97": {
+      "width": 3647,
+      "height": 5111
+    },
+    "98": {
+      "width": 3647,
+      "height": 5111
+    },
+    "99": {
+      "width": 3647,
+      "height": 5111
+    },
+    "100": {
+      "width": 3647,
+      "height": 5111
+    },
+    "101": {
+      "width": 3647,
+      "height": 5111
+    },
+    "102": {
+      "width": 3647,
+      "height": 5111
+    },
+    "103": {
+      "width": 3647,
+      "height": 5111
+    },
+    "104": {
+      "width": 3647,
+      "height": 5111
+    },
+    "105": {
+      "width": 3647,
+      "height": 5111
+    },
+    "106": {
+      "width": 3647,
+      "height": 5111
+    },
+    "107": {
+      "width": 3647,
+      "height": 5111
+    },
+    "108": {
+      "width": 3647,
+      "height": 5111
+    },
+    "109": {
+      "width": 3647,
+      "height": 5111
+    },
+    "110": {
+      "width": 3647,
+      "height": 5111
+    },
+    "111": {
+      "width": 3647,
+      "height": 5111
+    },
+    "112": {
+      "width": 3647,
+      "height": 5111
+    },
+    "113": {
+      "width": 3647,
+      "height": 5111
+    },
+    "114": {
+      "width": 3647,
+      "height": 5111
+    },
+    "115": {
+      "width": 3647,
+      "height": 5111
+    },
+    "116": {
+      "width": 3647,
+      "height": 5111
+    },
+    "117": {
+      "width": 3647,
+      "height": 5111
+    },
+    "118": {
+      "width": 3647,
+      "height": 5111
+    },
+    "119": {
+      "width": 3647,
+      "height": 5111
+    },
+    "120": {
+      "width": 3647,
+      "height": 5111
+    },
+    "121": {
+      "width": 3647,
+      "height": 5111
+    },
+    "122": {
+      "width": 3647,
+      "height": 5111
+    },
+    "123": {
+      "width": 3647,
+      "height": 5111
+    },
+    "124": {
+      "width": 3647,
+      "height": 5111
+    },
+    "125": {
+      "width": 3647,
+      "height": 5111
+    },
+    "126": {
+      "width": 3647,
+      "height": 5111
+    },
+    "127": {
+      "width": 3647,
+      "height": 5111
+    },
+    "128": {
+      "width": 3647,
+      "height": 5111
+    },
+    "129": {
+      "width": 3647,
+      "height": 5111
+    },
+    "130": {
+      "width": 3647,
+      "height": 5111
+    },
+    "131": {
+      "width": 3647,
+      "height": 5111
+    },
+    "132": {
+      "width": 3647,
+      "height": 5111
+    },
+    "133": {
+      "width": 3647,
+      "height": 5111
+    },
+    "134": {
+      "width": 3647,
+      "height": 5111
+    },
+    "135": {
+      "width": 3647,
+      "height": 5111
+    },
+    "136": {
+      "width": 3647,
+      "height": 5111
+    },
+    "137": {
+      "width": 3647,
+      "height": 5111
+    },
+    "138": {
+      "width": 3647,
+      "height": 5111
+    },
+    "139": {
+      "width": 3647,
+      "height": 5111
+    },
+    "140": {
+      "width": 3647,
+      "height": 5111
+    },
+    "143": {
+      "width": 3647,
+      "height": 5111
+    },
+    "144": {
+      "width": 3647,
+      "height": 5111
+    },
+    "145": {
+      "width": 3647,
+      "height": 5111
+    },
+    "146": {
+      "width": 3647,
+      "height": 5111
+    },
+    "147": {
+      "width": 3647,
+      "height": 5111
+    },
+    "148": {
+      "width": 3647,
+      "height": 5111
+    },
+    "149": {
+      "width": 3647,
+      "height": 5111
+    },
+    "150": {
+      "width": 3647,
+      "height": 5111
+    },
+    "151": {
+      "width": 3647,
+      "height": 5111
+    },
+    "152": {
+      "width": 3647,
+      "height": 5111
+    },
+    "153": {
+      "width": 3647,
+      "height": 5111
+    },
+    "154": {
+      "width": 3647,
+      "height": 5111
+    },
+    "155": {
+      "width": 3647,
+      "height": 5111
+    },
+    "156": {
+      "width": 3647,
+      "height": 5111
+    },
+    "157": {
+      "width": 3647,
+      "height": 5111
+    },
+    "158": {
+      "width": 3647,
+      "height": 5111
+    },
+    "159": {
+      "width": 3647,
+      "height": 5111
+    },
+    "160": {
+      "width": 3647,
+      "height": 5111
+    },
+    "161": {
+      "width": 3647,
+      "height": 5111
+    },
+    "162": {
+      "width": 3647,
+      "height": 5111
+    },
+    "163": {
+      "width": 3647,
+      "height": 5111
+    },
+    "164": {
+      "width": 3647,
+      "height": 5111
+    },
+    "165": {
+      "width": 3647,
+      "height": 5111
+    },
+    "166": {
+      "width": 3647,
+      "height": 5111
+    },
+    "167": {
+      "width": 3647,
+      "height": 5111
+    },
+    "168": {
+      "width": 3647,
+      "height": 5111
+    },
+    "169": {
+      "width": 3647,
+      "height": 5111
+    },
+    "170": {
+      "width": 3647,
+      "height": 5111
+    },
+    "171": {
+      "width": 3647,
+      "height": 5111
+    },
+    "172": {
+      "width": 3647,
+      "height": 5111
+    },
+    "173": {
+      "width": 3647,
+      "height": 5111
+    },
+    "174": {
+      "width": 3647,
+      "height": 5111
+    },
+    "175": {
+      "width": 3647,
+      "height": 5111
+    },
+    "176": {
+      "width": 3647,
+      "height": 5111
+    },
+    "177": {
+      "width": 3647,
+      "height": 5111
+    },
+    "178": {
+      "width": 3647,
+      "height": 5111
+    },
+    "179": {
+      "width": 3647,
+      "height": 5111
+    },
+    "180": {
+      "width": 3647,
+      "height": 5111
+    },
+    "181": {
+      "width": 3647,
+      "height": 5111
+    },
+    "182": {
+      "width": 3647,
+      "height": 5111
+    },
+    "183": {
+      "width": 3647,
+      "height": 5111
+    },
+    "184": {
+      "width": 3647,
+      "height": 5111
+    },
+    "185": {
+      "width": 3647,
+      "height": 5111
+    },
+    "186": {
+      "width": 3647,
+      "height": 5111
+    },
+    "187": {
+      "width": 3647,
+      "height": 5111
+    },
+    "188": {
+      "width": 3647,
+      "height": 5111
+    },
+    "189": {
+      "width": 3647,
+      "height": 5111
+    },
+    "190": {
+      "width": 3647,
+      "height": 5111
+    },
+    "193": {
+      "width": 3647,
+      "height": 5111
+    },
+    "194": {
+      "width": 3647,
+      "height": 5111
+    },
+    "195": {
+      "width": 3647,
+      "height": 5111
+    },
+    "196": {
+      "width": 3647,
+      "height": 5111
+    },
+    "197": {
+      "width": 3647,
+      "height": 5111
+    },
+    "198": {
+      "width": 3647,
+      "height": 5111
+    },
+    "199": {
+      "width": 3647,
+      "height": 5111
+    },
+    "200": {
+      "width": 3647,
+      "height": 5111
+    },
+    "201": {
+      "width": 3647,
+      "height": 5111
+    },
+    "202": {
+      "width": 3647,
+      "height": 5111
+    },
+    "203": {
+      "width": 3647,
+      "height": 5111
+    },
+    "204": {
+      "width": 3647,
+      "height": 5111
+    },
+    "205": {
+      "width": 3647,
+      "height": 5111
+    },
+    "206": {
+      "width": 3647,
+      "height": 5111
+    },
+    "207": {
+      "width": 3647,
+      "height": 5111
+    },
+    "208": {
+      "width": 3647,
+      "height": 5111
+    },
+    "209": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "3f2755d7646453cd1d8981369406a66062322971a7cb98258e022ae9b9769999",
+    "importMethod": "600-DPI Tesseract PSM3/11 plus independent Apple Vision; source glyph reconciliation and Codex visual reading; Codex medical RU; native photo composites, original Real-ESRGAN weights exact 2x then rembg",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      79,
+      142,
+      192,
+      78,
+      141,
+      191,
+      210
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "gallery.1.imageCaption.ru",
+      "gallery.2.imageCaption.ru",
+      "gallery.3.imageCaption.ru",
+      "gallery.4.imageCaption.ru",
+      "gallery.5.imageCaption.ru",
+      "components.0.name.ru",
+      "components.1.name.ru",
+      "components.2.name.ru",
+      "components.3.name.ru",
+      "components.4.name.ru",
+      "components.5.name.ru",
+      "components.6.name.ru",
+      "components.7.name.ru",
+      "components.8.name.ru",
+      "components.9.name.ru",
+      "components.10.name.ru",
+      "components.11.name.ru",
+      "components.12.name.ru",
+      "components.13.name.ru",
+      "components.14.name.ru",
+      "components.15.name.ru",
+      "components.16.name.ru",
+      "components.17.name.ru",
+      "components.18.name.ru",
+      "components.19.name.ru",
+      "components.20.name.ru",
+      "components.21.name.ru",
+      "components.22.name.ru",
+      "components.23.name.ru",
+      "components.24.name.ru",
+      "components.25.name.ru",
+      "components.26.name.ru",
+      "components.27.name.ru",
+      "components.28.name.ru",
+      "components.29.name.ru",
+      "components.30.name.ru",
+      "components.31.name.ru",
+      "components.32.name.ru",
+      "components.33.name.ru",
+      "components.34.name.ru",
+      "components.35.name.ru",
+      "components.36.name.ru",
+      "components.37.name.ru",
+      "components.38.name.ru",
+      "components.39.name.ru",
+      "components.40.name.ru",
+      "components.41.name.ru",
+      "components.42.name.ru",
+      "components.43.name.ru",
+      "components.44.name.ru",
+      "components.45.name.ru",
+      "components.46.name.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.rows.3.0.ru",
+      "specTables.0.rows.4.0.ru",
+      "specTables.0.rows.5.0.ru",
+      "specTables.0.rows.6.0.ru",
+      "specTables.0.rows.7.0.ru",
+      "specTables.0.rowImages.1.imageCaption.ru",
+      "specTables.0.rowImages.2.imageCaption.ru",
+      "specTables.0.rowImages.3.imageCaption.ru",
+      "specTables.0.rowImages.4.imageCaption.ru",
+      "specTables.0.rowImages.5.imageCaption.ru",
+      "specTables.0.rowImages.6.imageCaption.ru",
+      "specTables.0.rowImages.7.imageCaption.ru",
+      "specTables.1.title.ru",
+      "specTables.1.columns.0.ru",
+      "specTables.1.columns.1.ru",
+      "specTables.1.rows.0.0.ru",
+      "specTables.1.rows.1.0.ru",
+      "specTables.1.rows.2.0.ru",
+      "specTables.1.rows.3.0.ru",
+      "specTables.1.rows.4.0.ru",
+      "specTables.1.rows.5.0.ru",
+      "specTables.1.rows.6.0.ru",
+      "specTables.1.rows.7.0.ru",
+      "specTables.1.rowImages.0.imageCaption.ru",
+      "specTables.1.rowImages.1.imageCaption.ru",
+      "specTables.1.rowImages.2.imageCaption.ru",
+      "specTables.1.rowImages.3.imageCaption.ru",
+      "specTables.1.rowImages.4.imageCaption.ru",
+      "specTables.1.rowImages.5.imageCaption.ru",
+      "specTables.1.rowImages.6.imageCaption.ru",
+      "specTables.1.rowImages.7.imageCaption.ru",
+      "specTables.2.title.ru",
+      "specTables.2.columns.0.ru",
+      "specTables.2.columns.1.ru",
+      "specTables.2.rows.0.0.ru",
+      "specTables.2.rows.1.0.ru",
+      "specTables.2.rows.2.0.ru",
+      "specTables.2.rows.3.0.ru",
+      "specTables.2.rows.4.0.ru",
+      "specTables.2.rows.5.0.ru",
+      "specTables.2.rowImages.0.imageCaption.ru",
+      "specTables.2.rowImages.1.imageCaption.ru",
+      "specTables.2.rowImages.2.imageCaption.ru",
+      "specTables.2.rowImages.3.imageCaption.ru",
+      "specTables.2.rowImages.4.imageCaption.ru",
+      "specTables.2.rowImages.5.imageCaption.ru",
+      "specTables.3.title.ru",
+      "specTables.3.columns.0.ru",
+      "specTables.3.columns.1.ru",
+      "specTables.3.rows.0.0.ru",
+      "specTables.3.rows.1.0.ru",
+      "specTables.3.rows.2.0.ru",
+      "specTables.3.rows.3.0.ru",
+      "specTables.3.rows.4.0.ru",
+      "specTables.3.rows.5.0.ru",
+      "specTables.3.rows.6.0.ru",
+      "specTables.3.rowImages.0.imageCaption.ru",
+      "specTables.3.rowImages.1.imageCaption.ru",
+      "specTables.3.rowImages.2.imageCaption.ru",
+      "specTables.3.rowImages.3.imageCaption.ru",
+      "specTables.3.rowImages.4.imageCaption.ru",
+      "specTables.3.rowImages.5.imageCaption.ru",
+      "specTables.3.rowImages.6.imageCaption.ru",
+      "specTables.4.title.ru",
+      "specTables.4.columns.0.ru",
+      "specTables.4.columns.1.ru",
+      "specTables.4.rows.0.0.ru",
+      "specTables.4.rows.1.0.ru",
+      "specTables.4.rows.2.0.ru",
+      "specTables.4.rows.3.0.ru",
+      "specTables.4.rows.4.0.ru",
+      "specTables.4.rows.5.0.ru",
+      "specTables.4.rows.6.0.ru",
+      "specTables.4.rowImages.0.imageCaption.ru",
+      "specTables.4.rowImages.1.imageCaption.ru",
+      "specTables.4.rowImages.2.imageCaption.ru",
+      "specTables.4.rowImages.3.imageCaption.ru",
+      "specTables.4.rowImages.4.imageCaption.ru",
+      "specTables.4.rowImages.5.imageCaption.ru",
+      "specTables.4.rowImages.6.imageCaption.ru",
+      "specTables.5.title.ru",
+      "specTables.5.columns.0.ru",
+      "specTables.5.columns.1.ru",
+      "specTables.5.rows.0.0.ru",
+      "specTables.5.rows.1.0.ru",
+      "specTables.5.rows.2.0.ru",
+      "specTables.5.rows.3.0.ru",
+      "specTables.5.rows.4.0.ru",
+      "specTables.5.rows.5.0.ru",
+      "specTables.5.rowImages.0.imageCaption.ru",
+      "specTables.5.rowImages.1.imageCaption.ru",
+      "specTables.5.rowImages.2.imageCaption.ru",
+      "specTables.5.rowImages.3.imageCaption.ru",
+      "specTables.5.rowImages.4.imageCaption.ru",
+      "specTables.5.rowImages.5.imageCaption.ru",
+      "specTables.6.title.ru",
+      "specTables.6.columns.0.ru",
+      "specTables.6.columns.1.ru",
+      "specTables.6.rows.0.0.ru",
+      "specTables.6.rows.1.0.ru",
+      "specTables.6.rows.2.0.ru",
+      "specTables.6.rows.3.0.ru",
+      "specTables.6.rowImages.0.imageCaption.ru",
+      "specTables.6.rowImages.1.imageCaption.ru",
+      "specTables.6.rowImages.2.imageCaption.ru",
+      "specTables.6.rowImages.3.imageCaption.ru",
+      "specTables.7.title.ru",
+      "specTables.7.columns.0.ru",
+      "specTables.7.columns.1.ru",
+      "specTables.7.rows.0.0.ru",
+      "specTables.7.rowImages.0.imageCaption.ru",
+      "specTables.7.images.0.imageCaption.ru",
+      "specTables.7.images.1.imageCaption.ru",
+      "specTables.7.images.2.imageCaption.ru",
+      "catalogTitle.ru",
+      "availabilityNote.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Owner authorized automatic publication: exact source REF verification, Codex-authored RU/EN, complete image QA, zero open real flags",
+    "imageQA": "All source photos checked visually; native resolution corrected for rotations; Real-ESRGAN exact 2x, rembg, source-white aperture cleanup; originals retained."
+  },
+  "publishedAt": "2026-11-20T18:40:53.285059+00:00"
+}

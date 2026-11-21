@@ -1,0 +1,7 @@
+import Foundation
+import Vision
+import ImageIO
+let input=URL(fileURLWithPath:CommandLine.arguments[1]);let output=URL(fileURLWithPath:CommandLine.arguments[2]);try FileManager.default.createDirectory(at:output,withIntermediateDirectories:true)
+let skip:Set<Int>=[1,2,3,4,5,6,7,8,28,51,60,68,87,105,110,113,114,115,116]
+let files=try FileManager.default.contentsOfDirectory(at:input,includingPropertiesForKeys:nil).filter{$0.lastPathComponent.hasSuffix("-600dpi.png")}.sorted{$0.path<$1.path}
+for file in files {let n=Int(file.lastPathComponent.prefix(3))!;if skip.contains(n){continue};let target=output.appendingPathComponent(String(format:"%03d.json",n));if FileManager.default.fileExists(atPath:target.path){continue};try autoreleasepool {let request=VNRecognizeTextRequest();request.recognitionLevel = .accurate;request.usesLanguageCorrection=false;request.recognitionLanguages=["en-US"];request.usesCPUOnly=true;try VNImageRequestHandler(url:file,options:[:]).perform([request]);let rows:[[String:Any]]=(request.results ?? []).map {ob in let b=ob.boundingBox;return ["text":ob.topCandidates(1).first?.string ?? "","confidence":ob.topCandidates(1).first?.confidence ?? 0,"alternatives":ob.topCandidates(3).map{$0.string},"bounds":[b.origin.x,1-b.origin.y-b.height,b.origin.x+b.width,1-b.origin.y]]};let data=try JSONSerialization.data(withJSONObject:rows,options:[.prettyPrinted,.sortedKeys]);try data.write(to:target);print("VISION \(n) \(rows.count)")}}

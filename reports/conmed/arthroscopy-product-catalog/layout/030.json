@@ -1,0 +1,615 @@
+{
+  "pdfPage": 30,
+  "officialPage": 38,
+  "alignment": [
+    [
+      0.9692036554470272,
+      0.0027086501024496403,
+      0.014230984632879945
+    ],
+    [
+      -0.0009403571270858834,
+      0.9794853760804536,
+      0.011131458411054215
+    ]
+  ],
+  "alignmentMatches": 12,
+  "alignmentInliers": 12,
+  "category": "knee-arthroscopy",
+  "title": {
+    "en": "Bioabsorbable Interference Screws",
+    "ru": "Биорезорбируемые интерференционные винты"
+  },
+  "groups": [
+    {
+      "title": "®/Matryx Screws",
+      "page": 30,
+      "officialPage": 38,
+      "headingBounds": [
+        0.6933122786360695,
+        0.15153447270725096,
+        0.7899366375026685,
+        0.16507007738390633
+      ],
+      "rows": [
+        {
+          "description": "Fixed Tri-Lobe Driver for 5.0mm Interference Screws",
+          "codes": [
+            {
+              "candidate": "D8652",
+              "sourceBounds": [
+                0.8582503753484083,
+                0.17004197538921578,
+                0.8942198319908564,
+                0.18259572451468542
+              ],
+              "officialBounds": [
+                532.6739501953125,
+                129.15492248535156,
+                555.36474609375,
+                139.33392333984375
+              ],
+              "officialCode": "D8652"
+            }
+          ],
+          "rowBounds": [
+            0.42857964577260954,
+            0.17045885777568437,
+            0.8942198319908564,
+            0.18259572451468542
+          ],
+          "pdfPage": 30,
+          "officialPage": 38
+        },
+        {
+          "description": "Short Modular Tri-Lobe Driver for 5.0mm Interference Screws",
+          "codes": [
+            {
+              "candidate": "D8650",
+              "sourceBounds": [
+                0.8580577339674464,
+                0.1879735000853457,
+                0.8942582063562188,
+                0.20052702507081915
+              ],
+              "officialBounds": [
+                532.52099609375,
+                143.65394592285156,
+                555.357666015625,
+                153.83294677734375
+              ],
+              "officialCode": "D8650"
+            }
+          ],
+          "rowBounds": [
+            0.42862918428805585,
+            0.18839014749994804,
+            0.8942582063562188,
+            0.20052702507081915
+          ],
+          "pdfPage": 30,
+          "officialPage": 38
+        },
+        {
+          "description": "Extended Length Modular Tri-Lobe Driver for 5.0mm Interference Screws",
+          "codes": [
+            {
+              "candidate": "D8660",
+              "sourceBounds": [
+                0.8580645007390648,
+                0.20590483130833248,
+                0.8943048934220765,
+                0.2184583175616644
+              ],
+              "officialBounds": [
+                532.4939575195312,
+                158.15296936035156,
+                555.3558349609375,
+                168.33197021484375
+              ],
+              "officialCode": "D8660"
+            }
+          ],
+          "rowBounds": [
+            0.42867881946281006,
+            0.20632143713042933,
+            0.8943048934220765,
+            0.2184583175616644
+          ],
+          "pdfPage": 30,
+          "officialPage": 38
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Instrumentation for 5.5 – 6.5mm GENESYS Matryx/Matryx Screws",
+      "page": 30,
+      "officialPage": 38,
+      "headingBounds": [
+        0.4287759740011927,
+        0.24145386323431034,
+        0.8137765157558775,
+        0.2547096841395833
+      ],
+      "rows": [
+        {
+          "description": "Fixed Tri-Lobe Driver for 5.5 – 6.5mm Interference Screws",
+          "codes": [
+            {
+              "candidate": "D8653",
+              "sourceBounds": [
+                0.8582417924695318,
+                0.25970471136584394,
+                0.8944733891555076,
+                0.2722582061533766
+              ],
+              "officialBounds": [
+                532.511962890625,
+                201.65492248535156,
+                555.3682861328125,
+                211.83392333984375
+              ],
+              "officialCode": "D8653"
+            }
+          ],
+          "rowBounds": [
+            0.4288275966973919,
+            0.2601213448537562,
+            0.8944733891555076,
+            0.2722582061533766
+          ],
+          "pdfPage": 30,
+          "officialPage": 38
+        },
+        {
+          "description": "Short Modular Tri-Lobe Driver for 5.5 – 6.5mm Interference Screws",
+          "codes": [
+            {
+              "candidate": "D8651",
+              "sourceBounds": [
+                0.8589612283196641,
+                0.27763535113101023,
+                0.8945173697607389,
+                0.2901895012701297
+              ],
+              "officialBounds": [
+                532.9349365234375,
+                216.15394592285156,
+                555.36474609375,
+                226.33294677734375
+              ],
+              "officialCode": "D8651"
+            }
+          ],
+          "rowBounds": [
+            0.4288771352128381,
+            0.2780526345780198,
+            0.8945173697607389,
+            0.2901895012701297
+          ],
+          "pdfPage": 30,
+          "officialPage": 38
+        },
+        {
+          "description": "Extended Length Modular Tri-Lobe Driver for 5.5 – 6.5mm Interference Screws",
+          "codes": [
+            {
+              "candidate": "D8661",
+              "sourceBounds": [
+                0.8595437739821852,
+                0.30793218874980255,
+                0.8945982536142967,
+                0.3204868256197085
+              ],
+              "officialBounds": [
+                533.2498779296875,
+                240.65199279785156,
+                555.3629150390625,
+                250.83099365234375
+              ],
+              "officialCode": "D8661"
+            }
+          ],
+          "rowBounds": [
+            0.4431797169909829,
+            0.2959700954741116,
+            0.8945982536142967,
+            0.3204868256197085
+          ],
+          "pdfPage": 30,
+          "officialPage": 38
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Instrumentation Accessories for 5.0 – 6.5mm GENESYS Matryx/Matryx Screws",
+      "page": 30,
+      "officialPage": 38,
+      "headingBounds": [
+        0.42906154511847205,
+        0.34472033273996516,
+        0.8780853944019029,
+        0.3579139981294146
+      ],
+      "rows": [
+        {
+          "description": "Universal Driver, Modular Ratcheting Handle",
+          "codes": [
+            {
+              "candidate": "D8640",
+              "sourceBounds": [
+                0.858413402158208,
+                0.36297125369915795,
+                0.8947406915070032,
+                0.37552463677117964
+              ],
+              "officialBounds": [
+                532.4400024414062,
+                285.1549072265625,
+                555.3567504882812,
+                295.3338928222656
+              ],
+              "officialCode": "D8640"
+            }
+          ],
+          "rowBounds": [
+            0.4291131677103007,
+            0.3633877766175909,
+            0.8947406915070032,
+            0.37552463677117964
+          ],
+          "pdfPage": 30,
+          "officialPage": 38
+        },
+        {
+          "description": "Nitinol Guidewire 0.8mm (.032\") x 356.0mm (14\") (5 per Box)",
+          "codes": [
+            {
+              "candidate": "C8006",
+              "sourceBounds": [
+                0.8585627413048819,
+                0.38090240885124765,
+                0.8947944345979806,
+                0.3934558846740878
+              ],
+              "officialBounds": [
+                532.5029907226562,
+                299.6539001464844,
+                555.359375,
+                309.8328857421875
+              ],
+              "officialCode": "C8006"
+            }
+          ],
+          "rowBounds": [
+            0.42916275445103047,
+            0.38131902855314337,
+            0.8947944345979806,
+            0.3934558846740878
+          ],
+          "pdfPage": 30,
+          "officialPage": 38
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Drivers",
+      "page": 30,
+      "officialPage": 38,
+      "headingBounds": [
+        0.42934126204185896,
+        0.44586984468759344,
+        0.4697279712443956,
+        0.4590203292578496
+      ],
+      "rows": [
+        {
+          "description": "Fixed Tri-Lobe Driver for 7.0 – 11.0mm Interference Screws",
+          "codes": [
+            {
+              "candidate": "DFS70",
+              "sourceBounds": [
+                0.8600319244229362,
+                0.4637617110162509,
+                0.8950321781310265,
+                0.47631638162718726
+              ],
+              "officialBounds": [
+                533.2860107421875,
+                366.6539001464844,
+                555.3648071289062,
+                376.8328857421875
+              ],
+              "officialCode": "DFS70"
+            }
+          ],
+          "rowBounds": [
+            0.4293918953056569,
+            0.4641795338528787,
+            0.8950321781310265,
+            0.47631638162718726
+          ],
+          "pdfPage": 30,
+          "officialPage": 38
+        },
+        {
+          "description": "Short Modular Tri-Lobe Driver for 7.0 – 11.0mm Interference Screws",
+          "codes": [
+            {
+              "candidate": "DMS70",
+              "sourceBounds": [
+                0.8563471754550938,
+                0.48169658614201594,
+                0.8950801216635189,
+                0.49424763515704095
+              ],
+              "officialBounds": [
+                530.927978515625,
+                381.15289306640625,
+                555.36376953125,
+                391.3318786621094
+              ],
+              "officialCode": "DMS70"
+            }
+          ],
+          "rowBounds": [
+            0.4294415303760407,
+            0.48211078574153987,
+            0.8950801216635189,
+            0.49424763515704095
+          ],
+          "pdfPage": 30,
+          "officialPage": 38
+        },
+        {
+          "description": "Extended Length Modular Tri-Lobe Driver for 7.0 – 11.0mm Interference Screws",
+          "codes": [
+            {
+              "candidate": "C8716",
+              "sourceBounds": [
+                0.8603647993996135,
+                0.5119900154373437,
+                0.895162745175881,
+                0.5245448823348959
+              ],
+              "officialBounds": [
+                533.4119873046875,
+                405.65087890625,
+                555.363037109375,
+                415.8298645019531
+              ],
+              "officialCode": "C8716"
+            }
+          ],
+          "rowBounds": [
+            0.44374406372016095,
+            0.5000282089427028,
+            0.895162745175881,
+            0.5245448823348959
+          ],
+          "pdfPage": 30,
+          "officialPage": 38
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Taps",
+      "page": 30,
+      "officialPage": 38,
+      "headingBounds": [
+        0.4296080023714369,
+        0.54232684066363,
+        0.45679646301075716,
+        0.5554901306613438
+      ],
+      "rows": [
+        {
+          "description": "7.0–8.0mm, GENESYS Matryx/Matryx Interference Screw Tap, Short Modular",
+          "codes": [
+            {
+              "candidate": "TMS70",
+              "sourceBounds": [
+                0.8586651983934457,
+                0.5725863191373818,
+                0.8953302153646914,
+                0.5851393745336101
+              ],
+              "officialBounds": [
+                532.2329711914062,
+                454.6468505859375,
+                555.3629760742188,
+                464.8258361816406
+              ],
+              "officialCode": "TMS70"
+            }
+          ],
+          "rowBounds": [
+            0.4439116305682794,
+            0.5606227010476346,
+            0.8953302153646914,
+            0.5851393745336101
+          ],
+          "pdfPage": 30,
+          "officialPage": 38
+        },
+        {
+          "description": "7.0–8.0mm GENESYS Matryx/Matryx Interference Screw Tap, Extended Length Modular",
+          "codes": [
+            {
+              "candidate": "D8607",
+              "sourceBounds": [
+                0.8603596158681325,
+                0.6028820024932977,
+                0.8954140954480587,
+                0.6154366204922936
+              ],
+              "officialBounds": [
+                533.25,
+                479.14483642578125,
+                555.363037109375,
+                489.3238220214844
+              ],
+              "officialCode": "D8607"
+            }
+          ],
+          "rowBounds": [
+            0.44399541399233866,
+            0.5909199471001005,
+            0.8954140954480587,
+            0.6154366204922936
+          ],
+          "pdfPage": 30,
+          "officialPage": 38
+        },
+        {
+          "description": "9.0–10.0mm GENESYS Matryx/Matryx Interference Screw Tap, Extended Length Modular",
+          "codes": [
+            {
+              "candidate": "D8609",
+              "sourceBounds": [
+                0.8604433992921917,
+                0.6331792485457636,
+                0.8954978789764885,
+                0.6457339042865795
+              ],
+              "officialBounds": [
+                533.25,
+                503.642822265625,
+                555.363037109375,
+                513.8218383789062
+              ],
+              "officialCode": "D8609"
+            }
+          ],
+          "rowBounds": [
+            0.44407924574605195,
+            0.6212171931056752,
+            0.8954978789764885,
+            0.6457339042865795
+          ],
+          "pdfPage": 30,
+          "officialPage": 38
+        },
+        {
+          "description": "11.0mm GENESYS Matryx/Matryx Interference Screw Tap, Extended Length Modular",
+          "codes": [
+            {
+              "candidate": "D8611",
+              "sourceBounds": [
+                0.8605271825075099,
+                0.6634764191145893,
+                0.8955816621918067,
+                0.6760310748554053
+              ],
+              "officialBounds": [
+                533.25,
+                528.1407470703125,
+                555.363037109375,
+                538.3197631835938
+              ],
+              "officialCode": "D8611"
+            }
+          ],
+          "rowBounds": [
+            0.4441630290657407,
+            0.651514401416321,
+            0.8955816621918067,
+            0.6760310748554053
+          ],
+          "pdfPage": 30,
+          "officialPage": 38
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    },
+    {
+      "title": "Instrumentation Accessories for 7.0 – 11.0mm GENESYS Matryx/Matryx Screws",
+      "page": 30,
+      "officialPage": 38,
+      "headingBounds": [
+        0.4300447986813418,
+        0.7002784334111886,
+        0.8929115175579813,
+        0.7134587056800071
+      ],
+      "rows": [
+        {
+          "description": "Universal Driver, Modular Ratcheting Handle",
+          "codes": [
+            {
+              "candidate": "D8640",
+              "sourceBounds": [
+                0.8594108647437367,
+                0.7185293783261849,
+                0.8957381541969024,
+                0.7310827991400267
+              ],
+              "officialBounds": [
+                532.448974609375,
+                572.6549072265625,
+                555.36572265625,
+                582.8339233398438
+              ],
+              "officialCode": "D8640"
+            }
+          ],
+          "rowBounds": [
+            0.430096421377541,
+            0.7189459150306344,
+            0.8957381541969024,
+            0.7310827991400267
+          ],
+          "pdfPage": 30,
+          "officialPage": 38
+        },
+        {
+          "description": "BioScrew HyperFlex® Guidewire 14 x .045\" dia. (5 per Box) Nitinol",
+          "codes": [
+            {
+              "candidate": "C8026",
+              "sourceBounds": [
+                0.859853858312601,
+                0.736461494047329,
+                0.8957749853531917,
+                0.7490153089349212
+              ],
+              "officialBounds": [
+                532.6973876953125,
+                587.1549072265625,
+                555.357666015625,
+                597.3339233398438
+              ],
+              "officialCode": "C8026"
+            }
+          ],
+          "rowBounds": [
+            0.43016021693218887,
+            0.7368771154383502,
+            0.8957749853531917,
+            0.7490153089349212
+          ],
+          "pdfPage": 30,
+          "officialPage": 38
+        }
+      ],
+      "features": [],
+      "notes": [],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 17
+}

@@ -1,0 +1,716 @@
+{
+  "pdfPage": 10,
+  "officialPage": 10,
+  "alignment": [
+    [
+      0.9706090561905159,
+      -0.00022418185601189182,
+      0.014892249628163821
+    ],
+    [
+      -0.00022307409666326992,
+      0.9783267033236436,
+      0.011204108904922162
+    ]
+  ],
+  "alignmentMatches": 31,
+  "alignmentInliers": 31,
+  "category": "shoulder-arthroscopy",
+  "title": {
+    "en": "Rotator Cuff Repair",
+    "ru": "Восстановление вращательной манжеты"
+  },
+  "groups": [
+    {
+      "title": "™ Suture Anchor — Implants",
+      "page": 10,
+      "officialPage": 10,
+      "headingBounds": [
+        0.4287641565886426,
+        0.29174903354723186,
+        0.480902898076001,
+        0.3049111188626277
+      ],
+      "rows": [
+        {
+          "description": "4.5mm CrossFT ™ Suture Anchor w/Two #2 Hi-Fi Sutures (17mm length)",
+          "codes": [
+            {
+              "candidate": "CFP-4502B",
+              "sourceBounds": [
+                0.8363043460252145,
+                0.3229185759618672,
+                0.8950232174274668,
+                0.3354788026639204
+              ],
+              "officialBounds": [
+                517.9716186523438,
+                252.49989318847656,
+                554.99755859375,
+                262.67889404296875
+              ],
+              "officialCode": "CFP-4502B"
+            }
+          ],
+          "rowBounds": [
+            0.4430393393932031,
+            0.3100350256354412,
+            0.8950232174274668,
+            0.3354788026639204
+          ],
+          "pdfPage": 10,
+          "officialPage": 10
+        },
+        {
+          "description": "4.5mm CrossFT Suture Anchor w/Two #2 Hi-Fi Sutures (17mm length) w/needles",
+          "codes": [
+            {
+              "candidate": "CFP-4502NB",
+              "sourceBounds": [
+                0.8331686360977625,
+                0.3655321230423173,
+                0.8994382533319113,
+                0.37809059551551505
+              ],
+              "officialBounds": [
+                516.0006103515625,
+                286.9969177246094,
+                557.7875366210938,
+                297.1759033203125
+              ],
+              "officialCode": "CFP-4502NB"
+            }
+          ],
+          "rowBounds": [
+            0.44303226237128496,
+            0.34091905722361987,
+            0.8994382533319113,
+            0.37809059551551505
+          ],
+          "pdfPage": 10,
+          "officialPage": 10
+        },
+        {
+          "description": "4.5mm CrossFT Suture Anchor w/Three #2 Hi-Fi Sutures (17mm length)",
+          "codes": [
+            {
+              "candidate": "CFP-4503B",
+              "sourceBounds": [
+                0.8331617017493608,
+                0.39579352926045325,
+                0.8918805731559322,
+                0.40835373711391953
+              ],
+              "officialBounds": [
+                516.0006103515625,
+                311.4949035644531,
+                553.0265502929688,
+                321.67388916015625
+              ],
+              "officialCode": "CFP-4503B"
+            }
+          ],
+          "rowBounds": [
+            0.4430224977289552,
+            0.3835318293254725,
+            0.8918805731559322,
+            0.40835373711391953
+          ],
+          "pdfPage": 10,
+          "officialPage": 10
+        },
+        {
+          "description": "4.5mm CrossFT Suture Anchor w/Three #2 Hi-Fi Sutures (17mm length) w/needles",
+          "codes": [
+            {
+              "candidate": "CFP-4503NB",
+              "sourceBounds": [
+                0.833151937107031,
+                0.4384063013623058,
+                0.8994215543411799,
+                0.45096477383550354
+              ],
+              "officialBounds": [
+                516.0006103515625,
+                345.99188232421875,
+                557.7875366210938,
+                356.1708679199219
+              ],
+              "officialCode": "CFP-4503NB"
+            }
+          ],
+          "rowBounds": [
+            0.44301556338055353,
+            0.41379323554360836,
+            0.8994215543411799,
+            0.45096477383550354
+          ],
+          "pdfPage": 10,
+          "officialPage": 10
+        },
+        {
+          "description": "5.5mm CrossFT Suture Anchor w/Two #2 Hi-Fi Sutures (17mm length)",
+          "codes": [
+            {
+              "candidate": "CFP-5502B",
+              "sourceBounds": [
+                0.8362709480307944,
+                0.4686669891476048,
+                0.8949898194373657,
+                0.4812271970010711
+              ],
+              "officialBounds": [
+                517.9716186523438,
+                370.4898681640625,
+                554.99755859375,
+                380.6688537597656
+              ],
+              "officialCode": "CFP-5502B"
+            }
+          ],
+          "rowBounds": [
+            0.44300579873822377,
+            0.456406007645461,
+            0.8949898194373657,
+            0.4812271970010711
+          ],
+          "pdfPage": 10,
+          "officialPage": 10
+        },
+        {
+          "description": "5.5mm CrossFT Suture Anchor w/Two #2 Hi-Fi Sutures (17mm length) w/needles",
+          "codes": [
+            {
+              "candidate": "CFP-5502NB",
+              "sourceBounds": [
+                0.8331352381162995,
+                0.5112804796822943,
+                0.8994048553504485,
+                0.523838952155492
+              ],
+              "officialBounds": [
+                516.0006103515625,
+                404.9868469238281,
+                557.7875366210938,
+                415.16583251953125
+              ],
+              "officialCode": "CFP-5502NB"
+            }
+          ],
+          "rowBounds": [
+            0.44299886438982206,
+            0.48666741386359685,
+            0.8994048553504485,
+            0.523838952155492
+          ],
+          "pdfPage": 10,
+          "officialPage": 10
+        },
+        {
+          "description": "5.5mm CrossFT Suture Anchor w/Three #2 Hi-Fi Sutures (17mm length)",
+          "codes": [
+            {
+              "candidate": "CFP-5503B",
+              "sourceBounds": [
+                0.8331283037678979,
+                0.5415418859004303,
+                0.8918471751744693,
+                0.5541020937538965
+              ],
+              "officialBounds": [
+                516.0006103515625,
+                429.4848327636719,
+                553.0265502929688,
+                439.663818359375
+              ],
+              "officialCode": "CFP-5503B"
+            }
+          ],
+          "rowBounds": [
+            0.44298909974749234,
+            0.5292801859654495,
+            0.8918471751744693,
+            0.5541020937538965
+          ],
+          "pdfPage": 10,
+          "officialPage": 10
+        },
+        {
+          "description": "5.5mm CrossFT Suture Anchor w/Three #2 Hi-Fi Sutures (17mm length) w/needles",
+          "codes": [
+            {
+              "candidate": "CFP-5503NB",
+              "sourceBounds": [
+                0.8331185391255681,
+                0.5841546580022827,
+                0.899388156359717,
+                0.5967131304754806
+              ],
+              "officialBounds": [
+                516.0006103515625,
+                463.9818115234375,
+                557.7875366210938,
+                474.1607971191406
+              ],
+              "officialCode": "CFP-5503NB"
+            }
+          ],
+          "rowBounds": [
+            0.44298216539909063,
+            0.5595415921835853,
+            0.899388156359717,
+            0.5967131304754806
+          ],
+          "pdfPage": 10,
+          "officialPage": 10
+        },
+        {
+          "description": "6.5mm CrossFT Suture Anchor w/Two #2 Hi-Fi Sutures (17mm length)",
+          "codes": [
+            {
+              "candidate": "CFP-6502B",
+              "sourceBounds": [
+                0.8331116047771664,
+                0.6144160642204187,
+                0.8918304761837379,
+                0.6269762720738851
+              ],
+              "officialBounds": [
+                516.0006103515625,
+                488.47979736328125,
+                553.0265502929688,
+                498.6587829589844
+              ],
+              "officialCode": "CFP-6502B"
+            }
+          ],
+          "rowBounds": [
+            0.44297240075676086,
+            0.602154364285438,
+            0.8918304761837379,
+            0.6269762720738851
+          ],
+          "pdfPage": 10,
+          "officialPage": 10
+        },
+        {
+          "description": "6.5mm CrossFT Suture Anchor w/Two #2 Hi-Fi Sutures (17mm length) w/needles",
+          "codes": [
+            {
+              "candidate": "CFP-6502NB",
+              "sourceBounds": [
+                0.8331018401434749,
+                0.6570287986250977,
+                0.8993714573689855,
+                0.669587308795469
+              ],
+              "officialBounds": [
+                516.0006103515625,
+                522.9767456054688,
+                557.7875366210938,
+                533.15576171875
+              ],
+              "officialCode": "CFP-6502NB"
+            }
+          ],
+          "rowBounds": [
+            0.4429654664083592,
+            0.6324157705035739,
+            0.8993714573689855,
+            0.669587308795469
+          ],
+          "pdfPage": 10,
+          "officialPage": 10
+        },
+        {
+          "description": "6.5mm CrossFT Suture Anchor w/Three #2 Hi-Fi Sutures (17mm length)",
+          "codes": [
+            {
+              "candidate": "CFP-6503B",
+              "sourceBounds": [
+                0.8330949057950733,
+                0.6872902048432334,
+                0.8918137771930065,
+                0.6998504503938735
+              ],
+              "officialBounds": [
+                516.0006103515625,
+                547.4747314453125,
+                553.0265502929688,
+                557.6537475585938
+              ],
+              "officialCode": "CFP-6503B"
+            }
+          ],
+          "rowBounds": [
+            0.44295570178330596,
+            0.675028467211079,
+            0.8918137771930065,
+            0.6998504503938735
+          ],
+          "pdfPage": 10,
+          "officialPage": 10
+        },
+        {
+          "description": "6.5mm CrossFT Suture Anchor w/Three #2 Hi-Fi Sutures (17mm length) w/needles",
+          "codes": [
+            {
+              "candidate": "CFP-6503NB",
+              "sourceBounds": [
+                0.8330851411613818,
+                0.7299029392479124,
+                0.8993547583868924,
+                0.7424614494182838
+              ],
+              "officialBounds": [
+                516.0006103515625,
+                581.9716796875,
+                557.7875366210938,
+                592.1506958007812
+              ],
+              "officialCode": "CFP-6503NB"
+            }
+          ],
+          "rowBounds": [
+            0.4429487674176278,
+            0.7052899488235623,
+            0.8993547583868924,
+            0.7424614494182838
+          ],
+          "pdfPage": 10,
+          "officialPage": 10
+        }
+      ],
+      "features": [
+        {
+          "text": "For medial row or primary fixation",
+          "bounds": [
+            0.43592726160548195,
+            0.17708921523930873,
+            0.6318538822728955,
+            0.1910149836570065
+          ],
+          "officialStartX": 265.5
+        },
+        {
+          "text": "Cancellous and cortical threads provide exceptional fixation strength",
+          "bounds": [
+            0.4359238649106939,
+            0.19191234710784877,
+            0.8206588190500826,
+            0.20579472189742912
+          ],
+          "officialStartX": 265.5
+        },
+        {
+          "text": "Broaching punch minimizes cortical stress fractures",
+          "bounds": [
+            0.43592046821590585,
+            0.20673547897638886,
+            0.7309696005663163,
+            0.22063846616758592
+          ],
+          "officialStartX": 265.5
+        },
+        {
+          "text": "Cannulated to channel growth factors",
+          "bounds": [
+            0.4359170715211178,
+            0.2215586108449289,
+            0.6526670488921581,
+            0.23547959345163869
+          ],
+          "officialStartX": 265.5
+        },
+        {
+          "text": "Double or triple loaded with Hi-Fi ® Suture",
+          "bounds": [
+            0.4359136748263297,
+            0.23638174271346896,
+            0.6270664360509117,
+            0.25030860830244905
+          ],
+          "officialStartX": 265.5
+        }
+      ],
+      "notes": [
+        "Blue, white-blue,",
+        "and/or white-black"
+      ],
+      "keyParameters": []
+    },
+    {
+      "title": "™ Suture Anchor — Instruments",
+      "page": 10,
+      "officialPage": 10,
+      "headingBounds": [
+        0.428662879278818,
+        0.7586453607671712,
+        0.49591743875147176,
+        0.771803934332252
+      ],
+      "rows": [
+        {
+          "description": "Universal CrossFT Broaching Punch",
+          "codes": [
+            {
+              "candidate": "PFT-00M",
+              "sourceBounds": [
+                0.8425377920616985,
+                0.776838269247358,
+                0.8885817409086986,
+                0.7894014278626148
+              ],
+              "officialBounds": [
+                521.9675903320312,
+                619.9697265625,
+                551.0015869140625,
+                630.1487426757812
+              ],
+              "officialCode": "PFT-00M"
+            }
+          ],
+          "rowBounds": [
+            0.4286586886086964,
+            0.7769333906626608,
+            0.8885817409086986,
+            0.7894014278626148
+          ],
+          "pdfPage": 10,
+          "officialPage": 10
+        },
+        {
+          "description": "4.5mm CrossFT Broaching Punch",
+          "codes": [
+            {
+              "candidate": "PFT-45M",
+              "sourceBounds": [
+                0.8425342994133234,
+                0.7920801413217792,
+                0.8885782482603234,
+                0.804643299937036
+              ],
+              "officialBounds": [
+                521.9675903320312,
+                632.3087158203125,
+                551.0015869140625,
+                642.4877319335938
+              ],
+              "officialCode": "PFT-45M"
+            }
+          ],
+          "rowBounds": [
+            0.42865519596032126,
+            0.7921752627370819,
+            0.8885782482603234,
+            0.804643299937036
+          ],
+          "pdfPage": 10,
+          "officialPage": 10
+        },
+        {
+          "description": "5.5mm CrossFT Broaching Punch",
+          "codes": [
+            {
+              "candidate": "PFT-55M",
+              "sourceBounds": [
+                0.8425308067649483,
+                0.8073220133962002,
+                0.8885747556119483,
+                0.8198851720114572
+              ],
+              "officialBounds": [
+                521.9675903320312,
+                644.647705078125,
+                551.0015869140625,
+                654.8267211914062
+              ],
+              "officialCode": "PFT-55M"
+            }
+          ],
+          "rowBounds": [
+            0.4286517033119461,
+            0.8074171348115031,
+            0.8885747556119483,
+            0.8198851720114572
+          ],
+          "pdfPage": 10,
+          "officialPage": 10
+        },
+        {
+          "description": "6.5mm CrossFT Broaching Punch",
+          "codes": [
+            {
+              "candidate": "PFT-65M",
+              "sourceBounds": [
+                0.8425273141165731,
+                0.8225638854706214,
+                0.8885712629635731,
+                0.8351270440858783
+              ],
+              "officialBounds": [
+                521.9675903320312,
+                656.9866943359375,
+                551.0015869140625,
+                667.1657104492188
+              ],
+              "officialCode": "PFT-65M"
+            }
+          ],
+          "rowBounds": [
+            0.42864821066357095,
+            0.8226590068859243,
+            0.8885712629635731,
+            0.8351270440858783
+          ],
+          "pdfPage": 10,
+          "officialPage": 10
+        },
+        {
+          "description": "4.5mm CrossFT Tap",
+          "codes": [
+            {
+              "candidate": "TFT-45M",
+              "sourceBounds": [
+                0.8430377298523655,
+                0.8378056394339989,
+                0.8885678671146675,
+                0.8503689161380521
+              ],
+              "officialBounds": [
+                522.2916259765625,
+                669.32568359375,
+                551.0016479492188,
+                679.5046997070312
+              ],
+              "officialCode": "TFT-45M"
+            }
+          ],
+          "rowBounds": [
+            0.42864471801519577,
+            0.8379008789603454,
+            0.8885678671146675,
+            0.8503689161380521
+          ],
+          "pdfPage": 10,
+          "officialPage": 10
+        },
+        {
+          "description": "5.5mm CrossFT Tap",
+          "codes": [
+            {
+              "candidate": "TFT-55M",
+              "sourceBounds": [
+                0.8430342371867138,
+                0.8530475869027676,
+                0.8885643744490158,
+                0.8656108636068207
+              ],
+              "officialBounds": [
+                522.2916259765625,
+                681.6647338867188,
+                551.0016479492188,
+                691.84375
+              ],
+              "officialCode": "TFT-55M"
+            }
+          ],
+          "rowBounds": [
+            0.42864127374927896,
+            0.8531428264179904,
+            0.8885643744490158,
+            0.8656108636068207
+          ],
+          "pdfPage": 10,
+          "officialPage": 10
+        },
+        {
+          "description": "6.5mm CrossFT Tap",
+          "codes": [
+            {
+              "candidate": "TFT-65M",
+              "sourceBounds": [
+                0.8430308973833845,
+                0.8676224451850696,
+                0.8885610346456866,
+                0.8801857218891227
+              ],
+              "officialBounds": [
+                522.2916259765625,
+                693.4637451171875,
+                551.0016479492188,
+                703.6427612304688
+              ],
+              "officialCode": "TFT-65M"
+            }
+          ],
+          "rowBounds": [
+            0.42863793394594973,
+            0.8677176847002923,
+            0.8885610346456866,
+            0.8801857218891227
+          ],
+          "pdfPage": 10,
+          "officialPage": 10
+        }
+      ],
+      "features": [
+        {
+          "text": "For medial row or primary fixation",
+          "bounds": [
+            0.43592726160548195,
+            0.17708921523930873,
+            0.6318538822728955,
+            0.1910149836570065
+          ],
+          "officialStartX": 265.5
+        },
+        {
+          "text": "Cancellous and cortical threads provide exceptional fixation strength",
+          "bounds": [
+            0.4359238649106939,
+            0.19191234710784877,
+            0.8206588190500826,
+            0.20579472189742912
+          ],
+          "officialStartX": 265.5
+        },
+        {
+          "text": "Broaching punch minimizes cortical stress fractures",
+          "bounds": [
+            0.43592046821590585,
+            0.20673547897638886,
+            0.7309696005663163,
+            0.22063846616758592
+          ],
+          "officialStartX": 265.5
+        },
+        {
+          "text": "Cannulated to channel growth factors",
+          "bounds": [
+            0.4359170715211178,
+            0.2215586108449289,
+            0.6526670488921581,
+            0.23547959345163869
+          ],
+          "officialStartX": 265.5
+        },
+        {
+          "text": "Double or triple loaded with Hi-Fi ® Suture",
+          "bounds": [
+            0.4359136748263297,
+            0.23638174271346896,
+            0.6270664360509117,
+            0.25030860830244905
+          ],
+          "officialStartX": 265.5
+        }
+      ],
+      "notes": [
+        "Blue, white-blue,"
+      ],
+      "keyParameters": []
+    }
+  ],
+  "dottedRows": 19
+}

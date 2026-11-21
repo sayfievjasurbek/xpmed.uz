@@ -1,0 +1,365 @@
+{
+  "pdfPage": 50,
+  "officialPage": 70,
+  "alignment": [
+    [
+      0.9717325485431728,
+      -0.0025347671455836955,
+      0.014737466286593415
+    ],
+    [
+      -0.00026157509360263525,
+      0.9762775117074816,
+      0.011960522107289685
+    ]
+  ],
+  "alignmentMatches": 32,
+  "alignmentInliers": 30,
+  "category": "knee-arthroscopy",
+  "title": {
+    "en": "Positioning Devices",
+    "ru": "Устройства для позиционирования"
+  },
+  "groups": [
+    {
+      "title": "™ Limb Positioner — Positioner",
+      "page": 50,
+      "officialPage": 70,
+      "headingBounds": [
+        0.4302307555997861,
+        0.257139328941866,
+        0.48934370767052215,
+        0.27026988223161486
+      ],
+      "rows": [
+        {
+          "description": "AssistArm Limb Positioner",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "AA-PSN100",
+              "sourceBounds": [
+                0.8329938906337124,
+                0.28633720929565853,
+                0.8981670065828524,
+                0.297965116140388
+              ],
+              "officialCode": "AA-PSN100",
+              "officialBounds": [
+                518.22900390625,
+                221.79689025878906,
+                556.0828857421875,
+                231.97589111328125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.27915116271802326,
+            0.9081670065828524,
+            0.3011511627180233
+          ],
+          "pdfPage": 50,
+          "officialPage": 70
+        }
+      ],
+      "features": [],
+      "notes": [
+        "The AssistArm Limb Positioner assures smooth, effortless and stable limb placement",
+        "so the surgical team can focus on the procedure, not on holding the limb steady.",
+        "The AssistArm is powered by hydraulic fluid and does not require electric, batteries",
+        "or compressed air. The AssistArm can be used to position the shoulder in beach",
+        "chair or lateral decubitus, knee and ankle for open or arthroscopic procedures."
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "™ Limb Positioner — Attachments",
+      "page": 50,
+      "officialPage": 70,
+      "headingBounds": [
+        0.43008034025835246,
+        0.31507250655674746,
+        0.5011113737325303,
+        0.3281998328776437
+      ],
+      "rows": [
+        {
+          "description": "Arm Support for Beach Chair",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "AA-AS-BC200",
+              "sourceBounds": [
+                0.8185835054853331,
+                0.3337425978821178,
+                0.8983207695110252,
+                0.34648996037469426
+              ],
+              "officialCode": "AA-AS-BC200",
+              "officialBounds": [
+                510.85797119140625,
+                260.7939147949219,
+                556.0828247070312,
+                270.972900390625
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.327116279128406,
+            0.9083207695110252,
+            0.34911627912840604
+          ],
+          "pdfPage": 50,
+          "officialPage": 70
+        },
+        {
+          "description": "Connector",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "AA-CON250",
+              "sourceBounds": [
+                0.8308966379720667,
+                0.35156353335733304,
+                0.8982275992392753,
+                0.363552745582687
+              ],
+              "officialCode": "AA-CON250",
+              "officialBounds": [
+                517.1939697265625,
+                275.29290771484375,
+                556.0828857421875,
+                285.4718933105469
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.34455813947001,
+            0.9082275992392753,
+            0.36655813947001004
+          ],
+          "pdfPage": 50,
+          "officialPage": 70
+        },
+        {
+          "description": "Traction Unit",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "AA-TRAC400",
+              "sourceBounds": [
+                0.8266809742322687,
+                0.36859931245497424,
+                0.8983699432780218,
+                0.38285417575499503
+              ],
+              "officialCode": "AA-TRAC400",
+              "officialBounds": [
+                514.1069946289062,
+                289.7919006347656,
+                556.0828857421875,
+                299.97088623046875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3627267441049846,
+            0.9083699432780218,
+            0.38472674410498464
+          ],
+          "pdfPage": 50,
+          "officialPage": 70
+        },
+        {
+          "description": "Arm Support for Lateral Decubitus",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "AA-AS-LD500",
+              "sourceBounds": [
+                0.8166172610043426,
+                0.38635883058569875,
+                0.8982503552932176,
+                0.3999783783842188
+              ],
+              "officialCode": "AA-AS-LD500",
+              "officialBounds": [
+                511.36199951171875,
+                304.2908935546875,
+                556.0828857421875,
+                314.4698791503906
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.38016860448495876,
+            0.9082503552932176,
+            0.4021686044849588
+          ],
+          "pdfPage": 50,
+          "officialPage": 70
+        },
+        {
+          "description": "Knee",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "AA-K600",
+              "sourceBounds": [
+                0.8472505109928202,
+                0.4055232556972741,
+                0.8981670050095074,
+                0.41860465113412115
+              ],
+              "officialCode": "AA-K600",
+              "officialBounds": [
+                527.2379760742188,
+                318.7898864746094,
+                556.0828857421875,
+                328.9688720703125
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.3990639534156976,
+            0.9081670050095074,
+            0.42106395341569763
+          ],
+          "pdfPage": 50,
+          "officialPage": 70
+        },
+        {
+          "description": "Ankle",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "AA-A700",
+              "sourceBounds": [
+                0.8450549347424721,
+                0.42263060036683653,
+                0.8983259193337692,
+                0.43638102766591214
+              ],
+              "officialCode": "AA-A700",
+              "officialBounds": [
+                527.0579833984375,
+                333.28887939453125,
+                556.0828857421875,
+                343.4678649902344
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.4165058140163743,
+            0.9083259193337692,
+            0.43850581401637434
+          ],
+          "pdfPage": 50,
+          "officialPage": 70
+        }
+      ],
+      "features": [],
+      "notes": [
+        "The AssistArm Limb Positioner assures smooth, effortless and stable limb placement",
+        "so the surgical team can focus on the procedure, not on holding the limb steady.",
+        "The AssistArm is powered by hydraulic fluid and does not require electric, batteries",
+        "or compressed air. The AssistArm can be used to position the shoulder in beach",
+        "chair or lateral decubitus, knee and ankle for open or arthroscopic procedures."
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    },
+    {
+      "title": "™ Limb Positioner — Disposable Kits",
+      "page": 50,
+      "officialPage": 70,
+      "headingBounds": [
+        0.429723514209038,
+        0.45250574106275754,
+        0.5159307458065951,
+        0.4656289633811078
+      ],
+      "rows": [
+        {
+          "description": "Disposable Kit for Shoulder and Knee, Packaged Sterile, 10/Box",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "AA-SK-KIT10",
+              "sourceBounds": [
+                0.8268118094569646,
+                0.4707276039918227,
+                0.8982391083091981,
+                0.484214256139025
+              ],
+              "officialCode": "AA-SK-KIT10",
+              "officialBounds": [
+                514.5570068359375,
+                372.2858581542969,
+                556.0828857421875,
+                382.46484375
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.46447093006542384,
+            0.9082391083091981,
+            0.48647093006542386
+          ],
+          "pdfPage": 50,
+          "officialPage": 70
+        },
+        {
+          "description": "Disposable Kit for Ankle, Packaged Sterile, 10/Box",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "AA-A-KIT10",
+              "sourceBounds": [
+                0.8329528282555978,
+                0.48970748045972345,
+                0.898208068959918,
+                0.5015715891584321
+              ],
+              "officialCode": "AA-A-KIT10",
+              "officialBounds": [
+                518.6160278320312,
+                386.78485107421875,
+                556.0739135742188,
+                396.9638366699219
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.4826395348090778,
+            0.908208068959918,
+            0.5046395348090777
+          ],
+          "pdfPage": 50,
+          "officialPage": 70
+        }
+      ],
+      "features": [],
+      "notes": [
+        "The AssistArm Limb Positioner assures smooth, effortless and stable limb placement",
+        "so the surgical team can focus on the procedure, not on holding the limb steady.",
+        "The AssistArm is powered by hydraulic fluid and does not require electric, batteries",
+        "or compressed air. The AssistArm can be used to position the shoulder in beach",
+        "chair or lateral decubitus, knee and ankle for open or arthroscopic procedures."
+      ],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 9
+}

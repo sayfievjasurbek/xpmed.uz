@@ -1,0 +1,1917 @@
+{
+  "schemaVersion": 1,
+  "slug": "uhd-laparoscopes",
+  "brand": "conmed",
+  "category": "endoscopy-visualization",
+  "subcategory": "",
+  "subcategories": [],
+  "specialty": [],
+  "name": {
+    "ru": "Лапароскопы UHD",
+    "en": "UHD Laparoscopes"
+  },
+  "shortDescription": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "ru": "Лапароскопы сверхвысокой чёткости (UHD)\nОбновите операционную до следующего поколения клинической визуализации. Лапароскопы сверхвысокой чёткости CONMED третьего поколения имеют конструктивные особенности, улучшающие чёткость и резкость изображения для более детальной визуализации анатомических структур.",
+    "en": "Ultra High Definition (UHD) Laparoscopes\nUpgrade your OR to our next generation of clinical visualization. CONMED’s third generation Ultra-High Definition Laparoscopes have features designed to enhance image clarity and sharpness for improved viewing of anatomical structures."
+  },
+  "heroImage": "/images/products/conmed/uhd-laparoscopes/page-014-photo-f1c94226.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "methodVersion": 3,
+      "inputFingerprint": "2389dc31c4b29b0bced7d3d3a327331f99750aee86b77827ccccd7e98383a9b7",
+      "maskMethod": "rembg plus edge-connected white-background restoration; exact source pixels retained",
+      "src": "/images/products/conmed/uhd-laparoscopes/page-014-photo-f1c94226.webp",
+      "imageType": "cutout",
+      "imageCaption": {
+        "ru": "Лапароскопы сверхвысокой чёткости",
+        "en": "Ultra-High Definition Laparoscopes"
+      },
+      "width": 1016,
+      "height": 1798,
+      "maskCoverage": 1.0,
+      "pdfPage": 14,
+      "printedPage": 12,
+      "sourceBounds": [
+        0.626,
+        0.139,
+        0.925,
+        0.505
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    }
+  ],
+  "features": [],
+  "components": [
+    {
+      "id": "ultra-high-definition-laparoscopes-item-1",
+      "groupId": "ultra-high-definition-laparoscopes",
+      "name": {
+        "ru": "5.5 мм, стандартная рабочая длина, 30°, окуляр",
+        "en": "5.5mm Standard Working Length, 30 degree, eyecup"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "UHD5530",
+          "pass2": "UHD5530",
+          "confidence1": 91.334816,
+          "confidence2": 55.207047,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "UHD5530",
+          "sourceBounds": [
+            0.51731220657277,
+            0.22645458350774383,
+            0.5660211267605634,
+            0.23461699455839263
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "system": "uhd-laparoscopes",
+          "group": "ultra-high-definition-laparoscopes",
+          "componentId": "ultra-high-definition-laparoscopes-item-1",
+          "tableId": "ultra-high-definition-laparoscopes",
+          "row": 1,
+          "column": 2,
+          "path": "specTables.0.rows.0.1"
+        }
+      ],
+      "sourcePages": [
+        14
+      ],
+      "showInGrid": false,
+      "pdfPage": 14,
+      "printedPage": 12,
+      "sourceBounds": [
+        0.098,
+        0.224,
+        0.58,
+        0.23600000000000002
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "ultra-high-definition-laparoscopes-item-2",
+      "groupId": "ultra-high-definition-laparoscopes",
+      "name": {
+        "ru": "5.5 мм, стандартная рабочая длина, 45°, окуляр",
+        "en": "5.5mm Standard Working Length, 45 degree, eyecup"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "UHD5544",
+          "pass2": "UHD5544",
+          "confidence1": 85.41993,
+          "confidence2": 90.161209,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "UHD5544",
+          "sourceBounds": [
+            0.51731220657277,
+            0.24445374633737965,
+            0.5660211267605634,
+            0.25261615738802845
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "system": "uhd-laparoscopes",
+          "group": "ultra-high-definition-laparoscopes",
+          "componentId": "ultra-high-definition-laparoscopes-item-2",
+          "tableId": "ultra-high-definition-laparoscopes",
+          "row": 2,
+          "column": 2,
+          "path": "specTables.0.rows.1.1"
+        }
+      ],
+      "sourcePages": [
+        14
+      ],
+      "showInGrid": false,
+      "pdfPage": 14,
+      "printedPage": 12,
+      "sourceBounds": [
+        0.098,
+        0.242,
+        0.58,
+        0.254
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "ultra-high-definition-laparoscopes-item-3",
+      "groupId": "ultra-high-definition-laparoscopes",
+      "name": {
+        "ru": "5.5 мм, увеличенная рабочая длина, 0°, окуляр",
+        "en": "5.5mm Extended Working Length, 0 degree, eyecup"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "UHD5500XL",
+          "pass2": "UHDSS00XL",
+          "confidence1": 48.10284,
+          "confidence2": 68.098282,
+          "flagged": true,
+          "reasons": [
+            "ocr-disagreement",
+            "low-confidence"
+          ],
+          "printedCandidate": "UHD5500XL",
+          "sourceBounds": [
+            0.5046948356807511,
+            0.2622436165759732,
+            0.5663145539906104,
+            0.270406027626622
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "system": "uhd-laparoscopes",
+          "group": "ultra-high-definition-laparoscopes",
+          "componentId": "ultra-high-definition-laparoscopes-item-3",
+          "tableId": "ultra-high-definition-laparoscopes",
+          "row": 3,
+          "column": 2,
+          "path": "specTables.0.rows.2.1"
+        }
+      ],
+      "sourcePages": [
+        14
+      ],
+      "showInGrid": false,
+      "pdfPage": 14,
+      "printedPage": 12,
+      "sourceBounds": [
+        0.098,
+        0.26,
+        0.58,
+        0.272
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "ultra-high-definition-laparoscopes-item-4",
+      "groupId": "ultra-high-definition-laparoscopes",
+      "name": {
+        "ru": "5.5 мм, увеличенная рабочая длина, 30°, окуляр",
+        "en": "5.5mm Extended Working Length, 30 degree, eyecup"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "UHD5530XL",
+          "pass2": "UHD5530XL",
+          "confidence1": 68.877831,
+          "confidence2": 50.344223,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "UHD5530XL",
+          "sourceBounds": [
+            0.5046948356807511,
+            0.28024277940560904,
+            0.5663145539906104,
+            0.28840519045625784
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "system": "uhd-laparoscopes",
+          "group": "ultra-high-definition-laparoscopes",
+          "componentId": "ultra-high-definition-laparoscopes-item-4",
+          "tableId": "ultra-high-definition-laparoscopes",
+          "row": 4,
+          "column": 2,
+          "path": "specTables.0.rows.3.1"
+        }
+      ],
+      "sourcePages": [
+        14
+      ],
+      "showInGrid": false,
+      "pdfPage": 14,
+      "printedPage": 12,
+      "sourceBounds": [
+        0.098,
+        0.278,
+        0.58,
+        0.29000000000000004
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "ultra-high-definition-laparoscopes-item-5",
+      "groupId": "ultra-high-definition-laparoscopes",
+      "name": {
+        "ru": "5.5 мм, увеличенная рабочая длина, 45°, окуляр",
+        "en": "5.5mm Extended Working Length, 45 degree, eyecup"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "UHD5544XL",
+          "pass2": "UHD5544XL",
+          "confidence1": 67.57531,
+          "confidence2": 77.583656,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "UHD5544XL",
+          "sourceBounds": [
+            0.5044014084507042,
+            0.29824194223524486,
+            0.5660211267605634,
+            0.30640435328589366
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "system": "uhd-laparoscopes",
+          "group": "ultra-high-definition-laparoscopes",
+          "componentId": "ultra-high-definition-laparoscopes-item-5",
+          "tableId": "ultra-high-definition-laparoscopes",
+          "row": 5,
+          "column": 2,
+          "path": "specTables.0.rows.4.1"
+        }
+      ],
+      "sourcePages": [
+        14
+      ],
+      "showInGrid": false,
+      "pdfPage": 14,
+      "printedPage": 12,
+      "sourceBounds": [
+        0.098,
+        0.296,
+        0.58,
+        0.308
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "ultra-high-definition-laparoscopes-item-6",
+      "groupId": "ultra-high-definition-laparoscopes",
+      "name": {
+        "ru": "10 мм, стандартная рабочая длина, 0°, окуляр",
+        "en": "10mm Standard Working Length, 0 degree, eyecup"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "UHD1000",
+          "pass2": "UHD1000",
+          "confidence1": 89.58625,
+          "confidence2": 91.254211,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "UHD1000",
+          "sourceBounds": [
+            0.517018779342723,
+            0.31603181247383844,
+            0.5654342723004695,
+            0.32419422352448724
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "system": "uhd-laparoscopes",
+          "group": "ultra-high-definition-laparoscopes",
+          "componentId": "ultra-high-definition-laparoscopes-item-6",
+          "tableId": "ultra-high-definition-laparoscopes",
+          "row": 6,
+          "column": 2,
+          "path": "specTables.0.rows.5.1"
+        }
+      ],
+      "sourcePages": [
+        14
+      ],
+      "showInGrid": false,
+      "pdfPage": 14,
+      "printedPage": 12,
+      "sourceBounds": [
+        0.098,
+        0.314,
+        0.58,
+        0.326
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "ultra-high-definition-laparoscopes-item-7",
+      "groupId": "ultra-high-definition-laparoscopes",
+      "name": {
+        "ru": "10 мм, стандартная рабочая длина, 30°, окуляр",
+        "en": "10mm Standard Working Length, 30 degree, eyecup"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "UHD1030",
+          "pass2": "UHD1030",
+          "confidence1": 91.996201,
+          "confidence2": 88.922684,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "UHD1030",
+          "sourceBounds": [
+            0.517018779342723,
+            0.33403097530347425,
+            0.5654342723004695,
+            0.34219338635412305
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "system": "uhd-laparoscopes",
+          "group": "ultra-high-definition-laparoscopes",
+          "componentId": "ultra-high-definition-laparoscopes-item-7",
+          "tableId": "ultra-high-definition-laparoscopes",
+          "row": 7,
+          "column": 2,
+          "path": "specTables.0.rows.6.1"
+        }
+      ],
+      "sourcePages": [
+        14
+      ],
+      "showInGrid": false,
+      "pdfPage": 14,
+      "printedPage": 12,
+      "sourceBounds": [
+        0.098,
+        0.33199999999999996,
+        0.58,
+        0.344
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "ultra-high-definition-laparoscopes-item-8",
+      "groupId": "ultra-high-definition-laparoscopes",
+      "name": {
+        "ru": "10 мм, стандартная рабочая длина, 45°, окуляр",
+        "en": "10mm Standard Working Length, 45 degree, eyecup"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "UHD1044",
+          "pass2": "UHD1044",
+          "confidence1": 91.921555,
+          "confidence2": 88.344391,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "UHD1044",
+          "sourceBounds": [
+            0.51731220657277,
+            0.35203013813311007,
+            0.5660211267605634,
+            0.36019254918375887
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "system": "uhd-laparoscopes",
+          "group": "ultra-high-definition-laparoscopes",
+          "componentId": "ultra-high-definition-laparoscopes-item-8",
+          "tableId": "ultra-high-definition-laparoscopes",
+          "row": 8,
+          "column": 2,
+          "path": "specTables.0.rows.7.1"
+        }
+      ],
+      "sourcePages": [
+        14
+      ],
+      "showInGrid": false,
+      "pdfPage": 14,
+      "printedPage": 12,
+      "sourceBounds": [
+        0.098,
+        0.35,
+        0.58,
+        0.362
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "ultra-high-definition-laparoscopes-item-9",
+      "groupId": "ultra-high-definition-laparoscopes",
+      "name": {
+        "ru": "10 мм, увеличенная рабочая длина, 0°, окуляр",
+        "en": "10mm Extended Working Length, 0 degree, eyecup"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "UHD1000XL",
+          "pass2": "UHD1000XL",
+          "confidence1": 89.714546,
+          "confidence2": 79.938469,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "UHD1000XL",
+          "sourceBounds": [
+            0.5044014084507042,
+            0.36982000837170365,
+            0.5660211267605634,
+            0.37798241942235244
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "system": "uhd-laparoscopes",
+          "group": "ultra-high-definition-laparoscopes",
+          "componentId": "ultra-high-definition-laparoscopes-item-9",
+          "tableId": "ultra-high-definition-laparoscopes",
+          "row": 9,
+          "column": 2,
+          "path": "specTables.0.rows.8.1"
+        }
+      ],
+      "sourcePages": [
+        14
+      ],
+      "showInGrid": false,
+      "pdfPage": 14,
+      "printedPage": 12,
+      "sourceBounds": [
+        0.098,
+        0.368,
+        0.58,
+        0.38
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "ultra-high-definition-laparoscopes-item-10",
+      "groupId": "ultra-high-definition-laparoscopes",
+      "name": {
+        "ru": "10 мм, увеличенная рабочая длина, 30°, окуляр",
+        "en": "10mm Extended Working Length, 30 degree, eyecup"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "UHD1030XL",
+          "pass2": "UHD1030XL",
+          "confidence1": 92.121399,
+          "confidence2": 85.692848,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "UHD1030XL",
+          "sourceBounds": [
+            0.5044014084507042,
+            0.38781917120133946,
+            0.5660211267605634,
+            0.39598158225198826
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "system": "uhd-laparoscopes",
+          "group": "ultra-high-definition-laparoscopes",
+          "componentId": "ultra-high-definition-laparoscopes-item-10",
+          "tableId": "ultra-high-definition-laparoscopes",
+          "row": 10,
+          "column": 2,
+          "path": "specTables.0.rows.9.1"
+        }
+      ],
+      "sourcePages": [
+        14
+      ],
+      "showInGrid": false,
+      "pdfPage": 14,
+      "printedPage": 12,
+      "sourceBounds": [
+        0.098,
+        0.386,
+        0.58,
+        0.398
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    },
+    {
+      "id": "ultra-high-definition-laparoscopes-item-11",
+      "groupId": "ultra-high-definition-laparoscopes",
+      "name": {
+        "ru": "10 мм, увеличенная рабочая длина, 45°, окуляр",
+        "en": "10mm Extended Working Length, 45 degree, eyecup"
+      },
+      "image": null,
+      "imageType": "cutout",
+      "refCodes": [],
+      "codeEvidence": [
+        {
+          "value": null,
+          "pass1": "UHD1044XL",
+          "pass2": "UHD1044XL",
+          "confidence1": 77.015327,
+          "confidence2": 59.973454,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "UHD1044XL",
+          "sourceBounds": [
+            0.5046948356807511,
+            0.40560904143993304,
+            0.5663145539906104,
+            0.41377145249058184
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "system": "uhd-laparoscopes",
+          "group": "ultra-high-definition-laparoscopes",
+          "componentId": "ultra-high-definition-laparoscopes-item-11",
+          "tableId": "ultra-high-definition-laparoscopes",
+          "row": 11,
+          "column": 2,
+          "path": "specTables.0.rows.10.1"
+        }
+      ],
+      "sourcePages": [
+        14
+      ],
+      "showInGrid": false,
+      "pdfPage": 14,
+      "printedPage": 12,
+      "sourceBounds": [
+        0.098,
+        0.404,
+        0.58,
+        0.41600000000000004
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    }
+  ],
+  "componentGroups": [
+    {
+      "id": "ultra-high-definition-laparoscopes",
+      "name": {
+        "ru": "Лапароскопы сверхвысокой чёткости (UHD)",
+        "en": "Ultra High Definition (UHD) Laparoscopes"
+      },
+      "description": {
+        "ru": "Обновите операционную до следующего поколения клинической визуализации. Лапароскопы сверхвысокой чёткости CONMED третьего поколения имеют конструктивные особенности, улучшающие чёткость и резкость изображения для более детальной визуализации анатомических структур.",
+        "en": "Upgrade your OR to our next generation of clinical visualization. CONMED’s third generation Ultra-High Definition Laparoscopes have features designed to enhance image clarity and sharpness for improved viewing of anatomical structures."
+      },
+      "componentIds": [
+        "ultra-high-definition-laparoscopes-item-1",
+        "ultra-high-definition-laparoscopes-item-2",
+        "ultra-high-definition-laparoscopes-item-3",
+        "ultra-high-definition-laparoscopes-item-4",
+        "ultra-high-definition-laparoscopes-item-5",
+        "ultra-high-definition-laparoscopes-item-6",
+        "ultra-high-definition-laparoscopes-item-7",
+        "ultra-high-definition-laparoscopes-item-8",
+        "ultra-high-definition-laparoscopes-item-9",
+        "ultra-high-definition-laparoscopes-item-10",
+        "ultra-high-definition-laparoscopes-item-11"
+      ],
+      "subgroups": [],
+      "sourceNotes": [],
+      "images": [
+        {
+          "methodVersion": 3,
+          "inputFingerprint": "2389dc31c4b29b0bced7d3d3a327331f99750aee86b77827ccccd7e98383a9b7",
+          "maskMethod": "rembg plus edge-connected white-background restoration; exact source pixels retained",
+          "src": "/images/products/conmed/uhd-laparoscopes/page-014-photo-f1c94226.webp",
+          "imageType": "cutout",
+          "imageCaption": {
+            "ru": "Лапароскопы сверхвысокой чёткости",
+            "en": "Ultra-High Definition Laparoscopes"
+          },
+          "width": 1016,
+          "height": 1798,
+          "maskCoverage": 1.0,
+          "pdfPage": 14,
+          "printedPage": 12,
+          "sourceBounds": [
+            0.626,
+            0.139,
+            0.925,
+            0.505
+          ],
+          "coordinateSpace": "normalized",
+          "path": null
+        }
+      ],
+      "tableId": "ultra-high-definition-laparoscopes",
+      "sourcePages": [
+        14
+      ],
+      "pdfPage": 14,
+      "printedPage": 12,
+      "sourceBounds": [
+        0.098,
+        0.141,
+        0.58,
+        0.156
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    }
+  ],
+  "specTables": [
+    {
+      "id": "ultra-high-definition-laparoscopes",
+      "title": {
+        "ru": "Лапароскопы сверхвысокой чёткости (UHD)",
+        "en": "Ultra High Definition (UHD) Laparoscopes"
+      },
+      "unit": null,
+      "image": null,
+      "componentImage": "/images/products/conmed/uhd-laparoscopes/page-014-photo-f1c94226.webp",
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "Кат. №",
+          "en": "Cat. No."
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "5.5 мм, стандартная рабочая длина, 30°, окуляр",
+            "en": "5.5mm Standard Working Length, 30 degree, eyecup"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "5.5 мм, стандартная рабочая длина, 45°, окуляр",
+            "en": "5.5mm Standard Working Length, 45 degree, eyecup"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "5.5 мм, увеличенная рабочая длина, 0°, окуляр",
+            "en": "5.5mm Extended Working Length, 0 degree, eyecup"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "5.5 мм, увеличенная рабочая длина, 30°, окуляр",
+            "en": "5.5mm Extended Working Length, 30 degree, eyecup"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "5.5 мм, увеличенная рабочая длина, 45°, окуляр",
+            "en": "5.5mm Extended Working Length, 45 degree, eyecup"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "10 мм, стандартная рабочая длина, 0°, окуляр",
+            "en": "10mm Standard Working Length, 0 degree, eyecup"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "10 мм, стандартная рабочая длина, 30°, окуляр",
+            "en": "10mm Standard Working Length, 30 degree, eyecup"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "10 мм, стандартная рабочая длина, 45°, окуляр",
+            "en": "10mm Standard Working Length, 45 degree, eyecup"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "10 мм, увеличенная рабочая длина, 0°, окуляр",
+            "en": "10mm Extended Working Length, 0 degree, eyecup"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "10 мм, увеличенная рабочая длина, 30°, окуляр",
+            "en": "10mm Extended Working Length, 30 degree, eyecup"
+          },
+          null
+        ],
+        [
+          {
+            "ru": "10 мм, увеличенная рабочая длина, 45°, окуляр",
+            "en": "10mm Extended Working Length, 45 degree, eyecup"
+          },
+          null
+        ]
+      ],
+      "legend": null,
+      "sourcePages": [
+        14
+      ],
+      "headersVerified": true,
+      "rowSources": [
+        {
+          "pdfPage": 14,
+          "printedPage": 12,
+          "sourceBounds": [
+            0.098,
+            0.224,
+            0.58,
+            0.23600000000000002
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "UHD5530",
+              "pass2": "UHD5530",
+              "confidence1": 91.334816,
+              "confidence2": 55.207047,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "UHD5530",
+              "sourceBounds": [
+                0.51731220657277,
+                0.22645458350774383,
+                0.5660211267605634,
+                0.23461699455839263
+              ],
+              "pdfPage": 14,
+              "printedPage": 12,
+              "system": "uhd-laparoscopes",
+              "group": "ultra-high-definition-laparoscopes",
+              "componentId": "ultra-high-definition-laparoscopes-item-1",
+              "tableId": "ultra-high-definition-laparoscopes",
+              "row": 1,
+              "column": 2,
+              "path": "specTables.0.rows.0.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 14,
+          "printedPage": 12,
+          "sourceBounds": [
+            0.098,
+            0.242,
+            0.58,
+            0.254
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "UHD5544",
+              "pass2": "UHD5544",
+              "confidence1": 85.41993,
+              "confidence2": 90.161209,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "UHD5544",
+              "sourceBounds": [
+                0.51731220657277,
+                0.24445374633737965,
+                0.5660211267605634,
+                0.25261615738802845
+              ],
+              "pdfPage": 14,
+              "printedPage": 12,
+              "system": "uhd-laparoscopes",
+              "group": "ultra-high-definition-laparoscopes",
+              "componentId": "ultra-high-definition-laparoscopes-item-2",
+              "tableId": "ultra-high-definition-laparoscopes",
+              "row": 2,
+              "column": 2,
+              "path": "specTables.0.rows.1.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 14,
+          "printedPage": 12,
+          "sourceBounds": [
+            0.098,
+            0.26,
+            0.58,
+            0.272
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "UHD5500XL",
+              "pass2": "UHDSS00XL",
+              "confidence1": 48.10284,
+              "confidence2": 68.098282,
+              "flagged": true,
+              "reasons": [
+                "ocr-disagreement",
+                "low-confidence"
+              ],
+              "printedCandidate": "UHD5500XL",
+              "sourceBounds": [
+                0.5046948356807511,
+                0.2622436165759732,
+                0.5663145539906104,
+                0.270406027626622
+              ],
+              "pdfPage": 14,
+              "printedPage": 12,
+              "system": "uhd-laparoscopes",
+              "group": "ultra-high-definition-laparoscopes",
+              "componentId": "ultra-high-definition-laparoscopes-item-3",
+              "tableId": "ultra-high-definition-laparoscopes",
+              "row": 3,
+              "column": 2,
+              "path": "specTables.0.rows.2.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 14,
+          "printedPage": 12,
+          "sourceBounds": [
+            0.098,
+            0.278,
+            0.58,
+            0.29000000000000004
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "UHD5530XL",
+              "pass2": "UHD5530XL",
+              "confidence1": 68.877831,
+              "confidence2": 50.344223,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "UHD5530XL",
+              "sourceBounds": [
+                0.5046948356807511,
+                0.28024277940560904,
+                0.5663145539906104,
+                0.28840519045625784
+              ],
+              "pdfPage": 14,
+              "printedPage": 12,
+              "system": "uhd-laparoscopes",
+              "group": "ultra-high-definition-laparoscopes",
+              "componentId": "ultra-high-definition-laparoscopes-item-4",
+              "tableId": "ultra-high-definition-laparoscopes",
+              "row": 4,
+              "column": 2,
+              "path": "specTables.0.rows.3.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 14,
+          "printedPage": 12,
+          "sourceBounds": [
+            0.098,
+            0.296,
+            0.58,
+            0.308
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "UHD5544XL",
+              "pass2": "UHD5544XL",
+              "confidence1": 67.57531,
+              "confidence2": 77.583656,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "UHD5544XL",
+              "sourceBounds": [
+                0.5044014084507042,
+                0.29824194223524486,
+                0.5660211267605634,
+                0.30640435328589366
+              ],
+              "pdfPage": 14,
+              "printedPage": 12,
+              "system": "uhd-laparoscopes",
+              "group": "ultra-high-definition-laparoscopes",
+              "componentId": "ultra-high-definition-laparoscopes-item-5",
+              "tableId": "ultra-high-definition-laparoscopes",
+              "row": 5,
+              "column": 2,
+              "path": "specTables.0.rows.4.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 14,
+          "printedPage": 12,
+          "sourceBounds": [
+            0.098,
+            0.314,
+            0.58,
+            0.326
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "UHD1000",
+              "pass2": "UHD1000",
+              "confidence1": 89.58625,
+              "confidence2": 91.254211,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "UHD1000",
+              "sourceBounds": [
+                0.517018779342723,
+                0.31603181247383844,
+                0.5654342723004695,
+                0.32419422352448724
+              ],
+              "pdfPage": 14,
+              "printedPage": 12,
+              "system": "uhd-laparoscopes",
+              "group": "ultra-high-definition-laparoscopes",
+              "componentId": "ultra-high-definition-laparoscopes-item-6",
+              "tableId": "ultra-high-definition-laparoscopes",
+              "row": 6,
+              "column": 2,
+              "path": "specTables.0.rows.5.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 14,
+          "printedPage": 12,
+          "sourceBounds": [
+            0.098,
+            0.33199999999999996,
+            0.58,
+            0.344
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "UHD1030",
+              "pass2": "UHD1030",
+              "confidence1": 91.996201,
+              "confidence2": 88.922684,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "UHD1030",
+              "sourceBounds": [
+                0.517018779342723,
+                0.33403097530347425,
+                0.5654342723004695,
+                0.34219338635412305
+              ],
+              "pdfPage": 14,
+              "printedPage": 12,
+              "system": "uhd-laparoscopes",
+              "group": "ultra-high-definition-laparoscopes",
+              "componentId": "ultra-high-definition-laparoscopes-item-7",
+              "tableId": "ultra-high-definition-laparoscopes",
+              "row": 7,
+              "column": 2,
+              "path": "specTables.0.rows.6.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 14,
+          "printedPage": 12,
+          "sourceBounds": [
+            0.098,
+            0.35,
+            0.58,
+            0.362
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "UHD1044",
+              "pass2": "UHD1044",
+              "confidence1": 91.921555,
+              "confidence2": 88.344391,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "UHD1044",
+              "sourceBounds": [
+                0.51731220657277,
+                0.35203013813311007,
+                0.5660211267605634,
+                0.36019254918375887
+              ],
+              "pdfPage": 14,
+              "printedPage": 12,
+              "system": "uhd-laparoscopes",
+              "group": "ultra-high-definition-laparoscopes",
+              "componentId": "ultra-high-definition-laparoscopes-item-8",
+              "tableId": "ultra-high-definition-laparoscopes",
+              "row": 8,
+              "column": 2,
+              "path": "specTables.0.rows.7.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 14,
+          "printedPage": 12,
+          "sourceBounds": [
+            0.098,
+            0.368,
+            0.58,
+            0.38
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "UHD1000XL",
+              "pass2": "UHD1000XL",
+              "confidence1": 89.714546,
+              "confidence2": 79.938469,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "UHD1000XL",
+              "sourceBounds": [
+                0.5044014084507042,
+                0.36982000837170365,
+                0.5660211267605634,
+                0.37798241942235244
+              ],
+              "pdfPage": 14,
+              "printedPage": 12,
+              "system": "uhd-laparoscopes",
+              "group": "ultra-high-definition-laparoscopes",
+              "componentId": "ultra-high-definition-laparoscopes-item-9",
+              "tableId": "ultra-high-definition-laparoscopes",
+              "row": 9,
+              "column": 2,
+              "path": "specTables.0.rows.8.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 14,
+          "printedPage": 12,
+          "sourceBounds": [
+            0.098,
+            0.386,
+            0.58,
+            0.398
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "UHD1030XL",
+              "pass2": "UHD1030XL",
+              "confidence1": 92.121399,
+              "confidence2": 85.692848,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "UHD1030XL",
+              "sourceBounds": [
+                0.5044014084507042,
+                0.38781917120133946,
+                0.5660211267605634,
+                0.39598158225198826
+              ],
+              "pdfPage": 14,
+              "printedPage": 12,
+              "system": "uhd-laparoscopes",
+              "group": "ultra-high-definition-laparoscopes",
+              "componentId": "ultra-high-definition-laparoscopes-item-10",
+              "tableId": "ultra-high-definition-laparoscopes",
+              "row": 10,
+              "column": 2,
+              "path": "specTables.0.rows.9.1"
+            }
+          ]
+        },
+        {
+          "pdfPage": 14,
+          "printedPage": 12,
+          "sourceBounds": [
+            0.098,
+            0.404,
+            0.58,
+            0.41600000000000004
+          ],
+          "coordinateSpace": "normalized",
+          "path": null,
+          "codeEvidence": [
+            {
+              "value": null,
+              "pass1": "UHD1044XL",
+              "pass2": "UHD1044XL",
+              "confidence1": 77.015327,
+              "confidence2": 59.973454,
+              "flagged": true,
+              "reasons": [
+                "low-confidence"
+              ],
+              "printedCandidate": "UHD1044XL",
+              "sourceBounds": [
+                0.5046948356807511,
+                0.40560904143993304,
+                0.5663145539906104,
+                0.41377145249058184
+              ],
+              "pdfPage": 14,
+              "printedPage": 12,
+              "system": "uhd-laparoscopes",
+              "group": "ultra-high-definition-laparoscopes",
+              "componentId": "ultra-high-definition-laparoscopes-item-11",
+              "tableId": "ultra-high-definition-laparoscopes",
+              "row": 11,
+              "column": 2,
+              "path": "specTables.0.rows.10.1"
+            }
+          ]
+        }
+      ],
+      "groupId": "ultra-high-definition-laparoscopes",
+      "pdfPage": 14,
+      "printedPage": 12,
+      "sourceBounds": [
+        0.098,
+        0.208,
+        0.58,
+        0.418
+      ],
+      "coordinateSpace": "normalized",
+      "path": null
+    }
+  ],
+  "refCodes": [],
+  "sourcePdf": "/catalogs/conmed/advanced-visualization-system/source.pdf",
+  "documentCover": "/catalogs/conmed/advanced-visualization-system/pages/001.webp",
+  "catalogPageCount": 20,
+  "sourcePages": [
+    14
+  ],
+  "sourcePageImages": [
+    "/catalogs/conmed/advanced-visualization-system/pages/014.webp"
+  ],
+  "sourcePageDimensions": {
+    "14": {
+      "width": 3408,
+      "height": 4778
+    }
+  },
+  "catalogEdition": null,
+  "isNew": false,
+  "status": "draft",
+  "manufacturerLinks": [],
+  "availabilityNote": {
+    "ru": "Не все изделия могут быть доступны на всех рынках.",
+    "en": "All products may not be available in all markets"
+  },
+  "imageDimensions": {
+    "/images/products/conmed/uhd-laparoscopes/page-014-photo-f1c94226.webp": {
+      "width": 1016,
+      "height": 1798
+    }
+  },
+  "review": {
+    "flags": [
+      {
+        "path": "specTables.0.rows.0.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «UHD5530», проход 2 «UHD5530». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          14
+        ],
+        "pdfPage": 14,
+        "printedPage": 12,
+        "sourceBounds": [
+          0.51731220657277,
+          0.22645458350774383,
+          0.5660211267605634,
+          0.23461699455839263
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "UHD5530",
+          "pass2": "UHD5530",
+          "confidence1": 91.334816,
+          "confidence2": 55.207047,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "UHD5530",
+          "sourceBounds": [
+            0.51731220657277,
+            0.22645458350774383,
+            0.5660211267605634,
+            0.23461699455839263
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "system": "uhd-laparoscopes",
+          "group": "ultra-high-definition-laparoscopes",
+          "componentId": "ultra-high-definition-laparoscopes-item-1",
+          "tableId": "ultra-high-definition-laparoscopes",
+          "row": 1,
+          "column": 2,
+          "path": "specTables.0.rows.0.1"
+        }
+      },
+      {
+        "path": "specTables.0.rows.1.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «UHD5544», проход 2 «UHD5544». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          14
+        ],
+        "pdfPage": 14,
+        "printedPage": 12,
+        "sourceBounds": [
+          0.51731220657277,
+          0.24445374633737965,
+          0.5660211267605634,
+          0.25261615738802845
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "UHD5544",
+          "pass2": "UHD5544",
+          "confidence1": 85.41993,
+          "confidence2": 90.161209,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "UHD5544",
+          "sourceBounds": [
+            0.51731220657277,
+            0.24445374633737965,
+            0.5660211267605634,
+            0.25261615738802845
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "system": "uhd-laparoscopes",
+          "group": "ultra-high-definition-laparoscopes",
+          "componentId": "ultra-high-definition-laparoscopes-item-2",
+          "tableId": "ultra-high-definition-laparoscopes",
+          "row": 2,
+          "column": 2,
+          "path": "specTables.0.rows.1.1"
+        }
+      },
+      {
+        "path": "specTables.0.rows.2.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «UHD5500XL», проход 2 «UHDSS00XL». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          14
+        ],
+        "pdfPage": 14,
+        "printedPage": 12,
+        "sourceBounds": [
+          0.5046948356807511,
+          0.2622436165759732,
+          0.5663145539906104,
+          0.270406027626622
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "UHD5500XL",
+          "pass2": "UHDSS00XL",
+          "confidence1": 48.10284,
+          "confidence2": 68.098282,
+          "flagged": true,
+          "reasons": [
+            "ocr-disagreement",
+            "low-confidence"
+          ],
+          "printedCandidate": "UHD5500XL",
+          "sourceBounds": [
+            0.5046948356807511,
+            0.2622436165759732,
+            0.5663145539906104,
+            0.270406027626622
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "system": "uhd-laparoscopes",
+          "group": "ultra-high-definition-laparoscopes",
+          "componentId": "ultra-high-definition-laparoscopes-item-3",
+          "tableId": "ultra-high-definition-laparoscopes",
+          "row": 3,
+          "column": 2,
+          "path": "specTables.0.rows.2.1"
+        }
+      },
+      {
+        "path": "specTables.0.rows.3.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «UHD5530XL», проход 2 «UHD5530XL». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          14
+        ],
+        "pdfPage": 14,
+        "printedPage": 12,
+        "sourceBounds": [
+          0.5046948356807511,
+          0.28024277940560904,
+          0.5663145539906104,
+          0.28840519045625784
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "UHD5530XL",
+          "pass2": "UHD5530XL",
+          "confidence1": 68.877831,
+          "confidence2": 50.344223,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "UHD5530XL",
+          "sourceBounds": [
+            0.5046948356807511,
+            0.28024277940560904,
+            0.5663145539906104,
+            0.28840519045625784
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "system": "uhd-laparoscopes",
+          "group": "ultra-high-definition-laparoscopes",
+          "componentId": "ultra-high-definition-laparoscopes-item-4",
+          "tableId": "ultra-high-definition-laparoscopes",
+          "row": 4,
+          "column": 2,
+          "path": "specTables.0.rows.3.1"
+        }
+      },
+      {
+        "path": "specTables.0.rows.4.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «UHD5544XL», проход 2 «UHD5544XL». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          14
+        ],
+        "pdfPage": 14,
+        "printedPage": 12,
+        "sourceBounds": [
+          0.5044014084507042,
+          0.29824194223524486,
+          0.5660211267605634,
+          0.30640435328589366
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "UHD5544XL",
+          "pass2": "UHD5544XL",
+          "confidence1": 67.57531,
+          "confidence2": 77.583656,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "UHD5544XL",
+          "sourceBounds": [
+            0.5044014084507042,
+            0.29824194223524486,
+            0.5660211267605634,
+            0.30640435328589366
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "system": "uhd-laparoscopes",
+          "group": "ultra-high-definition-laparoscopes",
+          "componentId": "ultra-high-definition-laparoscopes-item-5",
+          "tableId": "ultra-high-definition-laparoscopes",
+          "row": 5,
+          "column": 2,
+          "path": "specTables.0.rows.4.1"
+        }
+      },
+      {
+        "path": "specTables.0.rows.5.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «UHD1000», проход 2 «UHD1000». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          14
+        ],
+        "pdfPage": 14,
+        "printedPage": 12,
+        "sourceBounds": [
+          0.517018779342723,
+          0.31603181247383844,
+          0.5654342723004695,
+          0.32419422352448724
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "UHD1000",
+          "pass2": "UHD1000",
+          "confidence1": 89.58625,
+          "confidence2": 91.254211,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "UHD1000",
+          "sourceBounds": [
+            0.517018779342723,
+            0.31603181247383844,
+            0.5654342723004695,
+            0.32419422352448724
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "system": "uhd-laparoscopes",
+          "group": "ultra-high-definition-laparoscopes",
+          "componentId": "ultra-high-definition-laparoscopes-item-6",
+          "tableId": "ultra-high-definition-laparoscopes",
+          "row": 6,
+          "column": 2,
+          "path": "specTables.0.rows.5.1"
+        }
+      },
+      {
+        "path": "specTables.0.rows.6.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «UHD1030», проход 2 «UHD1030». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          14
+        ],
+        "pdfPage": 14,
+        "printedPage": 12,
+        "sourceBounds": [
+          0.517018779342723,
+          0.33403097530347425,
+          0.5654342723004695,
+          0.34219338635412305
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "UHD1030",
+          "pass2": "UHD1030",
+          "confidence1": 91.996201,
+          "confidence2": 88.922684,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "UHD1030",
+          "sourceBounds": [
+            0.517018779342723,
+            0.33403097530347425,
+            0.5654342723004695,
+            0.34219338635412305
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "system": "uhd-laparoscopes",
+          "group": "ultra-high-definition-laparoscopes",
+          "componentId": "ultra-high-definition-laparoscopes-item-7",
+          "tableId": "ultra-high-definition-laparoscopes",
+          "row": 7,
+          "column": 2,
+          "path": "specTables.0.rows.6.1"
+        }
+      },
+      {
+        "path": "specTables.0.rows.7.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «UHD1044», проход 2 «UHD1044». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          14
+        ],
+        "pdfPage": 14,
+        "printedPage": 12,
+        "sourceBounds": [
+          0.51731220657277,
+          0.35203013813311007,
+          0.5660211267605634,
+          0.36019254918375887
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "UHD1044",
+          "pass2": "UHD1044",
+          "confidence1": 91.921555,
+          "confidence2": 88.344391,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "UHD1044",
+          "sourceBounds": [
+            0.51731220657277,
+            0.35203013813311007,
+            0.5660211267605634,
+            0.36019254918375887
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "system": "uhd-laparoscopes",
+          "group": "ultra-high-definition-laparoscopes",
+          "componentId": "ultra-high-definition-laparoscopes-item-8",
+          "tableId": "ultra-high-definition-laparoscopes",
+          "row": 8,
+          "column": 2,
+          "path": "specTables.0.rows.7.1"
+        }
+      },
+      {
+        "path": "specTables.0.rows.8.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «UHD1000XL», проход 2 «UHD1000XL». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          14
+        ],
+        "pdfPage": 14,
+        "printedPage": 12,
+        "sourceBounds": [
+          0.5044014084507042,
+          0.36982000837170365,
+          0.5660211267605634,
+          0.37798241942235244
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "UHD1000XL",
+          "pass2": "UHD1000XL",
+          "confidence1": 89.714546,
+          "confidence2": 79.938469,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "UHD1000XL",
+          "sourceBounds": [
+            0.5044014084507042,
+            0.36982000837170365,
+            0.5660211267605634,
+            0.37798241942235244
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "system": "uhd-laparoscopes",
+          "group": "ultra-high-definition-laparoscopes",
+          "componentId": "ultra-high-definition-laparoscopes-item-9",
+          "tableId": "ultra-high-definition-laparoscopes",
+          "row": 9,
+          "column": 2,
+          "path": "specTables.0.rows.8.1"
+        }
+      },
+      {
+        "path": "specTables.0.rows.9.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «UHD1030XL», проход 2 «UHD1030XL». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          14
+        ],
+        "pdfPage": 14,
+        "printedPage": 12,
+        "sourceBounds": [
+          0.5044014084507042,
+          0.38781917120133946,
+          0.5660211267605634,
+          0.39598158225198826
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "UHD1030XL",
+          "pass2": "UHD1030XL",
+          "confidence1": 92.121399,
+          "confidence2": 85.692848,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "UHD1030XL",
+          "sourceBounds": [
+            0.5044014084507042,
+            0.38781917120133946,
+            0.5660211267605634,
+            0.39598158225198826
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "system": "uhd-laparoscopes",
+          "group": "ultra-high-definition-laparoscopes",
+          "componentId": "ultra-high-definition-laparoscopes-item-10",
+          "tableId": "ultra-high-definition-laparoscopes",
+          "row": 10,
+          "column": 2,
+          "path": "specTables.0.rows.9.1"
+        }
+      },
+      {
+        "path": "specTables.0.rows.10.1",
+        "code": "ocr-code-review",
+        "message": {
+          "ru": "Cat. No. требует проверки: проход 1 «UHD1044XL», проход 2 «UHD1044XL». Значение не заполнено.",
+          "en": "Catalog number requires review. The value is empty; compare both raw OCR readings and the original page."
+        },
+        "sourcePages": [
+          14
+        ],
+        "pdfPage": 14,
+        "printedPage": 12,
+        "sourceBounds": [
+          0.5046948356807511,
+          0.40560904143993304,
+          0.5663145539906104,
+          0.41377145249058184
+        ],
+        "coordinateSpace": "normalized",
+        "details": {
+          "value": null,
+          "pass1": "UHD1044XL",
+          "pass2": "UHD1044XL",
+          "confidence1": 77.015327,
+          "confidence2": 59.973454,
+          "flagged": true,
+          "reasons": [
+            "low-confidence"
+          ],
+          "printedCandidate": "UHD1044XL",
+          "sourceBounds": [
+            0.5046948356807511,
+            0.40560904143993304,
+            0.5663145539906104,
+            0.41377145249058184
+          ],
+          "pdfPage": 14,
+          "printedPage": 12,
+          "system": "uhd-laparoscopes",
+          "group": "ultra-high-definition-laparoscopes",
+          "componentId": "ultra-high-definition-laparoscopes-item-11",
+          "tableId": "ultra-high-definition-laparoscopes",
+          "row": 11,
+          "column": 2,
+          "path": "specTables.0.rows.10.1"
+        }
+      },
+      {
+        "path": "specialty",
+        "code": "specialty-review",
+        "message": {
+          "ru": "Клиническая специальность не назначена автоматически: проверьте область применения системы.",
+          "en": "Clinical specialty was not inferred; review the intended specialty."
+        },
+        "sourcePages": [
+          14
+        ],
+        "pdfPage": 14,
+        "printedPage": 12,
+        "sourceBounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "coordinateSpace": "normalized"
+      },
+      {
+        "path": "components",
+        "code": "source-association-review",
+        "message": {
+          "ru": "Проверьте OCR, соответствие позиций подгруппам и подписи к изображениям. Отсутствующие коды не восстановлены.",
+          "en": "Review OCR, subgroup assignments and image captions. Missing codes were not reconstructed."
+        },
+        "sourcePages": [
+          14
+        ],
+        "pdfPage": 14,
+        "printedPage": 12,
+        "sourceBounds": [
+          0,
+          0,
+          1,
+          1
+        ],
+        "coordinateSpace": "normalized"
+      }
+    ],
+    "sourceSha256": "e95e65a12367e776350edfcee6a84d2d994556e67083a5c6280ab5490b11af21",
+    "importMethod": "400-DPI Tesseract PSM3 + PSM11; source-reviewed section layout; source-coordinate audit",
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "skipped": false,
+    "translatedFields": [
+      "name.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "components.0.name.ru",
+      "components.1.name.ru",
+      "components.2.name.ru",
+      "components.3.name.ru",
+      "components.4.name.ru",
+      "components.5.name.ru",
+      "components.6.name.ru",
+      "components.7.name.ru",
+      "components.8.name.ru",
+      "components.9.name.ru",
+      "components.10.name.ru",
+      "componentGroups.0.name.ru",
+      "componentGroups.0.description.ru",
+      "componentGroups.0.images.0.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.rows.3.0.ru",
+      "specTables.0.rows.4.0.ru",
+      "specTables.0.rows.5.0.ru",
+      "specTables.0.rows.6.0.ru",
+      "specTables.0.rows.7.0.ru",
+      "specTables.0.rows.8.0.ru",
+      "specTables.0.rows.9.0.ru",
+      "specTables.0.rows.10.0.ru",
+      "availabilityNote.ru"
+    ]
+  }
+}

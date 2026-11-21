@@ -1,0 +1,90 @@
+{
+  "files": [
+    {
+      "source": "/Users/jurabeksayfiev/Downloads/Spine Catalogue Double Medical.pdf",
+      "restoredAs": "double-medical/spine-catalogue",
+      "sha256": "03e1a15268e318ed00100b1bdda8292690ee8dd0e5e8eff5c8078cdd9a81e4ac",
+      "note": "Uncompressed replacement supplied by owner. Original import evidence hashes preserved; sampled pages match saved reference renders."
+    },
+    {
+      "source": "/Users/jurabeksayfiev/Downloads/Arthroscopy Product Catalogue Conmed.pdf",
+      "restoredAs": "conmed/arthroscopy-product-catalog",
+      "sha256": "9be6ff4bf4ccc61a804a7704fd0418a4be225ddcfda71342f48132da27e05534",
+      "note": "Uncompressed replacement supplied by owner. Original import evidence hashes preserved; sampled pages match saved reference renders."
+    }
+  ],
+  "pageComparison": [
+    {
+      "name": "spine",
+      "pages": 412,
+      "samples": [
+        {
+          "page": 1,
+          "meanDifference": 1.191
+        },
+        {
+          "page": 3,
+          "meanDifference": 2.521
+        },
+        {
+          "page": 96,
+          "meanDifference": 1.413
+        },
+        {
+          "page": 188,
+          "meanDifference": 1.175
+        },
+        {
+          "page": 210,
+          "meanDifference": 1.097
+        },
+        {
+          "page": 214,
+          "meanDifference": 1.179
+        },
+        {
+          "page": 344,
+          "meanDifference": 1.317
+        },
+        {
+          "page": 411,
+          "meanDifference": 1.536
+        }
+      ]
+    },
+    {
+      "name": "arthroscopy",
+      "pages": 116,
+      "samples": [
+        {
+          "page": 1,
+          "meanDifference": 3.647
+        },
+        {
+          "page": 8,
+          "meanDifference": 0.52
+        },
+        {
+          "page": 16,
+          "meanDifference": 3.611
+        },
+        {
+          "page": 40,
+          "meanDifference": 1.207
+        },
+        {
+          "page": 70,
+          "meanDifference": 0.934
+        },
+        {
+          "page": 94,
+          "meanDifference": 2.201
+        },
+        {
+          "page": 115,
+          "meanDifference": 0.0
+        }
+      ]
+    }
+  ]
+}

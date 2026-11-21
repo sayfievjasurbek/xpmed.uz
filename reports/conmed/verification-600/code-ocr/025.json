@@ -1,0 +1,95 @@
+{
+  "id": 25,
+  "bounds": [
+    0.8370181960477402,
+    0.43385431202902597,
+    0.9090197612991586,
+    0.44976276862964
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "VP8574",
+      "confidence": 46.923225,
+      "words": [
+        {
+          "text": "VP8574",
+          "confidence": 46.923225,
+          "pixelBounds": [
+            4370,
+            3142,
+            4577,
+            3200
+          ],
+          "lineId": "8.1.10",
+          "bounds": [
+            0.8550185873605948,
+            0.438459391571309,
+            0.8955194678145177,
+            0.44655316773653364
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "VP85/4",
+      "confidence": 87.415398,
+      "words": [
+        {
+          "text": "VP85/4",
+          "confidence": 87.415398,
+          "pixelBounds": [
+            4370,
+            3142,
+            4577,
+            3200
+          ],
+          "lineId": "50.1.1",
+          "bounds": [
+            0.8550185873605948,
+            0.438459391571309,
+            0.8955194678145177,
+            0.44655316773653364
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": " VP85/4",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": " VP85/4",
+          "confidence": 0.0,
+          "pixelBounds": [
+            10,
+            33,
+            298,
+            91
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "veeVP8574",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "veeVP8574",
+          "confidence": 0.0,
+          "pixelBounds": [
+            10,
+            33,
+            298,
+            91
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

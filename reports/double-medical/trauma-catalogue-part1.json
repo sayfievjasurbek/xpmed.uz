@@ -1,0 +1,4933 @@
+{
+  "mergedIntoExisting": [],
+  "pdf": "catalogs-source/double-medical/trauma-catalogue.pdf",
+  "sha256": "3f2755d7646453cd1d8981369406a66062322971a7cb98258e022ae9b9769999",
+  "method": "600-DPI Tesseract PSM3/11 plus independent Apple Vision; source glyph reconciliation and Codex visual reading; Codex medical RU; native photo composites, original Real-ESRGAN weights exact 2x then rembg",
+  "systemsCreated": 224,
+  "systems": [
+    {
+      "slug": "small-limited-contact-locking-plate-twin-hole",
+      "name": {
+        "ru": "Малая блокируемая пластина ограниченного контакта, со сдвоенными отверстиями",
+        "en": "Small Limited Contact Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        6
+      ],
+      "tables": 1,
+      "rows": 11,
+      "flags": []
+    },
+    {
+      "slug": "humeral-shaft-straight-locking-plate-twin-hole",
+      "name": {
+        "ru": "Прямая блокируемая пластина для диафиза плечевой кости, со сдвоенными отверстиями",
+        "en": "Humeral Shaft Straight Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        6
+      ],
+      "tables": 1,
+      "rows": 13,
+      "flags": []
+    },
+    {
+      "slug": "metaphyseal-locking-plate-3-5-twin-hole",
+      "name": {
+        "ru": "Метафизарная блокируемая пластина, 3.5, со сдвоенными отверстиями",
+        "en": "Metaphyseal Locking Plate, 3.5, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        7
+      ],
+      "tables": 1,
+      "rows": 8,
+      "flags": []
+    },
+    {
+      "slug": "1-3-tubular-locking-plate-twin-hole",
+      "name": {
+        "ru": "Блокируемая пластина 1/3 трубчатая, со сдвоенными отверстиями",
+        "en": "1/3 Tubular Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        7
+      ],
+      "tables": 1,
+      "rows": 9,
+      "flags": []
+    },
+    {
+      "slug": "acromion-locking-plate",
+      "name": {
+        "ru": "Блокируемая пластина для акромиона",
+        "en": "Acromion Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        8
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "scapula-medial-locking-plate",
+      "name": {
+        "ru": "Медиальная блокируемая пластина для лопатки",
+        "en": "Scapula Medial Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        8
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "scapula-lateral-locking-plate",
+      "name": {
+        "ru": "Латеральная блокируемая пластина для лопатки",
+        "en": "Scapula Lateral Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        8
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "glenoid-locking-plate",
+      "name": {
+        "ru": "Блокируемая пластина для суставной впадины лопатки",
+        "en": "Glenoid Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        8
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "superior-anterior-clavicle-locking-plate-twin-hole",
+      "name": {
+        "ru": "Верхнепередняя блокируемая пластина для ключицы, со сдвоенными отверстиями",
+        "en": "Superior Anterior Clavicle Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        9
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "superior-anterior-clavicle-locking-plate-ii-twin-hole",
+      "name": {
+        "ru": "Верхнепередняя блокируемая пластина для ключицы II, со сдвоенными отверстиями",
+        "en": "Superior Anterior Clavicle Locking Plate II, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        9
+      ],
+      "tables": 1,
+      "rows": 14,
+      "flags": []
+    },
+    {
+      "slug": "clavicular-hook-locking-plate-iii-twin-hole",
+      "name": {
+        "ru": "Крючковидная блокируемая пластина для ключицы III, со сдвоенными отверстиями",
+        "en": "Clavicular Hook Locking Plate III, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        10
+      ],
+      "tables": 1,
+      "rows": 27,
+      "flags": []
+    },
+    {
+      "slug": "superior-anterior-distal-clavicle-locking-plate-twin-hole",
+      "name": {
+        "ru": "Верхнепередняя блокируемая пластина для дистального отдела ключицы, со сдвоенными отверстиями",
+        "en": "Superior Anterior Distal Clavicle Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        11
+      ],
+      "tables": 1,
+      "rows": 8,
+      "flags": []
+    },
+    {
+      "slug": "proximal-humeral-greater-tuberosity-locking-compression-plate-suture-hole",
+      "name": {
+        "ru": "Блокируемая компрессионная пластина для большого бугорка плечевой кости, с отверстием для шовного материала",
+        "en": "Proximal Humeral Greater Tuberosity Locking Compression Plate, suture hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        12
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "proximal-humeral-locking-plate-ii-twin-hole",
+      "name": {
+        "ru": "Блокируемая пластина для проксимального отдела плечевой кости II, со сдвоенными отверстиями",
+        "en": "Proximal Humeral Locking Plate II, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        13
+      ],
+      "tables": 1,
+      "rows": 11,
+      "flags": []
+    },
+    {
+      "slug": "proximal-humeral-locking-plate-iii-twin-hole",
+      "name": {
+        "ru": "Блокируемая пластина для проксимального отдела плечевой кости III, со сдвоенными отверстиями",
+        "en": "Proximal Humeral Locking Plate III, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        14
+      ],
+      "tables": 1,
+      "rows": 24,
+      "flags": []
+    },
+    {
+      "slug": "proximal-humeral-twisted-locking-plate-twin-hole",
+      "name": {
+        "ru": "Торсионная блокируемая пластина для проксимального отдела плечевой кости, со сдвоенными отверстиями",
+        "en": "Proximal Humeral Twisted Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        15
+      ],
+      "tables": 1,
+      "rows": 8,
+      "flags": []
+    },
+    {
+      "slug": "distal-lateral-humeral-locking-plate-ii-twin-hole",
+      "name": {
+        "ru": "Латеральная блокируемая пластина для дистального отдела плечевой кости II, со сдвоенными отверстиями",
+        "en": "Distal Lateral Humeral Locking Plate II, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        16
+      ],
+      "tables": 1,
+      "rows": 14,
+      "flags": []
+    },
+    {
+      "slug": "distal-medial-humeral-locking-plate-ii-twin-hole",
+      "name": {
+        "ru": "Медиальная блокируемая пластина для дистального отдела плечевой кости II, со сдвоенными отверстиями",
+        "en": "Distal Medial Humeral Locking Plate II, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        17
+      ],
+      "tables": 1,
+      "rows": 14,
+      "flags": []
+    },
+    {
+      "slug": "distal-humeral-sub-condylar-locking-plate-twin-hole",
+      "name": {
+        "ru": "Подмыщелковая блокируемая пластина для дистального отдела плечевой кости, со сдвоенными отверстиями",
+        "en": "Distal Humeral Sub-condylar Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        18
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "distal-medial-humeral-reconstruction-locking-plate-twin-hole",
+      "name": {
+        "ru": "Медиальная реконструктивная блокируемая пластина для дистального отдела плечевой кости, со сдвоенными отверстиями",
+        "en": "Distal Medial Humeral Reconstruction Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        18
+      ],
+      "tables": 1,
+      "rows": 5,
+      "flags": []
+    },
+    {
+      "slug": "extra-articular-distal-humeral-locking-plate-twin-hole",
+      "name": {
+        "ru": "Внесуставная блокируемая пластина для дистального отдела плечевой кости, со сдвоенными отверстиями",
+        "en": "Extra-articular Distal Humeral Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        19
+      ],
+      "tables": 1,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "proximal-posterior-tibial-locking-plate-ii",
+      "name": {
+        "ru": "Задняя блокируемая пластина для проксимального отдела большеберцовой кости II",
+        "en": "Proximal Posterior Tibial Locking Plate II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        20
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "proximal-medial-tibial-locking-plate-ii",
+      "name": {
+        "ru": "Медиальная блокируемая пластина для проксимального отдела большеберцовой кости II",
+        "en": "Proximal Medial Tibial Locking Plate II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        20
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "proximal-lateral-tibial-locking-plate-ii",
+      "name": {
+        "ru": "Латеральная блокируемая пластина для проксимального отдела большеберцовой кости II",
+        "en": "Proximal Lateral Tibial Locking Plate II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        20
+      ],
+      "tables": 1,
+      "rows": 8,
+      "flags": []
+    },
+    {
+      "slug": "ankle-fusion-locking-plate-twin-hole",
+      "name": {
+        "ru": "Блокируемая пластина для артродеза голеностопного сустава, со сдвоенными отверстиями",
+        "en": "Ankle Fusion Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        21,
+        157,
+        159
+      ],
+      "tables": 3,
+      "rows": 5,
+      "flags": []
+    },
+    {
+      "slug": "low-profile-distal-medial-tibial-locking-plate-twin-hole",
+      "name": {
+        "ru": "Низкопрофильная медиальная блокируемая пластина для дистального отдела большеберцовой кости, со сдвоенными отверстиями",
+        "en": "Low Profile Distal Medial Tibial Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        21
+      ],
+      "tables": 1,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "wrist-fusion-locking-plate-twin-hole",
+      "name": {
+        "ru": "Блокируемая пластина для артродеза лучезапястного сустава, со сдвоенными отверстиями",
+        "en": "Wrist Fusion Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        22
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "distal-lateral-tibial-locking-plate-ii-twin-hole",
+      "name": {
+        "ru": "Латеральная блокируемая пластина для дистального отдела большеберцовой кости II, со сдвоенными отверстиями",
+        "en": "Distal Lateral Tibial Locking Plate II, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        23
+      ],
+      "tables": 1,
+      "rows": 16,
+      "flags": []
+    },
+    {
+      "slug": "proximal-lateral-tibial-l-locking-plate-standard-bend-twin-hole",
+      "name": {
+        "ru": "Латеральная L-образная блокируемая пластина для проксимального отдела большеберцовой кости, стандартный изгиб, со сдвоенными отверстиями",
+        "en": "Proximal Lateral Tibial L-Locking Plate, standard bend, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        23
+      ],
+      "tables": 1,
+      "rows": 14,
+      "flags": []
+    },
+    {
+      "slug": "proximal-lateral-tibial-l-locking-plate-low-bend-twin-hole",
+      "name": {
+        "ru": "Латеральная L-образная блокируемая пластина для проксимального отдела большеберцовой кости, малый изгиб, со сдвоенными отверстиями",
+        "en": "Proximal Lateral Tibial L-Locking Plate, low bend, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        24
+      ],
+      "tables": 1,
+      "rows": 14,
+      "flags": []
+    },
+    {
+      "slug": "proximal-medial-tibial-t-locking-plate-twin-hole",
+      "name": {
+        "ru": "Медиальная T-образная блокируемая пластина для проксимального отдела большеберцовой кости, со сдвоенными отверстиями",
+        "en": "Proximal Medial Tibial T-Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        24
+      ],
+      "tables": 1,
+      "rows": 14,
+      "flags": []
+    },
+    {
+      "slug": "proximal-lateral-tibial-locking-plate-twin-hole",
+      "name": {
+        "ru": "Латеральная блокируемая пластина для проксимального отдела большеберцовой кости, со сдвоенными отверстиями",
+        "en": "Proximal Lateral Tibial Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        25
+      ],
+      "tables": 1,
+      "rows": 26,
+      "flags": []
+    },
+    {
+      "slug": "distal-fibular-locking-plate-twin-hole",
+      "name": {
+        "ru": "Блокируемая пластина для дистального отдела малоберцовой кости, со сдвоенными отверстиями",
+        "en": "Distal Fibular Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        26
+      ],
+      "tables": 1,
+      "rows": 16,
+      "flags": []
+    },
+    {
+      "slug": "distal-lateral-fibular-locking-plate-twin-hole",
+      "name": {
+        "ru": "Латеральная блокируемая пластина для дистального отдела малоберцовой кости, со сдвоенными отверстиями",
+        "en": "Distal Lateral Fibular Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        27
+      ],
+      "tables": 1,
+      "rows": 14,
+      "flags": []
+    },
+    {
+      "slug": "posterior-lateral-fibular-locking-plate-twin-hole",
+      "name": {
+        "ru": "Заднелатеральная блокируемая пластина для малоберцовой кости, со сдвоенными отверстиями",
+        "en": "Posterior Lateral Fibular Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        27
+      ],
+      "tables": 1,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "calcaneal-locking-plate-i",
+      "name": {
+        "ru": "Блокируемая пластина для пяточной кости I",
+        "en": "Calcaneal Locking Plate I"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        28
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "calcaneal-locking-plate-ii",
+      "name": {
+        "ru": "Блокируемая пластина для пяточной кости II",
+        "en": "Calcaneal Locking Plate II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        28
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "olecranon-locking-plate-ii-twin-hole",
+      "name": {
+        "ru": "Блокируемая пластина для локтевого отростка II, со сдвоенными отверстиями",
+        "en": "Olecranon Locking Plate II, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        29
+      ],
+      "tables": 1,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "olecranon-locking-plate-iii-twin-hole",
+      "name": {
+        "ru": "Блокируемая пластина для локтевого отростка III, со сдвоенными отверстиями",
+        "en": "Olecranon Locking Plate III, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        29
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "anatomic-radius-volar-locking-plate-twin-hole",
+      "name": {
+        "ru": "Анатомическая ладонная блокируемая пластина для лучевой кости, со сдвоенными отверстиями",
+        "en": "Anatomic Radius Volar Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        30
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "anatomic-forearm-locking-plate-twin-hole",
+      "name": {
+        "ru": "Анатомическая блокируемая пластина для костей предплечья, со сдвоенными отверстиями",
+        "en": "Anatomic Forearm Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        30
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "olecranon-locking-plate-curved",
+      "name": {
+        "ru": "Блокируемая пластина для локтевого отростка, изогнутая",
+        "en": "Olecranon Locking Plate, curved"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        31
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "olecranon-locking-plate-straight",
+      "name": {
+        "ru": "Блокируемая пластина для локтевого отростка, прямая",
+        "en": "Olecranon Locking Plate, straight"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        31
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "olecranon-u-locking-plate",
+      "name": {
+        "ru": "U-образная блокируемая пластина для локтевого отростка",
+        "en": "Olecranon U-Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        32
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "coronoid-locking-plate",
+      "name": {
+        "ru": "Блокируемая пластина для венечного отростка",
+        "en": "Coronoid Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        32
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "distal-diaphyseal-radius-locking-plate-twin-hole",
+      "name": {
+        "ru": "Блокируемая пластина для дистальной части диафиза лучевой кости, со сдвоенными отверстиями",
+        "en": "Distal Diaphyseal Radius Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        33
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "distal-diaphyseal-radius-locking-plate-ii-twin-hole",
+      "name": {
+        "ru": "Блокируемая пластина для дистальной части диафиза лучевой кости II, со сдвоенными отверстиями",
+        "en": "Distal Diaphyseal Radius Locking Plate II, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        33
+      ],
+      "tables": 1,
+      "rows": 10,
+      "flags": []
+    },
+    {
+      "slug": "distal-radius-locking-plate-i-variable-angle-small-twin-hole",
+      "name": {
+        "ru": "Блокируемая пластина для дистального отдела лучевой кости I, с переменным углом, малая, со сдвоенными отверстиями",
+        "en": "Distal Radius Locking Plate I, variable angle, small, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        34
+      ],
+      "tables": 1,
+      "rows": 11,
+      "flags": []
+    },
+    {
+      "slug": "distal-radius-locking-plate-i-variable-angle-medium-twin-hole",
+      "name": {
+        "ru": "Блокируемая пластина для дистального отдела лучевой кости I, с переменным углом, средняя, со сдвоенными отверстиями",
+        "en": "Distal Radius Locking Plate I, variable angle, medium, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        34
+      ],
+      "tables": 1,
+      "rows": 14,
+      "flags": []
+    },
+    {
+      "slug": "distal-radius-locking-plate-i-variable-angle-large-twin-hole",
+      "name": {
+        "ru": "Блокируемая пластина для дистального отдела лучевой кости I, с переменным углом, большая, со сдвоенными отверстиями",
+        "en": "Distal Radius Locking Plate I, variable angle, large, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        35
+      ],
+      "tables": 1,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "distal-radius-locking-plate-ii-twin-hole",
+      "name": {
+        "ru": "Блокируемая пластина для дистального отдела лучевой кости II, со сдвоенными отверстиями",
+        "en": "Distal Radius Locking Plate II, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        35
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "distal-volar-rim-radial-locking-plate-variable-angle",
+      "name": {
+        "ru": "Блокируемая пластина для ладонного края дистального отдела лучевой кости, с переменным углом",
+        "en": "Distal Volar Rim Radial Locking Plate, variable angle"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        36
+      ],
+      "tables": 1,
+      "rows": 10,
+      "flags": []
+    },
+    {
+      "slug": "distal-volar-radial-locking-plate-with-drill-guide-twin-hole",
+      "name": {
+        "ru": "Ладонная блокируемая пластина для дистального отдела лучевой кости, с направителем сверла, со сдвоенными отверстиями",
+        "en": "Distal Volar Radial Locking Plate, with drill guide, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        36
+      ],
+      "tables": 1,
+      "rows": 10,
+      "flags": []
+    },
+    {
+      "slug": "distal-dorsal-radius-delta-locking-plate-twin-hole",
+      "name": {
+        "ru": "Тыльная дельтаобразная блокируемая пластина для дистального отдела лучевой кости, со сдвоенными отверстиями",
+        "en": "Distal Dorsal Radius Delta Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        37
+      ],
+      "tables": 1,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "distal-dorsal-radial-locking-plate",
+      "name": {
+        "ru": "Тыльная π-образная блокируемая пластина для дистального отдела лучевой кости",
+        "en": "Distal Dorsal Radial π Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        37
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "distal-ulnar-locking-plate-twin-hole",
+      "name": {
+        "ru": "Блокируемая пластина для дистального отдела локтевой кости, со сдвоенными отверстиями",
+        "en": "Distal Ulnar Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        38
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "proximal-radius-locking-plate-twin-hole",
+      "name": {
+        "ru": "Блокируемая пластина для проксимального отдела лучевой кости, со сдвоенными отверстиями",
+        "en": "Proximal Radius Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        38
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "distal-lateral-radius-locking-plate-variable-angle",
+      "name": {
+        "ru": "Латеральная блокируемая пластина для дистального отдела лучевой кости, с переменным углом",
+        "en": "Distal Lateral Radius Locking Plate, variable angle"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        39
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "distal-medial-radius-locking-plate-variable-angle",
+      "name": {
+        "ru": "Медиальная блокируемая пластина для дистального отдела лучевой кости, с переменным углом",
+        "en": "Distal Medial Radius Locking Plate, variable angle"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        40
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "distal-ulnar-locking-plate",
+      "name": {
+        "ru": "Блокируемая пластина для дистального отдела локтевой кости",
+        "en": "Distal Ulnar Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        40
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "3-5mm-cortex-screw-self-tapping-with-three-flute",
+      "name": {
+        "ru": "3.5 мм Кортикальный винт, самонарезающий, с тремя режущими канавками",
+        "en": "3.5mm Cortex Screw, self-tapping with three flute"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        41
+      ],
+      "tables": 1,
+      "rows": 24,
+      "flags": []
+    },
+    {
+      "slug": "4-0mm-cancellous-screw-half-threaded",
+      "name": {
+        "ru": "4.0 мм Спонгиозный винт, с частичной резьбой",
+        "en": "4.0mm Cancellous Screw, half threaded"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        42,
+        50
+      ],
+      "tables": 2,
+      "rows": 34,
+      "flags": [
+        {
+          "code": "source-diameter-conflict",
+          "pdfPage": 50,
+          "sourcePages": [
+            50
+          ],
+          "path": "specTables.1.keyParameters",
+          "message": {
+            "ru": "В заголовке указан винт 4.0 мм, в строке Diameter напечатано 3.5 мм. Оба исходных значения сохранены.",
+            "en": "The title specifies 4.0 mm, while the Diameter line prints 3.5 mm. Both source values are retained."
+          },
+          "readings": [
+            "Title: 4.0mm",
+            "Diameter:3.5mm"
+          ],
+          "status": "dismissed",
+          "resolution": "Owner explicitly authorized publication as printed. Original source issue retained internally; no catalog number or dimension has been inferred or changed.",
+          "dismissedAt": "2026-11-20T20:57:11.260424+00:00"
+        }
+      ]
+    },
+    {
+      "slug": "4-0mm-cancellous-screw-fully-threaded",
+      "name": {
+        "ru": "4.0 мм Спонгиозный винт, с полной резьбой",
+        "en": "4.0mm Cancellous Screw, fully threaded"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        43,
+        51
+      ],
+      "tables": 2,
+      "rows": 42,
+      "flags": [
+        {
+          "code": "source-diameter-conflict",
+          "pdfPage": 51,
+          "sourcePages": [
+            51
+          ],
+          "path": "specTables.1.keyParameters",
+          "message": {
+            "ru": "В заголовке указан винт 4.0 мм, в строке Diameter напечатано 3.5 мм. Оба исходных значения сохранены.",
+            "en": "The title specifies 4.0 mm, while the Diameter line prints 3.5 mm. Both source values are retained."
+          },
+          "readings": [
+            "Title: 4.0mm",
+            "Diameter:3.5mm"
+          ],
+          "status": "dismissed",
+          "resolution": "Owner explicitly authorized publication as printed. Original source issue retained internally; no catalog number or dimension has been inferred or changed.",
+          "dismissedAt": "2026-11-20T20:57:11.260424+00:00"
+        }
+      ]
+    },
+    {
+      "slug": "1-8mm-locking-buttress-screw-variable-angle-torxdrive",
+      "name": {
+        "ru": "1.8 мм Блокируемый опорный винт, с переменным углом, со шлицем Torx",
+        "en": "1.8mm Locking Buttress Screw, variable angle, torxdrive"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        44
+      ],
+      "tables": 1,
+      "rows": 7,
+      "flags": []
+    },
+    {
+      "slug": "2-4mm-locking-screw-self-tapping-torxdrive",
+      "name": {
+        "ru": "2.4 мм Блокируемый винт, самонарезающий, со шлицем Torx",
+        "en": "2.4mm Locking Screw, self-tapping, torxdrive"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        45
+      ],
+      "tables": 1,
+      "rows": 20,
+      "flags": []
+    },
+    {
+      "slug": "2-4mm-locking-screw-ii-variable-angle-torxdrive-self-tapping",
+      "name": {
+        "ru": "2.4 мм Блокируемый винт II, с переменным углом, со шлицем Torx, самонарезающий",
+        "en": "2.4mm Locking Screw II, variable angle, torxdrive, self-tapping"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        46
+      ],
+      "tables": 1,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "3-5mm-locking-screw-self-tapping",
+      "name": {
+        "ru": "3.5 мм Блокируемый винт, самонарезающий",
+        "en": "3.5mm Locking Screw, self-tapping"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        47
+      ],
+      "tables": 1,
+      "rows": 33,
+      "flags": []
+    },
+    {
+      "slug": "4-0mm-locking-screw-self-tapping",
+      "name": {
+        "ru": "4.0 мм Блокируемый винт, самонарезающий",
+        "en": "4.0mm Locking Screw, self-tapping"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        48
+      ],
+      "tables": 1,
+      "rows": 22,
+      "flags": []
+    },
+    {
+      "slug": "3-5mm-cortex-screw-torxdrive-self-tapping",
+      "name": {
+        "ru": "3.5 мм Кортикальный винт, со шлицем Torx, самонарезающий",
+        "en": "3.5mm Cortex Screw, torxdrive, self-tapping"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        49
+      ],
+      "tables": 1,
+      "rows": 28,
+      "flags": []
+    },
+    {
+      "slug": "broad-limited-contact-locking-plate-twin-hole",
+      "name": {
+        "ru": "Широкая блокируемая пластина ограниченного контакта, со сдвоенными отверстиями",
+        "en": "Broad Limited Contact Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        80
+      ],
+      "tables": 1,
+      "rows": 11,
+      "flags": []
+    },
+    {
+      "slug": "curved-locking-compression-plate-broad-twin-hole",
+      "name": {
+        "ru": "Изогнутая блокируемая компрессионная пластина, широкая, со сдвоенными отверстиями",
+        "en": "Curved Locking Compression Plate, broad, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        81
+      ],
+      "tables": 1,
+      "rows": 7,
+      "flags": []
+    },
+    {
+      "slug": "narrow-limited-contact-locking-plate-twin-hole",
+      "name": {
+        "ru": "Узкая блокируемая пластина ограниченного контакта, со сдвоенными отверстиями",
+        "en": "Narrow Limited Contact Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        82
+      ],
+      "tables": 1,
+      "rows": 13,
+      "flags": []
+    },
+    {
+      "slug": "metaphyseal-locking-plate-5-0-twin-hole",
+      "name": {
+        "ru": "Метафизарная блокируемая пластина 5.0, со сдвоенными отверстиями",
+        "en": "Metaphyseal Locking Plate 5.0, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        83
+      ],
+      "tables": 1,
+      "rows": 8,
+      "flags": []
+    },
+    {
+      "slug": "great-trochanter-locking-plate",
+      "name": {
+        "ru": "Блокируемая пластина для большого вертела",
+        "en": "Great Trochanter Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        83
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "greater-trochanter-u-plate",
+      "name": {
+        "ru": "U-образная пластина для большого вертела",
+        "en": "Greater Trochanter U Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        84
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "greater-trochanter-h-plate",
+      "name": {
+        "ru": "H-образная пластина для большого вертела",
+        "en": "Greater Trochanter H Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        84
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "greater-trochanter-n-plate",
+      "name": {
+        "ru": "n-образная пластина для большого вертела",
+        "en": "Greater Trochanter n Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        84
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "distal-medial-tibial-locking-plate-twin-hole",
+      "name": {
+        "ru": "Медиальная блокируемая пластина для дистального отдела большеберцовой кости, со сдвоенными отверстиями",
+        "en": "Distal Medial Tibial Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        85
+      ],
+      "tables": 1,
+      "rows": 22,
+      "flags": []
+    },
+    {
+      "slug": "distal-femoral-locking-plate-ii-twin-hole",
+      "name": {
+        "ru": "Блокируемая пластина для дистального отдела бедренной кости II, со сдвоенными отверстиями",
+        "en": "Distal Femoral Locking Plate II, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        86
+      ],
+      "tables": 1,
+      "rows": 20,
+      "flags": []
+    },
+    {
+      "slug": "distal-femoral-sub-condylar-locking-plate-twin-hole",
+      "name": {
+        "ru": "Подмыщелковая блокируемая пластина для дистального отдела бедренной кости, со сдвоенными отверстиями",
+        "en": "Distal Femoral Sub-condylar Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        87
+      ],
+      "tables": 1,
+      "rows": 18,
+      "flags": []
+    },
+    {
+      "slug": "distal-medial-femoral-locking-plate-twin-hole",
+      "name": {
+        "ru": "Медиальная блокируемая пластина для дистального отдела бедренной кости, со сдвоенными отверстиями",
+        "en": "Distal Medial Femoral Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        88
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "distal-medial-femoral-sub-condylar-locking-plate-twin-hole",
+      "name": {
+        "ru": "Медиальная подмыщелковая блокируемая пластина для дистального отдела бедренной кости, со сдвоенными отверстиями",
+        "en": "Distal Medial Femoral Sub-condylar Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        88
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "distal-medial-femoral-condylar-locking-plate",
+      "name": {
+        "ru": "Медиальная блокируемая пластина для мыщелка бедренной кости",
+        "en": "Distal Medial Femoral Condylar Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        89
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "distal-lateral-femoral-condylar-locking-plate",
+      "name": {
+        "ru": "Латеральная блокируемая пластина для мыщелка бедренной кости",
+        "en": "Distal Lateral Femoral Condylar Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        89
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "distal-femoral-locking-plate-complex-twin-hole",
+      "name": {
+        "ru": "Блокируемая пластина для дистального отдела бедренной кости COMPLEX, со сдвоенными отверстиями",
+        "en": "Distal Femoral Locking Plate COMPLEX, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        90
+      ],
+      "tables": 1,
+      "rows": 16,
+      "flags": []
+    },
+    {
+      "slug": "distal-medial-femoral-l-locking-plate-twin-hole",
+      "name": {
+        "ru": "Медиальная L-образная блокируемая пластина для дистального отдела бедренной кости, со сдвоенными отверстиями",
+        "en": "Distal Medial Femoral L-Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        91
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "lateral-tibial-head-buttress-locking-plate-ii-twin-hole",
+      "name": {
+        "ru": "Латеральная опорная блокируемая пластина для мыщелков большеберцовой кости II, со сдвоенными отверстиями",
+        "en": "Lateral Tibial Head Buttress Locking Plate II, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        92
+      ],
+      "tables": 1,
+      "rows": 22,
+      "flags": []
+    },
+    {
+      "slug": "posterior-medial-proximal-tibial-plate-twin-hole",
+      "name": {
+        "ru": "Заднемедиальная пластина для проксимального отдела большеберцовой кости, со сдвоенными отверстиями",
+        "en": "Posterior Medial Proximal Tibial Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        93
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "proximal-femoral-locking-plate-for-7-3mm-cannulated-locking-screw-large",
+      "name": {
+        "ru": "Блокируемая пластина для проксимального отдела бедренной кости для канюлированного блокируемого винта Ø7.3 мм, большая",
+        "en": "Proximal Femoral Locking Plate for 7.3mm Cannulated Locking Screw, large"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        94
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "proximal-femoral-locking-plate-for-7-3mm-cannulated-locking-screw-small",
+      "name": {
+        "ru": "Блокируемая пластина для проксимального отдела бедренной кости для канюлированного блокируемого винта Ø7.3 мм, малая",
+        "en": "Proximal Femoral Locking Plate for 7.3mm Cannulated Locking Screw, small"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        94
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "proximal-femoral-locking-plate-iii-twin-hole",
+      "name": {
+        "ru": "Блокируемая пластина для проксимального отдела бедренной кости III, со сдвоенными отверстиями",
+        "en": "Proximal Femoral Locking Plate III, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        95
+      ],
+      "tables": 1,
+      "rows": 22,
+      "flags": []
+    },
+    {
+      "slug": "cable-grip-locking-plate",
+      "name": {
+        "ru": "Блокируемая пластина с захватом для серкляжного троса",
+        "en": "Cable Grip Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        96
+      ],
+      "tables": 1,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "cable-locking-plate",
+      "name": {
+        "ru": "Блокируемая пластина для серкляжного троса",
+        "en": "Cable Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        96
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "cable-clasp",
+      "name": {
+        "ru": "Фиксатор серкляжного троса",
+        "en": "Cable Clasp"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        97
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "cable",
+      "name": {
+        "ru": "Серкляжный трос",
+        "en": "Cable"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        97
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "distal-lateral-femoral-osteotomy-locking-plate-twin-hole",
+      "name": {
+        "ru": "Латеральная блокируемая пластина для остеотомии дистального отдела бедренной кости, со сдвоенными отверстиями",
+        "en": "Distal Lateral Femoral Osteotomy Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        98
+      ],
+      "tables": 1,
+      "rows": 22,
+      "flags": []
+    },
+    {
+      "slug": "distal-medial-femoral-osteotomy-locking-plate-twin-hole",
+      "name": {
+        "ru": "Медиальная блокируемая пластина для остеотомии дистального отдела бедренной кости, со сдвоенными отверстиями",
+        "en": "Distal Medial Femoral Osteotomy Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        98
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "proximal-lateral-tibial-osteotomy-locking-plate-twin-hole",
+      "name": {
+        "ru": "Латеральная блокируемая пластина для остеотомии проксимального отдела большеберцовой кости, со сдвоенными отверстиями",
+        "en": "Proximal Lateral Tibial Osteotomy Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        99
+      ],
+      "tables": 1,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "proximal-medial-tibial-osteotomy-locking-plate-twin-hole",
+      "name": {
+        "ru": "Медиальная блокируемая пластина для остеотомии проксимального отдела большеберцовой кости, со сдвоенными отверстиями",
+        "en": "Proximal Medial Tibial Osteotomy Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        99
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "4-5mm-cortex-screw-self-tapping-with-three-flute",
+      "name": {
+        "ru": "4.5 мм Кортикальный винт, самонарезающий, с тремя режущими канавками",
+        "en": "4.5mm Cortex Screw, self-tapping with three flute"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        100
+      ],
+      "tables": 1,
+      "rows": 29,
+      "flags": []
+    },
+    {
+      "slug": "4-5mm-gtp-cortex-screw",
+      "name": {
+        "ru": "4.5 мм GTP Кортикальный винт",
+        "en": "4.5mm GTP Cortex Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        101
+      ],
+      "tables": 1,
+      "rows": 10,
+      "flags": []
+    },
+    {
+      "slug": "6-5mm-cancellous-screw-half-threaded-hexagon",
+      "name": {
+        "ru": "6.5 мм Спонгиозный винт, с частичной резьбой, с шестигранным шлицем",
+        "en": "6.5mm Cancellous Screw, half threaded, hexagon"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        102
+      ],
+      "tables": 1,
+      "rows": 15,
+      "flags": []
+    },
+    {
+      "slug": "6-5mm-cancellous-screw-fully-threaded-hexagon",
+      "name": {
+        "ru": "6.5 мм Спонгиозный винт, с полной резьбой, с шестигранным шлицем",
+        "en": "6.5mm Cancellous Screw, fully threaded, hexagon"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        103
+      ],
+      "tables": 1,
+      "rows": 14,
+      "flags": []
+    },
+    {
+      "slug": "5-0mm-locking-screw-self-tapping",
+      "name": {
+        "ru": "5.0 мм Блокируемый винт, самонарезающий",
+        "en": "5.0mm Locking Screw, self-tapping"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        104
+      ],
+      "tables": 1,
+      "rows": 27,
+      "flags": []
+    },
+    {
+      "slug": "5-0mm-locking-screw-self-tapping-flat-head",
+      "name": {
+        "ru": "5.0 мм Блокируемый винт, самонарезающий, с плоской головкой",
+        "en": "5.0mm Locking Screw, self-tapping, flat head"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        105
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "7-3mm-cannulated-locking-screw-thread-length-16mm",
+      "name": {
+        "ru": "7.3 мм Канюлированный блокируемый винт, длина резьбы 16 мм",
+        "en": "7.3mm Cannulated Locking Screw, thread length 16mm"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        106
+      ],
+      "tables": 1,
+      "rows": 9,
+      "flags": []
+    },
+    {
+      "slug": "7-3mm-cannulated-locking-screw-thread-length-32mm",
+      "name": {
+        "ru": "7.3 мм Канюлированный блокируемый винт, длина резьбы 32 мм",
+        "en": "7.3mm Cannulated Locking Screw, thread length 32mm"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        106
+      ],
+      "tables": 1,
+      "rows": 10,
+      "flags": []
+    },
+    {
+      "slug": "5-5mm-locking-screw",
+      "name": {
+        "ru": "5.5 мм Блокируемый винт",
+        "en": "5.5mm Locking Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        107
+      ],
+      "tables": 1,
+      "rows": 11,
+      "flags": []
+    },
+    {
+      "slug": "6-5mm-locking-screw",
+      "name": {
+        "ru": "6.5 мм Блокируемый винт",
+        "en": "6.5mm Locking Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        107
+      ],
+      "tables": 1,
+      "rows": 11,
+      "flags": []
+    },
+    {
+      "slug": "4-5mm-cortex-screw-torxdrive-self-tapping",
+      "name": {
+        "ru": "4.5 мм Кортикальный винт, со шлицем Torx, самонарезающий",
+        "en": "4.5mm Cortex Screw, torxdrive, self-tapping"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        108
+      ],
+      "tables": 1,
+      "rows": 29,
+      "flags": []
+    },
+    {
+      "slug": "5-0mm-locking-screw-torxdrive-self-tapping",
+      "name": {
+        "ru": "5.0 мм Блокируемый винт, со шлицем Torx, самонарезающий",
+        "en": "5.0mm Locking Screw, torxdrive, self-tapping"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        109
+      ],
+      "tables": 1,
+      "rows": 43,
+      "flags": []
+    },
+    {
+      "slug": "3-5mm-locking-spacer",
+      "name": {
+        "ru": "3.5 мм Блокируемая проставка",
+        "en": "3.5mm Locking Spacer"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        110
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "5-0mm-locking-spacer",
+      "name": {
+        "ru": "5.0 мм Блокируемая проставка",
+        "en": "5.0mm Locking Spacer"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        110
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "3-5mm-cable-spacer-i",
+      "name": {
+        "ru": "3.5 мм Проставка для серкляжного троса I",
+        "en": "3.5mm Cable Spacer I"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        110
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "5-0mm-cable-spacer-i",
+      "name": {
+        "ru": "5.0 мм Проставка для серкляжного троса I",
+        "en": "5.0mm Cable Spacer I"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        110
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "3-5mm-cable-spacer-ii",
+      "name": {
+        "ru": "3.5 мм Проставка для серкляжного троса II",
+        "en": "3.5mm Cable Spacer II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        111
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "5-0mm-cable-spacer-ii",
+      "name": {
+        "ru": "5.0 мм Проставка для серкляжного троса II",
+        "en": "5.0mm Cable Spacer II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        111
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "6-5mm-cancellous-screw-half-threaded-torxdrive",
+      "name": {
+        "ru": "6.5 мм Спонгиозный винт, с частичной резьбой, со шлицем Torx",
+        "en": "6.5mm Cancellous Screw, half threaded, torxdrive"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        112
+      ],
+      "tables": 1,
+      "rows": 15,
+      "flags": []
+    },
+    {
+      "slug": "6-5mm-cancellous-screw-fully-threaded-torxdirve",
+      "name": {
+        "ru": "6.5 мм Спонгиозный винт, с полной резьбой, со шлицем Torx",
+        "en": "6.5mm Cancellous Screw, fully threaded, torxdirve"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        113
+      ],
+      "tables": 1,
+      "rows": 14,
+      "flags": []
+    },
+    {
+      "slug": "7-3mm-sliding-cannulated-locking-screw-thread-length-16mm",
+      "name": {
+        "ru": "7.3 мм Скользящий канюлированный блокируемый винт, длина резьбы 16 мм",
+        "en": "7.3mm Sliding Cannulated Locking Screw, Thread Length 16mm"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        114
+      ],
+      "tables": 1,
+      "rows": 9,
+      "flags": []
+    },
+    {
+      "slug": "md-calcaneal-locking-plate-curved",
+      "name": {
+        "ru": "MD Блокируемая пластина для пяточной кости, изогнутая",
+        "en": "MD Calcaneal Locking Plate, curved"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        143
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "md-calcaneal-locking-plate-flat",
+      "name": {
+        "ru": "MD Блокируемая пластина для пяточной кости, плоская",
+        "en": "MD Calcaneal Locking Plate, flat"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        143
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "md-ap-and-pt-calcaneal-locking-plate",
+      "name": {
+        "ru": "MD Блокируемая пластина AP/PT для пяточной кости",
+        "en": "MD AP and PT Calcaneal Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        143
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "md-posterior-tuberosity-calcaneal-locking-plate",
+      "name": {
+        "ru": "MD Блокируемая пластина для заднего отдела пяточного бугра",
+        "en": "MD Posterior Tuberosity Calcaneal Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        144
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "md-anterior-process-calcaneal-locking-plate",
+      "name": {
+        "ru": "MD Блокируемая пластина для переднего отростка пяточной кости",
+        "en": "MD Anterior Process Calcaneal Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        144
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "md-fifth-metatarsal-locking-plate",
+      "name": {
+        "ru": "MD Блокируемая пластина для V плюсневой кости",
+        "en": "MD Fifth Metatarsal Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        144
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "md-distal-lateral-fibular-locking-plate",
+      "name": {
+        "ru": "MD Латеральная блокируемая пластина для дистального отдела малоберцовой кости",
+        "en": "MD Distal Lateral Fibular Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        145
+      ],
+      "tables": 1,
+      "rows": 14,
+      "flags": []
+    },
+    {
+      "slug": "md-distal-medial-tibial-locking-plate",
+      "name": {
+        "ru": "MD Медиальная блокируемая пластина для дистального отдела большеберцовой кости",
+        "en": "MD Distal Medial Tibial Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        145
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "md-distal-anterior-tibial-locking-plate",
+      "name": {
+        "ru": "MD Передняя блокируемая пластина для дистального отдела большеберцовой кости",
+        "en": "MD Distal Anterior Tibial Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        145
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "md-distal-tibial-t-locking-plate",
+      "name": {
+        "ru": "MD T-образная блокируемая пластина для дистального отдела большеберцовой кости",
+        "en": "MD Distal Tibial T-Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        146
+      ],
+      "tables": 1,
+      "rows": 5,
+      "flags": [
+        {
+          "code": "source-ref-prefix-outlier",
+          "pdfPage": 146,
+          "sourcePages": [
+            146
+          ],
+          "path": "specTables.0.rows.1",
+          "message": {
+            "ru": "REF 031990008 отличается от префикса 0261 остальных строк. Код подтверждён тремя чтениями и сохранён; требуется подтверждение производителя.",
+            "en": "REF 031990008 differs from the 0261 prefix of the other rows. All three readers confirm the printed code; manufacturer confirmation is required."
+          },
+          "readings": {
+            "PSM3": "031990008",
+            "PSM11": "031990008",
+            "Vision": "031990008"
+          },
+          "sourceBounds": [
+            0.08,
+            0.2910716102523968,
+            0.5714052947077584,
+            0.3068544316180787
+          ],
+          "status": "dismissed",
+          "resolution": "Owner explicitly authorized publication as printed. Original source issue retained internally; no catalog number or dimension has been inferred or changed.",
+          "dismissedAt": "2026-11-20T20:57:11.260424+00:00"
+        }
+      ]
+    },
+    {
+      "slug": "md-distal-tibial-l-locking-plate",
+      "name": {
+        "ru": "MD L-образная блокируемая пластина для дистального отдела большеберцовой кости",
+        "en": "MD Distal Tibial L-Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        146
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "md-distal-tibial-hook-locking-plate",
+      "name": {
+        "ru": "MD Крючковидная блокируемая пластина для дистального отдела большеберцовой кости",
+        "en": "MD Distal Tibial Hook Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        146
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "mt-ap-and-pt-calcaneal-locking-plate",
+      "name": {
+        "ru": "MT Блокируемая пластина AP/PT для пяточной кости",
+        "en": "MT AP and PT Calcaneal Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        147
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "mt-posterior-tuberosity-calcaneal-locking-plate",
+      "name": {
+        "ru": "MT Блокируемая пластина для заднего отдела пяточного бугра",
+        "en": "MT Posterior Tuberosity Calcaneal Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        147
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "mt-anterior-process-calcaneal-locking-plate",
+      "name": {
+        "ru": "MT Блокируемая пластина для переднего отростка пяточной кости",
+        "en": "MT Anterior Process Calcaneal Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        147
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "mt-calcaneal-locking-plate",
+      "name": {
+        "ru": "MT Блокируемая пластина для пяточной кости",
+        "en": "MT Calcaneal Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        148
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "mt-first-mtc-fusion-locking-plate",
+      "name": {
+        "ru": "MT Блокируемая пластина для артродеза I плюснеклиновидного сустава",
+        "en": "MT First MTC Fusion Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        148
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "mt-l-locking-plate-for-metatarsal",
+      "name": {
+        "ru": "MT L-образная блокируемая пластина для плюсневой кости",
+        "en": "MT L-Locking Plate for Metatarsal"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        148
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "mt-straight-fusion-locking-plate",
+      "name": {
+        "ru": "MT Прямая блокируемая пластина для артродеза",
+        "en": "MT Straight Fusion Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        149
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "mt-first-mtp-fusion-locking-plate",
+      "name": {
+        "ru": "MT Блокируемая пластина для артродеза I плюснефалангового сустава",
+        "en": "MT First MTP Fusion Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        149
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "mt-x-locking-plate",
+      "name": {
+        "ru": "MT X-образная блокируемая пластина",
+        "en": "MT X-Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        149
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "mt-x-locking-plate-oblique",
+      "name": {
+        "ru": "MT X-образная блокируемая пластина, косая",
+        "en": "MT X-Locking Plate, Oblique"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        150
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "mt-talus-locking-plate",
+      "name": {
+        "ru": "MT Блокируемая пластина для таранной кости",
+        "en": "MT Talus Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        150
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "mt-cuboid-locking-plate",
+      "name": {
+        "ru": "MT Блокируемая пластина для кубовидной кости",
+        "en": "MT Cuboid Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        151
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "mt-navicular-locking-plate",
+      "name": {
+        "ru": "MT Блокируемая пластина для ладьевидной кости стопы",
+        "en": "MT Navicular Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        151
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "mt-first-mtc-plantar-fusion-locking-plate",
+      "name": {
+        "ru": "MT Подошвенная блокируемая пластина для артродеза I плюснеклиновидного сустава",
+        "en": "MT First MTC Plantar Fusion Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        151
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "mt-first-metatarsal-osteotomy-locking-plate",
+      "name": {
+        "ru": "MT Блокируемая пластина для остеотомии I плюсневой кости",
+        "en": "MT First Metatarsal Osteotomy Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        152
+      ],
+      "tables": 1,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "mt-calcaneal-step-locking-plate",
+      "name": {
+        "ru": "MT Ступенчатая блокируемая пластина для пяточной кости",
+        "en": "MT Calcaneal Step Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        152
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "mt-lateral-column-lengthening-locking-plate",
+      "name": {
+        "ru": "MT Блокируемая пластина для удлинения латеральной колонны стопы",
+        "en": "MT Lateral Column Lengthening Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        152
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "mt-t-locking-plate",
+      "name": {
+        "ru": "MT T-образная блокируемая пластина",
+        "en": "MT T-Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        153
+      ],
+      "tables": 1,
+      "rows": 5,
+      "flags": []
+    },
+    {
+      "slug": "mt-distal-first-metatarsal-t-locking-plate",
+      "name": {
+        "ru": "MT T-образная блокируемая пластина для дистального отдела I плюсневой кости",
+        "en": "MT Distal First Metatarsal T-Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        153
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "mt-mis-posterior-calcaneal-locking-plate",
+      "name": {
+        "ru": "MT Задняя блокируемая пластина для малоинвазивного остеосинтеза пяточной кости",
+        "en": "MT MIS Posterior Calcaneal Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        153
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "mt-proximal-first-metatarsal-t-locking-plate",
+      "name": {
+        "ru": "MT T-образная блокируемая пластина для проксимального отдела I плюсневой кости",
+        "en": "MT Proximal First Metatarsal T-Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        154
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "mt-first-metarsal-l-locking-plate",
+      "name": {
+        "ru": "MT L-образная блокируемая пластина для I плюсневой кости",
+        "en": "MT First Metarsal L-Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        154
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "mt-calcaneal-fusion-locking-plate",
+      "name": {
+        "ru": "MT Блокируемая пластина для артродеза пяточной кости",
+        "en": "MT Calcaneal Fusion Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        154
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "lateral-ankle-fusion-locking-plate",
+      "name": {
+        "ru": "Латеральная блокируемая пластина для артродеза голеностопного сустава",
+        "en": "Lateral Ankle Fusion Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        155
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "dmt-osteotomy-locking-plate",
+      "name": {
+        "ru": "DMT Блокируемая пластина для остеотомии",
+        "en": "DMT Osteotomy Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        156
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "ankle-fusion-locking-plate-110",
+      "name": {
+        "ru": "Блокируемая пластина для артродеза голеностопного сустава, 110°",
+        "en": "Ankle Fusion Locking Plate, 110°"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        158
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "distal-fibular-reconstruction-plate",
+      "name": {
+        "ru": "Реконструктивная пластина для дистального отдела малоберцовой кости",
+        "en": "Distal Fibular Reconstruction Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        160
+      ],
+      "tables": 1,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "distal-lateral-fibular-locking-plate",
+      "name": {
+        "ru": "Латеральная блокируемая пластина для дистального отдела малоберцовой кости",
+        "en": "Distal Lateral Fibular Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        161
+      ],
+      "tables": 1,
+      "rows": 10,
+      "flags": []
+    },
+    {
+      "slug": "hallux-step-plate",
+      "name": {
+        "ru": "Ступенчатая пластина для большого пальца стопы",
+        "en": "Hallux Step Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        162
+      ],
+      "tables": 1,
+      "rows": 26,
+      "flags": []
+    },
+    {
+      "slug": "tarsal-sinus-screw",
+      "name": {
+        "ru": "Винт для подтаранного артроэреза",
+        "en": "Tarsal Sinus Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        163
+      ],
+      "tables": 1,
+      "rows": 5,
+      "flags": []
+    },
+    {
+      "slug": "tarsal-sinus-screw-ii",
+      "name": {
+        "ru": "Винт для подтаранного артроэреза II",
+        "en": "Tarsal Sinus Screw II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        164
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "calcaneal-cannulated-screw",
+      "name": {
+        "ru": "Канюлированный винт для пяточной кости",
+        "en": "Calcaneal Cannulated Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        165
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "end-cap-for-calcaneal-cannulated-screw",
+      "name": {
+        "ru": "Заглушка канюлированного винта для пяточной кости",
+        "en": "End Cap for Calcaneal Cannulated Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        165
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "calcaneal-cannulated-screw-ii",
+      "name": {
+        "ru": "Канюлированный винт для пяточной кости II",
+        "en": "Calcaneal Cannulated Screw II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        166
+      ],
+      "tables": 1,
+      "rows": 16,
+      "flags": []
+    },
+    {
+      "slug": "end-cap-for-calcaneal-cannulated-screw-ii",
+      "name": {
+        "ru": "Заглушка канюлированного винта для пяточной кости II",
+        "en": "End Cap for Calcaneal Cannulated Screw II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        166
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "2-0mm-snap-off-screw",
+      "name": {
+        "ru": "2.0 мм Винт с отламываемой головкой",
+        "en": "2.0mm Snap-off Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        167
+      ],
+      "tables": 1,
+      "rows": 11,
+      "flags": []
+    },
+    {
+      "slug": "2-7mm-snap-off-screw",
+      "name": {
+        "ru": "2.7 мм Винт с отламываемой головкой",
+        "en": "2.7mm Snap-off Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        167
+      ],
+      "tables": 1,
+      "rows": 11,
+      "flags": []
+    },
+    {
+      "slug": "hammertoe-cannulated-screw",
+      "name": {
+        "ru": "Канюлированный винт для коррекции молоткообразной деформации пальцев стопы",
+        "en": "Hammertoe Cannulated Screw"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        168
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "mt-2-7mm-locking-screw-torxdrive-self-tapping",
+      "name": {
+        "ru": "MT 2.7 мм Блокируемый винт, со шлицем Torx, самонарезающий",
+        "en": "MT 2.7mm Locking Screw, torxdrive, self-tapping"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        169
+      ],
+      "tables": 1,
+      "rows": 21,
+      "flags": []
+    },
+    {
+      "slug": "mt-3-0mm-locking-screw-torxdrive-self-tapping",
+      "name": {
+        "ru": "MT 3.0 мм Блокируемый винт, со шлицем Torx, самонарезающий",
+        "en": "MT 3.0mm Locking Screw, torxdrive, self-tapping"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        170
+      ],
+      "tables": 1,
+      "rows": 21,
+      "flags": []
+    },
+    {
+      "slug": "mt-3-5mm-locking-screw-torxdrive-self-tapping",
+      "name": {
+        "ru": "MT 3.5 мм Блокируемый винт, со шлицем Torx, самонарезающий",
+        "en": "MT 3.5mm Locking Screw, torxdrive, self-tapping"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        171
+      ],
+      "tables": 1,
+      "rows": 21,
+      "flags": []
+    },
+    {
+      "slug": "mt-4-0mm-locking-screw-torxdrive-self-tapping",
+      "name": {
+        "ru": "MT 4.0 мм Блокируемый винт, со шлицем Torx, самонарезающий",
+        "en": "MT 4.0mm Locking Screw, torxdrive, self-tapping"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        172
+      ],
+      "tables": 1,
+      "rows": 21,
+      "flags": []
+    },
+    {
+      "slug": "mt-2-7mm-cortex-screw-square-self-tapping",
+      "name": {
+        "ru": "MT 2.7 мм Кортикальный винт, с квадратным шлицем, самонарезающий",
+        "en": "MT 2.7mm Cortex Screw, square, self-tapping"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        173
+      ],
+      "tables": 1,
+      "rows": 21,
+      "flags": []
+    },
+    {
+      "slug": "mt-3-5mm-cortex-screw-square-self-tapping",
+      "name": {
+        "ru": "MT 3.5 мм Кортикальный винт, с квадратным шлицем, самонарезающий",
+        "en": "MT 3.5mm Cortex Screw, square, self-tapping"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        174
+      ],
+      "tables": 1,
+      "rows": 21,
+      "flags": []
+    },
+    {
+      "slug": "reconstruction-plate",
+      "name": {
+        "ru": "Реконструктивная пластина",
+        "en": "Reconstruction Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        193
+      ],
+      "tables": 1,
+      "rows": 10,
+      "flags": []
+    },
+    {
+      "slug": "pelvic-reconstruction-plate",
+      "name": {
+        "ru": "Тазовая реконструктивная пластина",
+        "en": "Pelvic Reconstruction Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        193
+      ],
+      "tables": 1,
+      "rows": 11,
+      "flags": []
+    },
+    {
+      "slug": "reconstruction-locking-plate-twin-hole",
+      "name": {
+        "ru": "Реконструктивная блокируемая пластина, со сдвоенными отверстиями",
+        "en": "Reconstruction Locking Plate, Twin Hole"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        194
+      ],
+      "tables": 1,
+      "rows": 11,
+      "flags": []
+    },
+    {
+      "slug": "pelvic-reconstruction-locking-plate",
+      "name": {
+        "ru": "Тазовая реконструктивная блокируемая пластина",
+        "en": "Pelvic Reconstruction Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        195
+      ],
+      "tables": 1,
+      "rows": 11,
+      "flags": []
+    },
+    {
+      "slug": "anatomical-acetabular-plate",
+      "name": {
+        "ru": "Анатомическая пластина для вертлужной впадины",
+        "en": "Anatomical Acetabular Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        196
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "press-plate",
+      "name": {
+        "ru": "Прижимная пластина",
+        "en": "Press Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        196
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "posterior-surface-quadrangular-plate",
+      "name": {
+        "ru": "Пластина для задней части четырёхугольной поверхности",
+        "en": "Posterior Surface Quadrangular Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        196
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "anterior-pelvic-plate",
+      "name": {
+        "ru": "Передняя тазовая пластина",
+        "en": "Anterior Pelvic Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        197
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "anterior-surface-quadrangular-plate",
+      "name": {
+        "ru": "Пластина для передней части четырёхугольной поверхности",
+        "en": "Anterior Surface Quadrangular Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        197
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "posterior-pelvic-plate",
+      "name": {
+        "ru": "Задняя тазовая пластина",
+        "en": "Posterior Pelvic Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        197
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "anatomical-pelvic-plate",
+      "name": {
+        "ru": "Анатомическая тазовая пластина",
+        "en": "Anatomical Pelvic Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        198
+      ],
+      "tables": 1,
+      "rows": 6,
+      "flags": []
+    },
+    {
+      "slug": "pelvic-crest-plate",
+      "name": {
+        "ru": "Пластина для гребня подвздошной кости",
+        "en": "Pelvic Crest Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        198
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "anterior-sacroiliac-joint-plate",
+      "name": {
+        "ru": "Передняя пластина для крестцово-подвздошного сочленения",
+        "en": "Anterior Sacroiliac Joint Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        198
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "symphyseal-plate",
+      "name": {
+        "ru": "Пластина для лонного сочленения",
+        "en": "Symphyseal Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        199
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "anatomical-iliopubic-plate",
+      "name": {
+        "ru": "Анатомическая подвздошно-лобковая пластина",
+        "en": "Anatomical Iliopubic Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        199
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "sacroiliac-joint-plate-ii",
+      "name": {
+        "ru": "Пластина для крестцово-подвздошного сочленения II",
+        "en": "Sacroiliac Joint Plate II"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        199
+      ],
+      "tables": 1,
+      "rows": 3,
+      "flags": []
+    },
+    {
+      "slug": "low-posterior-column-infra-arcuate-line-locking-plate",
+      "name": {
+        "ru": "Низкая блокируемая пластина для задней колонны ниже дугообразной линии",
+        "en": "Low Posterior Column Infra-arcuate Line Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        200
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "high-posterior-column-infra-arcuate-line-locking-plate",
+      "name": {
+        "ru": "Высокая блокируемая пластина для задней колонны ниже дугообразной линии",
+        "en": "High Posterior Column Infra-arcuate Line Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        200
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "high-posterior-column-supra-arcuate-line-locking-plate",
+      "name": {
+        "ru": "Высокая блокируемая пластина для задней колонны выше дугообразной линии",
+        "en": "High Posterior Column Supra-arcuate Line Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        200
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "supra-arcuate-line-locking-plate",
+      "name": {
+        "ru": "Блокируемая пластина выше дугообразной линии",
+        "en": "Supra-arcuate Line Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        201
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "puboischiatic-locking-plate-for-supra-arcuate-line",
+      "name": {
+        "ru": "Лобково-седалищная блокируемая пластина, выше дугообразной линии",
+        "en": "Puboischiatic Locking Plate, for supra-arcuate line"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        201
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "ilioischiatic-locking-plate-for-supra-arcuate-line",
+      "name": {
+        "ru": "Подвздошно-седалищная блокируемая пластина, выше дугообразной линии",
+        "en": "Ilioischiatic Locking Plate, for supra-arcuate line"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        201
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "infra-arcuate-line-locking-plate",
+      "name": {
+        "ru": "Блокируемая пластина ниже дугообразной линии",
+        "en": "Infra-arcuate Line Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        201
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "puboischiatic-locking-plate-for-infra-arcuate-line",
+      "name": {
+        "ru": "Лобково-седалищная блокируемая пластина, ниже дугообразной линии",
+        "en": "Puboischiatic Locking Plate, for infra-arcuate line"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        202
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "ilioischiatic-locking-plate-for-infra-arcuate-line",
+      "name": {
+        "ru": "Подвздошно-седалищная блокируемая пластина, ниже дугообразной линии",
+        "en": "Ilioischiatic Locking Plate, for infra-arcuate line"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        202
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "universal-locking-plate-for-union-plate",
+      "name": {
+        "ru": "Универсальная блокируемая пластина, для составной пластины",
+        "en": "Universal Locking Plate, for union plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        202
+      ],
+      "tables": 1,
+      "rows": 2,
+      "flags": []
+    },
+    {
+      "slug": "connecting-locking-screw-for-union-plate",
+      "name": {
+        "ru": "Соединительный блокируемый винт, для составной пластины",
+        "en": "Connecting Locking Screw, for union plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        202
+      ],
+      "tables": 1,
+      "rows": 1,
+      "flags": []
+    },
+    {
+      "slug": "anatomical-posterior-acetabular-locking-plate",
+      "name": {
+        "ru": "Анатомическая задняя блокируемая пластина для вертлужной впадины",
+        "en": "Anatomical Posterior Acetabular Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        203
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "anatomical-pelvic-acetabular-locking-plate",
+      "name": {
+        "ru": "Анатомическая тазовая блокируемая пластина для вертлужной впадины",
+        "en": "Anatomical Pelvic Acetabular Locking Plate"
+      },
+      "category": "trauma-implants",
+      "status": "published",
+      "sourcePages": [
+        203
+      ],
+      "tables": 1,
+      "rows": 4,
+      "flags": []
+    },
+    {
+      "slug": "2-4mm-2-7mm-3-5mm-small-fragment-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для малых фрагментов 2.4/2.7/3.5 мм",
+        "en": "2.4mm/2.7mm/3.5mm Small Fragment Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "tables": 6,
+      "rows": 44,
+      "flags": []
+    },
+    {
+      "slug": "small-locking-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для малых блокируемых имплантов",
+        "en": "Small Locking Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ],
+      "tables": 6,
+      "rows": 41,
+      "flags": [
+        {
+          "code": "source-ref-missing",
+          "pdfPage": 61,
+          "sourcePages": [
+            61
+          ],
+          "path": "specTables.3.rows.4.1",
+          "message": {
+            "ru": "Каталожный номер костодержателя не напечатан в исходном PDF.",
+            "en": "The source PDF does not print a catalog number for the self-centering bone-holding forceps."
+          },
+          "readings": [
+            "Source code cell is empty"
+          ],
+          "status": "dismissed",
+          "resolution": "Owner explicitly authorized publication as printed. Original source issue retained internally; no catalog number or dimension has been inferred or changed.",
+          "dismissedAt": "2026-11-20T20:57:11.260424+00:00"
+        }
+      ]
+    },
+    {
+      "slug": "low-profile-distal-medial-tibial-locking-plate-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для низкопрофильной медиальной пластины дистального отдела большеберцовой кости",
+        "en": "Low Profile Distal Medial Tibial Locking Plate Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        64,
+        65,
+        66,
+        67
+      ],
+      "tables": 4,
+      "rows": 22,
+      "flags": []
+    },
+    {
+      "slug": "proximal-humeral-locking-plate-instrument-set-aiming-device",
+      "name": {
+        "ru": "Набор инструментов для блокируемой пластины проксимального отдела плечевой кости (прицельное устройство)",
+        "en": "Proximal Humeral Locking Plate Instrument Set (Aiming Device)"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        68
+      ],
+      "tables": 1,
+      "rows": 8,
+      "flags": []
+    },
+    {
+      "slug": "proximal-humeral-locking-plate-ii-instrument-set-liss",
+      "name": {
+        "ru": "Набор инструментов для блокируемой пластины II проксимального отдела плечевой кости (LISS)",
+        "en": "Proximal Humeral Locking Plate II Instrument Set (LISS)"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        69,
+        70,
+        71
+      ],
+      "tables": 3,
+      "rows": 25,
+      "flags": []
+    },
+    {
+      "slug": "locking-system-2-4-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для блокируемой системы 2.4",
+        "en": "Locking System 2.4 Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        72,
+        73,
+        74,
+        75,
+        76,
+        77
+      ],
+      "tables": 6,
+      "rows": 41,
+      "flags": []
+    },
+    {
+      "slug": "large-locking-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для больших блокируемых имплантов",
+        "en": "Large Locking Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        115,
+        116,
+        117,
+        118,
+        119,
+        120
+      ],
+      "tables": 6,
+      "rows": 39,
+      "flags": []
+    },
+    {
+      "slug": "distal-femoral-locking-plate-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для блокируемой пластины дистального отдела бедренной кости",
+        "en": "Distal Femoral Locking Plate Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        121,
+        122,
+        123
+      ],
+      "tables": 4,
+      "rows": 25,
+      "flags": []
+    },
+    {
+      "slug": "proximal-tibial-locking-plate-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для блокируемой пластины проксимального отдела большеберцовой кости",
+        "en": "Proximal Tibial Locking Plate Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        124,
+        125,
+        126
+      ],
+      "tables": 3,
+      "rows": 19,
+      "flags": []
+    },
+    {
+      "slug": "proximal-femoral-locking-plate-liss-plate-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для блокируемой пластины проксимального отдела бедренной кости / LISS",
+        "en": "Proximal Femoral Locking Plate, LISS Plate Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        127,
+        128,
+        129,
+        130,
+        131
+      ],
+      "tables": 5,
+      "rows": 38,
+      "flags": []
+    },
+    {
+      "slug": "cable-system-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для серкляжной тросовой системы",
+        "en": "Cable System Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        132,
+        133,
+        134
+      ],
+      "tables": 3,
+      "rows": 16,
+      "flags": []
+    },
+    {
+      "slug": "osteotomy-system-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для остеотомической системы",
+        "en": "Osteotomy System Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "tables": 6,
+      "rows": 35,
+      "flags": []
+    },
+    {
+      "slug": "marathon-instrument-set",
+      "name": {
+        "ru": "Набор инструментов MARATHON",
+        "en": "MARATHON Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182
+      ],
+      "tables": 8,
+      "rows": 47,
+      "flags": []
+    },
+    {
+      "slug": "hammertoe-cannulated-screw-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для канюлированного винта коррекции молоткообразной деформации",
+        "en": "Hammertoe Cannulated Screw Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        183,
+        184
+      ],
+      "tables": 2,
+      "rows": 8,
+      "flags": []
+    },
+    {
+      "slug": "tarsal-sinus-screw-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для винтов подтаранного артроэреза",
+        "en": "Tarsal Sinus Screw Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        185,
+        186
+      ],
+      "tables": 2,
+      "rows": 12,
+      "flags": []
+    },
+    {
+      "slug": "cartilage-transplantation-instrument-8",
+      "name": {
+        "ru": "Инструменты для трансплантации хряща, Ø8",
+        "en": "Cartilage Transplantation Instrument, Ø8"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        187
+      ],
+      "tables": 1,
+      "rows": 5,
+      "flags": []
+    },
+    {
+      "slug": "tarsal-sinus-screw-ii-instrument",
+      "name": {
+        "ru": "Инструменты для винта II подтаранного артроэреза",
+        "en": "Tarsal Sinus Screw II Instrument"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        188,
+        189
+      ],
+      "tables": 2,
+      "rows": 11,
+      "flags": []
+    },
+    {
+      "slug": "cartilage-transplantation-instrument-10",
+      "name": {
+        "ru": "Инструменты для трансплантации хряща, Ø10",
+        "en": "Cartilage Transplantation Instrument, Ø10"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        190
+      ],
+      "tables": 1,
+      "rows": 5,
+      "flags": []
+    },
+    {
+      "slug": "reconstruction-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для реконструктивных пластин",
+        "en": "Reconstruction Instrument Set"
+      },
+      "category": "trauma-instrument-sets",
+      "status": "published",
+      "sourcePages": [
+        204,
+        205,
+        206,
+        207,
+        208,
+        209
+      ],
+      "tables": 6,
+      "rows": 45,
+      "flags": [
+        {
+          "code": "duplicate-ref-different-instruments",
+          "pdfPage": 205,
+          "sourcePages": [
+            205
+          ],
+          "path": "specTables.1.rows",
+          "message": {
+            "ru": "REF 110021300 напечатан для гибочных щипцов и костного крючка. Коды сохранены без предположений.",
+            "en": "REF 110021300 is printed for both bending pliers and a bone hook. Neither code has been guessed or changed."
+          },
+          "readings": [
+            "110021300 — Bending Pliers for Reconstruction Plates",
+            "110021300 — Bone Hook, sharp, medium"
+          ],
+          "status": "dismissed",
+          "resolution": "Owner explicitly authorized publication as printed. Original source issue retained internally; no catalog number or dimension has been inferred or changed.",
+          "dismissedAt": "2026-11-20T20:57:11.260424+00:00"
+        }
+      ]
+    }
+  ],
+  "nonProductPages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    79,
+    142,
+    192,
+    78,
+    141,
+    191,
+    210
+  ],
+  "tablesCreated": 284,
+  "imagesExtracted": 670,
+  "uncertainties": [],
+  "translationWorkflow": "Codex-authored medical Russian; retained English; every translated field marked for medical review; no external adapter",
+  "systemsNew": 224,
+  "implantSystems": 205,
+  "instrumentSets": 19,
+  "systemsMerged": 0,
+  "mergedNames": [],
+  "systemsPublished": 224,
+  "systemsDraft": 0,
+  "codesFound": 2296,
+  "codesVerified": 2296,
+  "componentRefOccurrences": 2274,
+  "setCodeOccurrences": 22,
+  "distinctCodes": 2241,
+  "codeVerification": "600-DPI Tesseract PSM3 and PSM11 + independent Apple Vision; every printed code has at least two exact high-confidence readings; source prefix anomaly is held despite verified reading",
+  "scope": [
+    {
+      "section": 1,
+      "en": "Small Fragment Set",
+      "ru": "Малые фрагменты",
+      "indexPage": 5,
+      "physicalPages": [
+        5,
+        78
+      ],
+      "printedPages": "1/1–1/73",
+      "productPhysicalPages": [
+        6,
+        77
+      ],
+      "productPrintedPages": "1/2–1/73"
+    },
+    {
+      "section": 2,
+      "en": "Large Fragment Set",
+      "ru": "Большие фрагменты",
+      "indexPage": 79,
+      "physicalPages": [
+        79,
+        141
+      ],
+      "printedPages": "2/1–2/62",
+      "productPhysicalPages": [
+        80,
+        140
+      ],
+      "productPrintedPages": "2/2–2/62"
+    },
+    {
+      "section": 3,
+      "en": "Foot and Ankle Set",
+      "ru": "Стопа и голеностоп",
+      "indexPage": 142,
+      "physicalPages": [
+        142,
+        191
+      ],
+      "printedPages": "3/1–3/49",
+      "productPhysicalPages": [
+        143,
+        190
+      ],
+      "productPrintedPages": "3/2–3/49"
+    },
+    {
+      "section": 4,
+      "en": "Reconstruction Set",
+      "ru": "Реконструктивные пластины",
+      "indexPage": 192,
+      "physicalPages": [
+        192,
+        210
+      ],
+      "printedPages": "4/1–4/18",
+      "productPhysicalPages": [
+        193,
+        209
+      ],
+      "productPrintedPages": "4/2–4/18"
+    }
+  ],
+  "authorizedPhysicalPages": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209
+  ],
+  "imageQA": {
+    "status": "reviewed",
+    "reviewer": "Codex visual review of all 14 final contact sheets plus 4 recovered source photos",
+    "assetsReviewed": [
+      "page-006-art-01",
+      "page-006-art-02",
+      "page-007-art-01",
+      "page-007-art-02",
+      "page-008-art-01",
+      "page-008-art-02",
+      "page-008-art-03",
+      "page-008-art-04",
+      "page-009-art-01",
+      "page-009-art-02",
+      "page-010-art-01",
+      "page-011-art-01",
+      "page-012-art-01",
+      "page-013-art-01",
+      "page-014-art-01",
+      "page-015-art-01",
+      "page-016-art-01",
+      "page-017-art-01",
+      "page-018-art-01",
+      "page-018-art-02",
+      "page-019-art-01",
+      "page-020-art-01",
+      "page-020-art-02",
+      "page-020-art-03",
+      "page-021-art-01",
+      "page-021-art-02",
+      "page-022-recovered-01",
+      "page-023-art-01",
+      "page-023-art-02",
+      "page-024-art-01",
+      "page-024-art-02",
+      "page-025-art-01",
+      "page-026-art-01",
+      "page-027-art-01",
+      "page-027-art-02",
+      "page-028-art-01",
+      "page-028-art-02",
+      "page-029-art-01",
+      "page-029-art-02",
+      "page-030-art-01",
+      "page-030-art-02",
+      "page-031-art-01",
+      "page-031-art-02",
+      "page-032-art-01",
+      "page-032-art-02",
+      "page-033-art-01",
+      "page-033-art-02",
+      "page-034-art-01",
+      "page-034-art-02",
+      "page-035-art-01",
+      "page-035-art-02",
+      "page-036-art-01",
+      "page-036-art-02",
+      "page-037-art-01",
+      "page-037-art-02",
+      "page-038-art-01",
+      "page-038-art-02",
+      "page-039-art-01",
+      "page-040-art-01",
+      "page-040-art-02",
+      "page-041-art-01",
+      "page-042-art-01",
+      "page-043-art-01",
+      "page-044-art-01",
+      "page-045-art-01",
+      "page-046-art-01",
+      "page-047-art-01",
+      "page-047-art-02",
+      "page-048-art-01",
+      "page-049-art-01",
+      "page-050-art-01",
+      "page-051-art-01",
+      "page-052-art-01",
+      "page-052-art-02",
+      "page-052-art-03",
+      "page-052-art-04",
+      "page-052-art-05",
+      "page-052-art-06",
+      "page-052-art-07",
+      "page-052-art-08",
+      "page-053-art-01",
+      "page-053-art-02",
+      "page-053-art-03",
+      "page-053-art-04",
+      "page-053-art-06",
+      "page-053-art-07",
+      "page-053-art-08",
+      "page-054-art-01",
+      "page-054-art-02",
+      "page-054-art-03",
+      "page-054-art-04",
+      "page-054-art-05",
+      "page-054-art-06",
+      "page-054-art-07",
+      "page-054-art-08",
+      "page-055-art-01",
+      "page-055-art-02",
+      "page-055-art-03",
+      "page-055-art-04",
+      "page-055-art-05",
+      "page-055-art-07",
+      "page-055-art-08",
+      "page-055-art-09",
+      "page-056-art-01",
+      "page-056-art-02-item-056-03",
+      "page-056-art-02-item-056-04",
+      "page-056-art-02-item-056-05",
+      "page-056-art-03",
+      "page-056-art-04",
+      "page-057-art-01",
+      "page-057-art-02",
+      "page-057-art-03",
+      "page-057-art-05",
+      "page-058-art-01",
+      "page-058-art-02",
+      "page-058-art-03",
+      "page-058-art-04",
+      "page-058-art-05",
+      "page-059-art-01",
+      "page-059-art-02",
+      "page-059-art-03",
+      "page-059-art-04",
+      "page-059-art-07",
+      "page-059-art-08",
+      "page-060-art-01",
+      "page-060-art-02",
+      "page-060-art-03",
+      "page-060-art-04",
+      "page-060-art-05",
+      "page-061-art-01",
+      "page-061-art-02",
+      "page-061-art-03",
+      "page-061-art-04",
+      "page-061-art-06",
+      "page-062-art-01",
+      "page-062-art-02",
+      "page-062-art-03",
+      "page-062-art-04",
+      "page-062-art-05",
+      "page-062-art-06",
+      "page-063-art-01",
+      "page-063-art-02",
+      "page-063-art-03",
+      "page-063-art-05",
+      "page-064-art-01",
+      "page-064-art-02",
+      "page-064-art-03",
+      "page-064-art-04",
+      "page-064-art-05",
+      "page-064-art-06",
+      "page-064-art-07",
+      "page-064-art-08",
+      "page-064-art-09",
+      "page-064-art-10",
+      "page-065-art-01",
+      "page-065-art-02",
+      "page-065-art-03",
+      "page-065-art-04",
+      "page-065-art-05",
+      "page-065-art-07",
+      "page-065-art-08",
+      "page-065-art-09",
+      "page-066-art-01",
+      "page-066-art-02",
+      "page-066-art-03",
+      "page-066-art-04",
+      "page-066-art-05",
+      "page-066-art-06",
+      "page-066-art-07",
+      "page-067-art-01",
+      "page-068-art-01",
+      "page-068-art-02",
+      "page-068-art-03",
+      "page-068-art-04",
+      "page-068-art-05-item-068-05",
+      "page-068-art-05-item-068-06",
+      "page-068-art-05-item-068-07",
+      "page-068-art-05-item-068-08",
+      "page-069-art-01",
+      "page-069-art-02",
+      "page-069-art-03",
+      "page-069-art-04",
+      "page-069-art-05",
+      "page-069-art-07",
+      "page-069-art-08",
+      "page-069-art-09",
+      "page-070-art-01",
+      "page-070-art-02",
+      "page-070-art-03",
+      "page-070-art-04",
+      "page-070-art-05",
+      "page-070-art-06",
+      "page-070-art-07",
+      "page-070-art-08",
+      "page-071-art-01",
+      "page-071-art-02",
+      "page-071-art-03",
+      "page-071-art-04",
+      "page-071-art-05",
+      "page-071-art-06",
+      "page-071-art-08",
+      "page-071-art-09",
+      "page-072-art-01",
+      "page-072-art-02",
+      "page-072-art-03",
+      "page-072-art-04",
+      "page-072-art-05",
+      "page-072-art-06",
+      "page-072-art-07",
+      "page-073-art-01",
+      "page-073-art-02",
+      "page-073-art-03",
+      "page-073-art-04",
+      "page-073-art-05",
+      "page-073-art-08",
+      "page-073-art-09",
+      "page-074-art-01",
+      "page-074-art-02",
+      "page-074-art-03",
+      "page-074-art-04",
+      "page-074-art-05",
+      "page-074-art-06",
+      "page-074-art-07",
+      "page-075-art-01",
+      "page-075-art-02",
+      "page-075-art-03",
+      "page-075-art-04",
+      "page-075-art-06",
+      "page-075-art-07",
+      "page-076-art-01",
+      "page-076-art-02",
+      "page-076-art-03",
+      "page-076-art-04",
+      "page-076-art-05",
+      "page-076-art-06",
+      "page-077-art-01",
+      "page-077-art-02",
+      "page-077-art-03",
+      "page-077-art-04",
+      "page-077-art-05",
+      "page-077-art-08",
+      "page-077-art-09",
+      "page-080-art-01",
+      "page-081-art-01",
+      "page-082-recovered-01",
+      "page-083-art-01",
+      "page-083-art-02",
+      "page-084-art-01",
+      "page-084-art-02",
+      "page-084-art-03",
+      "page-085-recovered-01",
+      "page-086-art-01",
+      "page-087-art-01",
+      "page-088-art-01",
+      "page-088-art-02",
+      "page-089-art-01",
+      "page-089-art-02",
+      "page-090-art-01",
+      "page-091-art-01",
+      "page-092-art-01",
+      "page-093-art-01",
+      "page-094-art-01",
+      "page-094-art-02",
+      "page-095-art-01",
+      "page-096-art-01",
+      "page-096-art-02",
+      "page-097-art-01",
+      "page-097-art-02",
+      "page-098-art-01",
+      "page-098-art-02",
+      "page-099-art-01",
+      "page-099-art-02",
+      "page-100-art-01",
+      "page-101-art-01",
+      "page-102-art-01",
+      "page-103-art-01",
+      "page-104-art-01",
+      "page-105-art-01",
+      "page-106-art-01",
+      "page-106-art-02",
+      "page-107-art-01",
+      "page-107-art-02",
+      "page-108-art-01",
+      "page-109-art-01",
+      "page-110-art-01",
+      "page-110-art-02",
+      "page-110-art-03",
+      "page-110-art-04",
+      "page-111-art-01",
+      "page-111-art-02",
+      "page-112-art-01",
+      "page-113-art-01",
+      "page-114-art-01",
+      "page-115-art-01",
+      "page-115-art-02",
+      "page-115-art-03",
+      "page-115-art-04",
+      "page-115-art-05",
+      "page-115-art-06",
+      "page-116-art-01",
+      "page-116-art-02",
+      "page-116-art-03",
+      "page-116-art-04",
+      "page-116-art-05",
+      "page-117-art-01",
+      "page-117-art-02",
+      "page-117-art-03",
+      "page-117-art-04",
+      "page-117-art-05",
+      "page-118-art-01",
+      "page-118-art-02",
+      "page-118-art-03",
+      "page-118-art-04",
+      "page-118-art-05",
+      "page-118-art-06",
+      "page-119-art-01",
+      "page-119-art-02",
+      "page-119-art-03",
+      "page-119-art-04",
+      "page-120-art-01",
+      "page-120-art-02",
+      "page-120-art-03",
+      "page-120-art-04",
+      "page-121-art-01",
+      "page-121-art-02",
+      "page-121-art-03",
+      "page-121-art-04",
+      "page-121-art-05",
+      "page-121-art-06",
+      "page-121-art-07",
+      "page-121-art-08",
+      "page-122-art-01",
+      "page-122-art-02",
+      "page-122-art-03",
+      "page-122-art-04",
+      "page-122-art-05",
+      "page-122-art-06",
+      "page-122-art-07",
+      "page-122-art-08",
+      "page-122-art-09",
+      "page-122-art-10",
+      "page-123-art-01",
+      "page-123-art-02",
+      "page-123-art-03",
+      "page-123-art-04",
+      "page-123-art-05",
+      "page-123-art-06",
+      "page-123-art-07",
+      "page-124-art-01",
+      "page-124-art-02",
+      "page-124-art-03",
+      "page-124-art-04",
+      "page-124-art-05",
+      "page-124-art-06",
+      "page-124-art-07",
+      "page-124-art-08",
+      "page-125-art-01",
+      "page-125-art-02",
+      "page-125-art-03",
+      "page-125-art-04",
+      "page-125-art-05",
+      "page-125-art-06",
+      "page-125-art-07",
+      "page-125-art-08",
+      "page-126-art-01",
+      "page-126-art-02",
+      "page-126-art-03",
+      "page-127-art-01",
+      "page-127-art-02",
+      "page-127-art-03",
+      "page-127-art-04",
+      "page-127-art-05",
+      "page-127-art-06",
+      "page-127-art-07",
+      "page-127-art-08",
+      "page-128-art-01",
+      "page-128-art-02",
+      "page-128-art-03",
+      "page-128-art-04",
+      "page-128-art-05",
+      "page-128-art-06",
+      "page-128-art-07",
+      "page-128-art-08",
+      "page-129-art-01",
+      "page-129-art-02",
+      "page-129-art-03",
+      "page-129-art-04",
+      "page-129-art-05",
+      "page-129-art-06",
+      "page-129-art-07",
+      "page-129-art-08",
+      "page-129-art-09",
+      "page-130-art-01",
+      "page-130-art-02",
+      "page-130-art-03",
+      "page-130-art-04",
+      "page-130-art-05",
+      "page-130-art-06",
+      "page-130-art-07",
+      "page-130-art-08",
+      "page-131-art-01",
+      "page-131-art-02",
+      "page-131-art-03",
+      "page-131-art-04",
+      "page-131-art-05",
+      "page-131-art-06",
+      "page-132-art-01",
+      "page-132-art-02",
+      "page-132-art-03",
+      "page-132-art-04",
+      "page-132-art-05",
+      "page-132-art-06",
+      "page-132-art-07",
+      "page-133-art-01",
+      "page-133-art-02",
+      "page-133-art-03",
+      "page-133-art-04",
+      "page-133-art-05",
+      "page-133-art-06",
+      "page-133-art-07",
+      "page-134-art-01",
+      "page-134-art-02",
+      "page-134-art-03",
+      "page-134-art-04",
+      "page-135-art-01",
+      "page-135-art-02",
+      "page-135-art-03",
+      "page-135-art-04",
+      "page-135-art-05",
+      "page-135-art-06",
+      "page-136-art-01",
+      "page-136-art-02",
+      "page-136-art-03",
+      "page-136-art-04",
+      "page-136-art-05",
+      "page-136-art-06",
+      "page-136-art-07",
+      "page-137-art-01",
+      "page-137-art-02",
+      "page-137-art-03",
+      "page-137-art-04",
+      "page-137-art-05",
+      "page-137-art-06",
+      "page-137-art-07",
+      "page-138-art-01",
+      "page-138-art-02",
+      "page-138-art-03",
+      "page-138-art-04",
+      "page-138-art-05",
+      "page-138-art-06",
+      "page-139-art-01",
+      "page-139-art-02",
+      "page-139-art-03",
+      "page-139-art-04",
+      "page-139-art-05",
+      "page-140-art-01",
+      "page-143-art-01",
+      "page-143-art-02",
+      "page-143-art-03",
+      "page-144-art-01",
+      "page-144-art-02",
+      "page-144-art-03",
+      "page-145-art-01",
+      "page-145-art-02",
+      "page-145-art-03",
+      "page-146-art-01",
+      "page-146-art-02",
+      "page-146-art-03",
+      "page-147-art-01",
+      "page-147-art-02",
+      "page-147-art-03",
+      "page-148-art-01",
+      "page-148-art-02",
+      "page-148-art-03",
+      "page-149-art-01",
+      "page-149-art-02",
+      "page-149-art-03",
+      "page-149-art-04",
+      "page-150-art-01",
+      "page-150-art-02",
+      "page-151-art-01",
+      "page-151-art-02",
+      "page-151-art-03",
+      "page-152-art-01",
+      "page-152-art-02",
+      "page-152-art-03",
+      "page-153-art-01",
+      "page-153-art-02",
+      "page-153-art-03",
+      "page-154-art-01",
+      "page-154-art-02",
+      "page-154-art-03",
+      "page-155-art-01",
+      "page-155-art-02",
+      "page-156-art-01",
+      "page-157-art-01",
+      "page-158-art-01",
+      "page-159-art-01",
+      "page-160-art-01",
+      "page-161-art-01",
+      "page-162-art-01",
+      "page-163-art-01",
+      "page-164-art-01",
+      "page-165-art-01",
+      "page-165-art-02",
+      "page-166-art-01",
+      "page-166-art-02",
+      "page-167-art-01",
+      "page-167-art-02",
+      "page-168-art-01",
+      "page-169-art-01",
+      "page-170-art-01",
+      "page-171-art-01",
+      "page-172-art-01",
+      "page-173-art-01",
+      "page-174-art-01",
+      "page-175-art-01",
+      "page-175-art-02",
+      "page-175-art-03",
+      "page-175-art-04",
+      "page-175-art-05",
+      "page-175-art-06",
+      "page-175-art-07",
+      "page-176-art-01",
+      "page-176-art-02",
+      "page-176-art-03",
+      "page-176-art-04",
+      "page-176-art-05",
+      "page-176-art-06",
+      "page-176-art-07",
+      "page-176-art-08",
+      "page-177-art-01",
+      "page-177-art-02",
+      "page-177-art-03",
+      "page-177-art-04",
+      "page-177-art-05",
+      "page-177-art-06",
+      "page-178-art-01",
+      "page-178-art-02",
+      "page-178-art-03",
+      "page-178-art-04",
+      "page-178-art-05",
+      "page-178-art-06",
+      "page-178-art-07",
+      "page-179-art-01",
+      "page-179-art-02",
+      "page-179-art-03",
+      "page-179-art-04",
+      "page-179-art-05",
+      "page-179-art-06",
+      "page-179-art-07",
+      "page-180-art-01",
+      "page-180-art-02",
+      "page-180-art-03",
+      "page-180-art-04",
+      "page-180-art-05",
+      "page-180-art-06",
+      "page-181-art-01",
+      "page-181-art-02",
+      "page-181-art-03",
+      "page-181-art-04",
+      "page-182-art-01",
+      "page-182-art-02",
+      "page-182-art-03",
+      "page-182-art-04",
+      "page-183-art-01",
+      "page-183-art-02",
+      "page-183-art-03",
+      "page-183-art-04",
+      "page-183-art-05",
+      "page-183-art-06",
+      "page-185-art-01",
+      "page-185-art-02",
+      "page-185-art-03",
+      "page-185-art-04",
+      "page-185-art-05",
+      "page-185-art-06",
+      "page-185-art-07",
+      "page-186-art-01",
+      "page-186-art-02",
+      "page-186-art-03",
+      "page-186-art-04",
+      "page-187-art-01",
+      "page-187-art-02",
+      "page-187-art-03",
+      "page-187-art-04",
+      "page-187-art-05",
+      "page-188-art-01",
+      "page-188-art-02",
+      "page-188-art-03",
+      "page-188-art-04",
+      "page-188-art-05",
+      "page-188-art-06",
+      "page-189-art-01",
+      "page-189-art-02",
+      "page-189-art-03",
+      "page-189-art-04",
+      "page-190-art-01",
+      "page-190-art-02",
+      "page-190-art-03",
+      "page-190-art-04",
+      "page-190-art-05",
+      "page-193-art-01",
+      "page-193-art-02",
+      "page-194-recovered-01",
+      "page-195-art-01",
+      "page-196-art-01",
+      "page-196-art-02",
+      "page-196-art-03",
+      "page-197-art-01",
+      "page-197-art-02",
+      "page-197-art-03",
+      "page-198-art-01",
+      "page-198-art-02",
+      "page-198-art-03",
+      "page-199-art-01",
+      "page-199-art-02",
+      "page-199-art-03",
+      "page-200-art-01",
+      "page-200-art-02",
+      "page-200-art-03",
+      "page-201-art-01",
+      "page-201-art-02",
+      "page-201-art-03",
+      "page-201-art-04",
+      "page-202-art-01",
+      "page-202-art-02",
+      "page-202-art-03",
+      "page-202-art-04",
+      "page-202-art-05",
+      "page-203-art-01",
+      "page-203-art-02",
+      "page-204-art-01",
+      "page-204-art-02",
+      "page-204-art-03",
+      "page-204-art-04",
+      "page-204-art-05",
+      "page-204-art-06",
+      "page-204-art-07",
+      "page-205-art-01",
+      "page-205-art-02",
+      "page-205-art-03",
+      "page-205-art-04",
+      "page-205-art-05",
+      "page-205-art-06",
+      "page-205-art-07",
+      "page-206-art-01",
+      "page-206-art-02",
+      "page-206-art-03",
+      "page-206-art-04",
+      "page-206-art-05",
+      "page-206-art-06",
+      "page-206-art-07",
+      "page-207-art-01",
+      "page-207-art-02",
+      "page-207-art-03",
+      "page-207-art-04",
+      "page-207-art-05",
+      "page-207-art-06",
+      "page-207-art-07",
+      "page-207-art-08",
+      "page-208-art-01",
+      "page-208-art-02",
+      "page-208-art-03",
+      "page-208-art-04",
+      "page-208-art-05",
+      "page-208-art-06",
+      "page-209-art-01",
+      "page-209-art-02",
+      "page-209-art-03"
+    ],
+    "fallbackOriginals": [],
+    "exact2x": true,
+    "padding": 32
+  },
+  "openRealFlags": [],
+  "randomSample": [
+    {
+      "system": {
+        "ru": "Набор инструментов для малых блокируемых имплантов",
+        "en": "Small Locking Instrument Set"
+      },
+      "slug": "small-locking-instrument-set",
+      "pdfPage": 61,
+      "printedPage": "1/57",
+      "REF": "110012200",
+      "size": {
+        "ru": "Распатор, с закруглённой рабочей кромкой",
+        "en": "Periosteal Elevator, round Edge"
+      }
+    },
+    {
+      "system": {
+        "ru": "Набор инструментов MARATHON",
+        "en": "MARATHON Instrument Set"
+      },
+      "slug": "marathon-instrument-set",
+      "pdfPage": 178,
+      "printedPage": "3/37",
+      "REF": "112252500",
+      "size": {
+        "ru": "Костный рычаг",
+        "en": "Bone Lever"
+      }
+    },
+    {
+      "system": {
+        "ru": "MT 4.0 мм Блокируемый винт, со шлицем Torx, самонарезающий",
+        "en": "MT 4.0mm Locking Screw, torxdrive, self-tapping"
+      },
+      "slug": "mt-4-0mm-locking-screw-torxdrive-self-tapping",
+      "pdfPage": 172,
+      "printedPage": "3/31",
+      "REF": "041840038",
+      "size": {
+        "ru": "MT 4.0 мм Блокируемый винт, со шлицем Torx, самонарезающий · Длина: 38",
+        "en": "MT 4.0mm Locking Screw, torxdrive, self-tapping · Length: 38"
+      }
+    },
+    {
+      "system": {
+        "ru": "3.5 мм Блокируемая проставка",
+        "en": "3.5mm Locking Spacer"
+      },
+      "slug": "3-5mm-locking-spacer",
+      "pdfPage": 110,
+      "printedPage": "2/32",
+      "REF": "026960037",
+      "size": {
+        "ru": "3.5 мм Блокируемая проставка · Диаметр: 3.5, Длина: 3.7",
+        "en": "3.5mm Locking Spacer · Diameter: 3.5, Length: 3.7"
+      }
+    },
+    {
+      "system": {
+        "ru": "Блокируемая пластина для дистального отдела бедренной кости COMPLEX, со сдвоенными отверстиями",
+        "en": "Distal Femoral Locking Plate COMPLEX, Twin Hole"
+      },
+      "slug": "distal-femoral-locking-plate-complex-twin-hole",
+      "pdfPage": 90,
+      "printedPage": "2/12",
+      "REF": "026102007",
+      "size": {
+        "ru": "Блокируемая пластина для дистального отдела бедренной кости COMPLEX, со сдвоенными отверстиями · Сторона (L/R): Правая, Отверстия: 7, Длина: 187",
+        "en": "Distal Femoral Locking Plate COMPLEX, Twin Hole · Direction: Right, Holes: 7, Length: 187"
+      }
+    },
+    {
+      "system": {
+        "ru": "4.0 мм Спонгиозный винт, с частичной резьбой",
+        "en": "4.0mm Cancellous Screw, half threaded"
+      },
+      "slug": "4-0mm-cancellous-screw-half-threaded",
+      "pdfPage": 50,
+      "printedPage": "1/46",
+      "REF": "042170035",
+      "size": {
+        "ru": "4.0 мм Спонгиозный винт, с частичной резьбой · Длина: 35, Длина резьбы: 15",
+        "en": "4.0mm Cancellous Screw, half threaded · Length: 35, Teeth Length: 15"
+      }
+    },
+    {
+      "system": {
+        "ru": "Пластина для лонного сочленения",
+        "en": "Symphyseal Plate"
+      },
+      "slug": "symphyseal-plate",
+      "pdfPage": 199,
+      "printedPage": "4/8",
+      "REF": "010620025",
+      "size": {
+        "ru": "Пластина для лонного сочленения · Отверстия: 4, Длина: 58",
+        "en": "Symphyseal Plate · Holes: 4, Length: 58"
+      }
+    },
+    {
+      "system": {
+        "ru": "Блокируемая пластина для дистального отдела лучевой кости I, с переменным углом, малая, со сдвоенными отверстиями",
+        "en": "Distal Radius Locking Plate I, variable angle, small, Twin Hole"
+      },
+      "slug": "distal-radius-locking-plate-i-variable-angle-small-twin-hole",
+      "pdfPage": 34,
+      "printedPage": "1/30",
+      "REF": "021532009",
+      "size": {
+        "ru": "Блокируемая пластина для дистального отдела лучевой кости I, с переменным углом, малая, со сдвоенными отверстиями · Сторона (L/R): Левая, Отверстия: 9, Длина: 105",
+        "en": "Distal Radius Locking Plate I, variable angle, small, Twin Hole · Direction: Left, Holes: 9, Length: 105"
+      }
+    },
+    {
+      "system": {
+        "ru": "Анатомическая задняя блокируемая пластина для вертлужной впадины",
+        "en": "Anatomical Posterior Acetabular Locking Plate"
+      },
+      "slug": "anatomical-posterior-acetabular-locking-plate",
+      "pdfPage": 203,
+      "printedPage": "4/12",
+      "REF": "028611007",
+      "size": {
+        "ru": "Анатомическая задняя блокируемая пластина для вертлужной впадины · Сторона (L/R): Левая, Отверстия: 7, Длина: 83",
+        "en": "Anatomical Posterior Acetabular Locking Plate · Direction: Left, Holes: 7, Length: 83"
+      }
+    },
+    {
+      "system": {
+        "ru": "4.0 мм Спонгиозный винт, с частичной резьбой",
+        "en": "4.0mm Cancellous Screw, half threaded"
+      },
+      "slug": "4-0mm-cancellous-screw-half-threaded",
+      "pdfPage": 42,
+      "printedPage": "1/38",
+      "REF": "040020028",
+      "size": {
+        "ru": "4.0 мм Спонгиозный винт, с частичной резьбой · Длина: 28",
+        "en": "4.0mm Cancellous Screw, half threaded · Length: 28"
+      }
+    },
+    {
+      "system": {
+        "ru": "Блокируемая пластина для дистального отдела локтевой кости",
+        "en": "Distal Ulnar Locking Plate"
+      },
+      "slug": "distal-ulnar-locking-plate",
+      "pdfPage": 40,
+      "printedPage": "1/36",
+      "REF": "021340008",
+      "size": {
+        "ru": "Блокируемая пластина для дистального отдела локтевой кости · Отверстия: 8, Длина: 46",
+        "en": "Distal Ulnar Locking Plate · Holes: 8, Length: 46"
+      }
+    },
+    {
+      "system": {
+        "ru": "MD Блокируемая пластина для заднего отдела пяточного бугра",
+        "en": "MD Posterior Tuberosity Calcaneal Locking Plate"
+      },
+      "slug": "md-posterior-tuberosity-calcaneal-locking-plate",
+      "pdfPage": 144,
+      "printedPage": "3/3",
+      "REF": "031281005",
+      "size": {
+        "ru": "MD Блокируемая пластина для заднего отдела пяточного бугра · Сторона (L/R): Левая, Размер: малая",
+        "en": "MD Posterior Tuberosity Calcaneal Locking Plate · Direction: Left, Size: Small"
+      }
+    },
+    {
+      "system": {
+        "ru": "Латеральная опорная блокируемая пластина для мыщелков большеберцовой кости II, со сдвоенными отверстиями",
+        "en": "Lateral Tibial Head Buttress Locking Plate II, Twin Hole"
+      },
+      "slug": "lateral-tibial-head-buttress-locking-plate-ii-twin-hole",
+      "pdfPage": 92,
+      "printedPage": "2/14",
+      "REF": "021441010",
+      "size": {
+        "ru": "Латеральная опорная блокируемая пластина для мыщелков большеберцовой кости II, со сдвоенными отверстиями · Сторона (L/R): Левая, Отверстия: 10, Длина: 246",
+        "en": "Lateral Tibial Head Buttress Locking Plate II, Twin Hole · Direction: Left, Holes: 10, Length: 246"
+      }
+    },
+    {
+      "system": {
+        "ru": "Набор инструментов для блокируемой системы 2.4",
+        "en": "Locking System 2.4 Instrument Set"
+      },
+      "slug": "locking-system-2-4-instrument-set",
+      "pdfPage": 76,
+      "printedPage": "1/72",
+      "REF": "110241700",
+      "size": {
+        "ru": "Прицельный блок для блокируемой пластины дистального отдела лучевой кости | (малый), левый",
+        "en": "Aiming Block for Distal Radius Locking Plate | (small), left"
+      }
+    },
+    {
+      "system": {
+        "ru": "Канюлированный винт для коррекции молоткообразной деформации пальцев стопы",
+        "en": "Hammertoe Cannulated Screw"
+      },
+      "slug": "hammertoe-cannulated-screw",
+      "pdfPage": 168,
+      "printedPage": "3/27",
+      "REF": "068463521",
+      "size": {
+        "ru": "Канюлированный винт для коррекции молоткообразной деформации пальцев стопы · Диаметр: 3.5, Длина: 21",
+        "en": "Hammertoe Cannulated Screw · Diameter: 3.5, Length: 21"
+      }
+    },
+    {
+      "system": {
+        "ru": "MT Блокируемая пластина для остеотомии I плюсневой кости",
+        "en": "MT First Metatarsal Osteotomy Locking Plate"
+      },
+      "slug": "mt-first-metatarsal-osteotomy-locking-plate",
+      "pdfPage": 152,
+      "printedPage": "3/11",
+      "REF": "026651003",
+      "size": {
+        "ru": "MT Блокируемая пластина для остеотомии I плюсневой кости · Сторона (L/R): Левая, Высота: 3",
+        "en": "MT First Metatarsal Osteotomy Locking Plate · Direction: Left, Height: 3"
+      }
+    },
+    {
+      "system": {
+        "ru": "2.4 мм Блокируемый винт, самонарезающий, со шлицем Torx",
+        "en": "2.4mm Locking Screw, self-tapping, torxdrive"
+      },
+      "slug": "2-4mm-locking-screw-self-tapping-torxdrive",
+      "pdfPage": 45,
+      "printedPage": "1/41",
+      "REF": "040240022",
+      "size": {
+        "ru": "2.4 мм Блокируемый винт, самонарезающий, со шлицем Torx · Длина: 22",
+        "en": "2.4mm Locking Screw, self-tapping, torxdrive · Length: 22"
+      }
+    },
+    {
+      "system": {
+        "ru": "6.5 мм Спонгиозный винт, с полной резьбой, со шлицем Torx",
+        "en": "6.5mm Cancellous Screw, fully threaded, torxdirve"
+      },
+      "slug": "6-5mm-cancellous-screw-fully-threaded-torxdirve",
+      "pdfPage": 113,
+      "printedPage": "2/35",
+      "REF": "043030035",
+      "size": {
+        "ru": "6.5 мм Спонгиозный винт, с полной резьбой, со шлицем Torx · Длина: 35",
+        "en": "6.5mm Cancellous Screw, fully threaded, torxdirve · Length: 35"
+      }
+    },
+    {
+      "system": {
+        "ru": "Заднелатеральная блокируемая пластина для малоберцовой кости, со сдвоенными отверстиями",
+        "en": "Posterior Lateral Fibular Locking Plate, Twin Hole"
+      },
+      "slug": "posterior-lateral-fibular-locking-plate-twin-hole",
+      "pdfPage": 27,
+      "printedPage": "1/23",
+      "REF": "021882004",
+      "size": {
+        "ru": "Заднелатеральная блокируемая пластина для малоберцовой кости, со сдвоенными отверстиями · Сторона (L/R): Правая, Отверстия: 4, Длина: 90",
+        "en": "Posterior Lateral Fibular Locking Plate, Twin Hole · Direction: Right, Holes: 4, Length: 90"
+      }
+    },
+    {
+      "system": {
+        "ru": "Латеральная блокируемая пластина для проксимального отдела большеберцовой кости II",
+        "en": "Proximal Lateral Tibial Locking Plate II"
+      },
+      "slug": "proximal-lateral-tibial-locking-plate-ii",
+      "pdfPage": 20,
+      "printedPage": "1/16",
+      "REF": "021672017",
+      "size": {
+        "ru": "Латеральная блокируемая пластина для проксимального отдела большеберцовой кости II · Сторона (L/R): Правая, Отверстия: 17, Длина: 229",
+        "en": "Proximal Lateral Tibial Locking Plate II · Direction: Right, Holes: 17, Length: 229"
+      }
+    }
+  ],
+  "randomSampleSeed": 20261120,
+  "publicationDate": "2026-11-20T18:40:53.285059+00:00",
+  "sourceCatalogCorrections": [],
+  "missingSourceCodeRows": 1,
+  "validation": {
+    "build": "passed",
+    "publishedSystemsBuilt": 469,
+    "javascriptTests": {
+      "passed": 97,
+      "failed": 0,
+      "skipped": 0
+    },
+    "pythonTests": {
+      "passed": 31,
+      "failed": 0
+    },
+    "totalPassed": 128,
+    "existingSystemFilesUnchanged": true,
+    "localhostChecks": {
+      "newPlateRU": 200,
+      "newPlateEN": 200,
+      "instrumentSet": 200,
+      "draftExcluded": 404,
+      "catalogPdf": 200
+    }
+  },
+  "sourceIssuesAcceptedByOwner": [
+    {
+      "system": {
+        "ru": "4.0 мм Спонгиозный винт, с частичной резьбой",
+        "en": "4.0mm Cancellous Screw, half threaded"
+      },
+      "slug": "4-0mm-cancellous-screw-half-threaded",
+      "code": "source-diameter-conflict",
+      "pdfPage": 50,
+      "sourcePages": [
+        50
+      ],
+      "path": "specTables.1.keyParameters",
+      "message": {
+        "ru": "В заголовке указан винт 4.0 мм, в строке Diameter напечатано 3.5 мм. Оба исходных значения сохранены.",
+        "en": "The title specifies 4.0 mm, while the Diameter line prints 3.5 mm. Both source values are retained."
+      },
+      "readings": [
+        "Title: 4.0mm",
+        "Diameter:3.5mm"
+      ]
+    },
+    {
+      "system": {
+        "ru": "4.0 мм Спонгиозный винт, с полной резьбой",
+        "en": "4.0mm Cancellous Screw, fully threaded"
+      },
+      "slug": "4-0mm-cancellous-screw-fully-threaded",
+      "code": "source-diameter-conflict",
+      "pdfPage": 51,
+      "sourcePages": [
+        51
+      ],
+      "path": "specTables.1.keyParameters",
+      "message": {
+        "ru": "В заголовке указан винт 4.0 мм, в строке Diameter напечатано 3.5 мм. Оба исходных значения сохранены.",
+        "en": "The title specifies 4.0 mm, while the Diameter line prints 3.5 mm. Both source values are retained."
+      },
+      "readings": [
+        "Title: 4.0mm",
+        "Diameter:3.5mm"
+      ]
+    },
+    {
+      "system": {
+        "ru": "MD T-образная блокируемая пластина для дистального отдела большеберцовой кости",
+        "en": "MD Distal Tibial T-Locking Plate"
+      },
+      "slug": "md-distal-tibial-t-locking-plate",
+      "code": "source-ref-prefix-outlier",
+      "pdfPage": 146,
+      "sourcePages": [
+        146
+      ],
+      "path": "specTables.0.rows.1",
+      "message": {
+        "ru": "REF 031990008 отличается от префикса 0261 остальных строк. Код подтверждён тремя чтениями и сохранён; требуется подтверждение производителя.",
+        "en": "REF 031990008 differs from the 0261 prefix of the other rows. All three readers confirm the printed code; manufacturer confirmation is required."
+      },
+      "readings": {
+        "PSM3": "031990008",
+        "PSM11": "031990008",
+        "Vision": "031990008"
+      },
+      "sourceBounds": [
+        0.08,
+        0.2910716102523968,
+        0.5714052947077584,
+        0.3068544316180787
+      ]
+    },
+    {
+      "system": {
+        "ru": "Набор инструментов для малых блокируемых имплантов",
+        "en": "Small Locking Instrument Set"
+      },
+      "slug": "small-locking-instrument-set",
+      "code": "source-ref-missing",
+      "pdfPage": 61,
+      "sourcePages": [
+        61
+      ],
+      "path": "specTables.3.rows.4.1",
+      "message": {
+        "ru": "Каталожный номер костодержателя не напечатан в исходном PDF.",
+        "en": "The source PDF does not print a catalog number for the self-centering bone-holding forceps."
+      },
+      "readings": [
+        "Source code cell is empty"
+      ]
+    },
+    {
+      "system": {
+        "ru": "Набор инструментов для реконструктивных пластин",
+        "en": "Reconstruction Instrument Set"
+      },
+      "slug": "reconstruction-instrument-set",
+      "code": "duplicate-ref-different-instruments",
+      "pdfPage": 205,
+      "sourcePages": [
+        205
+      ],
+      "path": "specTables.1.rows",
+      "message": {
+        "ru": "REF 110021300 напечатан для гибочных щипцов и костного крючка. Коды сохранены без предположений.",
+        "en": "REF 110021300 is printed for both bending pliers and a bone hook. Neither code has been guessed or changed."
+      },
+      "readings": [
+        "110021300 — Bending Pliers for Reconstruction Plates",
+        "110021300 — Bone Hook, sharp, medium"
+      ]
+    }
+  ],
+  "ownerPublicationDate": "2026-11-20T20:57:11.260424+00:00"
+}

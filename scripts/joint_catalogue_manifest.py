@@ -1,0 +1,58 @@
+"""Codex-reviewed headings and professional Russian terminology, Joint Catalogue."""
+def bi(ru,en=None):return {'ru':str(ru),'en':str(en if en is not None else ru)}
+# Entries follow the printed REF tables in physical-page order; repeated headings stay one family.
+PAGES={
+4:[('pbg-proximal-bone-growth-cementless-stem','Бесцементная бедренная ножка PBG','PBG Cementless Hip Stem','Ti','Ti'),('pbg-proximal-bone-growth-cementless-stem','Бесцементная бедренная ножка PBG','PBG Cementless Hip Stem','Ti','Ti-HA')],
+5:[('tbg-cementless-hip-stem','Бесцементная бедренная ножка TBG','TBG Cementless Hip Stem','Ti','Ti'),('tbg-cementless-hip-stem','Бесцементная бедренная ножка TBG','TBG Cementless Hip Stem','Ti','Ti-HA')],
+6:[('tbg-cemented-hip-stem','Цементная бедренная ножка TBG','TBG Cemented Hip Stem','Co-Cr-Mo',''),('centralizer','Центратор бедренной ножки','Centralizer','PE',''),('alter-cementless-hip-stem','Бесцементная бедренная ножка Alter','Alter Cementless Hip Stem','Ti','Ti')],
+7:[('cpt-cemented-hip-stem','Цементная бедренная ножка CPT','CPT Cemented Hip Stem','CoCr',''),('cement-restrictor','Ограничитель костного цемента','Cement Restrictor','PE','')],
+8:[('ddh-femoral-stem','Бедренная ножка DDH','DDH Femoral Stem','forged-Ti','Ti+HA'),('anty-f-series','Ревизионная бедренная ножка Anty F-series','Anty F Series Revision Hip Stem','Ti6Al4V','')],
+9:[('apollo-acetabular-cup','Ацетабулярная чашка Apollo','Apollo Acetabular Cup','Ti','Ti'),('apollo-acetabular-cup','Ацетабулярная чашка Apollo','Apollo Acetabular Cup','Ti','Ti+HA')],
+10:[('anty-a-revision-acetabular-cup','Ревизионная ацетабулярная чашка Anty A с множественными отверстиями','Anty A Series Revision Acetabular Cup, Multi Screw Holes','Ti-alloy','Ti')],
+11:[('apollo-acetabular-liner','Ацетабулярный вкладыш Apollo','Apollo Acetabular Liner','HXLPE','')],
+12:[('ceramic-acetabular-liner','Керамический ацетабулярный вкладыш','Ceramic Acetabular Liner','',''),('dmc-liner','Металлический вкладыш DMC','DMC Liner','Co-Cr-Mo',''),('dmc-insert','Полиэтиленовый вкладыш DMC','DMC Insert','HXLPE','')],
+13:[('amity-a-ve-acetabular-liner','Ацетабулярный вкладыш Amity A с витамином E, 10°','Amity A Series Acetabular Liner, 10 Degree, VE','UHMWPE 1020X E 100 (OSK)','')],
+14:[('femoral-head','Металлическая головка бедренного компонента','Femoral Head','CoCr',''),('ceramic-femoral-head','Керамическая головка бедренного компонента','Ceramic Femoral Head','ceramics','')],
+15:[('bipolar-acetabular-cup','Биполярная чашка','Bipolar Acetabular Cup','CoCr',''),('bipolar-acetabular-liner','Вкладыш биполярной чашки','Bipolar Acetabular Liner','PE','')],
+16:[('acetabular-bone-screw','Костный винт для ацетабулярной чашки','Acetabular Bone Screw','Ti','')],
+17:[('cynthia-knee-system','Бедренный компонент Cynthia PS, цементная фиксация','Cynthia Femoral Cruciate Substituting, Cemented','CoCr','')],
+18:[('cynthia-knee-system','Вкладыш Cynthia PS, фиксированная платформа','Cynthia Tibial Insert Fixed Bearing, Cruciate Substituting','UHMWPE','')],
+20:[('cynthia-knee-system','Бедренный компонент Cynthia CR, цементная фиксация','Cynthia Femoral Cruciate Retaining, Cemented','CoCr','')],
+21:[('cynthia-knee-system','Вкладыш Cynthia CR, фиксированная платформа','Cynthia Tibial Insert Fixed Bearing, Cruciate Retaining','UHMWPE','')],
+23:[('cynthia-knee-system','Вкладыш PS из HXLPE с витамином E, фиксированная платформа','Tibial Insert Fixed Bearing, Cruciate Substituting, HXLPE with VE','HXLPE-VE','')],
+25:[('cynthia-knee-system','Тибиальное основание Cynthia, фиксированная платформа, цементная фиксация','Cynthia Tibial Tray Fixed Bearing, Cemented','CoCr',''),('cynthia-knee-system','Эксцентричный надколенник Cynthia','Cynthia Eccentric Patella','UHMWPE','')],
+26:[('meniscal-bearing-component','Мобильный менисковый вкладыш','Meniscal Bearing Component','UHMPE','')],
+28:[('hxlpe-meniscal-bearing','Менисковый вкладыш из HXLPE','HXLPE Meniscal Bearing','HXLPE','')],
+30:[('medial-femoral-component','Медиальный бедренный компонент','Femoral Component, Medial','CoCr','')],
+31:[('unicompartmental-tibial-component','Тибиальный компонент для одномыщелкового эндопротезирования','Tibial Component','CoCr','')],
+32:[('radial-head','Головка эндопротеза лучевой кости','Radial Head','','')],
+33:[('radial-stem','Ножка эндопротеза лучевой кости','Radial Stem','','')],
+34:[('angel-shoulder-system','Цементная плечевая ножка','Cemented Humeral Stem','forged-Ti',''),('angel-shoulder-system','Плечевой вкладыш','Humeral Liner','UHMWPE 1050','')],
+35:[('angel-shoulder-system','Гленосфера реверсивного эндопротеза','Reverse Glenosphere','forged-CoCrMo',''),('angel-shoulder-system','Основание гленосферы','Reverse Glenosphere Tray','Ti6Al4V','')],
+36:[('angel-shoulder-system','Адаптерная платформа плечевой ножки реверсивного эндопротеза','Reverse Humeral Stem Adapter Tray','Ti6Al4V',''),('angel-shoulder-system','Блокирующий винт гленосферы','Reverse Glenosphere Locking Screw','Ti6Al4V','')],
+37:[('angel-shoulder-system','Блокирующий винт адаптерной платформы плечевой ножки','Reverse Humeral Stem Adapter Tray Locking Screw','Ti6Al4V',''),('angel-shoulder-system','Блокирующий винт адаптера анатомического эндопротеза','Anatomy Replicator Locking Screw','Ti6Al4V','')],
+38:[('angel-shoulder-system','Адаптер анатомического эндопротеза','Anatomy Replicator','Ti6Al4V',''),('angel-shoulder-system','Головка плечевого компонента','Humeral Head','forged-CoCrMo','')],
+39:[('angel-shoulder-system','Компрессионный винт','Compression Screw','Ti6Al4V',''),('angel-shoulder-system','Гленоидальный компонент','Glenoid Prosthesis','UHMWPE 1050',''),('angel-shoulder-system','Цементная пробка','Cemented Plug','UHMWPE 1050','')]
+}
+for a,b in [(19,18),(22,21),(24,23),(27,26),(29,28)]:PAGES[a]=PAGES[b]
+MATERIALS={'Ti':bi('Титан','Titanium'),'Ti-alloy':bi('Титановый сплав','Titanium alloy'),'forged-Ti':bi('Кованый титановый сплав','Forged titanium alloy'),'CoCr':bi('Кобальт-хромовый сплав','Cobalt chromium'),'Co-Cr-Mo':bi('Кобальт-хром-молибденовый сплав','Co-Cr-Mo'),'forged-CoCrMo':bi('Кованый кобальт-хром-молибденовый сплав','Cobalt chromium molybdenum forgings'),'PE':bi('Полиэтилен','Polyethylene'),'ceramics':bi('Керамика','Ceramics'),'UHMWPE':bi('Сверхвысокомолекулярный полиэтилен (UHMWPE)','UHMWPE'),'UHMPE':bi('Сверхвысокомолекулярный полиэтилен (в каталоге: UHMPE)','UHMPE'),'HXLPE':bi('Высокосшитый полиэтилен (HXLPE)','HXLPE'),'HXLPE-VE':bi('HXLPE с витамином E','HXLPE, containing VE')}
+SETS=[
+('115090000','hip-stem-instrument-set','Набор инструментов для бедренной ножки','Hip Stem Instrument Set',range(40,44),'hip',['pbg-proximal-bone-growth-cementless-stem','tbg-cementless-hip-stem','femoral-head']),
+('115400000','apollo-acetabular-cup-universal-instrument-set','Универсальный набор инструментов для чашки Apollo','Apollo Acetabular Cup Universal Instrument Set',range(44,47),'hip',['apollo-acetabular-cup']),
+('115360000','apollo-ceramic-trial-liner-instrument-set','Набор пробных керамических вкладышей Apollo','Apollo Ceramic Trial Liner Instrument Set',[47],'hip',['ceramic-acetabular-liner']),
+('115390000','apollo-trial-liner-instrument-set','Набор пробных вкладышей Apollo','Apollo Trial Liner Instrument Set',[48],'hip',['apollo-acetabular-liner']),
+('115410000','apollo-10-degree-trial-liner-instrument-set','Набор пробных вкладышей Apollo 10°','Apollo 10° Trial Liner Instrument Set',[49],'hip',['apollo-acetabular-liner']),
+('115660000','dual-mobility-cup-instrument-set','Набор инструментов для системы двойной мобильности','Dual Mobility Cup System Instrument Set',[50,51],'hip',['dmc-liner','dmc-insert']),
+('115370000','tbg-hip-stem-instrument-set','Набор инструментов для бедренной ножки TBG','TBG Hip Stem Instrument Set',[52],'hip',['tbg-cementless-hip-stem']),
+('112631000','pbg-hip-stem-instrument-set','Набор инструментов для бедренной ножки PBG','PBG Hip Stem Instrument Set',[53],'hip',['pbg-proximal-bone-growth-cementless-stem']),
+('112632000','cemented-hip-stem-instrument-set','Набор инструментов для цементной бедренной ножки','Cemented Hip Stem Instrument Set',[54,55],'hip',['cpt-cemented-hip-stem','tbg-cemented-hip-stem','centralizer','cement-restrictor']),
+('113101000','acetabular-trial-bipolar-cup-instrument-set','Набор пробных биполярных чашек','Acetabular Trial Bipolar Cup Instrument Set',[56],'hip',['bipolar-acetabular-cup','bipolar-acetabular-liner']),
+('115160000','accurate-ps-knee-instrument-set','Набор инструментов Accurate PS для коленного сустава','Accurate PS Knee Instrument Set',range(57,67),'knee',['cynthia-knee-system']),
+('115150000','accurate-cr-knee-instrument-set','Набор инструментов Accurate CR для коленного сустава','Accurate CR Knee Instrument Set',[67,68],'knee',['cynthia-knee-system']),
+('114930000','accurate-patella-instrument-set','Набор инструментов Accurate для надколенника','Accurate Patella Instrument Set',[69],'knee',['cynthia-knee-system']),
+('114350000','accurate-unicompartmental-knee-instrument-set','Набор инструментов Accurate для одномыщелкового эндопротезирования','Accurate Unicompartmental Knee Instrument Set',[70,*range(72,81)],'knee',['meniscal-bearing-component','hxlpe-meniscal-bearing','medial-femoral-component','unicompartmental-tibial-component']),
+('117510000','apollo-62-72-cup-instrument-set','Набор инструментов для чашки Apollo 62–72 мм','Apollo Acetabular Cup (62–72 mm) Instrument Set',[82,83],'hip',['apollo-acetabular-cup']),
+('117480000','universal-acetabular-cup-revision-instrument-set','Универсальный набор для ревизии ацетабулярной чашки','Universal Acetabular Cup Revision Instrument Set',[84,85],'hip',['anty-a-revision-acetabular-cup','apollo-acetabular-cup']),
+('117460000','anty-f-revision-hip-stem-instrument-set','Набор инструментов для ревизионной ножки Anty F','Anty F Revision Hip Stem Instrument Set',[86,87],'hip',['anty-f-series']),
+('117410000','hip-stem-revision-instrument-set','Набор инструментов для ревизии бедренной ножки','Hip Stem Revision Instrument Set',range(88,92),'hip',['anty-f-series','pbg-proximal-bone-growth-cementless-stem']),
+('116240000','ddh-hip-stem-instrument-set','Набор инструментов для бедренной ножки DDH','DDH Hip Stem Instrument Set',[92,93],'hip',['ddh-femoral-stem'])]

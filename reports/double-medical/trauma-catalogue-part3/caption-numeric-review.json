@@ -1,0 +1,42 @@
+[
+  {
+    "row": "566-02",
+    "reader": "PSM3",
+    "text": "74.0/p5.4",
+    "issue": "digit count disagrees with source glyphs",
+    "printedDigitsBeforeDecimal": 1,
+    "bounds": [
+      0.2506169454346038,
+      0.27157112111132853,
+      0.32629558541266795,
+      0.28409313245940127
+    ]
+  },
+  {
+    "row": "598-07",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "LCP Drill Sleeve, 62.8",
+      "PSM11": "LCP Drill Sleeve, 02.8",
+      "Vision": "LCP Drill Sleeve, Ø2.8"
+    }
+  },
+  {
+    "row": "626-03",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "Hollow Reamer, Ø3.5, length 70mm",
+      "PSM11": "Hollow Reamer, Ø3.5, length 7Omm",
+      "Vision": "Hollow Reamer, 43.5, length 70mm"
+    }
+  },
+  {
+    "row": "633-09",
+    "issue": "caption numerical readings disagree",
+    "readings": {
+      "PSM3": "3.9/5.0mm Small Fragment Implant Case Lid 1 (Aluminium Alloy )",
+      "PSM11": "3.5/5.0mm Small Fragment Implant Case Lid (Aluminium Alloy )",
+      "Vision": "3.5/5.0mm Small Fragment Implant Case Lid 1 (Aluminium Alloy)"
+    }
+  }
+]

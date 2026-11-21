@@ -1,0 +1,83 @@
+export default {
+  hero: {
+    eyebrow: 'Exclusive distributor',
+    title: 'World-class medical technology in Uzbekistan',
+    description: 'Products from leading manufacturers in the USA, France and China.',
+    viewProducts: 'View products',
+    becomePartner: 'Become a partner',
+  },
+
+  mission: {
+    title: 'An exclusive distributor united by a shared purpose',
+    description: 'XPMED supplies implants, surgical instruments and consumables from leading manufacturers in the USA, France and China to hospitals and clinics across Uzbekistan and Central Asia.',
+    action: 'About XPMED',
+    image: 'Doctors walking through a modern hospital corridor',
+  },
+  videoFeature: {
+    title: 'Doctors on our products',
+    description: 'Hear doctors talk about their experience with the products XPMED supplies.',
+    more: 'Watch all testimonials',
+    catalog: 'Product catalog',
+  },
+  certificatesTeaser: {
+    title: 'Certificates and registrations',
+    label: 'Quality supported by documentation',
+    description: 'See the certificates and registration documents for products supplied by XPMED.',
+    action: 'View certificates',
+  },
+  partnershipLabel: 'Working with clinics and distributors',
+  brandsTitle: 'Brands we supply',
+  catalog: 'Catalog',
+  learnMore: 'Learn more',
+  features: {
+    double: {
+      title: 'Orthopedic implants',
+      description: 'Implants for trauma care, joint replacement and spine surgery. The catalog includes fracture fixation systems, spinal constructs and hip replacement components.',
+      image: 'Double Medical Technology orthopedic implants',
+    },
+    conmed: {
+      title: 'Instruments for modern surgery',
+      description: 'Instruments and consumables for orthopedics, sports medicine and general surgery. The XPMED range includes arthroscopy instruments for procedures on the knee and shoulder.',
+      image: 'CONMED surgical equipment from the XPMED catalog',
+    },
+    synimed: {
+      title: 'Bone cements and medical devices',
+      description: 'French manufacturer Synimed makes Synicem bone cements, sterile cannulas and other devices for orthopedics and spine surgery.',
+      image: 'Synimed medical devices from the XPMED catalog',
+    },
+  },
+  productsTitle: 'Our products',
+  filters: { all: 'All', double: 'Double Medical', conmed: 'CONMED', synimed: 'Synimed', new: 'New arrivals' },
+  productCount: '{count} products',
+  numbersTitle: 'XPMED in numbers',
+  numbersNote: 'Illustrative figures',
+  stats: ['Years on the market', 'Hospitals and clinics served', 'Products in the catalog', 'Countries of origin'],
+  testimonialsTitle: 'What our clients say',
+  testimonials: [
+    { title: 'Doctors on our products', caption: 'First XPMED video testimonial' },
+    { title: 'Doctors on our products', caption: 'Second XPMED video testimonial' },
+  ],
+  play: 'Play video',
+  watchOnYoutube: 'Watch on YouTube',
+  credentialsTitle: 'Certificates and clients',
+  viewCertificate: 'Enlarge document',
+  certificates: ['XPMED certificate 1', 'XPMED certificate 2', 'XPMED certificate 3'],
+  clients: [
+    'Medion Clinic', 'Republican Children’s Orthopedics Center', 'ShTYoIM',
+    'Ezgu Niyat', 'Med Shox Center', 'AKFA Medline',
+    'Gavhar Clinic', 'Nano Medical Clinic', 'XPMED partner clinic',
+  ],
+  partner: {
+    title: 'Want to become our partner?',
+    description: 'Let’s talk about the equipment, implants and consumables your clinic needs.',
+  },
+  office: {
+    address: 'Address',
+    phone: 'Phone',
+    email: 'Email',
+    hours: 'Opening hours',
+    schedule: ['Mon–Sat, 09:00–18:00', 'Closed on Sunday'],
+    map: 'XPMED office map in Tashkent',
+    directions: 'Open in Google Maps',
+  },
+};

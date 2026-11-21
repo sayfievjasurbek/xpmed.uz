@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "slug": "tina-spine-5-5-6-0-system",
+  "brand": "double-medical",
+  "category": "spine",
+  "subcategory": "",
+  "specialty": [
+    "spine"
+  ],
+  "name": {
+    "ru": "Спинальная система TINA",
+    "en": "TINA spine system"
+  },
+  "shortDescription": {
+    "ru": "Транспедикулярная фиксация",
+    "en": "Pedicle screw fixation"
+  },
+  "description": {
+    "ru": "Система транспедикулярной фиксации TINA 5.5/6.0 включает полиаксиальные винты с максимальным углом отклонения 50°, облегчающим установку винтов и стержней. Для систем 5.5 и 6.0 используется один набор инструментов. Подвздошные винты большого диаметра предназначены для репозиции и внутренней фиксации крестцово-подвздошного сочленения.\n\nВ исходном описании указаны грудопоясничный и крестцовый отделы позвоночника. Показания: деформации, дегенеративные заболевания межпозвонковых дисков, спондилолистез, травмы, опухоли и стеноз.\n\nВарианты винтов: полиаксиальный транспедикулярный, полиаксиальный редукционный, моноаксиальный транспедикулярный и моноаксиальный редукционный. Инструментарий: набор TINA 5.5/6.0.",
+    "en": "The TINA Spine 5.5/6.0 pedicle screw system includes polyaxial screws with a maximum angulation of 50°, facilitating screw and rod placement. The same instrument set is offered for systems 5.5 and 6.0. Large-diameter iliac screws are provided for sacroiliac reduction and internal fixation.\n\nThe original description specifies the thoracolumbar and sacral spine. Indications include deformities, degenerative disc disease, spondylolisthesis, trauma, tumors and stenosis.\n\nScrew options are polyaxial pedicle, polyaxial reduction, monoaxial pedicle and monoaxial reduction screws. Instrumentation: TINA 5.5/6.0 Instrument Set."
+  },
+  "heroImage": "/assets/home/tina.webp",
+  "imageType": "scene",
+  "gallery": [
+    "/assets/home/tina.webp",
+    {
+      "src": "/images/products/double-medical/tina-spine-5-5-6-0-system/tina-legacy-alternate.webp",
+      "imageType": "cutout"
+    }
+  ],
+  "features": [
+    {
+      "id": "legacy-saddle-lock",
+      "title": {
+        "ru": "Седловидный блокирующий элемент",
+        "en": "Saddle locking block"
+      },
+      "text": {
+        "ru": "Зубчатая резьба седловидного блокирующего элемента увеличивает площадь контакта и силу удержания стержня винтом, снижая риск перекоса резьбы.",
+        "en": "The serrated thread of the saddle locking block increases contact area and rod-to-screw holding force while minimizing cross-threading."
+      }
+    },
+    {
+      "id": "legacy-double-lead",
+      "title": {
+        "ru": "Двухзаходная резьба",
+        "en": "Double-lead thread"
+      },
+      "text": {
+        "ru": "Двухзаходная резьба обеспечивает надёжную фиксацию в кости и быстрое введение винта.",
+        "en": "The double-lead thread provides secure bone anchorage and fast screw insertion."
+      }
+    },
+    {
+      "id": "legacy-low-profile",
+      "title": {
+        "ru": "Низкопрофильный поперечный коннектор",
+        "en": "Ultra-low-profile transconnector"
+      },
+      "text": {
+        "ru": "Поперечный коннектор с ультранизким профилем уменьшает раздражение окружающих мягких тканей.",
+        "en": "The ultra-low-profile transconnector minimizes irritation to surrounding soft tissue."
+      }
+    },
+    {
+      "id": "legacy-polyaxial-angle",
+      "title": {
+        "ru": "Полиаксиальность до 50°",
+        "en": "Polyaxial angulation up to 50°"
+      },
+      "text": {
+        "ru": "Максимальный угол отклонения полиаксиального винта составляет 50°, облегчая установку винта и стержня.",
+        "en": "A maximum polyaxial angulation of 50° facilitates screw and rod placement."
+      }
+    },
+    {
+      "id": "legacy-spherical-head",
+      "title": {
+        "ru": "Сферическая головка винта",
+        "en": "Spherical screw head"
+      },
+      "text": {
+        "ru": "Сферическая головка корпуса винта улучшает угловую стабильность и фрикционное удержание.",
+        "en": "The spherical screw-body head provides improved angular stability and frictional holding force."
+      }
+    },
+    {
+      "id": "legacy-iliac-screws",
+      "title": {
+        "ru": "Подвздошные винты",
+        "en": "Iliac screws"
+      },
+      "text": {
+        "ru": "Предусмотрены подвздошные винты большого диаметра для репозиции и внутренней фиксации крестцово-подвздошного сочленения.",
+        "en": "Large-diameter iliac screws are provided for sacroiliac reduction and internal fixation."
+      }
+    }
+  ],
+  "hotspots": [],
+  "components": [
+    {
+      "id": "tina",
+      "name": {
+        "ru": "Спинальная система TINA",
+        "en": "TINA spine system"
+      },
+      "image": "/assets/home/tina.webp",
+      "refCodes": [],
+      "sizes": [],
+      "variants": [],
+      "legacyDocuments": [
+        {
+          "type": "product-page",
+          "ru": "https://xpmed.uz/product/double-medical/stenocostal-plate-ru/sistema-tina/sistema-transpedikulyarnyh-vintov-tina/",
+          "en": "https://xpmed.uz/product/double-medical-en/stenocostal-plate/tina-system/tina-spine-5-5-6-0-system/"
+        }
+      ]
+    }
+  ],
+  "specTables": [
+    {
+      "id": "legacy-tina-characteristics",
+      "title": {
+        "ru": "Характеристики системы TINA",
+        "en": "TINA system characteristics"
+      },
+      "unit": null,
+      "columns": [
+        {
+          "ru": "Параметр",
+          "en": "Parameter"
+        },
+        {
+          "ru": "Значение",
+          "en": "Value"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Система",
+            "en": "System"
+          },
+          "TINA 5.5 / 6.0"
+        ],
+        [
+          {
+            "ru": "Максимальная полиаксиальность",
+            "en": "Maximum polyaxial angulation"
+          },
+          "50°"
+        ],
+        [
+          {
+            "ru": "Варианты винтов",
+            "en": "Screw options"
+          },
+          {
+            "ru": "Полиаксиальный транспедикулярный / полиаксиальный редукционный / моноаксиальный транспедикулярный / моноаксиальный редукционный",
+            "en": "Polyaxial pedicle / polyaxial reduction / monoaxial pedicle / monoaxial reduction"
+          }
+        ],
+        [
+          {
+            "ru": "Набор инструментов",
+            "en": "Instrument set"
+          },
+          "TINA 5.5/6.0"
+        ]
+      ],
+      "legend": null,
+      "headerType": "parameter-values"
+    }
+  ],
+  "refCodes": [],
+  "sourcePdf": null,
+  "sourcePages": [],
+  "catalogEdition": null,
+  "isNew": false,
+  "status": "published",
+  "legacyId": "tina",
+  "legacyBrand": "double",
+  "review": {
+    "flags": [],
+    "notes": [
+      "Migrated existing catalog content; no additional dimensions or reference codes inferred.",
+      "Full descriptions and source-supported characteristics imported from original XPMED RU/EN pages on 2026-11-18. Medical terminology and grammar normalized; no dimensions or REF codes inferred."
+    ]
+  },
+  "subcategories": [],
+  "imageDimensions": {
+    "/images/products/double-medical/tina-spine-5-5-6-0-system/tina-legacy-alternate.webp": {
+      "width": 450,
+      "height": 636
+    }
+  },
+  "legacySources": [
+    {
+      "productId": "tina",
+      "language": "ru",
+      "url": "https://xpmed.uz/product/double-medical/stenocostal-plate-ru/sistema-tina/sistema-transpedikulyarnyh-vintov-tina/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    },
+    {
+      "productId": "tina",
+      "language": "en",
+      "url": "https://xpmed.uz/product/double-medical-en/stenocostal-plate/tina-system/tina-spine-5-5-6-0-system/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    }
+  ]
+}

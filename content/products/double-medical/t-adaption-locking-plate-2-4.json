@@ -1,0 +1,1857 @@
+{
+  "slug": "t-adaption-locking-plate-2-4",
+  "brand": "double-medical",
+  "category": "trauma-implants",
+  "subcategory": "trauma-mini-fragment",
+  "subcategories": [
+    "trauma-mini-fragment"
+  ],
+  "specialty": [
+    "traumatology",
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "T-образная моделируемая блокируемая пластина 2.4",
+    "en": "T-Adaption Locking Plate 2.4"
+  },
+  "shortDescription": {
+    "ru": "Импланты для остеосинтеза",
+    "en": "Implants for fracture fixation"
+  },
+  "description": {
+    "ru": "T-образная моделируемая блокируемая пластина 2.4. Характеристики и каталожные номера приведены по Trauma Catalogue Double Medical.",
+    "en": "T-Adaption Locking Plate 2.4. Specifications and reference numbers are listed according to the Double Medical Trauma Catalogue."
+  },
+  "heroImage": "/images/products/double-medical/t-adaption-locking-plate-2-4/page-285-art-01.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "width": 608,
+      "height": 206,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          272,
+          72
+        ],
+        "enhancedSize": [
+          544,
+          144
+        ]
+      },
+      "src": "/images/products/double-medical/t-adaption-locking-plate-2-4/page-285-art-01.webp",
+      "imageCaption": {
+        "ru": "T-образная моделируемая блокируемая пластина 2.4",
+        "en": "T-Adaption Locking Plate 2.4"
+      },
+      "sourcePages": [
+        285
+      ]
+    }
+  ],
+  "features": [],
+  "components": [],
+  "specTables": [
+    {
+      "id": "trauma-p285-1",
+      "groupId": "trauma-p285-1",
+      "title": {
+        "ru": "T-образная моделируемая блокируемая пластина 2.4",
+        "en": "T-Adaption Locking Plate 2.4"
+      },
+      "unit": "mm",
+      "sourcePage": 285,
+      "sourcePages": [
+        285
+      ],
+      "printedPage": "6/9",
+      "hideDescriptionColumn": true,
+      "columns": [
+        {
+          "ru": "Позиция",
+          "en": "Item"
+        },
+        {
+          "ru": "REF",
+          "en": "REF"
+        },
+        {
+          "ru": "Отверстия",
+          "en": "Holes"
+        },
+        {
+          "ru": "Длина",
+          "en": "Length"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "T-образная моделируемая блокируемая пластина 2.4 · Отверстия: 3, Длина: 29",
+            "en": "T-Adaption Locking Plate 2.4 · Holes: 3, Length: 29"
+          },
+          "021120003",
+          {
+            "ru": "3",
+            "en": "3"
+          },
+          {
+            "ru": "29",
+            "en": "29"
+          }
+        ],
+        [
+          {
+            "ru": "T-образная моделируемая блокируемая пластина 2.4 · Отверстия: 5, Длина: 43.5",
+            "en": "T-Adaption Locking Plate 2.4 · Holes: 5, Length: 43.5"
+          },
+          "021120005",
+          {
+            "ru": "5",
+            "en": "5"
+          },
+          {
+            "ru": "43.5",
+            "en": "43.5"
+          }
+        ],
+        [
+          {
+            "ru": "T-образная моделируемая блокируемая пластина 2.4 · Отверстия: 7, Длина: 58",
+            "en": "T-Adaption Locking Plate 2.4 · Holes: 7, Length: 58"
+          },
+          "021120007",
+          {
+            "ru": "7",
+            "en": "7"
+          },
+          {
+            "ru": "58",
+            "en": "58"
+          }
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 285,
+          "printedPage": "6/9",
+          "sourceBounds": [
+            0.08,
+            0.26954940324789667,
+            0.5673319798980815,
+            0.2855278810408922
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p285-1",
+              "row": 1,
+              "column": 2,
+              "pdfPage": 285,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "021120003"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "021120003"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "021120003"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "021120003",
+                "PSM11": "021120003",
+                "Vision": "021120003"
+              },
+              "value": "021120003",
+              "bounds": [
+                0.13353441184535234,
+                0.27254940324789667,
+                0.2199067726898821,
+                0.2825278810408922
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "021120003"
+            },
+            {
+              "readings": {
+                "PSM3": "3",
+                "PSM11": "3",
+                "Vision": "3"
+              },
+              "value": "3",
+              "glyphReading": {
+                "text": "3",
+                "scores": [
+                  {
+                    "character": "3",
+                    "distance": 0.03517156862745098,
+                    "margin": 0.0909594566993464
+                  }
+                ],
+                "sourceRect": [
+                  112.87200164794922,
+                  167.322998046875,
+                  116.50800323486328,
+                  173.37200927734375
+                ]
+              },
+              "verifiedValue": "3"
+            },
+            {
+              "readings": {
+                "PSM3": "29",
+                "PSM11": "29",
+                "Vision": "29"
+              },
+              "value": "29",
+              "glyphReading": {
+                "text": "29",
+                "scores": [
+                  {
+                    "character": "2",
+                    "distance": 0.0013735702614379082,
+                    "margin": 0.29129391339869276
+                  },
+                  {
+                    "character": "9",
+                    "distance": 0.0,
+                    "margin": 0.1729792938008537
+                  }
+                ],
+                "sourceRect": [
+                  181.1280059814453,
+                  167.19900512695312,
+                  189.18600463867188,
+                  173.24398803710938
+                ]
+              },
+              "verifiedValue": "29"
+            }
+          ]
+        },
+        {
+          "pdfPage": 285,
+          "printedPage": "6/9",
+          "sourceBounds": [
+            0.08,
+            0.2842236352964195,
+            0.5673319798980815,
+            0.30020211308941497
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p285-1",
+              "row": 2,
+              "column": 2,
+              "pdfPage": 285,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "021120005"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "021120005"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "021120005"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "021120005",
+                "PSM11": "021120005",
+                "Vision": "021120005"
+              },
+              "value": "021120005",
+              "bounds": [
+                0.13353441184535234,
+                0.2872236352964195,
+                0.2201809706608171,
+                0.29720211308941497
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "021120005"
+            },
+            {
+              "readings": {
+                "PSM3": "5",
+                "PSM11": "5",
+                "Vision": "5"
+              },
+              "value": "5",
+              "glyphReading": {
+                "text": "5",
+                "scores": [
+                  {
+                    "character": "5",
+                    "distance": 0.007493361928104576,
+                    "margin": 0.18454741063091903
+                  }
+                ],
+                "sourceRect": [
+                  112.86699676513672,
+                  176.44900512695312,
+                  116.55000305175781,
+                  182.38699340820312
+                ]
+              },
+              "verifiedValue": "5"
+            },
+            {
+              "readings": {
+                "PSM3": "43.5",
+                "PSM11": "43.5",
+                "Vision": "43.5"
+              },
+              "value": "43.5",
+              "glyphReading": {
+                "text": "43.5",
+                "scores": [
+                  {
+                    "character": "4",
+                    "distance": 0.0012765522875816994,
+                    "margin": 0.4007716628317994
+                  },
+                  {
+                    "character": "3",
+                    "distance": 0.0040339052287581695,
+                    "margin": 0.11499948937908497
+                  },
+                  {
+                    "character": ".",
+                    "distance": 0.0,
+                    "margin": 1.0
+                  },
+                  {
+                    "character": "5",
+                    "distance": 0.002706290849673203,
+                    "margin": 0.1890025781145792
+                  }
+                ],
+                "sourceRect": [
+                  180.9980010986328,
+                  176.218994140625,
+                  195.6840057373047,
+                  182.26800537109375
+                ]
+              },
+              "verifiedValue": "43.5"
+            }
+          ]
+        },
+        {
+          "pdfPage": 285,
+          "printedPage": "6/9",
+          "sourceBounds": [
+            0.08,
+            0.2988978673449423,
+            0.5673319798980815,
+            0.3148763451379378
+          ],
+          "codeEvidence": [
+            {
+              "tableId": "trauma-p285-1",
+              "row": 3,
+              "column": 2,
+              "pdfPage": 285,
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "021120007"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "021120007"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "021120007"
+                }
+              ],
+              "verificationStatus": "verified (three readers compared; exact agreement)"
+            }
+          ],
+          "cellEvidence": [
+            {
+              "readings": {
+                "PSM3": "021120007",
+                "PSM11": "021120007",
+                "Vision": "021120007"
+              },
+              "value": "021120007",
+              "bounds": [
+                0.13353441184535234,
+                0.3018978673449423,
+                0.2199067726898821,
+                0.31187634513793777
+              ],
+              "sourceBlank": false,
+              "verifiedValue": "021120007"
+            },
+            {
+              "readings": {
+                "PSM3": "7",
+                "PSM11": "7",
+                "Vision": "7"
+              },
+              "value": "7",
+              "glyphReading": {
+                "text": "7",
+                "scores": [
+                  {
+                    "character": "7",
+                    "distance": 0.0,
+                    "margin": 0.3790918763338669
+                  }
+                ],
+                "sourceRect": [
+                  112.91300201416016,
+                  185.4639892578125,
+                  116.50800323486328,
+                  191.3070068359375
+                ]
+              },
+              "verifiedValue": "7"
+            },
+            {
+              "readings": {
+                "PSM3": "58",
+                "PSM11": "58",
+                "Vision": "58"
+              },
+              "value": "58",
+              "glyphReading": {
+                "text": "58",
+                "scores": [
+                  {
+                    "character": "5",
+                    "distance": 0.003377757352941176,
+                    "margin": 0.18433805605575562
+                  },
+                  {
+                    "character": "8",
+                    "distance": 0.004005821078431372,
+                    "margin": 0.11985038807189544
+                  }
+                ],
+                "sourceRect": [
+                  181.22000122070312,
+                  185.239013671875,
+                  189.18600463867188,
+                  191.28298950195312
+                ]
+              },
+              "verifiedValue": "58"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "width": 608,
+          "height": 206,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              272,
+              72
+            ],
+            "enhancedSize": [
+              544,
+              144
+            ]
+          },
+          "src": "/images/products/double-medical/t-adaption-locking-plate-2-4/page-285-art-01.webp",
+          "imageCaption": {
+            "ru": "T-образная моделируемая блокируемая пластина 2.4",
+            "en": "T-Adaption Locking Plate 2.4"
+          },
+          "sourcePages": [
+            285
+          ]
+        }
+      ],
+      "keyParameters": [
+        {
+          "parameter": {
+            "ru": "Толщина",
+            "en": "Thickness"
+          },
+          "value": {
+            "ru": "1.3 мм",
+            "en": "1.3mm"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Ширина",
+            "en": "Width"
+          },
+          "value": {
+            "ru": "6.4 мм",
+            "en": "6.4mm"
+          }
+        },
+        {
+          "parameter": {
+            "ru": "Материал",
+            "en": "Material"
+          },
+          "value": {
+            "ru": "чистый титан",
+            "en": "Pure Titanium"
+          }
+        }
+      ]
+    }
+  ],
+  "refCodes": [
+    "021120003",
+    "021120005",
+    "021120007"
+  ],
+  "sourcePages": [
+    285
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "Double Medical Trauma Catalogue — каталог продукции",
+    "en": "Double Medical Trauma Catalogue — product catalog"
+  },
+  "documentCover": "/catalogs/double-medical/trauma-catalogue/pages/001.webp",
+  "isNew": false,
+  "status": "published",
+  "catalogType": "list",
+  "importPartition": "trauma-part2",
+  "availabilityNote": {
+    "ru": "Изображения приведены для справки",
+    "en": "Images for reference only"
+  },
+  "imageDimensions": {
+    "/images/products/double-medical/t-adaption-locking-plate-2-4/page-285-art-01.webp": {
+      "width": 608,
+      "height": 206
+    }
+  },
+  "relatedSystemSlugs": [
+    "mini-locking-instrument-set"
+  ],
+  "sourcePdf": "/catalogs/double-medical/trauma-catalogue/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/double-medical/trauma-catalogue/pages/285.webp"
+  ],
+  "sourcePageDimensions": {
+    "212": {
+      "width": 3647,
+      "height": 5111
+    },
+    "213": {
+      "width": 3647,
+      "height": 5111
+    },
+    "214": {
+      "width": 3647,
+      "height": 5111
+    },
+    "215": {
+      "width": 3647,
+      "height": 5111
+    },
+    "216": {
+      "width": 3647,
+      "height": 5111
+    },
+    "217": {
+      "width": 3647,
+      "height": 5111
+    },
+    "218": {
+      "width": 3647,
+      "height": 5111
+    },
+    "219": {
+      "width": 3647,
+      "height": 5111
+    },
+    "220": {
+      "width": 3647,
+      "height": 5111
+    },
+    "221": {
+      "width": 3647,
+      "height": 5111
+    },
+    "222": {
+      "width": 3647,
+      "height": 5111
+    },
+    "223": {
+      "width": 3647,
+      "height": 5111
+    },
+    "224": {
+      "width": 3647,
+      "height": 5111
+    },
+    "225": {
+      "width": 3647,
+      "height": 5111
+    },
+    "226": {
+      "width": 3647,
+      "height": 5111
+    },
+    "227": {
+      "width": 3647,
+      "height": 5111
+    },
+    "228": {
+      "width": 3647,
+      "height": 5111
+    },
+    "229": {
+      "width": 3647,
+      "height": 5111
+    },
+    "230": {
+      "width": 3647,
+      "height": 5111
+    },
+    "231": {
+      "width": 3647,
+      "height": 5111
+    },
+    "232": {
+      "width": 3647,
+      "height": 5111
+    },
+    "233": {
+      "width": 3647,
+      "height": 5111
+    },
+    "234": {
+      "width": 3647,
+      "height": 5111
+    },
+    "235": {
+      "width": 3647,
+      "height": 5111
+    },
+    "236": {
+      "width": 3647,
+      "height": 5111
+    },
+    "237": {
+      "width": 3647,
+      "height": 5111
+    },
+    "238": {
+      "width": 3647,
+      "height": 5111
+    },
+    "239": {
+      "width": 3647,
+      "height": 5111
+    },
+    "240": {
+      "width": 3647,
+      "height": 5111
+    },
+    "241": {
+      "width": 3647,
+      "height": 5111
+    },
+    "242": {
+      "width": 3647,
+      "height": 5111
+    },
+    "243": {
+      "width": 3647,
+      "height": 5111
+    },
+    "244": {
+      "width": 3647,
+      "height": 5111
+    },
+    "245": {
+      "width": 3647,
+      "height": 5111
+    },
+    "246": {
+      "width": 3647,
+      "height": 5111
+    },
+    "247": {
+      "width": 3647,
+      "height": 5111
+    },
+    "248": {
+      "width": 3647,
+      "height": 5111
+    },
+    "249": {
+      "width": 3647,
+      "height": 5111
+    },
+    "250": {
+      "width": 3647,
+      "height": 5111
+    },
+    "251": {
+      "width": 3647,
+      "height": 5111
+    },
+    "252": {
+      "width": 3647,
+      "height": 5111
+    },
+    "253": {
+      "width": 3647,
+      "height": 5111
+    },
+    "254": {
+      "width": 3647,
+      "height": 5111
+    },
+    "255": {
+      "width": 3647,
+      "height": 5111
+    },
+    "256": {
+      "width": 3647,
+      "height": 5111
+    },
+    "257": {
+      "width": 3647,
+      "height": 5111
+    },
+    "258": {
+      "width": 3647,
+      "height": 5111
+    },
+    "259": {
+      "width": 3647,
+      "height": 5111
+    },
+    "260": {
+      "width": 3647,
+      "height": 5111
+    },
+    "261": {
+      "width": 3647,
+      "height": 5111
+    },
+    "262": {
+      "width": 3647,
+      "height": 5111
+    },
+    "263": {
+      "width": 3647,
+      "height": 5111
+    },
+    "264": {
+      "width": 3647,
+      "height": 5111
+    },
+    "265": {
+      "width": 3647,
+      "height": 5111
+    },
+    "266": {
+      "width": 3647,
+      "height": 5111
+    },
+    "267": {
+      "width": 3647,
+      "height": 5111
+    },
+    "268": {
+      "width": 3647,
+      "height": 5111
+    },
+    "269": {
+      "width": 3647,
+      "height": 5111
+    },
+    "270": {
+      "width": 3647,
+      "height": 5111
+    },
+    "271": {
+      "width": 3647,
+      "height": 5111
+    },
+    "272": {
+      "width": 3647,
+      "height": 5111
+    },
+    "273": {
+      "width": 3647,
+      "height": 5111
+    },
+    "274": {
+      "width": 3647,
+      "height": 5111
+    },
+    "275": {
+      "width": 3647,
+      "height": 5111
+    },
+    "278": {
+      "width": 3647,
+      "height": 5111
+    },
+    "279": {
+      "width": 3647,
+      "height": 5111
+    },
+    "280": {
+      "width": 3647,
+      "height": 5111
+    },
+    "281": {
+      "width": 3647,
+      "height": 5111
+    },
+    "282": {
+      "width": 3647,
+      "height": 5111
+    },
+    "283": {
+      "width": 3647,
+      "height": 5111
+    },
+    "284": {
+      "width": 3647,
+      "height": 5111
+    },
+    "285": {
+      "width": 3647,
+      "height": 5111
+    },
+    "286": {
+      "width": 3647,
+      "height": 5111
+    },
+    "287": {
+      "width": 3647,
+      "height": 5111
+    },
+    "288": {
+      "width": 3647,
+      "height": 5111
+    },
+    "289": {
+      "width": 3647,
+      "height": 5111
+    },
+    "290": {
+      "width": 3647,
+      "height": 5111
+    },
+    "291": {
+      "width": 3647,
+      "height": 5111
+    },
+    "292": {
+      "width": 3647,
+      "height": 5111
+    },
+    "293": {
+      "width": 3647,
+      "height": 5111
+    },
+    "294": {
+      "width": 3647,
+      "height": 5111
+    },
+    "295": {
+      "width": 3647,
+      "height": 5111
+    },
+    "296": {
+      "width": 3647,
+      "height": 5111
+    },
+    "298": {
+      "width": 3647,
+      "height": 5111
+    },
+    "299": {
+      "width": 3647,
+      "height": 5111
+    },
+    "300": {
+      "width": 3647,
+      "height": 5111
+    },
+    "301": {
+      "width": 3647,
+      "height": 5111
+    },
+    "302": {
+      "width": 3647,
+      "height": 5111
+    },
+    "303": {
+      "width": 3647,
+      "height": 5111
+    },
+    "304": {
+      "width": 3647,
+      "height": 5111
+    },
+    "305": {
+      "width": 3647,
+      "height": 5111
+    },
+    "308": {
+      "width": 3647,
+      "height": 5111
+    },
+    "309": {
+      "width": 3647,
+      "height": 5111
+    },
+    "310": {
+      "width": 3647,
+      "height": 5111
+    },
+    "311": {
+      "width": 3647,
+      "height": 5111
+    },
+    "312": {
+      "width": 3647,
+      "height": 5111
+    },
+    "313": {
+      "width": 3647,
+      "height": 5111
+    },
+    "314": {
+      "width": 3647,
+      "height": 5111
+    },
+    "315": {
+      "width": 3647,
+      "height": 5111
+    },
+    "316": {
+      "width": 3647,
+      "height": 5111
+    },
+    "317": {
+      "width": 3647,
+      "height": 5111
+    },
+    "318": {
+      "width": 3647,
+      "height": 5111
+    },
+    "322": {
+      "width": 3647,
+      "height": 5111
+    },
+    "323": {
+      "width": 3647,
+      "height": 5111
+    },
+    "324": {
+      "width": 3647,
+      "height": 5111
+    },
+    "325": {
+      "width": 3647,
+      "height": 5111
+    },
+    "326": {
+      "width": 3647,
+      "height": 5111
+    },
+    "327": {
+      "width": 3647,
+      "height": 5111
+    },
+    "328": {
+      "width": 3647,
+      "height": 5111
+    },
+    "329": {
+      "width": 3647,
+      "height": 5111
+    },
+    "330": {
+      "width": 3647,
+      "height": 5111
+    },
+    "331": {
+      "width": 3647,
+      "height": 5111
+    },
+    "332": {
+      "width": 3647,
+      "height": 5111
+    },
+    "333": {
+      "width": 3647,
+      "height": 5111
+    },
+    "334": {
+      "width": 3647,
+      "height": 5111
+    },
+    "335": {
+      "width": 3647,
+      "height": 5111
+    },
+    "336": {
+      "width": 3647,
+      "height": 5111
+    },
+    "337": {
+      "width": 3647,
+      "height": 5111
+    },
+    "338": {
+      "width": 3647,
+      "height": 5111
+    },
+    "339": {
+      "width": 3647,
+      "height": 5111
+    },
+    "340": {
+      "width": 3647,
+      "height": 5111
+    },
+    "341": {
+      "width": 3647,
+      "height": 5111
+    },
+    "342": {
+      "width": 3647,
+      "height": 5111
+    },
+    "343": {
+      "width": 3647,
+      "height": 5111
+    },
+    "344": {
+      "width": 3647,
+      "height": 5111
+    },
+    "345": {
+      "width": 3647,
+      "height": 5111
+    },
+    "346": {
+      "width": 3647,
+      "height": 5111
+    },
+    "347": {
+      "width": 3647,
+      "height": 5111
+    },
+    "348": {
+      "width": 3647,
+      "height": 5111
+    },
+    "349": {
+      "width": 3647,
+      "height": 5111
+    },
+    "350": {
+      "width": 3647,
+      "height": 5111
+    },
+    "351": {
+      "width": 3647,
+      "height": 5111
+    },
+    "352": {
+      "width": 3647,
+      "height": 5111
+    },
+    "353": {
+      "width": 3647,
+      "height": 5111
+    },
+    "354": {
+      "width": 3647,
+      "height": 5111
+    },
+    "355": {
+      "width": 3647,
+      "height": 5111
+    },
+    "356": {
+      "width": 3647,
+      "height": 5111
+    },
+    "357": {
+      "width": 3647,
+      "height": 5111
+    },
+    "358": {
+      "width": 3647,
+      "height": 5111
+    },
+    "359": {
+      "width": 3647,
+      "height": 5111
+    },
+    "360": {
+      "width": 3647,
+      "height": 5111
+    },
+    "361": {
+      "width": 3647,
+      "height": 5111
+    },
+    "362": {
+      "width": 3647,
+      "height": 5111
+    },
+    "363": {
+      "width": 3647,
+      "height": 5111
+    },
+    "364": {
+      "width": 3647,
+      "height": 5111
+    },
+    "365": {
+      "width": 3647,
+      "height": 5111
+    },
+    "366": {
+      "width": 3647,
+      "height": 5111
+    },
+    "367": {
+      "width": 3647,
+      "height": 5111
+    },
+    "368": {
+      "width": 3647,
+      "height": 5111
+    },
+    "369": {
+      "width": 3647,
+      "height": 5111
+    },
+    "370": {
+      "width": 3647,
+      "height": 5111
+    },
+    "371": {
+      "width": 3647,
+      "height": 5111
+    },
+    "372": {
+      "width": 3647,
+      "height": 5111
+    },
+    "373": {
+      "width": 3647,
+      "height": 5111
+    },
+    "374": {
+      "width": 3647,
+      "height": 5111
+    },
+    "375": {
+      "width": 3647,
+      "height": 5111
+    },
+    "376": {
+      "width": 3647,
+      "height": 5111
+    },
+    "377": {
+      "width": 3647,
+      "height": 5111
+    },
+    "378": {
+      "width": 3647,
+      "height": 5111
+    },
+    "379": {
+      "width": 3647,
+      "height": 5111
+    },
+    "380": {
+      "width": 3647,
+      "height": 5111
+    },
+    "381": {
+      "width": 3647,
+      "height": 5111
+    },
+    "382": {
+      "width": 3647,
+      "height": 5111
+    },
+    "383": {
+      "width": 3647,
+      "height": 5111
+    },
+    "384": {
+      "width": 3647,
+      "height": 5111
+    },
+    "385": {
+      "width": 3647,
+      "height": 5111
+    },
+    "386": {
+      "width": 3647,
+      "height": 5111
+    },
+    "387": {
+      "width": 3647,
+      "height": 5111
+    },
+    "388": {
+      "width": 3647,
+      "height": 5111
+    },
+    "389": {
+      "width": 3647,
+      "height": 5111
+    },
+    "390": {
+      "width": 3647,
+      "height": 5111
+    },
+    "391": {
+      "width": 3647,
+      "height": 5111
+    },
+    "392": {
+      "width": 3647,
+      "height": 5111
+    },
+    "393": {
+      "width": 3647,
+      "height": 5111
+    },
+    "394": {
+      "width": 3647,
+      "height": 5111
+    },
+    "395": {
+      "width": 3647,
+      "height": 5111
+    },
+    "396": {
+      "width": 3647,
+      "height": 5111
+    },
+    "397": {
+      "width": 3647,
+      "height": 5111
+    },
+    "398": {
+      "width": 3647,
+      "height": 5111
+    },
+    "399": {
+      "width": 3647,
+      "height": 5111
+    },
+    "400": {
+      "width": 3647,
+      "height": 5111
+    },
+    "401": {
+      "width": 3647,
+      "height": 5111
+    },
+    "402": {
+      "width": 3647,
+      "height": 5111
+    },
+    "403": {
+      "width": 3647,
+      "height": 5111
+    },
+    "404": {
+      "width": 3647,
+      "height": 5111
+    },
+    "405": {
+      "width": 3647,
+      "height": 5111
+    },
+    "406": {
+      "width": 3647,
+      "height": 5111
+    },
+    "407": {
+      "width": 3647,
+      "height": 5111
+    },
+    "408": {
+      "width": 3647,
+      "height": 5111
+    },
+    "409": {
+      "width": 3647,
+      "height": 5111
+    },
+    "410": {
+      "width": 3647,
+      "height": 5111
+    },
+    "411": {
+      "width": 3647,
+      "height": 5111
+    },
+    "412": {
+      "width": 3647,
+      "height": 5111
+    },
+    "413": {
+      "width": 3647,
+      "height": 5111
+    },
+    "414": {
+      "width": 3647,
+      "height": 5111
+    },
+    "415": {
+      "width": 3647,
+      "height": 5111
+    },
+    "416": {
+      "width": 3647,
+      "height": 5111
+    },
+    "417": {
+      "width": 3647,
+      "height": 5111
+    },
+    "418": {
+      "width": 3647,
+      "height": 5111
+    },
+    "419": {
+      "width": 3647,
+      "height": 5111
+    },
+    "420": {
+      "width": 3647,
+      "height": 5111
+    },
+    "421": {
+      "width": 3647,
+      "height": 5111
+    },
+    "422": {
+      "width": 3647,
+      "height": 5111
+    },
+    "423": {
+      "width": 3647,
+      "height": 5111
+    },
+    "424": {
+      "width": 3647,
+      "height": 5111
+    },
+    "425": {
+      "width": 3647,
+      "height": 5111
+    },
+    "426": {
+      "width": 3647,
+      "height": 5111
+    },
+    "427": {
+      "width": 3647,
+      "height": 5111
+    },
+    "428": {
+      "width": 3647,
+      "height": 5111
+    },
+    "429": {
+      "width": 3647,
+      "height": 5111
+    },
+    "430": {
+      "width": 3647,
+      "height": 5111
+    },
+    "431": {
+      "width": 3647,
+      "height": 5111
+    },
+    "432": {
+      "width": 3647,
+      "height": 5111
+    },
+    "433": {
+      "width": 3647,
+      "height": 5111
+    },
+    "434": {
+      "width": 3647,
+      "height": 5111
+    },
+    "435": {
+      "width": 3647,
+      "height": 5111
+    },
+    "436": {
+      "width": 3647,
+      "height": 5111
+    },
+    "437": {
+      "width": 3647,
+      "height": 5111
+    },
+    "438": {
+      "width": 3647,
+      "height": 5111
+    },
+    "439": {
+      "width": 3647,
+      "height": 5111
+    },
+    "440": {
+      "width": 3647,
+      "height": 5111
+    },
+    "441": {
+      "width": 3647,
+      "height": 5111
+    },
+    "442": {
+      "width": 3647,
+      "height": 5111
+    },
+    "443": {
+      "width": 3647,
+      "height": 5111
+    },
+    "444": {
+      "width": 3647,
+      "height": 5111
+    },
+    "445": {
+      "width": 3647,
+      "height": 5111
+    },
+    "446": {
+      "width": 3647,
+      "height": 5111
+    },
+    "447": {
+      "width": 3647,
+      "height": 5111
+    },
+    "448": {
+      "width": 3647,
+      "height": 5111
+    },
+    "449": {
+      "width": 3647,
+      "height": 5111
+    },
+    "450": {
+      "width": 3647,
+      "height": 5111
+    },
+    "451": {
+      "width": 3647,
+      "height": 5111
+    },
+    "452": {
+      "width": 3647,
+      "height": 5111
+    },
+    "453": {
+      "width": 3647,
+      "height": 5111
+    },
+    "454": {
+      "width": 3647,
+      "height": 5111
+    },
+    "455": {
+      "width": 3647,
+      "height": 5111
+    },
+    "456": {
+      "width": 3647,
+      "height": 5111
+    },
+    "457": {
+      "width": 3647,
+      "height": 5111
+    },
+    "458": {
+      "width": 3647,
+      "height": 5111
+    },
+    "459": {
+      "width": 3647,
+      "height": 5111
+    },
+    "460": {
+      "width": 3647,
+      "height": 5111
+    },
+    "461": {
+      "width": 3647,
+      "height": 5111
+    },
+    "462": {
+      "width": 3647,
+      "height": 5111
+    },
+    "463": {
+      "width": 3647,
+      "height": 5111
+    },
+    "464": {
+      "width": 3647,
+      "height": 5111
+    },
+    "465": {
+      "width": 3647,
+      "height": 5111
+    },
+    "466": {
+      "width": 3647,
+      "height": 5111
+    },
+    "467": {
+      "width": 3647,
+      "height": 5111
+    },
+    "468": {
+      "width": 3647,
+      "height": 5111
+    },
+    "469": {
+      "width": 3647,
+      "height": 5111
+    },
+    "470": {
+      "width": 3647,
+      "height": 5111
+    },
+    "471": {
+      "width": 3647,
+      "height": 5111
+    },
+    "472": {
+      "width": 3647,
+      "height": 5111
+    },
+    "473": {
+      "width": 3647,
+      "height": 5111
+    },
+    "474": {
+      "width": 3647,
+      "height": 5111
+    },
+    "475": {
+      "width": 3647,
+      "height": 5111
+    },
+    "476": {
+      "width": 3647,
+      "height": 5111
+    },
+    "477": {
+      "width": 3647,
+      "height": 5111
+    },
+    "478": {
+      "width": 3647,
+      "height": 5111
+    },
+    "479": {
+      "width": 3647,
+      "height": 5111
+    },
+    "480": {
+      "width": 3647,
+      "height": 5111
+    },
+    "481": {
+      "width": 3647,
+      "height": 5111
+    },
+    "482": {
+      "width": 3647,
+      "height": 5111
+    },
+    "483": {
+      "width": 3647,
+      "height": 5111
+    },
+    "484": {
+      "width": 3647,
+      "height": 5111
+    },
+    "485": {
+      "width": 3647,
+      "height": 5111
+    },
+    "486": {
+      "width": 3647,
+      "height": 5111
+    },
+    "487": {
+      "width": 3647,
+      "height": 5111
+    },
+    "488": {
+      "width": 3647,
+      "height": 5111
+    },
+    "489": {
+      "width": 3647,
+      "height": 5111
+    },
+    "490": {
+      "width": 3647,
+      "height": 5111
+    },
+    "491": {
+      "width": 3647,
+      "height": 5111
+    },
+    "492": {
+      "width": 3647,
+      "height": 5111
+    },
+    "493": {
+      "width": 3647,
+      "height": 5111
+    },
+    "494": {
+      "width": 3647,
+      "height": 5111
+    },
+    "495": {
+      "width": 3647,
+      "height": 5111
+    },
+    "496": {
+      "width": 3647,
+      "height": 5111
+    },
+    "497": {
+      "width": 3647,
+      "height": 5111
+    },
+    "498": {
+      "width": 3647,
+      "height": 5111
+    },
+    "499": {
+      "width": 3647,
+      "height": 5111
+    },
+    "500": {
+      "width": 3647,
+      "height": 5111
+    },
+    "501": {
+      "width": 3647,
+      "height": 5111
+    },
+    "502": {
+      "width": 3647,
+      "height": 5111
+    },
+    "503": {
+      "width": 3647,
+      "height": 5111
+    },
+    "504": {
+      "width": 3647,
+      "height": 5111
+    },
+    "505": {
+      "width": 3647,
+      "height": 5111
+    },
+    "506": {
+      "width": 3647,
+      "height": 5111
+    },
+    "507": {
+      "width": 3647,
+      "height": 5111
+    },
+    "508": {
+      "width": 3647,
+      "height": 5111
+    },
+    "509": {
+      "width": 3647,
+      "height": 5111
+    },
+    "510": {
+      "width": 3647,
+      "height": 5111
+    },
+    "511": {
+      "width": 3647,
+      "height": 5111
+    },
+    "512": {
+      "width": 3647,
+      "height": 5111
+    },
+    "513": {
+      "width": 3647,
+      "height": 5111
+    },
+    "514": {
+      "width": 3647,
+      "height": 5111
+    },
+    "515": {
+      "width": 3647,
+      "height": 5111
+    },
+    "516": {
+      "width": 3647,
+      "height": 5111
+    },
+    "517": {
+      "width": 3647,
+      "height": 5111
+    },
+    "518": {
+      "width": 3647,
+      "height": 5111
+    },
+    "519": {
+      "width": 3647,
+      "height": 5111
+    },
+    "520": {
+      "width": 3647,
+      "height": 5111
+    },
+    "521": {
+      "width": 3647,
+      "height": 5111
+    },
+    "522": {
+      "width": 3647,
+      "height": 5111
+    },
+    "523": {
+      "width": 3647,
+      "height": 5111
+    },
+    "524": {
+      "width": 3647,
+      "height": 5111
+    },
+    "525": {
+      "width": 3647,
+      "height": 5111
+    },
+    "526": {
+      "width": 3647,
+      "height": 5111
+    },
+    "527": {
+      "width": 3647,
+      "height": 5111
+    }
+  },
+  "review": {
+    "sourceSha256": "3f2755d7646453cd1d8981369406a66062322971a7cb98258e022ae9b9769999",
+    "importMethod": "600-DPI Tesseract PSM3/11 plus independent Apple Vision; source glyph reconciliation and Codex visual reading; Codex medical RU; native photo composites, original Real-ESRGAN weights exact 2x then rembg",
+    "flags": [],
+    "status": "source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      211,
+      277,
+      307,
+      321,
+      276,
+      297,
+      306,
+      319,
+      320,
+      528
+    ],
+    "translatedFields": [
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "gallery.0.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.columns.2.ru",
+      "specTables.0.columns.3.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.0.2.ru",
+      "specTables.0.rows.0.3.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.1.2.ru",
+      "specTables.0.rows.1.3.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.rows.2.2.ru",
+      "specTables.0.rows.2.3.ru",
+      "specTables.0.images.0.imageCaption.ru",
+      "specTables.0.keyParameters.0.parameter.ru",
+      "specTables.0.keyParameters.0.value.ru",
+      "specTables.0.keyParameters.1.parameter.ru",
+      "specTables.0.keyParameters.1.value.ru",
+      "specTables.0.keyParameters.2.parameter.ru",
+      "specTables.0.keyParameters.2.value.ru",
+      "catalogTitle.ru",
+      "availabilityNote.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publicationDecision": "Owner authorized publication with zero real flags after three-reader source verification, Codex medical RU/EN and image QA.",
+    "imageQA": "Original native photos preserved; Real-ESRGAN exact 2x before rembg; every final photo reviewed; composite photos matched to individual source rows."
+  },
+  "publishedAt": "2026-11-20T20:31:18.324056+00:00"
+}

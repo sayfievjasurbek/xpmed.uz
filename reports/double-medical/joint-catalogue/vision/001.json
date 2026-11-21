@@ -1,0 +1,54 @@
+[
+  {
+    "alternatives" : [
+      "XPmed"
+    ],
+    "bounds" : [
+      0.24789198105746291,
+      0.12609380443260876,
+      0.55047868830452029,
+      0.18059224228380311
+    ],
+    "confidence" : 1,
+    "text" : "XPmed"
+  },
+  {
+    "alternatives" : [
+      "MEDICAL COMPANY"
+    ],
+    "bounds" : [
+      0.2566191453938233,
+      0.1845238093741266,
+      0.43991853543247861,
+      0.19767441857598167
+    ],
+    "confidence" : 1,
+    "text" : "MEDICAL COMPANY"
+  },
+  {
+    "alternatives" : [
+      "Joint Catalogue"
+    ],
+    "bounds" : [
+      0.4399185449802035,
+      0.34447674507511439,
+      0.8655804392264248,
+      0.38517441808556208
+    ],
+    "confidence" : 1,
+    "text" : "Joint Catalogue"
+  },
+  {
+    "alternatives" : [
+      "Dedicated to Rehabilitation"
+    ],
+    "bounds" : [
+      0.75152749282064435,
+      0.92005813954132976,
+      0.9164969417346851,
+      0.93030753949096356
+    ],
+    "confidence" : 1,
+    "text" : "Dedicated to Rehabilitation"
+  }
+]

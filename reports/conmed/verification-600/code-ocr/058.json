@@ -1,0 +1,106 @@
+{
+  "id": 58,
+  "bounds": [
+    0.8370181960477402,
+    0.451018699413899,
+    0.9090197612991586,
+    0.46692715601451296
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "UQL6103",
+      "confidence": 87.642288,
+      "words": [
+        {
+          "text": "UQL6103",
+          "confidence": 87.642288,
+          "pixelBounds": [
+            4322,
+            3241,
+            4568,
+            3302
+          ],
+          "lineId": "13.14.1",
+          "bounds": [
+            0.8456270788495402,
+            0.45227463019815795,
+            0.893758559968695,
+            0.46078704995813563
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "UQL6103",
+      "confidence": 92.102478,
+      "words": [
+        {
+          "text": "UQL6103",
+          "confidence": 92.102478,
+          "pixelBounds": [
+            4322,
+            3241,
+            4568,
+            3302
+          ],
+          "lineId": "67.1.1",
+          "bounds": [
+            0.8456270788495402,
+            0.45227463019815795,
+            0.893758559968695,
+            0.46078704995813563
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": ". UQL6103",
+      "confidence": 32.452499,
+      "words": [
+        {
+          "text": ".",
+          "confidence": 32.452499,
+          "pixelBounds": [
+            13,
+            59,
+            18,
+            67
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "UQL6103",
+          "confidence": 70.19075,
+          "pixelBounds": [
+            44,
+            9,
+            290,
+            69
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "~UQL6103",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "~UQL6103",
+          "confidence": 0.0,
+          "pixelBounds": [
+            13,
+            9,
+            290,
+            69
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

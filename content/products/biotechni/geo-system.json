@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "slug": "geo-system",
+  "brand": "biotechni",
+  "category": "joint-replacement",
+  "subcategory": "shoulder",
+  "specialty": [
+    "orthopedics"
+  ],
+  "name": {
+    "ru": "Система GÉO",
+    "en": "GÉO System"
+  },
+  "shortDescription": {
+    "ru": "Компоненты эндопротеза плечевого сустава",
+    "en": "Shoulder replacement components"
+  },
+  "description": {
+    "ru": "",
+    "en": ""
+  },
+  "heroImage": "/images/products/biotechni/geo-system/geo-system.webp",
+  "imageType": "cutout",
+  "gallery": [
+    "/images/products/biotechni/geo-system/geo-system.webp"
+  ],
+  "features": [],
+  "hotspots": [],
+  "components": [
+    {
+      "id": "geo",
+      "name": {
+        "ru": "Система GÉO",
+        "en": "GÉO System"
+      },
+      "image": "/images/products/biotechni/geo-system/geo-system.webp",
+      "refCodes": [],
+      "sizes": [],
+      "variants": [],
+      "legacyDocuments": [
+        {
+          "type": "product-page",
+          "ru": "https://xpmed.uz/product/novinki-2/geo-system/",
+          "en": "https://xpmed.uz/product/new/geo-system-2/"
+        }
+      ]
+    }
+  ],
+  "specTables": [],
+  "refCodes": [],
+  "sourcePdf": null,
+  "sourcePages": [],
+  "catalogEdition": null,
+  "isNew": true,
+  "status": "published",
+  "legacyId": "geo",
+  "legacyBrand": "BIOTECHNI S.A.S.",
+  "review": {
+    "flags": [],
+    "notes": [
+      "Migrated existing catalog content; no additional dimensions or reference codes inferred."
+    ]
+  },
+  "imageDimensions": {
+    "/images/products/biotechni/geo-system/geo-system.webp": {
+      "width": 640,
+      "height": 640
+    }
+  },
+  "subcategories": [
+    "shoulder"
+  ],
+  "legacySources": [
+    {
+      "productId": "geo",
+      "language": "ru",
+      "url": "https://xpmed.uz/product/novinki-2/geo-system/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    },
+    {
+      "productId": "geo",
+      "language": "en",
+      "url": "https://xpmed.uz/product/new/geo-system-2/",
+      "retrievedAt": "2026-11-18",
+      "status": 200
+    }
+  ]
+}

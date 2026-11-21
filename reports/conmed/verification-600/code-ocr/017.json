@@ -1,0 +1,117 @@
+{
+  "id": 17,
+  "bounds": [
+    0.4830757190373704,
+    0.6862963996650852,
+    0.5820778712580709,
+    0.7022048562656992
+  ],
+  "readings": [
+    {
+      "reader": "600dpi-page-psm3",
+      "text": "VPA820C",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "VPA820C",
+          "confidence": 0.0,
+          "pixelBounds": [
+            2648,
+            4948,
+            2898,
+            5007
+          ],
+          "lineId": "10.1.1",
+          "bounds": [
+            0.5180982195265115,
+            0.6904828356126151,
+            0.5670123263549207,
+            0.6987161596427575
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-page-psm11",
+      "text": "VP4826C",
+      "confidence": 87.611053,
+      "words": [
+        {
+          "text": "VP4826C",
+          "confidence": 87.611053,
+          "pixelBounds": [
+            2648,
+            4948,
+            2898,
+            5007
+          ],
+          "lineId": "38.1.1",
+          "bounds": [
+            0.5180982195265115,
+            0.6904828356126151,
+            0.5670123263549207,
+            0.6987161596427575
+          ]
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm7",
+      "text": "sesseeeee VP4826C",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "sesseeeee",
+          "confidence": 0.0,
+          "pixelBounds": [
+            9,
+            80,
+            154,
+            88
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "VP4826C",
+          "confidence": 76.178169,
+          "pixelBounds": [
+            179,
+            30,
+            429,
+            89
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    },
+    {
+      "reader": "600dpi-code-crop-psm13",
+      "text": "vessuees VPA826C",
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "vessuees",
+          "confidence": 0.0,
+          "pixelBounds": [
+            9,
+            80,
+            154,
+            88
+          ],
+          "lineId": "1.1.1"
+        },
+        {
+          "text": "VPA826C",
+          "confidence": 24.871159,
+          "pixelBounds": [
+            199,
+            30,
+            428,
+            89
+          ],
+          "lineId": "1.1.1"
+        }
+      ]
+    }
+  ]
+}

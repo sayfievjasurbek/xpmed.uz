@@ -1,0 +1,1203 @@
+{
+  "schemaVersion": 1,
+  "slug": "hall-titan",
+  "brand": "conmed",
+  "brandName": {
+    "ru": "CONMED",
+    "en": "CONMED"
+  },
+  "category": "hall-powered-instruments",
+  "subcategory": "",
+  "specialty": [
+    "orthopedics",
+    "traumatology"
+  ],
+  "catalogType": "list",
+  "name": {
+    "ru": "HALL Titan",
+    "en": "HALL Titan"
+  },
+  "shortDescription": {
+    "ru": "HALL Titan",
+    "en": "HALL Titan"
+  },
+  "description": {
+    "ru": "В каталоге HALL представлены hALL Titan. Ортопедия крупных и мелких костей.",
+    "en": "The HALL catalog presents HALL Titan. Indications for use: Large Bone & Small Bone Orthopedics."
+  },
+  "indications": {
+    "ru": "Ортопедия крупных и мелких костей",
+    "en": "Large Bone & Small Bone Orthopedics"
+  },
+  "heroImage": "/images/products/conmed/hall/page-008-xref-100.webp",
+  "imageType": "cutout",
+  "gallery": [
+    {
+      "name": "page-008-xref-100",
+      "pdfPage": 8,
+      "pdfImageXref": 100,
+      "bounds": [
+        0.04464371597487914,
+        0.11590972424614404,
+        0.32394933094026446,
+        0.39417361787690525
+      ],
+      "originalSize": [
+        713,
+        996
+      ],
+      "src": "/images/products/conmed/hall/page-008-xref-100.webp",
+      "width": 1280,
+      "height": 1824,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          713,
+          996
+        ],
+        "enhancedSize": [
+          1426,
+          1992
+        ]
+      },
+      "maskReview": "Embedded source-PDF opacity mask retained; rembg mask rejected where it lost instrument parts",
+      "imageCaption": {
+        "ru": "Модульная дрель HALL Titan, 2 курка",
+        "en": "HALL Titan 2-Trigger Modular Drill"
+      }
+    },
+    {
+      "name": "page-008-xref-98",
+      "pdfPage": 8,
+      "pdfImageXref": 98,
+      "bounds": [
+        0.24475669410554854,
+        0.17310891331144398,
+        0.3724653303419309,
+        0.4003330320460031
+      ],
+      "originalSize": [
+        326,
+        814
+      ],
+      "src": "/images/products/conmed/hall/page-008-xref-98.webp",
+      "width": 637,
+      "height": 1573,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          326,
+          814
+        ],
+        "enhancedSize": [
+          652,
+          1628
+        ]
+      },
+      "maskReview": "Embedded source-PDF opacity mask retained; rembg mask rejected where it lost instrument parts",
+      "imageCaption": {
+        "ru": "Осциллирующая пила HALL Titan",
+        "en": "HALL Titan Oscillating Saw"
+      }
+    },
+    {
+      "name": "page-008-xref-102",
+      "pdfPage": 8,
+      "pdfImageXref": 102,
+      "bounds": [
+        0.015250892238055149,
+        0.4148999810766761,
+        0.30864967699243234,
+        0.6581908251832673
+      ],
+      "originalSize": [
+        749,
+        871
+      ],
+      "src": "/images/products/conmed/hall/page-008-xref-102.webp",
+      "width": 1314,
+      "height": 1674,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          749,
+          871
+        ],
+        "enhancedSize": [
+          1498,
+          1742
+        ]
+      },
+      "maskReview": "Embedded source-PDF opacity mask retained; rembg mask rejected where it lost instrument parts",
+      "imageCaption": {
+        "ru": "Реципрокная пила HALL Titan",
+        "en": "HALL Titan Reciprocating Saw"
+      }
+    },
+    {
+      "name": "page-008-xref-104",
+      "pdfPage": 8,
+      "pdfImageXref": 104,
+      "bounds": [
+        0.21309490125655026,
+        0.46432527561260534,
+        0.38993727748475376,
+        0.6696365969418603
+      ],
+      "originalSize": [
+        451,
+        735
+      ],
+      "src": "/images/products/conmed/hall/page-008-xref-104.webp",
+      "width": 966,
+      "height": 1534,
+      "imageType": "cutout",
+      "captionFree": true,
+      "imageEnhancement": {
+        "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+        "scale": 2,
+        "originalSize": [
+          451,
+          735
+        ],
+        "enhancedSize": [
+          902,
+          1470
+        ]
+      },
+      "maskReview": "Embedded source-PDF opacity mask retained; rembg mask rejected where it lost instrument parts",
+      "imageCaption": {
+        "ru": "Стернальная пила HALL Titan",
+        "en": "HALL Titan Sternum Saw"
+      }
+    }
+  ],
+  "features": [],
+  "hotspots": [],
+  "variants": [],
+  "components": [],
+  "componentGroups": [
+    {
+      "id": "page-008",
+      "name": {
+        "ru": "HALL Titan",
+        "en": "HALL Titan"
+      },
+      "images": [
+        {
+          "name": "page-008-xref-100",
+          "pdfPage": 8,
+          "pdfImageXref": 100,
+          "bounds": [
+            0.04464371597487914,
+            0.11590972424614404,
+            0.32394933094026446,
+            0.39417361787690525
+          ],
+          "originalSize": [
+            713,
+            996
+          ],
+          "src": "/images/products/conmed/hall/page-008-xref-100.webp",
+          "width": 1280,
+          "height": 1824,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              713,
+              996
+            ],
+            "enhancedSize": [
+              1426,
+              1992
+            ]
+          },
+          "maskReview": "Embedded source-PDF opacity mask retained; rembg mask rejected where it lost instrument parts",
+          "imageCaption": {
+            "ru": "Модульная дрель HALL Titan, 2 курка",
+            "en": "HALL Titan 2-Trigger Modular Drill"
+          }
+        },
+        {
+          "name": "page-008-xref-98",
+          "pdfPage": 8,
+          "pdfImageXref": 98,
+          "bounds": [
+            0.24475669410554854,
+            0.17310891331144398,
+            0.3724653303419309,
+            0.4003330320460031
+          ],
+          "originalSize": [
+            326,
+            814
+          ],
+          "src": "/images/products/conmed/hall/page-008-xref-98.webp",
+          "width": 637,
+          "height": 1573,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              326,
+              814
+            ],
+            "enhancedSize": [
+              652,
+              1628
+            ]
+          },
+          "maskReview": "Embedded source-PDF opacity mask retained; rembg mask rejected where it lost instrument parts",
+          "imageCaption": {
+            "ru": "Осциллирующая пила HALL Titan",
+            "en": "HALL Titan Oscillating Saw"
+          }
+        },
+        {
+          "name": "page-008-xref-102",
+          "pdfPage": 8,
+          "pdfImageXref": 102,
+          "bounds": [
+            0.015250892238055149,
+            0.4148999810766761,
+            0.30864967699243234,
+            0.6581908251832673
+          ],
+          "originalSize": [
+            749,
+            871
+          ],
+          "src": "/images/products/conmed/hall/page-008-xref-102.webp",
+          "width": 1314,
+          "height": 1674,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              749,
+              871
+            ],
+            "enhancedSize": [
+              1498,
+              1742
+            ]
+          },
+          "maskReview": "Embedded source-PDF opacity mask retained; rembg mask rejected where it lost instrument parts",
+          "imageCaption": {
+            "ru": "Реципрокная пила HALL Titan",
+            "en": "HALL Titan Reciprocating Saw"
+          }
+        },
+        {
+          "name": "page-008-xref-104",
+          "pdfPage": 8,
+          "pdfImageXref": 104,
+          "bounds": [
+            0.21309490125655026,
+            0.46432527561260534,
+            0.38993727748475376,
+            0.6696365969418603
+          ],
+          "originalSize": [
+            451,
+            735
+          ],
+          "src": "/images/products/conmed/hall/page-008-xref-104.webp",
+          "width": 966,
+          "height": 1534,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              451,
+              735
+            ],
+            "enhancedSize": [
+              902,
+              1470
+            ]
+          },
+          "maskReview": "Embedded source-PDF opacity mask retained; rembg mask rejected where it lost instrument parts",
+          "imageCaption": {
+            "ru": "Стернальная пила HALL Titan",
+            "en": "HALL Titan Sternum Saw"
+          }
+        }
+      ]
+    }
+  ],
+  "specTables": [
+    {
+      "id": "page-008",
+      "groupId": "page-008",
+      "title": {
+        "ru": "HALL Titan",
+        "en": "HALL Titan"
+      },
+      "columns": [
+        {
+          "ru": "Наименование",
+          "en": "Description"
+        },
+        {
+          "ru": "Кат. №",
+          "en": "Cat. No."
+        }
+      ],
+      "rows": [
+        [
+          {
+            "ru": "Модульная дрель HALL Titan, 2 курка",
+            "en": "HALL Titan 2-Trigger Modular Drill"
+          },
+          "PRO9200B"
+        ],
+        [
+          {
+            "ru": "Осциллирующая пила HALL Titan",
+            "en": "HALL Titan Oscillating Saw"
+          },
+          "PRO9300B"
+        ],
+        [
+          {
+            "ru": "Реципрокная пила HALL Titan",
+            "en": "HALL Titan Reciprocating Saw"
+          },
+          "PRO9400B"
+        ],
+        [
+          {
+            "ru": "Стернальная пила HALL Titan",
+            "en": "HALL Titan Sternum Saw"
+          },
+          "PRO9450B"
+        ]
+      ],
+      "rowSources": [
+        {
+          "pdfPage": 8,
+          "bounds": [
+            0.2469184112698102,
+            0.3830588891989953,
+            0.31226765799256506,
+            0.39059447390454927
+          ],
+          "codeEvidence": [
+            {
+              "id": "008-list-002",
+              "pdfPage": 8,
+              "sourceBounds": [
+                0.2469184112698102,
+                0.3830588891989953,
+                0.31226765799256506,
+                0.39059447390454927
+              ],
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "PRO9200B"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "PRO9200B"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "PRO9200B"
+                }
+              ],
+              "matchedReaders": [
+                "PSM3",
+                "PSM11",
+                "Vision"
+              ],
+              "verificationStatus": "verified (three-reader comparison)",
+              "officialEvidence": [
+                {
+                  "url": "https://www.conmed.com/-/media/conmed/documents/catalog/hallpoweredinstruments_catalog.ashx",
+                  "logicalPages": [
+                    8,
+                    15
+                  ],
+                  "code": "PRO9200B",
+                  "verificationStatus": "confirmed in official CONMED document"
+                }
+              ],
+              "tableId": "page-008",
+              "row": 1,
+              "column": 2,
+              "value": "PRO9200B"
+            }
+          ]
+        },
+        {
+          "pdfPage": 8,
+          "bounds": [
+            0.06593621600469575,
+            0.3833379849288306,
+            0.1312854627274506,
+            0.3908735696343846
+          ],
+          "codeEvidence": [
+            {
+              "id": "008-list-001",
+              "pdfPage": 8,
+              "sourceBounds": [
+                0.06593621600469575,
+                0.3833379849288306,
+                0.1312854627274506,
+                0.3908735696343846
+              ],
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "PRO9300B"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "PRO9300B"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "PRO9300B"
+                }
+              ],
+              "matchedReaders": [
+                "PSM3",
+                "PSM11",
+                "Vision"
+              ],
+              "verificationStatus": "verified (three-reader comparison)",
+              "officialEvidence": [
+                {
+                  "url": "https://www.conmed.com/-/media/conmed/documents/catalog/hallpoweredinstruments_catalog.ashx",
+                  "logicalPages": [
+                    8
+                  ],
+                  "code": "PRO9300B",
+                  "verificationStatus": "confirmed in official CONMED document"
+                }
+              ],
+              "tableId": "page-008",
+              "row": 2,
+              "column": 2,
+              "value": "PRO9300B"
+            }
+          ]
+        },
+        {
+          "pdfPage": 8,
+          "bounds": [
+            0.05204460966542751,
+            0.6525258163550097,
+            0.11739385638818235,
+            0.6599218531956461
+          ],
+          "codeEvidence": [
+            {
+              "id": "008-list-003",
+              "pdfPage": 8,
+              "sourceBounds": [
+                0.05204460966542751,
+                0.6525258163550097,
+                0.11739385638818235,
+                0.6599218531956461
+              ],
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "PRO9400B"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "PRO9400B"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "PRO9400B"
+                }
+              ],
+              "matchedReaders": [
+                "PSM3",
+                "PSM11",
+                "Vision"
+              ],
+              "verificationStatus": "verified (three-reader comparison)",
+              "officialEvidence": [
+                {
+                  "url": "https://www.conmed.com/-/media/conmed/documents/catalog/hallpoweredinstruments_catalog.ashx",
+                  "logicalPages": [
+                    8
+                  ],
+                  "code": "PRO9400B",
+                  "verificationStatus": "confirmed in official CONMED document"
+                }
+              ],
+              "tableId": "page-008",
+              "row": 3,
+              "column": 2,
+              "value": "PRO9400B"
+            }
+          ]
+        },
+        {
+          "pdfPage": 8,
+          "bounds": [
+            0.30111524163568776,
+            0.6709461345241418,
+            0.36411661123067895,
+            0.6783421713647781
+          ],
+          "codeEvidence": [
+            {
+              "id": "008-list-004",
+              "pdfPage": 8,
+              "sourceBounds": [
+                0.30111524163568776,
+                0.6709461345241418,
+                0.36411661123067895,
+                0.6783421713647781
+              ],
+              "readings": [
+                {
+                  "reader": "PSM3",
+                  "text": "PRO9450B"
+                },
+                {
+                  "reader": "PSM11",
+                  "text": "PRO9450B"
+                },
+                {
+                  "reader": "Vision",
+                  "text": "PRO9450B"
+                }
+              ],
+              "matchedReaders": [
+                "PSM3",
+                "PSM11",
+                "Vision"
+              ],
+              "verificationStatus": "verified (three-reader comparison)",
+              "officialEvidence": [
+                {
+                  "url": "https://www.conmed.com/-/media/conmed/documents/catalog/hallpoweredinstruments_catalog.ashx",
+                  "logicalPages": [
+                    8
+                  ],
+                  "code": "PRO9450B",
+                  "verificationStatus": "confirmed in official CONMED document"
+                }
+              ],
+              "tableId": "page-008",
+              "row": 4,
+              "column": 2,
+              "value": "PRO9450B"
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        8
+      ],
+      "unit": null,
+      "images": [
+        {
+          "name": "page-008-xref-100",
+          "pdfPage": 8,
+          "pdfImageXref": 100,
+          "bounds": [
+            0.04464371597487914,
+            0.11590972424614404,
+            0.32394933094026446,
+            0.39417361787690525
+          ],
+          "originalSize": [
+            713,
+            996
+          ],
+          "src": "/images/products/conmed/hall/page-008-xref-100.webp",
+          "width": 1280,
+          "height": 1824,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              713,
+              996
+            ],
+            "enhancedSize": [
+              1426,
+              1992
+            ]
+          },
+          "maskReview": "Embedded source-PDF opacity mask retained; rembg mask rejected where it lost instrument parts",
+          "imageCaption": {
+            "ru": "Модульная дрель HALL Titan, 2 курка",
+            "en": "HALL Titan 2-Trigger Modular Drill"
+          }
+        },
+        {
+          "name": "page-008-xref-98",
+          "pdfPage": 8,
+          "pdfImageXref": 98,
+          "bounds": [
+            0.24475669410554854,
+            0.17310891331144398,
+            0.3724653303419309,
+            0.4003330320460031
+          ],
+          "originalSize": [
+            326,
+            814
+          ],
+          "src": "/images/products/conmed/hall/page-008-xref-98.webp",
+          "width": 637,
+          "height": 1573,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              326,
+              814
+            ],
+            "enhancedSize": [
+              652,
+              1628
+            ]
+          },
+          "maskReview": "Embedded source-PDF opacity mask retained; rembg mask rejected where it lost instrument parts",
+          "imageCaption": {
+            "ru": "Осциллирующая пила HALL Titan",
+            "en": "HALL Titan Oscillating Saw"
+          }
+        },
+        {
+          "name": "page-008-xref-102",
+          "pdfPage": 8,
+          "pdfImageXref": 102,
+          "bounds": [
+            0.015250892238055149,
+            0.4148999810766761,
+            0.30864967699243234,
+            0.6581908251832673
+          ],
+          "originalSize": [
+            749,
+            871
+          ],
+          "src": "/images/products/conmed/hall/page-008-xref-102.webp",
+          "width": 1314,
+          "height": 1674,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              749,
+              871
+            ],
+            "enhancedSize": [
+              1498,
+              1742
+            ]
+          },
+          "maskReview": "Embedded source-PDF opacity mask retained; rembg mask rejected where it lost instrument parts",
+          "imageCaption": {
+            "ru": "Реципрокная пила HALL Titan",
+            "en": "HALL Titan Reciprocating Saw"
+          }
+        },
+        {
+          "name": "page-008-xref-104",
+          "pdfPage": 8,
+          "pdfImageXref": 104,
+          "bounds": [
+            0.21309490125655026,
+            0.46432527561260534,
+            0.38993727748475376,
+            0.6696365969418603
+          ],
+          "originalSize": [
+            451,
+            735
+          ],
+          "src": "/images/products/conmed/hall/page-008-xref-104.webp",
+          "width": 966,
+          "height": 1534,
+          "imageType": "cutout",
+          "captionFree": true,
+          "imageEnhancement": {
+            "method": "Real-ESRGAN x4plus downsampled to exact 2x before rembg",
+            "scale": 2,
+            "originalSize": [
+              451,
+              735
+            ],
+            "enhancedSize": [
+              902,
+              1470
+            ]
+          },
+          "maskReview": "Embedded source-PDF opacity mask retained; rembg mask rejected where it lost instrument parts",
+          "imageCaption": {
+            "ru": "Стернальная пила HALL Titan",
+            "en": "HALL Titan Sternum Saw"
+          }
+        }
+      ],
+      "rowDimensions": [],
+      "rowImages": [],
+      "codeLinks": []
+    }
+  ],
+  "refCodes": [
+    "PRO9200B",
+    "PRO9300B",
+    "PRO9400B",
+    "PRO9450B"
+  ],
+  "sourcePages": [
+    8
+  ],
+  "catalogEdition": null,
+  "catalogTitle": {
+    "ru": "CONMED HALL Powered Instruments System — каталог продукции",
+    "en": "CONMED HALL Powered Instruments System — Product Catalog"
+  },
+  "isNew": true,
+  "status": "published",
+  "relatedSystemSlugs": [],
+  "imageDimensions": {
+    "/images/products/conmed/hall/page-008-xref-98.webp": {
+      "width": 637,
+      "height": 1573
+    },
+    "/images/products/conmed/hall/page-008-xref-100.webp": {
+      "width": 1280,
+      "height": 1824
+    },
+    "/images/products/conmed/hall/page-008-xref-102.webp": {
+      "width": 1314,
+      "height": 1674
+    },
+    "/images/products/conmed/hall/page-008-xref-104.webp": {
+      "width": 966,
+      "height": 1534
+    }
+  },
+  "availabilityNote": {
+    "ru": "Не вся продукция доступна на всех рынках.",
+    "en": "All products may not be available in all markets."
+  },
+  "sourceDocumentNotes": {
+    "correctionsVisibility": "internal-only"
+  },
+  "sourcePdf": "/catalogs/conmed/hall-powered-instruments/source.pdf",
+  "sourcePageImages": [
+    "/catalogs/conmed/hall-powered-instruments/pages/008.webp"
+  ],
+  "sourcePageDimensions": {
+    "1": {
+      "width": 5111,
+      "height": 7166
+    },
+    "2": {
+      "width": 5111,
+      "height": 7166
+    },
+    "3": {
+      "width": 5111,
+      "height": 7166
+    },
+    "4": {
+      "width": 5111,
+      "height": 7166
+    },
+    "5": {
+      "width": 5111,
+      "height": 7166
+    },
+    "6": {
+      "width": 5111,
+      "height": 7166
+    },
+    "7": {
+      "width": 5111,
+      "height": 7166
+    },
+    "8": {
+      "width": 5111,
+      "height": 7166
+    },
+    "9": {
+      "width": 5111,
+      "height": 7166
+    },
+    "10": {
+      "width": 5111,
+      "height": 7166
+    },
+    "11": {
+      "width": 5111,
+      "height": 7166
+    },
+    "12": {
+      "width": 5111,
+      "height": 7166
+    },
+    "13": {
+      "width": 5111,
+      "height": 7166
+    },
+    "14": {
+      "width": 5111,
+      "height": 7166
+    },
+    "15": {
+      "width": 5111,
+      "height": 7166
+    },
+    "16": {
+      "width": 5111,
+      "height": 7166
+    },
+    "17": {
+      "width": 5111,
+      "height": 7166
+    },
+    "18": {
+      "width": 5111,
+      "height": 7166
+    },
+    "19": {
+      "width": 5111,
+      "height": 7166
+    },
+    "20": {
+      "width": 5111,
+      "height": 7166
+    },
+    "21": {
+      "width": 5111,
+      "height": 7166
+    },
+    "22": {
+      "width": 5111,
+      "height": 7166
+    },
+    "23": {
+      "width": 5111,
+      "height": 7166
+    },
+    "24": {
+      "width": 5111,
+      "height": 7166
+    },
+    "25": {
+      "width": 5111,
+      "height": 7166
+    },
+    "26": {
+      "width": 5111,
+      "height": 7166
+    },
+    "27": {
+      "width": 5111,
+      "height": 7166
+    },
+    "28": {
+      "width": 5111,
+      "height": 7166
+    },
+    "29": {
+      "width": 5111,
+      "height": 7166
+    },
+    "30": {
+      "width": 5111,
+      "height": 7166
+    },
+    "31": {
+      "width": 5111,
+      "height": 7166
+    },
+    "32": {
+      "width": 5111,
+      "height": 7166
+    },
+    "33": {
+      "width": 5111,
+      "height": 7166
+    },
+    "34": {
+      "width": 5111,
+      "height": 7166
+    },
+    "35": {
+      "width": 5111,
+      "height": 7166
+    },
+    "36": {
+      "width": 5111,
+      "height": 7166
+    },
+    "37": {
+      "width": 5111,
+      "height": 7166
+    },
+    "38": {
+      "width": 5111,
+      "height": 7166
+    },
+    "39": {
+      "width": 5111,
+      "height": 7166
+    },
+    "40": {
+      "width": 5111,
+      "height": 7166
+    },
+    "41": {
+      "width": 5111,
+      "height": 7166
+    },
+    "42": {
+      "width": 5111,
+      "height": 7166
+    },
+    "43": {
+      "width": 5111,
+      "height": 7166
+    },
+    "44": {
+      "width": 5111,
+      "height": 7166
+    },
+    "45": {
+      "width": 5111,
+      "height": 7166
+    },
+    "46": {
+      "width": 5111,
+      "height": 7166
+    },
+    "47": {
+      "width": 5111,
+      "height": 7166
+    },
+    "48": {
+      "width": 5111,
+      "height": 7166
+    },
+    "49": {
+      "width": 5111,
+      "height": 7166
+    },
+    "50": {
+      "width": 5111,
+      "height": 7166
+    },
+    "51": {
+      "width": 5111,
+      "height": 7166
+    },
+    "52": {
+      "width": 5111,
+      "height": 7166
+    },
+    "53": {
+      "width": 5111,
+      "height": 7166
+    },
+    "54": {
+      "width": 5111,
+      "height": 7166
+    },
+    "55": {
+      "width": 5111,
+      "height": 7166
+    },
+    "56": {
+      "width": 5111,
+      "height": 7166
+    },
+    "57": {
+      "width": 5111,
+      "height": 7166
+    },
+    "58": {
+      "width": 5111,
+      "height": 7166
+    },
+    "59": {
+      "width": 5111,
+      "height": 7166
+    },
+    "60": {
+      "width": 5111,
+      "height": 7166
+    },
+    "61": {
+      "width": 5111,
+      "height": 7166
+    },
+    "62": {
+      "width": 5111,
+      "height": 7166
+    },
+    "63": {
+      "width": 5111,
+      "height": 7166
+    },
+    "64": {
+      "width": 5111,
+      "height": 7166
+    },
+    "65": {
+      "width": 5111,
+      "height": 7166
+    },
+    "66": {
+      "width": 5111,
+      "height": 7166
+    },
+    "67": {
+      "width": 5111,
+      "height": 7166
+    },
+    "68": {
+      "width": 5111,
+      "height": 7166
+    },
+    "69": {
+      "width": 5111,
+      "height": 7166
+    },
+    "70": {
+      "width": 5111,
+      "height": 7166
+    },
+    "71": {
+      "width": 5111,
+      "height": 7166
+    },
+    "72": {
+      "width": 5111,
+      "height": 7166
+    },
+    "73": {
+      "width": 5111,
+      "height": 7166
+    },
+    "74": {
+      "width": 5111,
+      "height": 7166
+    },
+    "75": {
+      "width": 5111,
+      "height": 7166
+    },
+    "76": {
+      "width": 5111,
+      "height": 7166
+    },
+    "77": {
+      "width": 5111,
+      "height": 7166
+    },
+    "78": {
+      "width": 5111,
+      "height": 7166
+    },
+    "79": {
+      "width": 5111,
+      "height": 7166
+    },
+    "80": {
+      "width": 5111,
+      "height": 7166
+    }
+  },
+  "review": {
+    "sourceSha256": "252384b1278a2b70a7472ba18d19a27dab06ff5971c6ade3644b8e1a244e6c5b",
+    "importMethod": "600-DPI Tesseract PSM3/11, isolated PSM7/13, independent Apple Vision and Codex visual readings of disagreements; official CONMED catalog corroboration; source-positioned tables and white vector drawings; Codex-authored professional Russian.",
+    "flags": [],
+    "status": "published-source-reviewed",
+    "layoutReviewed": true,
+    "ocrDpi": 600,
+    "ocrSettings": [
+      3,
+      11
+    ],
+    "independentReader": "Apple Vision accurate",
+    "skippedSourcePages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      79,
+      80
+    ],
+    "translatedFields": [
+      "brandName.ru",
+      "name.ru",
+      "shortDescription.ru",
+      "description.ru",
+      "indications.ru",
+      "gallery.0.imageCaption.ru",
+      "gallery.1.imageCaption.ru",
+      "gallery.2.imageCaption.ru",
+      "gallery.3.imageCaption.ru",
+      "componentGroups.0.name.ru",
+      "componentGroups.0.images.0.imageCaption.ru",
+      "componentGroups.0.images.1.imageCaption.ru",
+      "componentGroups.0.images.2.imageCaption.ru",
+      "componentGroups.0.images.3.imageCaption.ru",
+      "specTables.0.title.ru",
+      "specTables.0.columns.0.ru",
+      "specTables.0.columns.1.ru",
+      "specTables.0.rows.0.0.ru",
+      "specTables.0.rows.1.0.ru",
+      "specTables.0.rows.2.0.ru",
+      "specTables.0.rows.3.0.ru",
+      "specTables.0.images.0.imageCaption.ru",
+      "specTables.0.images.1.imageCaption.ru",
+      "specTables.0.images.2.imageCaption.ru",
+      "specTables.0.images.3.imageCaption.ru",
+      "catalogTitle.ru",
+      "availabilityNote.ru"
+    ],
+    "translationAuthor": "codex",
+    "translationStatus": "review-required",
+    "publishedAt": "2026-11-19T16:31:18.264366+00:00",
+    "publicationReason": "Owner authorized automatic publication of systems with zero real flags."
+  },
+  "documentCover": "/catalogs/conmed/hall-powered-instruments/pages/001.webp"
+}

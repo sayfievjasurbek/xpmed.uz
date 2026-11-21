@@ -1,4 +1,13 @@
+import catalog from './catalog-en.mjs';
+import homepage from './home-en.mjs';
+import info from './info-en.mjs';
+
 export default {
+  homepage,
+  info,
+  catalog,
+  utilityPartners: 'For partners',
+  utilitySales: 'Contact sales',
   title: 'XPMED — Medical Equipment, Implants and Consumables',
   description: 'Exclusive distributor of medical equipment, implants and consumables in Uzbekistan and Central Asia.',
   home: 'Home',
@@ -16,7 +25,7 @@ export default {
   privacyNotice: 'The privacy policy is in preparation. You can email us with questions about how personal data is handled.',
   socials: 'XPMED on social media',
   platforms: { telegram: 'Telegram', instagram: 'Instagram', facebook: 'Facebook', youtube: 'YouTube' },
-  address: ['Tashkent, Shaykhantakhur District', '8B Bunyodkor Avenue'],
+  address: ['Tashkent City, Yakkasaray District', 'Solar Street, 12'],
   copyright: (year) => `© ${year} XPMED. All rights reserved.`,
   disclaimer: 'Information on this site does not constitute medical advice.',
   labels: {
@@ -28,6 +37,7 @@ export default {
     conmed: 'CONMED',
     synimed: 'Synimed',
     catalog: 'View all products',
+    brands: 'Brands',
     trauma: 'Trauma implants',
     hip: 'Hip replacement implants',
     spineSystems: 'Spinal systems',
@@ -36,9 +46,11 @@ export default {
     shoulder: 'Shoulder surgery',
     cement: 'Synicem bone cements',
     needles: 'Needles and cannulas',
+    'pediatric-orthopedics': 'Pediatric orthopedics',
     orthopedics: 'Orthopedics',
     traumatology: 'Traumatology',
-    spine: 'Spine',
+    cardiothoracic: 'Cardiothoracic surgery', ent: 'ENT', neurosurgery: 'Neurosurgery',
+    spine: 'Spine surgery',
     sports: 'Sports medicine',
     surgery: 'General surgery',
     company: 'Company',

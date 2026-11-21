@@ -1,0 +1,154 @@
+{
+  "pdfPage": 59,
+  "officialPage": 79,
+  "alignment": [
+    [
+      0.9705427629569467,
+      -0.00021158372416633643,
+      0.014684329889644588
+    ],
+    [
+      7.549553006557265e-05,
+      0.9785887692148261,
+      0.011229486245117036
+    ]
+  ],
+  "alignmentMatches": 35,
+  "alignmentInliers": 34,
+  "category": "hip-arthroscopy",
+  "title": {
+    "en": "Suction Ablator and Tray",
+    "ru": "Аспирационный аблятор и лоток"
+  },
+  "groups": [
+    {
+      "title": "LightWave®, Extended Length Suction Ablator",
+      "page": 59,
+      "officialPage": 79,
+      "headingBounds": [
+        0.10371736110554108,
+        0.1432345649319679,
+        0.45553976461066803,
+        0.1580025438695555
+      ],
+      "rows": [
+        {
+          "description": "4.0mm dia. x 165mm length, 90° angle, suction",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "EL-2000-S",
+              "sourceBounds": [
+                0.5030079688196621,
+                0.24553541929515954,
+                0.5723484478785764,
+                0.2617320221619227
+              ],
+              "officialCode": "EL-2000-S",
+              "officialBounds": [
+                314.7300109863281,
+                191.7368927001953,
+                350.1638488769531,
+                201.9158935546875
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.2406337207285411,
+            0.5823484478785764,
+            0.26263372072854113
+          ],
+          "pdfPage": 59,
+          "officialPage": 79
+        },
+        {
+          "description": "Hip Arthroscopy Sterilization Tray",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "ST7900",
+              "sourceBounds": [
+                0.5171048097246506,
+                0.7334101835699055,
+                0.5725082260041104,
+                0.7447874907275733
+              ],
+              "officialCode": "ST7900",
+              "officialBounds": [
+                323.48699951171875,
+                583.7408447265625,
+                350.1620788574219,
+                593.9198608398438
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.7260988371487395,
+            0.5825082260041105,
+            0.7480988371487395
+          ],
+          "pdfPage": 59,
+          "officialPage": 79
+        },
+        {
+          "description": "Hip Preservation System Brochure",
+          "codes": [
+            {
+              "printedColumn": 0,
+              "candidate": "CBR",
+              "sourceBounds": [
+                0.5165329681080023,
+                0.7701646664806029,
+                0.5378595186851888,
+                0.7783979905107452
+              ],
+              "officialCode": "CBR",
+              "officialBounds": [
+                315.9990234375,
+                612.7388916015625,
+                330.10833740234375,
+                622.9179077148438
+              ]
+            }
+          ],
+          "rowBounds": [
+            0.095,
+            0.761281328495674,
+            0.5478595186851888,
+            0.783281328495674
+          ],
+          "pdfPage": 59,
+          "officialPage": 79
+        }
+      ],
+      "features": [
+        {
+          "text": "The LightWave® design incorporates a one-piece molded handle, which is plugged directly into the monopolar port of a standard electrosurgical generator",
+          "bounds": [
+            0.11085324709305866,
+            0.162979882737964,
+            0.540269629479545,
+            0.1769878176728477
+          ],
+          "officialStartX": 60.66240310668945
+        },
+        {
+          "text": "The LightWave Suction Ablator features hand controls, adjustable roller clamp suction control and a universal suction tubing adapter",
+          "bounds": [
+            0.11083697226765092,
+            0.1957230574243967,
+            0.5645437159891571,
+            0.2097328912584376
+          ],
+          "officialStartX": 60.6566047668457
+        }
+      ],
+      "notes": [],
+      "keyParameters": [],
+      "columnCount": 1
+    }
+  ],
+  "dottedRows": 3
+}

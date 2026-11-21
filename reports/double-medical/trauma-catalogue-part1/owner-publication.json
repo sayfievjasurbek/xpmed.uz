@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-20T20:57:11.260424+00:00",
+  "authorization": "Publish the five remaining drafts as normal products",
+  "systems": [
+    {
+      "path": "content/products/double-medical/small-locking-instrument-set.json",
+      "slug": "small-locking-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для малых блокируемых имплантов",
+        "en": "Small Locking Instrument Set"
+      },
+      "beforeSha256": "0ea7124b0842f963c326437a3d46c7ea0ab47c7f8379ed4623d145e9895e889b",
+      "backup": "reports/double-medical/trauma-catalogue-part1/owner-publication-backups/small-locking-instrument-set.json"
+    },
+    {
+      "path": "content/products/double-medical/4-0mm-cancellous-screw-fully-threaded.json",
+      "slug": "4-0mm-cancellous-screw-fully-threaded",
+      "name": {
+        "ru": "4.0 мм Спонгиозный винт, с полной резьбой",
+        "en": "4.0mm Cancellous Screw, fully threaded"
+      },
+      "beforeSha256": "e1c49cc8ef593657051f5b116861dcf9fc5d543aa88c39d79a3b8a33138c1bb4",
+      "backup": "reports/double-medical/trauma-catalogue-part1/owner-publication-backups/4-0mm-cancellous-screw-fully-threaded.json"
+    },
+    {
+      "path": "content/products/double-medical/4-0mm-cancellous-screw-half-threaded.json",
+      "slug": "4-0mm-cancellous-screw-half-threaded",
+      "name": {
+        "ru": "4.0 мм Спонгиозный винт, с частичной резьбой",
+        "en": "4.0mm Cancellous Screw, half threaded"
+      },
+      "beforeSha256": "14ac3fbc12ee3598d24efad8073c26bf7241d23f8a3e66c0828d1f40ed4e70c8",
+      "backup": "reports/double-medical/trauma-catalogue-part1/owner-publication-backups/4-0mm-cancellous-screw-half-threaded.json"
+    },
+    {
+      "path": "content/products/double-medical/reconstruction-instrument-set.json",
+      "slug": "reconstruction-instrument-set",
+      "name": {
+        "ru": "Набор инструментов для реконструктивных пластин",
+        "en": "Reconstruction Instrument Set"
+      },
+      "beforeSha256": "354ae63eedc46a47d323b9e4bf94a6bf3880450103cd3cd56a2e97b07a210c04",
+      "backup": "reports/double-medical/trauma-catalogue-part1/owner-publication-backups/reconstruction-instrument-set.json"
+    },
+    {
+      "path": "content/products/double-medical/md-distal-tibial-t-locking-plate.json",
+      "slug": "md-distal-tibial-t-locking-plate",
+      "name": {
+        "ru": "MD T-образная блокируемая пластина для дистального отдела большеберцовой кости",
+        "en": "MD Distal Tibial T-Locking Plate"
+      },
+      "beforeSha256": "afffb1aad1b1b16447e7e2af60a18e8ceb9010efa5b84d103c0aab8869d0710b",
+      "backup": "reports/double-medical/trauma-catalogue-part1/owner-publication-backups/md-distal-tibial-t-locking-plate.json"
+    }
+  ]
+}
