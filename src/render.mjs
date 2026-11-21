@@ -41,6 +41,9 @@ export function render(lang, t, year, products, scope, otherLanguage, system = n
   const languages = () => `<nav class="languages" aria-label="${escape(t.language)}">
     ${Object.entries(languageLabels).map(([code, label], index) => `${index ? '<span aria-hidden="true">/</span>' : ''}<a href="${pageRoute(code)}" lang="${code}" hreflang="${code}"${code === lang ? ' aria-current="page"' : ''}>${label}</a>`).join('')}
   </nav>`;
+  const socialItems = () => Object.entries(socialLinks).map(([key, href]) => `<li>${href
+    ? `<a href="${escape(href)}" target="_blank" rel="noopener" aria-label="${escape(t.platforms[key])}">${icon(key)}</a>`
+    : `<span class="social-placeholder" role="img" aria-label="${escape(t.platforms[key]+' · '+t.info.socialPending)}" title="${escape(t.info.socialPending)}">${icon(key)}</span>`}</li>`).join('');
   const contactButton = () => `<button class="button" type="button" data-open="${CONTACT_DIALOG_ID}" aria-haspopup="dialog">${escape(t.contactUs)}</button>`;
   const iconButton = (name, label, attributes) => `<button class="icon-button" type="button" aria-label="${escape(label)}" ${attributes}>${icon(name)}</button>`;
   const catalogLink = () => `<div class="catalog-menu-links">
@@ -78,7 +81,7 @@ export function render(lang, t, year, products, scope, otherLanguage, system = n
 
 
   const dialogHead = (label,id) => `<div class="dialog-heading"><h2 id="${id}">${escape(label)}</h2>${iconButton('close',t.close,'data-close')}</div>`;
-  const schema = { '@context':'https://schema.org', '@type':'MedicalBusiness', name:'XPMED', url:contact.website, email:contact.email, telephone:contact.phones.map(p=>p.label), address:{'@type':'PostalAddress',streetAddress:lang==='ru'?'ул. Солар, 12':'Solar Street, 12',addressLocality:'Tashkent',addressRegion:'Yakkasaray District',addressCountry:'UZ'}, geo:{'@type':'GeoCoordinates',latitude:contact.coordinates.latitude,longitude:contact.coordinates.longitude} };
+  const schema = { '@context':'https://schema.org', '@type':'MedicalBusiness', name:'XPMED', url:contact.website, email:contact.email, telephone:contact.phones.map(p=>p.label), address:{'@type':'PostalAddress',streetAddress:lang==='ru'?'ул. Солар, 12':'Solar Street, 12',addressLocality:'Tashkent',addressRegion:'Yakkasaray District',addressCountry:'UZ'}, geo:{'@type':'GeoCoordinates',latitude:contact.coordinates.latitude,longitude:contact.coordinates.longitude}, sameAs:Object.values(socialLinks).filter(Boolean) };
   return `<!doctype html>
 <html lang="${lang}">
 <head>
@@ -106,6 +109,7 @@ ${pageScript ? `  <script type="module" src="${pageScript}"></script>\n` : ''}  
       <div class="container header-actions">
         <a href="${destination('partners', lang)}">${escape(t.utilityPartners)}</a>
         <a href="${escape(destination('contacts',lang))}">${escape(t.utilitySales)}</a>
+        <ul class="social-links social-links--header" aria-label="${escape(t.socials)}">${socialItems()}</ul>
         ${languages()}
         ${iconButton('search', t.search, 'data-open="search-dialog" aria-haspopup="dialog"')}
       </div>
@@ -131,7 +135,7 @@ ${pageScript ? `  <script type="module" src="${pageScript}"></script>\n` : ''}  
           ${logo(true)}
           <p>${escape(t.description)}</p>
           <ul class="social-links" aria-label="${escape(t.socials)}">
-            ${Object.entries(socialLinks).map(([key, href]) => `<li>${href?`<a href="${escape(href)}" aria-label="${escape(t.platforms[key])}">${icon(key)}</a>`:`<span class="social-placeholder" role="img" aria-label="${escape(t.platforms[key]+' · '+t.info.socialPending)}" title="${escape(t.info.socialPending)}">${icon(key)}</span>`}</li>`).join('')}
+            ${socialItems()}
           </ul>
         </div>
         <nav class="footer-nav" aria-label="${escape(t.footerNav)}">

@@ -778,3 +778,17 @@ img.is-light-mark { filter: invert(1); opacity: .78; }
 @media (max-width: 480px) {
   .footer-nav { grid-template-columns: 1fr; }
 }
+/* Social icons in the header utility bar: smaller and borderless, unlike the
+   bordered footer row. Hidden on narrow screens, where the bar is already
+   tight and the footer still carries them. */
+.social-links--header { gap: 2px; }
+.social-links--header a, .social-links--header .social-placeholder {
+  width: 30px;
+  height: 30px;
+  border: 0;
+  color: var(--blue);
+}
+.social-links--header svg { width: 17px; height: 17px; }
+.social-links--header a:hover { color: var(--navy); }
+
+@media (max-width: 680px) { .social-links--header { display: none; } }
