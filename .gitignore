@@ -23,3 +23,16 @@ public/catalogs/*/*/pages/
 
 # macOS
 .DS_Store
+
+# Byte-identical copies of catalogs-source/*.pdf, recreated by build.mjs and by
+# the importer. The originals in catalogs-source/ are the tracked ones.
+public/catalogs/*/*/source.pdf
+!public/catalogs/certificates/*/source.pdf
+
+# Import evidence: OCR crops, contact sheets and raw per-page readings.
+# Reproducible from the source PDFs, and nothing in the build or the tests
+# reads them. The reports the tests and reviewers use stay tracked.
+reports/**/*.png
+reports/**/*.jpg
+reports/**/*.jpeg
+reports/**/*.webp

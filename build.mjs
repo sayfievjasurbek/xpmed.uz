@@ -4,7 +4,7 @@ import {publicProductContent} from './src/public-product-content.mjs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { loadSystems, listing, legacyListing, systemRoute, prepareSystem } from './src/catalog-data.mjs';
-import { copyFile, cp, mkdir, readFile, writeFile, rm, stat } from 'node:fs/promises';
+import { copyFile, cp, mkdir, readdir, readFile, writeFile, rm, stat } from 'node:fs/promises';
 import { render } from './src/render.mjs';
 import { renderCatalogTileArray,categoryImageProduct,categoryThumbnailPath } from './src/catalog.mjs';
 import {createCanvas,loadImage} from '@napi-rs/canvas';
@@ -13,6 +13,26 @@ import ru from './src/i18n/ru.mjs';
 import en from './src/i18n/en.mjs';
 import {areaKeys,clinicalAreas,parseTaxonomyScope} from './src/clinical-taxonomy.mjs';
 import {legacyCategoryAreas} from './src/catalog-engine.js';
+
+// The public/catalogs/<brand>/<name>/source.pdf copies are byte-identical to the
+// originals in catalogs-source/, so only the originals are in version control.
+// Restore any that are missing before anything reads them, which keeps a fresh
+// clone buildable. scripts/import-catalog.py writes the same copies.
+{
+  const slug = stem => stem.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 100);
+  const sourceRoot = new URL('./catalogs-source/', import.meta.url);
+  for (const brand of (await readdir(sourceRoot, {withFileTypes: true})).filter(entry => entry.isDirectory())) {
+    for (const name of (await readdir(new URL(brand.name + '/', sourceRoot))).filter(file => file.toLowerCase().endsWith('.pdf'))) {
+      const original = new URL(`${brand.name}/${name}`, sourceRoot);
+      const copy = new URL(`./public/catalogs/${brand.name}/${slug(name.replace(/\.pdf$/i, ''))}/source.pdf`, import.meta.url);
+      try { await stat(copy); } catch {
+        await mkdir(new URL('.', copy), {recursive: true});
+        await copyFile(original, copy);
+        console.log(`Restored ${brand.name}/${name} into public/catalogs/`);
+      }
+    }
+  }
+}
 
 const source = new URL('./src/', import.meta.url);
 const output = new URL('./dist/', import.meta.url);
