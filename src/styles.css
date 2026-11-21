@@ -740,3 +740,10 @@ img.is-light-mark { filter: invert(1); opacity: .78; }
   .logo-card { width: 100%; max-width: 260px; }
   .client-card:hover, .info-brand:hover, .certificate-card:hover { transform: none; }
 }
+
+/* Dark full-bleed sections (product hero, features, related, info-page hero).
+   These live here, not in system.css, because the info pages use .sp-dark too
+   and only product pages load system.css. */
+.sp-dark { background-color: var(--night); color: var(--white); }
+.sp-dark .button { color: var(--white); }
+.sp-dark.hex-pattern::before { opacity: .38; }

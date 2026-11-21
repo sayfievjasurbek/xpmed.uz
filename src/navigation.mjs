@@ -69,12 +69,12 @@ export const contact = {
   coordinates: { latitude: 41.269680, longitude: 69.240328 },
 };
 
-export const socialLinks = {
-  telegram: null,
-  instagram: null,
-  facebook: null,
-  youtube: 'https://www.youtube.com/watch?v=E3vn7Gq2PFI',
-};
+// Social profiles come from content/settings.json: adding one is a one-line
+// edit there, with no code change. A null stays a non-clickable placeholder.
+export const socialLinks = Object.fromEntries(
+  Object.entries(siteSettings.socialLinks).map(([key, url]) => [key, url || null]),
+);
 
 export function brandCatalogRoute(lang,brand){if(['unassigned','unspecified'].includes(brand))return catalogRoute(lang);const key=brand==='double-medical'?'double':brand;return Object.hasOwn(catalogSlugs,key)?catalogRoute(lang,key):homeRoute(lang)+'catalog/'+encodeURIComponent(brand)+'/';}
 import {areaKeys,areaRoute,parseTaxonomyScope} from './clinical-taxonomy.mjs';
+import {siteSettings} from './site-settings.mjs';
