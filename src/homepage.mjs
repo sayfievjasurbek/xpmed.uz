@@ -1,3 +1,4 @@
+import {CONTACT_DIALOG_ID} from './contact-panel.mjs';
 import { catalogRoute, destination, contact } from './navigation.mjs';
 import { icon } from './icons.mjs';
 import { escape } from './html.mjs';
@@ -8,6 +9,7 @@ const productGroups = ['double', 'conmed', 'synimed', 'new'];
 const videoIds = ['E3vn7Gq2PFI', 'mHY8uwnrGh4'];
 
 const textLink = (href, label) => `<a class="text-link" href="${escape(href)}">${escape(label)}${icon('circleArrow')}</a>`;
+const textLinkDialog = (dialog, label) => `<button class="text-link" type="button" data-open="${dialog}" aria-haspopup="dialog">${escape(label)}${icon('circleArrow')}</button>`;
 
 function thumbnail(index, copy) {
   const { caption } = copy.testimonials[index];
@@ -98,7 +100,7 @@ export function renderHomepage(lang, t, products) {
           <h2 id="partner-title">${escape(copy.partner.title)}</h2>
           <p class="eyebrow">${escape(copy.partnershipLabel)}</p>
           <p>${escape(copy.partner.description)}</p>
-          ${textLink(destination('contacts',lang), t.contactUs)}
+          ${textLinkDialog(CONTACT_DIALOG_ID, t.contactUs)}
         </div>
       </section>
       <section class="home-teaser section--dark hex-pattern" id="certificates" aria-labelledby="certificates-title">
@@ -110,7 +112,7 @@ export function renderHomepage(lang, t, products) {
         </div>
       </section>
     </div>
-    <section class="home-contact-strip"><div class="container"><div><p class="eyebrow">XPMED</p><h2>${escape(t.labels.contacts)}</h2><p>${t.address.map(escape).join(', ')}</p></div><div class="home-contact-strip__links">${contact.phones.map(p=>`<a href="tel:${p.tel}">${escape(p.label)}</a>`).join('')}<a href="mailto:${contact.email}">${contact.email}</a></div><a class="button" href="${escape(destination('contacts',lang))}">${escape(t.contactUs)}</a></div></section>`;
+    <section class="home-contact-strip"><div class="container"><div><p class="eyebrow">XPMED</p><h2>${escape(t.labels.contacts)}</h2><p>${t.address.map(escape).join(', ')}</p></div><div class="home-contact-strip__links">${contact.phones.map(p=>`<a href="tel:${p.tel}">${escape(p.label)}</a>`).join('')}<a href="mailto:${contact.email}">${contact.email}</a></div><button class="button" type="button" data-open="${CONTACT_DIALOG_ID}" aria-haspopup="dialog">${escape(t.contactUs)}</button></div></section>`;
 }
 
 export function renderHomeDialogs(t) {

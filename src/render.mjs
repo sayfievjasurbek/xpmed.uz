@@ -1,6 +1,7 @@
 import {orderedBrands} from './site-settings.mjs';
 import {brandCatalogRoute} from './navigation.mjs';
 import {renderLibrary, renderDiscoveryDialogs} from './discovery.mjs';
+import {renderContactPanel, CONTACT_DIALOG_ID} from './contact-panel.mjs';
 import {discovery, brandName} from './i18n/discovery.mjs';
 import { renderSystem } from './system-page.mjs';
 import { systemRoute, normalizeSystem } from './catalog-data.mjs';
@@ -35,7 +36,7 @@ export function render(lang, t, year, products, scope, otherLanguage, system = n
   const languages = () => `<nav class="languages" aria-label="${escape(t.language)}">
     ${Object.entries(languageLabels).map(([code, label], index) => `${index ? '<span aria-hidden="true">/</span>' : ''}<a href="${pageRoute(code)}" lang="${code}" hreflang="${code}"${code === lang ? ' aria-current="page"' : ''}>${label}</a>`).join('')}
   </nav>`;
-  const contactButton = () => `<a class="button" href="${escape(destination('contacts',lang))}">${escape(t.contactUs)}</a>`;
+  const contactButton = () => `<button class="button" type="button" data-open="${CONTACT_DIALOG_ID}" aria-haspopup="dialog">${escape(t.contactUs)}</button>`;
   const iconButton = (name, label, attributes) => `<button class="icon-button" type="button" aria-label="${escape(label)}" ${attributes}>${icon(name)}</button>`;
   const catalogLink = () => `<div class="catalog-menu-links">
     <a class="text-link" href="${home}catalogs/">${escape(lang==='ru'?'Каталоги PDF':'PDF catalogs')}${icon('circleArrow')}</a>
@@ -190,6 +191,7 @@ ${scope ? '  <link rel="stylesheet" href="/catalog.css">\n' : ''}  <script type=
       <a href="${escape(destination('contacts',lang))}">${escape(labels.contacts)}</a>
     </nav>
   </dialog>
+  ${renderContactPanel(lang, t)}
   ${scope && !library && !infoPage ? renderCatalogDialog(t) : !scope ? renderHomeDialogs(t) : ''}
 </body>
 </html>

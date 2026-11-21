@@ -1,3 +1,4 @@
+import {CONTACT_DIALOG_ID} from './contact-panel.mjs';
 import {brandCatalogRoute, contact, destination, socialLinks} from './navigation.mjs';
 import {orderedBrands} from './site-settings.mjs';
 import {brandName} from './i18n/discovery.mjs';
@@ -22,6 +23,6 @@ export function renderInfoPage(lang,t,products,scope) {
   <section class="info-stats sp-dark hex-pattern"><div class="container">${['8+','7000+','500+','3'].map((value,i)=>`<div><strong>${value}</strong><span>${escape(c.stats[i])}</span>${i===3?'<small>USA · France · China</small>':''}</div>`).join('')}</div></section>
   <section class="section info-brands"><div class="container"><p class="eyebrow">XPMED</p><h2>${escape(c.brandsTitle)}</h2><p>${escape(c.brandsDescription)}</p><div class="info-brand-grid">${brands}</div></div></section>
   <section class="section info-minor" id="clients"><div class="container"><h2>${escape(c.clientsTitle)}</h2><p>${escape(c.clientsDescription)}</p></div></section>
-  <section class="section info-minor info-minor--light" id="certificates"><div class="container"><h2>${escape(c.certificatesTitle)}</h2><p>${escape(c.certificatesDescription)}</p><a class="button" href="${escape(destination('contacts',lang))}">${escape(t.contactUs)}</a></div></section>`
+  <section class="section info-minor info-minor--light" id="certificates"><div class="container"><h2>${escape(c.certificatesTitle)}</h2><p>${escape(c.certificatesDescription)}</p><button class="button" type="button" data-open="${CONTACT_DIALOG_ID}" aria-haspopup="dialog">${escape(t.contactUs)}</button></div></section>`
   :`<section class="section info-contacts" id="partnership"><div class="container info-contact-grid"><div><h2>${escape(c.partnershipTitle)}</h2><p>${escape(c.partnershipText)}</p><dl><dt>${escape(c.addressLabel)}</dt><dd>${address(t)}</dd><dt>${escape(c.phonesLabel)}</dt><dd class="info-phone-list">${phones()}</dd><dt>${escape(c.emailLabel)}</dt><dd><a href="mailto:${contact.email}">${contact.email}</a></dd><dt>${escape(c.websiteLabel)}</dt><dd><a href="${contact.website}">www.xpmed.uz</a></dd><dt>${escape(c.hoursLabel)}</dt><dd>${t.homepage.office.schedule.map(escape).join('<br>')}</dd></dl><ul class="info-socials">${social}</ul></div>${map(t)}</div></section>`}`;
 }

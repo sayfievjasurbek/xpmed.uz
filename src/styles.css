@@ -598,3 +598,39 @@ dialog::backdrop { background: color-mix(in srgb, var(--navy) 62%, transparent);
 :focus:not(:focus-visible){outline:none!important}
 :root[data-input-mode="pointer"] :focus{outline:none!important}
 :root[data-input-mode="pointer"] .catalog-search:focus-within,:root[data-input-mode="pointer"] .search-field:focus-within{outline:none!important}
+
+/* Contact panel — the single place every "request" action leads to.
+   There is no form and no endpoint, so the panel only offers real ways to
+   reach the sales team, plus the selected catalog numbers to copy or mail. */
+button.text-link { background: none; border: 0; padding: 0; font-family: inherit; cursor: pointer; }
+.contact-panel { width: min(calc(100% - 32px), 560px); }
+.contact-panel__intro { font-size: 17px; font-weight: 300; line-height: 1.6; margin: 0 0 28px; }
+.contact-panel__rows { display: grid; gap: 18px; }
+.contact-panel__row { display: grid; grid-template-columns: 148px minmax(0, 1fr); gap: 16px; align-items: start; padding-bottom: 18px; border-bottom: 1px solid color-mix(in srgb, var(--navy) 14%, transparent); }
+.contact-panel__row:last-child { border-bottom: 0; padding-bottom: 0; }
+.contact-panel__label { font-size: 13px; letter-spacing: 1.4px; text-transform: uppercase; color: var(--caption); padding-top: 3px; }
+.contact-panel__value { display: grid; gap: 6px; font-size: 18px; font-weight: 300; line-height: 1.5; }
+.contact-panel__value address { font-style: normal; }
+.contact-panel__value a { width: max-content; text-decoration: underline; text-underline-offset: 4px; text-decoration-color: color-mix(in srgb, var(--green) 60%, transparent); }
+.contact-panel__value a:is(:hover, :focus-visible) { color: var(--blue); }
+
+.contact-panel__selection { margin-top: 32px; padding-top: 28px; border-top: 1px solid color-mix(in srgb, var(--navy) 20%, transparent); }
+.contact-panel__selection h3 { font-size: 20px; font-weight: 400; margin: 0 0 16px; }
+.contact-panel__items { list-style: none; margin: 0 0 24px; padding: 0; display: grid; gap: 10px; max-height: 240px; overflow: auto; }
+.contact-panel__items .lc-request-item { display: grid; grid-template-columns: minmax(0, 1fr) auto auto; gap: 12px; align-items: center; background: var(--light); padding: 10px 12px; font-size: 15px; font-weight: 300; }
+.contact-panel__items .lc-request-item > span { min-width: 0; overflow-wrap: anywhere; }
+.contact-panel__items label { display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--caption); }
+.contact-panel__items input { width: 64px; padding: 6px 8px; border: 1px solid color-mix(in srgb, var(--navy) 28%, transparent); background: var(--white); font: 400 15px Jost, sans-serif; }
+.contact-panel__items .lc-remove { background: none; border: 0; font-size: 20px; line-height: 1; color: var(--caption); cursor: pointer; padding: 0 4px; }
+.contact-panel__items .lc-remove:is(:hover, :focus-visible) { color: var(--blue); }
+.contact-panel__actions { display: flex; flex-wrap: wrap; gap: 12px; }
+.contact-panel__actions .button { font-size: 15px; padding: 12px 22px; }
+.contact-panel__status:empty { display: none; }
+.contact-panel__status { margin: 16px 0 0; font-size: 14px; font-weight: 300; color: var(--blue); }
+
+@media (max-width: 560px) {
+  .contact-panel__row { grid-template-columns: 1fr; gap: 6px; }
+  .contact-panel__label { padding-top: 0; }
+  .contact-panel__items .lc-request-item { grid-template-columns: minmax(0, 1fr) auto; }
+  .contact-panel__items label { grid-column: 1; }
+}

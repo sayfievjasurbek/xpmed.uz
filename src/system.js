@@ -121,29 +121,62 @@ if (root) {
   let selection=storage?readSelection(storage):[];
   const form=root.querySelector('[data-system-request]'),message=form?.elements.message;let generated='';
   const selectedBox=root.querySelector('[data-selected-request]'),selectedList=root.querySelector('[data-selected-request-items]'),bar=root.querySelector('[data-selection-bar]');
+  // The contact panel is rendered by the page shell, outside this article.
+  // selectedBox/selectedList belong to the retired form and are absent now.
+  const panel=document.getElementById('contact-dialog');
+  const panelSelection=panel?.querySelector('[data-contact-selection]'),panelList=panel?.querySelector('[data-contact-selection-list]'),panelStatus=panel?.querySelector('[data-selection-status]'),panelEmail=panel?.querySelector('[data-email-selection]');
+  const panelEmailBase=panelEmail?.getAttribute('href')||'';
+  let contactUi={};try{contactUi=JSON.parse(panel?.querySelector('[data-contact-ui]')?.textContent||'{}');}catch{}
   const hidden=document.createElement('input');hidden.type='hidden';hidden.name='selectedItems';form?.append(hidden);
   const persist=()=>{try{if(!storage)throw Error();storage.setItem(SELECTION_KEY,JSON.stringify(selection));}catch{announce.textContent=ui.selectionUnavailable;}};
   const unavailableIds=[...root.querySelectorAll('[data-catalog-select]:disabled')].map(box=>box.dataset.catalogSelect);
   function renderSelection(renderItems=true){
    const eligible=excludeUnavailableSelections(selection,unavailableIds);if(eligible.length!==selection.length){selection=eligible;persist();}
-   bar.hidden=!selection.length;selectedBox.hidden=!selection.length;const count=selection.length,word=lang==='ru'?(count%10===1&&count%100!==11?ui.itemOne:count%10>=2&&count%10<=4&&(count%100<12||count%100>14)?ui.itemFew:ui.items):(count===1?ui.itemOne:ui.items);root.querySelector('[data-selection-count]').textContent=ui.selectedItems+': '+count+' '+word;
+   bar.hidden=!selection.length;if(selectedBox)selectedBox.hidden=!selection.length;if(panelSelection)panelSelection.hidden=!selection.length;const count=selection.length,word=lang==='ru'?(count%10===1&&count%100!==11?ui.itemOne:count%10>=2&&count%10<=4&&(count%100<12||count%100>14)?ui.itemFew:ui.items):(count===1?ui.itemOne:ui.items);root.querySelector('[data-selection-count]').textContent=ui.selectedItems+': '+count+' '+word;
    root.querySelectorAll('[data-catalog-select]').forEach(box=>box.checked=!box.disabled&&selection.some(item=>item.id===box.dataset.catalogSelect));
-   if(renderItems){selectedList.replaceChildren();for(const item of selection){const row=document.createElement('div');row.className='lc-request-item';const name=document.createElement('span');name.textContent=(item.name[lang]||item.name.en)+' · '+item.codes.join(' / ');const label=document.createElement('label');const caption=document.createElement('span');caption.textContent=ui.itemQuantity;const input=document.createElement('input');input.type='number';input.min='1';input.step='1';input.required=true;input.value=item.quantity;input.dataset.itemQuantity=item.id;input.setAttribute('aria-label',ui.itemQuantity+' '+(item.name[lang]||item.name.en));label.append(caption,input);const remove=document.createElement('button');remove.type='button';remove.className='lc-remove';remove.textContent='×';remove.dataset.removeSelection=item.id;remove.setAttribute('aria-label',ui.removeItem+' '+(item.name[lang]||item.name.en));row.append(name,label,remove);selectedList.append(row);}}
+   if(renderItems)for(const [container,rowTag] of [[selectedList,'div'],[panelList,'li']]){
+    if(!container)continue;
+    container.replaceChildren();
+    for(const item of selection){
+     const title=item.name[lang]||item.name.en;
+     const row=document.createElement(rowTag);row.className='lc-request-item';
+     const name=document.createElement('span');name.textContent=title+' · '+item.codes.join(' / ');
+     const label=document.createElement('label');const caption=document.createElement('span');caption.textContent=ui.itemQuantity;
+     const input=document.createElement('input');input.type='number';input.min='1';input.step='1';input.required=true;input.value=item.quantity;input.dataset.itemQuantity=item.id;input.setAttribute('aria-label',ui.itemQuantity+' '+title);
+     label.append(caption,input);
+     const remove=document.createElement('button');remove.type='button';remove.className='lc-remove';remove.textContent='×';remove.dataset.removeSelection=item.id;remove.setAttribute('aria-label',ui.removeItem+' '+title);
+     row.append(name,label,remove);container.append(row);
+    }
+   }
    const next=selectionMessage(selection,lang,ui.selectionMessage);
    if(message){const own=generated&&message.value.includes(generated)?message.value.replace(generated,'').trim():message.value.trim();message.value=[own,next].filter(Boolean).join('\n\n');generated=next;}
    hidden.value=JSON.stringify(selection);
+   if(panelEmail&&panelEmailBase){const body=[contactUi.emailIntro,next].filter(Boolean).join('\n\n');panelEmail.href=panelEmailBase+'?subject='+encodeURIComponent(contactUi.emailSubject||'')+'&body='+encodeURIComponent(body);}
   }
   root.querySelectorAll('[data-catalog-select]').forEach(box=>box.addEventListener('change',()=>{selection=selection.filter(item=>item.id!==box.dataset.catalogSelect);if(box.checked&&!box.disabled){const row=box.closest('[data-catalog-row]');selection.push({id:box.dataset.catalogSelect,name:{ru:row.dataset.rowNameRu,en:row.dataset.rowNameEn},codes:JSON.parse(row.dataset.rowCodes),quantity:1,system:root.dataset.systemSlug});}persist();renderSelection();}));
-  selectedList.addEventListener('input',event=>{const input=event.target.closest('[data-item-quantity]');if(!input)return;const item=selection.find(item=>item.id===input.dataset.itemQuantity);if(item&&input.validity.valid&&Number.isSafeInteger(Number(input.value))&&Number(input.value)>0){item.quantity=Number(input.value);persist();renderSelection(false);}});
-  selectedList.addEventListener('click',event=>{const button=event.target.closest('[data-remove-selection]');if(!button)return;selection=selection.filter(item=>item.id!==button.dataset.removeSelection);persist();renderSelection();});
+  for(const container of [selectedList,panelList]){
+   if(!container)continue;
+   container.addEventListener('input',event=>{const input=event.target.closest('[data-item-quantity]');if(!input)return;const item=selection.find(item=>item.id===input.dataset.itemQuantity);if(item&&input.validity.valid&&Number.isSafeInteger(Number(input.value))&&Number(input.value)>0){item.quantity=Number(input.value);persist();renderSelection(false);}});
+   container.addEventListener('click',event=>{const button=event.target.closest('[data-remove-selection]');if(!button)return;selection=selection.filter(item=>item.id!==button.dataset.removeSelection);persist();renderSelection();});
+  }
   root.querySelector('[data-clear-selection]').addEventListener('click',()=>{selection=[];persist();renderSelection();});
-  root.querySelector('[data-request-selected]').addEventListener('click',()=>{form.hidden=false;root.querySelector('.sp-thanks').hidden=true;renderSelection();});
+  root.querySelector('[data-request-selected]').addEventListener('click',()=>{if(panelStatus)panelStatus.textContent='';renderSelection();if(panelSelection)panelSelection.hidden=!selection.length;});
+  for(const opener of document.querySelectorAll('[data-open="contact-dialog"]:not([data-request-selected])'))opener.addEventListener('click',()=>{if(panelSelection)panelSelection.hidden=true;});
+  panel?.querySelector('[data-copy-selection]')?.addEventListener('click',async()=>{
+   const text=selectionMessage(selection,lang,ui.selectionMessage);
+   if(!text)return;
+   try{await navigator.clipboard.writeText(text);if(panelStatus)panelStatus.textContent=contactUi.copied||'';}
+   catch{if(panelStatus)panelStatus.textContent=contactUi.copyFailed||'';}
+  });
   addEventListener('storage',event=>{if(event.key===SELECTION_KEY){try{selection=validSelection(JSON.parse(event.newValue||'[]'));renderSelection();}catch{}}});
   renderSelection();
  }
  root.querySelectorAll('[data-technique-step-link]').forEach(link=>link.addEventListener('click',event=>{const target=document.getElementById(link.dataset.techniqueStepLink);if(!target)return;event.preventDefault();const chapter=target.closest('details');if(chapter)chapter.open=true;history.replaceState({},'',link.getAttribute('href'));target.scrollIntoView({behavior:reduce.matches?'auto':'smooth',block:'start'});}));
  const techniqueHash=document.getElementById(location.hash.slice(1));if(techniqueHash?.classList.contains('sp-technique-step')){const chapter=techniqueHash.closest('details');if(chapter)chapter.open=true;requestAnimationFrame(()=>techniqueHash.scrollIntoView({block:'start'}));}
  if('IntersectionObserver'in window){const indexSpy=new IntersectionObserver(entries=>{for(const entry of entries)if(entry.isIntersecting&&!entry.target.closest('[hidden]'))root.querySelectorAll('[data-technique-step-link]').forEach(link=>link.setAttribute('aria-current',String(link.dataset.techniqueStepLink===entry.target.id)));},{rootMargin:'-20% 0px -60% 0px'});root.querySelectorAll('.sp-technique-chapter .sp-technique-step').forEach(step=>indexSpy.observe(step));}
+ // RETIRED with the form in src/system-page.mjs: nothing matches this
+ // selector, so the handler never binds. Kept for a future real endpoint —
+ // it must not be re-enabled without one, or the page would claim to send.
  const form=root.querySelector('[data-system-request]');
  form?.addEventListener('submit',event=>{event.preventDefault();if(!form.reportValidity())return;console.log('XPMED product inquiry',Object.fromEntries(new FormData(form)));form.hidden=true;const thanks=root.querySelector('.sp-thanks');thanks.hidden=false;thanks.tabIndex=-1;thanks.focus({preventScroll:true});});
 }
