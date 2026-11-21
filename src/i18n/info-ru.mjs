@@ -25,6 +25,7 @@ export default {
   addressLabel: 'Адрес',
   phonesLabel: 'Телефоны',
   emailLabel: 'Электронная почта',
+  emailShortLabel: 'Email',
   websiteLabel: 'Сайт',
   hoursLabel: 'Режим работы',
   partnershipTitle: 'Сотрудничество',

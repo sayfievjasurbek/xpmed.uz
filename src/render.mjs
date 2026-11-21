@@ -127,32 +127,18 @@ ${pageScript ? `  <script type="module" src="${pageScript}"></script>\n` : ''}  
   <footer class="site-footer">
     <div class="container">
       <div class="footer-top">
-        <div class="footer-main">
-          <nav class="footer-nav" aria-label="${escape(t.footerNav)}">
-            ${footerGroup('products', ['catalog', 'catalogs', 'brands', 'new'])}
-            ${footerGroup('specialties', specialties)}
-            ${footerGroup('about', about)}
-            <a href="${escape(destination('contacts',lang))}">${escape(labels.contacts)}</a>
-          </nav>
-          <div class="footer-contact" id="office" tabindex="-1">
-            <div id="contacts" class="footer-brand">
-              ${logo(true)}
-              <p>${escape(t.description)}</p>
-            </div>
-            <address>
-              <span>${t.address.map(escape).join('<br>')}</span>
-              ${contact.phones.map(p=>`<a href="tel:${p.tel}">${escape(p.label)}</a>`).join('')}
-              <a href="mailto:${contact.email}">${contact.email}</a>
-              <a href="${contact.website}">www.xpmed.uz</a>
-              <span>${t.homepage.office.schedule.map(escape).join('<br>')}</span>
-            </address>
-          </div>
-        </div>
-        <div class="footer-social">
+        <div class="footer-brand">
+          ${logo(true)}
+          <p>${escape(t.description)}</p>
           <ul class="social-links" aria-label="${escape(t.socials)}">
             ${Object.entries(socialLinks).map(([key, href]) => `<li>${href?`<a href="${escape(href)}" aria-label="${escape(t.platforms[key])}">${icon(key)}</a>`:`<span class="social-placeholder" role="img" aria-label="${escape(t.platforms[key]+' · '+t.info.socialPending)}" title="${escape(t.info.socialPending)}">${icon(key)}</span>`}</li>`).join('')}
           </ul>
         </div>
+        <nav class="footer-nav" aria-label="${escape(t.footerNav)}">
+          ${footerGroup('products', ['catalog', 'catalogs', 'brands', 'new'])}
+          ${footerGroup('specialties', specialties)}
+          ${footerGroup('about', about)}
+        </nav>
       </div>
       <div class="footer-bottom">
         <small>${escape(t.copyright(year))}</small>

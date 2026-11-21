@@ -25,6 +25,7 @@ export default {
   addressLabel: 'Address',
   phonesLabel: 'Phones',
   emailLabel: 'Email',
+  emailShortLabel: 'Email',
   websiteLabel: 'Website',
   hoursLabel: 'Working hours',
   partnershipTitle: 'Partnerships',

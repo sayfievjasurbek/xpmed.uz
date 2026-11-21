@@ -94,25 +94,16 @@ export function renderHomepage(lang, t, products) {
       ${panels}
     </section>
 
-    <div class="home-teasers">
-      <section class="home-teaser hex-pattern" id="partnership" aria-labelledby="partner-title">
-        <div class="home-teaser__copy" data-reveal>
-          <h2 id="partner-title">${escape(copy.partner.title)}</h2>
-          <p class="eyebrow">${escape(copy.partnershipLabel)}</p>
-          <p>${escape(copy.partner.description)}</p>
-          ${textLinkDialog(CONTACT_DIALOG_ID, t.contactUs)}
-        </div>
-      </section>
-      <section class="home-teaser section--dark hex-pattern" id="certificates" aria-labelledby="certificates-title">
-        <div class="home-teaser__copy" data-reveal>
-          <h2 id="certificates-title">${escape(copy.certificatesTeaser.title)}</h2>
-          <p class="eyebrow">${escape(copy.certificatesTeaser.label)}</p>
-          <p>${escape(copy.certificatesTeaser.description)}</p>
-          ${textLink(certificateUrl, copy.certificatesTeaser.action)}
-        </div>
-      </section>
-    </div>
-    <section class="home-contact-strip"><div class="container"><div><p class="eyebrow">XPMED</p><h2>${escape(t.labels.contacts)}</h2><p>${t.address.map(escape).join(', ')}</p></div><div class="home-contact-strip__links">${contact.phones.map(p=>`<a href="tel:${p.tel}">${escape(p.label)}</a>`).join('')}<a href="mailto:${contact.email}">${contact.email}</a></div><button class="button" type="button" data-open="${CONTACT_DIALOG_ID}" aria-haspopup="dialog">${escape(t.contactUs)}</button></div></section>`;
+    <section class="home-contact-strip"><div class="container">
+      <p class="eyebrow">XPMED</p>
+      <h2>${escape(t.labels.contacts)}</h2>
+      <dl class="home-contact-strip__grid">
+        <div><dt>${escape(t.info.addressLabel)}</dt><dd>${t.address.map(escape).join('<br>')}</dd></div>
+        <div><dt>${escape(t.info.phonesLabel)}</dt><dd>${contact.phones.map(p=>`<a href="tel:${p.tel}">${escape(p.label)}</a>`).join('')}</dd></div>
+        <div><dt>${escape(t.info.emailShortLabel)}</dt><dd><a href="mailto:${contact.email}">${contact.email}</a><span class="home-contact-strip__hours">${copy.office.schedule.map(escape).join('<br>')}</span></dd></div>
+      </dl>
+      <button class="button" type="button" data-open="${CONTACT_DIALOG_ID}" aria-haspopup="dialog">${escape(t.contactUs)}</button>
+    </div></section>`;
 }
 
 export function renderHomeDialogs(t) {
