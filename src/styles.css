@@ -170,21 +170,32 @@ svg { width: 24px; height: 24px; flex: none; display: block; }
   border-bottom: 1px solid var(--light);
 }
 
+/* One row: the logo occupies a full-height column on the left so it is
+   centred against the whole header, not just the navigation band, and the
+   utility links and navigation stack on the right. */
 .header-bar {
-  display: flex;
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
   align-items: center;
-  justify-content: space-between;
-  min-height: calc(var(--header-height) - var(--utility-height) - 1px);
+  min-height: calc(var(--header-height) - 1px);
   gap: 26px;
 }
 
-.header-utility { color: var(--blue); }
+.header-side {
+  display: grid;
+  justify-items: end;
+  align-content: center;
+  row-gap: 10px;
+  min-width: 0;
+}
+
 .header-actions {
   display: flex;
   justify-content: flex-end;
   align-items: center;
   min-height: var(--utility-height);
   gap: clamp(16px, 2vw, 28px);
+  color: var(--blue);
   font-size: 14px;
   font-weight: 500;
   line-height: 1.2;
@@ -241,7 +252,7 @@ svg { width: 24px; height: 24px; flex: none; display: block; }
 .home-contact-strip h2 { margin:8px 0 0; }
 @media(max-width:800px){.info-story-grid,.info-contact-grid { grid-template-columns:1fr; }.info-story img { height:360px; }.info-stats .container { grid-template-columns:repeat(2,1fr); }.info-brand-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }.info-map iframe { height:360px; }}
 @media(max-width:520px){.info-stats .container,.info-brand-grid { grid-template-columns:1fr; }.info-contacts dl { grid-template-columns:1fr; }.info-contacts dt { margin-top:10px; }.info-hero { min-height:300px; padding:96px 0 40px; }}
-.desktop-nav { display: flex; align-self: stretch; gap: clamp(28px, 4vw, 64px); }
+.desktop-nav { display: flex; align-items: center; min-height: 44px; gap: clamp(28px, 4vw, 64px); }
 .nav-item { display: flex; }
 
 .nav-trigger {
@@ -459,7 +470,16 @@ dialog::backdrop { background: color-mix(in srgb, var(--navy) 62%, transparent);
 
 @media (max-width: 1050px) {
   :root { --header-height: 110px; --section-space: 80px; }
-  .header-bar { display: flex; justify-content: space-between; }
+  /* No room to sit the utility links beside the logo once the navigation
+     collapses, so they take their own row again and the logo spans both. */
+  .header-bar {
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    grid-template-areas: "logo side side" "logo . menu";
+    row-gap: 2px;
+  }
+  .header-bar > .logo { grid-area: logo; }
+  .header-side { grid-area: side; }
+  .header-bar > .icon-button[data-open="mobile-menu"] { grid-area: menu; }
   .header-bar .logo, .mobile-menu__header .logo { width: 150px; }
   .desktop-nav { display: none; }
   .icon-button[data-open="mobile-menu"] { display: grid; }
@@ -519,6 +539,9 @@ dialog::backdrop { background: color-mix(in srgb, var(--navy) 62%, transparent);
   h2 { font-size: 32px; }
   .header-actions { gap: 8px; font-size: 12px; }
   .header-actions .icon-button { width: 26px; }
+  /* Too narrow for a logo column beside the utility links: give them the
+     full width so "Связаться с отделом продаж" stays on one line. */
+  .header-bar { grid-template-areas: "side side side" "logo . menu"; }
   .header-bar .logo, .mobile-menu__header .logo { width: 124px; }
   .footer-top { grid-template-columns: 1fr; }
   .footer-nav { grid-template-columns: repeat(2, minmax(0, 1fr)); font-size: 19px; }

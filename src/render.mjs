@@ -105,21 +105,21 @@ ${pageScript ? `  <script type="module" src="${pageScript}"></script>\n` : ''}  
 <body>
   <a class="skip-link button" href="#main">${escape(t.skip)}</a>
   <header class="site-header">
-    <div class="header-utility">
-      <div class="container header-actions">
-        <a href="${destination('partners', lang)}">${escape(t.utilityPartners)}</a>
-        <a href="${escape(destination('contacts',lang))}">${escape(t.utilitySales)}</a>
-        <ul class="social-links social-links--header" aria-label="${escape(t.socials)}">${socialItems()}</ul>
-        ${languages()}
-        ${iconButton('search', t.search, 'data-open="search-dialog" aria-haspopup="dialog"')}
-      </div>
-    </div>
     <div class="container header-bar">
       ${logo()}
-      <nav class="desktop-nav" aria-label="${escape(t.primaryNav)}">
-        ${desktopNav}
-        <a class="nav-trigger" href="${escape(destination('contacts',lang))}">${escape(labels.contacts)}</a>
-      </nav>
+      <div class="header-side">
+        <div class="header-actions">
+          <a href="${destination('partners', lang)}">${escape(t.utilityPartners)}</a>
+          <a href="${escape(destination('contacts',lang))}">${escape(t.utilitySales)}</a>
+          <ul class="social-links social-links--header" aria-label="${escape(t.socials)}">${socialItems()}</ul>
+          ${languages()}
+          ${iconButton('search', t.search, 'data-open="search-dialog" aria-haspopup="dialog"')}
+        </div>
+        <nav class="desktop-nav" aria-label="${escape(t.primaryNav)}">
+          ${desktopNav}
+          <a class="nav-trigger" href="${escape(destination('contacts',lang))}">${escape(labels.contacts)}</a>
+        </nav>
+      </div>
       ${iconButton('menu', t.menu, 'data-open="mobile-menu" aria-haspopup="dialog" aria-controls="mobile-menu"')}
     </div>
   </header>
