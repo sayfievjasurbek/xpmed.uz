@@ -3,6 +3,8 @@ import { catalogRoute, destination, contact } from './navigation.mjs';
 import { icon } from './icons.mjs';
 import { escape } from './html.mjs';
 import { areaKeys, areaRoute, productCount, taxonomyLabel } from './clinical-taxonomy.mjs';
+import { orderedBrands } from './site-settings.mjs';
+import { brandName } from './i18n/discovery.mjs';
 
 const assets = '/assets/home/';
 const videoIds = ['E3vn7Gq2PFI', 'mHY8uwnrGh4'];
@@ -22,6 +24,13 @@ const areaShowcase = {
   'powered-instruments': 'hall-sternum-saws',
   'bone-cements': 'synicem-bone-cements',
 };
+
+// The manufacturer behind each area, named on the tile. The catalogue's full
+// legal names are too long for one line, so the tile uses the trading name.
+const shortBrand = {'double-medical': 'Double Medical', double: 'Double Medical', biotechni: 'BIOTECHNI'};
+const tileBrands = members => orderedBrands(members.map(p => p.brand)
+  .filter(brand => brand && !['unassigned', 'unspecified'].includes(brand)))
+  .map(brand => shortBrand[brand] || brandName(brand));
 
 function areaArtwork(area, products) {
   const members = products.filter(product => product.area === area);
@@ -62,11 +71,18 @@ export function renderHomepage(lang, t, products) {
     const members = products.filter(product => product.area === area);
     const art = areaArtwork(area, products);
     const label = taxonomyLabel(lang, area);
+    const brands = tileBrands(members);
+    const shown = brands.slice(0, 2);
+    const rest = brands.length - shown.length;
     return `<a class="area-tile" href="${escape(areaRoute(lang, area))}" style="--tile-index:${index}">
+      <span class="area-tile__index" aria-hidden="true">${String(index + 1).padStart(2, '0')}</span>
       <span class="area-tile__art${art?.soft ? ' area-tile__art--soft' : ''}">${art ? `<img src="${escape(art.src)}" alt="" width="${art.width}" height="${art.height}" loading="lazy" decoding="async">` : ''}</span>
       <span class="area-tile__name">${escape(label)}</span>
-      <span class="area-tile__count">${escape(productCount(lang, members.length))}</span>
-      <span class="area-tile__go" aria-hidden="true">${escape(copy.areasView)} →</span>
+      ${brands.length ? `<span class="area-tile__brands">${shown.map(escape).join('<i aria-hidden="true">·</i>')}${rest ? `<i aria-hidden="true">·</i>+${rest}` : ''}</span>` : ''}
+      <span class="area-tile__foot">
+        <span class="area-tile__count">${escape(productCount(lang, members.length))}</span>
+        <span class="area-tile__go" aria-hidden="true">${escape(copy.areasView)} →</span>
+      </span>
     </a>`;
   }).join('');
 
@@ -98,7 +114,7 @@ export function renderHomepage(lang, t, products) {
       </div>
     </section>
 
-    <section class="section section--dark hex-pattern" aria-labelledby="video-feature-title">
+    <section class="section home-feature hex-pattern" aria-labelledby="video-feature-title">
       <div class="container home-split home-split--video" data-reveal>
         ${thumbnail(0, copy)}
         <div class="home-split__copy">
@@ -114,7 +130,7 @@ export function renderHomepage(lang, t, products) {
 
     <section class="home-areas" id="featured-products" aria-labelledby="products-title">
       <div class="container">
-        <header class="home-areas__head" data-reveal-left>
+        <header class="home-areas__head">
           <p class="eyebrow">${escape(t.labels.products)}</p>
           <h2 id="products-title">${escape(copy.areasTitle)}</h2>
           ${textLink(catalogRoute(lang), copy.areasLink)}

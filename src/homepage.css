@@ -72,6 +72,22 @@
 }
 .hex-pattern.section--dark::before { opacity: .52; }
 
+/* The products block below this one is near-black. Two dark bands in a row
+   read as one long slab, so the testimonial band carries the page's soft grey
+   instead, and the eye gets light - grey - dark - white down the homepage. */
+.home-feature {
+  background: linear-gradient(180deg, var(--white), var(--light) 32%, var(--light));
+}
+.home-feature::after {
+  content: '';
+  position: absolute;
+  inset: auto 0 0;
+  height: 1px;
+  background: var(--gradient);
+  opacity: .22;
+}
+.home-feature .home-split__copy h2 { color: var(--navy); }
+
 .feature-actions { display: flex; flex-wrap: wrap; gap: 12px; }
 .video-frame { position: relative; aspect-ratio: 16 / 9; background: var(--caption); }
 .video-frame__play { position: absolute; inset: 0; display: grid; place-items: center; }
@@ -102,6 +118,7 @@
 
 /* Products: one dark block, no blue title band, with a faint radial glow. */
 .home-areas {
+  --ease-spring: cubic-bezier(.16, 1, .3, 1);
   position: relative;
   isolation: isolate;
   overflow: hidden;
@@ -145,21 +162,54 @@
 
 .area-tiles { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 20px; }
 
+/* Tiles are told apart by a static index number and a gradient tick in the
+   corner. Motion uses one easing curve, --ease-spring, an expo-out that
+   settles instead of stopping dead: the same feel a spring in a React motion
+   library gives, with no library and no per-frame JavaScript. */
 .area-tile {
-  display: grid;
-  align-content: start;
-  padding: 22px 22px 26px;
+  position: relative;
+  /* A column so the footer rule can be pushed down: the counts and the
+     "Смотреть" link then line up across a row whatever the title wraps to. */
+  display: flex;
+  flex-direction: column;
+  padding: 18px 22px 24px;
   border: 1px solid rgba(255, 255, 255, .08);
+  background-color: rgba(255, 255, 255, 0);
   color: var(--white);
   text-decoration: none;
-  transition: border-color .3s ease-out, background-color .3s ease-out;
+  transition: border-color .45s var(--ease-spring), background-color .45s var(--ease-spring), transform .45s var(--ease-spring);
+}
+.area-tile:hover, .area-tile:focus-visible { transform: translateY(-4px); }
+.area-tile::before {
+  content: '';
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  width: 46px;
+  height: 2px;
+  background: var(--gradient);
+  opacity: .5;
+  transition: opacity .45s var(--ease-spring);
 }
 .area-tile:hover, .area-tile:focus-visible {
   /* the thin rule becomes the green-to-blue gradient */
   border-image-source: var(--gradient);
   border-image-slice: 1;
+  background-color: rgba(255, 255, 255, .035);
 }
+.area-tile:hover::before, .area-tile:focus-visible::before { opacity: 1; }
 .area-tile:focus-visible { outline-color: var(--green); }
+
+.area-tile__index {
+  margin-bottom: 10px;
+  font-size: 12px;
+  font-weight: 400;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 2px;
+  color: rgba(255, 255, 255, .38);
+  transition: color .45s var(--ease-spring);
+}
+.area-tile:hover .area-tile__index, .area-tile:focus-visible .area-tile__index { color: var(--green); }
 
 /* A plain block, not a grid: a grid row is content-sized, so a tall portrait
    image made the row 383px and height:100% resolved against that, overflowing
@@ -188,21 +238,67 @@
   width: 100%;
   height: 100%;
   object-fit: contain;
-  transition: transform .3s ease-out;
+  opacity: .88;
+  transition: opacity .45s var(--ease-spring), transform .55s var(--ease-spring);
 }
-.area-tile:hover .area-tile__art img, .area-tile:focus-visible .area-tile__art img { transform: translateY(-6px) scale(1.05); }
+.area-tile:hover .area-tile__art img, .area-tile:focus-visible .area-tile__art img { opacity: 1; transform: scale(1.06); }
 
 .area-tile__name { font-size: 26px; font-weight: 300; line-height: 1.2; letter-spacing: .3px; }
-.area-tile__count { margin-top: 8px; font-size: 14px; font-weight: 300; color: rgba(255, 255, 255, .55); }
+/* Who makes what: the manufacturers whose products sit in this area. */
+.area-tile__brands {
+  margin-top: 10px;
+  margin-bottom: 16px;
+  font-size: 11.5px;
+  font-weight: 400;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, .72);
+}
+.area-tile__brands i { margin-inline: 7px; font-style: normal; color: var(--green); }
+.area-tile__foot {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: auto;
+  padding-top: 16px;
+  border-top: 1px solid rgba(255, 255, 255, .09);
+}
+.area-tile__count { font-size: 14px; font-weight: 300; color: rgba(255, 255, 255, .55); }
 .area-tile__go {
-  margin-top: 14px;
   font-size: 15px;
+  white-space: nowrap;
   color: var(--green);
   opacity: 0;
-  transform: translateY(4px);
-  transition: opacity .3s ease-out, transform .3s ease-out;
+  transform: translateX(-6px);
+  transition: opacity .45s var(--ease-spring), transform .45s var(--ease-spring);
 }
 .area-tile:hover .area-tile__go, .area-tile:focus-visible .area-tile__go { opacity: 1; transform: none; }
+
+/* Entrance. The class is added by script, so without JavaScript nothing is
+   ever hidden; under prefers-reduced-motion the script does not add it. */
+.home-areas.js-reveal .home-areas__head, .home-areas.js-reveal .area-tile { opacity: 0; }
+.home-areas.js-reveal.is-in .home-areas__head {
+  animation: area-head-in .7s var(--ease-spring) forwards;
+}
+.home-areas.js-reveal.is-in .area-tile {
+  animation: area-tile-in .75s var(--ease-spring) forwards;
+  animation-delay: calc(var(--tile-index) * 70ms + 90ms);
+}
+@keyframes area-head-in {
+  from { opacity: 0; transform: translateX(-26px); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes area-tile-in {
+  from { opacity: 0; transform: translateY(26px) scale(.97); filter: blur(7px); }
+  to { opacity: 1; transform: none; filter: blur(0); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .home-areas.js-reveal .home-areas__head, .home-areas.js-reveal .area-tile { opacity: 1; animation: none; }
+  .area-tile, .area-tile img, .area-tile__go { transition: none; }
+  .area-tile:hover, .area-tile:focus-visible { transform: none; }
+  .area-tile:hover .area-tile__art img, .area-tile:focus-visible .area-tile__art img { transform: none; }
+}
 
 @media (max-width: 1100px) {
   .area-tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }

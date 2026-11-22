@@ -15,26 +15,21 @@ if ('IntersectionObserver' in window && !reducedMotion.matches) {
   for (const section of document.querySelectorAll('[data-reveal]')) observer.observe(section);
 }
 
-// Clinical-area tiles fade up once with an 80ms stagger and the heading slides
-// in from the left. Nothing is hidden in CSS, so without JS — or with reduced
-// motion, which the guard above already respects — everything is simply there.
+// Clinical-area tiles. The CSS holds the keyframes and the spring easing; the
+// only job here is to mark the section once it comes into view, so the tiles
+// are never hidden when scripting is off or motion is reduced.
 const areasSection = document.querySelector('.home-areas');
 if (areasSection && 'IntersectionObserver' in window && !reducedMotion.matches) {
-  const reveal = new IntersectionObserver((entries) => {
-    for (const { target, isIntersecting } of entries) {
-      if (!isIntersecting) continue;
-      reveal.unobserve(target);
-      if (reducedMotion.matches) continue;
-      target.querySelector('[data-reveal-left]')?.animate([
-        { opacity: 0, transform: 'translateX(-28px)' },
-        { opacity: 1, transform: 'none' },
-      ], { duration: 500, easing: 'ease-out', fill: 'backwards' });
-      target.querySelectorAll('.area-tile').forEach((tile, index) => tile.animate([
-        { opacity: 0, transform: 'translateY(22px)' },
-        { opacity: 1, transform: 'none' },
-      ], { duration: 420, delay: index * 80, easing: 'ease-out', fill: 'backwards' }));
-    }
-  }, { threshold: 0.15 });
+  areasSection.classList.add('js-reveal');
+  const reveal = new IntersectionObserver(([entry]) => {
+    if (!entry.isIntersecting) return;
+    reveal.disconnect();
+    areasSection.classList.add('is-in');
+    // The animations carry the tiles from opacity 0. If they never run - a
+    // throttled background tab, a browser that skips them - the tiles must
+    // not stay invisible, so the hiding class comes off once they are due.
+    setTimeout(() => areasSection.classList.remove('js-reveal'), 2600);
+  }, { threshold: 0.12 });
   reveal.observe(areasSection);
 }
 
