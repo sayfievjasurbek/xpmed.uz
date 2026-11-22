@@ -49,6 +49,22 @@ export default {
   areasTitle: 'Solutions for every surgical discipline',
   areasLink: 'Full catalog',
   areasView: 'View',
+  // The brand switcher above the area tiles. Countries and the one-line
+  // descriptions come from the brand intros in catalog-en.mjs, shortened.
+  brandFilter: {
+    label: 'Filter by brand',
+    all: 'All brands',
+    more: 'Others',
+    allProducts: 'All products from this brand',
+    profiles: {
+      double: {country: 'China', text: 'orthopedic implants for trauma, joint replacement and spine surgery'},
+      conmed: {country: 'USA', text: 'equipment and instruments for arthroscopy, endoscopy and general surgery'},
+      synimed: {country: 'France', text: 'Synicem bone cements and devices for orthopedics'},
+      spinendos: {country: 'Germany', text: 'endoscopic systems for minimally invasive spine surgery'},
+      biotechni: {country: 'France', text: 'implants for joint replacement'},
+      'ge-healthcare': {country: 'USA', text: 'surgical imaging equipment'},
+    },
+  },
   productsTitle: 'Our products',
   filters: { all: 'All', double: 'Double Medical', conmed: 'CONMED', synimed: 'Synimed', new: 'New arrivals' },
   productCount: '{count} products',

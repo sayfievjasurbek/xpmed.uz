@@ -49,6 +49,22 @@ export default {
   areasTitle: 'Решения для каждого направления хирургии',
   areasLink: 'Весь каталог',
   areasView: 'Смотреть',
+  // The brand switcher above the area tiles. Countries and the one-line
+  // descriptions come from the brand intros in catalog-ru.mjs, shortened.
+  brandFilter: {
+    label: 'Фильтр по бренду',
+    all: 'Все бренды',
+    more: 'Другие',
+    allProducts: 'Все продукты бренда',
+    profiles: {
+      double: {country: 'Китай', text: 'ортопедические импланты для травматологии, эндопротезирования и хирургии позвоночника'},
+      conmed: {country: 'США', text: 'оборудование и инструменты для артроскопии, эндоскопии и общей хирургии'},
+      synimed: {country: 'Франция', text: 'костные цементы Synicem и изделия для ортопедии'},
+      spinendos: {country: 'Германия', text: 'эндоскопические системы для малоинвазивной хирургии позвоночника'},
+      biotechni: {country: 'Франция', text: 'импланты для эндопротезирования суставов'},
+      'ge-healthcare': {country: 'США', text: 'оборудование для хирургической визуализации'},
+    },
+  },
   productsTitle: 'Наша продукция',
   filters: { all: 'Все', double: 'Double Medical', conmed: 'CONMED', synimed: 'Synimed', new: 'Новинки' },
   productCount: '{count} позиций',

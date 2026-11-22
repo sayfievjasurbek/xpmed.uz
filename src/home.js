@@ -33,6 +33,82 @@ if (areasSection && 'IntersectionObserver' in window && !reducedMotion.matches) 
   reveal.observe(areasSection);
 }
 
+// Brand switcher above the area tiles. Every grid is already in the page; this only
+// decides which one is shown, slides the underline and keeps ?brand= in the
+// URL so a filtered view can be shared. The bar itself is hidden in the
+// markup, so without this script the page keeps all eight area tiles.
+const brandBar = document.querySelector('[data-brand-bar]');
+if (brandBar) {
+  const tabs = [...brandBar.querySelectorAll('[data-brand-tab]')];
+  const grids = [...document.querySelectorAll('[data-brand-tiles]')];
+  const lines = [...document.querySelectorAll('[data-brand-line]')];
+  const underline = brandBar.querySelector('.brand-tabs__underline');
+  const more = brandBar.querySelector('.brand-tabs__more');
+  const moreLabel = brandBar.querySelector('[data-more-label]');
+  const moreDefault = moreLabel?.textContent;
+  const known = new Set(grids.map(grid => grid.dataset.brandTiles));
+  let current = 'all';
+
+  brandBar.hidden = false;
+
+  const moveUnderline = (tab) => {
+    const anchorEl = more?.contains(tab) ? more.querySelector('summary') : tab;
+    const bar = brandBar.getBoundingClientRect();
+    const box = anchorEl.getBoundingClientRect();
+    underline.style.setProperty('--tab-x', `${box.left - bar.left}px`);
+    underline.style.setProperty('--tab-width', `${box.width}px`);
+  };
+
+  const show = (brand, {push = true} = {}) => {
+    if (!known.has(brand) || brand === current) return;
+    const outgoing = grids.find(grid => !grid.hidden);
+    const incoming = grids.find(grid => grid.dataset.brandTiles === brand);
+    const swap = () => {
+      for (const grid of grids) {
+        grid.hidden = grid !== incoming;
+        grid.classList.remove('is-leaving');
+      }
+      incoming.classList.remove('is-entering');
+      void incoming.offsetWidth;          // restart the stagger
+      incoming.classList.add('is-entering');
+      for (const line of lines) line.hidden = line.dataset.brandLine !== brand;
+    };
+    if (outgoing && outgoing !== incoming && !reducedMotion.matches) {
+      outgoing.classList.add('is-leaving');
+      setTimeout(swap, 180);
+    } else swap();
+
+    current = brand;
+    for (const tab of tabs) {
+      const active = tab.dataset.brandTab === brand;
+      tab.classList.toggle('is-active', active);
+      tab.setAttribute('aria-pressed', String(active));
+      if (active) moveUnderline(tab);
+    }
+    if (more) {
+      const inMenu = more.querySelector(`[data-brand-tab="${CSS.escape(brand)}"]`);
+      more.toggleAttribute('data-active', Boolean(inMenu));
+      if (moreLabel) moreLabel.textContent = inMenu ? inMenu.textContent : moreDefault;
+      more.open = false;
+    }
+    if (push) {
+      const url = new URL(location.href);
+      if (brand === 'all') url.searchParams.delete('brand'); else url.searchParams.set('brand', brand);
+      history.replaceState(null, '', url);
+    }
+  };
+
+  for (const tab of tabs) tab.addEventListener('click', () => show(tab.dataset.brandTab));
+  // A brand named in the address wins over the default view.
+  const requested = new URLSearchParams(location.search).get('brand');
+  if (requested && known.has(requested)) show(requested, {push: false});
+  else moveUnderline(tabs[0]);
+  addEventListener('resize', () => {
+    const active = tabs.find(tab => tab.dataset.brandTab === current);
+    if (active) moveUnderline(active);
+  });
+}
+
 const testimonials = document.querySelector('#testimonials-dialog');
 let activeVideo;
 

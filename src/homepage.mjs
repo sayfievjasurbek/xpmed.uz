@@ -1,10 +1,11 @@
 import {CONTACT_DIALOG_ID} from './contact-panel.mjs';
-import { catalogRoute, destination, contact } from './navigation.mjs';
+import { brandCatalogRoute, catalogRoute, destination, contact } from './navigation.mjs';
 import { icon } from './icons.mjs';
 import { escape } from './html.mjs';
 import { areaKeys, areaRoute, productCount, taxonomyLabel } from './clinical-taxonomy.mjs';
 import { orderedBrands } from './site-settings.mjs';
 import { brandName } from './i18n/discovery.mjs';
+import { brandMarks } from './brand-media.mjs';
 
 const assets = '/assets/home/';
 const videoIds = ['E3vn7Gq2PFI', 'mHY8uwnrGh4'];
@@ -31,6 +32,14 @@ const shortBrand = {'double-medical': 'Double Medical', double: 'Double Medical'
 const tileBrands = members => orderedBrands(members.map(p => p.brand)
   .filter(brand => brand && !['unassigned', 'unspecified'].includes(brand)))
   .map(brand => shortBrand[brand] || brandName(brand));
+
+// The brands with a tab of their own. Everything else is behind "Другие",
+// so adding a brand to the row is one edit here.
+const PRIMARY_BRAND_TABS = ['double', 'conmed', 'synimed', 'spinendos'];
+const ALL_BRANDS = 'all';
+const brandLabel = brand => shortBrand[brand] || brandName(brand);
+const productBrands = products => orderedBrands(products.map(p => p.brand)
+  .filter(brand => brand && !['unassigned', 'unspecified'].includes(brand)));
 
 function areaArtwork(area, products) {
   const members = products.filter(product => product.area === area);
@@ -67,24 +76,70 @@ export function renderHomepage(lang, t, products) {
   const copy = t.homepage;
   const certificateUrl = destination('certificates',lang);
 
-  const tiles = areaKeys.map((area, index) => {
-    const members = products.filter(product => product.area === area);
-    const art = areaArtwork(area, products);
-    const label = taxonomyLabel(lang, area);
-    const brands = tileBrands(members);
-    const shown = brands.slice(0, 2);
-    const rest = brands.length - shown.length;
-    return `<a class="area-tile" href="${escape(areaRoute(lang, area))}" style="--tile-index:${index}">
+  // One grid per brand plus the "all brands" grid. They are all rendered and
+  // only one is shown: swapping a hidden grid in costs nothing, the images
+  // below the fold are lazy anyway, and the page still works without
+  // JavaScript because the brand bar is hidden until the script unhides it.
+  const brands = productBrands(products);
+  const brandTiles = (brand) => {
+    const scope = brand === ALL_BRANDS ? products : products.filter(product => product.brand === brand);
+    return areaKeys
+      .filter(area => scope.some(product => product.area === area))
+      .map((area, index) => {
+        const members = scope.filter(product => product.area === area);
+        const art = areaArtwork(area, scope);
+        const names = brand === ALL_BRANDS ? tileBrands(members) : [];
+        const shown = names.slice(0, 2);
+        const rest = names.length - shown.length;
+        // In brand mode the tile goes straight to that brand's products in
+        // the area; the brand name under the title would only repeat the tab.
+        const href = brand === ALL_BRANDS
+          ? areaRoute(lang, area)
+          : brandCatalogRoute(lang, brand) + '?area=' + encodeURIComponent(area) + '#catalog-results';
+        return `<a class="area-tile" href="${escape(href)}" style="--tile-index:${index}">
       <span class="area-tile__index" aria-hidden="true">${String(index + 1).padStart(2, '0')}</span>
       <span class="area-tile__art${art?.soft ? ' area-tile__art--soft' : ''}">${art ? `<img src="${escape(art.src)}" alt="" width="${art.width}" height="${art.height}" loading="lazy" decoding="async">` : ''}</span>
-      <span class="area-tile__name">${escape(label)}</span>
-      ${brands.length ? `<span class="area-tile__brands">${shown.map(escape).join('<i aria-hidden="true">·</i>')}${rest ? `<i aria-hidden="true">·</i>+${rest}` : ''}</span>` : ''}
+      <span class="area-tile__name">${escape(taxonomyLabel(lang, area))}</span>
+      ${names.length ? `<span class="area-tile__brands">${shown.map(escape).join('<i aria-hidden="true">·</i>')}${rest ? `<i aria-hidden="true">·</i>+${rest}` : ''}</span>` : ''}
       <span class="area-tile__foot">
         <span class="area-tile__count">${escape(productCount(lang, members.length))}</span>
         <span class="area-tile__go" aria-hidden="true">${escape(copy.areasView)} →</span>
       </span>
     </a>`;
+      }).join('');
+  };
+
+  const filter = copy.brandFilter;
+  const tabButton = (brand) => `<button class="brand-tab${brand === ALL_BRANDS ? ' is-active' : ''}" type="button" data-brand-tab="${escape(brand)}" aria-pressed="${brand === ALL_BRANDS}">${escape(brand === ALL_BRANDS ? filter.all : brandLabel(brand))}</button>`;
+  const primary = brands.filter(brand => PRIMARY_BRAND_TABS.includes(brand));
+  const others = brands.filter(brand => !PRIMARY_BRAND_TABS.includes(brand));
+  const brandBar = `<div class="brand-tabs" role="group" aria-label="${escape(filter.label)}" data-brand-bar hidden>
+      <div class="brand-tabs__row">
+        ${[ALL_BRANDS, ...primary].map(tabButton).join('')}
+        ${others.length ? `<details class="brand-tabs__more">
+          <summary><span data-more-label>${escape(filter.more)}</span>${icon('down')}</summary>
+          <div class="brand-tabs__menu">${others.map(tabButton).join('')}</div>
+        </details>` : ''}
+      </div>
+      <span class="brand-tabs__underline" aria-hidden="true"></span>
+    </div>`;
+
+  // The white wordmark: three of the marks are white artwork already, the
+  // rest are full colour and would disappear on this section, so they are
+  // flattened to white rather than inverted, which would recolour them.
+  const brandLines = brands.map(brand => {
+    const profile = filter.profiles[brand] || {};
+    const mark = brandMarks[brand];
+    return `<div class="brand-line" data-brand-line="${escape(brand)}" hidden>
+      ${mark ? `<img class="brand-line__mark${mark.light ? '' : ' is-dark-mark'}" src="${mark.file}" alt="${escape(brandName(brand))}" loading="lazy" decoding="async">`
+        : `<strong class="brand-line__mark">${escape(brandLabel(brand))}</strong>`}
+      <p>${[profile.country, profile.text].filter(Boolean).map(escape).join('<span aria-hidden="true"> · </span>')}</p>
+      ${textLink(brandCatalogRoute(lang, brand), filter.allProducts)}
+    </div>`;
   }).join('');
+
+  const grids = [ALL_BRANDS, ...brands].map(brand =>
+    `<div class="area-tiles" data-brand-tiles="${escape(brand)}"${brand === ALL_BRANDS ? '' : ' hidden'}>${brandTiles(brand)}</div>`).join('')
 
   return `<section class="home-hero" aria-labelledby="hero-title">
       <div class="hero-collage" aria-hidden="true">
@@ -135,7 +190,9 @@ export function renderHomepage(lang, t, products) {
           <h2 id="products-title">${escape(copy.areasTitle)}</h2>
           ${textLink(catalogRoute(lang), copy.areasLink)}
         </header>
-        <div class="area-tiles">${tiles}</div>
+        ${brandBar}
+        <div class="brand-lines">${brandLines}</div>
+        ${grids}
       </div>
     </section>
 

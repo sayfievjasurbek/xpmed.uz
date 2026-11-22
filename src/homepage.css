@@ -168,7 +168,102 @@
 .home-areas__head .text-link svg { color: var(--green); }
 .home-areas__head .text-link:hover { color: var(--green); }
 
+/* ---------- brand switcher ---------- */
+/* The bar is hidden in the markup and unhidden by home.js, so with no script
+   the page keeps the eight area tiles and nothing dead is on screen. */
+.brand-tabs {
+  position: relative;
+  margin: -12px 0 clamp(26px, 3vw, 38px);
+  border-bottom: 1px solid rgba(255, 255, 255, .1);
+}
+.brand-tabs[hidden] { display: none; }
+.brand-tabs__row {
+  display: flex;
+  align-items: center;
+  gap: clamp(18px, 2.6vw, 34px);
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.brand-tabs__row::-webkit-scrollbar { display: none; }
+.brand-tab, .brand-tabs__more summary {
+  padding: 0 0 14px;
+  border: 0;
+  background: none;
+  font: inherit;
+  font-size: 15px;
+  font-weight: 300;
+  white-space: nowrap;
+  color: rgba(255, 255, 255, .6);
+  cursor: pointer;
+  transition: color .3s var(--ease-spring, ease-out);
+}
+.brand-tab:hover, .brand-tabs__more summary:hover { color: var(--white); }
+.brand-tab.is-active, .brand-tabs__more[data-active] summary { color: var(--white); }
+
+/* The underline is one element moved between the tabs, so it slides. */
+.brand-tabs__underline {
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  height: 2px;
+  width: var(--tab-width, 0);
+  background: var(--gradient);
+  transform: translateX(var(--tab-x, 0));
+  transition: transform .4s var(--ease-spring, ease-out), width .4s var(--ease-spring, ease-out);
+}
+@media (prefers-reduced-motion: reduce) { .brand-tabs__underline { transition: none; } }
+
+.brand-tabs__more { position: relative; }
+.brand-tabs__more summary { display: flex; align-items: center; gap: 6px; list-style: none; }
+.brand-tabs__more summary::-webkit-details-marker { display: none; }
+.brand-tabs__more summary svg { width: 15px; height: 15px; }
+.brand-tabs__more[open] summary svg { transform: rotate(180deg); }
+.brand-tabs__menu {
+  position: absolute;
+  z-index: 3;
+  top: calc(100% + 2px);
+  left: -14px;
+  display: grid;
+  min-width: 190px;
+  padding: 6px;
+  background: #06202A;
+  border: 1px solid rgba(255, 255, 255, .12);
+}
+.brand-tabs__menu .brand-tab { padding: 9px 12px; text-align: left; }
+.brand-tabs__menu .brand-tab:hover { background: rgba(255, 255, 255, .05); }
+
+.brand-lines:empty { display: none; }
+.brand-line {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px clamp(16px, 2.4vw, 28px);
+  margin-bottom: clamp(24px, 3vw, 34px);
+}
+.brand-line[hidden] { display: none; }
+.brand-line__mark { max-width: 164px; max-height: 38px; width: auto; height: auto; object-fit: contain; }
+/* Full-colour wordmarks vanish on this section; flattening them to white
+   keeps their shape, where inverting would recolour them. */
+.brand-line__mark.is-dark-mark { filter: brightness(0) invert(1); opacity: .9; }
+strong.brand-line__mark { font-size: 20px; font-weight: 400; }
+.brand-line p { margin: 0; font-size: 15px; font-weight: 300; color: rgba(255, 255, 255, .66); }
+.brand-line .text-link { margin-left: auto; color: var(--white); white-space: nowrap; }
+.brand-line .text-link svg { color: var(--green); }
+
 .area-tiles { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 20px; }
+.area-tiles[hidden] { display: none; }
+/* Switching brands: the outgoing grid fades, the incoming tiles come back in
+   with a short stagger. Both are CSS; home.js only swaps the classes. */
+.area-tiles.is-leaving { opacity: 0; transition: opacity .18s ease-out; }
+.area-tiles.is-entering .area-tile { animation: tile-swap-in .45s var(--ease-spring) backwards; animation-delay: calc(var(--tile-index) * 45ms); }
+@keyframes tile-swap-in {
+  from { opacity: 0; transform: translateY(14px); }
+  to { opacity: 1; transform: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .area-tiles.is-leaving { opacity: 1; transition: none; }
+  .area-tiles.is-entering .area-tile { animation: none; }
+}
 
 /* Tiles are told apart by a static index number and a gradient tick in the
    corner. Motion uses one easing curve, --ease-spring, an expo-out that
@@ -310,12 +405,16 @@
 
 @media (max-width: 1100px) {
   .area-tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .brand-line .text-link { margin-left: 0; }
   .home-areas__head { grid-template-columns: 1fr; }
   .home-areas__head .text-link { grid-column: 1; grid-row: auto; margin-top: 14px; }
 }
 
 /* Phones swipe through the areas instead of stacking eight tall tiles. */
 @media (max-width: 760px) {
+  .brand-tabs__row { margin-inline: calc(var(--gutter) * -1); padding-inline: var(--gutter); }
+  .brand-tabs__more { position: static; }
+  .brand-tabs__menu { left: var(--gutter); right: var(--gutter); }
   .area-tiles {
     grid-template-columns: none;
     grid-auto-flow: column;
