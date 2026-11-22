@@ -225,29 +225,6 @@
 .academy-partner:hover { filter: grayscale(0); opacity: 1; border-color: #CDD6DA; }
 .academy-partner strong { font-size: 19px; font-weight: 400; letter-spacing: .4px; color: var(--navy); text-align: center; }
 
-/* ---------- closing band ---------- */
-.academy-cta { padding: clamp(48px, 6vw, 80px) 0; background: var(--blue); color: var(--white); }
-.academy-cta__inner {
-  display: grid;
-  grid-template-columns: minmax(0, 1.1fr) minmax(0, .9fr);
-  gap: clamp(28px, 4vw, 64px);
-  align-items: center;
-}
-.academy-cta h2 { font-size: clamp(26px, 3.2vw, 40px); font-weight: 300; line-height: 1.16; }
-.academy-cta p { margin: 14px 0 26px; max-width: 48ch; color: color-mix(in srgb, var(--white) 88%, var(--blue)); }
-.academy-cta__button { color: var(--white); border-color: color-mix(in srgb, var(--white) 70%, transparent); }
-.academy-cta__button:hover { background: var(--white); color: var(--blue); }
-.academy-cta__contacts { display: grid; gap: 18px; margin: 0; }
-.academy-cta__contacts dt {
-  font-size: 12px;
-  letter-spacing: 1.6px;
-  text-transform: uppercase;
-  color: color-mix(in srgb, var(--white) 72%, var(--blue));
-}
-.academy-cta__contacts dd { display: grid; gap: 4px; margin: 6px 0 0; }
-.academy-cta__contacts a { color: var(--white); text-decoration: none; border-bottom: 1px solid color-mix(in srgb, var(--white) 40%, transparent); justify-self: start; }
-.academy-cta__contacts a:hover { border-bottom-color: var(--white); }
-
 /* ---------- entrance ---------- */
 .academy-page .js-reveal > .container { opacity: 0; }
 .academy-page .js-reveal.is-in > .container {
@@ -268,7 +245,7 @@
 }
 
 @media (max-width: 1000px) {
-  .academy-about__grid, .academy-mission__grid, .academy-courses__grid, .academy-cta__inner { grid-template-columns: 1fr; }
+  .academy-about__grid, .academy-mission__grid, .academy-courses__grid { grid-template-columns: 1fr; }
   .academy-about__photo, .academy-mission__photo { position: static; aspect-ratio: 3 / 2; }
   .academy-courses__photos { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .academy-courses__photos img:first-child { aspect-ratio: 4 / 5; }

@@ -1,7 +1,6 @@
 import {academyPhoto, partnerLogo} from './academy-media.mjs';
 import {renderBrandMark} from './brand-media.mjs';
 import {brandName} from './i18n/discovery.mjs';
-import {contact} from './navigation.mjs';
 import {escape} from './html.mjs';
 import {icon} from './icons.mjs';
 
@@ -108,20 +107,6 @@ export function renderAcademyPage(lang, t) {
       <h2 id="academy-partners-title">${escape(c.partners.title)}</h2>
       <p>${escape(c.partners.intro)}</p>
       <div class="academy-partner-grid">${partners.map(partnerCard).join('')}</div>
-    </div>
-  </section>
-
-  <section class="academy-cta" aria-labelledby="academy-cta-title">
-    <div class="container academy-cta__inner">
-      <div>
-        <h2 id="academy-cta-title">${escape(c.cta.title)}</h2>
-        <p>${escape(c.cta.text)}</p>
-        ${siteButton(t, 'button academy-cta__button')}
-      </div>
-      <dl class="academy-cta__contacts">
-        <div><dt>${escape(c.cta.phonesLabel)}</dt><dd>${contact.phones.map(p => `<a href="tel:${p.tel}">${escape(p.label)}</a>`).join('')}</dd></div>
-        <div><dt>${escape(c.cta.emailLabel)}</dt><dd><a href="mailto:${contact.email}">${contact.email}</a></dd></div>
-      </dl>
     </div>
   </section>`;
 }

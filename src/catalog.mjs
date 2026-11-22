@@ -1,7 +1,6 @@
 import {brandName} from './i18n/discovery.mjs';
 import {discovery} from './i18n/discovery.mjs';
 import { catalogRoute, homeRoute } from './navigation.mjs';
-import { CONTACT_DIALOG_ID } from './contact-panel.mjs';
 import { pageSize } from './catalog-engine.js';
 import { escape } from './html.mjs';
 import { icon } from './icons.mjs';
@@ -176,12 +175,7 @@ export function renderCatalog(lang, t, scope, products, otherLanguage) {
     </div>
   </section>
 
-  <section class="catalog-contact" aria-labelledby="catalog-contact-title">
-    <div class="container catalog-contact__layout">
-      <div><h2 id="catalog-contact-title">${escape(copy.contactTitle)}</h2><p>${escape(copy.contactDescription)}</p></div>
-      <button class="button" type="button" data-open="${CONTACT_DIALOG_ID}" aria-haspopup="dialog">${escape(t.utilitySales)}</button>
-    </div>
-  </section>`;
+`;
 }
 
 function renderBrandIntro(lang, copy, scope, heading, product) {

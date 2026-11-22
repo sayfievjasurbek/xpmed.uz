@@ -12,6 +12,7 @@ import { renderHomepage, renderHomeDialogs } from './homepage.mjs';
 import { catalogDescription, catalogDocumentTitle, renderCatalog, renderCatalogDialog } from './catalog.mjs';
 import {renderInfoPage} from './info-pages.mjs';
 import {renderAcademyPage} from './academy-page.mjs';
+import {renderCtaBand} from './cta-band.mjs';
 import {areaKeys,areaRoute,clinicalAreas,parseTaxonomyScope,productCount,subcategoryLabels,taxonomyLabel} from './clinical-taxonomy.mjs';
 
 const sections = ['products', 'specialties', 'about'];
@@ -36,6 +37,20 @@ export function render(lang, t, year, products, scope, otherLanguage, system = n
   // library page must not ask for it a second time.
   // catalog.js drives the filter form, which only the catalog listings have.
   // It used to load on the info pages too and threw on every one of them.
+  // The closing band: product pages, catalog listings, the brand pages and
+  // About. The homepage has its own contact strip, Contacts is the contact
+  // page, and 404 and the PDF library close on their own.
+  const closingBand = academy
+    ? renderCtaBand(lang, t, {
+        id: 'academy-cta-title',
+        eyebrow: 'XPMED Academy',
+        title: t.academy.cta.title,
+        text: t.academy.cta.text,
+        action: {href: t.academy.site, label: t.academy.siteAction + ' →', external: true},
+      })
+    : system || scope === 'about-page' || scope === 'brands-page' || (scope && !infoPage && !library)
+      ? renderCtaBand(lang, t)
+      : '';
   const pageScript = system ? '/system.js' : academy ? '/academy.js' : library || infoPage ? null : scope ? '/catalog.js' : '/home.js';
   const link = (key, className = '') => `<a href="${escape(destination(key, lang))}"${className ? ` class="${className}"` : ''}>${escape(navigationLabels[key])}</a>`;
   const list = (keys) => `<ul class="link-list">${keys.map((key) => `<li>${link(key)}</li>`).join('')}</ul>`;
@@ -128,6 +143,7 @@ ${pageScript ? `  <script type="module" src="${pageScript}"></script>\n` : ''}  
 
   <main id="main" class="${academy ? 'academy-page' : scope ? 'catalog-page' : 'homepage'}" tabindex="-1">
     ${system ? renderSystem(system, lang) : academy ? renderAcademyPage(lang, t) : infoPage ? renderInfoPage(lang,t,products,scope,siteData) : library ? renderLibrary(lang,t,siteData.catalogs||[]) : scope ? renderCatalog(lang, t, scope, products, otherLanguage) : renderHomepage(lang, t, products)}
+    ${closingBand}
   </main>
 
   <footer class="site-footer">

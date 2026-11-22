@@ -101,3 +101,25 @@ for (const dialog of document.querySelectorAll('dialog')) {
     }
   });
 }
+
+// The closing band rises into view once. It is on nearly every page, so the
+// hook lives here rather than in a page script; the hiding class is added by
+// script, so without JavaScript - or with reduced motion - the band is simply
+// there, and a timeout drops it again in case a throttled tab never runs the
+// keyframes.
+const ctaBands = document.querySelectorAll('[data-cta-band]');
+if (ctaBands.length && 'IntersectionObserver' in window
+    && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+  const reveal = new IntersectionObserver((entries) => {
+    for (const {target, isIntersecting} of entries) {
+      if (!isIntersecting) continue;
+      reveal.unobserve(target);
+      target.classList.add('is-in');
+      setTimeout(() => target.classList.remove('js-reveal'), 2000);
+    }
+  }, {threshold: 0.2});
+  for (const band of ctaBands) {
+    band.classList.add('js-reveal');
+    reveal.observe(band);
+  }
+}

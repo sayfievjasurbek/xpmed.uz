@@ -20,6 +20,8 @@ export default {
   close: 'Close',
   language: 'Site language',
   contactUs: 'Contact us',
+  // The eyebrow over the closing band on every page.
+  ctaBand: {eyebrow: 'Sales team'},
   contactPanel: {
     title: 'Contact XPMED',
     intro: 'Our sales team answers questions on pricing, availability and product selection.',

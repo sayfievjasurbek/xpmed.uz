@@ -126,6 +126,83 @@ svg { width: 24px; height: 24px; flex: none; display: block; }
 .section--dark .button { color: var(--white); }
 .button:is(:hover, :focus-visible) { color: var(--white); background: var(--gradient); }
 
+/* ---------- closing band ---------- */
+/* The band that ends a product, catalog, brand, About or Academy page. The
+   ivory is used here and nowhere else on the site, which is what makes the
+   band read as a pause rather than another section. */
+.cta-band {
+  --ivory: #F5F1E8;
+  --ivory-line: #E9E3D6;
+  --ivory-rule: #E2DACB;
+  position: relative;
+  padding-block: 96px;
+  border-block: 1px solid var(--ivory-rule);
+  background-color: var(--ivory);
+  /* 1px diagonals, 24px apart measured across the lines, which is what the
+     repeating gradient's length means at 45 degrees. */
+  background-image: repeating-linear-gradient(45deg,
+    var(--ivory-line) 0 1px, transparent 1px 24px);
+}
+.cta-band__inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 32px clamp(24px, 4vw, 64px);
+}
+.cta-band__copy { max-width: 62ch; }
+.cta-band .eyebrow { margin: 0 0 14px; color: var(--green); }
+.cta-band h2 {
+  margin: 0;
+  font-size: clamp(28px, 3.4vw, 44px);
+  font-weight: 300;
+  line-height: 1.14;
+  color: var(--navy);
+}
+.cta-band__text { margin: 14px 0 0; color: #5B6B73; }
+
+.cta-band__actions { display: grid; justify-items: center; gap: 14px; }
+/* The one filled button on the site: navy, going to the brand gradient on
+   hover, so the band has a single obvious next step. */
+.cta-band__action {
+  background: var(--navy);
+  color: var(--white);
+  min-width: 260px;
+}
+.cta-band__action::before { display: none; }
+.cta-band__action:is(:hover, :focus-visible) { background: var(--gradient); color: var(--white); }
+.cta-band__phone {
+  font-size: 16px;
+  color: var(--navy);
+  text-decoration: none;
+  border-bottom: 1px solid color-mix(in srgb, var(--navy) 35%, transparent);
+}
+.cta-band__phone:hover { border-bottom-color: var(--navy); }
+
+/* Entrance: the copy rises, the button follows. The class is added by
+   client.js on every page, so nothing is hidden when scripting is off. */
+.cta-band.js-reveal .cta-band__copy, .cta-band.js-reveal .cta-band__actions { opacity: 0; }
+.cta-band.js-reveal.is-in .cta-band__copy,
+.cta-band.js-reveal.is-in .cta-band__actions {
+  animation: cta-band-in .6s cubic-bezier(.16, 1, .3, 1) forwards;
+}
+.cta-band.js-reveal.is-in .cta-band__actions { animation-delay: .12s; }
+@keyframes cta-band-in {
+  from { opacity: 0; transform: translateY(18px); }
+  to { opacity: 1; transform: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .cta-band.js-reveal .cta-band__copy, .cta-band.js-reveal .cta-band__actions { opacity: 1; animation: none; }
+}
+
+@media (max-width: 860px) {
+  .cta-band { padding-block: 64px; }
+  .cta-band__inner { flex-direction: column; align-items: flex-start; }
+  .cta-band__actions { justify-items: stretch; width: 100%; max-width: 420px; }
+  .cta-band__action { min-width: 0; width: 100%; }
+  .cta-band__phone { justify-self: center; }
+}
+
 .text-link {
   display: inline-flex;
   align-items: center;

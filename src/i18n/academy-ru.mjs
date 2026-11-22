@@ -75,7 +75,5 @@ export default {
   cta: {
     title: 'Станьте участником XPMED Academy',
     text: 'Расскажем о ближайших курсах, программе и условиях участия.',
-    phonesLabel: 'Телефоны',
-    emailLabel: 'Электронная почта',
   },
 };

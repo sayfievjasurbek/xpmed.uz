@@ -20,6 +20,8 @@ export default {
   close: 'Закрыть',
   language: 'Язык сайта',
   contactUs: 'Связаться с нами',
+  // The eyebrow over the closing band on every page.
+  ctaBand: {eyebrow: 'Отдел продаж'},
   contactPanel: {
     title: 'Связаться с XPMED',
     intro: 'Отдел продаж ответит на вопросы по цене, наличию и подбору позиций.',
