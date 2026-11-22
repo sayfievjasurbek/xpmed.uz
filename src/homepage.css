@@ -100,42 +100,135 @@
   font-size: 13px;
 }
 
-.home-products { background: var(--night); color: var(--white); }
-.products-heading { padding: 39px var(--gutter) 43px; text-align: center; background: var(--blue); }
-.product-tabs {
-  display: flex;
-  justify-content: center;
-  gap: clamp(22px, 4.6vw, 72px);
-  padding: 10px var(--gutter) 0;
-}
-.product-tab {
+/* Products: one dark block, no blue title band, with a faint radial glow. */
+.home-areas {
   position: relative;
-  padding: 20px 2px 23px;
-  border: 0;
-  background: transparent;
+  isolation: isolate;
+  overflow: hidden;
+  padding-block: clamp(64px, 8vw, 120px);
+  background: var(--night);
   color: var(--white);
-  font-size: 26px;
-  font-weight: 300;
-  line-height: 1.1;
-  white-space: nowrap;
-  -webkit-tap-highlight-color: transparent;
 }
-.product-tab:focus:not(:focus-visible) { outline: none; }
-.product-tab::after {
-  position: absolute;
-  inset: auto 0 0;
-  height: 4px;
-  background: var(--gradient);
-  opacity: 0;
+.home-areas::before {
   content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background:
+    radial-gradient(44% 56% at 20% 16%, color-mix(in srgb, var(--green) 8%, transparent), transparent 72%),
+    radial-gradient(48% 62% at 84% 78%, color-mix(in srgb, var(--blue) 8%, transparent), transparent 72%);
 }
-.product-tab:is(:hover, [aria-selected="true"])::after { opacity: 1; }
-.product-tabs :focus-visible, .product-tile :focus-visible { outline-color: var(--green); }
-.product-grid {
+
+.home-areas__head {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  border-top: 1px solid var(--caption);
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: end;
+  gap: 4px clamp(24px, 4vw, 64px);
+  margin-bottom: clamp(32px, 4vw, 56px);
+  padding-bottom: 26px;
+  border-bottom: 1px solid rgba(255, 255, 255, .14);
 }
+.home-areas__head .eyebrow { grid-column: 1; margin: 0; color: var(--green); }
+.home-areas__head h2 {
+  grid-column: 1;
+  max-width: 22ch;
+  margin: 12px 0 0;
+  font-size: clamp(30px, 3.8vw, 52px);
+  font-weight: 300;
+  line-height: 1.12;
+  letter-spacing: .4px;
+}
+.home-areas__head .text-link { grid-column: 2; grid-row: 2; color: var(--white); white-space: nowrap; }
+.home-areas__head .text-link svg { color: var(--green); }
+.home-areas__head .text-link:hover { color: var(--green); }
+
+.area-tiles { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 20px; }
+
+.area-tile {
+  display: grid;
+  align-content: start;
+  padding: 22px 22px 26px;
+  border: 1px solid rgba(255, 255, 255, .08);
+  color: var(--white);
+  text-decoration: none;
+  transition: border-color .3s ease-out, background-color .3s ease-out;
+}
+.area-tile:hover, .area-tile:focus-visible {
+  /* the thin rule becomes the green-to-blue gradient */
+  border-image-source: var(--gradient);
+  border-image-slice: 1;
+}
+.area-tile:focus-visible { outline-color: var(--green); }
+
+/* A plain block, not a grid: a grid row is content-sized, so a tall portrait
+   image made the row 383px and height:100% resolved against that, overflowing
+   the box and covering the tile title. */
+.area-tile__art {
+  position: relative;
+  height: clamp(128px, 12vw, 164px);
+  margin-bottom: 20px;
+}
+.area-tile__art::before {
+  content: '';
+  position: absolute;
+  inset: 8% 14%;
+  background: radial-gradient(ellipse, rgba(255, 255, 255, .11), transparent 70%);
+}
+/* No image at least 800px wide for this area: a soft gradient carries it. */
+.area-tile__art--soft::before {
+  inset: 6%;
+  background: radial-gradient(ellipse, color-mix(in srgb, var(--blue) 22%, transparent), color-mix(in srgb, var(--green) 8%, transparent) 55%, transparent 75%);
+}
+/* The box has a fixed height, so size the image to it and let object-fit
+   letterbox: max-height:100% does not clamp a grid item reliably here. */
+.area-tile__art img {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transition: transform .3s ease-out;
+}
+.area-tile:hover .area-tile__art img, .area-tile:focus-visible .area-tile__art img { transform: translateY(-6px) scale(1.05); }
+
+.area-tile__name { font-size: 26px; font-weight: 300; line-height: 1.2; letter-spacing: .3px; }
+.area-tile__count { margin-top: 8px; font-size: 14px; font-weight: 300; color: rgba(255, 255, 255, .55); }
+.area-tile__go {
+  margin-top: 14px;
+  font-size: 15px;
+  color: var(--green);
+  opacity: 0;
+  transform: translateY(4px);
+  transition: opacity .3s ease-out, transform .3s ease-out;
+}
+.area-tile:hover .area-tile__go, .area-tile:focus-visible .area-tile__go { opacity: 1; transform: none; }
+
+@media (max-width: 1100px) {
+  .area-tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .home-areas__head { grid-template-columns: 1fr; }
+  .home-areas__head .text-link { grid-column: 1; grid-row: auto; margin-top: 14px; }
+}
+
+/* Phones swipe through the areas instead of stacking eight tall tiles. */
+@media (max-width: 760px) {
+  .area-tiles {
+    grid-template-columns: none;
+    grid-auto-flow: column;
+    grid-auto-columns: min(74%, 300px);
+    gap: 14px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    padding-inline: var(--gutter);
+    margin-inline: calc(var(--gutter) * -1);
+    scrollbar-width: none;
+  }
+  .area-tiles::-webkit-scrollbar { display: none; }
+  .area-tile { scroll-snap-align: start; }
+  .area-tile__name { font-size: 22px; }
+  .area-tile__go { opacity: 1; transform: none; }
+}
+
 .product-tile { min-width: 0; }
 .product-tile + .product-tile { border-inline-start: 1px solid var(--caption); }
 .product-tile__link { display: flex; height: 100%; flex-direction: column; }
@@ -200,9 +293,6 @@
 
 @media (max-width: 1050px) {
   .home-mission { padding-block: var(--section-space); }
-  .product-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .product-tile:nth-child(odd) { border-inline-start: 0; }
-  .product-tile:nth-child(n+3) { border-block-start: 1px solid var(--caption); }
 }
 
 @media (max-width: 680px) {
@@ -217,25 +307,13 @@
   .home-teasers { gap: 0; }
   .home-split--video .video-frame + .home-split__copy { margin-top: 8px; }
   .home-split__copy p { margin-block: 14px 22px; }
-  .products-heading { padding-block: 30px; }
-  .product-tabs { gap: clamp(8px, 2.8vw, 24px); padding-inline: 10px; }
-  .product-tab { padding-block: 15px 17px; font-size: clamp(16px, 4.1vw, 22px); }
   .product-tile__image { height: clamp(155px, 50vw, 280px); }
   .product-tile__caption { min-height: 118px; padding-block: 12px; align-items: flex-start; }
   .product-tile__caption h3 { font-size: 20px; }
 }
 
 @media (max-width: 375px) {
-  .product-tabs { gap: 5px; padding-inline: 4px; }
-  .product-tab { font-size: 15px; letter-spacing: 0; }
   .product-tile__caption { gap: 6px; padding-inline: 10px; }
   .product-tile__caption svg { width: 20px; height: 20px; }
 }
 
-.home-catalog-link {
-  display: flex;
-  justify-content: center;
-  padding: 32px var(--gutter);
-}
-
-.home-catalog-link .button { color: var(--white); }

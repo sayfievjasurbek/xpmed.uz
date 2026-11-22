@@ -144,6 +144,10 @@ export function classifySystem(s){
 }
 
 export const areaKeys=Object.keys(clinicalAreas);
+// Russian needs three forms; used by the Products menu and the homepage tiles.
+export const productCount=(lang,count)=>lang==='en'
+  ? `${count} ${count===1?'product':'products'}`
+  : `${count} ${count%10===1&&count%100!==11?'продукт':count%10>=2&&count%10<=4&&(count%100<12||count%100>14)?'продукта':'продуктов'}`;
 export const taxonomyLabel=(lang,key)=>clinicalAreas[key]?.label?.[lang]||subcategoryLabels[key]?.[lang]||productTypeLabels[key]?.[lang]||key;
 export const areaRoute=(lang,area,subcategory='')=>(lang==='en'?'/en':'')+'/catalog/'+area+'/'+(subcategory?subcategory+'/':'');
 export function parseTaxonomyScope(scope){

@@ -2,11 +2,40 @@ import {CONTACT_DIALOG_ID} from './contact-panel.mjs';
 import { catalogRoute, destination, contact } from './navigation.mjs';
 import { icon } from './icons.mjs';
 import { escape } from './html.mjs';
-import { renderProductTile } from './product-tile.mjs';
+import { areaKeys, areaRoute, productCount, taxonomyLabel } from './clinical-taxonomy.mjs';
 
 const assets = '/assets/home/';
-const productGroups = ['double', 'conmed', 'synimed', 'new'];
 const videoIds = ['E3vn7Gq2PFI', 'mHY8uwnrGh4'];
+
+// The product chosen to represent each clinical area: the sharpest, most
+// recognisable item rather than the first in the list. A tile image is never
+// below this width; an area with nothing that large falls back to its best
+// image on a soft gradient instead.
+const MIN_TILE_IMAGE_WIDTH = 800;
+const areaShowcase = {
+  'joint-replacement': 'cynthia-knee-system',
+  trauma: 'distal-femoral-locking-plate-instrument-set',
+  spine: 'hobbit-5-5-6-0-instrument-set',
+  'sports-arthroscopy': 'hip-arthroscopy-anchors',
+  'endoscopy-visualization': 'camera-systems',
+  'general-surgery': 'airseal-intelligent-flow-system',
+  'powered-instruments': 'hall-sternum-saws',
+  'bone-cements': 'synicem-bone-cements',
+};
+
+function areaArtwork(area, products) {
+  const members = products.filter(product => product.area === area);
+  const size = product => product.imageDimensions?.[product.image] || {};
+  const curated = members.find(product => product.slug === areaShowcase[area]);
+  const widest = members
+    .filter(product => product.imageType === 'cutout' && (size(product).width || 0) >= MIN_TILE_IMAGE_WIDTH)
+    .sort((a, b) => (size(b).width * size(b).height) - (size(a).width * size(a).height));
+  const pick = (curated && (size(curated).width || 0) >= MIN_TILE_IMAGE_WIDTH ? curated : widest[0])
+    || [...members].sort((a, b) => (size(b).width || 0) - (size(a).width || 0))[0];
+  if (!pick?.image) return null;
+  const {width = 0, height = 0} = size(pick);
+  return {src: pick.image, width, height, soft: width < MIN_TILE_IMAGE_WIDTH};
+}
 
 const textLink = (href, label) => `<a class="text-link" href="${escape(href)}">${escape(label)}${icon('circleArrow')}</a>`;
 const textLinkDialog = (dialog, label) => `<button class="text-link" type="button" data-open="${dialog}" aria-haspopup="dialog">${escape(label)}${icon('circleArrow')}</button>`;
@@ -29,21 +58,16 @@ export function renderHomepage(lang, t, products) {
   const copy = t.homepage;
   const certificateUrl = destination('certificates',lang);
 
-  const tabs = productGroups.map((group, index) => `<button class="product-tab" type="button" role="tab"
-    id="tab-${group}" aria-controls="products-${group}" aria-selected="${index === 0}" tabindex="${index === 0 ? '0' : '-1'}">
-    ${escape(copy.filters[group])}
-  </button>`).join('');
-
-  const panels = productGroups.map((group, index) => {
-    const cards = products.filter((product) => group === 'new' ? product.isNew : product.brand === group)
-      .slice(0, 4)
-      .map((product) => renderProductTile(product, lang, copy.learnMore))
-      .join('');
-
-    return `<div id="products-${group}" role="tabpanel" aria-labelledby="tab-${group}"${index ? ' hidden' : ''}>
-      <div class="product-grid">${cards}</div>
-      <div class="home-catalog-link"><a class="button" href="${catalogRoute(lang, group)}">${escape(t.catalog.viewCollection(copy.filters[group]))}</a></div>
-    </div>`;
+  const tiles = areaKeys.map((area, index) => {
+    const members = products.filter(product => product.area === area);
+    const art = areaArtwork(area, products);
+    const label = taxonomyLabel(lang, area);
+    return `<a class="area-tile" href="${escape(areaRoute(lang, area))}" style="--tile-index:${index}">
+      <span class="area-tile__art${art?.soft ? ' area-tile__art--soft' : ''}">${art ? `<img src="${escape(art.src)}" alt="" width="${art.width}" height="${art.height}" loading="lazy" decoding="async">` : ''}</span>
+      <span class="area-tile__name">${escape(label)}</span>
+      <span class="area-tile__count">${escape(productCount(lang, members.length))}</span>
+      <span class="area-tile__go" aria-hidden="true">${escape(copy.areasView)} →</span>
+    </a>`;
   }).join('');
 
   return `<section class="home-hero" aria-labelledby="hero-title">
@@ -88,10 +112,15 @@ export function renderHomepage(lang, t, products) {
       </div>
     </section>
 
-    <section class="home-products" id="featured-products" aria-labelledby="products-title">
-      <div class="products-heading"><h2 id="products-title">${escape(copy.productsTitle)}</h2></div>
-      <div class="product-tabs" role="tablist" aria-labelledby="products-title">${tabs}</div>
-      ${panels}
+    <section class="home-areas" id="featured-products" aria-labelledby="products-title">
+      <div class="container">
+        <header class="home-areas__head" data-reveal-left>
+          <p class="eyebrow">${escape(t.labels.products)}</p>
+          <h2 id="products-title">${escape(copy.areasTitle)}</h2>
+          ${textLink(catalogRoute(lang), copy.areasLink)}
+        </header>
+        <div class="area-tiles">${tiles}</div>
+      </div>
     </section>
 
     <section class="home-contact-strip"><div class="container">

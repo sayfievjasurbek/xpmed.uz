@@ -15,39 +15,27 @@ if ('IntersectionObserver' in window && !reducedMotion.matches) {
   for (const section of document.querySelectorAll('[data-reveal]')) observer.observe(section);
 }
 
-const tabs = [...document.querySelectorAll('.product-tabs [role="tab"]')];
-
-function selectTab(active) {
-  if (active.getAttribute('aria-selected') === 'true') return;
-
-  for (const tab of tabs) {
-    const selected = tab === active;
-    tab.setAttribute('aria-selected', String(selected));
-    tab.tabIndex = selected ? 0 : -1;
-    const panel = document.getElementById(tab.getAttribute('aria-controls'));
-    panel.hidden = !selected;
-    if (selected && !reducedMotion.matches) {
-      for (const animation of panel.getAnimations()) animation.cancel();
-      panel.animate([{ opacity: 0.5 }, { opacity: 1 }], { duration: 220, easing: 'ease-out' });
+// Clinical-area tiles fade up once with an 80ms stagger and the heading slides
+// in from the left. Nothing is hidden in CSS, so without JS — or with reduced
+// motion, which the guard above already respects — everything is simply there.
+const areasSection = document.querySelector('.home-areas');
+if (areasSection && 'IntersectionObserver' in window && !reducedMotion.matches) {
+  const reveal = new IntersectionObserver((entries) => {
+    for (const { target, isIntersecting } of entries) {
+      if (!isIntersecting) continue;
+      reveal.unobserve(target);
+      if (reducedMotion.matches) continue;
+      target.querySelector('[data-reveal-left]')?.animate([
+        { opacity: 0, transform: 'translateX(-28px)' },
+        { opacity: 1, transform: 'none' },
+      ], { duration: 500, easing: 'ease-out', fill: 'backwards' });
+      target.querySelectorAll('.area-tile').forEach((tile, index) => tile.animate([
+        { opacity: 0, transform: 'translateY(22px)' },
+        { opacity: 1, transform: 'none' },
+      ], { duration: 420, delay: index * 80, easing: 'ease-out', fill: 'backwards' }));
     }
-  }
-}
-
-for (const [index, tab] of tabs.entries()) {
-  tab.addEventListener('click', () => selectTab(tab));
-  tab.addEventListener('keydown', (event) => {
-    const nextIndex = {
-      ArrowLeft: (index + tabs.length - 1) % tabs.length,
-      ArrowRight: (index + 1) % tabs.length,
-      Home: 0,
-      End: tabs.length - 1,
-    }[event.key];
-    if (nextIndex === undefined) return;
-    event.preventDefault();
-    const next = tabs[nextIndex];
-    selectTab(next);
-    next.focus();
-  });
+  }, { threshold: 0.15 });
+  reveal.observe(areasSection);
 }
 
 const testimonials = document.querySelector('#testimonials-dialog');
