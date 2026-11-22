@@ -7,6 +7,8 @@ export const brandMarks = {
   conmed: {file: '/assets/home/brand-conmed.webp', light: true},
   synimed: {file: '/assets/home/brand-synimed.webp', light: true},
   spinendos: {file: '/assets/home/brand-spinendos.webp', light: false},
+  biotechni: {file: '/assets/home/brand-biotechni.webp', light: false},
+  'ge-healthcare': {file: '/assets/home/brand-ge-healthcare.webp', light: false},
 };
 
 // `name` is already escaped by the caller's escape() when it reaches the alt.

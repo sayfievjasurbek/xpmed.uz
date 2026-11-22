@@ -14,6 +14,11 @@ centred on one canvas size, so every card shows the logo at the same scale.
 Certificates: a WebP thumbnail for the card, plus a single-page PDF so the
 existing PDF viewer can open it full screen with its own zoom controls.
 
+Brand wordmarks: same white-keying as the client logos, trimmed to the artwork
+and capped so no one mark towers over the others on the brand wall. These are
+full-colour logos, so brandMarks in src/brand-media.mjs records light: false
+and nothing inverts them.
+
 Usage: .venv-catalog/bin/python scripts/prepare-brand-assets.py
 """
 import sys
@@ -27,6 +32,7 @@ ROOT = Path(__file__).resolve().parents[1]
 LOGO_CANVAS = (360, 150)      # every client card gets the same frame
 LOGO_CONTENT = (300, 112)     # artwork is contained inside this
 CERT_THUMB_WIDTH = 720        # portrait card thumbnail
+MARK_BOX = (560, 190)         # brand wordmarks are contained inside this
 WHITE = 243                   # a pixel at or above this on every channel is "white"
 
 
@@ -73,7 +79,33 @@ def prepare_certificate(source: Path, thumb: Path, document: Path) -> str:
     return f'{image.width}x{image.height} -> thumb {scaled.width}x{scaled.height}, pdf {document.stat().st_size // 1024} KB'
 
 
+def normalise_mark(source: Path, target: Path) -> str:
+    """Brand wordmark: key the white away, trim, cap the size, keep the colour."""
+    image = Image.open(source).convert('RGBA')
+    flat = Image.new('RGB', image.size, (255, 255, 255))
+    flat.paste(image, (0, 0), image)
+    rgb = np.asarray(flat)
+    rgba = Image.fromarray(np.dstack([rgb, background_alpha(rgb)]), 'RGBA')
+    box = rgba.getbbox()
+    if box:
+        rgba = rgba.crop(box)
+    rgba.thumbnail(MARK_BOX, Image.LANCZOS)
+    target.parent.mkdir(parents=True, exist_ok=True)
+    rgba.save(target, 'WEBP', quality=94, method=6)
+    transparent = int((np.asarray(rgba)[:, :, 3] == 0).sum())
+    share = transparent / (rgba.width * rgba.height) * 100
+    return f'{image.width}x{image.height} -> {rgba.width}x{rgba.height}, {share:.0f}% transparent'
+
+
 def main() -> int:
+    marks = sorted((ROOT / 'content/brands').glob('*.png')) if (ROOT / 'content/brands').is_dir() else []
+    if marks:
+        print(f'Brand wordmarks ({len(marks)}):')
+        for source in marks:
+            target = ROOT / 'src/assets/home' / f'brand-{source.stem}.webp'
+            print(f'  {source.stem:<42} {normalise_mark(source, target)}')
+        print()
+
     logos = sorted((ROOT / 'content/clients').glob('*.jpg'))
     certificates = sorted((ROOT / 'content/certificates').glob('*.jpg'))
     if not logos or not certificates:
