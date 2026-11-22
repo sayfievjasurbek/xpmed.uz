@@ -30,6 +30,38 @@
     linear-gradient(180deg, color-mix(in srgb, var(--night) 86%, transparent), color-mix(in srgb, var(--night) 94%, transparent)),
     radial-gradient(60% 70% at 12% 20%, color-mix(in srgb, var(--blue) 28%, transparent), transparent 70%);
 }
+
+/* No academy photograph supplied yet. Rather than borrow one of the homepage
+   photographs - the same picture twice is what makes a site look templated -
+   the hero is a drawn field: two brand glows over the night blue, the house
+   hexagon motif at a larger scale, and a soft diagonal beam. It costs one
+   small SVG that every page already loads. */
+.academy-hero--designed::before {
+  background:
+    linear-gradient(118deg, color-mix(in srgb, var(--white) 5%, transparent) 0 22%, transparent 22.4% 36%, color-mix(in srgb, var(--white) 3%, transparent) 36.4% 48%, transparent 48.4%),
+    radial-gradient(52% 62% at 14% 8%, color-mix(in srgb, var(--blue) 46%, transparent), transparent 68%),
+    radial-gradient(46% 58% at 88% 86%, color-mix(in srgb, var(--green) 32%, transparent), transparent 70%),
+    radial-gradient(70% 90% at 50% 120%, color-mix(in srgb, var(--navy) 70%, transparent), transparent 70%),
+    linear-gradient(160deg, #012E3D, var(--night) 58%, #000C12);
+}
+.academy-hero--designed::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  /* The house hexagon motif is drawn in navy for light sections and vanishes
+     on this one, so the SVG is used as a mask instead: the gradient below is
+     what you see through the lines, and its own falloff keeps the motif off
+     the copy on the left. */
+  background: linear-gradient(210deg,
+    color-mix(in srgb, var(--green) 55%, var(--white)) 0%,
+    color-mix(in srgb, var(--blue) 70%, var(--white)) 34%,
+    transparent 68%);
+  opacity: .3;
+  mask: url('/assets/home/hexagons.svg') top right / 232px 133.9px repeat;
+  -webkit-mask: url('/assets/home/hexagons.svg') top right / 232px 133.9px repeat;
+}
 .academy-hero__inner { max-width: 780px; }
 .academy-hero .eyebrow { color: var(--green); }
 .academy-hero h1 {

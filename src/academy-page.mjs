@@ -64,8 +64,9 @@ export function renderAcademyPage(lang, t) {
     <p>${escape(club.text)}</p>
   </article>`).join('');
 
-  return `<section class="academy-hero sp-dark" aria-labelledby="academy-title">
-    <img class="academy-hero__photo" src="${escape(academyPhoto.hero())}" alt="" fetchpriority="high">
+  const heroPhoto = academyPhoto.hero();
+  return `<section class="academy-hero sp-dark${heroPhoto ? '' : ' academy-hero--designed'}" aria-labelledby="academy-title">
+    ${heroPhoto ? `<img class="academy-hero__photo" src="${escape(heroPhoto)}" alt="" fetchpriority="high">` : ''}
     <div class="container academy-hero__inner">
       <p class="eyebrow">${escape(c.hero.eyebrow)}</p>
       <h1 id="academy-title">${escape(c.hero.title)}</h1>
