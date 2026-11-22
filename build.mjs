@@ -4,7 +4,9 @@ import {publicProductContent} from './src/public-product-content.mjs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { loadSystems, listing, legacyListing, systemRoute, prepareSystem } from './src/catalog-data.mjs';
-import { copyFile, cp, mkdir, readdir, readFile, writeFile, rm, stat } from 'node:fs/promises';
+import { copyFile, cp, mkdir, open, readdir, readFile, writeFile, rm, stat } from 'node:fs/promises';
+import { createHash } from 'node:crypto';
+import { execSync } from 'node:child_process';
 import { render } from './src/render.mjs';
 import { renderCatalogTileArray,categoryImageProduct,categoryThumbnailPath } from './src/catalog.mjs';
 import {createCanvas,loadImage} from '@napi-rs/canvas';
@@ -18,18 +20,68 @@ import {legacyCategoryAreas} from './src/catalog-engine.js';
 // originals in catalogs-source/, so only the originals are in version control.
 // Restore any that are missing before anything reads them, which keeps a fresh
 // clone buildable. scripts/import-catalog.py writes the same copies.
+//
+// Three originals are over 50 MB and live in Git LFS. Vercel clones without
+// fetching LFS, so on a deploy those paths hold a 134-byte pointer instead of a
+// PDF; copying one through produced "InvalidPDFException: Invalid PDF
+// structure" the moment pdf.js opened it. When a pointer is found the real
+// object is pulled from media.githubusercontent.com, which serves LFS content
+// for public repositories without authentication, and verified against the
+// sha256 and byte count the pointer declares.
 {
   const slug = stem => stem.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 100);
   const sourceRoot = new URL('./catalogs-source/', import.meta.url);
+  const LFS_POINTER = 'version https://git-lfs.github.com/spec/v1';
+
+  const repoSlug = () => {
+    const {VERCEL_GIT_REPO_OWNER: owner, VERCEL_GIT_REPO_SLUG: repo} = process.env;
+    if (owner && repo) return `${owner}/${repo}`;
+    try {
+      const remote = execSync('git remote get-url origin', {encoding: 'utf8'}).trim();
+      return remote.replace(/^.*github\.com[:/]/, '').replace(/\.git$/, '');
+    } catch { return null; }
+  };
+
+  async function resolvePointer(file, relative) {
+    const text = (await readFile(file)).toString('latin1');
+    if (!text.startsWith(LFS_POINTER)) return null;          // a real file already
+    const oid = text.match(/^oid sha256:([0-9a-f]{64})$/m)?.[1];
+    const size = Number(text.match(/^size (\d+)$/m)?.[1]);
+    const slugged = repoSlug();
+    if (!oid || !size || !slugged) throw Error(`${relative} is a Git LFS pointer and cannot be resolved (repo unknown)`);
+    const ref = process.env.VERCEL_GIT_COMMIT_SHA || process.env.VERCEL_GIT_COMMIT_REF || 'main';
+    const url = `https://media.githubusercontent.com/media/${slugged}/${ref}/${relative.split('/').map(encodeURIComponent).join('/')}`;
+    const response = await fetch(url);
+    if (!response.ok) throw Error(`${relative}: Git LFS object fetch failed, ${response.status} from ${url}`);
+    const bytes = Buffer.from(await response.arrayBuffer());
+    if (bytes.length !== size) throw Error(`${relative}: expected ${size} bytes from LFS, received ${bytes.length}`);
+    const digest = createHash('sha256').update(bytes).digest('hex');
+    if (digest !== oid) throw Error(`${relative}: LFS sha256 mismatch, expected ${oid}, received ${digest}`);
+    console.log(`Fetched ${relative} from Git LFS (${(size / 1048576).toFixed(0)} MB)`);
+    return bytes;
+  }
+
   for (const brand of (await readdir(sourceRoot, {withFileTypes: true})).filter(entry => entry.isDirectory())) {
     for (const name of (await readdir(new URL(brand.name + '/', sourceRoot))).filter(file => file.toLowerCase().endsWith('.pdf'))) {
+      const relative = `catalogs-source/${brand.name}/${name}`;
       const original = new URL(`${brand.name}/${name}`, sourceRoot);
       const copy = new URL(`./public/catalogs/${brand.name}/${slug(name.replace(/\.pdf$/i, ''))}/source.pdf`, import.meta.url);
+
+      // A pointer in the checkout is replaced in place, so both paths end up real.
+      const resolved = await resolvePointer(original, relative);
+      if (resolved) await writeFile(original, resolved);
+
       try { await stat(copy); } catch {
         await mkdir(new URL('.', copy), {recursive: true});
         await copyFile(original, copy);
         console.log(`Restored ${brand.name}/${name} into public/catalogs/`);
       }
+
+      // Fail here, naming the file, rather than inside pdf.js later.
+      const head = Buffer.alloc(5);
+      const handle = await open(copy);
+      try { await handle.read(head, 0, 5, 0); } finally { await handle.close(); }
+      if (head.toString('latin1') !== '%PDF-') throw Error(`${copy.pathname} is not a PDF (starts with ${JSON.stringify(head.toString('latin1'))})`);
     }
   }
 }
