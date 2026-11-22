@@ -11,7 +11,26 @@ const sort = document.querySelector('#catalog-sort');
 const grid = document.querySelector('#catalog-products');
 let limit = pageSize;
 
-const collectTiles=()=>[...document.querySelectorAll('#catalog-products .product-tile')].map((element) => ({
+// ?catalog=<id> narrows the page to one PDF, which is how a library card
+// links in. It is not a facet - there is no checkbox for it and it is not
+// part of the filter form - so it is applied by leaving the other tiles out
+// of the set the facets count over.
+const sourceCatalog = new URLSearchParams(location.search).get('catalog');
+
+// The rest of the tiles arrive later from catalog-products.html, so the
+// test has to run wherever a tile comes from, not once at load: a tile from
+// another catalog is taken out of the page entirely rather than hidden,
+// because nothing on this page can bring it back.
+const fromThisCatalog = (element) => {
+  if (!sourceCatalog) return true;
+  if ((element.dataset.catalogs || '').split(' ').includes(sourceCatalog)) return true;
+  element.remove();
+  return false;
+};
+
+const collectTiles=()=>[...document.querySelectorAll('#catalog-products .product-tile')]
+  .filter(fromThisCatalog)
+  .map((element) => ({
   element,
   name: element.dataset.name,
   isNew: element.dataset.new==='true',
@@ -71,6 +90,7 @@ function updateLanguageLinks() {
 function updateFilters() {
   const url = new URL(location.href);
   url.search = '';
+  if (sourceCatalog) url.searchParams.set('catalog', sourceCatalog);
   if(sort.value!=='default')url.searchParams.set('sort',sort.value);
   if (search.value.trim()) url.searchParams.set('q', search.value.trim());
   for (const input of checkboxes) {

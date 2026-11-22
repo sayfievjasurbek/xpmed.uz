@@ -142,6 +142,10 @@ const year = new Date().getUTCFullYear();
 const translations = { ru, en };
 
 const discovery = await buildDiscovery(systems, translations);
+// Slugs are unique across the catalogue, so the catalog list can be looked up
+// by slug; if that ever stops being true the mapping would be wrong, so say so.
+if (new Set(products.map(p => p.slug)).size !== products.length) throw new Error('Product slugs are no longer unique; the catalog filter maps by slug.');
+for (const product of products) product.catalogs = discovery.systemCatalogs[product.slug] || [];
 const about = await loadAboutData();
 const siteData = {...discovery, ...about};
 await writeFile(new URL('catalog-library-index.json', output), JSON.stringify(discovery.catalogs));

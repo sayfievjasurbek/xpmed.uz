@@ -17,7 +17,7 @@ export function renderProductTile(product, lang, learnMore, searchTerms) {
   const productPage = product.documents.find(({ type }) => type === 'product-page');
   const filterData = searchTerms === undefined ? '' :
     ` data-name="${escape(name)}" data-new="${!!product.isNew}" data-subcategory="${escape(product.taxonomySubcategory||'')}" data-brand="${escape(product.brand)}" data-area="${escape(product.area||'')}" data-type="${escape(product.productType||'')}"
-        data-specialty="${escape(product.specialty.join(' '))}" data-keywords="${escape(searchTerms)}"`;
+        data-specialty="${escape(product.specialty.join(' '))}" data-catalogs="${escape((product.catalogs||[]).join(' '))}" data-keywords="${escape(searchTerms)}"`;
 
   return `<article class="product-tile"${filterData}>
     <a href="${escape(productPage[lang])}" class="product-tile__link" aria-label="${escape(name + ' · ' + learnMore)}"${description ? ` aria-description="${escape(description)}"` : ''}>

@@ -38,3 +38,24 @@ for(const link of document.querySelectorAll('[data-open-pdf]'))link.addEventList
  openCatalog(null,{page:Number(link.dataset.pdfPage)||1,catalog:{file:link.dataset.openPdf,title:{[lang]:link.dataset.pdfTitle},viewOnly:link.dataset.pdfViewOnly==='true'}});
 });
 const id=new URLSearchParams(location.search).get('catalog');if(id&&document.querySelector('.library-section'))openCatalog(id);
+
+// Library cards: the first five products are in the page, the rest are
+// hidden until asked for. The height animates from the measured height to
+// the new one and is handed back to the layout when it settles, so a long
+// list that scrolls inside the card keeps working.
+for (const button of document.querySelectorAll('[data-expand-catalog]')) {
+  const list = button.parentElement.querySelector('[data-catalog-items]');
+  const reduced = window.matchMedia('(prefers-reduced-motion: reduce)');
+  button.addEventListener('click', () => {
+    const expanded = button.getAttribute('aria-expanded') === 'true';
+    const from = list.getBoundingClientRect().height;
+    for (const item of list.querySelectorAll('[data-extra-item]')) item.hidden = expanded;
+    button.setAttribute('aria-expanded', String(!expanded));
+    button.innerHTML = `${expanded ? button.dataset.showAll : button.dataset.collapse} <span aria-hidden="true">${expanded ? '↓' : '↑'}</span>`;
+    if (reduced.matches) return;
+    const to = list.getBoundingClientRect().height;
+    const animation = list.animate([{height: from + 'px'}, {height: to + 'px'}],
+      {duration: Math.min(420, 160 + Math.abs(to - from) * 0.35), easing: 'cubic-bezier(.16, 1, .3, 1)'});
+    animation.addEventListener('finish', () => list.style.height = '');
+  });
+}

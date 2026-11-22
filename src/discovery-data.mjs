@@ -11,7 +11,8 @@ import {classifySystem,taxonomyLabel} from './clinical-taxonomy.mjs';
 export const searchKeys=[{name:'name.ru',weight:4},{name:'name.en',weight:4},{name:'refCodes',weight:4},{name:'brandLabel',weight:2},'description.ru','description.en','categoryLabel.ru','categoryLabel.en','keywords'];
 const flatten=v=>typeof v==='string'||typeof v==='number'?String(v):Array.isArray(v)?v.map(flatten).join(' '):v&&typeof v==='object'?Object.values(v).map(flatten).join(' '):'';
 export async function buildDiscovery(systems,translations){
- const catalogs=[]; const items=[];
+ const catalogs=[];
+ const systemCatalogs={}; const items=[];
  for(const s of systems.filter(s=>s.status==='published')){
   const taxonomy=classifySystem(s);
   const categoryLabel=Object.fromEntries(['ru','en'].map(l=>[l,taxonomyLabel(l,taxonomy.area)]));
@@ -32,10 +33,13 @@ export async function buildDiscovery(systems,translations){
    catalog={id:catalogId,brand:s.brand,brandLabel:brandName(s.brand),file:source.sourcePdf,viewOnly:source.viewOnly===true,title:source.catalogTitle||s.name,edition:source.catalogEdition||'',pages:pdf.numPages,bytes:(await stat('public'+source.sourcePdf)).size,cover:coverImage,coverImage,coverCrop,systems:[],searchText:''};await pdf.destroy();catalogs.push(catalog);
   }
   catalog.searchText += ' '+flatten([s.name,s.description,keywords]);
+  // The catalog a product was imported from, so the catalog page can be
+  // narrowed to one PDF from the library card.
+  (systemCatalogs[s.slug] ??= []).push(catalog.id);
   const link={name:s.name,url:systemRoute(s)+(source.variantId?'?variant='+encodeURIComponent(source.variantId):''),url_en:systemRoute(s,'en')+(source.variantId?'?variant='+encodeURIComponent(source.variantId):'')};
   if(!catalog.systems.some(existing=>existing.url===link.url))catalog.systems.push(link);
   }
  }
  for(const c of catalogs)items.push({id:c.id,group:'catalogs',name:c.title,brand:c.brand,brandLabel:c.brandLabel,categoryLabel:{ru:'Каталоги',en:'Catalogs'},thumbnail:c.cover,keywords:flatten([c.systems,c.searchText]),refCodes:[],url:'/catalogs/?catalog='+encodeURIComponent(c.id),url_en:'/en/catalogs/?catalog='+encodeURIComponent(c.id)});
- return {catalogs:catalogs.map(({searchText,...catalog})=>catalog),search:{items,index:Fuse.createIndex(searchKeys,items).toJSON(),keys:searchKeys}};
+ return {catalogs:catalogs.map(({searchText,...catalog})=>catalog),systemCatalogs,search:{items,index:Fuse.createIndex(searchKeys,items).toJSON(),keys:searchKeys}};
 }
