@@ -668,7 +668,10 @@ button.text-link { background: none; border: 0; padding: 0; font-family: inherit
   box-shadow: none;
   transition: transform .25s ease, border-color .25s ease, filter .25s ease;
 }
-.logo-card img { max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; }
+/* The cap is in pixels, not 100%: a percentage max-height on a grid item is
+   not resolved against the card, so a logo wider than the card was scaled up
+   by max-width and then spilled out of it. 86px is the card's content box. */
+.logo-card img { max-width: 100%; max-height: 86px; width: auto; height: auto; object-fit: contain; }
 
 .info-clients { overflow: hidden; }
 .info-clients__head { margin-bottom: 44px; }
@@ -741,11 +744,13 @@ img.is-light-mark { filter: invert(1); opacity: .78; }
 @media (max-width: 1100px) {
   .certificate-grid { gap: 24px; }
   .logo-card { width: 190px; height: 116px; }
+  .logo-card img { max-height: 74px; }
 }
 @media (max-width: 760px) {
   .certificate-grid { grid-template-columns: 1fr; gap: 32px; }
   .certificate-card__frame { aspect-ratio: 720 / 760; }
   .logo-card { width: 164px; height: 104px; padding: 16px; }
+  .logo-card img { max-height: 70px; }
   .client-marquee, .client-marquee__set { gap: 14px; }
   .client-marquee__set { padding-right: 14px; }
   .info-brand-grid { gap: 14px; }

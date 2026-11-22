@@ -247,6 +247,11 @@
 }
 .academy-partner { width: auto; }
 .academy-partner { filter: grayscale(1); opacity: .74; transition: filter .3s ease, opacity .3s ease, border-color .3s ease; }
+/* These cards are wider than the 220px .logo-card they borrow from, so the
+   marks are held to the size the others come at rather than filling it. */
+/* min() keeps the 100% that the card relies on at narrow widths: a bare
+   250px would override it and push the mark out of the card on a phone. */
+.academy-partner img { max-width: min(250px, 100%); max-height: 72px; }
 .academy-partner:hover { filter: grayscale(0); opacity: 1; border-color: #CDD6DA; }
 .academy-partner strong { font-size: 19px; font-weight: 400; letter-spacing: .4px; color: var(--navy); text-align: center; }
 
@@ -311,6 +316,7 @@
   .academy-clubs { grid-template-columns: 1fr; }
   .academy-courses__photos { grid-template-columns: 1fr; }
   .academy-partner-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .academy-partner img { max-height: 60px; }
 }
 
 @media (prefers-reduced-motion: reduce) {
