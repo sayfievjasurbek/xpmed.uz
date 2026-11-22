@@ -50,7 +50,7 @@ export default {
       'work with instruments and equipment from leading global manufacturers;',
       'mentoring by recognised experts.',
     ],
-    images: ['Hands-on cadaver course session', 'Instruments and equipment used on the course'],
+    images: ['Surgery during an XPMED Academy course', 'Course participants receiving their certificates'],
   },
 
   mission: {

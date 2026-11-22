@@ -148,13 +148,18 @@
 /* ---------- cadaver courses ---------- */
 .academy-courses__grid {
   display: grid;
-  grid-template-columns: minmax(0, .95fr) minmax(0, 1.05fr);
+  /* The photo column is the narrower one: the first photograph is a portrait
+     and a wide column would make it taller than the whole programme list. */
+  grid-template-columns: minmax(0, .78fr) minmax(0, 1.22fr);
   gap: clamp(32px, 5vw, 72px);
   align-items: center;
 }
 .academy-courses__photos { display: grid; gap: 16px; }
-.academy-courses__photos img { width: 100%; aspect-ratio: 3 / 2; object-fit: cover; }
-.academy-courses__photos img:first-child { aspect-ratio: 4 / 3; }
+.academy-courses__photos img { width: 100%; object-fit: cover; }
+/* Surgery in progress, shot portrait; the group photograph is square, and
+   sits low in the frame, so its crop is weighted to the people. */
+.academy-courses__photos img:first-child { aspect-ratio: 3 / 4; }
+.academy-courses__photos img:last-child { aspect-ratio: 4 / 3; object-position: center 62%; }
 .academy-courses p { max-width: 60ch; color: color-mix(in srgb, var(--white) 84%, var(--navy)); }
 .academy-courses h3 {
   margin: 30px 0 14px;
@@ -303,7 +308,8 @@
   .academy-about__grid, .academy-mission__grid, .academy-courses__grid, .academy-cta__inner { grid-template-columns: 1fr; }
   .academy-about__photo, .academy-mission__photo { position: static; aspect-ratio: 3 / 2; }
   .academy-courses__photos { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .academy-courses__photos img, .academy-courses__photos img:first-child { aspect-ratio: 4 / 3; }
+  .academy-courses__photos img:first-child { aspect-ratio: 4 / 5; }
+  .academy-courses__photos img:last-child { aspect-ratio: 4 / 3; }
   .academy-clubs { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .academy-partner-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
   .academy-courses__grid > div:last-child { order: -1; }
