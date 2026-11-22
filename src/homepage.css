@@ -71,20 +71,28 @@
   content: '';
 }
 .hex-pattern.section--dark::before { opacity: .52; }
+.home-feature.hex-pattern::before { opacity: .1; }
 
 /* The products block below this one is near-black. Two dark bands in a row
    read as one long slab, so the testimonial band carries the page's soft grey
    instead, and the eye gets light - grey - dark - white down the homepage. */
 .home-feature {
-  background: linear-gradient(180deg, var(--white), var(--light) 32%, var(--light));
+  /* A cool tint deep enough to read as its own band against the white
+     section above it: --light alone was so close to white that the two
+     looked like one page. */
+  background:
+    linear-gradient(180deg,
+      color-mix(in srgb, var(--navy) 7%, var(--white)),
+      color-mix(in srgb, var(--navy) 15%, var(--white)));
+  border-block: 1px solid color-mix(in srgb, var(--navy) 12%, transparent);
 }
 .home-feature::after {
   content: '';
   position: absolute;
   inset: auto 0 0;
-  height: 1px;
+  height: 2px;
   background: var(--gradient);
-  opacity: .22;
+  opacity: .3;
 }
 .home-feature .home-split__copy h2 { color: var(--navy); }
 
