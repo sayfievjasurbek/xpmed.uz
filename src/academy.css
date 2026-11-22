@@ -109,7 +109,7 @@
   gap: clamp(32px, 5vw, 72px);
   align-items: start;
 }
-.academy-about h2, .academy-mission h2, .academy-courses h2, .academy-community h2, .academy-partners h2 {
+.academy-about h2, .academy-mission h2, .academy-courses h2, .academy-partners h2 {
   margin: 12px 0 20px;
   font-size: clamp(28px, 3.4vw, 44px);
   font-weight: 300;
@@ -205,41 +205,6 @@
   background: linear-gradient(90deg, color-mix(in srgb, var(--green) 7%, transparent), transparent 44%);
 }
 
-/* ---------- surgeon community ---------- */
-.academy-community__intro { max-width: 68ch; margin-bottom: 40px; color: color-mix(in srgb, var(--white) 82%, var(--navy)); }
-.academy-clubs { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 20px; }
-.academy-club {
-  display: grid;
-  align-content: start;
-  gap: 10px;
-  padding: 26px 22px 28px;
-  border: 1px solid rgba(255, 255, 255, .1);
-  transition: border-color .45s var(--ease-spring), background-color .45s var(--ease-spring);
-}
-.academy-club:hover { background-color: rgba(255, 255, 255, .04); border-color: color-mix(in srgb, var(--green) 45%, transparent); }
-.academy-club__mark {
-  display: grid;
-  place-items: center;
-  width: 100%;
-  height: 74px;
-  margin-bottom: 8px;
-}
-.academy-club__mark img { max-width: 100%; max-height: 100%; object-fit: contain; }
-.academy-club__monogram {
-  display: grid;
-  place-items: center;
-  width: 64px;
-  height: 64px;
-  font-size: 22px;
-  font-weight: 300;
-  letter-spacing: 1px;
-  color: var(--white);
-  border: 1px solid rgba(255, 255, 255, .18);
-  background: linear-gradient(135deg, color-mix(in srgb, var(--blue) 42%, transparent), color-mix(in srgb, var(--green) 32%, transparent));
-}
-.academy-club h3 { font-size: 20px; font-weight: 400; }
-.academy-club p { font-size: 14px; color: rgba(255, 255, 255, .62); }
-
 /* ---------- partners ---------- */
 .academy-partners p { max-width: 64ch; }
 /* Six partners, so three to a row rather than a flex row that wraps five
@@ -289,12 +254,10 @@
   animation: academy-in .8s var(--ease-spring) forwards;
 }
 .academy-page .js-reveal.is-in .academy-points li,
-.academy-page .js-reveal.is-in .academy-club,
 .academy-page .js-reveal.is-in .academy-course-list li {
   animation: academy-item-in .7s var(--ease-spring) backwards;
 }
 .academy-page .js-reveal.is-in .academy-points li { animation-delay: calc(var(--point-index) * 90ms + 120ms); }
-.academy-page .js-reveal.is-in .academy-club { animation-delay: calc(var(--club-index) * 90ms + 120ms); }
 @keyframes academy-in {
   from { opacity: 0; transform: translateY(24px); filter: blur(6px); }
   to { opacity: 1; transform: none; filter: blur(0); }
@@ -310,7 +273,6 @@
   .academy-courses__photos { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .academy-courses__photos img:first-child { aspect-ratio: 4 / 5; }
   .academy-courses__photos img:last-child { aspect-ratio: 4 / 3; }
-  .academy-clubs { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .academy-partner-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
   .academy-courses__grid > div:last-child { order: -1; }
 }
@@ -319,7 +281,6 @@
   .academy-stat { padding: 20px 14px 22px; }
   .academy-stat:nth-child(3) { border-left: 0; padding-left: 0; }
   .academy-stat:nth-child(odd) { border-left: 0; padding-left: 0; }
-  .academy-clubs { grid-template-columns: 1fr; }
   .academy-courses__photos { grid-template-columns: 1fr; }
   .academy-partner-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .academy-partner img { max-height: 60px; }
@@ -328,7 +289,6 @@
 @media (prefers-reduced-motion: reduce) {
   .academy-page .js-reveal > .container,
   .academy-page .js-reveal.is-in .academy-points li,
-  .academy-page .js-reveal.is-in .academy-club,
   .academy-page .js-reveal.is-in .academy-course-list li { opacity: 1; animation: none; }
-  .academy-club, .academy-partner { transition: none; }
+  .academy-partner { transition: none; }
 }

@@ -66,18 +66,6 @@ export default {
     image: 'Руки хирурга в перчатках',
   },
 
-  clubs: {
-    eyebrow: 'Сообщество',
-    title: 'Сообщество хирургов',
-    intro: 'Профессиональные клубы XPMED Academy объединяют хирургов по направлениям и собирают их на разборы, курсы и живые операции.',
-    items: [
-      {id: 'joints-club', name: 'Joints Club', text: 'Эндопротезирование крупных суставов.'},
-      {id: 'traumedy-club', name: 'Traumedy Club', text: 'Травматология и остеосинтез.'},
-      {id: 'arthro-meet', name: 'Arthro Meet', text: 'Артроскопия и спортивная медицина.'},
-      {id: 'spinendos-club', name: 'Spinendos Club', text: 'Эндоскопическая хирургия позвоночника.'},
-    ],
-  },
-
   partners: {
     eyebrow: 'Партнёры',
     title: 'Партнёры академии',

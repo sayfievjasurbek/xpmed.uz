@@ -10,7 +10,7 @@ import ru from '../src/i18n/academy-ru.mjs';
 import en from '../src/i18n/academy-en.mjs';
 
 const page = lang => fs.readFile(`dist${lang === 'en' ? '/en' : ''}/academy/index.html`, 'utf8');
-const sections = ['academy-hero', 'academy-about', 'academy-courses', 'academy-mission', 'academy-community', 'academy-partners', 'academy-cta'];
+const sections = ['academy-hero', 'academy-about', 'academy-courses', 'academy-mission', 'academy-partners', 'academy-cta'];
 
 test('Both academy routes are built with every section and no missing copy', async () => {
   for (const lang of ['ru', 'en']) {
@@ -28,9 +28,6 @@ test('Academy copy is translated, not duplicated, and the stats match', () => {
   assert.deepEqual(en.stats.map(s => s.value + s.suffix), ru.stats.map(s => s.value + s.suffix));
   assert.equal(ru.courses.items.length, 6);
   assert.equal(en.courses.items.length, ru.courses.items.length);
-  assert.equal(ru.clubs.items.length, 4);
-  assert.deepEqual(en.clubs.items.map(c => c.id), ru.clubs.items.map(c => c.id));
-  // Club names are proper nouns and stay as they are; prose must not.
   for (const [key, value] of [['hero.text', [ru.hero.text, en.hero.text]], ['mission.text', [ru.mission.text, en.mission.text]], ['courses.intro', [ru.courses.intro, en.courses.intro]]]) {
     assert.notEqual(value[0], value[1], `${key} was left untranslated`);
     assert.ok(/[а-яё]/i.test(value[0]), `${key} is not Russian`);
@@ -68,8 +65,7 @@ test('Artwork that has not been supplied falls back instead of breaking', async 
     assert.ok(src.startsWith('/images/academy/') || src.startsWith('/assets/'), `unexpected image source ${src}`);
     await fs.access('dist' + src);   // whatever it resolved to has to exist
   }
-  // A club with no logo yet shows its initials rather than an empty frame.
-  const monograms = (html.match(/academy-club__monogram/g) || []).length;
-  const logos = (html.match(/images\/academy\/clubs\//g) || []).length;
-  assert.equal(monograms + logos, 4);
+  // Both course photographs are the academy's own now, not a fallback.
+  assert.ok(sources.filter(src => src.startsWith('/images/academy/course-')).length === 2,
+    'the cadaver-course photographs are not the supplied ones');
 });

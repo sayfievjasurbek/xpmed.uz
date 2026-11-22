@@ -2,8 +2,8 @@
 """Normalise XPMED Academy photographs and logos for the /academy/ page.
 
 Sources live in content/academy/ (see the README there). Photographs are
-resized and saved as WebP; club and partner logos get the same white-keying as
-the client logos, so a scan on white becomes a transparent mark. Everything is
+resized and saved as WebP; partner logos get the same white-keying as the
+client logos, so a scan on white becomes a transparent mark. Everything is
 optional: whatever is present is converted, whatever is absent falls back in
 src/academy-media.mjs.
 
@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / 'content/academy'
 TARGET = ROOT / 'public/images/academy'
 PHOTO_WIDTH = 1600            # wide enough for the hero on a 2x display
-LOGO_BOX = (420, 200)         # club and partner marks are contained in this
+LOGO_BOX = (420, 200)         # partner marks are contained in this
 SUFFIXES = ('.jpg', '.jpeg', '.png', '.webp')
 WHITE = 243                   # a pixel at or above this on every channel is "white"
 BLACK = 24                    # ... and at or below this, "black"
@@ -113,8 +113,6 @@ def main() -> int:
         return 0
     print('Photographs:')
     total = convert(SOURCE, TARGET, photograph)
-    print('Club logos:')
-    total += convert(SOURCE / 'clubs', TARGET / 'clubs', logo)
     print('Partner logos:')
     total += convert(SOURCE / 'partners', TARGET / 'partners', logo)
     print(f'\n{total} file(s) written to {TARGET.relative_to(ROOT)}' if total else '\nNo sources found yet.')

@@ -65,18 +65,6 @@ export default {
     image: 'Gloved surgeon’s hands',
   },
 
-  clubs: {
-    eyebrow: 'Community',
-    title: 'Surgeon community',
-    intro: 'The XPMED Academy clubs bring surgeons together by discipline for case reviews, courses and live surgery.',
-    items: [
-      {id: 'joints-club', name: 'Joints Club', text: 'Major joint replacement.'},
-      {id: 'traumedy-club', name: 'Traumedy Club', text: 'Trauma and osteosynthesis.'},
-      {id: 'arthro-meet', name: 'Arthro Meet', text: 'Arthroscopy and sports medicine.'},
-      {id: 'spinendos-club', name: 'Spinendos Club', text: 'Endoscopic spine surgery.'},
-    ],
-  },
-
   partners: {
     eyebrow: 'Partners',
     title: 'Academy partners',

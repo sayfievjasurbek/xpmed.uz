@@ -1,4 +1,4 @@
-import {academyPhoto, clubLogo, partnerLogo} from './academy-media.mjs';
+import {academyPhoto, partnerLogo} from './academy-media.mjs';
 import {renderBrandMark} from './brand-media.mjs';
 import {brandName} from './i18n/discovery.mjs';
 import {contact} from './navigation.mjs';
@@ -22,15 +22,6 @@ const siteButton = (t, className = 'button') =>
 
 const photo = (src, alt, extra = '') =>
   `<img src="${escape(src)}" alt="${escape(alt)}" loading="lazy" decoding="async"${extra}>`;
-
-// A club with no logo yet gets its initials in the same frame, so the row of
-// four keeps its rhythm instead of showing a gap.
-function clubMark(club) {
-  const logo = clubLogo(club.id);
-  if (logo) return `<img src="${escape(logo)}" alt="${escape(club.name)}" loading="lazy" decoding="async">`;
-  const initials = club.name.split(/\s+/).map(word => word[0]).join('').slice(0, 2).toUpperCase();
-  return `<span class="academy-club__monogram" aria-hidden="true">${escape(initials)}</span>`;
-}
 
 function partnerCard(partner) {
   if (partner.brand) {
@@ -57,12 +48,6 @@ export function renderAcademyPage(lang, t) {
     <strong>${escape(point.title)}</strong>
     <span>${escape(point.text)}</span>
   </li>`).join('');
-
-  const clubs = c.clubs.items.map((club, index) => `<article class="academy-club" style="--club-index:${index}">
-    <span class="academy-club__mark">${clubMark(club)}</span>
-    <h3>${escape(club.name)}</h3>
-    <p>${escape(club.text)}</p>
-  </article>`).join('');
 
   const heroPhoto = academyPhoto.hero();
   return `<section class="academy-hero sp-dark${heroPhoto ? '' : ' academy-hero--designed'}" aria-labelledby="academy-title">
@@ -114,15 +99,6 @@ export function renderAcademyPage(lang, t) {
         <ul class="academy-values">${c.mission.values.map(value => `<li>${escape(value)}</li>`).join('')}</ul>
       </div>
       ${photo(academyPhoto.mission(), c.mission.image, ' class="academy-mission__photo"')}
-    </div>
-  </section>
-
-  <section class="section sp-dark academy-community" aria-labelledby="academy-clubs-title">
-    <div class="container">
-      <p class="eyebrow">${escape(c.clubs.eyebrow)}</p>
-      <h2 id="academy-clubs-title">${escape(c.clubs.title)}</h2>
-      <p class="academy-community__intro">${escape(c.clubs.intro)}</p>
-      <div class="academy-clubs">${clubs}</div>
     </div>
   </section>
 
