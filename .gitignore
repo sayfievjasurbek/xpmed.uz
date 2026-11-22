@@ -11,11 +11,12 @@ __pycache__/
 # rembg segmentation weights — downloaded on demand (~170 MB)
 .rembg-models/
 
-# Large regenerable catalog intermediates.
-# 600-DPI page renders, OCR TSV/JSON evidence and reference page scans are
-# reproduced from the source PDFs by `scripts/import-catalog.py --ocr`.
+# 600-DPI OCR evidence, reproduced from the source PDFs by
+# `scripts/import-catalog.py --ocr`. Nothing in the build or the site reads it.
+# The sibling pages/ scans are NOT ignored: published systems reference them as
+# source page images, so the build copies them into dist and the site serves
+# them. Ignoring them broke the Vercel build with ENOENT on a fresh clone.
 public/catalogs/*/*/ocr/
-public/catalogs/*/*/pages/
 
 # Pre-enhancement image backups kept by scripts/enhance-catalog-images.py.
 # Re-extractable from the source PDFs; never shipped in the public build.
