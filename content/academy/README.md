@@ -30,10 +30,14 @@ to 4:5, so a portrait original suits them best.
     clubs/arthro-meet.png
     clubs/spinendos-club.png
     partners/bojin.png
-    partners/dns-neo-science.png
+    partners/bns-neo-science.png
 
-White that touches the border is keyed out; white enclosed by the artwork is
-kept. The club logos sit on the dark section, so light artwork reads best.
+A logo on white has that white keyed out, keeping any white the artwork
+encloses. A logo on anything else - Bojin arrived as a white disc on black -
+is keyed by colour instead, which keeps the coloured artwork and drops the
+backing with it; a logo whose artwork is itself grey or black should
+therefore be supplied on white. The club logos sit on the dark section, so
+light artwork reads best.
 
 Double Medical, CONMED, Synimed and SPINENDOS are not listed: the partner row
 reuses the wordmarks the rest of the site already has.

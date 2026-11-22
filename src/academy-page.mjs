@@ -14,7 +14,7 @@ const partners = [
   {brand: 'synimed'},
   {brand: 'spinendos'},
   {id: 'bojin', name: 'Bojin'},
-  {id: 'dns-neo-science', name: 'DNS Neo Science'},
+  {id: 'bns-neo-science', name: 'BNS Neo Science'},
 ];
 
 const siteButton = (t, className = 'button') =>
