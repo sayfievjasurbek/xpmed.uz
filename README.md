@@ -66,6 +66,7 @@ Stylesheets follow the pages that need them: `styles.css` (shell, every page),
 | `src/` | Page templates (`.mjs`), browser code (`.js`), stylesheets, `i18n/`. |
 | `content/products/<brand>/<slug>.json` | The authoritative product data, one file per system. |
 | `content/catalogs/`, `content/system.schema.json` | Catalog manifests and the record schema. |
+| `content/academy/` | XPMED Academy photographs and club logos. Drop files in, run `scripts/prepare-academy-assets.py`; see its `README.md`. |
 | `catalogs-source/` | The manufacturer PDFs imports are made from. See its `AGENTS.md`. |
 | `scripts/` | The reusable import pipeline, OCR, verification and the review server. |
 | `scripts/one-off/` | Completed per-catalog import scripts, kept as a record. |

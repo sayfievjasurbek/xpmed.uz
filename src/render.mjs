@@ -11,6 +11,7 @@ import { escape } from './html.mjs';
 import { renderHomepage, renderHomeDialogs } from './homepage.mjs';
 import { catalogDescription, catalogDocumentTitle, renderCatalog, renderCatalogDialog } from './catalog.mjs';
 import {renderInfoPage} from './info-pages.mjs';
+import {renderAcademyPage} from './academy-page.mjs';
 import {areaKeys,areaRoute,clinicalAreas,parseTaxonomyScope,productCount,subcategoryLabels,taxonomyLabel} from './clinical-taxonomy.mjs';
 
 const sections = ['products', 'specialties', 'about'];
@@ -19,22 +20,23 @@ const languageLabels = { ru: 'RU', en: 'EN' };
 export function render(lang, t, year, products, scope, otherLanguage, system = null, siteData = {}) {
   const d = discovery[lang];
   const library = scope === 'library';
+  const academy = scope === 'academy-page';
   const infoPage = scope === 'about-page' || scope === 'contacts-page' || scope === 'brands-page' || scope === 'not-found';
   if (system) system = normalizeSystem(system);
   const { labels } = t;
   const home = homeRoute(lang);
-  const pageRoute = (code) => system ? systemRoute(system, code) : infoPage ? homeRoute(code)+(scope==='about-page'?'about/':scope==='contacts-page'?'contacts/':scope==='brands-page'?'brands/':'404/') : library ? homeRoute(code) + 'catalogs/' : scope ? catalogRoute(code, scope) : homeRoute(code);
+  const pageRoute = (code) => system ? systemRoute(system, code) : academy ? homeRoute(code)+'academy/' : infoPage ? homeRoute(code)+(scope==='about-page'?'about/':scope==='contacts-page'?'contacts/':scope==='brands-page'?'brands/':'404/') : library ? homeRoute(code) + 'catalogs/' : scope ? catalogRoute(code, scope) : homeRoute(code);
   const repeatedName = system && products.filter(p=>p['name_'+lang]===system.name[lang]).length>1;
   const identifier = system?.setCode || system?.refCodes?.[0] || system?.sourcePages?.[0];
   const systemTitle = system ? system.name[lang]+(repeatedName?` — ${t.catalog.categories[system.category]||system.brand}${identifier?` · ${identifier}`:''}`:'')+' | XPMED' : '';
-  const title = system ? systemTitle : infoPage ? (scope==='about-page'?t.info.aboutTitle:scope==='contacts-page'?t.info.contactsTitle:scope==='brands-page'?t.info.brandsPageTitle:t.info.notFoundTitle)+' | XPMED' : library ? d.library + ' | XPMED' : scope ? catalogDocumentTitle(scope, t) + ' | XPMED' : t.title;
-  const description = system ? `${system.name[lang]}. ${system.shortDescription[lang]||system.description[lang]||''}${repeatedName&&identifier?` · ${identifier}`:''}` : infoPage ? scope==='about-page'?t.info.aboutDescription:scope==='contacts-page'?t.info.contactsDescription:scope==='brands-page'?t.info.brandsPageDescription:t.info.notFoundDescription : library ? d.intro : scope ? `${catalogDocumentTitle(scope,t)}. ${catalogDescription(scope,t)}` : t.description;
+  const title = system ? systemTitle : academy ? t.academy.metaTitle : infoPage ? (scope==='about-page'?t.info.aboutTitle:scope==='contacts-page'?t.info.contactsTitle:scope==='brands-page'?t.info.brandsPageTitle:t.info.notFoundTitle)+' | XPMED' : library ? d.library + ' | XPMED' : scope ? catalogDocumentTitle(scope, t) + ' | XPMED' : t.title;
+  const description = system ? `${system.name[lang]}. ${system.shortDescription[lang]||system.description[lang]||''}${repeatedName&&identifier?` · ${identifier}`:''}` : academy ? t.academy.metaDescription : infoPage ? scope==='about-page'?t.info.aboutDescription:scope==='contacts-page'?t.info.contactsDescription:scope==='brands-page'?t.info.brandsPageDescription:t.info.notFoundDescription : library ? d.intro : scope ? `${catalogDocumentTitle(scope,t)}. ${catalogDescription(scope,t)}` : t.description;
   const navigationLabels = { ...labels, catalogs: d.library, new: t.catalog.newTitle };
   // discovery.js is always loaded below for the global search dialog, so the
   // library page must not ask for it a second time.
   // catalog.js drives the filter form, which only the catalog listings have.
   // It used to load on the info pages too and threw on every one of them.
-  const pageScript = system ? '/system.js' : library || infoPage ? null : scope ? '/catalog.js' : '/home.js';
+  const pageScript = system ? '/system.js' : academy ? '/academy.js' : library || infoPage ? null : scope ? '/catalog.js' : '/home.js';
   const link = (key, className = '') => `<a href="${escape(destination(key, lang))}"${className ? ` class="${className}"` : ''}>${escape(navigationLabels[key])}</a>`;
   const list = (keys) => `<ul class="link-list">${keys.map((key) => `<li>${link(key)}</li>`).join('')}</ul>`;
   const logo = (footer = false) => `<a class="logo${footer ? ' logo--footer' : ''}" href="${home}" aria-label="XPMED · ${escape(t.home)}"><span aria-hidden="true"></span></a>`;
@@ -97,7 +99,7 @@ export function render(lang, t, year, products, scope, otherLanguage, system = n
   <link rel="icon" href="/assets/favicon.png">
   <link rel="stylesheet" href="/styles.css">
   <link rel="stylesheet" href="/homepage.css">
-${system ? '  <link rel="stylesheet" href="/system.css">\n' : ''}${scope && !infoPage ? '  <link rel="stylesheet" href="/catalog.css">\n' : ''}  <script type="module" src="/client.js"></script>
+${system ? '  <link rel="stylesheet" href="/system.css">\n' : ''}${academy ? '  <link rel="stylesheet" href="/academy.css">\n' : ''}${scope && !infoPage && !academy ? '  <link rel="stylesheet" href="/catalog.css">\n' : ''}  <script type="module" src="/client.js"></script>
 ${pageScript ? `  <script type="module" src="${pageScript}"></script>\n` : ''}  <link rel="stylesheet" href="/discovery.css">
   <script type="module" src="/discovery.js"></script>
 </head>
@@ -116,6 +118,7 @@ ${pageScript ? `  <script type="module" src="${pageScript}"></script>\n` : ''}  
         </div>
         <nav class="desktop-nav" aria-label="${escape(t.primaryNav)}">
           ${desktopNav}
+          <a class="nav-trigger" href="${escape(destination('academy',lang))}">${escape(labels.academy)}</a>
           <a class="nav-trigger" href="${escape(destination('contacts',lang))}">${escape(labels.contacts)}</a>
         </nav>
       </div>
@@ -123,8 +126,8 @@ ${pageScript ? `  <script type="module" src="${pageScript}"></script>\n` : ''}  
     </div>
   </header>
 
-  <main id="main" class="${scope ? 'catalog-page' : 'homepage'}" tabindex="-1">
-    ${system ? renderSystem(system, lang) : infoPage ? renderInfoPage(lang,t,products,scope,siteData) : library ? renderLibrary(lang,t,siteData.catalogs||[]) : scope ? renderCatalog(lang, t, scope, products, otherLanguage) : renderHomepage(lang, t, products)}
+  <main id="main" class="${academy ? 'academy-page' : scope ? 'catalog-page' : 'homepage'}" tabindex="-1">
+    ${system ? renderSystem(system, lang) : academy ? renderAcademyPage(lang, t) : infoPage ? renderInfoPage(lang,t,products,scope,siteData) : library ? renderLibrary(lang,t,siteData.catalogs||[]) : scope ? renderCatalog(lang, t, scope, products, otherLanguage) : renderHomepage(lang, t, products)}
   </main>
 
   <footer class="site-footer">
@@ -162,6 +165,7 @@ ${pageScript ? `  <script type="module" src="${pageScript}"></script>\n` : ''}  
     </div>
     <nav class="mobile-nav container" aria-label="${escape(t.primaryNav)}">
       ${mobileNav}
+      <a class="mobile-nav__link" href="${escape(destination('academy',lang))}">${escape(labels.academy)}${icon('arrow')}</a>
       <a class="mobile-nav__link" href="${escape(destination('contacts',lang))}">${escape(labels.contacts)}${icon('arrow')}</a>
       ${contactButton()}
     </nav>

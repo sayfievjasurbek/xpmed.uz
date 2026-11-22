@@ -15,6 +15,8 @@ import ru from './src/i18n/ru.mjs';
 import en from './src/i18n/en.mjs';
 import {areaKeys,clinicalAreas,parseTaxonomyScope} from './src/clinical-taxonomy.mjs';
 import {legacyCategoryAreas} from './src/catalog-engine.js';
+import {existsSync} from 'node:fs';
+import {ACADEMY_IMAGES} from './src/academy-media.mjs';
 
 // The public/catalogs/<brand>/<name>/source.pdf copies are byte-identical to the
 // originals in catalogs-source/, so only the originals are in version control.
@@ -148,14 +150,14 @@ await writeFile(new URL('search-index.json', output), JSON.stringify(discovery.s
 const pages = Object.entries(translations).flatMap(([lang, t]) => {
   const alternate = lang === 'ru' ? 'en' : 'ru';
   const otherLanguage = { lang: alternate, t: translations[alternate] };
-  return [null, ...Object.keys(catalogSlugs), ...taxonomyScopes, 'library', 'about-page', 'contacts-page', 'brands-page', 'not-found'].map(async (scope) => {
-    const route = scope === 'about-page' ? homeRoute(lang)+'about/' : scope === 'contacts-page' ? homeRoute(lang)+'contacts/' : scope === 'brands-page' ? homeRoute(lang)+'brands/' : scope === 'not-found' ? homeRoute(lang)+'404/' : scope === 'library' ? homeRoute(lang) + 'catalogs/' : scope ? catalogRoute(lang, scope) : homeRoute(lang);
+  return [null, ...Object.keys(catalogSlugs), ...taxonomyScopes, 'library', 'about-page', 'contacts-page', 'brands-page', 'academy-page', 'not-found'].map(async (scope) => {
+    const route = scope === 'academy-page' ? homeRoute(lang)+'academy/' : scope === 'about-page' ? homeRoute(lang)+'about/' : scope === 'contacts-page' ? homeRoute(lang)+'contacts/' : scope === 'brands-page' ? homeRoute(lang)+'brands/' : scope === 'not-found' ? homeRoute(lang)+'404/' : scope === 'library' ? homeRoute(lang) + 'catalogs/' : scope ? catalogRoute(lang, scope) : homeRoute(lang);
     const directory = new URL('.' + route, output);
     await mkdir(directory, { recursive: true });
     await writeFile(new URL('index.html', directory), render(lang, t, year, products, scope, otherLanguage, null, siteData));
     // Only catalog listings have a tile grid, and only those with more than one
     // page of products need the rest of the tiles as a separate fragment.
-    if(scope && !['library','about-page','contacts-page','brands-page','not-found'].includes(scope)){
+    if(scope && !['library','about-page','contacts-page','brands-page','academy-page','not-found'].includes(scope)){
       const scoped=products.filter(product=>filterScope(scope,product));
       const rest=renderCatalogTileArray(lang,t,scoped,otherLanguage).slice(24);
       if(rest.length)await writeFile(new URL('catalog-products.html',directory),rest.join(''));
@@ -165,9 +167,12 @@ const pages = Object.entries(translations).flatMap(([lang, t]) => {
 
 await Promise.all([
   ...pages,
-  ...['styles.css', 'homepage.css', 'catalog.css', 'home.js', 'catalog.js', 'client.js', 'system.css', 'system.js', 'catalog-selection.js', 'catalog-engine.js', 'discovery.css', 'discovery.js', 'pdf-viewer.js']
+  ...['styles.css', 'homepage.css', 'catalog.css', 'home.js', 'catalog.js', 'client.js', 'system.css', 'system.js', 'catalog-selection.js', 'catalog-engine.js', 'discovery.css', 'discovery.js', 'pdf-viewer.js', 'academy.css', 'academy.js']
     .map((file) => copyFile(new URL(file, source), new URL(file, output))),
   cp(new URL('./public/images/brands/', import.meta.url), new URL('images/brands/', output), { recursive: true }),
+  // Academy photographs and club logos, once content/academy/ has been
+  // prepared; the page falls back to XPMED's own photographs until then.
+  existsSync(ACADEMY_IMAGES) ? cp(ACADEMY_IMAGES, new URL('images/academy/', output), { recursive: true }) : null,
   cp(new URL('assets/', source), new URL('assets/', output), { recursive: true }),
 ]);
 
@@ -205,7 +210,7 @@ const routes = new Set();
 for (const lang of ['ru','en']) {
   routes.add(homeRoute(lang));
   for (const scope of Object.keys(catalogSlugs)) routes.add(catalogRoute(lang,scope));
-  for (const extra of ['catalogs/','about/','contacts/','brands/']) routes.add(homeRoute(lang)+extra);
+  for (const extra of ['catalogs/','about/','contacts/','brands/','academy/']) routes.add(homeRoute(lang)+extra);
   for(const scope of taxonomyScopes)routes.add(catalogRoute(lang,scope));
   for (const system of systems) routes.add(systemRoute(system,lang));
 }

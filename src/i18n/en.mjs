@@ -1,10 +1,12 @@
 import catalog from './catalog-en.mjs';
 import homepage from './home-en.mjs';
 import info from './info-en.mjs';
+import academy from './academy-en.mjs';
 
 export default {
   homepage,
   info,
+  academy,
   catalog,
   utilityPartners: 'For partners',
   utilitySales: 'Contact sales',
@@ -43,6 +45,7 @@ export default {
     products: 'Products',
     specialties: 'Specialties',
     about: 'About',
+    academy: 'Academy',
     contacts: 'Contacts',
     double: 'Double Medical Technology',
     conmed: 'CONMED',

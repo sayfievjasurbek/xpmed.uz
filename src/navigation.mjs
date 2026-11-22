@@ -45,6 +45,7 @@ export function destination(key, lang) {
   if (key === 'certificates' || key === 'clients') return homeRoute(lang) + 'about/#' + key;
   if (key === 'partners') return homeRoute(lang) + 'contacts/#partnership';
   if (key === 'company') return homeRoute(lang) + 'about/';
+  if (key === 'academy') return homeRoute(lang) + 'academy/';
   return homeRoute(lang) + 'contacts/';
 }
 
@@ -54,7 +55,7 @@ export const brands = {
   synimed: ['cement', 'needles'],
 };
 
-export const about = ['company', 'certificates', 'clients', 'partners'];
+export const about = ['company', 'academy', 'certificates', 'clients', 'partners'];
 
 export const contact = {
   phones: [
